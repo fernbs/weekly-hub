@@ -1,0 +1,722 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hub · Madrid</title>
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#05080f">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Hub Madrid">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Barlow:wght@300;400;600;700&family=Barlow+Condensed:wght@400;600;700&family=JetBrains+Mono:wght@400;600&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+  <style>
+  /* ════════════════════════════════════════════════════════
+     HUB SHELL — Cold steel. Totally distinct from all tabs.
+     Palette: near-black #05080f · steel-blue accent #38bdf8
+     Font: Barlow Condensed for all chrome
+  ════════════════════════════════════════════════════════ */
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; }
+
+  body {
+    background: #05080f;
+    color: #e2e8f0;
+    font-family: 'Barlow', sans-serif;
+    min-height: 100vh;
+  }
+
+  /* Hub header */
+  .hub-header {
+    background: #05080f;
+    border-bottom: 1px solid #0f1929;
+    padding: 0;
+    position: sticky; top: 0; z-index: 200;
+    box-shadow: 0 1px 0 #0f1929, 0 4px 20px rgba(0,0,0,0.6);
+  }
+  .hub-top {
+    display: flex; align-items: center; gap: 14px;
+    padding: 14px 20px 0;
+  }
+  .hub-wordmark {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 700; font-size: 13px; letter-spacing: 4px;
+    text-transform: uppercase; color: #38bdf8;
+  }
+  .hub-dot { color: #1e3a52; }
+  .hub-city {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 400; font-size: 13px; letter-spacing: 4px;
+    text-transform: uppercase; color: #334155;
+  }
+  .hub-updated {
+    margin-left: auto;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px; color: #1e3a52; letter-spacing: 0.5px;
+  }
+
+  /* Hub tabs */
+  .hub-tabs { display: flex; padding: 0 12px; }
+  .hub-tab {
+    padding: 10px 16px; border: none; background: transparent;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 12px; font-weight: 700; letter-spacing: 2px;
+    text-transform: uppercase; cursor: pointer;
+    color: #334155;
+    border-bottom: 2px solid transparent;
+    transition: color 0.15s, border-color 0.15s;
+    position: relative; bottom: -1px;
+  }
+  .hub-tab:hover { color: #64748b; }
+  .hub-tab.active { color: #e2e8f0; border-bottom-color: #38bdf8; }
+  .hub-tab-count {
+    display: inline-block; font-size: 9px; padding: 1px 5px;
+    border-radius: 8px; margin-left: 6px;
+    background: #0d1829; color: #334155;
+    font-family: 'JetBrains Mono', monospace;
+  }
+  .hub-tab.active .hub-tab-count { background: #0c2233; color: #38bdf8; }
+
+  /* Tab panels */
+  .tab-panel { display: none; }
+  .tab-panel.active { display: block; }
+
+  /* State boxes (shared) */
+  .state-box { text-align: center; padding: 80px 20px; }
+  .state-icon { font-size: 36px; margin-bottom: 12px; }
+  .state-title {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 14px; letter-spacing: 1.5px; text-transform: uppercase;
+    color: #475569; margin-bottom: 6px;
+  }
+  .state-sub { font-size: 11px; color: #1e3a52; }
+
+  /* Shared escape helper */
+  /* ────────────────────────────────────────────────────────
+     CONCERTS — Exact email design
+     bg #0d1117, crimson, amber JetBrains Mono, images
+  ──────────────────────────────────────────────────────── */
+  #tab-concerts {
+    background: #0d1117;
+    min-height: calc(100vh - 80px);
+  }
+
+  .concerts-header {
+    background: linear-gradient(160deg, #1a1f2e 0%, #232b3e 60%, #2c1810 100%);
+    padding: 24px 20px 20px;
+    text-align: center;
+    border-bottom: 2px solid #c0392b;
+  }
+  .concerts-header-icon { font-size: 32px; line-height: 1; margin-bottom: 8px; }
+  .concerts-header-title {
+    font-family: 'Bebas Neue', sans-serif; font-size: 20px;
+    letter-spacing: 3px; color: #e2e8f0;
+  }
+  .concerts-header-sub { font-size: 11px; color: #64748b; margin-top: 4px; letter-spacing: 1px; }
+
+  .concerts-stats {
+    background: #131924; border-bottom: 1px solid #21293a;
+    padding: 10px 20px; display: flex; justify-content: center;
+  }
+  .c-stat { text-align: center; padding: 0 20px; border-right: 1px solid #21293a; }
+  .c-stat:last-child { border-right: none; }
+  .c-stat-val { font-family: 'Bebas Neue', sans-serif; font-size: 22px; color: #e2e8f0; line-height: 1; }
+  .c-stat-lbl { font-size: 9px; color: #4b5563; text-transform: uppercase; letter-spacing: 0.6px; margin-top: 2px; }
+
+  .concerts-container { max-width: 960px; margin: 0 auto; padding: 20px 16px 48px; }
+
+  .c-table { width: 100%; border-collapse: collapse; }
+  .c-table th {
+    background: #131924; padding: 9px 12px;
+    font-size: 9px; font-weight: 700; color: #374151;
+    text-transform: uppercase; letter-spacing: 1px;
+    text-align: left; border-bottom: 1px solid #c0392b;
+  }
+  .c-table tbody tr { border-bottom: 1px solid #252f42; }
+  .c-table tbody tr:hover td { background: #1e293b !important; }
+  .c-img-cell { padding: 8px 8px 8px 10px; width: 81px; vertical-align: middle; }
+  .c-artist-cell { padding: 10px 12px; vertical-align: top; }
+  .c-date-cell {
+    padding: 10px; width: 165px; vertical-align: top;
+    color: #f59e0b; font-size: 12px; white-space: nowrap;
+    font-family: 'JetBrains Mono', monospace;
+  }
+  .c-venue-cell { padding: 10px; color: #94a3b8; font-size: 12px; vertical-align: top; }
+  .c-artist-name { font-weight: 700; font-size: 13px; color: #e2e8f0; text-decoration: none; }
+  .c-artist-name:hover { color: #f87171; }
+  .c-support { font-size: 11px; color: #94a3b8; margin-top: 3px; }
+  .c-genre { margin-top: 5px; }
+  .c-genre-badge {
+    display: inline-block; font-size: 9px; font-weight: 700;
+    color: #a78bfa; background: #1e1030; border: 1px solid #4c1d95;
+    border-radius: 3px; padding: 2px 6px; letter-spacing: 0.6px; text-transform: uppercase;
+  }
+  .c-notes { font-size: 11px; color: #f59e0b; font-weight: 600; margin-top: 4px; }
+  .c-addr { font-size: 11px; color: #374151; margin-top: 2px; }
+
+  /* ────────────────────────────────────────────────────────
+     PLANS — Deep purple leisure. Guide palette.
+     bg #0f0b1e, purple #7c3aed, 3 colored sections
+  ──────────────────────────────────────────────────────── */
+  #tab-plans {
+    background: #0f0b1e;
+    min-height: calc(100vh - 80px);
+  }
+
+  .plans-header {
+    background: linear-gradient(135deg, #1e0a3c 0%, #2d1660 50%, #3b1f7a 100%);
+    padding: 24px 20px 20px; text-align: center;
+    border-bottom: 2px solid #7c3aed;
+  }
+  .plans-header-icon { font-size: 32px; margin-bottom: 8px; }
+  .plans-header-title {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 20px; font-weight: 700; letter-spacing: 3px;
+    text-transform: uppercase; color: #e2e8f0;
+  }
+  .plans-header-sub { font-size: 11px; color: #6d28d9; margin-top: 4px; letter-spacing: 1px; }
+
+  .plans-toc {
+    background: #0c0818; border-bottom: 1px solid #1e1040;
+    padding: 10px 20px; display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;
+  }
+  .plans-toc-btn {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 10px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase;
+    padding: 5px 12px; border-radius: 4px; border: 1px solid;
+    text-decoration: none; cursor: pointer; background: transparent;
+    transition: background 0.15s;
+  }
+  .plans-toc-new   { color: #10b981; border-color: #065f46; }
+  .plans-toc-new:hover { background: #064e3b; }
+  .plans-toc-end   { color: #f97316; border-color: #7c2d12; }
+  .plans-toc-end:hover { background: #431407; }
+  .plans-toc-act   { color: #818cf8; border-color: #312e81; }
+  .plans-toc-act:hover { background: #1e1b4b; }
+
+  .plans-container { max-width: 1040px; margin: 0 auto; padding: 16px 16px 48px; }
+
+  .plans-section { margin-bottom: 32px; }
+  .plans-section-header {
+    display: flex; align-items: center; gap: 10px;
+    padding: 14px 0 12px; border-bottom: 1px solid #1e1040; margin-bottom: 14px;
+  }
+  .plans-section-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+  .plans-section-label {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 11px; font-weight: 700; letter-spacing: 2.5px; text-transform: uppercase;
+  }
+  .plans-section-count {
+    font-size: 11px; color: #4b3d6e;
+    font-family: 'JetBrains Mono', monospace; margin-left: auto;
+  }
+
+  .plans-section-new    .plans-section-dot  { background: #10b981; }
+  .plans-section-new    .plans-section-label { color: #10b981; }
+  .plans-section-end    .plans-section-dot  { background: #f97316; }
+  .plans-section-end    .plans-section-label { color: #f97316; }
+  .plans-section-active .plans-section-dot  { background: #818cf8; }
+  .plans-section-active .plans-section-label { color: #818cf8; }
+
+  .plans-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 12px; }
+
+  .plan-card {
+    background: #160d2e; border: 1px solid #2e1f58;
+    border-radius: 8px; overflow: hidden;
+    display: flex; flex-direction: column;
+    transition: border-color 0.15s;
+  }
+  .plan-card:hover { border-color: #4c3182; }
+  .plan-card-new    { border-left: 3px solid #10b981; }
+  .plan-card-end    { border-left: 3px solid #f97316; }
+  .plan-card-active { border-left: 3px solid #818cf8; }
+
+  .plan-img { width: 100%; height: 128px; object-fit: cover; display: block; }
+  .plan-placeholder { width: 100%; height: 128px; background: #0c0818; display: flex; align-items: center; justify-content: center; font-size: 32px; }
+  .plan-body { padding: 12px; flex: 1; }
+
+  .plan-category {
+    display: inline-flex; align-items: center; gap: 4px;
+    font-size: 9px; font-weight: 700; letter-spacing: 0.6px; text-transform: uppercase;
+    padding: 2px 7px; border-radius: 3px; margin-bottom: 8px;
+    border: 1px solid;
+  }
+  /* Category colors matching guide */
+  .cat-exposicion { color: #c084fc; background: #2e1065; border-color: #7e22ce; }
+  .cat-teatro     { color: #f9a8d4; background: #4a0020; border-color: #9d174d; }
+  .cat-cine       { color: #fde68a; background: #451a03; border-color: #92400e; }
+  .cat-taller     { color: #6ee7b7; background: #022c22; border-color: #065f46; }
+  .cat-experiencia{ color: #7dd3fc; background: #082f49; border-color: #0369a1; }
+  .cat-festival   { color: #fdba74; background: #431407; border-color: #c2410c; }
+  .cat-ruta       { color: #86efac; background: #052e16; border-color: #166534; }
+  .cat-mercado    { color: #fca5a5; background: #450a0a; border-color: #991b1b; }
+  .cat-evento     { color: #e2e8f0; background: #1e293b; border-color: #334155; }
+
+  .plan-title {
+    font-weight: 700; font-size: 13px; color: #e2e8f0;
+    display: block; margin-bottom: 5px; line-height: 1.35; text-decoration: none;
+  }
+  .plan-title:hover { color: #c084fc; }
+  .plan-meta {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px; color: #4b3d6e; margin-bottom: 8px; line-height: 1.5;
+  }
+  .plan-meta-end { color: #c2410c; }
+  .plan-bullets { list-style: none; }
+  .plan-bullets li {
+    font-size: 11px; color: #94a3b8; padding: 2px 0 2px 14px;
+    position: relative; line-height: 1.4;
+  }
+  .plan-bullets li::before { content: '›'; position: absolute; left: 0; color: #7c3aed; font-weight: 900; font-size: 13px; line-height: 1.2; }
+
+  /* ────────────────────────────────────────────────────────
+     NEWS — Editorial navy. Guide palette.
+     bg #0a1628, red #c0392b, Libre Baskerville titles
+     EN badge #1a6eb5, ES badge #c0392b
+  ──────────────────────────────────────────────────────── */
+  #tab-news {
+    background: #0a1628;
+    min-height: calc(100vh - 80px);
+  }
+
+  .news-header {
+    background: linear-gradient(160deg, #0d1f3c 0%, #122040 60%, #1c0a08 100%);
+    padding: 24px 20px 20px; text-align: center;
+    border-bottom: 2px solid #c0392b;
+  }
+  .news-header-icon { font-size: 32px; margin-bottom: 8px; }
+  .news-header-title {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 20px; font-weight: 700; letter-spacing: 3px;
+    text-transform: uppercase; color: #e2e8f0;
+  }
+  .news-header-sub { font-size: 11px; color: #374151; margin-top: 4px; letter-spacing: 1px; }
+
+  .news-container { max-width: 860px; margin: 0 auto; padding: 20px 16px 48px; }
+
+  .news-divider {
+    display: flex; align-items: center; gap: 12px;
+    margin-bottom: 16px; padding-bottom: 8px;
+    border-bottom: 1px solid #132040;
+  }
+  .news-divider-label {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 9px; font-weight: 700; letter-spacing: 2px;
+    text-transform: uppercase; color: #1d3557; white-space: nowrap;
+  }
+  .news-divider-count {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px; color: #1d3557; margin-left: auto;
+  }
+
+  .news-list { display: flex; flex-direction: column; gap: 1px; }
+
+  .news-article {
+    background: #0d1e35;
+    border-left: 3px solid #1d3557;
+    display: grid; grid-template-columns: 100px 1fr;
+    transition: border-left-color 0.15s;
+  }
+  .news-article:hover { border-left-color: #c0392b; background: #0f2240; }
+  .news-article:first-child { border-radius: 6px 6px 0 0; }
+  .news-article:last-child { border-radius: 0 0 6px 6px; }
+
+  .news-img { width: 100px; height: 100%; min-height: 88px; object-fit: cover; display: block; }
+  .news-placeholder { width: 100px; min-height: 88px; background: #071422; display: flex; align-items: center; justify-content: center; color: #1d3557; font-size: 22px; }
+
+  .news-body { padding: 10px 14px; display: flex; flex-direction: column; gap: 0; }
+
+  .news-meta { display: flex; align-items: center; gap: 6px; margin-bottom: 5px; flex-wrap: wrap; }
+  .news-num {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 9px; color: #c0392b; font-weight: 600;
+  }
+  .news-source {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 10px; font-weight: 700; letter-spacing: 1.5px;
+    text-transform: uppercase; color: #475569;
+  }
+  .news-lang-en {
+    font-size: 8px; font-weight: 700; padding: 1px 5px; border-radius: 2px;
+    color: #fff; background: #1a6eb5; letter-spacing: 0.5px;
+  }
+  .news-lang-es {
+    font-size: 8px; font-weight: 700; padding: 1px 5px; border-radius: 2px;
+    color: #fff; background: #c0392b; letter-spacing: 0.5px;
+  }
+
+  .news-title {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 13px; font-weight: 700; color: #cbd5e1;
+    display: block; margin-bottom: 7px; line-height: 1.4; text-decoration: none;
+  }
+  .news-title:hover { color: #e2e8f0; }
+
+  .news-summary { display: flex; flex-direction: column; gap: 3px; }
+  .news-row { font-size: 11px; color: #475569; line-height: 1.45; }
+  .news-row-label { color: #334155; font-weight: 700; margin-right: 3px; }
+
+  /* ════════════════════════════════════════════════════════
+     RESPONSIVE
+  ════════════════════════════════════════════════════════ */
+  @media (max-width: 620px) {
+    /* Concerts: hide venue column */
+    .c-table th:nth-child(4), .c-table td.c-venue-cell { display: none; }
+    /* Plans: single column */
+    .plans-grid { grid-template-columns: 1fr; }
+    /* News: narrower image */
+    .news-article { grid-template-columns: 72px 1fr; }
+    .news-img, .news-placeholder { width: 72px; }
+    /* Hub */
+    .hub-updated { display: none; }
+    .hub-tab { padding: 10px 10px; font-size: 11px; letter-spacing: 1px; }
+  }
+  </style>
+</head>
+<body>
+
+<!-- ══════════════════════════════════════════════
+     HUB SHELL
+══════════════════════════════════════════════ -->
+<header class="hub-header">
+  <div class="hub-top">
+    <div>
+      <span class="hub-wordmark">Hub</span>
+      <span class="hub-dot"> · </span>
+      <span class="hub-city">Madrid</span>
+    </div>
+    <div class="hub-updated" id="hub-updated"></div>
+  </div>
+  <nav class="hub-tabs">
+    <button class="hub-tab active" data-tab="concerts" onclick="switchTab('concerts')">
+      Conciertos <span class="hub-tab-count" id="cnt-concerts">—</span>
+    </button>
+    <button class="hub-tab" data-tab="plans" onclick="switchTab('plans')">
+      Planes <span class="hub-tab-count" id="cnt-plans">—</span>
+    </button>
+    <button class="hub-tab" data-tab="news" onclick="switchTab('news')">
+      Noticias <span class="hub-tab-count" id="cnt-news">—</span>
+    </button>
+  </nav>
+</header>
+
+
+<!-- ══════════════════════════════════════════════
+     CONCERTS TAB
+══════════════════════════════════════════════ -->
+<div class="tab-panel active" id="tab-concerts">
+  <div class="concerts-header">
+    <div class="concerts-header-icon">🤘</div>
+    <div class="concerts-header-title">Conciertos Metal &amp; Rock · Madrid</div>
+    <div class="concerts-header-sub" id="concerts-range">—</div>
+  </div>
+  <div class="concerts-stats" id="concerts-stats" style="display:none;">
+    <div class="c-stat"><div class="c-stat-val" id="c-total">—</div><div class="c-stat-lbl">Conciertos</div></div>
+    <div class="c-stat"><div class="c-stat-val">21</div><div class="c-stat-lbl">Fuentes</div></div>
+    <div class="c-stat"><div class="c-stat-val">56</div><div class="c-stat-lbl">Días vista</div></div>
+  </div>
+  <div class="concerts-container">
+    <div id="concerts-body">
+      <div class="state-box"><div class="state-icon">⏳</div><div class="state-title">Cargando conciertos</div></div>
+    </div>
+  </div>
+</div>
+
+
+<!-- ══════════════════════════════════════════════
+     PLANS TAB
+══════════════════════════════════════════════ -->
+<div class="tab-panel" id="tab-plans">
+  <div class="plans-header">
+    <div class="plans-header-icon">🎭</div>
+    <div class="plans-header-title">Planes en Madrid</div>
+    <div class="plans-header-sub" id="plans-sub">Ocio adulto · próximas 4 semanas</div>
+  </div>
+  <div class="plans-toc" id="plans-toc" style="display:none;">
+    <a href="#sec-new" class="plans-toc-btn plans-toc-new">Novedades</a>
+    <a href="#sec-end" class="plans-toc-btn plans-toc-end">Acaban pronto</a>
+    <a href="#sec-act" class="plans-toc-btn plans-toc-act">Siguen activos</a>
+  </div>
+  <div class="plans-container">
+    <div id="plans-body">
+      <div class="state-box"><div class="state-icon">⏳</div><div class="state-title">Cargando planes</div></div>
+    </div>
+  </div>
+</div>
+
+
+<!-- ══════════════════════════════════════════════
+     NEWS TAB
+══════════════════════════════════════════════ -->
+<div class="tab-panel" id="tab-news">
+  <div class="news-header">
+    <div class="news-header-icon">📰</div>
+    <div class="news-header-title">Noticias del día</div>
+    <div class="news-header-sub" id="news-sub">Resúmenes diarios · IA</div>
+  </div>
+  <div class="news-container">
+    <div id="news-body">
+      <div class="state-box"><div class="state-icon">⏳</div><div class="state-title">Cargando noticias</div></div>
+    </div>
+  </div>
+</div>
+
+
+<script>
+// ── Helpers ───────────────────────────────────────────────────
+const esc = s => String(s||'')
+  .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+
+function noData(icon, msg) {
+  return `<div class="state-box">
+    <div class="state-icon">${icon}</div>
+    <div class="state-title">${msg}</div>
+    <div class="state-sub">Los datos aparecerán tras la primera ejecución automática</div>
+  </div>`;
+}
+
+function initials(name, w, h) {
+  const words = (name||'').split(/\s+/).filter(w => /[a-zA-Z]/.test(w[0]||''));
+  const i = (words.length >= 2 ? words[0][0]+words[1][0] : (words[0]||'?').slice(0,2)).toUpperCase();
+  return `<div style="width:${w}px;height:${h}px;border-radius:6px;background:#1f2937;
+    border:1px solid #374151;display:flex;align-items:center;justify-content:center;
+    font-weight:700;font-size:${Math.round(Math.min(w,h)*0.3)}px;color:#6b7280;">${i}</div>`;
+}
+
+function artistImg(url, name) {
+  if (!url) return initials(name, 65, 65);
+  return `<img src="${esc(url)}" width="65" height="65"
+    style="border-radius:6px;display:block;object-fit:cover;border:1px solid #2d3a50;"
+    onerror="this.outerHTML='${initials(name,65,65).replace(/'/g,"\\'")}'">`;
+}
+
+// ── Tab switching ─────────────────────────────────────────────
+function switchTab(name) {
+  document.querySelectorAll('.tab-panel').forEach(el => el.classList.remove('active'));
+  document.querySelectorAll('.hub-tab').forEach(el => el.classList.remove('active'));
+  document.getElementById('tab-' + name).classList.add('active');
+  document.querySelector(`[data-tab="${name}"]`).classList.add('active');
+}
+
+// ══════════════════════════════════════════════════════════════
+// CONCERTS
+// ══════════════════════════════════════════════════════════════
+async function loadConcerts() {
+  try {
+    const res = await fetch('./data/concerts.json?t=' + Date.now());
+    if (!res.ok) throw new Error();
+    renderConcerts(await res.json());
+  } catch {
+    document.getElementById('concerts-body').innerHTML = noData('📭','Sin conciertos todavía');
+  }
+}
+
+function renderConcerts(data) {
+  const list = data.concerts || [];
+  document.getElementById('cnt-concerts').textContent = list.length;
+  document.getElementById('c-total').textContent = list.length;
+  document.getElementById('concerts-stats').style.display = 'flex';
+
+  if (data.from_date && data.to_date) {
+    document.getElementById('concerts-range').textContent =
+      data.from_date + ' → ' + data.to_date + ' · ' + list.length + ' shows';
+  }
+  if (data.generated) {
+    const d = new Date(data.generated);
+    document.getElementById('hub-updated').textContent =
+      'act. ' + d.toLocaleDateString('es-ES',{day:'2-digit',month:'2-digit'});
+  }
+
+  if (!list.length) {
+    document.getElementById('concerts-body').innerHTML = noData('🤘','No hay conciertos próximos');
+    return;
+  }
+
+  const rows = list.map((c, i) => {
+    const img = artistImg(c.image_url, c.artist);
+    const name = c.buy_link
+      ? `<a href="${esc(c.buy_link)}" target="_blank" class="c-artist-name">${esc(c.artist)}</a>`
+      : `<span class="c-artist-name">${esc(c.artist)}</span>`;
+    const support = (c.lineup && c.lineup !== c.artist)
+      ? `<div class="c-support">${esc(c.lineup)}</div>` : '';
+    const genre  = c.genre  ? `<div class="c-genre"><span class="c-genre-badge">${esc(c.genre)}</span></div>` : '';
+    const notes  = c.notes  ? `<div class="c-notes">⚠ ${esc(c.notes)}</div>` : '';
+    const addr   = c.address? `<div class="c-addr">${esc(c.address)}</div>` : '';
+    const bg = i % 2 === 0 ? '#161d2c' : '#1c2333';
+    return `<tr style="background:${bg};">
+      <td class="c-img-cell">${img}</td>
+      <td class="c-artist-cell">${name}${support}${genre}${notes}</td>
+      <td class="c-date-cell">${esc(c.date_str)}</td>
+      <td class="c-venue-cell">${esc(c.venue)}${addr}</td>
+    </tr>`;
+  }).join('');
+
+  document.getElementById('concerts-body').innerHTML = `
+    <table class="c-table">
+      <thead><tr>
+        <th style="width:81px;"></th>
+        <th>Artista / Cartel</th>
+        <th style="width:165px;">Fecha</th>
+        <th>Sala</th>
+      </tr></thead>
+      <tbody>${rows}</tbody>
+    </table>`;
+}
+
+// ══════════════════════════════════════════════════════════════
+// PLANS
+// ══════════════════════════════════════════════════════════════
+const CAT_CLASS = {
+  'exposición':'cat-exposicion','exposicion':'cat-exposicion',
+  'teatro':'cat-teatro','cine':'cat-cine','taller':'cat-taller',
+  'experiencia':'cat-experiencia','festival':'cat-festival',
+  'ruta':'cat-ruta','mercado':'cat-mercado','evento':'cat-evento',
+};
+const CAT_EMOJI = {
+  'exposición':'🖼','exposicion':'🖼','teatro':'🎭','cine':'🎬',
+  'taller':'🔧','experiencia':'✨','festival':'🎪','ruta':'🗺',
+  'mercado':'🛍','evento':'📅',
+};
+
+async function loadPlans() {
+  try {
+    const res = await fetch('./data/plans.json?t=' + Date.now());
+    if (!res.ok) throw new Error();
+    renderPlans(await res.json());
+  } catch {
+    document.getElementById('plans-body').innerHTML = noData('📭','Sin planes todavía');
+  }
+}
+
+function planCard(e, section) {
+  const img = e.image_url
+    ? `<img class="plan-img" src="${esc(e.image_url)}" alt="" onerror="this.style.display='none'">`
+    : `<div class="plan-placeholder">🎭</div>`;
+  const title = e.url
+    ? `<a class="plan-title" href="${esc(e.url)}" target="_blank">${esc(e.title)}</a>`
+    : `<span class="plan-title">${esc(e.title)}</span>`;
+  const catKey = (e.category||'').toLowerCase();
+  const catClass = CAT_CLASS[catKey] || 'cat-evento';
+  const catEmoji = CAT_EMOJI[catKey] || '📅';
+  const cat = e.category
+    ? `<span class="plan-category ${catClass}">${catEmoji} ${esc(e.category)}</span>` : '';
+  const dates = e.date_end
+    ? `<span class="${section==='ending_soon'?'plan-meta-end':''}">${esc(e.date_start||'')}${e.date_end?' → '+esc(e.date_end):''}</span>`
+    : (e.date_start ? esc(e.date_start) : '');
+  const venue = e.venue ? esc(e.venue) : '';
+  const metaParts = [dates, venue].filter(Boolean);
+  const meta = metaParts.length ? `<div class="plan-meta">${metaParts.join(' · ')}</div>` : '';
+  const bullets = (e.bullets||[]).slice(0,3).map(b=>`<li>${esc(b)}</li>`).join('');
+  const cls = section==='new'?'plan-card-new':section==='ending_soon'?'plan-card-end':'plan-card-active';
+  return `<div class="plan-card ${cls}">${img}<div class="plan-body">${cat}${title}${meta}<ul class="plan-bullets">${bullets}</ul></div></div>`;
+}
+
+function plansSection(id, label, cls, events, section) {
+  if (!events || !events.length) return '';
+  const cards = events.map(e => planCard(e, section)).join('');
+  return `<div class="plans-section plans-section-${cls}" id="${id}">
+    <div class="plans-section-header">
+      <span class="plans-section-dot"></span>
+      <span class="plans-section-label">${label}</span>
+      <span class="plans-section-count">${events.length} eventos</span>
+    </div>
+    <div class="plans-grid">${cards}</div>
+  </div>`;
+}
+
+function renderPlans(data) {
+  const total = (data.new||[]).length + (data.ending_soon||[]).length + (data.ongoing||[]).length;
+  document.getElementById('cnt-plans').textContent = total;
+  if (total) document.getElementById('plans-toc').style.display = 'flex';
+  const html =
+    plansSection('sec-new','Novedades de la semana','new', data.new,'new') +
+    plansSection('sec-end','Acaban pronto','end', data.ending_soon,'ending_soon') +
+    plansSection('sec-act','Siguen activos','active', data.ongoing,'ongoing');
+  document.getElementById('plans-body').innerHTML = html || noData('📭','Sin planes próximos');
+}
+
+// ══════════════════════════════════════════════════════════════
+// NEWS
+// ══════════════════════════════════════════════════════════════
+async function loadNews() {
+  try {
+    const res = await fetch('./data/news.json?t=' + Date.now());
+    if (!res.ok) throw new Error();
+    renderNews(await res.json());
+  } catch {
+    document.getElementById('news-body').innerHTML = noData('📭','Sin noticias todavía');
+  }
+}
+
+function renderNews(data) {
+  const articles = data.articles || [];
+  document.getElementById('cnt-news').textContent = articles.length;
+
+  if (data.generated) {
+    const d = new Date(data.generated);
+    document.getElementById('news-sub').textContent =
+      d.toLocaleDateString('es-ES',{weekday:'long',day:'numeric',month:'long'}) + ' · IA';
+  }
+
+  if (!articles.length) {
+    document.getElementById('news-body').innerHTML = noData('📰','Sin artículos todavía');
+    return;
+  }
+
+  const cards = articles.map((a, i) => {
+    const img = a.image
+      ? `<img class="news-img" src="${esc(a.image)}" alt="" onerror="this.style.display='none'">`
+      : `<div class="news-placeholder">📰</div>`;
+    const title = a.url
+      ? `<a class="news-title" href="${esc(a.url)}" target="_blank">${esc(a.title)}</a>`
+      : `<span class="news-title">${esc(a.title)}</span>`;
+    const lang = (a.language||'').toLowerCase() === 'es' || isSpanish(a.source)
+      ? `<span class="news-lang-es">ES</span>`
+      : `<span class="news-lang-en">EN</span>`;
+    const secs = [
+      a.what_happened  ? `<div class="news-row"><span class="news-row-label">Qué pasó —</span>${esc(a.what_happened)}</div>` : '',
+      a.key_details    ? `<div class="news-row"><span class="news-row-label">Detalles —</span>${esc(a.key_details)}</div>` : '',
+      a.why_it_matters ? `<div class="news-row"><span class="news-row-label">Por qué importa —</span>${esc(a.why_it_matters)}</div>` : '',
+    ].filter(Boolean).join('');
+    return `<div class="news-article">
+      ${img}
+      <div class="news-body">
+        <div class="news-meta">
+          <span class="news-num">#${String(i+1).padStart(2,'0')}</span>
+          <span class="news-source">${esc(a.source||'')}</span>
+          ${lang}
+        </div>
+        ${title}
+        <div class="news-summary">${secs}</div>
+      </div>
+    </div>`;
+  }).join('');
+
+  const div = document.createElement('div');
+  div.innerHTML = `<div class="news-divider">
+    <span class="news-divider-label">Digest diario</span>
+    <span class="news-divider-count">${articles.length} artículos</span>
+  </div><div class="news-list">${cards}</div>`;
+  document.getElementById('news-body').replaceWith(div);
+  div.id = 'news-body';
+}
+
+const ES_SOURCES = ['el diario','eldiario','maldita','europa press','europapress'];
+function isSpanish(source) {
+  return ES_SOURCES.some(s => (source||'').toLowerCase().includes(s));
+}
+
+// ── Init ──────────────────────────────────────────────────────
+loadConcerts();
+loadPlans();
+loadNews();
+
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => navigator.serviceWorker.register('./sw.js').catch(()=>{}));
+}
+</script>
+</body>
+</html>
