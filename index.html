@@ -11,35 +11,28 @@
   <meta name="apple-mobile-web-app-title" content="Hub Madrid">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Barlow:wght@300;400;600;700&family=Barlow+Condensed:wght@400;600;700&family=JetBrains+Mono:wght@400;600&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Barlow:wght@300;400;500;600;700&family=Barlow+Condensed:wght@400;600;700&family=JetBrains+Mono:wght@400;600&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 
   <style>
   /* ════════════════════════════════════════════════════════
-     HUB SHELL — Cold steel. Totally distinct from all tabs.
-     Palette: near-black #05080f · steel-blue accent #38bdf8
-     Font: Barlow Condensed for all chrome
+     RESET & BASE
   ════════════════════════════════════════════════════════ */
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
   html { scroll-behavior: smooth; }
+  body { font-family: 'Barlow', sans-serif; min-height: 100vh; background: #05080f; }
 
-  body {
-    background: #05080f;
-    color: #e2e8f0;
-    font-family: 'Barlow', sans-serif;
-    min-height: 100vh;
-  }
-
-  /* Hub header */
+  /* ════════════════════════════════════════════════════════
+     HUB SHELL — cold steel, totally distinct from all tabs
+  ════════════════════════════════════════════════════════ */
   .hub-header {
     background: #05080f;
     border-bottom: 1px solid #0f1929;
-    padding: 0;
     position: sticky; top: 0; z-index: 200;
-    box-shadow: 0 1px 0 #0f1929, 0 4px 20px rgba(0,0,0,0.6);
+    box-shadow: 0 4px 20px rgba(0,0,0,0.7);
   }
   .hub-top {
-    display: flex; align-items: center; gap: 14px;
-    padding: 14px 20px 0;
+    display: flex; align-items: center; gap: 12px;
+    padding: 12px 20px 0;
   }
   .hub-wordmark {
     font-family: 'Barlow Condensed', sans-serif;
@@ -55,17 +48,14 @@
   .hub-updated {
     margin-left: auto;
     font-family: 'JetBrains Mono', monospace;
-    font-size: 10px; color: #1e3a52; letter-spacing: 0.5px;
+    font-size: 10px; color: #1e3a52;
   }
-
-  /* Hub tabs */
   .hub-tabs { display: flex; padding: 0 12px; }
   .hub-tab {
     padding: 10px 16px; border: none; background: transparent;
     font-family: 'Barlow Condensed', sans-serif;
     font-size: 12px; font-weight: 700; letter-spacing: 2px;
-    text-transform: uppercase; cursor: pointer;
-    color: #334155;
+    text-transform: uppercase; cursor: pointer; color: #334155;
     border-bottom: 2px solid transparent;
     transition: color 0.15s, border-color 0.15s;
     position: relative; bottom: -1px;
@@ -84,33 +74,47 @@
   .tab-panel { display: none; }
   .tab-panel.active { display: block; }
 
-  /* State boxes (shared) */
+  /* ════════════════════════════════════════════════════════
+     SHARED STATE BOX
+  ════════════════════════════════════════════════════════ */
   .state-box { text-align: center; padding: 80px 20px; }
   .state-icon { font-size: 36px; margin-bottom: 12px; }
   .state-title {
     font-family: 'Barlow Condensed', sans-serif;
     font-size: 14px; letter-spacing: 1.5px; text-transform: uppercase;
-    color: #475569; margin-bottom: 6px;
+    color: #94a3b8; margin-bottom: 6px;
   }
-  .state-sub { font-size: 11px; color: #1e3a52; }
+  .state-sub { font-size: 11px; color: #64748b; }
 
-  /* Shared escape helper */
-  /* ────────────────────────────────────────────────────────
-     CONCERTS — Exact email design
-     bg #0d1117, crimson, amber JetBrains Mono, images
-  ──────────────────────────────────────────────────────── */
-  #tab-concerts {
-    background: #0d1117;
-    min-height: calc(100vh - 80px);
+  /* ════════════════════════════════════════════════════════
+     SCROLL TO TOP BUTTON — shared across all tabs
+  ════════════════════════════════════════════════════════ */
+  #scroll-top {
+    position: fixed; bottom: 28px; right: 24px; z-index: 300;
+    width: 40px; height: 40px; border-radius: 50%;
+    background: #38bdf8; color: #05080f;
+    border: none; cursor: pointer;
+    font-size: 18px; font-weight: 900; line-height: 1;
+    box-shadow: 0 4px 14px rgba(56,189,248,0.35);
+    opacity: 0; pointer-events: none;
+    transition: opacity 0.2s, transform 0.2s;
+    display: flex; align-items: center; justify-content: center;
   }
+  #scroll-top.visible { opacity: 1; pointer-events: all; }
+  #scroll-top:hover { transform: translateY(-2px); }
+
+  /* ════════════════════════════════════════════════════════
+     CONCERTS — exact email design, dark
+     bg #0d1117, crimson, amber dates, artist images
+  ════════════════════════════════════════════════════════ */
+  #tab-concerts { background: #0d1117; min-height: calc(100vh - 72px); }
 
   .concerts-header {
     background: linear-gradient(160deg, #1a1f2e 0%, #232b3e 60%, #2c1810 100%);
-    padding: 24px 20px 20px;
-    text-align: center;
+    padding: 24px 20px 20px; text-align: center;
     border-bottom: 2px solid #c0392b;
   }
-  .concerts-header-icon { font-size: 32px; line-height: 1; margin-bottom: 8px; }
+  .concerts-header-icon { font-size: 32px; margin-bottom: 8px; }
   .concerts-header-title {
     font-family: 'Bebas Neue', sans-serif; font-size: 20px;
     letter-spacing: 3px; color: #e2e8f0;
@@ -126,13 +130,11 @@
   .c-stat-val { font-family: 'Bebas Neue', sans-serif; font-size: 22px; color: #e2e8f0; line-height: 1; }
   .c-stat-lbl { font-size: 9px; color: #4b5563; text-transform: uppercase; letter-spacing: 0.6px; margin-top: 2px; }
 
-  .concerts-container { max-width: 960px; margin: 0 auto; padding: 20px 16px 48px; }
-
+  .concerts-container { max-width: 960px; margin: 0 auto; padding: 20px 16px 80px; }
   .c-table { width: 100%; border-collapse: collapse; }
   .c-table th {
-    background: #131924; padding: 9px 12px;
-    font-size: 9px; font-weight: 700; color: #374151;
-    text-transform: uppercase; letter-spacing: 1px;
+    background: #131924; padding: 9px 12px; font-size: 9px; font-weight: 700;
+    color: #374151; text-transform: uppercase; letter-spacing: 1px;
     text-align: left; border-bottom: 1px solid #c0392b;
   }
   .c-table tbody tr { border-bottom: 1px solid #252f42; }
@@ -157,17 +159,14 @@
   .c-notes { font-size: 11px; color: #f59e0b; font-weight: 600; margin-top: 4px; }
   .c-addr { font-size: 11px; color: #374151; margin-top: 2px; }
 
-  /* ────────────────────────────────────────────────────────
-     PLANS — Deep purple leisure. Guide palette.
-     bg #0f0b1e, purple #7c3aed, 3 colored sections
-  ──────────────────────────────────────────────────────── */
-  #tab-plans {
-    background: #0f0b1e;
-    min-height: calc(100vh - 80px);
-  }
+  /* ════════════════════════════════════════════════════════
+     PLANS — LIGHT design, 3 real subtabs
+     bg #f5f3ff, purple accents, white cards
+  ════════════════════════════════════════════════════════ */
+  #tab-plans { background: #f5f3ff; min-height: calc(100vh - 72px); }
 
   .plans-header {
-    background: linear-gradient(135deg, #1e0a3c 0%, #2d1660 50%, #3b1f7a 100%);
+    background: linear-gradient(135deg, #4c1d95 0%, #6d28d9 50%, #7c3aed 100%);
     padding: 24px 20px 20px; text-align: center;
     border-bottom: 2px solid #7c3aed;
   }
@@ -175,115 +174,109 @@
   .plans-header-title {
     font-family: 'Barlow Condensed', sans-serif;
     font-size: 20px; font-weight: 700; letter-spacing: 3px;
-    text-transform: uppercase; color: #e2e8f0;
+    text-transform: uppercase; color: #fff;
   }
-  .plans-header-sub { font-size: 11px; color: #6d28d9; margin-top: 4px; letter-spacing: 1px; }
+  .plans-header-sub { font-size: 11px; color: rgba(255,255,255,0.5); margin-top: 4px; }
 
-  .plans-toc {
-    background: #0c0818; border-bottom: 1px solid #1e1040;
-    padding: 10px 20px; display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;
+  /* Plans subtab bar */
+  .plans-subtabs {
+    background: #fff; border-bottom: 1px solid #e9d5ff;
+    display: flex; padding: 0 20px;
+    box-shadow: 0 1px 3px rgba(109,40,217,0.06);
   }
-  .plans-toc-btn {
+  .plans-subtab {
+    padding: 11px 20px; border: none; background: transparent;
     font-family: 'Barlow Condensed', sans-serif;
-    font-size: 10px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase;
-    padding: 5px 12px; border-radius: 4px; border: 1px solid;
-    text-decoration: none; cursor: pointer; background: transparent;
-    transition: background 0.15s;
+    font-size: 12px; font-weight: 700; letter-spacing: 1.5px;
+    text-transform: uppercase; cursor: pointer; color: #9ca3af;
+    border-bottom: 2px solid transparent;
+    transition: color 0.15s, border-color 0.15s;
+    position: relative; bottom: -1px;
+    display: flex; align-items: center; gap: 7px;
   }
-  .plans-toc-new   { color: #10b981; border-color: #065f46; }
-  .plans-toc-new:hover { background: #064e3b; }
-  .plans-toc-end   { color: #f97316; border-color: #7c2d12; }
-  .plans-toc-end:hover { background: #431407; }
-  .plans-toc-act   { color: #818cf8; border-color: #312e81; }
-  .plans-toc-act:hover { background: #1e1b4b; }
-
-  .plans-container { max-width: 1040px; margin: 0 auto; padding: 16px 16px 48px; }
-
-  .plans-section { margin-bottom: 32px; }
-  .plans-section-header {
-    display: flex; align-items: center; gap: 10px;
-    padding: 14px 0 12px; border-bottom: 1px solid #1e1040; margin-bottom: 14px;
+  .plans-subtab:hover { color: #6b7280; }
+  .plans-subtab.active-new   { color: #059669; border-bottom-color: #059669; }
+  .plans-subtab.active-end   { color: #ea580c; border-bottom-color: #ea580c; }
+  .plans-subtab.active-act   { color: #6366f1; border-bottom-color: #6366f1; }
+  .plans-subtab-count {
+    font-size: 9px; padding: 1px 5px; border-radius: 8px;
+    font-family: 'JetBrains Mono', monospace;
+    background: #f3f4f6; color: #9ca3af;
   }
-  .plans-section-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
-  .plans-section-label {
-    font-family: 'Barlow Condensed', sans-serif;
-    font-size: 11px; font-weight: 700; letter-spacing: 2.5px; text-transform: uppercase;
-  }
-  .plans-section-count {
-    font-size: 11px; color: #4b3d6e;
-    font-family: 'JetBrains Mono', monospace; margin-left: auto;
-  }
+  .plans-subtab.active-new .plans-subtab-count { background: #d1fae5; color: #059669; }
+  .plans-subtab.active-end .plans-subtab-count { background: #ffedd5; color: #ea580c; }
+  .plans-subtab.active-act .plans-subtab-count { background: #e0e7ff; color: #6366f1; }
 
-  .plans-section-new    .plans-section-dot  { background: #10b981; }
-  .plans-section-new    .plans-section-label { color: #10b981; }
-  .plans-section-end    .plans-section-dot  { background: #f97316; }
-  .plans-section-end    .plans-section-label { color: #f97316; }
-  .plans-section-active .plans-section-dot  { background: #818cf8; }
-  .plans-section-active .plans-section-label { color: #818cf8; }
+  /* Plans subpanels */
+  .plans-subpanel { display: none; }
+  .plans-subpanel.active { display: block; }
 
-  .plans-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 12px; }
+  .plans-container { max-width: 1040px; margin: 0 auto; padding: 20px 16px 80px; }
+  .plans-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 14px; }
 
   .plan-card {
-    background: #160d2e; border: 1px solid #2e1f58;
-    border-radius: 8px; overflow: hidden;
+    background: #fff; border: 1px solid #e9d5ff;
+    border-radius: 10px; overflow: hidden;
     display: flex; flex-direction: column;
-    transition: border-color 0.15s;
+    box-shadow: 0 1px 4px rgba(109,40,217,0.07);
+    transition: box-shadow 0.15s, border-color 0.15s;
   }
-  .plan-card:hover { border-color: #4c3182; }
-  .plan-card-new    { border-left: 3px solid #10b981; }
-  .plan-card-end    { border-left: 3px solid #f97316; }
-  .plan-card-active { border-left: 3px solid #818cf8; }
+  .plan-card:hover { box-shadow: 0 4px 16px rgba(109,40,217,0.13); border-color: #c4b5fd; }
+  .plan-card-new    { border-top: 3px solid #059669; }
+  .plan-card-end    { border-top: 3px solid #ea580c; }
+  .plan-card-active { border-top: 3px solid #6366f1; }
 
-  .plan-img { width: 100%; height: 128px; object-fit: cover; display: block; }
-  .plan-placeholder { width: 100%; height: 128px; background: #0c0818; display: flex; align-items: center; justify-content: center; font-size: 32px; }
-  .plan-body { padding: 12px; flex: 1; }
+  .plan-img { width: 100%; height: 130px; object-fit: cover; display: block; }
+  .plan-placeholder {
+    width: 100%; height: 130px; background: #f5f3ff;
+    display: flex; align-items: center; justify-content: center; font-size: 32px;
+  }
+  .plan-body { padding: 13px; flex: 1; }
 
   .plan-category {
     display: inline-flex; align-items: center; gap: 4px;
     font-size: 9px; font-weight: 700; letter-spacing: 0.6px; text-transform: uppercase;
-    padding: 2px 7px; border-radius: 3px; margin-bottom: 8px;
-    border: 1px solid;
+    padding: 2px 7px; border-radius: 4px; margin-bottom: 8px; border: 1px solid;
   }
-  /* Category colors matching guide */
-  .cat-exposicion { color: #c084fc; background: #2e1065; border-color: #7e22ce; }
-  .cat-teatro     { color: #f9a8d4; background: #4a0020; border-color: #9d174d; }
-  .cat-cine       { color: #fde68a; background: #451a03; border-color: #92400e; }
-  .cat-taller     { color: #6ee7b7; background: #022c22; border-color: #065f46; }
-  .cat-experiencia{ color: #7dd3fc; background: #082f49; border-color: #0369a1; }
-  .cat-festival   { color: #fdba74; background: #431407; border-color: #c2410c; }
-  .cat-ruta       { color: #86efac; background: #052e16; border-color: #166534; }
-  .cat-mercado    { color: #fca5a5; background: #450a0a; border-color: #991b1b; }
-  .cat-evento     { color: #e2e8f0; background: #1e293b; border-color: #334155; }
+  .cat-exposicion { color: #7c3aed; background: #f5f3ff; border-color: #c4b5fd; }
+  .cat-teatro     { color: #be185d; background: #fdf2f8; border-color: #fbcfe8; }
+  .cat-cine       { color: #b45309; background: #fffbeb; border-color: #fde68a; }
+  .cat-taller     { color: #047857; background: #f0fdf4; border-color: #bbf7d0; }
+  .cat-experiencia{ color: #0369a1; background: #f0f9ff; border-color: #bae6fd; }
+  .cat-festival   { color: #c2410c; background: #fff7ed; border-color: #fed7aa; }
+  .cat-ruta       { color: #166534; background: #f0fdf4; border-color: #86efac; }
+  .cat-mercado    { color: #991b1b; background: #fef2f2; border-color: #fecaca; }
+  .cat-evento     { color: #374151; background: #f9fafb; border-color: #e5e7eb; }
 
   .plan-title {
-    font-weight: 700; font-size: 13px; color: #e2e8f0;
-    display: block; margin-bottom: 5px; line-height: 1.35; text-decoration: none;
+    font-weight: 700; font-size: 13px; color: #1e1b4b;
+    display: block; margin-bottom: 5px; line-height: 1.4; text-decoration: none;
   }
-  .plan-title:hover { color: #c084fc; }
+  .plan-title:hover { color: #7c3aed; }
   .plan-meta {
     font-family: 'JetBrains Mono', monospace;
-    font-size: 10px; color: #4b3d6e; margin-bottom: 8px; line-height: 1.5;
+    font-size: 10px; color: #9ca3af; margin-bottom: 9px; line-height: 1.5;
   }
-  .plan-meta-end { color: #c2410c; }
+  .plan-meta-end { color: #ea580c; font-weight: 600; }
   .plan-bullets { list-style: none; }
   .plan-bullets li {
-    font-size: 11px; color: #94a3b8; padding: 2px 0 2px 14px;
+    font-size: 11px; color: #4b5563; padding: 2px 0 2px 13px;
     position: relative; line-height: 1.4;
   }
-  .plan-bullets li::before { content: '›'; position: absolute; left: 0; color: #7c3aed; font-weight: 900; font-size: 13px; line-height: 1.2; }
-
-  /* ────────────────────────────────────────────────────────
-     NEWS — Editorial navy. Guide palette.
-     bg #0a1628, red #c0392b, Libre Baskerville titles
-     EN badge #1a6eb5, ES badge #c0392b
-  ──────────────────────────────────────────────────────── */
-  #tab-news {
-    background: #0a1628;
-    min-height: calc(100vh - 80px);
+  .plan-bullets li::before {
+    content: '›'; position: absolute; left: 0;
+    color: #7c3aed; font-weight: 900; font-size: 13px; line-height: 1.2;
   }
 
+  /* ════════════════════════════════════════════════════════
+     NEWS — LIGHT design matching the email
+     bg #f0f0f0, white cards, left red border, Georgia titles
+     Images: full-width, tall
+  ════════════════════════════════════════════════════════ */
+  #tab-news { background: #f0f0f0; min-height: calc(100vh - 72px); }
+
   .news-header {
-    background: linear-gradient(160deg, #0d1f3c 0%, #122040 60%, #1c0a08 100%);
+    background: linear-gradient(160deg, #1a1a2e 0%, #242438 70%, #3a0a08 100%);
     padding: 24px 20px 20px; text-align: center;
     border-bottom: 2px solid #c0392b;
   }
@@ -291,88 +284,98 @@
   .news-header-title {
     font-family: 'Barlow Condensed', sans-serif;
     font-size: 20px; font-weight: 700; letter-spacing: 3px;
-    text-transform: uppercase; color: #e2e8f0;
+    text-transform: uppercase; color: #fff;
   }
-  .news-header-sub { font-size: 11px; color: #374151; margin-top: 4px; letter-spacing: 1px; }
+  .news-header-sub { font-size: 11px; color: rgba(255,255,255,0.35); margin-top: 4px; }
 
-  .news-container { max-width: 860px; margin: 0 auto; padding: 20px 16px 48px; }
+  .news-container { max-width: 700px; margin: 0 auto; padding: 20px 16px 80px; }
 
-  .news-divider {
-    display: flex; align-items: center; gap: 12px;
-    margin-bottom: 16px; padding-bottom: 8px;
-    border-bottom: 1px solid #132040;
-  }
-  .news-divider-label {
+  .news-digest-label {
     font-family: 'Barlow Condensed', sans-serif;
-    font-size: 9px; font-weight: 700; letter-spacing: 2px;
-    text-transform: uppercase; color: #1d3557; white-space: nowrap;
-  }
-  .news-divider-count {
-    font-family: 'JetBrains Mono', monospace;
-    font-size: 10px; color: #1d3557; margin-left: auto;
+    font-size: 10px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase;
+    color: #c0392b; margin-bottom: 14px; padding-bottom: 8px;
+    border-bottom: 1px solid #ddd; display: flex; justify-content: space-between;
   }
 
-  .news-list { display: flex; flex-direction: column; gap: 1px; }
+  .news-list { display: flex; flex-direction: column; gap: 14px; }
 
   .news-article {
-    background: #0d1e35;
-    border-left: 3px solid #1d3557;
-    display: grid; grid-template-columns: 100px 1fr;
-    transition: border-left-color 0.15s;
+    background: #fff;
+    border: 1px solid #e0e0e0;
+    border-left: 4px solid #c0392b;
+    border-radius: 4px;
+    overflow: hidden;
+    transition: box-shadow 0.15s;
   }
-  .news-article:hover { border-left-color: #c0392b; background: #0f2240; }
-  .news-article:first-child { border-radius: 6px 6px 0 0; }
-  .news-article:last-child { border-radius: 0 0 6px 6px; }
+  .news-article:hover { box-shadow: 0 3px 12px rgba(0,0,0,0.1); }
 
-  .news-img { width: 100px; height: 100%; min-height: 88px; object-fit: cover; display: block; }
-  .news-placeholder { width: 100px; min-height: 88px; background: #071422; display: flex; align-items: center; justify-content: center; color: #1d3557; font-size: 22px; }
+  /* Full-width image at the top of each card */
+  .news-img-wrap { width: 100%; overflow: hidden; }
+  .news-img {
+    width: 100%; height: 200px; object-fit: cover; display: block;
+    border-bottom: 1px solid #eee;
+  }
 
-  .news-body { padding: 10px 14px; display: flex; flex-direction: column; gap: 0; }
+  .news-body { padding: 18px 20px 16px; }
 
-  .news-meta { display: flex; align-items: center; gap: 6px; margin-bottom: 5px; flex-wrap: wrap; }
+  .news-meta {
+    display: flex; align-items: center; gap: 6px; flex-wrap: wrap;
+    margin-bottom: 8px;
+  }
   .news-num {
     font-family: 'JetBrains Mono', monospace;
-    font-size: 9px; color: #c0392b; font-weight: 600;
+    font-size: 10px; color: #c0392b; font-weight: 700;
   }
   .news-source {
+    font-size: 11px; font-weight: 700; letter-spacing: 1px;
+    text-transform: uppercase; color: #888;
     font-family: 'Barlow Condensed', sans-serif;
-    font-size: 10px; font-weight: 700; letter-spacing: 1.5px;
-    text-transform: uppercase; color: #475569;
   }
+  .news-date { font-size: 11px; color: #aaa; margin-left: 4px; }
   .news-lang-en {
-    font-size: 8px; font-weight: 700; padding: 1px 5px; border-radius: 2px;
+    font-size: 9px; font-weight: 700; padding: 2px 6px; border-radius: 3px;
     color: #fff; background: #1a6eb5; letter-spacing: 0.5px;
   }
   .news-lang-es {
-    font-size: 8px; font-weight: 700; padding: 1px 5px; border-radius: 2px;
+    font-size: 9px; font-weight: 700; padding: 2px 6px; border-radius: 3px;
     color: #fff; background: #c0392b; letter-spacing: 0.5px;
   }
 
   .news-title {
-    font-family: 'Libre Baskerville', serif;
-    font-size: 13px; font-weight: 700; color: #cbd5e1;
-    display: block; margin-bottom: 7px; line-height: 1.4; text-decoration: none;
+    font-family: 'Libre Baskerville', Georgia, serif;
+    font-size: 16px; font-weight: 700; color: #1a1a2e;
+    display: block; margin-bottom: 12px; line-height: 1.45; text-decoration: none;
   }
-  .news-title:hover { color: #e2e8f0; }
+  .news-title:hover { color: #c0392b; }
 
-  .news-summary { display: flex; flex-direction: column; gap: 3px; }
-  .news-row { font-size: 11px; color: #475569; line-height: 1.45; }
-  .news-row-label { color: #334155; font-weight: 700; margin-right: 3px; }
+  .news-summary {
+    background: #f9f9f9; border-radius: 3px;
+    padding: 12px 14px; margin-bottom: 12px;
+  }
+  .news-row { font-size: 13px; color: #333; line-height: 1.6; margin-bottom: 4px; }
+  .news-row:last-child { margin-bottom: 0; }
+  .news-row-label {
+    font-size: 10px; font-weight: 700; color: #c0392b;
+    text-transform: uppercase; letter-spacing: 0.5px; margin-right: 4px;
+  }
+
+  .news-read-btn {
+    display: inline-block; background: #1a1a2e; color: #fff;
+    text-decoration: none; font-size: 12px; font-weight: 600;
+    padding: 7px 14px; border-radius: 3px; letter-spacing: 0.3px;
+  }
+  .news-read-btn:hover { background: #c0392b; }
 
   /* ════════════════════════════════════════════════════════
      RESPONSIVE
   ════════════════════════════════════════════════════════ */
   @media (max-width: 620px) {
-    /* Concerts: hide venue column */
     .c-table th:nth-child(4), .c-table td.c-venue-cell { display: none; }
-    /* Plans: single column */
     .plans-grid { grid-template-columns: 1fr; }
-    /* News: narrower image */
-    .news-article { grid-template-columns: 72px 1fr; }
-    .news-img, .news-placeholder { width: 72px; }
-    /* Hub */
     .hub-updated { display: none; }
     .hub-tab { padding: 10px 10px; font-size: 11px; letter-spacing: 1px; }
+    .plans-subtab { padding: 10px 12px; font-size: 11px; }
+    .news-img { height: 160px; }
   }
   </style>
 </head>
@@ -383,11 +386,9 @@
 ══════════════════════════════════════════════ -->
 <header class="hub-header">
   <div class="hub-top">
-    <div>
-      <span class="hub-wordmark">Hub</span>
-      <span class="hub-dot"> · </span>
-      <span class="hub-city">Madrid</span>
-    </div>
+    <span class="hub-wordmark">Hub</span>
+    <span class="hub-dot"> · </span>
+    <span class="hub-city">Madrid</span>
     <div class="hub-updated" id="hub-updated"></div>
   </div>
   <nav class="hub-tabs">
@@ -402,7 +403,6 @@
     </button>
   </nav>
 </header>
-
 
 <!-- ══════════════════════════════════════════════
      CONCERTS TAB
@@ -420,7 +420,10 @@
   </div>
   <div class="concerts-container">
     <div id="concerts-body">
-      <div class="state-box"><div class="state-icon">⏳</div><div class="state-title">Cargando conciertos</div></div>
+      <div class="state-box">
+        <div class="state-icon">⏳</div>
+        <div class="state-title">Cargando conciertos</div>
+      </div>
     </div>
   </div>
 </div>
@@ -435,15 +438,23 @@
     <div class="plans-header-title">Planes en Madrid</div>
     <div class="plans-header-sub" id="plans-sub">Ocio adulto · próximas 4 semanas</div>
   </div>
-  <div class="plans-toc" id="plans-toc" style="display:none;">
-    <a href="#sec-new" class="plans-toc-btn plans-toc-new">Novedades</a>
-    <a href="#sec-end" class="plans-toc-btn plans-toc-end">Acaban pronto</a>
-    <a href="#sec-act" class="plans-toc-btn plans-toc-act">Siguen activos</a>
+  <div class="plans-subtabs" id="plans-subtabs">
+    <button class="plans-subtab active-new" onclick="switchPlansTab('new')">
+      Novedades <span class="plans-subtab-count" id="cnt-new">—</span>
+    </button>
+    <button class="plans-subtab" onclick="switchPlansTab('end')">
+      Acaban pronto <span class="plans-subtab-count" id="cnt-end">—</span>
+    </button>
+    <button class="plans-subtab" onclick="switchPlansTab('act')">
+      Siguen activos <span class="plans-subtab-count" id="cnt-act">—</span>
+    </button>
   </div>
   <div class="plans-container">
-    <div id="plans-body">
-      <div class="state-box"><div class="state-icon">⏳</div><div class="state-title">Cargando planes</div></div>
+    <div class="plans-subpanel active" id="subpanel-new">
+      <div class="state-box"><div class="state-icon">⏳</div><div class="state-title">Cargando</div></div>
     </div>
+    <div class="plans-subpanel" id="subpanel-end"></div>
+    <div class="plans-subpanel" id="subpanel-act"></div>
   </div>
 </div>
 
@@ -465,6 +476,12 @@
 </div>
 
 
+<!-- ══════════════════════════════════════════════
+     SCROLL TO TOP BUTTON
+══════════════════════════════════════════════ -->
+<button id="scroll-top" onclick="window.scrollTo({top:0,behavior:'smooth'})" aria-label="Volver arriba">↑</button>
+
+
 <script>
 // ── Helpers ───────────────────────────────────────────────────
 const esc = s => String(s||'')
@@ -478,7 +495,7 @@ function noData(icon, msg) {
   </div>`;
 }
 
-function initials(name, w, h) {
+function artistInitials(name, w, h) {
   const words = (name||'').split(/\s+/).filter(w => /[a-zA-Z]/.test(w[0]||''));
   const i = (words.length >= 2 ? words[0][0]+words[1][0] : (words[0]||'?').slice(0,2)).toUpperCase();
   return `<div style="width:${w}px;height:${h}px;border-radius:6px;background:#1f2937;
@@ -487,11 +504,17 @@ function initials(name, w, h) {
 }
 
 function artistImg(url, name) {
-  if (!url) return initials(name, 65, 65);
+  if (!url) return artistInitials(name, 65, 65);
   return `<img src="${esc(url)}" width="65" height="65"
     style="border-radius:6px;display:block;object-fit:cover;border:1px solid #2d3a50;"
-    onerror="this.outerHTML='${initials(name,65,65).replace(/'/g,"\\'")}'">`;
+    onerror="this.outerHTML='${artistInitials(name,65,65).replace(/'/g,"\\'")}'">`;
 }
+
+// ── Scroll-to-top ────────────────────────────────────────────
+const scrollBtn = document.getElementById('scroll-top');
+window.addEventListener('scroll', () => {
+  scrollBtn.classList.toggle('visible', window.scrollY > 320);
+}, { passive: true });
 
 // ── Tab switching ─────────────────────────────────────────────
 function switchTab(name) {
@@ -499,6 +522,21 @@ function switchTab(name) {
   document.querySelectorAll('.hub-tab').forEach(el => el.classList.remove('active'));
   document.getElementById('tab-' + name).classList.add('active');
   document.querySelector(`[data-tab="${name}"]`).classList.add('active');
+  window.scrollTo(0, 0);
+}
+
+// ── Plans subtab switching ────────────────────────────────────
+let plansActiveTab = 'new';
+function switchPlansTab(name) {
+  plansActiveTab = name;
+  document.querySelectorAll('.plans-subpanel').forEach(el => el.classList.remove('active'));
+  document.getElementById('subpanel-' + name).classList.add('active');
+  document.querySelectorAll('.plans-subtab').forEach(el => {
+    el.classList.remove('active-new','active-end','active-act');
+  });
+  const map = {new:'active-new', end:'active-end', act:'active-act'};
+  document.querySelectorAll('.plans-subtab')[['new','end','act'].indexOf(name)].classList.add(map[name]);
+  window.scrollTo(0, 0);
 }
 
 // ══════════════════════════════════════════════════════════════
@@ -507,10 +545,11 @@ function switchTab(name) {
 async function loadConcerts() {
   try {
     const res = await fetch('./data/concerts.json?t=' + Date.now());
-    if (!res.ok) throw new Error();
+    if (!res.ok) throw new Error('not found');
     renderConcerts(await res.json());
   } catch {
-    document.getElementById('concerts-body').innerHTML = noData('📭','Sin conciertos todavía');
+    document.getElementById('concerts-body').innerHTML =
+      noData('🤘', 'Sin conciertos todavía');
   }
 }
 
@@ -527,11 +566,12 @@ function renderConcerts(data) {
   if (data.generated) {
     const d = new Date(data.generated);
     document.getElementById('hub-updated').textContent =
-      'act. ' + d.toLocaleDateString('es-ES',{day:'2-digit',month:'2-digit'});
+      'act. ' + d.toLocaleDateString('es-ES', {day:'2-digit', month:'2-digit'});
   }
 
   if (!list.length) {
-    document.getElementById('concerts-body').innerHTML = noData('🤘','No hay conciertos próximos');
+    document.getElementById('concerts-body').innerHTML =
+      noData('🤘', 'No hay conciertos próximos');
     return;
   }
 
@@ -584,10 +624,11 @@ const CAT_EMOJI = {
 async function loadPlans() {
   try {
     const res = await fetch('./data/plans.json?t=' + Date.now());
-    if (!res.ok) throw new Error();
+    if (!res.ok) throw new Error('not found');
     renderPlans(await res.json());
   } catch {
-    document.getElementById('plans-body').innerHTML = noData('📭','Sin planes todavía');
+    document.getElementById('subpanel-new').innerHTML =
+      noData('📭', 'Sin planes todavía');
   }
 }
 
@@ -603,51 +644,56 @@ function planCard(e, section) {
   const catEmoji = CAT_EMOJI[catKey] || '📅';
   const cat = e.category
     ? `<span class="plan-category ${catClass}">${catEmoji} ${esc(e.category)}</span>` : '';
-  const dates = e.date_end
-    ? `<span class="${section==='ending_soon'?'plan-meta-end':''}">${esc(e.date_start||'')}${e.date_end?' → '+esc(e.date_end):''}</span>`
-    : (e.date_start ? esc(e.date_start) : '');
+  const endClass = section === 'ending_soon' ? 'plan-meta-end' : '';
+  const dates = [e.date_start, e.date_end].filter(Boolean)
+    .map((d,i) => i===1&&section==='ending_soon' ? `<span class="${endClass}">${esc(d)}</span>` : esc(d))
+    .join(' → ');
   const venue = e.venue ? esc(e.venue) : '';
   const metaParts = [dates, venue].filter(Boolean);
   const meta = metaParts.length ? `<div class="plan-meta">${metaParts.join(' · ')}</div>` : '';
-  const bullets = (e.bullets||[]).slice(0,3).map(b=>`<li>${esc(b)}</li>`).join('');
-  const cls = section==='new'?'plan-card-new':section==='ending_soon'?'plan-card-end':'plan-card-active';
-  return `<div class="plan-card ${cls}">${img}<div class="plan-body">${cat}${title}${meta}<ul class="plan-bullets">${bullets}</ul></div></div>`;
-}
-
-function plansSection(id, label, cls, events, section) {
-  if (!events || !events.length) return '';
-  const cards = events.map(e => planCard(e, section)).join('');
-  return `<div class="plans-section plans-section-${cls}" id="${id}">
-    <div class="plans-section-header">
-      <span class="plans-section-dot"></span>
-      <span class="plans-section-label">${label}</span>
-      <span class="plans-section-count">${events.length} eventos</span>
-    </div>
-    <div class="plans-grid">${cards}</div>
-  </div>`;
+  const bullets = (e.bullets||[]).slice(0,3).map(b => `<li>${esc(b)}</li>`).join('');
+  const cardClass = section==='new'?'plan-card-new':section==='ending_soon'?'plan-card-end':'plan-card-active';
+  return `<div class="plan-card ${cardClass}">${img}<div class="plan-body">${cat}${title}${meta}<ul class="plan-bullets">${bullets}</ul></div></div>`;
 }
 
 function renderPlans(data) {
-  const total = (data.new||[]).length + (data.ending_soon||[]).length + (data.ongoing||[]).length;
-  document.getElementById('cnt-plans').textContent = total;
-  if (total) document.getElementById('plans-toc').style.display = 'flex';
-  const html =
-    plansSection('sec-new','Novedades de la semana','new', data.new,'new') +
-    plansSection('sec-end','Acaban pronto','end', data.ending_soon,'ending_soon') +
-    plansSection('sec-act','Siguen activos','active', data.ongoing,'ongoing');
-  document.getElementById('plans-body').innerHTML = html || noData('📭','Sin planes próximos');
+  const newEvts  = data.new || [];
+  const endEvts  = data.ending_soon || [];
+  const actEvts  = data.ongoing || [];
+  const total    = newEvts.length + endEvts.length + actEvts.length;
+  document.getElementById('cnt-plans').textContent  = total;
+  document.getElementById('cnt-new').textContent    = newEvts.length;
+  document.getElementById('cnt-end').textContent    = endEvts.length;
+  document.getElementById('cnt-act').textContent    = actEvts.length;
+
+  document.getElementById('subpanel-new').innerHTML = newEvts.length
+    ? `<div class="plans-grid">${newEvts.map(e=>planCard(e,'new')).join('')}</div>`
+    : noData('🆕', 'Sin novedades esta semana');
+
+  document.getElementById('subpanel-end').innerHTML = endEvts.length
+    ? `<div class="plans-grid">${endEvts.map(e=>planCard(e,'ending_soon')).join('')}</div>`
+    : noData('⏰', 'Nada termina pronto');
+
+  document.getElementById('subpanel-act').innerHTML = actEvts.length
+    ? `<div class="plans-grid">${actEvts.map(e=>planCard(e,'ongoing')).join('')}</div>`
+    : noData('📭', 'Sin eventos activos');
 }
 
 // ══════════════════════════════════════════════════════════════
 // NEWS
 // ══════════════════════════════════════════════════════════════
+const ES_SOURCES = ['el diario','eldiario','maldita','europa press','europapress'];
+function isSpanish(source) {
+  return ES_SOURCES.some(s => (source||'').toLowerCase().includes(s));
+}
+
 async function loadNews() {
   try {
     const res = await fetch('./data/news.json?t=' + Date.now());
-    if (!res.ok) throw new Error();
+    if (!res.ok) throw new Error('not found');
     renderNews(await res.json());
   } catch {
-    document.getElementById('news-body').innerHTML = noData('📭','Sin noticias todavía');
+    document.getElementById('news-body').innerHTML = noData('📭', 'Sin noticias todavía');
   }
 }
 
@@ -658,31 +704,34 @@ function renderNews(data) {
   if (data.generated) {
     const d = new Date(data.generated);
     document.getElementById('news-sub').textContent =
-      d.toLocaleDateString('es-ES',{weekday:'long',day:'numeric',month:'long'}) + ' · IA';
+      d.toLocaleDateString('es-ES', {weekday:'long', day:'numeric', month:'long'}) + ' · IA';
   }
 
   if (!articles.length) {
-    document.getElementById('news-body').innerHTML = noData('📰','Sin artículos todavía');
+    document.getElementById('news-body').innerHTML = noData('📰', 'Sin artículos todavía');
     return;
   }
 
   const cards = articles.map((a, i) => {
-    const img = a.image
-      ? `<img class="news-img" src="${esc(a.image)}" alt="" onerror="this.style.display='none'">`
-      : `<div class="news-placeholder">📰</div>`;
+    const lang = isSpanish(a.source)
+      ? `<span class="news-lang-es">ES</span>`
+      : `<span class="news-lang-en">EN</span>`;
+    const imgHtml = a.image
+      ? `<div class="news-img-wrap"><img class="news-img" src="${esc(a.image)}" alt="" onerror="this.parentElement.style.display='none'"></div>`
+      : '';
     const title = a.url
       ? `<a class="news-title" href="${esc(a.url)}" target="_blank">${esc(a.title)}</a>`
       : `<span class="news-title">${esc(a.title)}</span>`;
-    const lang = (a.language||'').toLowerCase() === 'es' || isSpanish(a.source)
-      ? `<span class="news-lang-es">ES</span>`
-      : `<span class="news-lang-en">EN</span>`;
     const secs = [
-      a.what_happened  ? `<div class="news-row"><span class="news-row-label">Qué pasó —</span>${esc(a.what_happened)}</div>` : '',
-      a.key_details    ? `<div class="news-row"><span class="news-row-label">Detalles —</span>${esc(a.key_details)}</div>` : '',
-      a.why_it_matters ? `<div class="news-row"><span class="news-row-label">Por qué importa —</span>${esc(a.why_it_matters)}</div>` : '',
+      a.what_happened  ? `<div class="news-row"><span class="news-row-label">Qué pasó</span>${esc(a.what_happened)}</div>` : '',
+      a.key_details    ? `<div class="news-row"><span class="news-row-label">Detalles</span>${esc(a.key_details)}</div>` : '',
+      a.why_it_matters ? `<div class="news-row"><span class="news-row-label">Por qué importa</span>${esc(a.why_it_matters)}</div>` : '',
     ].filter(Boolean).join('');
+    const readBtn = a.url
+      ? `<a href="${esc(a.url)}" target="_blank" class="news-read-btn">Leer artículo completo →</a>`
+      : '';
     return `<div class="news-article">
-      ${img}
+      ${imgHtml}
       <div class="news-body">
         <div class="news-meta">
           <span class="news-num">#${String(i+1).padStart(2,'0')}</span>
@@ -690,23 +739,18 @@ function renderNews(data) {
           ${lang}
         </div>
         ${title}
-        <div class="news-summary">${secs}</div>
+        ${secs ? `<div class="news-summary">${secs}</div>` : ''}
+        ${readBtn}
       </div>
     </div>`;
   }).join('');
 
-  const div = document.createElement('div');
-  div.innerHTML = `<div class="news-divider">
-    <span class="news-divider-label">Digest diario</span>
-    <span class="news-divider-count">${articles.length} artículos</span>
-  </div><div class="news-list">${cards}</div>`;
-  document.getElementById('news-body').replaceWith(div);
-  div.id = 'news-body';
-}
-
-const ES_SOURCES = ['el diario','eldiario','maldita','europa press','europapress'];
-function isSpanish(source) {
-  return ES_SOURCES.some(s => (source||'').toLowerCase().includes(s));
+  document.getElementById('news-body').innerHTML = `
+    <div class="news-digest-label">
+      <span>Digest diario</span>
+      <span>${articles.length} artículos</span>
+    </div>
+    <div class="news-list">${cards}</div>`;
 }
 
 // ── Init ──────────────────────────────────────────────────────
