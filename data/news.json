@@ -1,75 +1,645 @@
 {
-  "generated": "2026-04-20T16:11:37.988159",
+  "generated": "2026-04-21T06:33:18.717062",
   "articles": [
     {
-      "title": "Why Your Paycheck Feels Smaller",
-      "url": "https://www.nytimes.com/video/business/100000010843347/why-your-paycheck-feels-smaller.html",
-      "image": "https://static01.nyt.com/images/2026/04/17/arts/00vid-rv-inflation-vs-wages-still/00vid-rv-inflation-vs-wages-still-facebookJumbo.png?video-overlay",
+      "title": "🎙 PODCAST | Las dos Españas: regularización vs. \"prioridad nacional\"",
+      "url": "https://www.eldiario.es/blog/al-dia/podcast-espanas-regularizacion-vs-prioridad-nacional_132_13157640.html",
+      "image": "https://static.eldiario.es/clip/ec2ba1bd-228c-44f6-8026-0a2cef9295d7_facebook-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es - elDiario.es",
+      "language": "en",
+      "what_happened": "Esta semana han comenzado los trámites para que las personas migrantes sin papeles puedan regularizar su situación en España. El proceso de regularización afecta a alrededor de medio millón de migrantes.",
+      "key_details": "El acuerdo de Gobierno en Extremadura entre PP y Vox incluye dar \"prioridad nacional\" a servicios públicos y ayudas sociales. ElDiario.es analiza el contexto con el subdirector Iñigo Sáenz de Ugarte. El podcast \"Un tema Al día\" explica asuntos de actualidad en episodios de 15 minutos.",
+      "why_it_matters": "La regularización de migrantes y el acuerdo de Gobierno en Extremadura tienen implicaciones políticas y sociales significativas en España. El contexto de la regularización de medio millón de migrantes agrega complejidad al acuerdo de Gobierno."
+    },
+    {
+      "title": "Un tipo de malware envenena el software de fuente abierta",
+      "url": "https://robotitus.com/un-tipo-de-malware-envenena-el-software-de-fuente-abierta",
+      "image": "https://robotitus.com/wp-content/uploads/2026/04/Opensource.jpg",
+      "source": "Robotitus",
+      "language": "en",
+      "what_happened": "Un nuevo grupo de hackers llamado TeamPCP está distribuyendo un malware que se propaga solo y ataca software de código abierto. Este malware puede comprometer servidores y robar datos.",
+      "key_details": "El malware, llamado CanisterWorm, puede infectar decenas de paquetes en menos de un minuto y se propaga a través de pipelines de desarrollo y despliegue continuo. El grupo TeamPCP también ha desarrollado un módulo que borra datos en sistemas ubicados en Irán.",
+      "why_it_matters": "El impacto potencial de este malware es masivo, ya que puede eliminar nodos en entornos con Kubernetes o borrar sistemas completos, lo que podría tener consecuencias graves para la seguridad de la información."
+    },
+    {
+      "title": "Los vehículos eléctricos pueden funcionar como “baterías andantes”",
+      "url": "https://robotitus.com/los-vehiculos-electricos-pueden-funcionar-como-baterias-andantes",
+      "image": "https://robotitus.com/wp-content/uploads/2026/04/EV-baera.jpg",
+      "source": "Robotitus",
+      "language": "en",
+      "what_happened": "Los vehículos eléctricos podrían funcionar como baterías móviles, almacenando energía cuando hay exceso y devolviéndola cuando la demanda aumenta. Esto se lograría a través de la tecnología V2G, que permite el flujo de energía en ambos sentidos entre el vehículo y la red.",
+      "key_details": "Un estudio en la zona de San Francisco Bay Area encontró que modernizar la red eléctrica desde el inicio podría reducir costos a largo plazo, con cada cargador necesitando generar entre 0.12 y 0.18 dólares al día. La implementación de este sistema podría recortar hasta 59,200 toneladas métricas de CO2 al año.",
+      "why_it_matters": "Esta tecnología podría ayudar a estabilizar el sistema eléctrico y reducir emisiones, generando ingresos acumulados de hasta 47.5 millones de dólares en créditos de carbono."
+    },
+    {
+      "title": "Japan to Sell More Weapons Abroad, Breaking With Postwar Pacifism",
+      "url": "https://www.nytimes.com/2026/04/20/world/asia/japan-weapons-arms-sale-nato.html",
+      "image": "https://static01.nyt.com/images/2026/04/21/multimedia/21int-japan-security-bftw/21int-japan-security-bftw-mediumSquareAt3X.jpg",
       "source": "NYT > Top Stories",
       "language": "en",
-      "what_happened": "The article discusses the issue of shrinking paychecks. It explores the reasons behind this phenomenon.",
-      "key_details": "The article does not provide specific details on the topic, instead, it presents various unrelated video titles. \nSome of the video titles include \"The Internet’s Latest Wonder Drug: Nicotine?\" and \"How JD Vance Is Being Tested as Trump’s Chief Defender\".\nThe article lacks concrete information on the subject of paychecks.",
-      "why_it_matters": "Understanding the reasons behind shrinking paychecks is crucial for individuals to manage their finances effectively. \nIt also has implications for the overall economy and workforce."
+      "what_happened": "Japan's Prime Minister Sanae Takaichi has reversed limits on arms exports, marking a shift in the country's postwar pacifism. This decision comes as Japan faces rising threats from neighboring countries.",
+      "key_details": "The move is in response to rising threats from China and unpredictability from the United States, Japan's main ally. Prime Minister Sanae Takaichi is behind the policy change. Japan had previously limited its arms exports.",
+      "why_it_matters": "This change in policy has significant implications for Japan's role in regional security and its relationships with neighboring countries. It reflects a shift in Japan's approach to defense and security."
     },
     {
-      "title": "Watch Guns N’ Roses Cover Sex Pistols’ “Black Leather” Live For The First Time",
-      "url": "https://www.theprp.com/2026/04/20/news/watch-guns-n-roses-cover-sex-pistols-black-leather-live-for-the-first-time/",
-      "image": "https://www.theprp.com/app/uploads/2025/05/gunsnroses2025live.jpg",
+      "title": "El enfado de los docentes",
+      "url": "https://www.eldiario.es/sociedad/educacion/enfado-docentes_132_13158082.html",
+      "image": "https://static.eldiario.es/clip/884699ac-a5c9-4fea-ba89-7fcc34d2d204_facebook-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es - elDiario.es",
+      "language": "en",
+      "what_happened": "Los docentes están manifestando y participando en huelgas en varias localidades de España debido a sus condiciones laborales. Esto se debe a problemas como la baja remuneración y la sobrecarga de trabajo.",
+      "key_details": "Algunos docentes tienen 25 horas lectivas semanales y una gran cantidad de alumnos en clase, lo que dificulta su gestión. La directora de un IES en Madrid, Rosa Rocha, menciona que los docentes deben lidiar con problemas como el acoso y el bienestar mental del alumnado. Muchos docentes se están tomando bajas laborales debido al estrés y la presión.",
+      "why_it_matters": "Estas protestas importan porque afectan la calidad de la educación y la justicia social en España, ya que los docentes son fundamentales para garantizar la igualdad de oportunidades."
+    },
+    {
+      "title": "Trump asegura que Irán negociará en Pakistán o \"se enfrentará a problemas nunca antes vistos\"",
+      "url": "https://www.europapress.es/internacional/noticia-trump-asegura-iran-negociara-pakistan-enfrentara-problemas-nunca-antes-vistos-20260421080039.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260421080039_1200.jpg",
+      "source": "Europa Press - Internacional",
+      "language": "es",
+      "what_happened": "El presidente de Estados Unidos, Donald Trump, ha asegurado que Irán se sentará en la mesa de negociaciones en Pakistán o se enfrentará a problemas. Esto ocurre a un día de que el alto el fuego llegue a su fin.",
+      "key_details": "Trump ha hecho estas declaraciones en una entrevista telefónica en el programa de radio \"The John's Frederciks Show\". Las autoridades iraníes han manifestado no haber tomado una decisión al respecto. Trump ha dicho que \"Van a tener que negociar, y si no lo hacen, se van a enfrentar a problemas nunca antes vistos\".",
+      "why_it_matters": "Estas declaraciones tienen implicaciones importantes para la situación geopolítica en la región. La posible negociación en Pakistán puede influir en el futuro de las relaciones entre Estados Unidos e Irán."
+    },
+    {
+      "title": "Guerra Irán | Directo: Irán avisa de \"graves consecuencias\" tras el ataque de EEUU a su buque en el golfo de Omán",
+      "url": "https://www.europapress.es/internacional/noticia-guerra-iran-directo-hoy-ultima-hora-conflicto-eeuu-israel-iran-20260421074448.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260421074448_1200.jpg",
+      "source": "Europa Press - Internacional",
+      "language": "es",
+      "what_happened": "El Ministerio de Exteriores de Irán ha advertido de \"graves consecuencias\" después de que Estados Unidos atacara un buque iraní en el golfo de Omán. Esto ocurrió a un día de que el alto el fuego llegue a su fin.",
+      "key_details": "El presidente de Estados Unidos, Donald Trump, aseguró que la operación 'Martillo de Medianoche' destruyó las instalaciones de \"polvo nuclear\" de Irán. El comisario de Vivienda y Energía de la Unión Europea, Dan Jorgensen, alertó sobre un verano \"bastante duro\" debido a la guerra en Irán.",
+      "why_it_matters": "La tensión en las relaciones bilaterales entre Estados Unidos e Irán aumenta a un día de que el alto el fuego llegue a su fin. Esto puede tener implicaciones significativas para la estabilidad en la región."
+    },
+    {
+      "title": "Nuevo dispositivo de amortiguación inteligente se inspira en el origami para una logística más segura",
+      "url": "https://robotitus.com/nuevo-dispositivo-de-amortiguacion-inteligente-se-inspira-en-el-origami-para-una-logistica-mas-segura",
+      "image": "https://robotitus.com/wp-content/uploads/2026/04/Origami.jpg",
+      "source": "Robotitus",
+      "language": "en",
+      "what_happened": "Un equipo de investigación en Japón ha desarrollado un material de amortiguación basado en origami que funciona sin cables ni baterías. Este dispositivo, llamado \"origami honeycomb\", puede absorber energía y generar una señal medible.",
+      "key_details": "El dispositivo utiliza sensores LC integrados que responden a cambios físicos modificando su frecuencia, y la estructura se forma a partir de patrones impresos en papel. La configuración más estable se logra con una separación de 3 milímetros entre electrodos y un ángulo de 0 grados.",
+      "why_it_matters": "Este dispositivo puede mejorar la logística al permitir medir presión, peso o golpes en tiempo real, lo que ayudaría a reducir daños y mejorar el seguimiento en la cadena de suministro."
+    },
+    {
+      "title": "Renuncia a su cargo la secretaria de Trabajo de EEUU en medio de investigaciones por supuesta conducta inapropiada",
+      "url": "https://www.europapress.es/internacional/noticia-renuncia-cargo-secretaria-trabajo-eeuu-medio-investigaciones-supuesta-conducta-inapropiada-20260421073443.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260421073443_1200.jpg",
+      "source": "Europa Press - Internacional",
+      "language": "es",
+      "what_happened": "La secretaria de Trabajo de Estados Unidos, Lori Chavez DeRemer, ha anunciado su renuncia al cargo. Esto ocurre en medio de una investigación por posible conducta inapropiada.",
+      "key_details": "La renuncia se debe a una investigación por supuesta conducta inapropiada, como usar viajes de trabajo para viajes personales. La Oficina del Inspector General del Departamento de Trabajo estaba investigando la queja. Keith Sonderling asumirá el cargo de secretario interino del departamento de Trabajo.",
+      "why_it_matters": "La renuncia de Chavez DeRemer es la tercera salida de un secretario del gabinete del Gobierno del presidente Donald Trump. Esto puede tener implicaciones en la estabilidad del gabinete presidencial."
+    },
+    {
+      "title": "Guitarist Reese Maslen Rejoins Bilmuri After Previously Stepping Down Amid Allegations",
+      "url": "https://www.theprp.com/2026/04/20/news/guitarist-reese-maslen-rejoins-bilmuri-after-previously-stepping-down-amid-allegations/",
+      "image": "https://www.theprp.com/app/uploads/2025/12/reesemaslen.webp",
       "source": "Theprp.com",
       "language": "en",
-      "what_happened": "Guns N' Roses performed their cover of \"Black Leather\" live for the first time during their show at the Arena Castelão in Fortaleza, Brazil. The song was part of their setlist on April 18th.",
-      "key_details": "Bassist Duff McKagan took over lead vocals for the song, which was first recorded by the band in 1993 on \"The Spaghetti Incident?\". The band has two remaining shows in Latin America, including stops in Sao Luis and Belem, Brazil.",
-      "why_it_matters": "This performance showcases the band's ability to surprise fans with new additions to their setlist, and highlights their connection to punk rock influences like the Sex Pistols."
+      "what_happened": "Guitarist Reese Maslen has returned to the band Bilmuri after previously stepping down in December 2025. He had vacated his position due to allegations made against him by a former romantic partner.",
+      "key_details": "Maslen originally stepped down stating he exhibited behavior he deeply regretted, and has since announced his return ahead of the band's April 17th show at the Fillmore Auditorium in Denver, CO. The band is currently on their spring tour supporting their latest album \"KINDA HARD\". Maslen's return was announced with a statement saying he's been \"doing the work to be better\" for himself and others.",
+      "why_it_matters": "Maslen's return to the band may have implications for the band's reputation and fanbase, given the circumstances of his initial departure. The band's spring tour will likely be closely watched in light of Maslen's return."
     },
     {
-      "title": "\"Do We Understand All Of Nature's Basic Ingredients?\" Muon Experiment Wins Breakthrough Prize For Efforts To Advance The Standard Model Of Particle Physics",
-      "url": "https://www.iflscience.com/do-we-understand-all-of-natures-basic-ingredients-muon-experiment-wins-breakthrough-prize-for-efforts-to-advance-the-standard-model-of-particle-physics-83235",
-      "image": "https://assets.iflscience.com/assets/articleNo/83235/aImg/90114/glowing-green-orb-abstract-l.jpg",
+      "title": "Mythos, una IA de Anthropic descubrió miles de fallas de seguridad",
+      "url": "https://robotitus.com/mythos-una-ia-de-anthropic-descubrio-miles-de-fallas-de-seguridad",
+      "image": "https://robotitus.com/wp-content/uploads/2026/04/Mythos.jpg",
+      "source": "Robotitus",
+      "language": "en",
+      "what_happened": "Un modelo de inteligencia artificial llamado Mythos, desarrollado por Anthropic, descubrió miles de fallas de seguridad en sistemas operativos y navegadores importantes. Esto incluye vulnerabilidades en OpenBSD, FFmpeg y el núcleo de Linux.",
+      "key_details": "Mythos detectó un error en OpenBSD que llevaba 27 años sin descubrirse y una vulnerabilidad en FFmpeg con 16 años de antigüedad. La empresa Anthropic ha iniciado Project Glasswing, una colaboración con gigantes tecnológicos como Microsoft y Google para utilizar el modelo para defensa y encontrar fallas antes que los atacantes.",
+      "why_it_matters": "El descubrimiento de estas fallas de seguridad por parte de Mythos podría tener implicaciones significativas para la seguridad de los sistemas informáticos y los servicios básicos que dependen de ellos, como bancos y hospitales."
+    },
+    {
+      "title": "El predicador cristiano más peligroso de Hungría: ¿de la cárcel a la presidencia?",
+      "url": "https://www.eldiario.es/internacional/la-semana-internacional/predicador-cristiano-peligroso-hungria-carcel-presidencia_132_13158677.html",
+      "image": "https://static.eldiario.es/clip/575d40f6-abfc-4c15-a8e8-ec6d1617dc72_facebook-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es - elDiario.es",
+      "language": "en",
+      "what_happened": "El pastor evangélico Iványi Gábor, un opositor al gobierno de Viktor Orbán, se enfrenta a un juicio que podría enviarlo a prisión. Sin embargo, su nombre ha surgido como posible candidato a la presidencia de Hungría.",
+      "key_details": "Iványi Gábor fue cercano a Orbán en los 90, pero se convirtió en uno de sus principales enemigos después de una ruptura. El pastor evangélico podría enfrentar dos años de prisión en un juicio próximo. Ha estado desmontando el ultranacionalismo cristiano de Orbán.",
+      "why_it_matters": "La posible candidatura de Iványi Gábor a la presidencia de Hungría podría cambiar el panorama político del país. Su oposición al gobierno de Orbán y su defensa de los valores cristianos originales podrían tener un impacto significativo en la política húngara."
+    },
+    {
+      "title": "Palantir manifesto described as ‘ramblings of a supervillain’ amid UK contract fears",
+      "url": "https://www.theguardian.com/technology/2026/apr/21/palantir-manifesto-uk-contract-fears-mps",
+      "image": "https://i.guim.co.uk/img/media/11945b2389ec82af12664c304d81bfbae8053806/68_133_2604_2084/master/2604.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=232482dcda6794ab6c6138353a9b2811",
+      "source": "AI (artificial intelligence) | The Guardian",
+      "language": "en",
+      "what_happened": "The US spy tech company Palantir published a manifesto that has sparked criticism from MPs. The manifesto extols the benefits of American power and implies some cultures are inferior to others.",
+      "key_details": "The 22-point post calls for an end to the \"postwar neutering\" of Germany and Japan, and advocates for the US to reinstate a military draft. Palantir's CEO, Alex Karp, has been criticized for his recent pronouncements, including embracing AI state surveillance.",
+      "why_it_matters": "The manifesto has raised concerns amid fears of a potential UK contract with Palantir, with MPs describing it as \"the ramblings of a supervillain\"."
+    },
+    {
+      "title": "El día que Clint Eastwood se convirtió en alcalde para proteger una de sus pasiones: los conos de helado",
+      "url": "https://www.eldiario.es/spin/dia-clint-eastwood-convirtio-alcalde-proteger-pasiones-conos-helado-pm_1_13157090.html",
+      "image": "https://static.eldiario.es/clip/33c1e09a-24a3-4216-b33e-418044592c2e_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es - elDiario.es",
+      "language": "en",
+      "what_happened": "Clint Eastwood se convirtió en alcalde de Carmel-by-the-Sea hace 40 años. Obtuvo 2.166 votos en las elecciones locales.",
+      "key_details": "Eastwood asumió el cargo el 8 de abril de 1986, en una ciudad con una población de poco menos de 3.200 habitantes. Su mandato duró dos años y una de sus medidas fue intentar suavizar la ordenanza que prohibía la venta de conos de helado. La ordenanza municipal original se estableció en 1929 para preservar la estética auténtica del lugar.",
+      "why_it_matters": "La medida de Eastwood refleja su oposición a la postura conservadora de la ciudad en ese momento. Su intento de suavizar la ordenanza muestra su compromiso con la modernización y el desarrollo comercial en Carmel-by-the-Sea."
+    },
+    {
+      "title": "La Administración Trump empieza a devolver parte de los millones de dólares recaudados indebidamente en aranceles",
+      "url": "https://www.eldiario.es/economia/administracion-trump-empieza-devolver-parte-166-millones-recaudados-indebidamente-aranceles_1_13158829.html",
+      "image": "https://static.eldiario.es/clip/b39079e7-bc1a-4172-b246-b6cf0f04efb3_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es - elDiario.es",
+      "language": "en",
+      "what_happened": "La Administración Trump ha iniciado el proceso de devolución de los aranceles impuestos sin autoridad constitucional. Las empresas pueden solicitar reembolsos a través de un portal online.",
+      "key_details": "El Tribunal Supremo de EEUU dictaminó que los aranceles fueron impuestos sin autoridad constitucional, y las empresas deben presentar declaraciones de los productos por los que pagaron aranceles. El proceso de devolución puede tardar entre 60 y 90 días.",
+      "why_it_matters": "La devolución de los aranceles puede tener un impacto significativo en las empresas y consumidores que pagaron los aranceles, y es un paso hacia la corrección de la acción unilateral del presidente Trump."
+    },
+    {
+      "title": "La secretaria de Trabajo de Trump dimite en medio de una investigación por abuso de poder",
+      "url": "https://www.eldiario.es/internacional/secretaria-trabajo-trump-dimite-medio-investigacion-abuso_1_13158824.html",
+      "image": "https://static.eldiario.es/clip/2fc701e8-73a1-408a-8bd9-5d22da48cf97_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es - elDiario.es",
+      "language": "en",
+      "what_happened": "La secretaria de Trabajo de EEUU, Lori Chávez-DeRemer, abandonó el gabinete del presidente Donald Trump. Esto ocurrió después de múltiples acusaciones de abuso de poder en el ejercicio de su cargo.",
+      "key_details": "Chávez-DeRemer es la tercera persona del gabinete de EEUU en abandonar su cargo, después de que Trump despidiera a su secretaria de Seguridad Nacional y destituyera a la fiscal general. Ella elogió a Trump en un comunicado publicado en redes sociales y agradeció el trabajo realizado durante su cargo.",
+      "why_it_matters": "La salida de Chávez-DeRemer se produce en medio de una investigación por abuso de poder, lo que puede tener implicaciones para la Administración de Trump. Keith Sonderling, el actual subsecretario de Trabajo, pasará a ser secretario de Trabajo en funciones en su lugar."
+    },
+    {
+      "title": "La Policía de EEUU detiene a decenas de veteranos del Ejército en una protesta contra la guerra de Irán",
+      "url": "https://www.europapress.es/internacional/noticia-policia-eeuu-detiene-decenas-veteranos-ejercito-protesta-contra-guerra-iran-20260421060848.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260421060848_1200.jpg",
+      "source": "Europa Press - Internacional",
+      "language": "es",
+      "what_happened": "La policía de Estados Unidos detuvo a más de 60 personas, incluyendo decenas de veteranos del Ejército, en una protesta contra la guerra de Irán en Washington D.C. Los manifestantes ocuparon el edificio de oficinas Cannon de la Cámara de Representantes.",
+      "key_details": "Un mínimo de 32 personas fueron arrestadas, incluyendo el director ejecutivo de la organización CCW, Mike Prysner. Los manifestantes portaron tulipanes rojos en honor a los iraníes caídos en ataques estadounidenses y desplegaron pancartas con el lema \"Fin a la guerra contra Irán\".",
+      "why_it_matters": "La protesta resalta la oposición a la guerra de Irán y su impacto en la sociedad estadounidense, con veteranos y familiares de militares exigiendo que el presidente de la Cámara de Representantes se comprometa a no seguir financiando el conflicto."
+    },
+    {
+      "title": "La Fiscalía de Zamora ve indicios de que una empresa creó un informe municipal para avalar su proyecto eólico",
+      "url": "https://www.eldiario.es/castilla-y-leon/tribunales/fiscalia-zamora-ve-indicios-empresa-creo-informe-municipal-avalar-proyecto-eolico_1_13148459.html",
+      "image": "https://static.eldiario.es/clip/798bf18d-45fd-4c34-ad71-7414e1e216e6_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es - elDiario.es",
+      "language": "en",
+      "what_happened": "La Fiscalía de Zamora ha encontrado indicios de que la empresa Renner Energies España creó un informe municipal para avalar su proyecto eólico. Esto se debe a que los metadatos de los convenios y el informe de la Secretaría Municipal de Almeida de Sayago fueron creados por la misma persona.",
+      "key_details": "La empresa Renner Energies España es la involucrada en el proyecto eólico, y la asociación Otra vez No en Sayago es la que presentó la denuncia en agosto de 2025. La Guardia Civil presentó un informe atestado en marzo de 2026 que sirve de base para la denuncia de la Fiscalía.",
+      "why_it_matters": "La denuncia de la Fiscalía puede tener implicaciones legales para la empresa Renner Energies España y los Ayuntamientos involucrados, ya que se sospecha de un delito de prevaricación. Esto puede afectar la aprobación del proyecto eólico y la confianza en la administración pública."
+    },
+    {
+      "title": "London Braces for Disruption From Tube Drivers’ Strike",
+      "url": "https://www.nytimes.com/2026/04/21/world/europe/london-underground-tube-strike.html",
+      "image": "https://static01.nyt.com/images/2026/04/21/world/21int-uk-train-strike/21int-uk-train-strike-mediumSquareAt3X.jpg",
+      "source": "NYT > Top Stories",
+      "language": "en",
+      "what_happened": "A strike by Tube drivers is expected to cause significant disruptions in London. The strike is related to a dispute over working conditions and hours.",
+      "key_details": "The strike will stop service on two lines, causing widespread delays. The dispute is specifically over working conditions and hours, with no further details provided on the negotiations.",
+      "why_it_matters": "This strike matters because it will affect the daily commute of many London residents, potentially causing inconvenience and disruption to their daily routines. The impact on the city's transportation system will be significant."
+    },
+    {
+      "title": "Mythos: are fears over new AI model panic or PR? – podcast",
+      "url": "https://www.theguardian.com/science/audio/2026/apr/21/mythos-are-fears-over-new-ai-model-panic-or-pr-podcast",
+      "image": "https://i.guim.co.uk/img/media/56e7513b4099e744b96b0f725323ce1f50953d0d/510_0_5028_4024/master/5028.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e92249abe5d4bb5d6488c3be23f9bb0e",
+      "source": "AI (artificial intelligence) | The Guardian",
+      "language": "en",
+      "what_happened": "Anthropic, an AI company, has created a powerful model called Mythos Preview that it claims poses a severe risk to economies, public safety, and national security. The company has decided not to release it to the public due to its potential risks.",
+      "key_details": "Mythos Preview excels at spotting and exploiting vulnerabilities in software, and Anthropic has limited its access to the public. The model's capabilities have been met with skepticism by some experts. Aisha Down, a reporter covering artificial intelligence, has investigated the decision to limit access to Mythos.",
+      "why_it_matters": "The decision to limit access to Mythos may reveal Anthropic's strategy and could potentially spur more regulation of the AI industry."
+    },
+    {
+      "title": "Canadian Tourist Is Killed in Shooting at Mexico’s Pyramids",
+      "url": "https://www.nytimes.com/2026/04/20/world/americas/mexico-shooting-pyramids-teotihuacan.html",
+      "image": "https://static01.nyt.com/images/2026/04/20/multimedia/20int-mexico-shooting-tckv/20int-mexico-shooting-tckv-mediumSquareAt3X.jpg",
+      "source": "NYT > Top Stories",
+      "language": "en",
+      "what_happened": "A gunman opened fire at the Teotihuacán archaeological site outside Mexico City, resulting in a Canadian tourist's death. The gunman then killed himself.",
+      "key_details": "Six Americans were injured in the incident, with two of them suffering from gunshot wounds. The shooting occurred at the Teotihuacán archaeological site, a popular tourist destination.",
+      "why_it_matters": "This incident highlights the ongoing security concerns in Mexico, impacting the country's tourism industry. It also raises concerns about the safety of foreign visitors in the region."
+    },
+    {
+      "title": "‘Oh, My Baby’: Mother Mourns Son, 15, Whose Killing Was Filmed on Video",
+      "url": "https://www.nytimes.com/2026/04/20/nyregion/queens-teen-shooting.html",
+      "image": "https://static01.nyt.com/images/2026/04/20/multimedia/20met-teen-shooting-wvfl/20met-teen-shooting-wvfl-mediumSquareAt3X-v2.jpg",
+      "source": "NYT > Top Stories",
+      "language": "en",
+      "what_happened": "A 15-year-old boy was fatally shot in a Queens park in broad daylight. The incident was captured on video by bystanders.",
+      "key_details": "The victim, Jaden Pierre, was mourned by his mother and hundreds of others at a vigil on Monday night. The shooting occurred in a public park, and bystanders recorded the incident on video. Hundreds attended the vigil to pay their respects.",
+      "why_it_matters": "The killing of a teenager in broad daylight highlights concerns about public safety and violence. The fact that the incident was filmed and shared underscores the need for community action to address such tragedies."
+    },
+    {
+      "title": "El director del OIEA alerta de una posible carrera armamentística nuclear ante la inestabilidad global",
+      "url": "https://www.europapress.es/internacional/noticia-director-oiea-alerta-posible-carrera-armamentistica-nuclear-inestabilidad-global-20260421040038.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260421040038_1200.jpg",
+      "source": "Europa Press - Internacional",
+      "language": "es",
+      "what_happened": "El director general del Organismo Internacional de la Energía Atómica (OIEA), Rafael Grossi, ha advertido sobre una posible carrera armamentística nuclear debido a la inestabilidad global. Esto podría llevar a que varios países incumplan el Tratado de No Proliferación Nuclear.",
+      "key_details": "Grossi mencionó que algunos países de Europa, Asia Menor y Extremo Oriente están debatiendo públicamente la posibilidad de desarrollar armas nucleares, lo que él califica como \"proliferación amistosa\". El director del OIEA atribuye este impulso a la \"actual atmósfera de fragmentación, conflicto y polarización\".",
+      "why_it_matters": "Una carrera armamentística nuclear sería \"extremadamente peligrosa\" y podría llevar a un mundo con 20 o más Estados con armas nucleares, lo que aumentaría significativamente el riesgo de conflictos nucleares."
+    },
+    {
+      "title": "Democrat Betty Yee Leaves the California Governor’s Race",
+      "url": "https://www.nytimes.com/2026/04/20/us/california-governor-democrat-betty-yee.html",
+      "image": "https://static01.nyt.com/images/2026/04/20/multimedia/20nat-ca-governor-tpmv/20nat-ca-governor-tpmv-mediumSquareAt3X.jpg",
+      "source": "NYT > Top Stories",
+      "language": "en",
+      "what_happened": "Democrat Betty Yee has withdrawn from the California Governor's race. This development has shifted the focus to other candidates.",
+      "key_details": "Xavier Becerra is gaining support, Eric Swalwell left the race due to sexual harassment allegations, and Becerra's traction has increased as a result.",
+      "why_it_matters": "The withdrawal of Yee and Swalwell's departure have significant implications for the California Governor's race, potentially altering the outcome."
+    },
+    {
+      "title": "Trump and Iran Face Off in Iran War Negotiations",
+      "url": "https://www.nytimes.com/2026/04/20/us/politics/us-iran-negotiation-style.html",
+      "image": "https://static01.nyt.com/images/2026/04/20/multimedia/20DC-TRUMP-top-hbjv/20DC-TRUMP-top-hbjv-mediumSquareAt3X.jpg",
+      "source": "NYT > Top Stories",
+      "language": "en",
+      "what_happened": "The United States and Iran are engaged in a second attempt at negotiations. Their differing negotiating styles are causing tension between the two parties.",
+      "key_details": "The negotiations involve the United States, led by Trump, and Iran, with their respective styles on a collision course. A deal is being attempted for the second time.",
+      "why_it_matters": "The outcome of these negotiations has significant implications for international relations and global security. The success or failure of the talks may impact the geopolitical landscape."
+    },
+    {
+      "title": "Gilgo Beach Killer Told His Wife That He Murdered 7 Women in Their Home",
+      "url": "https://www.nytimes.com/2026/04/20/nyregion/gilgo-beach-killer-wife-peacock-documentary.html",
+      "image": "https://static01.nyt.com/images/2026/04/20/multimedia/20met-gilgo-wife-jtzf/20met-gilgo-wife-jtzf-mediumSquareAt3X-v2.jpg",
+      "source": "NYT > Top Stories",
+      "language": "en",
+      "what_happened": "Rex Heuermann, quien se declaró culpable de asesinar a ocho mujeres, confesó a su esposa que cometió varios asesinatos en su hogar. Esto se reveló en un documental de Peacock.",
+      "key_details": "Heuermann admitió haber matado a siete de las víctimas en una habitación de abajo en su casa de Long Island, según declaraciones de su esposa. El documental de Peacock presenta esta confesión. Heuermann se declaró culpable de asesinar a ocho mujeres.",
+      "why_it_matters": "Esta confesión tiene implicaciones significativas en la investigación de los asesinatos y puede proporcionar más información sobre los crímenes. La admisión de Heuermann puede ayudar a esclarecer los detalles de los asesinatos."
+    },
+    {
+      "title": "Singer D4vd Charged With Murder of Celeste Rivas Hernandez",
+      "url": "https://www.nytimes.com/2026/04/20/arts/music/d4vd-murder-charges-celeste-rivas-hernandez.html",
+      "image": "https://static01.nyt.com/images/2026/04/20/multimedia/20cul-d4vd-charges-khcv/20cul-d4vd-charges-khcv-mediumSquareAt3X.jpg",
+      "source": "NYT > Top Stories",
+      "language": "en",
+      "what_happened": "The singer D4vd has been accused of a serious crime involving a teenager. He is facing charges related to the death of Celeste Rivas Hernandez.",
+      "key_details": "D4vd has pleaded not guilty to the charges. The accusations include sexual abuse and the use of a sharp weapon. The victim, Celeste Rivas Hernandez, was a teenager.",
+      "why_it_matters": "This case has significant implications due to the severity of the alleged crimes. The outcome of the trial will have a substantial impact on the parties involved and the community."
+    },
+    {
+      "title": "Louisiana Killer’s Threats to Himself and Others Hinted at Future Violence",
+      "url": "https://www.nytimes.com/2026/04/20/us/louisiana-shooter-shamar-elkins-shreveport.html",
+      "image": "https://static01.nyt.com/images/2026/04/20/multimedia/20nat-shreveport-wgfl/20nat-shreveport-wgfl-mediumSquareAt3X.jpg",
+      "source": "NYT > Top Stories",
+      "language": "en",
+      "what_happened": "Shamar Elkins carried out a deadly rampage that resulted in the deaths of eight children. This incident has had a profound impact on the community.",
+      "key_details": "Elkins had been experiencing severe mental health problems, according to his family. The community was already dealing with rising domestic violence. Eight children lost their lives in the rampage.",
+      "why_it_matters": "The incident highlights the need to address mental health issues and rising domestic violence. It has profoundly scarred the community, emphasizing the importance of intervention and support."
+    },
+    {
+      "title": "Amnistía advierte de que los DDHH y el multilateralismo están en jaque por \"gobiernos depredadores\"",
+      "url": "https://www.europapress.es/internacional/noticia-amnistia-advierte-ddhh-multilateralismo-estan-jaque-gobiernos-depredadores-20260421010449.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260421010449_1200.jpg",
+      "source": "Europa Press - Internacional",
+      "language": "es",
+      "what_happened": "Amnistía Internacional ha advertido que los Derechos Humanos y el multilateralismo están en peligro debido a ataques de \"gobiernos depredadores\". Estos gobiernos buscan acabar con el orden internacional basado en normas.",
+      "key_details": "El informe anual de Amnistía destaca el \"genocidio\" en Gaza, crímenes de lesa humanidad en Ucrania, y retroceso democrático en Estados Unidos. La secretaria general, Agnès Callamard, critica la \"inacción\" de los Estados frente a estos ataques.",
+      "why_it_matters": "La situación tiene implicaciones importantes para el orden internacional y los Derechos Humanos, ya que los \"gobiernos depredadores\" buscan imponer un orden mundial \"racista, patriarcal, no equitativo y antiderechos\"."
+    },
+    {
+      "title": "Tim Cook Will Step Down as Apple C.E.O.",
+      "url": "https://www.nytimes.com/2026/04/20/technology/tim-cook-apple-ceo-steps-down.html",
+      "image": "https://static01.nyt.com/images/2025/12/30/business/cook-succession-hfo/cook-succession-hfo-mediumSquareAt3X.jpg",
+      "source": "NYT > Top Stories",
+      "language": "en",
+      "what_happened": "Tim Cook will step down as the CEO of Apple. He will be replaced by a new leader within the company.",
+      "key_details": "The new CEO will be John Ternus, who is currently the head of hardware engineering at Apple. Ternus will take over the position, marking a change in leadership for the iPhone maker.",
+      "why_it_matters": "This change in leadership may impact Apple's future direction and product development, as Ternus brings a hardware engineering background to the role. The transition may have significant implications for the company's strategy and operations."
+    },
+    {
+      "title": "The Touska, the Iranian-Flagged Ship Seized by U.S. Forces, Was Under Sanctions",
+      "url": "https://www.nytimes.com/2026/04/20/us/politics/military-blockade-iran-strait-hormuz.html",
+      "image": "https://static01.nyt.com/images/2026/04/20/multimedia/20dc-military-iran-hmzv/20dc-military-iran-hmzv-mediumSquareAt3X.jpg",
+      "source": "NYT > Top Stories",
+      "language": "en",
+      "what_happened": "U.S. forces seized an Iranian-flagged ship, and marines are currently searching its containers. The ship was taken on Sunday after being disabled by the Navy.",
+      "key_details": "The ship, named Touska, is an Iranian cargo ship, and it was under sanctions. Thousands of containers are being searched by marines. The seizure occurred on Sunday.",
+      "why_it_matters": "The seizure of the ship has significant implications for international relations and trade. It highlights the ongoing tensions and enforcement of sanctions against Iran."
+    },
+    {
+      "title": "George Ariyoshi, 100, America’s First Governor of Asian Descent, Dies",
+      "url": "https://www.nytimes.com/2026/04/20/us/politics/george-ariyoshi-dead.html",
+      "image": "https://static01.nyt.com/images/2026/04/20/multimedia/20Ariyoshi--gchf/20Ariyoshi--gchf-mediumSquareAt3X.jpg",
+      "source": "NYT > Top Stories",
+      "language": "en",
+      "what_happened": "George Ariyoshi, el primer gobernador de ascendencia asiática en Estados Unidos, falleció a los 100 años. Sirvió como gobernador de Hawái durante tres mandatos.",
+      "key_details": "Fue un demócrata, gobernó de 1974 a 1986, y se esforzó por diversificar la economía de Hawái, que dependía en gran medida del turismo. Provenía de un distrito difícil de Honolulu.",
+      "why_it_matters": "Su legado es importante porque sentó las bases para una mayor diversidad en la política estadounidense. Su mandato tuvo un impacto significativo en la economía de Hawái."
+    },
+    {
+      "title": "‘Earthset’ Is Captured on Video for First Time",
+      "url": "https://www.nytimes.com/2026/04/20/science/reid-wiseman-earthset-photo-artemis-2.html",
+      "image": "",
+      "source": "NYT > Top Stories",
+      "language": "en",
+      "what_happened": "The Earth was captured slipping behind the moon in a video taken during NASA's Artemis II mission. This event was recorded on an iPhone by Reid Wiseman.",
+      "key_details": "The video was taken by astronaut Reid Wiseman, and it is a sequel to the iconic Earthrise photo taken by Apollo 8. The Earthrise photo was a historic image, and this new video provides a unique perspective. The mission is part of NASA's Artemis II.",
+      "why_it_matters": "This capture is significant as it provides a new perspective on the Earth's position in space. It also highlights the advancements in space exploration and documentation technology."
+    },
+    {
+      "title": "Shane Embury (Napalm Death, Etc.) Releases New Solo Track “Taurus”",
+      "url": "https://www.theprp.com/2026/04/20/news/shane-embury-napalm-death-etc-releases-new-solo-track-taurus/",
+      "image": "https://www.theprp.com/app/uploads/2026/04/shaneembury2026.webp",
+      "source": "Theprp.com",
+      "language": "en",
+      "what_happened": "Shane Embury, miembro de Napalm Death, ha lanzado un nuevo sencillo titulado \"Taurus\" como parte de su próximo álbum en solitario. Este álbum, que se titula \"Bridge To Resolution\", se espera que salga a la venta el 5 de junio.",
+      "key_details": "El álbum \"Bridge To Resolution\" refleja su amor por la música post-punk, y \"Taurus\" es el último sencillo en ser lanzado. Embury menciona que la muerte de sus padres lo inspiró a crear música, y que la pérdida de su madre en particular despertó sentimientos y heridas profundas.",
+      "why_it_matters": "La música de Embury puede tener un impacto significativo en los fanáticos de la música post-punk y en aquellos que buscan explorar temas de duelo y crecimiento personal a través de la música."
+    },
+    {
+      "title": "Who Is John Ternus, Apple’s Low-Profile Leader?",
+      "url": "https://www.nytimes.com/2026/01/08/technology/apple-ceo-tim-cook-john-ternus.html",
+      "image": "https://static01.nyt.com/images/2026/01/07/business/00apple-ternus-SUB/00apple-ternus-SUB-mediumSquareAt3X.jpg",
+      "source": "NYT > Top Stories",
+      "language": "en",
+      "what_happened": "John Ternus, un ejecutivo de Apple, podría ser el próximo en reemplazar al director ejecutivo de la empresa. Esto sucedería si Tim Cook decide dejar su cargo.",
+      "key_details": "John Ternus es un ejecutivo influyente, Tim Cook es el actual director ejecutivo de Apple, y Ternus podría reemplazarlo si se va.",
+      "why_it_matters": "La posible sucesión de Tim Cook es importante porque afecta el futuro de Apple. La elección de un nuevo director ejecutivo puede influir en la dirección estratégica de la empresa."
+    },
+    {
+      "title": "Nvidia CEO Loses His Cool at Tough Question",
+      "url": "https://futurism.com/artificial-intelligence/nvidia-ceo-podcast-china",
+      "image": "https://futurism.com/wp-content/uploads/2026/04/nvidia-ceo-podcast-china.jpg?w=1200",
+      "source": "Futurism",
+      "language": "en",
+      "what_happened": "Nvidia CEO Jensen Huang lost his composure during a podcast appearance when questioned about selling advanced AI chips to China. He became agitated when asked about potential national security risks to the United States.",
+      "key_details": "Huang was questioned by tech guy Dwarkesh Patel, who referenced Anthropic's Claude Mythos model as evidence of the potential risks. Huang responded indignantly, stating \"you're not talking to someone who woke up a loser.\" The discussion centered on the potential consequences of Nvidia pulling out of the Chinese market.",
+      "why_it_matters": "The incident highlights the pressure and scrutiny faced by CEOs of major tech companies, particularly when it comes to sensitive issues like national security and international competition. Huang's response suggests that Nvidia is committed to competing in the Chinese market."
+    },
+    {
+      "title": "El gran misterio",
+      "url": "https://www.eldiario.es/opinion/gran-misterio_131_13158661.html",
+      "image": "https://static.eldiario.es/clip/aae8757b-8985-4bb4-abdf-66b848e6e411_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es - elDiario.es",
+      "language": "en",
+      "what_happened": "Los lectores de elDiario.es reciben un aviso para actualizar sus datos de pago. Esto es necesario para renovar su suscripción y mantener su membresía.",
+      "key_details": "La tarjeta de pago de los lectores caduca, y se les pide que completen el proceso de actualización en unos minutos. Los datos de pago actuales son erróneos o incompletos.",
+      "why_it_matters": "La actualización de los datos de pago es crucial para evitar la baja como socio de elDiario.es. Esto permite a los lectores seguir accediendo a los contenidos y servicios del sitio web."
+    },
+    {
+      "title": "El polideportivo que \"se cae a cachos\" y Almeida no arreglará este año: techos en ruinas y salida de emergencia bloqueada",
+      "url": "https://www.eldiario.es/madrid/somos/polideportivo-cae-cachos-almeida-no-arreglara-ano-techos-ruinas-salida-emergencia-bloqueada_1_13155808.html",
+      "image": "https://static.eldiario.es/clip/d26b1bd8-bcf1-434e-8353-e6cc2ea39e0a_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es - elDiario.es",
+      "language": "en",
+      "what_happened": "El Centro Deportivo Municipal Palomeras presenta graves problemas de infraestructura, incluyendo techos dañados y salidas de emergencia bloqueadas. Esto ha sido revelado en un informe de Más Madrid después de una visita al centro.",
+      "key_details": "El informe detalla humedades y desprendimientos en las cubiertas, problemas de climatización, y una filtración de 3.000 litros de agua al día. Solo una de las cinco unidades de tratamiento del aire está operativa, y hay problemas en los desagües de los vestuarios.",
+      "why_it_matters": "Estos problemas afectan la seguridad y el funcionamiento del centro, lo que es un escándalo según Más Madrid, y requiere atención inmediata para garantizar el bienestar de los usuarios."
+    },
+    {
+      "title": "La escuela Bauhaus celebra su pasado buscando otra revolución en el futuro",
+      "url": "https://www.eldiario.es/cultura/arte/escuela-bauhaus-celebra-pasado-buscando-revolucion-futuro_1_13155746.html",
+      "image": "https://static.eldiario.es/clip/658b002c-fc0d-4a6f-9f63-1a0b5c393026_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es - elDiario.es",
+      "language": "en",
+      "what_happened": "La escuela Bauhaus de Dessau celebra su centenario con varias exposiciones y un programa que investiga los materiales del futuro. La ciudad de Dessau organiza estas actividades para conmemorar el asentamiento de la escuela en la ciudad.",
+      "key_details": "La exposición \"Glas / Beton / Metall\" estudia la historia de la escuela, mientras que \"Algae Debris CO2\" investiga nuevas formas de construir sostenibles. La Fundación Bauhaus Dessau ha organizado el programa bajo el lema \"An die Substanz\". La escuela fue fundada en 1919 por Walter Gropius.",
+      "why_it_matters": "La celebración del centenario de la Bauhaus es importante porque la escuela revolucionó la práctica de la construcción arquitectónica y su legado sigue influyendo en la arquitectura moderna. La investigación de nuevos materiales y formas de construir sostenibles es crucial para el futuro de la arquitectura."
+    },
+    {
+      "title": "Vuelve Orbán, pero en Extremadura",
+      "url": "https://www.eldiario.es/opinion/tribuna-abierta/vuelve-orban-extremadura_129_13157534.html",
+      "image": "https://static.eldiario.es/clip/7622bc72-ba2b-4cfd-ae58-40d6b2cf91fa_facebook-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es - elDiario.es",
+      "language": "en",
+      "what_happened": "El partido PP y Vox han firmado un acuerdo de gobierno en Extremadura, que incluye políticas similares a las implementadas por Fidesz en Hungría. Esto sucedió después de que Victor Orbán perdiera las elecciones en Hungría el 12 de abril.",
+      "key_details": "El acuerdo consta de 11 apartados temáticos, y se centra en la protección de la familia y la desprotección de las personas nacidas fuera de su territorio. Los líderes del PP y Vox, María Guardiola y Óscar Fernández Calle, anunciaron el acuerdo.",
+      "why_it_matters": "Esto es importante porque muestra una influencia del ideario de Fidesz en la política española, y puede tener implicaciones para la protección de los derechos de las personas migrantes en Extremadura."
+    },
+    {
+      "title": "El arte, al servicio del turismo: los creadores y la Comisión Europea critican el modelo cultural del PP en Palma",
+      "url": "https://www.eldiario.es/illes-balears/cultura/arte-servicio-turismo-creadores-comision-europea-critican-modelo-cultural-pp-palma_1_13155739.html",
+      "image": "https://static.eldiario.es/clip/7fca03b4-d84a-48de-ae3a-8a856ed5c44b_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es - elDiario.es",
+      "language": "en",
+      "what_happened": "Un grupo de personas se concentró frente al Palau de Congresos de Palma para protestar contra la \"turistificación de Mallorca\" mediante eventos culturales elitistas. La protesta se llevó a cabo durante la inauguración de la feria de arte Art Cologne Palma.",
+      "key_details": "La plataforma Menys turisme, més vida convocó la protesta, y el jurado de la convocatoria de la Capital Europea de la Cultura en 2031 criticó la candidatura de Palma por basarse en una metodología turística. El artista Gabriel Pericàs también criticó la candidatura por estar al servicio de los intereses del sector turístico.",
+      "why_it_matters": "La crítica a la candidatura de Palma destaca la preocupación por el enfoque turístico en detrimento del desarrollo de una estrategia cultural sólida. Esto tiene implicaciones para el futuro cultural de la ciudad y su capacidad para ser seleccionada como Capital Europea de la Cultura."
+    },
+    {
+      "title": "Una sentencia abre la puerta a que el alquiler de habitaciones pueda acogerse a la prórroga extraordinaria",
+      "url": "https://www.eldiario.es/economia/sentencia-abre-puerta-alquiler-habitaciones-pueda-acogerse-prorroga-extraordinaria_1_13145509.html",
+      "image": "https://static.eldiario.es/clip/a485a14f-dd91-4bc8-ae4c-08f15dc3add2_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es - elDiario.es",
+      "language": "en",
+      "what_happened": "Una sentencia de la Audiencia Provincial de Cantabria determina que el alquiler de habitaciones puede quedar más protegido si se demuestra que la habitación es la única vivienda permanente del inquilino. Esto puede abrir la puerta a que quienes tienen este tipo de contrato se puedan acoger al decreto de la prórroga extraordinaria.",
+      "key_details": "La sentencia del 10 de marzo reconoce el derecho a una prórroga forzosa de una inquilina con contrato de habitaciones. El contrato se considera un contrato de arrendamiento sometido a la LAU, a pesar de no estar redactado al amparo de esta ley. La sentencia obliga al casero a prorrogar el contrato de acuerdo con la LAU.",
+      "why_it_matters": "Esta sentencia puede tener implicaciones importantes para los inquilinos que viven en habitaciones alquiladas, ya que les puede proporcionar mayor protección y estabilidad en sus contratos de arrendamiento."
+    },
+    {
+      "title": "Quién es Asim Munir, el poderoso jefe del Ejército de Pakistán que es clave en las negociaciones de paz entre EEUU e Irán",
+      "url": "https://www.eldiario.es/internacional/theguardian/asim-munir-poderoso-jefe-ejercito-pakistan-clave-negociaciones-paz-eeuu-e-iran_1_13156253.html",
+      "image": "https://static.eldiario.es/clip/979a77d4-61da-4847-838c-659d4cd57dc3_facebook-watermarked-aspect-ratio_default_0_x614y269.jpg",
+      "source": "elDiario.es - elDiario.es",
+      "language": "en",
+      "what_happened": "El jefe del Ejército de Pakistán, Asim Munir, viajó a Teherán para reactivar los esfuerzos de Pakistán para llegar a un acuerdo entre Estados Unidos e Irán. Esto ocurrió después de que el vicepresidente estadounidense, JD Vance, abandonara Islamabad sin alcanzar un acuerdo.",
+      "key_details": "Munir se reunió con el ministro de Asuntos Exteriores de Irán, Abás Araghchi, y transmitió mensajes como intermediario de confianza para ambas partes. El presidente estadounidense, Donald Trump, elogió los esfuerzos de Munir para continuar los contactos entre ambas partes.",
+      "why_it_matters": "Pakistán se ha erigido como un inesperado mediador diplomático entre Irán y Estados Unidos, y Munir es considerado una figura clave en las negociaciones de paz."
+    },
+    {
+      "title": "Podemos sopesa primarias conjuntas para recuperar peso en la izquierda tras abrirse a hablar \"con todos\"",
+      "url": "https://www.eldiario.es/politica/sopesa-primarias-conjuntas-recuperar-peso-izquierda-abrirse-hablar_1_13157827.html",
+      "image": "https://static.eldiario.es/clip/6450468b-70ed-42f9-9a08-18d2e1599f75_facebook-watermarked-aspect-ratio_default_0_x799y389.jpg",
+      "source": "elDiario.es - elDiario.es",
+      "language": "en",
+      "what_happened": "Podemos considera la posibilidad de celebrar primarias conjuntas con otros partidos de la izquierda para las próximas elecciones generales. Esto se da después de un giro estratégico que incluyó un pacto con IU y Movimiento Sumar para las elecciones andaluzas.",
+      "key_details": "La número dos de Podemos, Irene Montero, abrió la puerta a hablar \"con todos\" para las próximas elecciones generales. El ex secretario general de Podemos, Pablo Iglesias, sugirió que las primarias conjuntas podrían ser una forma de unir a formaciones políticas con posiciones diferentes. El partido busca ganar peso en la izquierda.",
+      "why_it_matters": "Esto podría permitir a Podemos recuperar influencia en la izquierda y presentar una candidatura unitaria en las próximas elecciones generales. La decisión de Podemos podría tener implicaciones significativas en el panorama político español."
+    },
+    {
+      "title": "Prisiones insta a informar a los reclusos sobre el proceso de regularización de extranjeros y elaborar un registro",
+      "url": "https://www.europapress.es/nacional/noticia-prisiones-insta-informar-reclusos-proceso-regularizacion-extranjeros-elaborar-registro-20260420215052.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260420215052_1200.jpg",
+      "source": "Europa Press - Nacional",
+      "language": "es",
+      "what_happened": "La Secretaría General de Instituciones Penitenciarias ha instado a los centros penitenciarios a informar a los reclusos extranjeros sobre el proceso de regularización. Esto incluye la elaboración de un registro estadístico de solicitantes.",
+      "key_details": "El proceso se refiere al Real Decreto 316/2026 de 14 de abril, y se deberá dar apoyo lingüístico si es necesario. La información se difundirá a través de tablones de anuncios, bibliotecas o escuelas.",
+      "why_it_matters": "Esto es importante porque garantiza que los reclusos extranjeros tengan acceso a la información necesaria para regularizar su situación. La medida también busca contabilizar todas las solicitudes de regularización."
+    },
+    {
+      "title": "Pradales reúne al Consejo de Gobierno vasco en el hotel Carlton de Bilbao como homenaje a la sede bajo las bombas de 1937",
+      "url": "https://www.eldiario.es/euskadi/pradales-reune-consejo-gobierno-vasco-hotel-carlton-bilbao-homenaje-sede-bombas-1937_1_13157538.html",
+      "image": "https://static.eldiario.es/clip/44eaac28-0696-43d9-99f3-6f968d6c1d14_facebook-watermarked-aspect-ratio_default_0_x665y139.jpg",
+      "source": "elDiario.es - elDiario.es",
+      "language": "en",
+      "what_happened": "El lehendakari Imanol Pradales presidirá la reunión semanal del Consejo de Gobierno en el hotel Carlton de Bilbao. Esta reunión se lleva a cabo en un lugar histórico que fue la primera sede estable de la Presidencia vasca durante la Guerra Civil.",
+      "key_details": "El hotel Carlton cumple su centenario en 2026 y fue un lugar clave durante la Guerra Civil, con búnkeres bajo los escalones de acceso. La reunión se enmarca en el nonagésimo aniversario del primer Estatuto de autonomía y la constitución del primer Gobierno de Euzkadi. El consejero republicano Alfredo Espinosa fue fusilado tras la guerra.",
+      "why_it_matters": "Esta reunión es importante porque conmemora la historia de la autonomía vasca y su lucha durante la Guerra Civil. La elección del hotel Carlton como sede de la reunión destaca la importancia de preservar la memoria histórica de la región."
+    },
+    {
+      "title": "La regularización avanza a dos ritmos: de la agilidad en las oficinas a las colas por el informe que atasca el proceso",
+      "url": "https://www.eldiario.es/desalambre/regularizacion-arranca-ritmos-calma-oficinas-colas-informe-atasca-proceso_1_13158592.html",
+      "image": "https://static.eldiario.es/clip/1fc00d8b-be16-44d2-abaa-05e51784da55_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es - elDiario.es",
+      "language": "en",
+      "what_happened": "La regularización extraordinaria ha comenzado con atención presencial en oficinas de Correos en distintos puntos del país. Las ventanillas habilitadas han arrancado con normalidad, aunque con algunos retrasos.",
+      "key_details": "Valeria, una mujer de origen colombiano, ha registrado la petición de regularización para ella y su bebé después de dos horas de espera. La solicitud incluyó fotocopias del pasaporte, billetes de avión y certificados de antecedentes penales. La regularización es para personas que viven en España de forma irregular.",
+      "why_it_matters": "La regularización es crucial para personas como Valeria, que han vivido en España sin permiso de residencia. La aprobación de la solicitud les concederá la ansiada autorización para vivir y trabajar en el país de manera legal."
+    },
+    {
+      "title": "La jefa de Protección Civil de la Delegación del Gobierno alertó sobre el barranco del Poyo media hora antes del Es-Alert",
+      "url": "https://www.eldiario.es/comunitat-valenciana/jefa-proteccion-civil-delegacion-gobierno-alerto-barranco-poyo-media-hora-alert_1_13158029.html",
+      "image": "https://static.eldiario.es/clip/3bb5220b-6472-4c03-86e7-3490b76e24ca_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es - elDiario.es",
+      "language": "en",
+      "what_happened": "La jefa de Protección Civil de la Delegación del Gobierno, Patricia García, alertó sobre la situación del barranco del Poyo media hora antes del envío del Es-Alert el 29 de octubre de 2024. Esto ocurrió en una trágica jornada que acabó con 230 fallecidos.",
+      "key_details": "García envió un mensaje de WhatsApp a la funcionaria Inmaculada Piles a las 19:42, informando sobre una llamada del alcalde de Picanya, Josep Almenar, que alertaba sobre la situación en la calle de la Almassereta. La Guardia Civil estaba \"desbordada\" y el 112 no atendía a los vecinos.",
+      "why_it_matters": "Esta alerta temprana es importante porque muestra que hubo conocimiento de la situación de emergencia antes del envío del Es-Alert, lo que puede tener implicaciones en la investigación de los acontecimientos del 29 de octubre de 2024."
+    },
+    {
+      "title": "Parasite Tongue (Good Tiger, Ex-Sky Eats Airplane) Launch Their Debut Single “Gutterberg”",
+      "url": "https://www.theprp.com/2026/04/20/news/parasite-tongue-good-tiger-ex-sky-eats-airplane-launch-their-debut-single-gutterberg/",
+      "image": "https://www.theprp.com/app/uploads/2026/04/parasitetongue.jpg",
+      "source": "Theprp.com",
+      "language": "en",
+      "what_happened": "Good Tiger frontman Elliot Coleman has reunited with former bandmate Zack Ordway to form a new duo called Parasite Tongue. They have launched their debut single “Gutterberg”.",
+      "key_details": "The duo consists of Elliot Coleman and Zack Ordway, who previously played together in Sky Eats Airplane. A debut EP is set to be released later in the year, although a specific date has not been announced. Elliot Coleman recently gained attention on TikTok for shaving his head and beard.",
+      "why_it_matters": "The formation of Parasite Tongue marks a new musical collaboration between Coleman and Ordway, and their debut single and upcoming EP are likely to generate interest among fans of Good Tiger and Sky Eats Airplane. This new project may expand their musical reach and audience."
+    },
+    {
+      "title": "Tracking the Virginia Redistricting Referendum Early Vote",
+      "url": "https://www.nytimes.com/2026/03/27/us/elections/virginia-redistricting-early-vote-tracker.html",
+      "image": "https://static01.nyt.com/images/2026/03/26/multimedia/2026-03-25-va-early-vote-index/2026-03-25-va-early-vote-index-mediumSquareAt3X.png",
+      "source": "NYT > Top Stories",
+      "language": "en",
+      "what_happened": "Voters in Virginia are set to decide on a referendum to redraw the state's congressional map. This decision will be made on Tuesday.",
+      "key_details": "The referendum aims to eliminate all but one safe Republican district. The vote will take place on Tuesday. The state's congressional map is the focus of the referendum.",
+      "why_it_matters": "The outcome of the referendum will have significant implications for the state's congressional representation. It may impact the balance of power in the state's delegation."
+    },
+    {
+      "title": "The Sword And Red Fang Tease Rumored Tour Together",
+      "url": "https://www.theprp.com/2026/04/20/news/the-sword-and-red-fang-tease-rumored-tour-together/",
+      "image": "https://www.theprp.com/app/uploads/2025/02/thesword2025.jpg",
+      "source": "Theprp.com",
+      "language": "en",
+      "what_happened": "The Sword and Red Fang are expected to announce a joint tour, as hinted at in a teaser video posted on their social media accounts. This announcement is anticipated to be made on April 22nd.",
+      "key_details": "The teaser video was shared on April 20th, and the bands will reportedly play Super Cuts, but not Deep Cuts. The official reveal is scheduled for this coming Wednesday.",
+      "why_it_matters": "This tour announcement matters because it brings together two prominent stoner rock bands, generating excitement among fans of the genre. The joint tour is likely to attract a significant following and attention from music enthusiasts."
+    },
+    {
+      "title": "Kash Patel Sues The Atlantic for $250 Million Over Article Claiming Excessive Drinking",
+      "url": "https://www.nytimes.com/2026/04/20/us/politics/kash-patel-atlantic-article-alcohol-drinking-fbi-lawsuit.html",
+      "image": "https://static01.nyt.com/images/2026/04/20/multimedia/20trump-news-patel-atlantic-gpvk/20trump-news-patel-atlantic-gpvk-mediumSquareAt3X.jpg",
+      "source": "NYT > Top Stories",
+      "language": "en",
+      "what_happened": "Kash Patel has filed a lawsuit against The Atlantic, seeking $250 million in damages. The lawsuit alleges defamation due to an article published by the magazine.",
+      "key_details": "The lawsuit claims damages of $250 million, and The Atlantic has responded by calling the suit \"meritless\" through a spokeswoman. The article in question allegedly made claims about Patel's excessive drinking.",
+      "why_it_matters": "This lawsuit highlights the ongoing issue of defamation claims against media outlets, and its outcome may have implications for freedom of the press. The significant damages sought by Patel also underscore the high stakes involved in such cases."
+    },
+    {
+      "title": "Turnstile To Play 2026 ‘FORM’ Festival",
+      "url": "https://www.theprp.com/2026/04/20/news/turnstile-to-play-2026-form-festival/",
+      "image": "https://www.theprp.com/app/uploads/2025/06/turnstilepromo22025.jpg",
+      "source": "Theprp.com",
+      "language": "en",
+      "what_happened": "Turnstile will perform at the 'FORM' festival in Arcosanti, Arizona, from October 09th to 11th. This appearance is a sign of their continued success.",
+      "key_details": "The festival will also feature Blood Orange, Lorde, and Geese, among others. Turnstile is the only heavier artist on the roster. The event will run for three days in October.",
+      "why_it_matters": "This performance showcases Turnstile's ability to reach new audiences and solidify their position in the music scene. It highlights their growing popularity and versatility as a band."
+    },
+    {
+      "title": "Portrayal Of Guilt Stream New Song “Total Black”",
+      "url": "https://www.theprp.com/2026/04/20/news/portrayal-of-guilt-stream-new-song-total-black/",
+      "image": "https://www.theprp.com/app/uploads/2026/03/portrayalofguilt2026.webp",
+      "source": "Theprp.com",
+      "language": "en",
+      "what_happened": "Portrayal Of Guilt has premiered a new track called \"Total Black\" ahead of their fifth studio album. The album, \"...Beginning Of The End\", is set to be released on April 24th.",
+      "key_details": "The band will embark on a tour next month, starting on May 12th in New Orleans, with select shows featuring Street Sects, pagenineynine, and Taraneh. The tour will include stops in cities such as Chicago, New York, and Toronto. The album premiere was accompanied by quotes referencing Die Hard and the band's upcoming live performances.",
+      "why_it_matters": "The new album and tour are significant for fans of the blackened post-hardcore genre, offering a chance to experience the band's new material live. The tour schedule indicates a wide-reaching tour across North America."
+    },
+    {
+      "title": "Disturbed Just Scored Their Second Entry On Spotify’s Billions Club In Under A Week",
+      "url": "https://www.theprp.com/2026/04/20/news/disturbed-just-scored-their-second-entry-on-spotifys-billions-club-in-under-a-week/",
+      "image": "https://www.theprp.com/app/uploads/2025/02/disturbed2025.jpg",
+      "source": "Theprp.com",
+      "language": "en",
+      "what_happened": "Disturbed ha logrado su segunda entrada en la lista Billions Club de Spotify en menos de una semana. La canción \"Down With The Sickness\" se unió a la lista con 1 billón de reproducciones.",
+      "key_details": "La canción es 8x platino y forma parte del álbum debut de 2000, \"The Sickness\", que es 5x platino. La entrada en la lista sigue a la inclusión de su cover de \"The Sound Of Silence\" hace 3 días.",
+      "why_it_matters": "Esto demuestra el impacto duradero de la música de Disturbed y su capacidad para alcanzar un gran número de oyentes en plataformas digitales. La banda se acerca a su primera certificación de diamante en Estados Unidos con su cover de \"The Sound Of Silence\"."
+    },
+    {
+      "title": "NASA Shuts Down Voyager 1 Instrument as Its Life Force Fades",
+      "url": "https://futurism.com/space/nasa-shuts-down-voyager-1-instrument",
+      "image": "https://futurism.com/wp-content/uploads/2026/04/nasa-shuts-down-voyager-1-instrument.jpg?w=1200",
+      "source": "Futurism",
+      "language": "en",
+      "what_happened": "NASA shut down a key sensor on Voyager 1 due to low power levels. The space probe has been operating for nearly 50 years and is running out of energy.",
+      "key_details": "The Low-energy Charge Particles experiment (LECP) was shut down to conserve power. The Voyager 1 runs on a radioisotope thermoelectric generator, which is losing power at a rate of four watts per year. The power levels unexpectedly plunged on February 27 during a routine roll maneuver.",
+      "why_it_matters": "This decision is crucial to ensure the rest of the craft keeps operating for at least another year. The shutdown is a result of the combination of entropy and 1970s technology, which will eventually lead to the probe's demise."
+    },
+    {
+      "title": "Israeli Soldier in Lebanon Sledgehammered a Statue of Jesus",
+      "url": "https://www.nytimes.com/2026/04/20/world/middleeast/israeli-soldier-lebanon-sledgehammer-jesus.html",
+      "image": "https://static01.nyt.com/images/2026/04/21/multimedia/21int-israel-soldier-new-zltj/21int-israel-soldier-new-zltj-mediumSquareAt3X.jpg",
+      "source": "NYT > Top Stories",
+      "language": "en",
+      "what_happened": "A Israeli soldier in Lebanon damaged a statue of Jesus, prompting an investigation by the military. The incident has sparked regret from high-ranking officials.",
+      "key_details": "Prime Minister Benjamin Netanyahu expressed regret for any hurt caused to believers, and the military is currently investigating the soldier's actions. The incident occurred in Lebanon and involved a statue of Jesus being damaged with a sledgehammer.",
+      "why_it_matters": "The incident has implications for religious tolerance and international relations, particularly between Israel and Lebanon. It may also affect the perception of Israel's military abroad."
+    },
+    {
+      "title": "El Barça Basket a por su última oportunidad en Euroliga: partidos, horarios y dónde ver por TV los play-in",
+      "url": "https://www.eldiario.es/spin/deportes/barca-basket-ultima-oportunidad-euroliga-partidos-horarios-ver-tv-play-in-pm_1_13157942.html",
+      "image": "https://static.eldiario.es/clip/fa13b1b5-be46-4ecc-85c5-1bddbd376d99_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es - elDiario.es",
+      "language": "en",
+      "what_happened": "La Euroliga de baloncesto se encuentra en su momento decisivo con la llegada de los playoffs y los play-in. Los equipos clasificados del séptimo al décimo lugar disputarán los play-in para decidir los dos billetes restantes para los playoffs.",
+      "key_details": "Los play-in se disputarán del martes 21 al viernes 24 de abril, con tres partidos que decidirán el cuadro completo para los playoffs. El Barça Basket se enfrentará a Estrella Roja, y el ganador se enfrentará al perdedor del partido entre Panathinaikos y AS Mónaco. El partido entre Panathinaikos y AS Mónaco se verá a las 20 horas.",
+      "why_it_matters": "La Euroliga de baloncesto decidirá los cuatro equipos que disputarán la Final Four de Atenas en mayo, y los play-in son cruciales para decidir los dos billetes restantes para los playoffs."
+    },
+    {
+      "title": "AMOC’s Fragile Western Boundary Appears To Be Failing, Putting Western Europe's Climate Under Threat",
+      "url": "https://www.iflscience.com/amocs-fragile-western-boundary-appears-to-be-failing-putting-western-europes-climate-under-threat-83255",
+      "image": "https://assets.iflscience.com/assets/articleNo/83255/aImg/90138/northern-amoc-meta.jpg",
       "source": "Science News, Articles | IFLScience",
       "language": "en",
-      "what_happened": "A collaboration was honored with the Breakthrough Prize in Fundamental Physics for its precise measurement of the g-2 value. This measurement is related to the muon experiment.",
-      "key_details": "The Breakthrough Prize in Fundamental Physics awarded $3 million to the collaboration. The prize recognizes efforts to advance the Standard Model of particle physics. The collaboration made a precise measurement of the g-2 value.",
-      "why_it_matters": "This recognition matters because it acknowledges significant contributions to understanding particle physics. The award supports ongoing research to refine the Standard Model."
+      "what_happened": "The Atlantic Meridional Overturning Circulation (AMOC) is weakening at its western boundary, according to new research. This weakening trend has significant implications for Western Europe's climate.",
+      "key_details": "The northernmost part of the AMOC is strengthening, but the western edge is weakening. The AMOC is responsible for making Britain and Scandinavia habitable. Research indicates a deeply worrying overall trend.",
+      "why_it_matters": "The weakening of the AMOC's western boundary puts Western Europe's climate under threat, as the AMOC plays a crucial role in regulating the region's climate."
+    },
+    {
+      "title": "How Bruce the Parrot Landed Atop the Pecking Order, Without a Beak",
+      "url": "https://www.nytimes.com/2026/04/20/science/bruce-kea-beak-alpha.html",
+      "image": "",
+      "source": "NYT > Top Stories",
+      "language": "en",
+      "what_happened": "A parrot, known as Bruce, has gained fame for its innovative abilities. The parrot learned to adapt in a unique way, surprising scientists with its resourcefulness.",
+      "key_details": "The kea used a pebble to groom himself, showcasing his problem-solving skills. Scientists were amazed by his next innovation, demonstrating his exceptional abilities. The kea's name is Bruce, and he has become a subject of interest.",
+      "why_it_matters": "This discovery matters because it highlights the intelligence and adaptability of certain bird species. The kea's innovative behavior has significant implications for our understanding of animal cognition."
+    },
+    {
+      "title": "Jeff Bezos’ Space Company Just Screwed Up Very, Very Badly",
+      "url": "https://futurism.com/space/jeff-bezos-blue-origin-new-glenn-satellite-failure",
+      "image": "https://futurism.com/wp-content/uploads/2026/04/jeff-bezos-blue-origin-new-glenn-satellite-failure.jpg?w=1200",
+      "source": "Futurism",
+      "language": "en",
+      "what_happened": "Blue Origin's New Glenn rocket successfully reused its booster but failed to deliver a communications satellite into the planned orbit. The satellite was placed into a lower orbit, rendering it useless.",
+      "key_details": "The rocket's booster was recovered on a drone ship called \"Jacklyn\", the satellite's customer AST SpaceMobile admitted the failure, and insurance will cover the cost of the satellite. The New Glenn rocket made its maiden voyage in January 2025 but failed to recover its first stage at the time.",
+      "why_it_matters": "This failure is a setback for Blue Origin, which is competing with SpaceX to launch heavy-lift rockets and lunar landers for NASA's Artemis missions. The success of reusable boosters is crucial for the company's future plans, including launching its Blue Moon lunar lander."
+    },
+    {
+      "title": "An Uncomfortable Truth About Boiling Lobsters Alive: They Respond To Painkillers Much Like Us",
+      "url": "https://www.iflscience.com/an-uncomfortable-truth-about-boiling-lobsters-alive-they-respond-to-painkillers-much-like-us-83245",
+      "image": "https://assets.iflscience.com/assets/articleNo/83245/aImg/90123/lobster-tank-meta.png",
+      "source": "Science News, Articles | IFLScience",
+      "language": "en",
+      "what_happened": "Scientists have conducted a study to determine how lobsters respond to painkillers, shedding light on the debate about their ability to feel pain. The study found that lobsters react to painkillers similarly to humans.",
+      "key_details": "The researchers used Norway lobsters (Nephrops norvegicus) from a local market and tested their response to aspirin and anesthetics. The study was conducted by scientists at the University of Gothenburg. The results showed that lobsters' response to painkillers is similar to that of humans.",
+      "why_it_matters": "This discovery has implications for the ethics of boiling lobsters alive, as it suggests that their experience of pain may be more similar to humans than previously thought. The findings may impact the way seafood is handled and prepared in kitchens."
     },
     {
       "title": "Northeastern Japan Hit By 7.7 Magnitude Earthquake As Residents Warned Of Potential Tsunamis",
       "url": "https://www.iflscience.com/northeastern-japan-hit-by-77-magnitude-earthquake-as-residents-warned-of-potential-tsunamis-83249",
-      "image": "https://assets.iflscience.com/assets/articleNo/83249/aImg/90127/tsunami-warning-l.jpg",
+      "image": "https://assets.iflscience.com/assets/articleNo/83249/aImg/90127/tsunami-warning-meta.jpg",
       "source": "Science News, Articles | IFLScience",
       "language": "en",
-      "what_happened": "A 7.7 magnitude earthquake struck off the northeastern coast of Japan, prompting warnings of potential tsunamis. The earthquake has already generated significant waves.",
-      "key_details": "The earthquake's magnitude was 7.7, and the resulting waves could reach up to 3 meters in height. The quake occurred off the northeastern coast of Japan.",
-      "why_it_matters": "This event matters because it poses a significant threat to coastal residents and infrastructure, requiring immediate evacuation and emergency response measures."
+      "what_happened": "A 7.7 magnitude earthquake occurred off the coast of northern Japan, prompting tsunami advisories in the region. The earthquake struck at a depth of around 20 kilometers.",
+      "key_details": "The earthquake occurred off the coast of Sanriku, on the northeastern side of the island of Honshu, at around 4:53 pm local time. An 80-centimeter tsunami has already struck Kuji Port in Iwate Prefecture. The region has been warned to expect tsunamis over the coming weeks.",
+      "why_it_matters": "This event has significant implications for the safety of residents in the affected areas, who are at risk of further tsunami waves. The warnings and advisories issued by Japan's Meteorological Agency are crucial for mitigating potential damage and loss of life."
     },
     {
       "title": "7,500-Year-Old \"Neanderthal-Human Hybrid\" Skull Turns Out To Be Something Different",
       "url": "https://www.iflscience.com/7500-year-old-neanderthal-human-hybrid-skull-turns-out-to-be-something-different-83250",
-      "image": "https://assets.iflscience.com/assets/articleNo/83250/aImg/90125/human-skull-bone-from-hahnofersand-l.jpg",
+      "image": "https://assets.iflscience.com/assets/articleNo/83250/aImg/90125/human-skull-bone-from-hahnofersand-meta.jpg",
       "source": "Science News, Articles | IFLScience",
       "language": "en",
-      "what_happened": "A 7,500-year-old skull found in Germany was initially thought to be a Neanderthal-human hybrid. The skull's origins have been reevaluated, leading to a different conclusion.",
-      "key_details": "The skull is a frontal bone, and its classification is unclear. Modern humans and Neanderthals did produce hybrid offspring. The skull's age is approximately 7,500 years.",
-      "why_it_matters": "The discovery has implications for understanding human evolution and the interactions between Neanderthals and modern humans. It highlights the complexity of classifying ancient human remains."
-    },
-    {
-      "title": "\"Even A Severe Impairment Does Not Have To Mean An Animal Won't Succeed”: Despite Having Half A Beak, Bruce The Kea Is The Ringmaster Of His Circus",
-      "url": "https://www.iflscience.com/even-a-severe-impairment-does-not-have-to-mean-an-animal-wont-succeed-despite-having-half-a-beak-bruce-the-kea-is-the-ringmaster-of-his-circus-83246",
-      "image": "https://assets.iflscience.com/assets/articleNo/83246/aImg/90121/bruce-l.jpg",
-      "source": "Science News, Articles | IFLScience",
-      "language": "en",
-      "what_happened": "Bruce, a kea, has been thriving despite having half a beak. He has become a successful member of his group at Willowbank Wildlife Reserve.",
-      "key_details": "Bruce has been missing half his beak since his arrival, but this impairment has not hindered his social interactions. He is described as the ringmaster of his circus, indicating his high social status. Bruce's condition has not limited his ability to succeed.",
-      "why_it_matters": "Bruce's story highlights the resilience of animals with impairments, showing they can still achieve social success. His case demonstrates that physical limitations do not necessarily determine an animal's ability to thrive."
-    },
-    {
-      "title": "Haunted by ‘Dark Thoughts,’ Louisiana Father Kills 8 Children",
-      "url": "https://www.nytimes.com/2026/04/19/us/shreveport-mass-shooting-dead-children.html",
-      "image": "https://static01.nyt.com/images/2026/04/19/multimedia/19xp-shooting-vlmg/19xp-shooting-vlmg-mediumSquareAt3X.jpg",
-      "source": "NYT > Top Stories",
-      "language": "en",
-      "what_happened": "A Louisiana father killed eight children, seven of whom were his own, in a tragic incident. The gunman died in a confrontation with the police.",
-      "key_details": "The gunman was struggling with mental health problems and was stressed about his relationship with his wife, according to relatives. Seven of the eight children killed were the shooter's own children.",
-      "why_it_matters": "This incident highlights the importance of addressing mental health issues and their potential consequences. It also underscores the need for support systems to prevent such tragedies."
+      "what_happened": "A 7,500-year-old skull found in Germany was initially thought to be a Neanderthal-human hybrid due to its mixed traits. The skull was discovered in Hahnöfersand and its age was determined to be around 36,000 years through radiocarbon dating.",
+      "key_details": "The skull's frontal bone showed a mix of Neanderthal and modern human traits, leading researchers to suggest it may be a hybrid. The specimen was found without any associated cultural artifacts, making identification challenging. Radiocarbon dating revealed an age of 36,000 years.",
+      "why_it_matters": "The discovery and analysis of the skull provide insight into human evolution and the potential interactions between Neanderthals and Homo sapiens. The findings have significant implications for understanding human history and the context of species hybridization."
     },
     {
       "title": "Carlos Baute asegura que se “dejó llevar por la emoción” con los insultos contra Delcy Rodríguez: “No soy racista”",
@@ -78,98 +648,18 @@
       "source": "elDiario.es - elDiario.es",
       "language": "en",
       "what_happened": "El cantante Carlos Baute se disculpó por sumarse a los cánticos racistas contra Delcy Rodríguez durante su concierto. Se dejó llevar por la emoción del momento y no meditó sus acciones.",
-      "key_details": "Baute afirmó que no es racista y que viene de una familia venezolana, creciendo dentro del folclore venezolano. El cantante publicó un vídeo para dar explicaciones y pidió disculpas a quienes se sintieron ofendidos. La Embajada de Venezuela en España también pidió perdón por los cánticos racistas.",
-      "why_it_matters": "La situación tiene implicaciones políticas y sociales, ya que involucra a figuras públicas y puede afectar las relaciones entre Venezuela y España. La disculpa de Baute y la Embajada de Venezuela busca mitigar el impacto negativo de los cánticos racistas."
+      "key_details": "Baute aseguró que no es racista y que viene de una familia venezolana, creciendo dentro del folclore venezolano. El PP de Madrid se desvinculó de los gritos y el líder Alberto Núñez Feijóo dijo que no está a favor de insultar a nadie.",
+      "why_it_matters": "La situación tiene implicaciones políticas y sociales, ya que la Embajada de Venezuela en España pidió perdón por los cánticos racistas, destacando la importancia de respetar a todas las personas."
     },
     {
-      "title": "Reform’s Richard Tice posts picture with telltale signs of AI manipulation, say experts",
-      "url": "https://www.theguardian.com/politics/2026/apr/20/reform-richard-tice-picture-ai-manipulation",
-      "image": "https://i.guim.co.uk/img/media/f0bd704bbcc102c3772cbcbac51587ea4be5ad9b/83_26_1232_985/master/1232.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b7245b4d0c1b31a049382c5edc853b24",
-      "source": "AI (artificial intelligence) | The Guardian",
-      "language": "en",
-      "what_happened": "Richard Tice, deputy leader of Reform UK, posted a picture on social media that appears to have been manipulated using AI. The image was intended to show party supporters campaigning in Birmingham.",
-      "key_details": "The picture features a diverse group of supporters with placards, but exhibits signs of AI manipulation, such as \"sausage fingers\" and \"melted faces\". Experts from Peryton Intelligence believe the image was likely generated or altered using AI. The post sparked questions from X users about its legitimacy.",
-      "why_it_matters": "The incident raises concerns about the use of AI-generated content in politics, potentially misleading the public. It also highlights the need for authenticity and transparency in political communication."
-    },
-    {
-      "title": "ONG denuncian el carácter sexual de la violencia de colonos para expulsar a la población palestina",
-      "url": "https://www.europapress.es/internacional/noticia-ong-denuncian-caracter-sexual-violencia-colonos-expulsar-poblacion-palestina-20260420172955.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260420172955_1200.jpg",
-      "source": "Europa Press - Internacional",
-      "language": "es",
-      "what_happened": "Un estudio ha revelado que más del 70 por ciento de los hogares de personas palestinas desplazadas por la violencia de colonos israelíes en Cisjordania han señalado las amenazas con connotaciones sexuales. Estos abusos están dirigidos contra mujeres, hombres y menores.",
-      "key_details": "Las amenazas con connotaciones sexuales son el factor clave en la decisión de abandonar su lugar de residencia, según Allegra Pacheco. Los hombres y niños han informado de abusos como verse obligados a desnudarse y humillaciones con cariz sexual. Estos abusos suceden \"frecuentemente\" en presencia de fuerzas de seguridad israelíes.",
-      "why_it_matters": "La violencia sexual es un mecanismo utilizado para echar a la gente de sus tierras, lo que equivale a un desplazamiento forzoso en el derecho internacional. Esto refuerza el clima de impunidad que da pie a nuevos abusos."
-    },
-    {
-      "title": "El Gobierno ultima un decreto ley para desbloquear la jubilación parcial de los empleados públicos",
-      "url": "https://www.eldiario.es/economia/gobierno-ultima-decreto-ley-desbloquear-jubilacion-parcial-empleados-publicos_1_13157737.html",
-      "image": "https://static.eldiario.es/clip/65b6d97b-a57d-4ad8-b686-3d4471a2bed9_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "source": "elDiario.es - elDiario.es",
-      "language": "en",
-      "what_happened": "El Ministerio de la Seguridad Social está ultimando un decreto ley para desbloquear la jubilación parcial de los empleados públicos laborales. Esto se debe a un acuerdo con los sindicatos mayoritarios, CCOO y UGT.",
-      "key_details": "La medida permitirá que el puesto de relevista se cubra con trabajadores temporales interinos vinculados a una próxima convocatoria de empleo público. La ministra de Inclusión, Seguridad Social y Migraciones, Elma Saiz, dirige el Ministerio que está trabajando en el decreto ley. El acuerdo también incluye el acceso a la pensión de viudedad de parejas de hecho no registradas.",
-      "why_it_matters": "La jubilación parcial de los empleados públicos laborales había quedado imposibilitada tras la última reforma de pensiones, lo que afectaba a muchos trabajadores. Este acuerdo puede resolver el problema y mejorar las condiciones laborales."
-    },
-    {
-      "title": "Starmer Tells Parliament He Was Kept in the Dark on Mandelson Vetting",
-      "url": "https://www.nytimes.com/2026/04/20/world/europe/uk-starmer-mandelson-statement-parliament.html",
-      "image": "https://static01.nyt.com/images/2026/04/20/multimedia/20int-uk-starmer-01-fwmt/20int-uk-starmer-01-fwmt-mediumSquareAt3X.jpg",
+      "title": "A Day in the Life of New York City’s Young Chess Stars",
+      "url": "https://www.nytimes.com/2026/04/20/nyregion/new-york-chess-kids.html",
+      "image": "https://static01.nyt.com/images/2026/04/20/multimedia/20met-chess-kids-01-vfcg/20met-chess-kids-01-vfcg-mediumSquareAt3X.jpg",
       "source": "NYT > Top Stories",
       "language": "en",
-      "what_happened": "Prime Minister Keir Starmer addressed British lawmakers after it emerged that Peter Mandelson was rejected for top security clearances. This revelation led to a parliamentary discussion on Monday.",
-      "key_details": "Peter Mandelson, a former ambassador to the United States, was rejected for top security clearances. Keir Starmer addressed the issue on Monday, and Mandelson's rejection is a significant development in British politics.",
-      "why_it_matters": "The incident matters because it raises questions about the vetting process and transparency within the government. It also has implications for the prime minister's awareness of key security clearance decisions."
-    },
-    {
-      "title": "Why Gas Prices Go Up Fast and Take So Long to Fall",
-      "url": "https://www.nytimes.com/2026/04/20/business/economy/gas-stations-pricing.html",
-      "image": "https://static01.nyt.com/images/2026/04/20/multimedia/00biz-gas-stations-01-tbhz/00biz-gas-stations-01-tbhz-mediumSquareAt3X.jpg",
-      "source": "NYT > Top Stories",
-      "language": "en",
-      "what_happened": "Fuel station owners absorb some of the cost when oil prices rise, and then attempt to recoup their losses when prices fall. This practice affects the rate at which gas prices increase and decrease.",
-      "key_details": "Station owners take a financial hit when oil prices surge, and they try to recover their losses on the way down. This is a key factor in the disparity between the speed of price increases and decreases. The owners' efforts to recoup their losses contribute to the slow decline of gas prices.",
-      "why_it_matters": "The practice of station owners recouping their losses has significant implications for consumers, who often experience rapid price increases but slow decreases. This affects the overall perception of fairness in the fuel pricing system."
-    },
-    {
-      "title": "Israel anuncia el desmantelamiento de una \"célula terrorista iraní\" que buscaba \"asesinar israelíes\" en todo el mundo",
-      "url": "https://www.europapress.es/internacional/noticia-israel-anuncia-desmantelamiento-celula-terrorista-irani-buscaba-asesinar-israelies-todo-mundo-20260420171504.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260420171504_1200.jpg",
-      "source": "Europa Press - Internacional",
-      "language": "es",
-      "what_happened": "Las agencias de Inteligencia de Israel han desmantelado una \"célula terrorista iraní\" que buscaba atentar contra altos cargos israelíes en todo el mundo. Los principales líderes de este grupo fueron eliminados en la ofensiva militar lanzada contra Irán a finales de febrero.",
-      "key_details": "La célula había introducido drones explosivos en Azerbaiyán y recababa información sobre posibles objetivos bajo instrucciones iraníes. El jefe de la División de Operaciones Especiales de la Inteligencia de la Guardia Revolucionaria, Rahman Moqadam, estaba al mando de la red y murió en la Operación León Rugiente.",
-      "why_it_matters": "La desarticulación de esta célula terrorista evita posibles ataques contra israelíes en todo el mundo y muestra la cooperación entre Israel y otros países para combatir el terrorismo."
-    },
-    {
-      "title": "In Article About Horrific Shooting That Killed Eight Children, Forbes Lets Readers Place Bets About Gun Control",
-      "url": "https://futurism.com/future-society/forbes-mass-shooting-bets-gun-control",
-      "image": "https://futurism.com/wp-content/uploads/2026/04/forbes-bets-article-mass-shooting.jpg?w=1200",
-      "source": "Futurism",
-      "language": "en",
-      "what_happened": "A mass shooting in Shreveport, Louisiana, resulted in the deaths of eight children. Forbes published an article about the incident, including a prediction game widget that allowed readers to bet on upcoming gun control regulation.",
-      "key_details": "The widget, called ForbesPredict, asked readers if they believed Congress would pass new gun safety legislation before December 31, 2026. The feature uses \"wager coins\" instead of real money. The incident was first reported by cryptocurrency journalist Molly White.",
-      "why_it_matters": "This incident highlights the controversy surrounding the use of prediction markets in news reporting, particularly in sensitive topics like gun control. It raises questions about the appropriateness of gamifying serious issues."
-    },
-    {
-      "title": "Strait of Hormuz Traffic Is at a Standstill Again",
-      "url": "https://www.nytimes.com/2026/04/20/world/middleeast/strait-hormuz-traffic-ships-iran-us.html",
-      "image": "https://static01.nyt.com/images/2026/04/20/multimedia/20israel-iran-shipping-1-mcvk/20israel-iran-shipping-1-mcvk-mediumSquareAt3X.jpg",
-      "source": "NYT > Top Stories",
-      "language": "en",
-      "what_happened": "Traffic in the Strait of Hormuz has come to a standstill due to recent attacks on ships. Few vessels are currently crossing the waterway.",
-      "key_details": "Iran had previously considered reopening the strait, but has since reversed its decision. The reversal and subsequent attacks have resulted in significantly reduced traffic.",
-      "why_it_matters": "This development has significant implications for global trade and shipping, as the Strait of Hormuz is a vital waterway. The standstill may lead to increased costs and delays for ships and cargo."
-    },
-    {
-      "title": "El PP respeta la actuación judicial en 'caso Kitchen' y marca distancias con Gobierno de Rajoy: \"No estábamos por aquí\"",
-      "url": "https://www.europapress.es/nacional/noticia-pp-respeta-actuacion-judicial-caso-kitchen-marca-distancias-gobierno-rajoy-no-estabamos-aqui-20260420170510.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260420170510_1200.jpg",
-      "source": "Europa Press - Nacional",
-      "language": "es",
-      "what_happened": "El secretario general del Partido Popular, Miguel Tellado, ha expresado su respeto a la actuación judicial en el 'caso Kitchen'. Ha marcado distancias con la actuación del Gobierno de Mariano Rajoy en este caso.",
-      "key_details": "Tellado ha declarado que el PP no cuestionará ni difamará la labor de los jueces. El caso 'Kitchen' se refiere a una presunta operación parapolicial orquestada por el Ministerio de Interior del Gobierno de Mariano Rajoy. Luis Bárcenas ha confirmado que le pidió a un compañero de prisión destruir audios relacionados con Mariano Rajoy.",
-      "why_it_matters": "La posición del PP en este caso es importante porque muestra su distancia con el Gobierno de Mariano Rajoy y su compromiso con la justicia. Esto puede tener implicaciones en la percepción pública del partido y su relación con la justicia."
+      "what_happened": "Children from New York schools are achieving great success in national chess championships. They are consistently winning these competitions, showcasing their exceptional skills.",
+      "key_details": "New York schools have programs dedicated to teaching young people the game of chess, which are currently booming. These programs are helping children develop their chess skills, leading to national championship wins. The success of these programs is evident in the consistent wins.",
+      "why_it_matters": "The success of these young chess players matters as it highlights the effectiveness of the chess programs in New York schools. It also demonstrates the potential for chess to positively impact the development of young people."
     },
     {
       "title": "Cuando “la canción más bonita del mundo” llegó al número uno: 25 años de uno de los himnos de La Oreja de Van Gogh",
@@ -177,369 +667,9 @@
       "image": "https://static.eldiario.es/clip/27868f6b-7da5-4dc1-a274-d6cd85229ac4_facebook-watermarked-aspect-ratio_default_0_x999y405.jpg",
       "source": "elDiario.es - elDiario.es",
       "language": "en",
-      "what_happened": "La canción \"La Playa\" de La Oreja de Van Gogh llegó al número uno en la lista de sencillos en la radio Los 40 principales hace 25 años. Esto ocurrió durante el lanzamiento de su segundo disco de estudio, 'El viaje de Copperpot'.",
-      "key_details": "El disco 'El viaje de Copperpot' vendió más de 2 millones de copias y se grabó en el sur de Francia con Nigel Walker como productor. La canción \"La Playa\" se quedó en lo más alto de la lista durante dos semanas consecutivas.",
-      "why_it_matters": "El éxito de \"La Playa\" y 'El viaje de Copperpot' consolidó a La Oreja de Van Gogh como una de las bandas más prometedoras del pop español en el año 2000. Esto marcó un momento decisivo en su trayectoria."
-    },
-    {
-      "title": "Los cambios en la microbiota intestinal podrían ayudar a identificar a personas con riesgo de párkinson",
-      "url": "https://www.eldiario.es/sociedad/cambios-microbiota-intestinal-ayudar-identificar-personas-riesgo-parkinson_1_13157616.html",
-      "image": "https://static.eldiario.es/clip/4a025489-2369-494f-afc5-4a36942acc5a_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "source": "elDiario.es - elDiario.es",
-      "language": "en",
-      "what_happened": "Un estudio publicado en la revista Nature Medicine encontró que los cambios en la microbiota intestinal podrían ayudar a identificar a personas con riesgo de párkinson. Esto se basa en el análisis de datos clínicos y fecales de participantes del Reino Unido e Italia.",
-      "key_details": "El estudio analizo a 271 personas con párkinson, 43 portadores de la variante GBA1 y 150 participantes sanos. Se encontraron 176 especies microbianas que diferían entre los individuos sanos y aquellos con la enfermedad. Los autores identificaron un patrón distintivo de bacterias intestinales en personas portadoras de una variante genética GBA1.",
-      "why_it_matters": "Estos hallazgos podrían ofrecer nuevas oportunidades para la identificación temprana de personas con mayor riesgo de desarrollar la enfermedad. Sin embargo, se necesitan estudios longitudinales para establecer si la microbiota puede identificar de manera fiable a quienes tienen mayor probabilidad de desarrollar la enfermedad."
-    },
-    {
-      "title": "How Bruce the Parrot Landed Atop the Pecking Order — Without a Beak",
-      "url": "https://www.nytimes.com/2026/04/20/science/bruce-kea-beak-alpha.html",
-      "image": "",
-      "source": "NYT > Top Stories",
-      "language": "en",
-      "what_happened": "A parrot, known as Bruce, has gained fame for its unique abilities. The parrot learned to adapt and overcome its physical limitations.",
-      "key_details": "The kea, also known as Bruce, learned to use a pebble to groom himself, showcasing his innovative nature. Scientists were impressed by his ability to adapt. Bruce's next innovation further astonished the scientific community.",
-      "why_it_matters": "This discovery matters because it highlights the intelligence and adaptability of certain bird species. It also showcases the importance of innovation in overcoming physical limitations."
-    },
-    {
-      "title": "Gonzalo Celorio, premio Cervantes: \"Los lectores somos masoquistas que compramos conflictos que no nos pertenecen\"",
-      "url": "https://www.eldiario.es/cultura/libros/gonzalo-celorio-premio-cervantes-lectores-masoquistas-compramos-conflictos-no-pertenecen_1_13156599.html",
-      "image": "https://static.eldiario.es/clip/d38348ca-f889-4bd8-813a-a3392638b723_facebook-watermarked-aspect-ratio_default_0_x2061y460.jpg",
-      "source": "elDiario.es - elDiario.es",
-      "language": "en",
-      "what_happened": "El escritor mexicano Gonzalo Celorio recibirá el Premio Cervantes este jueves en la Universidad de Alcalá de Henares. El premio es considerado como el 'Nobel' de la literatura en castellano.",
-      "key_details": "Gonzalo Celorio sucede al español Álvaro Pombo en el galardón, y ha sido reconocido por su \"lucidez y sensibilidad\" en la exploración de la identidad y la pérdida. La directora general del Libro, María José Gálvez, lo describió como un \"fiel amante de la palabra\".",
-      "why_it_matters": "El Premio Cervantes es un reconocimiento importante en la literatura en castellano, y el galardón a Gonzalo Celorio destaca su contribución a la literatura mexicana y su influencia en la literatura en general."
-    },
-    {
-      "title": "Kallas aboga por medidas comerciales contra Israel ante la falta de mayoría para suspender Acuerdo de Asociación",
-      "url": "https://www.europapress.es/internacional/noticia-kallas-aboga-medidas-comerciales-contra-israel-falta-mayoria-suspender-acuerdo-asociacion-20260420165812.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260420165812_1200.jpg",
-      "source": "Europa Press - Internacional",
-      "language": "es",
-      "what_happened": "La Alta Representante de la Unión Europea, Kaja Kallas, ha sugerido que la UE debería considerar medidas restrictivas contra Israel antes de suspender el Acuerdo de Asociación. Esto se debe a que la suspensión total requiere unanimidad entre los Veintisiete estados miembros.",
-      "key_details": "Kallas mencionó que ya hay una propuesta de la presidenta de la Comisión Europea, Ursula von der Leyen, para una suspensión parcial que requeriría mayoría cualificada. Los países como España, Eslovenia e Irlanda han pedido un debate formal sobre el Acuerdo de Asociación con Israel.",
-      "why_it_matters": "Estas declaraciones tienen lugar en un contexto de tensiones entre la UE e Israel, y la posible suspensión del Acuerdo de Asociación podría tener implicaciones significativas para las relaciones comerciales y políticas entre ambas partes."
-    },
-    {
-      "title": "El Supremo rechaza suspender cautelarmente 3.000 millones en préstamos del Estado a Indra y Escribano",
-      "url": "https://www.eldiario.es/economia/supremo-rechaza-suspender-cautelarmente-3-000-millones-prestamos-indra-escribano_1_13157862.html",
-      "image": "https://static.eldiario.es/clip/fc5d27ed-e89e-40cb-8c41-4e2de812fd32_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "source": "elDiario.es - elDiario.es",
-      "language": "en",
-      "what_happened": "La Sala de lo Contencioso-Administrativo del Tribunal Supremo ha denegado la medida cautelar solicitada por Santa Bárbara Sistemas para suspender la asignación de 3.000 millones de euros en préstamos a Indra y Escribano. Esta decisión se produce en el marco de contratos por valor total de 7.240 millones de euros.",
-      "key_details": "La medida cautelar solicitaba la suspensión de los préstamos y de todos los procedimientos y actos administrativos subsiguientes. La Sala basa el rechazo en que los perjuicios alegados por Santa Bárbara Sistemas no están probados. El importe total de los contratos es de 7.240 millones de euros.",
-      "why_it_matters": "La decisión del Tribunal Supremo tiene implicaciones para la competencia en el sector de la defensa y la asignación de fondos públicos. La denegación de la medida cautelar permite que los préstamos a Indra y Escribano continúen adelante."
-    },
-    {
-      "title": "Starmer, de nuevo en apuros por el nombramiento de Mandelson: esta vez por China",
-      "url": "https://www.eldiario.es/internacional/starmer-nuevo-apuros-nombramiento-mandelson-vez-china_1_13157639.html",
-      "image": "https://static.eldiario.es/clip/de6807ed-cb2e-4211-9989-eb43de334da0_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "source": "elDiario.es - elDiario.es",
-      "language": "en",
-      "what_happened": "El primer ministro británico, Keir Starmer, defendió su papel en el nombramiento de Peter Mandelson como embajador en Washington. Starmer enfrenta críticas por el nombramiento de Mandelson, quien está siendo investigado por supuestamente haber pasado información confidencial.",
-      "key_details": "Mandelson fue detenido en febrero y fue dejado en libertad sin cargos, y se reveló que no pasó el primer análisis de seguridad antes de ocupar el puesto en 2024. El funcionario responsable del Ministerio de Exteriores, Olly Robbins, decidió que Mandelson sí podía pasar el corte en contra del primer veredicto. Starmer aseguró que nunca fue informado de esto.",
-      "why_it_matters": "La situación cuestiona la posición de Starmer al frente del partido y del Gobierno, especialmente en medio de la crisis internacional. La investigación y el nombramiento de Mandelson tienen implicaciones importantes para la confianza en el gobierno de Starmer."
-    },
-    {
-      "title": "Justices to Hear Case on Catholic Preschools That Reject Children of Gay Parents",
-      "url": "https://www.nytimes.com/2026/04/20/us/politics/supreme-court-catholic-preschools.html",
-      "image": "https://static01.nyt.com/images/2026/04/20/multimedia/20DC-SCOTUS-PRESCHOOLS-jcvt/20DC-SCOTUS-PRESCHOOLS-jcvt-mediumSquareAt3X.jpg",
-      "source": "NYT > Top Stories",
-      "language": "en",
-      "what_happened": "Catholic preschools in Colorado are suing to participate in a state-funded program after being declined due to their enrollment policies. These preschools decline to enroll families with L.G.B.T.Q. children or parents.",
-      "key_details": "The preschools are located in Colorado and are Catholic-affiliated. They have specific enrollment policies that exclude families with L.G.B.T.Q. children or parents. The state-funded program is the subject of the lawsuit.",
-      "why_it_matters": "This case has implications for the balance between religious freedom and anti-discrimination laws. The outcome may set a precedent for similar cases involving state-funded programs and private institutions with specific enrollment policies."
-    },
-    {
-      "title": "La UE enfría la propuesta de Sánchez para romper el Acuerdo de Asociación con Israel",
-      "url": "https://www.eldiario.es/internacional/ue-enfria-propuesta-sanchez-romper-acuerdo-asociacion-israel_1_13157458.html",
-      "image": "https://static.eldiario.es/clip/4a2d2552-67d7-48fa-bd31-f80224aad114_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "source": "elDiario.es - elDiario.es",
-      "language": "en",
-      "what_happened": "La Unión Europea ha enfriado la propuesta del presidente del Gobierno, Pedro Sánchez, de romper el Acuerdo de Asociación de la UE con Israel. Esto se debe a que la jefa de Exteriores de la UE, Kaja Kallas, considera que se deben evaluar otras medidas antes de tomar una decisión.",
-      "key_details": "La propuesta de Sánchez será presentada por el ministro de Exteriores, Jose Manuel Albares, en una reunión con sus homólogos europeos. España, Eslovenia e Irlanda han enviado una carta a Kaja Kallas para apoyar la iniciativa. Kallas se reunió con el primer ministro de Palestina, Mohamed Mustafá, en Bruselas.",
-      "why_it_matters": "La decisión de la UE tiene implicaciones importantes para la relación entre la UE y Israel, especialmente en el contexto de las violaciones del derecho internacional por parte de Israel. La UE busca ejercer presión sobre Israel a través de medidas como sanciones y suspensión de disposiciones del Acuerdo de Asociación."
-    },
-    {
-      "title": "Por qué nos ponemos de mal humor cuando tenemos hambre, según una nutricionista: \"Aumentan las hormonas del estrés\"",
-      "url": "https://www.eldiario.es/consumoclaro/ponemos-mal-humor-hambre-nutricionista-aumentan-hormonas-estres-xp_1_13157188.html",
-      "image": "https://static.eldiario.es/clip/d83ec3ef-0efe-41dd-85bd-b6e7d31af6c8_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "source": "elDiario.es - elDiario.es",
-      "language": "en",
-      "what_happened": "El hambre puede alterar nuestro estado de ánimo y provocar mal humor. Esto se debe a cambios en los circuitos emocionales del cerebro y la bajada de glucosa en sangre.",
-      "key_details": "La glucosa es la principal fuente de energía del cerebro, y cuando los niveles de glucosa bajan, el cerebro se resiente. La nutricionista Natalia Paz y la dietista-nutricionista Sandra Gómez González explican que la bajada de glucosa en sangre puede facilitar la irritabilidad y el mal humor.",
-      "why_it_matters": "La comprensión de esta reacción biológica puede ayudar a gestionar mejor el mal humor cuando se tiene hambre, y existen estrategias para evitarlo."
-    },
-    {
-      "title": "The Night the Government Closed the Skies Over El Paso",
-      "url": "https://www.nytimes.com/2026/04/20/business/a-squabble-in-dc-yields-chaos-in-el-paso.html",
-      "image": "https://static01.nyt.com/images/2026/04/17/us/politics/new-elpaso-promo/new-elpaso-mediumSquareAt3X.jpg",
-      "source": "NYT > Top Stories",
-      "language": "en",
-      "what_happened": "A high-energy laser weapon and a power struggle between federal agencies caused disruptions in El Paso. The city experienced a night of hassles due to these events.",
-      "key_details": "The incident involved a high-energy laser weapon, and federal agencies were engaged in a power struggle. The city affected was El Paso, and the events occurred at night.",
-      "why_it_matters": "The incident highlights the potential risks and consequences of advanced weaponry and inter-agency conflicts. It also underscores the need for effective coordination and communication among federal agencies to prevent such disruptions."
-    },
-    {
-      "title": "A Decisive Win Raises Bulgarians’ Hopes for Change",
-      "url": "https://www.nytimes.com/2026/04/20/world/europe/bulgaria-election-result-rumen-radev.html",
-      "image": "https://static01.nyt.com/images/2026/04/20/multimedia/00int-Bulgaria-assess-gzlm/00int-Bulgaria-assess-gzlm-mediumSquareAt3X.jpg",
-      "source": "NYT > Top Stories",
-      "language": "en",
-      "what_happened": "Rumen Radev, un expresidente, obtuvo una victoria en las elecciones, lo que brinda a Bulgaria una oportunidad para lograr estabilidad. Esto puede permitir que el país aborde la corrupción que ha obstaculizado su crecimiento.",
-      "key_details": "Rumen Radev es un expresidente que ha ganado la elección, lo que sugiere que tiene experiencia en el cargo. La victoria de Radev puede ser un paso hacia la estabilidad en Bulgaria. La corrupción ha sido un problema significativo en el país.",
-      "why_it_matters": "La victoria de Radev puede tener un impacto significativo en el futuro de Bulgaria, ya que puede ayudar a abordar la corrupción y promover el crecimiento. Esto puede mejorar la situación política y económica del país."
-    },
-    {
-      "title": "Una bronca del portavoz del PP con la presidenta de la comisión de la dana en el Congreso acaba con la expulsión del diputado popular",
-      "url": "https://www.eldiario.es/comunitat-valenciana/politica/bronca-portavoz-pp-presidenta-comision-dana-congreso-acaba-expulsion-diputado-popular_1_13157655.html",
-      "image": "https://static.eldiario.es/clip/d0db8a99-ffc2-4992-80ee-b539f0f7d37d_facebook-watermarked-aspect-ratio_default_0_x4799y472.jpg",
-      "source": "elDiario.es - elDiario.es",
-      "language": "en",
-      "what_happened": "El portavoz del PP, César Sánchez, fue expulsado de la sesión de la comisión del Congreso que investiga la crisis de la dana. La expulsión ocurrió después de tres llamadas al orden por parte de la presidenta de la comisión, Carmen Martínez.",
-      "key_details": "La expulsión se produjo durante el interrogatorio al jefe de Climatología de la Aemet en la Comunidad Valenciana, José Ángel Núñez. Sánchez acusó a Martínez de actuar \"de manera discrecional y sectaria\". La presidenta de la comisión le leyó el Reglamento y le informó que si tenía alguna queja, debía remitir un escrito.",
-      "why_it_matters": "La expulsión refleja la tensión y el debate en torno a la gestión de la crisis de la dana. La comisión del Congreso busca investigar y esclarecer los hechos relacionados con la crisis."
-    },
-    {
-      "title": "La victoria histórica del ciclismo español en una prueba que se resistía: Paula Blasi sorprende y se hace con la Amstel Gold Race",
-      "url": "https://www.eldiario.es/spin/deportes/victoria-historica-ciclismo-espanol-paula-blasi-amstel-gold-race-pm_1_13156212.html",
-      "image": "https://static.eldiario.es/clip/58212979-a045-49bb-abb0-2268dd2e1baf_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "source": "elDiario.es - elDiario.es",
-      "language": "en",
-      "what_happened": "La ciclista española Paula Blasi ha ganado la Amstel Gold Race Ladies Edition 2026, una prueba que se resistía al ciclismo español. Esta victoria es la primera de un ciclista nacido en España en esta carrera.",
-      "key_details": "Blasi, de 23 años, ganó en su primera participación, imponiéndose a nombres como Kasia Niewiadoma y Demi Vollering. La carrera tuvo un recorrido de 156 kilómetros con 22 colinas. Blasi fue incluida en la carrera a última hora por su equipo.",
-      "why_it_matters": "Esta victoria es histórica para el ciclismo español, especialmente en la categoría femenina. La victoria de Blasi marca un hito importante en el deporte."
-    },
-    {
-      "title": "Influencers Are Spinning Nicotine as a ‘Natural’ Health Hack",
-      "url": "https://www.nytimes.com/2026/04/20/well/nicotine-health-maha.html",
-      "image": "https://static01.nyt.com/images/2026/04/10/multimedia/well-maha-nicotine-cqht/well-maha-nicotine-cqht-mediumSquareAt3X-v2.jpg",
-      "source": "NYT > Top Stories",
-      "language": "en",
-      "what_happened": "Influencers are promoting nicotine as a health hack, despite its controversial reputation. They claim the medical establishment has unfairly criticized the compound.",
-      "key_details": "Many of these influencers are aligned with the Make America Healthy Again Movement. They argue that nicotine is a natural compound. The medical establishment is being criticized for its stance on nicotine.",
-      "why_it_matters": "This promotion of nicotine has significant implications for public health, as it may lead to increased nicotine consumption. The influencers' claims may also undermine trust in the medical establishment."
-    },
-    {
-      "title": "Vance Heads to New Talks With Iran. At Stake: Peace and His Own Standing.",
-      "url": "https://www.nytimes.com/2026/04/20/us/politics/vance-iran-peace-negotiations.html",
-      "image": "https://static01.nyt.com/images/2026/04/19/multimedia/19DC-IRAN-TALKS-vbkz/19DC-IRAN-TALKS-vbkz-mediumSquareAt3X.jpg",
-      "source": "NYT > Top Stories",
-      "language": "en",
-      "what_happened": "The vice president has returned to high-level Iranian peace talks after previously leaving without an agreement. This move puts him back in a crucial position.",
-      "key_details": "The vice president had abruptly left the first round of talks, and his return indicates a continued effort to reach an agreement. The talks involve high-level discussions with Iran, and the vice president's role is central to the negotiations.",
-      "why_it_matters": "The outcome of these talks has significant implications for regional peace and the vice president's own standing in international diplomacy. A successful agreement could bolster his reputation and contribute to stability in the region."
-    },
-    {
-      "title": "Project Blue Beam: The 1990s Conspiracy Theory That Told Of Hologram Alien Invasions And A New World Order",
-      "url": "https://www.iflscience.com/project-blue-beam-the-1990s-conspiracy-theory-that-told-of-hologram-alien-invasions-and-a-new-world-order-83240",
-      "image": "https://assets.iflscience.com/assets/articleNo/83240/aImg/90118/in-the-night-sky-l.jpg",
-      "source": "Science News, Articles | IFLScience",
-      "language": "en",
-      "what_happened": "A conspiracy theory from the 1990s has resurfaced, proposing extraordinary claims. This theory was initially considered implausible but continues to circulate online.",
-      "key_details": "The theory involves hologram alien invasions and a new world order. It originated in the 1990s and has seen periodic revivals on the internet. The ideas are broad and sensational, contributing to their enduring presence online.",
-      "why_it_matters": "The theory's persistence highlights the internet's role in reviving and disseminating conspiracy theories. Its continued circulation underscores the ongoing fascination with extraordinary and unverified claims."
-    },
-    {
-      "title": "Cuidado con las imágenes que circulan de supuestas marquesinas de Madrid con mensajes llamando \"ayatolá\" a Pedro Sánchez o refiriéndose a Israel como \"estado genocida\": están manipuladas",
-      "url": "https://maldita.es/desinfo/20260420/hay-marquesinas-en-madrid-diciendo-ayatola-pedrito-sobre-pedro-sanchez-o-puto-estado-genocida-sobre-israel/",
-      "image": "https://maldita.es/system/articles/24400/image",
-      "source": "Maldita.es — Periodismo para que no te la cuelen",
-      "language": "es",
-      "what_happened": "Se han difundido imágenes manipuladas de supuestas marquesinas de Madrid con mensajes ofensivos hacia Pedro Sánchez e Israel. Estas imágenes han sido compartidas en redes sociales.",
-      "key_details": "Los mensajes manipulados incluyen frases como \"ayatolá Pedrito\" y \"puto estado genocida\". Las imágenes originales de la campaña \"SpainSays\" tienen un color más brillante y vivo, y el logo de Madrid es diferente en las imágenes manipuladas. La compañía \"SpainSays\" ha asegurado que las imágenes han sido manipuladas con inteligencia artificial.",
-      "why_it_matters": "La difusión de estas imágenes manipuladas puede generar confusión y malestar en la opinión pública, y es importante verificar la autenticidad de la información antes de compartirla."
-    },
-    {
-      "title": "Tellado defiende la \"prioridad nacional\" del pacto extremeño PP-Vox y garantiza ayudas a Cáritas: \"No les va a afectar\"",
-      "url": "https://www.europapress.es/nacional/noticia-tellado-defiende-prioridad-nacional-pacto-extremeno-pp-vox-garantiza-ayudas-caritas-no-les-va-afectar-20260420145311.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260420145311_1200.jpg",
-      "source": "Europa Press - Nacional",
-      "language": "es",
-      "what_happened": "Miguel Tellado, secretario general del PP, defendió el acuerdo entre el PP y Vox en Extremadura. Tellado garantizó ayudas a organizaciones como Cáritas.",
-      "key_details": "El pacto incluye el concepto de \"prioridad nacional\" introducido por Vox, que prioriza el acceso a ayudas y subvenciones para quienes tienen un arraigo real en el territorio. Tellado retó al Gobierno de Pedro Sánchez a denunciar el pacto, asegurando que no será impugnado por los tribunales.",
-      "why_it_matters": "El pacto tiene implicaciones para la asignación de recursos públicos y la atención a inmigrantes en Extremadura. La introducción de la \"prioridad nacional\" puede afectar a organizaciones que acogen inmigrantes irregulares."
-    },
-    {
-      "title": "The Iran War Sent Shock Waves Through Asia That Are Likely to Spread",
-      "url": "https://www.nytimes.com/2026/04/20/world/asia/asia-pacific-iran-war-oil.html",
-      "image": "https://static01.nyt.com/images/2026/04/20/multimedia/20int-iran-asia-risks-qvpb/20int-iran-asia-risks-qvpb-mediumSquareAt3X.jpg",
-      "source": "NYT > Top Stories",
-      "language": "en",
-      "what_happened": "The war in Iran has had a significant impact on the Asia-Pacific region, causing energy bottlenecks. This has led to a crisis in the area, with problems multiplying and spreading.",
-      "key_details": "The Asia-Pacific region was hit hard and quick by the war, indicating a rapid escalation of issues. Energy bottlenecks are a key factor in the crisis, and scenes of crisis in the region are becoming more apparent. The war's effects are causing problems to multiply.",
-      "why_it_matters": "The crisis in the Asia-Pacific region has significant implications for global energy markets and economic stability. The spreading problems may lead to further instability in the region."
-    },
-    {
-      "title": "Aviso serio al hormigón: el musgo absorbe 20 veces su peso y frena acumulaciones de agua en zonas críticas",
-      "url": "https://www.eldiario.es/spin/aviso-serio-hormigon-musgo-absorbe-20-veces-peso-frena-acumulaciones-agua-zonas-criticas-pm_1_13154408.html",
-      "image": "https://static.eldiario.es/clip/c382fbc8-9330-4b4f-9cbb-844468152f33_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "source": "elDiario.es - elDiario.es",
-      "language": "en",
-      "what_happened": "Un estudio propone utilizar musgo en infraestructuras urbanas para capturar contaminación y retener agua. El musgo puede absorber hasta 20 veces su peso en agua.",
-      "key_details": "El estudio fue desarrollado por Pedram Vousoughi en la University of Limerick y se centra en el uso de musgo en márgenes de carreteras. El European Moss Survey ya utiliza musgo para medir la calidad del aire en países europeos. El musgo puede reducir el mantenimiento en infraestructuras viarias.",
-      "why_it_matters": "Esta propuesta es importante porque ofrece una alternativa sostenible para reducir la contaminación y mejorar la gestión del agua en zonas urbanas. El uso de musgo puede ser una solución efectiva y de bajo mantenimiento para infraestructuras urbanas."
-    },
-    {
-      "title": "Stolen Letters That John Keats Sent to His Beloved Are Found",
-      "url": "https://www.nytimes.com/2026/04/20/arts/john-keats-letters-fanny-brawne-stolen.html",
-      "image": "https://static01.nyt.com/images/2026/04/20/arts/20cul-KEATS-LETTERS/20cul-KEATS-LETTERS-mediumSquareAt3X.jpg",
-      "source": "NYT > Top Stories",
-      "language": "en",
-      "what_happened": "Eight letters written by 19th-century Romantic poet John Keats to his fiancée, Fanny Brawne, have been recovered after being stolen. The letters were taken from a Whitney family estate on Long Island decades ago.",
-      "key_details": "The letters were written by John Keats to Fanny Brawne, his fiancée. They were stolen from a Whitney family estate on Long Island. The recovery of these letters is significant for understanding the poet's life.",
-      "why_it_matters": "The recovery of these letters provides valuable insight into John Keats' life and relationships. This discovery is important for literary historians and scholars studying the Romantic poet."
-    },
-    {
-      "title": "La isla de Portugal con una playa de 9 kilómetros y rodeada de paisajes volcánicos",
-      "url": "https://www.eldiario.es/viajes/isla-portugal-playa-9-kilometros-rodeada-paisajes-volcanicos_1_13155788.html",
-      "image": "https://static.eldiario.es/clip/f3823289-618d-4274-94aa-1ce364d5c4d3_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "source": "elDiario.es - elDiario.es",
-      "language": "en",
-      "what_happened": "La isla de Porto Santo, ubicada en el archipiélago portugués de Madeira, es conocida por su belleza árida y paisajes volcánicos. La isla cuenta con una playa de 9 kilómetros de largo.",
-      "key_details": "La playa de Porto Santo se extiende a lo largo de 9 kilómetros, la isla mide 11 kilómetros de largo y 6 de ancho, y se encuentra a 40 kilómetros al noreste de la isla de Madeira.",
-      "why_it_matters": "La isla de Porto Santo es un destino turístico atractivo debido a su belleza natural y su atmósfera de aislamiento privilegiado, lo que la hace ideal para relajarse y explorar."
-    },
-    {
-      "title": "RFK Jr Has A History Of Doubting Germ Theory – Here’s How We Know He’s Wrong",
-      "url": "https://www.iflscience.com/rfk-jr-has-a-history-of-doubting-germ-theory-heres-how-we-know-hes-wrong-83239",
-      "image": "https://assets.iflscience.com/assets/articleNo/83239/aImg/90129/rfk-jr-l.jpg",
-      "source": "Science News, Articles | IFLScience",
-      "language": "en",
-      "what_happened": "La teoría de los gérmenes ha sido la base de la medicina durante 150 años. Esta teoría ha sido fundamental para el desarrollo de la medicina moderna.",
-      "key_details": "La teoría de los gérmenes tiene 150 años de historia, y la evidencia que la respalda es más fuerte que nunca. La medicina se basa en esta teoría para entender y tratar enfermedades.",
-      "why_it_matters": "La comprensión de la teoría de los gérmenes es crucial para el avance de la medicina y la salud pública. Esto tiene implicaciones importantes para la prevención y el tratamiento de enfermedades."
-    },
-    {
-      "title": "Trump Administration to Begin Refunding $166 Billion in Tariffs",
-      "url": "https://www.nytimes.com/2026/04/20/business/trump-administration-tariff-refunds.html",
-      "image": "https://static01.nyt.com/images/2026/04/20/multimedia/20dc-trump-tariffs-zgmf/20dc-trump-tariffs-zgmf-mediumSquareAt3X.jpg",
-      "source": "NYT > Top Stories",
-      "language": "en",
-      "what_happened": "The government will start repaying importers who paid tariffs that were struck down by the Supreme Court. This repayment process begins two months after the court's decision.",
-      "key_details": "The total amount to be refunded is $166 billion, and the repayment system is part of the aftermath of the Supreme Court's ruling on the president's trade policy. The Supreme Court struck down the tariffs at the heart of the president's trade policy.",
-      "why_it_matters": "This refund is significant as it impacts the trade policy implemented by the president and has implications for importers who paid the tariffs. The repayment process is a result of the Supreme Court's decision."
-    },
-    {
-      "title": "Cuidado con las afirmaciones de que el presidente de Andalucía y su mujer tienen cuentas en paraísos fiscales: forman parte del 'Expediente Royuela', desestimado por la Justicia",
-      "url": "https://maldita.es/desinfo/20260420/juanma-moreno-bonilla-tiene-2-5-millones-de-dolares-en-bladex-op-panama/",
-      "image": "https://maldita.es/system/articles/24417/image",
-      "source": "Maldita.es — Periodismo para que no te la cuelen",
-      "language": "es",
-      "what_happened": "El presidente de Andalucía y su mujer han sido objeto de afirmaciones sobre tener cuentas en paraísos fiscales. Estas afirmaciones forman parte del 'Expediente Royuela', una teoría de la conspiración desestimada por la Justicia.",
-      "key_details": "El 'Expediente Royuela' incluye documentos que la Justicia ha definido como “plantillas de Word” para fabricar extractos bancarios, y el banco Bladex afirma que su base de clientes está formada por bancos y corporaciones, no por personas individuales. La asociación ACODAP, que difunde esta información, no tiene relación con la Justicia u organismos oficiales de España.",
-      "why_it_matters": "Estas acusaciones sin pruebas pueden dañar la reputación de los involucrados y desinformar al público. La desestimación de la Justicia y la falta de pruebas creíbles destacan la importancia de verificar la información antes de difundirla."
-    },
-    {
-      "title": "El PSOE se dispara en el CIS de abril y llega al 36,4% y una ventaja de casi 13 puntos sobre el PP",
-      "url": "https://www.europapress.es/nacional/noticia-psoe-dispara-cis-abril-llega-364-ventaja-casi-13-puntos-pp-20260420140118.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260420140118_1200_v2.jpg",
-      "source": "Europa Press - Nacional",
-      "language": "es",
-      "what_happened": "El PSOE alcanza el 36,4% de estimación de voto en el CIS de abril, mientras que el PP se mantiene en el 23,6%.",
-      "key_details": "El PSOE aumenta cinco puntos respecto al mes anterior, Vox pierde dos puntos y se sitúa en el 14,7%, y Sumar cae al 5,8%, su peor dato de la legislatura.",
-      "why_it_matters": "Esto supone una ventaja de 12,8 puntos para el PSOE sobre el PP, lo que puede tener implicaciones significativas en el panorama político actual."
-    },
-    {
-      "title": "La acusación popular pide 24 años de cárcel para Begoña Gómez por cuatro delitos",
-      "url": "https://www.eldiario.es/politica/acusaciones-populares-piden-24-anos-carcel-begona-gomez-cuatro-delitos_1_13156863.html",
-      "image": "https://static.eldiario.es/clip/ed493c3d-a284-4592-a969-b4ebbae1812b_facebook-watermarked-aspect-ratio_default_0_x2225y616.jpg",
-      "source": "elDiario.es - elDiario.es",
-      "language": "en",
-      "what_happened": "La acusación popular ha solicitado una pena de 24 años de cárcel para Begoña Gómez, esposa del presidente del Gobierno, por cuatro delitos. Esto se debe a una investigación sobre su posible influencia y actividades después de que su esposo asumiera el cargo.",
-      "key_details": "Los delitos incluyen tráfico de influencias, corrupción en los negocios, malversación y apropiación indebida. La acusación también solicita penas para otros involucrados, como Cristina Álvarez y Juan Carlos Barrabés. La asociación Hazte Oír dirige la acusación popular.",
-      "why_it_matters": "Esta acusación tiene implicaciones importantes para la transparencia y la integridad del gobierno, ya que involucra a la esposa del presidente del Gobierno. La investigación y sus resultados pueden tener un impacto significativo en la confianza pública en el gobierno."
-    },
-    {
-      "title": "Begoña Gómez pide anular el auto de Peinado para llevarla a juicio y ve \"inaceptable\" que compare a Sánchez con Fernando VII",
-      "url": "https://www.eldiario.es/politica/begona-gomez-pide-anular-auto-peinado-llevarla-juicio-ve-inaceptable-compare-sanchez-fernando-vii_1_13156002.html",
-      "image": "https://static.eldiario.es/clip/de338a2e-a223-496b-9702-97bbd9d4c1a5_facebook-watermarked-aspect-ratio_default_0_x1042y325.jpg",
-      "source": "elDiario.es - elDiario.es",
-      "language": "en",
-      "what_happened": "La defensa de Begoña Gómez solicita a la Audiencia Provincial que anule el auto del juez Juan Carlos Peinado que propone llevarla a juicio por delitos de malversación y tráfico de influencias. Esto se debe a la decisión del juez de sentarla en el banquillo.",
-      "key_details": "El juez Peinado comparó a Pedro Sánchez con el régimen absolutista de Fernando VII, lo que la defensa considera \"inaceptable\". La defensa cuestiona la \"rapidez inusitada\" con la que el juez dio carpetazo a la investigación y la vulneración de no resolver los recursos presentados en marzo.",
-      "why_it_matters": "La decisión del juez Peinado tiene implicaciones importantes en la investigación y el posible juicio de Begoña Gómez, esposa del presidente del Gobierno. La comparación del juez con Fernando VII ha generado críticas y cuestiona la imparcialidad del magistrado."
-    },
-    {
-      "title": "Cómo hacer la tarta crujiente de naranja sin azúcar para mantener toda su textura y sabor",
-      "url": "https://www.eldiario.es/consumoclaro/tarta-crujiente-naranja-azucar-mantener-textura-sabor_1_13155795.html",
-      "image": "https://static.eldiario.es/clip/45fdaa04-6720-403b-b752-0ee42cc9dbfc_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "source": "elDiario.es - elDiario.es",
-      "language": "en",
-      "what_happened": "Se presenta una receta de tarta crujiente de naranja sin azúcar que mantiene su textura y sabor. Esta tarta es un ejemplo de cómo disfrutar del dulce sin abusar del azúcar.",
-      "key_details": "La clave de su éxito reside en la calidad de la naranja dulce, que ofrece una base inmejorable para la repostería saludable. La tarta combina una base crujiente con una crema de naranja suave y aromática, y se decora con naranjas confitadas con estevia. Una sola naranja de tamaño medio aporta 82 mg de vitamina C.",
-      "why_it_matters": "Esta tarta destaca por su densidad nutricional excepcional al utilizar la fruta entera y fresca, convirtiendo cada porción en un potente refuerzo inmunológico."
-    },
-    {
-      "title": "Tellado desmiente a Vox: solo las ONG \"condenadas\" por \"colaborar\" con mafias quedarán fuera de las ayudas públicas",
-      "url": "https://www.eldiario.es/politica/vox-defiende-prioridad-nacional-no-aclara-aplicara-extremadura-no-legal_1_13156630.html",
-      "image": "https://static.eldiario.es/clip/d6fa331d-660f-4d29-9838-0383c2a89b9f_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "source": "elDiario.es - elDiario.es",
-      "language": "en",
-      "what_happened": "El secretario general del Partido Popular, Miguel Tellado, ha desmentido a Vox sobre la exclusión de ONG de las ayudas públicas. Solo aquellas ONG condenadas judicialmente por colaborar con mafias que trafican con personas serán excluidas.",
-      "key_details": "La medida se refiere a organizaciones que colaboren en la inmigración ilegal, y Tellado asegura que es idéntica a otras incluidas en acuerdos anteriores en Aragón, Islas Baleares, Murcia y la Comunidad Valenciana. Organizaciones como Cáritas no serán afectadas por este acuerdo.",
-      "why_it_matters": "Esta aclaración es importante porque implica que no todas las ONG serán excluidas de las ayudas públicas, solo aquellas que han sido condenadas por colaborar con mafias."
-    },
-    {
-      "title": "El pueblo catalán entre el mar y la montaña con un sorprendente castillo y una iglesia medieval",
-      "url": "https://www.eldiario.es/viajes/pueblo-catalan-mar-montana-sorprendente-castillo-iglesia-medieval_1_13156208.html",
-      "image": "https://static.eldiario.es/clip/052c4bf3-2523-48ee-b020-d8327f285fe8_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "source": "elDiario.es - elDiario.es",
-      "language": "en",
-      "what_happened": "Vilanova i la Geltrú, capital de la comarca del Garraf, se sitúa en la costa de la provincia de Barcelona. El municipio ha desarrollado una rica historia desde su fundación en el siglo XIII.",
-      "key_details": "La ciudad tiene una población de más de 70.000 habitantes y cuenta con un castillo medieval, el Castillo de la Geltrú, construido entre los siglos XII y XV. La ciudad también tiene una conexión histórica con Cuba, lo que la llevó a ser conocida como \"la pequeña Habana\".",
-      "why_it_matters": "La ubicación de Vilanova i la Geltrú ha favorecido su desarrollo como centro administrativo y de servicios en la zona, y su rica historia ha dejado una huella en su arquitectura y cultura."
-    },
-    {
-      "title": "Morrissey vuelve a España en julio",
-      "url": "https://www.eldiario.es/cultura/musica/morrissey-vuelve-espana-julio_1_13156571.html",
-      "image": "https://static.eldiario.es/clip/7a6b2508-e2a0-4807-9c90-84b800aec9e9_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "source": "elDiario.es - elDiario.es",
-      "language": "en",
-      "what_happened": "Morrissey ha anunciado nuevas fechas en Europa para su gira, incluyendo dos conciertos en España. Estos conciertos tendrán lugar en julio de 2026.",
-      "key_details": "Los conciertos en España se llevarán a cabo el 25 de julio en Barcelona y el 29 de julio en Madrid. La venta general de entradas comenzará el 24 de abril a las 10:00 en la página web de Primavera Sound.",
-      "why_it_matters": "Estos conciertos forman parte de la gira de presentación de su último disco \"Make-up is a lie\" y marcan el regreso de Morrissey a España después de una serie de conciertos en recintos pequeños en marzo."
-    },
-    {
-      "title": "Fernando Méndez-Leite se presenta a la reelección como presidente de la Academia de Cine",
-      "url": "https://www.eldiario.es/cultura/cine/fernando-mendez-leite-presenta-reeleccion-presidente-academia-cine_1_13156495.html",
-      "image": "https://static.eldiario.es/clip/105e4f3f-5dfb-4e28-95a7-21ca86c4f37d_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "source": "elDiario.es - elDiario.es",
-      "language": "en",
-      "what_happened": "Fernando Méndez-Leite se presenta a la reelección como presidente de la Academia de Cine después de cuatro años en el cargo. \nSe trata de su segunda candidatura a la presidencia de la institución.",
-      "key_details": "Méndez-Leite cuenta con el productor Félix Tusell Sánchez como vicepresidente primero y la actriz Ángela Cervantes como vicepresidenta segunda. Las elecciones se celebrarán el 20 de junio y el plazo para presentar candidaturas cerrará el 20 de mayo.",
-      "why_it_matters": "La reelección de Méndez-Leite puede influir en la dirección de la Academia de Cine y su impacto en la industria cinematográfica española. Las elecciones del 20 de junio determinarán el liderazgo de la institución para el próximo período."
-    },
-    {
-      "title": "The 11 Deaf Men Who Were Instrumental To NASA’s Human Spaceflight Program",
-      "url": "https://www.iflscience.com/the-11-deaf-men-who-were-instrumental-to-nasas-human-space-flight-program-83230",
-      "image": "https://assets.iflscience.com/assets/articleNo/83230/aImg/90107/gallaudet-eleven-l.png",
-      "source": "Science News, Articles | IFLScience",
-      "language": "en",
-      "what_happened": "Un grupo de 11 hombres sordos desempeñaron un papel fundamental en el programa de vuelo espacial tripulado de la NASA. Su trabajo ayudó a comprender el efecto de la ingravidez en el cuerpo humano.",
-      "key_details": "Estos hombres, conocidos como los Gallaudet Eleven, realizaron investigaciones cruciales sobre la ingravidez. La investigación se centró en el impacto de la ingravidez en el cuerpo humano.",
-      "why_it_matters": "Su contribución fue crucial para el programa de vuelo espacial tripulado de la NASA, permitiendo una mejor comprensión de los efectos de la ingravidez en los astronautas. Esto tuvo un impacto significativo en la seguridad y el éxito de las misiones espaciales."
-    },
-    {
-      "title": "El alcalde de Móstoles rechaza dimitir tras admitirse la querella por acoso sexual y lo enmarca en una \"cacería\"",
-      "url": "https://www.eldiario.es/madrid/alcalde-mostoles-rechaza-dimitir-admitirse-querella-exconcejala-acoso-sexual-enmarca-caceria_1_13156333.html",
-      "image": "https://static.eldiario.es/clip/02dcf030-5d1d-4600-8d17-a86c086bc06b_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "source": "elDiario.es - elDiario.es",
-      "language": "en",
-      "what_happened": "El alcalde de Móstoles, Manuel Bautista, ha rechazado dimitir después de que un juzgado admitiera una querella por acoso sexual y laboral. Esto sucedió después de que una exconcejal de su partido presentara una denuncia en su contra.",
-      "key_details": "La querella fue admitida a trámite por la magistrada Eloísa Márquez de Prado, quien ordenó abrir diligencias previas y citó a la exconcejala para que preste declaración el 29 de junio. El alcalde ha calificado la situación como una \"cacería política\" y ha insistido en que no dimitirá.",
-      "why_it_matters": "La situación tiene implicaciones importantes para la política local y puede afectar la carrera del alcalde Manuel Bautista. La admisión de la querella a trámite sugiere que los hechos denunciados pueden ser considerados como delitos graves."
-    },
-    {
-      "title": "No, el Ministerio de Sanidad no está pidiendo que se renueven las tarjetas sanitarias emitidas antes de enero de 2023: es un timo",
-      "url": "https://maldita.es/desinfo/20260420/debido-a-la-implementacion-de-un-nuevo-sistema-de-identificacion-electronica-todas-las-tarjetas-sanitarias-emitidas-antes-de-enero-de-2023-deben-ser-sustituidas-a-partir-de-2026/",
-      "image": "https://maldita.es/system/articles/24413/image",
-      "source": "Maldita.es — Periodismo para que no te la cuelen",
-      "language": "es",
-      "what_happened": "El Ministerio de Sanidad no está pidiendo la renovación de tarjetas sanitarias emitidas antes de enero de 2023. Esto se debe a que una web fraudulenta está haciendo pasar una renovación obligatoria.",
-      "key_details": "La web fraudulenta utiliza el logo gubernamental, pero su dirección web no coincide con la URL oficial del ministerio. La gestión de tarjetas sanitarias corresponde a las comunidades autónomas, y la web solicita datos personales y bancarios para un pago de 3,99 euros.",
-      "why_it_matters": "Esto importa porque es un caso de phishing que puede llevar a la pérdida de datos personales y bancarios. El Instituto Nacional de Ciberseguridad advierte que cualquier gestión con un organismo público requiere identificación mediante DNI electrónico o certificado digital."
+      "what_happened": "La canción \"La Playa\" de La Oreja de Van Gogh llegó al número uno de la lista de sencillos en la radio Los 40 principales en 2000. Esto ocurrió durante el lanzamiento de su segundo disco de estudio, 'El viaje de Copperpot'.",
+      "key_details": "El disco 'El viaje de Copperpot' vendió más de 2 millones de copias, y la canción \"La Playa\" se mantuvo en el número uno durante dos semanas consecutivas. La grabación del disco tuvo lugar en el sur de Francia con Nigel Walker como productor.",
+      "why_it_matters": "El éxito de \"La Playa\" y 'El viaje de Copperpot' consolidó a La Oreja de Van Gogh como una de las bandas más prometedoras del pop español en el año 2000. Esto marcó un momento decisivo en su trayectoria musical."
     },
     {
       "title": "Why a Democratic Senate, Once Unthinkable, Is a Real Possibility",
@@ -547,229 +677,9 @@
       "image": "https://static01.nyt.com/images/2026/04/16/multimedia/00up-peltola1-gbtz/00up-peltola1-gbtz-mediumSquareAt3X.jpg",
       "source": "NYT > Top Stories",
       "language": "en",
-      "what_happened": "Democrats are now competitive in several Republican-held seats due to a favorable national environment. This shift is supported by recent polls showing Democrats tied or ahead in four key seats.",
-      "key_details": "Polls indicate Democrats are tied or ahead in four Republican-held seats. Strong candidate recruitment has contributed to this competitiveness. A favorable national environment is also a factor.",
-      "why_it_matters": "This competitiveness matters because it could lead to a Democratic Senate, which was previously considered unlikely. It has significant implications for the balance of power in the government."
-    },
-    {
-      "title": "Northeast Swings From 90 Degrees to Freezing Cold in Just a Few Days",
-      "url": "https://www.nytimes.com/2026/04/20/weather/cold-temperatures-forecast.html",
-      "image": "https://static01.nyt.com/images/2026/04/19/multimedia/2026-01-19-freeze-index/2026-01-19-freeze-index-mediumSquareAt3X-v5.jpg",
-      "source": "NYT > Top Stories",
-      "language": "en",
-      "what_happened": "The Northeast region experienced a drastic change in temperature, shifting from record-high temperatures to freezing cold in just a few days. This sudden change led to freeze watches being issued.",
-      "key_details": "Record-high temperatures were set in Central Park and other areas last week, followed by freeze watches on Monday. The region's temperature fluctuation was extreme, with a significant drop in temperature.",
-      "why_it_matters": "This sudden change in temperature has significant implications for the region's weather patterns and potential impacts on local ecosystems and daily life. The extreme fluctuation highlights the region's unpredictable weather."
-    },
-    {
-      "title": "Ukraine, Short on Troops, Is Turning to Robots to Help Its War Efforts",
-      "url": "https://www.nytimes.com/2026/04/20/world/europe/ukraine-russia-war-robots-drones.html",
-      "image": "https://static01.nyt.com/images/2026/04/20/multimedia/20int-ukraine-ground-drones-01-cpqb/20int-ukraine-ground-drones-01-cpqb-mediumSquareAt3X.jpg",
-      "source": "NYT > Top Stories",
-      "language": "en",
-      "what_happened": "Ukraine is utilizing unmanned ground vehicles to aid in its war efforts. These vehicles are being used to carry out attacks and protect soldiers from harm.",
-      "key_details": "The unmanned ground vehicles are armed with bombs, guns, or rockets, allowing them to engage in various types of attacks. This tactic enables Ukraine to keep its soldiers out of harm's way, reducing potential casualties.",
-      "why_it_matters": "This development matters as it highlights Ukraine's resourcefulness in addressing its troop shortage, and showcases the increasing role of technology in modern warfare."
-    },
-    {
-      "title": "‘Reefer Madness,’ the P.S.A. That Backfired Spectacularly",
-      "url": "https://www.nytimes.com/2026/04/20/movies/reefer-madness-psa-1936.html",
-      "image": "https://static01.nyt.com/images/2026/04/20/arts/20cul-goodbad-reefer-madness/20cul-goodbad-reefer-madness-mediumSquareAt3X.jpg",
-      "source": "NYT > Top Stories",
-      "language": "en",
-      "what_happened": "A 1936 morality tale about marijuana warnings became an unintentional parody. The film gained notoriety decades later as a midnight-movie classic.",
-      "key_details": "The film was released in 1936, and it was a morality tale. It warned the public about marijuana, and it became a comically self-serious and outrageous example. The film gained popularity as a midnight-movie classic.",
-      "why_it_matters": "This film's backfiring serves as an example of how poorly executed public service announcements can have unintended consequences. It highlights the importance of considering the potential long-term impact of such messages."
-    },
-    {
-      "title": "Javier Milei Tamed Argentina’s Inflation. Now He Wants to Reshape Its Values.",
-      "url": "https://www.nytimes.com/2026/04/20/world/americas/argentina-president-milei-inflation-economic-reforms.html",
-      "image": "https://static01.nyt.com/images/2026/04/20/multimedia/20int-argentina-milei-culture-kfjt/20int-argentina-milei-culture-kfjt-mediumSquareAt3X.jpg",
-      "source": "NYT > Top Stories",
-      "language": "en",
-      "what_happened": "Argentina's right-wing president has successfully controlled the country's inflation. The president is now focusing on transforming the country's values.",
-      "key_details": "The president in question is Javier Milei, and he has achieved significant results in taming Argentina's runaway inflation. His next goal is to reshape the country's values, marking a new phase in his presidency.",
-      "why_it_matters": "This development is significant as it indicates a shift in the president's priorities, from economic stabilization to social and cultural transformation. The outcome of this effort will likely have a profound impact on Argentina's society and politics."
-    },
-    {
-      "title": "Hernández de Cos se posiciona como el más preparado para sustituir a Lagarde en el BCE, según un sondeo entre expertos",
-      "url": "https://www.eldiario.es/economia/hernandez-cos-posiciona-preparado-sustituir-lagarde-bce-sondeo-expertos_1_13155982.html",
-      "image": "https://static.eldiario.es/clip/9edc5323-a53e-46ed-945d-3cea8d491201_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "source": "elDiario.es - elDiario.es",
-      "language": "en",
-      "what_happened": "El exgobernador del Banco de España, Pablo Hernández de Cos, es considerado el candidato más cualificado para presidir el Banco Central Europeo (BCE). Esto se basa en una encuesta del Foro Oficial de Instituciones Monetarias y Financieras (OMFIF) entre expertos en política monetaria.",
-      "key_details": "La encuesta evaluó a cinco candidatos, incluyendo a Hernández de Cos, Klaas Knot, Isabel Schnabel, Joachim Nagel y François Villeroy de Galhau. Hernández de Cos obtuvo la mejor puntuación en cuatro de las nueve categorías evaluadas, y fue gobernador del Banco de España entre 2018 y 2024.",
-      "why_it_matters": "La elección de un nuevo presidente del BCE es crucial debido a la influencia del banco en la política monetaria europea. La experiencia y cualificaciones de Hernández de Cos lo convierten en un candidato fuerte para el puesto."
-    },
-    {
-      "title": "La jefa de Protección Civil confirma a la jueza de la dana que el Gobierno central pidió al Cecopi el envío del Es-Alert",
-      "url": "https://www.eldiario.es/comunitat-valenciana/jefa-proteccion-civil-confirma-jueza-dana-gobierno-pidio-alert-inicio-cecopi_1_13155822.html",
-      "image": "https://static.eldiario.es/clip/d228ff84-b0bb-4d1f-9690-9b3f87d32f57_facebook-watermarked-aspect-ratio_default_0_x690y142.jpg",
-      "source": "elDiario.es - elDiario.es",
-      "language": "en",
-      "what_happened": "La jefa de Protección Civil de la Delegación del Gobierno en València, Patricia García, pidió el envío del Es-Alert el 29 de octubre de 2024. Esto ocurrió durante una reunión del Centro de Coordinación Operativa Integrado (Cecopi) en una jornada que resultó trágica.",
-      "key_details": "García recibió una llamada de la Dirección General de Protección Civil de Madrid sobre las 18.25, en la que se le preguntó por qué no se enviaba el Es-Alert. La funcionaria insistió en la posibilidad de enviar el mensaje automático a los móviles, y habló con el subdirector general de Emergencias, Jorge Suárez, y con Inmaculada Piles, jefa de servicio de Emergencias.",
-      "why_it_matters": "La petición de García y su insistencia en el envío del Es-Alert destacan la importancia de la comunicación efectiva en situaciones de emergencia, y pueden tener implicaciones en la investigación de los eventos del 29 de octubre de 2024."
-    },
-    {
-      "title": "Cuántas veces es normal ir al baño por la noche, según una uróloga: “Hay que prestar atención al insomnio, ronquidos e hinchazón en las piernas”",
-      "url": "https://www.eldiario.es/consumoclaro/veces-normal-bano-noche-urologa-hay-prestar-atencion-insomnio-ronquidos-e-hinchazon-piernas-xp_1_13152113.html",
-      "image": "https://static.eldiario.es/clip/243cf528-17fa-41fa-84d4-976331f234fe_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "source": "elDiario.es - elDiario.es",
-      "language": "en",
-      "what_happened": "Despertarse cada noche para orinar puede ser un síntoma de diversas patologías o hábitos mejorables. La doctora Raquel González, portavoz de la Asociación Española de Urología, explica que el organismo está diseñado para disminuir la producción de orina nocturna.",
-      "key_details": "La nicturia, o necesidad de levantarse por la noche, es frecuente en la población y menos del 30% de los casos están relacionados con problemas de vejiga o próstata. La ingesta excesiva de líquidos, especialmente alcohol o bebidas con gas, es un factor común que puede inducir la aparición de nicturia.",
-      "why_it_matters": "La nicturia puede ser un síntoma de enfermedades cardiovasculares, trastornos del sueño o problemas de circulación, por lo que es importante prestar atención a este hábito para detectar posibles problemas de salud."
-    },
-    {
-      "title": "Más espacio en segunda fila, mayor maletero, etiqueta Eco y Google integrado: el superventas que planta cara a la inflación",
-      "url": "https://www.eldiario.es/motor/espacio-segunda-fila-mayor-maletero-etiqueta-eco-google-integrado-superventas-planta-cara-inflacion_1_13120708.html",
-      "image": "https://static.eldiario.es/clip/5cad41a9-556a-4138-ae3e-bc9d8c9140f7_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "source": "elDiario.es - elDiario.es",
-      "language": "en",
-      "what_happened": "El Mazda CX-5 ha sido actualizado con un nuevo diseño y características mejoradas. El modelo ha acumulado más de cinco millones de unidades vendidas en todo el mundo.",
-      "key_details": "El CX-5 ha crecido 11,5 centímetros de longitud, con un espacio para las rodillas en las plazas traseras aumentado en 64 mm y un maletero que alcanza los 583 litros. El modelo cuenta con un nuevo motor 2.5 e-Skyactiv G de 141 CV y el sistema de hibridación ligera Mazda M Hybrid.",
-      "why_it_matters": "La actualización del CX-5 es importante debido a su éxito de ventas y su peso en la gama de Mazda, con más de 1.800 pedidos realizados en España antes de su lanzamiento."
-    },
-    {
-      "title": "Las últimas exigencias de la industria podrían costar a la UE 74.000 millones de euros en importaciones de petróleo",
-      "url": "https://www.eldiario.es/motor/sector_y_mercado/ultimas-exigencias-industria-costar-ue-74-000-millones-euros-importaciones-petroleo_1_13150915.html",
-      "image": "https://static.eldiario.es/clip/26c93af5-aa2d-436a-b690-e67ca9156acb_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "source": "elDiario.es - elDiario.es",
-      "language": "en",
-      "what_happened": "La industria automovilística europea ha propuesto objetivos climáticos menos ambiciosos, lo que podría aumentar las importaciones de petróleo. Esto se debe a las exigencias de la patronal de fabricantes europeos ACEA.",
-      "key_details": "La propuesta de ACEA podría costar a la UE 74.000 millones de euros en importaciones de petróleo, retrasar la introducción de modelos de vehículos eléctricos más asequibles y aumentar la dependencia del petróleo. La organización ecologista Transport & Environment (T&E) considera que esta propuesta es \"irresponsable\".",
-      "why_it_matters": "Esto importa porque retrasaría la transición de la industria automovilística de la UE hacia los coches totalmente eléctricos y ampliaría la brecha con China. La aceptación de las exigencias de ACEA podría tener graves implicaciones para el medio ambiente y la economía de la UE."
-    },
-    {
-      "title": "🎙 PODCAST | Jóvenes y trabajo: ¿generación de cristal o ejemplo a seguir?",
-      "url": "https://www.eldiario.es/blog/al-dia/podcast-jovenes-trabajo-generacion-cristal-ejemplo-seguir_132_13150486.html",
-      "image": "https://static.eldiario.es/clip/07246a06-c4ff-416c-a898-c3f63063c0bf_facebook-aspect-ratio_default_0.jpg",
-      "source": "elDiario.es - elDiario.es",
-      "language": "en",
-      "what_happened": "Los jóvenes de hoy conciben el trabajo de manera diferente a las generaciones anteriores, según expertas y datos de empleo. Esto se debe a un choque generacional en la forma de entender el trabajo.",
-      "key_details": "La periodista Laura Olías analiza los datos de empleo y los retos del mercado con los jóvenes. Expertas como Aída Cabello y Beatriz Martín Padura confirman esta tendencia.",
-      "why_it_matters": "Esta nueva forma de entender el trabajo puede redefinir la forma en que se concibe el empleo y el mercado laboral. Los jóvenes buscan un equilibrio entre el trabajo y la vida personal."
-    },
-    {
-      "title": "Blessthefall Debut “Venom” Music Video",
-      "url": "https://www.theprp.com/2026/04/19/news/blessthefall-debut-venom-music-video/",
-      "image": "https://www.theprp.com/app/uploads/2025/06/blessthefall2025.jpg",
-      "source": "Theprp.com",
-      "language": "en",
-      "what_happened": "Blessthefall has released a music video for their song \"Venom\". The video was directed by Scott B. Hansen, who has worked with notable bands such as Sevendust and Motionless In White.",
-      "key_details": "The song \"Venom\" is part of their latest release, \"GALLOWS\", which came out in September. The band is set to go on tour in Australia with Memphis May Fire, starting on April 24th. The tour will visit cities including Melbourne, Sydney, and Brisbane.",
-      "why_it_matters": "This music video and upcoming tour are significant for blessthefall's fans, who have been waiting for new content and live performances from the band. The tour with Memphis May Fire will likely attract a large audience and generate buzz in the metalcore scene."
-    },
-    {
-      "title": "Teacher v chatbot: my journey into the classroom in the age of AI – podcast",
-      "url": "https://www.theguardian.com/news/audio/2026/apr/20/teacher-v-chatbot-classroom-age-of-ai-podcast",
-      "image": "https://i.guim.co.uk/img/media/520e2aaf4e4906d821be2c0e60df05b02e8afa5f/0_0_4000_3200/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e9c5299c926792dd705e360a85beda04",
-      "source": "AI (artificial intelligence) | The Guardian",
-      "language": "en",
-      "what_happened": "A teacher shared their experience of navigating the challenges of a classroom in the age of AI. This experience was documented in a podcast.",
-      "key_details": "The podcast, \"Teacher v chatbot: my journey into the classroom in the age of AI\", was written by Peter C Baker and read by Adam Sims. The podcast explores the difficulties of teaching with AI present, likening it to \"downing a coffee in the middle of a panic attack\". The podcast was produced by Nicola Alexandrou.",
-      "why_it_matters": "This experience matters as it highlights the impact of AI on education and the challenges teachers face in adapting to new technology. It provides insight into the realities of teaching in the digital age."
-    },
-    {
-      "title": "Madison Square Garden Reportedly Used Facial Recognition to Stalk Trans Woman For Two Years",
-      "url": "https://futurism.com/artificial-intelligence/msg-facial-recognition-cameras",
-      "image": "https://futurism.com/wp-content/uploads/2026/04/msg-facial-recognition-cameras.jpg?quality=85&w=1200",
-      "source": "Futurism",
-      "language": "en",
-      "what_happened": "Madison Square Garden reportedly used facial recognition technology to track a trans woman for two years. The venue's owner, James Dolan, allegedly abused the facility's equipment to stalk and harass critics and individuals he had personal disputes with.",
-      "key_details": "The victim, referred to as Nina Richards, was targeted by MSG security chief John Eversole. The surveillance was conducted despite Richards not engaging in any restricted activities. The incident was uncovered in an investigation by Wired.",
-      "why_it_matters": "This incident highlights the potential misuse of facial recognition technology and the importance of regulating its use in private venues. It also raises concerns about the impact of surveillance on individuals, particularly marginalized groups."
-    },
-    {
-      "title": "Víctimas del terrorismo de ETA, los GAL, los GRAPO, el yihadismo y la extrema derecha educan en una web interactiva",
-      "url": "https://www.eldiario.es/euskadi/victimas-terrorismo-eta-gal-grapo-yihadismo-extrema-derecha-educan-web-interactiva_1_13145726.html",
-      "image": "https://static.eldiario.es/clip/d2a9b8c6-1787-4c65-a687-92b563d880ae_facebook-watermarked-aspect-ratio_default_0_x805y428.jpg",
-      "source": "elDiario.es - elDiario.es",
-      "language": "en",
-      "what_happened": "Una web interactiva llamada \"victimaseducadoras.es\" ha sido desarrollada por la Fundación Fernando Buesa Blanco y el Centro Memorial de las Víctimas del Terrorismo para educar sobre víctimas del terrorismo. Esta web recoge testimonios de personas afectadas por diferentes grupos terroristas.",
-      "key_details": "La web reúne los testimonios de 23 personas afectadas por ETA, el terrorismo yihadista, el de la extrema derecha, los GAL y los GRAPO. Se han identificado 29 temas recurrentes y la plataforma recoge 234 preguntas con sus correspondientes respuestas. La web permite buscar las preguntas más habituales que los jóvenes plantean a los afectados por terrorismo.",
-      "why_it_matters": "Esta web es importante porque proporciona un espacio interactivo para que los jóvenes puedan aprender sobre el terrorismo y sus consecuencias a través de testimonios personales. Esto puede ayudar a concienciar a la sociedad sobre la importancia de la paz y la no violencia."
-    },
-    {
-      "title": "Antisemita",
-      "url": "https://www.eldiario.es/opinion/antisemita_131_13155526.html",
-      "image": "https://static.eldiario.es/clip/7f3bd521-265c-40f1-99a0-a8b15500ea1e_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "source": "elDiario.es - elDiario.es",
-      "language": "en",
-      "what_happened": "Un usuario de elDiario.es recibió un mensaje solicitando la actualización de sus datos de pago para renovar su suscripción. El mensaje indica que la tarjeta de pago del usuario caducará pronto.",
-      "key_details": "El mensaje señala que los datos de pago del usuario son erróneos o incompletos, y que es necesario actualizarlos para evitar la baja como socio. El proceso de actualización se puede completar en solo unos minutos.",
-      "why_it_matters": "La actualización de los datos de pago es crucial para que el usuario pueda seguir siendo socio de elDiario.es y mantener su acceso a los contenidos."
-    },
-    {
-      "title": "Bernardo Atxaga: \"Cada vez me interesan menos las voces narradoras de humanos corrientes, como yo\"",
-      "url": "https://www.eldiario.es/cultura/libros/bernardo-atxaga-vez-interesan-voces-narradoras-humanos-corrientes_1_13144002.html",
-      "image": "https://static.eldiario.es/clip/aa140c3d-73a7-42d0-9f01-3c42ab37d2ef_facebook-watermarked-aspect-ratio_default_0_x4054y2269.jpg",
-      "source": "elDiario.es - elDiario.es",
-      "language": "en",
-      "what_happened": "Bernardo Atxaga ha escrito una nueva novela titulada Golondrinas, a pesar de haber anunciado su retiro de la novela en 2020. La novela gira en torno a la trágica muerte del boxeador José Manuel Ibar, Urtain.",
-      "key_details": "La novela se centra en el círculo del desamparo y aquellos que han perdido su lugar, según explica Atxaga. Urtain fue un doble campeón de Europa y una figura carismática en su deporte en España. La novela está compuesta en tres movimientos y abarca desde la juventud de Urtain hasta un futuro no tan lejano.",
-      "why_it_matters": "La novela de Atxaga ofrece una perspectiva única sobre la vida y la muerte de Urtain, y explora temas más profundos que la simple historia de un deportista caído. La publicación de Golondrinas demuestra que Atxaga sigue siendo un escritor prolífico y comprometido con su arte."
-    },
-    {
-      "title": "La derecha toma a Dios por enemigo",
-      "url": "https://www.eldiario.es/opinion/zona-critica/derecha-toma-dios-enemigo_129_13155422.html",
-      "image": "https://static.eldiario.es/clip/3b76dae5-6e09-4f39-92b8-cefc77903b3c_facebook-aspect-ratio_default_0.jpg",
-      "source": "elDiario.es - elDiario.es",
-      "language": "en",
-      "what_happened": "La derecha ha roto parcialmente con la Iglesia católica y la monarquía en España. Esto se debe a declaraciones y acciones de partidos como Vox y el Partido Popular.",
-      "key_details": "Vox ha criticado a la monarquía por confundir neutralidad con sometimiento, y el Partido Popular ha anunciado que no subvencionará a ONG que acogen a inmigrantes irregulares, incluyendo a Cáritas. La líder de Vox, Figaredo, y Carlos H. Quero han hecho declaraciones en este sentido.",
-      "why_it_matters": "Esta ruptura tiene implicaciones importantes para la política y la sociedad española, ya que la derecha tradicionalmente ha estado unida a la Iglesia católica y la monarquía. Esto puede cambiar el panorama político en España."
-    },
-    {
-      "title": "Sergio Amante, un sevillano al frente de la Internacional Socialista Joven: \"Sánchez le pone las pilas a la izquierda global\"",
-      "url": "https://www.eldiario.es/politica/sergio-amante-sevillano-frente-internacional-socialista-joven-sanchez-le-pone-pilas-izquierda-global_1_13153386.html",
-      "image": "https://static.eldiario.es/clip/9f3fc7e0-4f75-4883-8742-86c3625df558_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "source": "elDiario.es - elDiario.es",
-      "language": "en",
-      "what_happened": "Sergio Amante, un sevillano de 29 años, ha sido elegido presidente de la Unión Internacional de Jóvenes Socialistas. Esto sucede en un contexto global marcado por guerras y el auge de populismos de extrema derecha.",
-      "key_details": "Amante es graduado en Ciencias Políticas y Administración, y asume el liderazgo de un foro que confluye organizaciones juveniles progresistas de todo el planeta. El líder español considera que el proyecto de Pedro Sánchez a nivel internacional ha servido para unir a los comités de la Unión Internacional de Jóvenes Socialistas. Amante destaca que Sánchez \"le está poniendo un poco las pilas al resto de la socialdemocracia y de la izquierda global\".",
-      "why_it_matters": "La elección de Amante y el liderazgo de Sánchez pueden influir en la consolidación de la izquierda global en un contexto de creciente ultraderecha. Esto puede tener implicaciones significativas en la política internacional y la promoción de la socialdemocracia."
-    },
-    {
-      "title": "Laura López-Mascaraque, neurocientífica: “He visto a una mujer con alzhéimer gritar y llorar de alegría por un olor”",
-      "url": "https://www.eldiario.es/sociedad/laura-lopez-mascaraque-neurocientifica-he-visto-mujer-alzheimer-gritar-llorar-alegria-olor_128_13126422.html",
-      "image": "https://static.eldiario.es/clip/63a831c5-8c60-4a71-9ee4-6a8ea4afc25a_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "source": "elDiario.es - elDiario.es",
-      "language": "en",
-      "what_happened": "La investigadora Laura López-Mascaraque ha publicado un libro sobre el universo del olfato, destacando su importancia en nuestra conexión con el mundo. Ella comparte experiencias y conocimientos sobre el olfato y su impacto en nuestras emociones.",
-      "key_details": "López-Mascaraque es una neurocientífica que investiga los mecanismos moleculares del olfato en el Centro de Neurociencias Cajal. Ella menciona que el olfato puede conmovernos antes de que sepamos por qué, y comparte el caso de una mujer con alzhéimer que reacciona emocionalmente a un olor.",
-      "why_it_matters": "El trabajo de López-Mascaraque resalta la importancia del olfato en nuestra experiencia emocional y su conexión directa con el cerebro emocional. Esto puede tener implicaciones significativas en nuestra comprensión de la conexión entre el olfato y nuestras emociones."
-    },
-    {
-      "title": "La guerra santa de Pete Hegseth: la teología cristiana militante que ha alentado el ataque de EEUU contra Irán",
-      "url": "https://www.eldiario.es/internacional/theguardian/guerra-santa-pete-hegseth-teologia-cristiana-militante-alentado-ataque-eeuu-iran_1_13151236.html",
-      "image": "https://static.eldiario.es/clip/94e29e30-2fef-44d8-acce-0713796e084e_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "source": "elDiario.es - elDiario.es",
-      "language": "en",
-      "what_happened": "El secretario de Guerra de EEUU, Pete Hegseth, ha estado promoviendo una teología cristiana militante que considera la guerra contra Irán como parte del plan divino de Dios. Un misil Tomahawk mató a más de 175 personas, en su mayoría menores, en una escuela primaria en Irán.",
-      "key_details": "El pastor personal de Hegseth, Brooks Potteiger, ha estado predicando en el Pentágono, citando un versículo de Mateo 10 y afirmando que Dios es soberano sobre todo lo que sucede en el mundo. La investigación preliminar sugiere que Estados Unidos fue responsable del bombardeo, pero Hegseth no ha asumido responsabilidad.",
-      "why_it_matters": "La promoción de esta teología cristiana militante tiene implicaciones importantes en la política exterior de EEUU y su relación con Irán. La falta de responsabilidad y remordimiento por parte de Hegseth y el gobierno de EEUU puede tener consecuencias graves en la región."
-    },
-    {
-      "title": "El cheque militar de Netanyahu somete a la economía de Israel a una erosión presupuestaria sin controles oficiales",
-      "url": "https://www.eldiario.es/economia/cheque-militar-netanyahu-somete-economia-israel-erosion-presupuestaria-controles-oficiales_1_13149045.html",
-      "image": "https://static.eldiario.es/clip/2312bfa9-5467-4d77-9989-b98165accafd_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "source": "elDiario.es - elDiario.es",
-      "language": "en",
-      "what_happened": "La guerra de Israel contra Irán ha generado un impacto negativo en la economía del país, erosionando su estabilidad presupuestaria. El gasto militar ha aumentado significativamente debido a las misiones bélicas simultáneas.",
-      "key_details": "El PIB de Israel es de 666.400 millones de dólares, y el coste acumulado de la guerra equivale al 8,6% del PIB, unos 57.000 millones de dólares. El Banco Central de Israel ha emitido señales de alarma sobre el impacto de la guerra en la economía.",
-      "why_it_matters": "La situación económica de Israel se ha vuelto cada vez más inestable debido al gasto militar, lo que puede tener implicaciones negativas para la confianza ciudadana y empresarial en la economía del país."
-    },
-    {
-      "title": "Here’s This Week’s Top Ten Stories On Theprp.com (April 19th, 2026)",
-      "url": "https://www.theprp.com/2026/04/19/news/heres-this-weeks-top-ten-stories-on-theprp-com-april-19th-2026/",
-      "image": "https://www.theprp.com/app/uploads/2025/09/theprptopstories.webp",
-      "source": "Theprp.com",
-      "language": "en",
-      "what_happened": "Theprp.com has compiled a list of the most viewed stories from the past week. The list highlights the top stories that ran from April 12th to April 19th, 2026.",
-      "key_details": "The list includes the top ten most viewed stories, and the website invites readers to engage in discussions. Theprp.com is a member of the Blastbeat Network, and its site design is by Forefathers.",
-      "why_it_matters": "This compilation helps readers catch up on the week's news, providing a summary of the most popular stories. It also encourages user engagement and discussion on the platform."
+      "what_happened": "Democrats are now competitive in several Republican-held seats due to a favorable national environment and strong candidate recruitment. This shift has led to a realistic possibility of a Democratic Senate.",
+      "key_details": "Polls show Democrats are tied or ahead in four Republican-held seats. A favorable national environment is contributing to this shift. Strong candidate recruitment is also a key factor.",
+      "why_it_matters": "This development has significant implications for the balance of power in the Senate. A Democratic Senate would greatly impact the legislative agenda and policy decisions."
     }
   ]
 }
