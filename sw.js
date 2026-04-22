@@ -1,4 +1,4 @@
-const CACHE = 'hub-v1';
+const CACHE = 'hub-v3';
 const PRECACHE = ['./', './index.html', './manifest.json'];
 
 self.addEventListener('install', e => {
