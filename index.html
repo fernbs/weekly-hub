@@ -418,9 +418,14 @@ function initials(name, w, h) {
   const i = (wds.length>=2 ? wds[0][0]+wds[1][0] : (wds[0]||'?').slice(0,2)).toUpperCase();
   return `<div style="width:${w}px;height:${h}px;border-radius:6px;background:#1f2937;border:1px solid #374151;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:${Math.round(Math.min(w,h)*.3)}px;color:#6b7280;">${i}</div>`;
 }
+// Global map used by onerror to avoid inline HTML escaping issues
+window._fallbacks = {};
+let _fbIdx = 0;
 function artistImg(url, name) {
-  if (!url) return initials(name,65,65);
-  return `<img src="${esc(url)}" width="65" height="65" style="border-radius:6px;display:block;object-fit:cover;border:1px solid #2d3a50;" onerror="this.outerHTML='${initials(name,65,65).replace(/'/g,"\\'")}'" >`;
+  if (!url) return initials(name, 65, 65);
+  const key = 'fb' + (_fbIdx++);
+  window._fallbacks[key] = initials(name, 65, 65);
+  return `<img src="${esc(url)}" width="65" height="65" data-fb="${key}" style="border-radius:6px;display:block;object-fit:cover;border:1px solid #2d3a50;" onerror="this.outerHTML=window._fallbacks[this.dataset.fb]||''">`;
 }
 
 /* ── scroll to top ── */
