@@ -242,47 +242,80 @@
     .plans-subpanel.on { display: block; }
 
     .plans-wrap { max-width: 1040px; margin: 0 auto; padding: 20px 14px 80px; }
-    .plans-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(255px, 1fr)); gap: 14px; }
+    .plans-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 16px; }
 
+    /* Card base */
     .plan-card {
-      background: #fff; border: 1px solid #ddd6fe;
-      border-radius: 10px; overflow: hidden;
+      background: #fff; border-radius: 12px; overflow: hidden;
       display: flex; flex-direction: column;
-      box-shadow: 0 1px 4px rgba(109,40,217,.06);
-      transition: box-shadow .15s, border-color .15s;
+      box-shadow: 0 2px 8px rgba(0,0,0,.08);
+      transition: box-shadow .15s, transform .15s;
+      border: none;
     }
-    .plan-card:hover { box-shadow: 0 4px 18px rgba(109,40,217,.14); border-color: #c4b5fd; }
-    .plan-card.new { border-top: 3px solid #059669; }
-    .plan-card.end { border-top: 3px solid #ea580c; }
-    .plan-card.act { border-top: 3px solid #6366f1; }
+    .plan-card:hover { box-shadow: 0 6px 24px rgba(0,0,0,.13); transform: translateY(-2px); }
 
-    .plan-img { width: 100%; height: 130px; object-fit: cover; display: block; }
-    .plan-placeholder { width: 100%; height: 130px; background: #ede9fe; display: flex; align-items: center; justify-content: center; font-size: 30px; }
-    .plan-body { padding: 12px; flex: 1; display: flex; flex-direction: column; }
-
-    .plan-cat {
-      display: inline-flex; align-items: center; gap: 4px;
-      font-size: 9px; font-weight: 700; letter-spacing: .6px; text-transform: uppercase;
-      padding: 2px 7px; border-radius: 4px; margin-bottom: 7px; border: 1px solid;
+    /* Bold colored header strip per category */
+    .plan-cat-header {
+      padding: 10px 14px 9px;
+      display: flex; align-items: center; gap: 7px;
     }
-    .cat-exp { color: #7c3aed; background: #f5f3ff; border-color: #c4b5fd; }
-    .cat-tea { color: #be185d; background: #fdf2f8; border-color: #fbcfe8; }
-    .cat-cin { color: #b45309; background: #fffbeb; border-color: #fde68a; }
-    .cat-tal { color: #047857; background: #f0fdf4; border-color: #bbf7d0; }
-    .cat-exp2{ color: #0369a1; background: #f0f9ff; border-color: #bae6fd; }
-    .cat-fes { color: #c2410c; background: #fff7ed; border-color: #fed7aa; }
-    .cat-rut { color: #166534; background: #f0fdf4; border-color: #86efac; }
-    .cat-mer { color: #991b1b; background: #fef2f2; border-color: #fecaca; }
-    .cat-evt { color: #374151; background: #f9fafb; border-color: #e5e7eb; }
+    .plan-cat-icon { font-size: 16px; line-height: 1; }
+    .plan-cat-label {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: 11px; font-weight: 700; letter-spacing: 1.5px;
+      text-transform: uppercase; color: #fff;
+    }
+
+    /* Category color schemes — header background */
+    .pch-exp  { background: #6d28d9; }   /* Exposición — purple */
+    .pch-tea  { background: #be185d; }   /* Teatro — pink */
+    .pch-cin  { background: #b45309; }   /* Cine — amber */
+    .pch-tal  { background: #047857; }   /* Taller — green */
+    .pch-exp2 { background: #0369a1; }   /* Experiencia — blue */
+    .pch-fes  { background: #c2410c; }   /* Festival — orange */
+    .pch-rut  { background: #166534; }   /* Ruta — forest */
+    .pch-mer  { background: #991b1b; }   /* Mercado — red */
+    .pch-evt  { background: #374151; }   /* Evento — grey */
+
+    .plan-img { width: 100%; height: 120px; object-fit: cover; display: block; }
+    .plan-placeholder { width: 100%; height: 80px; display: flex; align-items: center; justify-content: center; font-size: 28px; opacity: .4; }
+
+    .plan-body { padding: 12px 13px 13px; flex: 1; display: flex; flex-direction: column; gap: 0; }
 
     .plan-title {
       font-weight: 700; font-size: 13px; color: #1e1b4b;
-      display: block; margin-bottom: 5px; line-height: 1.4; text-decoration: none;
+      display: block; margin-bottom: 8px; line-height: 1.4; text-decoration: none;
     }
     .plan-title:hover { color: #7c3aed; }
-    .plan-meta { font-family: 'JetBrains Mono', monospace; font-size: 10px; color: #9ca3af; margin-bottom: 8px; line-height: 1.5; }
-    .plan-meta-end { color: #ea580c; font-weight: 600; }
-    .plan-bullets { list-style: none; margin-top: auto; }
+
+    /* Date progress bar */
+    .plan-dates { margin-bottom: 9px; }
+    .plan-dates-row {
+      display: flex; justify-content: space-between; align-items: center;
+      font-family: 'JetBrains Mono', monospace; font-size: 9px;
+      color: #9ca3af; margin-bottom: 4px;
+    }
+    .plan-dates-start { color: #6b7280; }
+    .plan-dates-end-new { color: #6b7280; }
+    .plan-dates-end-urgency { color: #ea580c; font-weight: 700; }
+    .plan-progress-track {
+      height: 4px; background: #e9d5ff; border-radius: 2px; overflow: hidden;
+    }
+    .plan-progress-fill {
+      height: 100%; border-radius: 2px;
+      background: linear-gradient(90deg, #7c3aed, #a78bfa);
+      transition: width .3s;
+    }
+    .plan-progress-fill.urgency { background: linear-gradient(90deg, #ea580c, #fb923c); }
+
+    /* Price */
+    .plan-price {
+      font-size: 11px; font-weight: 700; color: #059669;
+      margin-bottom: 8px;
+      display: flex; align-items: center; gap: 4px;
+    }
+
+    .plan-bullets { list-style: none; margin-top: auto; padding-top: 4px; }
     .plan-bullets li { font-size: 11px; color: #4b5563; padding: 2px 0 2px 13px; position: relative; line-height: 1.4; }
     .plan-bullets li::before { content: '›'; position: absolute; left: 0; color: #7c3aed; font-weight: 900; font-size: 14px; line-height: 1.1; }
 
@@ -512,12 +545,44 @@ function renderNews(data) {
    PLANES
 ════════════════════════════════════════════════ */
 const CAT = {
-  'exposición':['🖼','cat-exp'],'exposicion':['🖼','cat-exp'],
-  'teatro':['🎭','cat-tea'],'cine':['🎬','cat-cin'],
-  'taller':['🔧','cat-tal'],'experiencia':['✨','cat-exp2'],
-  'festival':['🎪','cat-fes'],'ruta':['🗺','cat-rut'],
-  'mercado':['🛍','cat-mer'],'evento':['📅','cat-evt'],
+  'exposición':['🖼','pch-exp'],'exposicion':['🖼','pch-exp'],
+  'teatro':['🎭','pch-tea'],'cine':['🎬','pch-cin'],
+  'taller':['🔧','pch-tal'],'experiencia':['✨','pch-exp2'],
+  'festival':['🎪','pch-fes'],'ruta':['🗺','pch-rut'],
+  'mercado':['🛍','pch-mer'],'evento':['📅','pch-evt'],
 };
+
+function parseDateStr(s) {
+  if (!s) return null;
+  let m;
+  if ((m = s.match(/(\d{4})-(\d{2})-(\d{2})/))) return new Date(+m[1],+m[2]-1,+m[3]);
+  if ((m = s.match(/(\d{1,2})\/(\d{2})\/(\d{4})/))) return new Date(+m[3],+m[2]-1,+m[1]);
+  const months = {ene:0,feb:1,mar:2,abr:3,may:4,jun:5,jul:6,ago:7,sep:8,oct:9,nov:10,dic:11,
+                  enero:0,febrero:1,marzo:2,abril:3,mayo:4,junio:5,julio:6,agosto:7,
+                  septiembre:8,octubre:9,noviembre:10,diciembre:11};
+  if ((m = s.match(/(\d{1,2})\s+(\w+)\s+(\d{4})/))) {
+    const mo = months[m[2].toLowerCase()];
+    if (mo !== undefined) return new Date(+m[3], mo, +m[1]);
+  }
+  return null;
+}
+
+function progressBar(startRaw, endRaw) {
+  const s = parseDateStr(startRaw), e = parseDateStr(endRaw), now = new Date();
+  if (!s || !e) return '';
+  const total = e - s, elapsed = now - s;
+  const pct = Math.min(100, Math.max(0, Math.round(elapsed / total * 100)));
+  const daysLeft = Math.ceil((e - now) / 86400000);
+  const urgency = daysLeft >= 0 && daysLeft <= 7;
+  const endLabel = urgency
+    ? `<span class="plan-dates-end-urgency">⚡ ${daysLeft}d restantes</span>`
+    : `<span class="plan-dates-end-new">${esc(endRaw)}</span>`;
+  const fillClass = urgency ? 'plan-progress-fill urgency' : 'plan-progress-fill';
+  return `<div class="plan-dates">
+    <div class="plan-dates-row"><span class="plan-dates-start">▶ ${esc(startRaw)}</span>${endLabel}</div>
+    <div class="plan-progress-track"><div class="${fillClass}" style="width:${pct}%"></div></div>
+  </div>`;
+}
 
 async function loadPlans() {
   try {
@@ -528,25 +593,22 @@ async function loadPlans() {
 }
 
 function planCard(e, sec) {
-  const img  = e.image_url ? `<img class="plan-img" src="${esc(e.image_url)}" alt="" onerror="this.style.display='none'">` : `<div class="plan-placeholder">🎭</div>`;
-  const title= e.url ? `<a class="plan-title" href="${esc(e.url)}" target="_blank">${esc(e.title)}</a>` : `<span class="plan-title">${esc(e.title)}</span>`;
-  const ck   = (e.category||'').toLowerCase();
-  const [em,cl] = CAT[ck]||['📅','cat-evt'];
-  const cat  = e.category ? `<span class="plan-cat ${cl}">${em} ${esc(e.category)}</span>` : '';
-  const endCls = sec==='end'?'plan-meta-end':'';
-  const dates= [e.date_start,e.date_end].filter(Boolean).map((d,i)=>i===1&&sec==='end'?`<span class="${endCls}">${esc(d)}</span>`:esc(d)).join(' → ');
-  const metaParts = [dates, e.venue?esc(e.venue):''].filter(Boolean);
-  const meta = metaParts.join(' · ');
-  const price = e.price ? `<div style="font-size:11px;font-weight:600;color:#7c3aed;margin-bottom:6px;">🎟 ${esc(e.price)}</div>` : '';
-  const buls = (e.bullets||[]).slice(0,3).map(b=>`<li>${esc(b)}</li>`).join('');
-  return `<div class="plan-card ${sec}">
+  const ck  = (e.category||'evento').toLowerCase();
+  const [em, hcls] = CAT[ck] || ['📅','pch-evt'];
+  const cat = e.category || 'Evento';
+  const img = e.image_url
+    ? `<img class="plan-img" src="${esc(e.image_url)}" alt="" onerror="this.style.display='none'">`
+    : `<div class="plan-placeholder">${em}</div>`;
+  const title = e.url
+    ? `<a class="plan-title" href="${esc(e.url)}" target="_blank">${esc(e.title)}</a>`
+    : `<span class="plan-title">${esc(e.title)}</span>`;
+  const bar   = progressBar(e.date_start_raw || e.date_start, e.date_end_raw || e.date_end);
+  const price = e.price ? `<div class="plan-price">🎟 ${esc(e.price)}</div>` : '';
+  const buls  = (e.bullets||[]).slice(0,3).map(b=>`<li>${esc(b)}</li>`).join('');
+  return `<div class="plan-card">
+    <div class="plan-cat-header ${hcls}"><span class="plan-cat-icon">${em}</span><span class="plan-cat-label">${esc(cat)}</span></div>
     ${img}
-    <div class="plan-body">
-      ${cat}${title}
-      ${meta?`<div class="plan-meta">${meta}</div>`:''}
-      ${price}
-      <ul class="plan-bullets">${buls}</ul>
-    </div>
+    <div class="plan-body">${title}${bar}${price}<ul class="plan-bullets">${buls}</ul></div>
   </div>`;
 }
 
