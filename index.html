@@ -535,13 +535,16 @@ function planCard(e, sec) {
   const cat  = e.category ? `<span class="plan-cat ${cl}">${em} ${esc(e.category)}</span>` : '';
   const endCls = sec==='end'?'plan-meta-end':'';
   const dates= [e.date_start,e.date_end].filter(Boolean).map((d,i)=>i===1&&sec==='end'?`<span class="${endCls}">${esc(d)}</span>`:esc(d)).join(' → ');
-  const meta = [dates,e.venue?esc(e.venue):''].filter(Boolean).join(' · ');
+  const metaParts = [dates, e.venue?esc(e.venue):''].filter(Boolean);
+  const meta = metaParts.join(' · ');
+  const price = e.price ? `<div style="font-size:11px;font-weight:600;color:#7c3aed;margin-bottom:6px;">🎟 ${esc(e.price)}</div>` : '';
   const buls = (e.bullets||[]).slice(0,3).map(b=>`<li>${esc(b)}</li>`).join('');
   return `<div class="plan-card ${sec}">
     ${img}
     <div class="plan-body">
       ${cat}${title}
       ${meta?`<div class="plan-meta">${meta}</div>`:''}
+      ${price}
       <ul class="plan-bullets">${buls}</ul>
     </div>
   </div>`;
