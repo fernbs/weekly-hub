@@ -668,6 +668,10 @@ loadNews();
 loadPlans();
 loadConcerts();
 
+/* ── URL hash routing ── */
+const hash = window.location.hash.replace('#', '');
+if (['news', 'plans', 'concerts'].includes(hash)) switchTab(hash);
+
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', ()=>navigator.serviceWorker.register('./sw.js').catch(()=>{}));
 }
