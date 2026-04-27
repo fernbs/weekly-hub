@@ -1,73 +1,8 @@
 {
-  "generated": "2026-04-22T10:11:27.027775",
-  "from_date": "2026-04-22",
-  "to_date": "2026-06-17",
+  "generated": "2026-04-27T07:37:49.052831",
+  "from_date": "2026-04-27",
+  "to_date": "2026-06-22",
   "concerts": [
-    {
-      "artist": "The New Roses",
-      "lineup": "The New Roses",
-      "date_str": "23/04/2026 · Jueves",
-      "date_iso": "2026-04-23",
-      "venue": "Nazca Live",
-      "address": "",
-      "price": "Consultar",
-      "buy_link": "https://metaltrip.com/the-new-roses-tour/",
-      "genre": "Hard Rock",
-      "notes": "",
-      "image_url": "https://cdn-images.dzcdn.net/images/artist/befaecf036f4e1c68828fe56e2dd2e7e/500x500-000000-80-0-0.jpg"
-    },
-    {
-      "artist": "Vhäldemar",
-      "lineup": "Vhäldemar",
-      "date_str": "24/04/2026 · Viernes",
-      "date_iso": "2026-04-24",
-      "venue": "Sala La Uni",
-      "address": "",
-      "price": "Consultar",
-      "buy_link": "",
-      "genre": "Power Metal",
-      "notes": "",
-      "image_url": "https://cdn-images.dzcdn.net/images/artist/5a7bcae18cd874c22052222d53281af0/500x500-000000-80-0-0.jpg"
-    },
-    {
-      "artist": "Doom Legacy",
-      "lineup": "Doom Legacy",
-      "date_str": "25/04/2026 · Sábado",
-      "date_iso": "2026-04-25",
-      "venue": "Revi Space",
-      "address": "",
-      "price": "Consultar",
-      "buy_link": "https://metaltrip.com/doom-legacy/",
-      "genre": "Doom Metal",
-      "notes": "",
-      "image_url": "https://cdn-images.dzcdn.net/images/artist/4d3aeb3c9ec67ff1da71f63de13aea61/500x500-000000-80-0-0.jpg"
-    },
-    {
-      "artist": "Rainover",
-      "lineup": "Rainover",
-      "date_str": "25/04/2026 · Sábado",
-      "date_iso": "2026-04-25",
-      "venue": "Sala Jokers House + DARK MEMORIES + SILVERFEET",
-      "address": "",
-      "price": "Consultar",
-      "buy_link": "",
-      "genre": "Metalcore",
-      "notes": "",
-      "image_url": "https://cdn-images.dzcdn.net/images/artist/d2fae2a8b27930fc43025c3b9483dced/500x500-000000-80-0-0.jpg"
-    },
-    {
-      "artist": "Saxon",
-      "lineup": "Saxon",
-      "date_str": "26/04/2026 · Domingo",
-      "date_iso": "2026-04-26",
-      "venue": "La Riviera",
-      "address": "",
-      "price": "Consultar",
-      "buy_link": "",
-      "genre": "Heavy Metal",
-      "notes": "ENTRADAS AGOTADAS",
-      "image_url": "https://cdn-images.dzcdn.net/images/artist/37d30d32f408d3c7c9dbb3b3e029ac78/500x500-000000-80-0-0.jpg"
-    },
     {
       "artist": "Machine Head",
       "lineup": "Machine Head",
@@ -82,30 +17,17 @@
       "image_url": "https://cdn-images.dzcdn.net/images/artist/9ecbf9e8245cdc63a8763280b93d7424/500x500-000000-80-0-0.jpg"
     },
     {
-      "artist": "Primitive Man",
-      "lineup": "Primitive Man + Kollaps",
-      "date_str": "28/04/2026 · Martes",
-      "date_iso": "2026-04-28",
-      "venue": "D8 Sorkuntza Faktoria",
+      "artist": "An Evening With Machine Head",
+      "lineup": "An Evening With Machine Head",
+      "date_str": "27/04/2026 · Lunes",
+      "date_iso": "2026-04-27",
+      "venue": "Madrid",
       "address": "",
       "price": "Consultar",
-      "buy_link": "",
-      "genre": "Sludge Metal",
+      "buy_link": "https://metalhammer.es/agendado/madrid-an-evening-with-machine-head/",
+      "genre": "Groove Metal",
       "notes": "",
-      "image_url": "https://cdn-images.dzcdn.net/images/artist/0dd3e48afd3f7f6c7ea9dcb5aab7330d/500x500-000000-80-0-0.jpg"
-    },
-    {
-      "artist": "Exhumed",
-      "lineup": "Exhumed + Gruesome",
-      "date_str": "29/04/2026 · Miércoles",
-      "date_iso": "2026-04-29",
-      "venue": "Sala Groove",
-      "address": "",
-      "price": "Consultar",
-      "buy_link": "",
-      "genre": "Death Metal",
-      "notes": "",
-      "image_url": "https://cdn-images.dzcdn.net/images/artist/115a5e8c294265ab57e4cddafa136c05/500x500-000000-80-0-0.jpg"
+      "image_url": "https://metalhammer.es/wp-content/uploads/2026/04/1764064245-An-evening-with-Machine-Head.webp"
     },
     {
       "artist": "Azrael",
@@ -134,6 +56,19 @@
       "image_url": "https://cdn-images.dzcdn.net/images/artist/482a0ac58b922c1fa95f826f9b0d386b/500x500-000000-80-0-0.jpg"
     },
     {
+      "artist": "Primitive Man y Kollaps",
+      "lineup": "Primitive Man y Kollaps",
+      "date_str": "01/05/2026 · Viernes",
+      "date_iso": "2026-05-01",
+      "venue": "Wurlitzer Ballroom",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "",
+      "genre": "Sludge Metal",
+      "notes": "",
+      "image_url": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='65' height='65'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0%25' stop-color='%23374151'/><stop offset='100%25' stop-color='%231f2937'/></linearGradient></defs><rect width='65' height='65' rx='6' fill='url(%23g)'/><rect width='65' height='65' rx='6' fill='none' stroke='%234b5563' stroke-width='1'/><text x='50%25' y='50%25' dominant-baseline='central' text-anchor='middle' font-family='Arial,sans-serif' font-size='20' font-weight='700' fill='%239ca3af'>PM</text></svg>"
+    },
+    {
       "artist": "Opera Magna",
       "lineup": "Opera Magna",
       "date_str": "02/05/2026 · Sábado",
@@ -145,6 +80,19 @@
       "genre": "Power Metal",
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/278056b20f268325990d3a204be3b027/500x500-000000-80-0-0.jpg"
+    },
+    {
+      "artist": "Exhumed y Gruesome",
+      "lineup": "Exhumed y Gruesome",
+      "date_str": "02/05/2026 · Sábado",
+      "date_iso": "2026-05-02",
+      "venue": "Revi Live",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "",
+      "genre": "Death Metal",
+      "notes": "",
+      "image_url": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='65' height='65'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0%25' stop-color='%23374151'/><stop offset='100%25' stop-color='%231f2937'/></linearGradient></defs><rect width='65' height='65' rx='6' fill='url(%23g)'/><rect width='65' height='65' rx='6' fill='none' stroke='%234b5563' stroke-width='1'/><text x='50%25' y='50%25' dominant-baseline='central' text-anchor='middle' font-family='Arial,sans-serif' font-size='20' font-weight='700' fill='%239ca3af'>EY</text></svg>"
     },
     {
       "artist": "Cam Cole",
@@ -164,13 +112,13 @@
       "lineup": "Michael Angelo Batio",
       "date_str": "07/05/2026 · Jueves",
       "date_iso": "2026-05-07",
-      "venue": "Revi Live",
+      "venue": "sala Revi Live",
       "address": "",
       "price": "Consultar",
-      "buy_link": "https://metaltrip.com/michael-angelo-batio-tour/",
+      "buy_link": "https://entradium.com/es/events/madrid-michael-angelo-batio",
       "genre": "Neoclassical Metal",
       "notes": "",
-      "image_url": "https://cdn-images.dzcdn.net/images/artist/698fb65cb118202e0b4ac922492c580d/500x500-000000-80-0-0.jpg"
+      "image_url": "https://d2il8hfach02z9.cloudfront.net/uploads/event/poster/a868a5f100e554eb721ad5d496377a38abb4b691/event_l_4e813182-93f9-4ac0-9169-a694e46e7ab6.jpeg?v=1775108730"
     },
     {
       "artist": "Eric Clapton",
@@ -184,6 +132,19 @@
       "genre": "Blues Rock",
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/1d4063997634c8af676b81656c7ebba5/500x500-000000-80-0-0.jpg"
+    },
+    {
+      "artist": "Eric Clapton (european Tour 2026)",
+      "lineup": "Eric Clapton (european Tour 2026)",
+      "date_str": "07/05/2026 · Jueves",
+      "date_iso": "2026-05-07",
+      "venue": "Madrid",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "https://metalhammer.es/agendado/madrid-eric-clapton-european-tour-2026/",
+      "genre": "Blues Rock",
+      "notes": "",
+      "image_url": "https://metalhammer.es/wp-content/uploads/2025/10/eric-clapton.jpg"
     },
     {
       "artist": "The Lords of Altamont",
@@ -212,6 +173,19 @@
       "image_url": "https://cdn-images.dzcdn.net/images/artist/e9f45dded4c3eb9384df56f5d869650b/500x500-000000-80-0-0.jpg"
     },
     {
+      "artist": "Celtian",
+      "lineup": "Celtian",
+      "date_str": "09/05/2026 · Sábado",
+      "date_iso": "2026-05-09",
+      "venue": "La Riviera",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "https://metaltrip.com/celtian-madrid/",
+      "genre": "Heavy Metal",
+      "notes": "",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/3440c50c4e718f1da98a339e79e1ef3e/500x500-000000-80-0-0.jpg"
+    },
+    {
       "artist": "Priest",
       "lineup": "Priest",
       "date_str": "09/05/2026 · Sábado",
@@ -222,20 +196,7 @@
       "buy_link": "https://metaltrip.com/priest-tour/",
       "genre": "Heavy Metal",
       "notes": "",
-      "image_url": "https://cdn-images.dzcdn.net/images/artist/3780a546a18503f1ca1e67358750847e/500x500-000000-80-0-0.jpg"
-    },
-    {
-      "artist": "Celtian",
-      "lineup": "Celtian",
-      "date_str": "09/05/2026 · Sábado",
-      "date_iso": "2026-05-09",
-      "venue": "La Riviera",
-      "address": "",
-      "price": "Consultar",
-      "buy_link": "https://metaltrip.com/celtian-madrid/",
-      "genre": "Metalcore",
-      "notes": "",
-      "image_url": "https://cdn-images.dzcdn.net/images/artist/3440c50c4e718f1da98a339e79e1ef3e/500x500-000000-80-0-0.jpg"
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/0451899c26588fbbda003c3a1424655e/500x500-000000-80-0-0.jpg"
     },
     {
       "artist": "Helevorn",
@@ -264,6 +225,19 @@
       "image_url": "https://cdn-images.dzcdn.net/images/artist/5956edbb409a277527f0871f359defa8/500x500-000000-80-0-0.jpg"
     },
     {
+      "artist": "The Aristocrats en Bilbao, Madrid, Sevilla, Valencia, Barcelona y Palma de Mallorca",
+      "lineup": "The Aristocrats en Bilbao, Madrid, Sevilla, Valencia, Barcelona y Palma de Mallorca",
+      "date_str": "12/05/2026 · Martes",
+      "date_iso": "2026-05-12",
+      "venue": "Madrid",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "https://www.madnesslive.es/es/conciertos-en-madrid/1806-comprar-entrada-the-aristocrats-madrid.html",
+      "genre": "Progressive Metal",
+      "notes": "",
+      "image_url": "https://www.madnesslive.es/img/logo-1681296370.jpg"
+    },
+    {
       "artist": "The Aristocrats",
       "lineup": "The Aristocrats",
       "date_str": "12/05/2026 · Martes",
@@ -272,7 +246,7 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "https://metaltrip.com/the-aristocrats-tour-2/",
-      "genre": "Instrumental Progressive Metal",
+      "genre": "Instrumental Progressive Rock",
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/d5ce850c96fddefdccda95889ab75fde/500x500-000000-80-0-0.jpg"
     },
@@ -285,7 +259,7 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "",
-      "genre": "Rock",
+      "genre": "Metal",
       "notes": "",
       "image_url": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='65' height='65'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0%25' stop-color='%23374151'/><stop offset='100%25' stop-color='%231f2937'/></linearGradient></defs><rect width='65' height='65' rx='6' fill='url(%23g)'/><rect width='65' height='65' rx='6' fill='none' stroke='%234b5563' stroke-width='1'/><text x='50%25' y='50%25' dominant-baseline='central' text-anchor='middle' font-family='Arial,sans-serif' font-size='20' font-weight='700' fill='%239ca3af'>CA</text></svg>"
     },
@@ -324,22 +298,48 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "https://metaltrip.com/carlos-escobedo-madrid-2/",
-      "genre": "Heavy Metal",
+      "genre": "Rock",
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/e1e63ddf2331ee92ea0208a4464383ad/500x500-000000-80-0-0.jpg"
     },
     {
-      "artist": "Plini",
-      "lineup": "Plini + Sungazer",
+      "artist": "El Drogas (gira 2026)",
+      "lineup": "El Drogas (gira 2026)",
       "date_str": "16/05/2026 · Sábado",
       "date_iso": "2026-05-16",
-      "venue": "Salamandra",
+      "venue": "Madrid",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "https://metalhammer.es/agendado/madrid-el-drogas-gira-2026/",
+      "genre": "Metalcore",
+      "notes": "",
+      "image_url": "https://metalhammer.es/wp-content/uploads/2026/01/2025121885112025-2026_GIRA-v2E8Vg-scaled.jpg"
+    },
+    {
+      "artist": "Rainover",
+      "lineup": "Rainover",
+      "date_str": "16/05/2026 · Sábado",
+      "date_iso": "2026-05-16",
+      "venue": "Sala Spectrum + EMBELLISH",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "",
+      "genre": "Gothic Metal",
+      "notes": "",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/d2fae2a8b27930fc43025c3b9483dced/500x500-000000-80-0-0.jpg"
+    },
+    {
+      "artist": "Plini y Sungazer",
+      "lineup": "Plini y Sungazer",
+      "date_str": "17/05/2026 · Domingo",
+      "date_iso": "2026-05-17",
+      "venue": "sala Mon",
       "address": "",
       "price": "Consultar",
       "buy_link": "",
       "genre": "Progressive Metal",
       "notes": "",
-      "image_url": "https://cdn-images.dzcdn.net/images/artist/a3039e5468dbfcbb26590d01ef101c4a/500x500-000000-80-0-0.jpg"
+      "image_url": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='65' height='65'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0%25' stop-color='%23374151'/><stop offset='100%25' stop-color='%231f2937'/></linearGradient></defs><rect width='65' height='65' rx='6' fill='url(%23g)'/><rect width='65' height='65' rx='6' fill='none' stroke='%234b5563' stroke-width='1'/><text x='50%25' y='50%25' dominant-baseline='central' text-anchor='middle' font-family='Arial,sans-serif' font-size='20' font-weight='700' fill='%239ca3af'>PY</text></svg>"
     },
     {
       "artist": "The Sword",
@@ -407,6 +407,32 @@
       "image_url": "https://cdn-images.dzcdn.net/images/artist/4b60155e4bb9981f9b0b12009e21c260/500x500-000000-80-0-0.jpg"
     },
     {
+      "artist": "The Rumjacks",
+      "lineup": "The Rumjacks",
+      "date_str": "24/05/2026 · Domingo",
+      "date_iso": "2026-05-24",
+      "venue": "",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "",
+      "genre": "Rock",
+      "notes": "",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/eaee237cb8e02fcadff6da4a108b5e59/500x500-000000-80-0-0.jpg"
+    },
+    {
+      "artist": "Malevolence en Vitoria, Madrid, a Coruña, Sevilla y Barcelona",
+      "lineup": "Malevolence en Vitoria, Madrid, a Coruña, Sevilla y Barcelona",
+      "date_str": "28/05/2026 · Jueves",
+      "date_iso": "2026-05-28",
+      "venue": "Copérnico",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "",
+      "genre": "Rock",
+      "notes": "",
+      "image_url": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='65' height='65'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0%25' stop-color='%23374151'/><stop offset='100%25' stop-color='%231f2937'/></linearGradient></defs><rect width='65' height='65' rx='6' fill='url(%23g)'/><rect width='65' height='65' rx='6' fill='none' stroke='%234b5563' stroke-width='1'/><text x='50%25' y='50%25' dominant-baseline='central' text-anchor='middle' font-family='Arial,sans-serif' font-size='20' font-weight='700' fill='%239ca3af'>ME</text></svg>"
+    },
+    {
       "artist": "Malevolence",
       "lineup": "Malevolence",
       "date_str": "28/05/2026 · Jueves",
@@ -444,6 +470,19 @@
       "genre": "Rock",
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/efdb81bb0665824d90867e16f0549547/500x500-000000-80-0-0.jpg"
+    },
+    {
+      "artist": "Neurosis",
+      "lineup": "Neurosis",
+      "date_str": "29/05/2026 · Viernes",
+      "date_iso": "2026-05-29",
+      "venue": "sala La Trinchera, calle Josefa Díaz 4, Mercado Numancia",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "",
+      "genre": "Rock",
+      "notes": "",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/7ddecf2ddb92ee3fff4ae6db888b522f/500x500-000000-80-0-0.jpg"
     },
     {
       "artist": "The Soundtrack of Our Lives",
@@ -493,7 +532,7 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "",
-      "genre": "Rock",
+      "genre": "Heavy Metal",
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/398a531806b0523220c05f8a3feacb71/500x500-000000-80-0-0.jpg"
     },
@@ -506,7 +545,7 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "https://metaltrip.com/clutch-tour-2/",
-      "genre": "Stoner Rock",
+      "genre": "Rock",
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/0ce9f8e3902d0bbd9fcea6e1baacdad9/500x500-000000-80-0-0.jpg"
     },
@@ -563,6 +602,19 @@
       "image_url": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='65' height='65'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0%25' stop-color='%23374151'/><stop offset='100%25' stop-color='%231f2937'/></linearGradient></defs><rect width='65' height='65' rx='6' fill='url(%23g)'/><rect width='65' height='65' rx='6' fill='none' stroke='%234b5563' stroke-width='1'/><text x='50%25' y='50%25' dominant-baseline='central' text-anchor='middle' font-family='Arial,sans-serif' font-size='20' font-weight='700' fill='%239ca3af'>FL</text></svg>"
     },
     {
+      "artist": "Geoff Tate Interpretando \"operation: Mindcrime\" de Queensryche",
+      "lineup": "Geoff Tate Interpretando \"operation: Mindcrime\" de Queensryche",
+      "date_str": "16/06/2026 · Martes",
+      "date_iso": "2026-06-16",
+      "venue": "Revi Live",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "https://mutick.com/e/geoff-tate-en-madrid-4",
+      "genre": "Rock",
+      "notes": "",
+      "image_url": "https://mutick.com/img/eventos/bb6b1e23-6028-4826-8408-21d56fbff8e5/bb6b1e23-6028-4826-8408-21d56fbff8e5_cartel.jpg"
+    },
+    {
       "artist": "Geoff Tate",
       "lineup": "Geoff Tate",
       "date_str": "16/06/2026 · Martes",
@@ -587,6 +639,32 @@
       "genre": "Rock",
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/6acfc54b26d489ef1b4bb4e735dd9806/500x500-000000-80-0-0.jpg"
+    },
+    {
+      "artist": "Starbenders",
+      "lineup": "Starbenders",
+      "date_str": "19/06/2026 · Viernes",
+      "date_iso": "2026-06-19",
+      "venue": "Nazca Live",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "https://metaltrip.com/starbenders-madrid/",
+      "genre": "Rock",
+      "notes": "",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/84ed995652befb8a7c6b50e0fc51eaa6/500x500-000000-80-0-0.jpg"
+    },
+    {
+      "artist": "Bloodbath y Cancer",
+      "lineup": "Bloodbath y Cancer",
+      "date_str": "22/06/2026 · Lunes",
+      "date_iso": "2026-06-22",
+      "venue": "sala Revi Live",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "",
+      "genre": "Death Metal",
+      "notes": "",
+      "image_url": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='65' height='65'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0%25' stop-color='%23374151'/><stop offset='100%25' stop-color='%231f2937'/></linearGradient></defs><rect width='65' height='65' rx='6' fill='url(%23g)'/><rect width='65' height='65' rx='6' fill='none' stroke='%234b5563' stroke-width='1'/><text x='50%25' y='50%25' dominant-baseline='central' text-anchor='middle' font-family='Arial,sans-serif' font-size='20' font-weight='700' fill='%239ca3af'>BY</text></svg>"
     }
   ]
 }
