@@ -2,17 +2,18 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <title>La Guía Ferlín</title>
   <link rel="manifest" href="manifest.json">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
   <link rel="icon" type="image/png" sizes="32x32" href="icons/icon-32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="icons/icon-16.png">
+  <link rel="apple-touch-icon" href="icons/icon-180.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="icons/icon-152.png">
+  <link rel="apple-touch-icon" sizes="167x167" href="icons/icon-180.png">
   <link rel="apple-touch-icon" sizes="180x180" href="icons/icon-180.png">
-  <meta name="theme-color" content="#111827">
-  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-  <meta http-equiv="Pragma" content="no-cache">
-  <meta http-equiv="Expires" content="0">
+  <meta name="theme-color" content="#1a1a2e">
+  <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="apple-mobile-web-app-title" content="La Guía Ferlín">
@@ -86,18 +87,22 @@
        SCROLL TO TOP — floating button
     ════════════════════════════════════════ */
     #scroll-top {
-      position: fixed; bottom: 24px; right: 22px; z-index: 9999;
-      width: 42px; height: 42px; border-radius: 50%;
+      position: fixed;
+      bottom: calc(24px + env(safe-area-inset-bottom, 0px));
+      right: 22px; z-index: 9999;
+      width: 44px; height: 44px; border-radius: 50%;
       background: #38bdf8; color: #111827;
       border: none; cursor: pointer;
       font-size: 20px; font-weight: 900; line-height: 1;
       box-shadow: 0 4px 16px rgba(56,189,248,.4);
       display: flex; align-items: center; justify-content: center;
       opacity: 0; pointer-events: none;
-      transition: opacity .2s, transform .2s;
+      transition: opacity .25s, transform .2s;
+      -webkit-tap-highlight-color: transparent;
+      touch-action: manipulation;
     }
     #scroll-top.show { opacity: 1; pointer-events: all; }
-    #scroll-top:hover { transform: translateY(-3px); }
+    #scroll-top:hover, #scroll-top:active { transform: translateY(-3px); }
 
     /* ════════════════════════════════════════
        NOTICIAS — light, matches email exactly
@@ -441,7 +446,7 @@
 </div>
 
 <!-- ══ SCROLL TO TOP ═══════════════════════════════ -->
-<button id="scroll-top" onclick="window.scrollTo({top:0,behavior:'smooth'})" aria-label="Volver arriba">↑</button>
+<button id="scroll-top" aria-label="Volver arriba">↑</button>
 
 <script>
 /* ── helpers ── */
@@ -465,7 +470,17 @@ function artistImg(url, name) {
 
 /* ── scroll to top ── */
 const stBtn = document.getElementById('scroll-top');
-window.addEventListener('scroll', ()=>{ stBtn.classList.toggle('show', window.scrollY > 300); }, {passive:true});
+function getScrollY() {
+  return window.scrollY || document.documentElement.scrollTop || document.body.scrollTop || 0;
+}
+function scrollToTop() {
+  window.scrollTo({top:0,behavior:'smooth'});
+  document.documentElement.scrollTo({top:0,behavior:'smooth'});
+  document.body.scrollTo({top:0,behavior:'smooth'});
+}
+stBtn.onclick = scrollToTop;
+window.addEventListener('scroll', ()=>{ stBtn.classList.toggle('show', getScrollY() > 300); }, {passive:true});
+document.addEventListener('scroll', ()=>{ stBtn.classList.toggle('show', getScrollY() > 300); }, {passive:true});
 
 /* ── main tab switch ── */
 function switchTab(name) {
@@ -493,7 +508,7 @@ const isES = src => ES_SRC.some(s=>(src||'').toLowerCase().includes(s));
 
 async function loadNews() {
   try {
-    const r = await fetch('./data/news.json?t='+Date.now());
+    const r = await fetch('./data/news.json', {cache:'no-cache'});
     if (!r.ok) throw 0;
     renderNews(await r.json());
   } catch { document.getElementById('news-body').innerHTML = noData('📭','Sin noticias todavía'); }
@@ -517,7 +532,7 @@ function renderNews(data) {
     const rows  = [
       a.what_happened  ? `<div class="news-card-row"><span class="news-card-row-label">Qué pasó</span>${esc(a.what_happened)}</div>` : '',
       a.key_details    ? `<div class="news-card-row"><span class="news-card-row-label">Detalles</span>${esc(a.key_details)}</div>` : '',
-      a.why_it_matters ? `<div class="news-card-row"><span class="news-card-row-label">Por qué importa</span>${esc(a.why_it_matters)}</div>` : '',
+
     ].filter(Boolean).join('');
     const btn = a.url ? `<a href="${esc(a.url)}" target="_blank" class="news-card-btn">Leer artículo completo →</a>` : '';
     return `<div class="news-card">
@@ -588,7 +603,7 @@ function progressBar(startRaw, endRaw) {
 
 async function loadPlans() {
   try {
-    const r = await fetch('./data/plans.json?t='+Date.now());
+    const r = await fetch('./data/plans.json', {cache:'no-cache'});
     if (!r.ok) throw 0;
     renderPlans(await r.json());
   } catch { document.getElementById('sp-new').innerHTML = noData('📭','Sin planes todavía'); }
@@ -630,7 +645,7 @@ function renderPlans(data) {
 ════════════════════════════════════════════════ */
 async function loadConcerts() {
   try {
-    const r = await fetch('./data/concerts.json?t='+Date.now());
+    const r = await fetch('./data/concerts.json', {cache:'no-cache'});
     if (!r.ok) throw 0;
     renderConcerts(await r.json());
   } catch { document.getElementById('concerts-body').innerHTML = noData('🤘','Sin conciertos todavía'); }
