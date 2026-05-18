@@ -544,7 +544,7 @@ function renderNews(data) {
     const title = a.url ? `<a class="news-card-title" href="${esc(a.url)}" target="_blank">${esc(a.title)}</a>` : `<span class="news-card-title">${esc(a.title)}</span>`;
     const rows  = [
       a.what_happened  ? `<div class="news-card-row"><span class="news-card-row-label">Qué pasó</span>${esc(a.what_happened)}</div>` : '',
-      a.key_details    ? `<div class="news-card-row"><span class="news-card-row-label">Detalles</span>${esc(a.key_details)}</div>` : '',
+      a.key_details    ? `<div class="news-card-row"><span class="news-card-row-label">Datos y conclusiones</span>${esc(a.key_details)}</div>` : '',
 
     ].filter(Boolean).join('');
     const btn = a.url ? `<a href="${esc(a.url)}" target="_blank" class="news-card-btn">Leer artículo completo →</a>` : '';
