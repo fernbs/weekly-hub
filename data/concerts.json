@@ -1,99 +1,8 @@
 {
-  "generated": "2026-05-18T08:47:46.962890",
-  "from_date": "2026-05-18",
-  "to_date": "2026-07-13",
+  "generated": "2026-05-25T09:00:52.881642",
+  "from_date": "2026-05-25",
+  "to_date": "2026-07-20",
   "concerts": [
-    {
-      "artist": "The Sword",
-      "lineup": "The Sword",
-      "date_str": "22/05/2026 · Viernes",
-      "date_iso": "2026-05-22",
-      "venue": "Copernico",
-      "address": "",
-      "price": "Consultar",
-      "buy_link": "https://metaltrip.com/the-sword-tour/",
-      "genre": "{{hlist",
-      "notes": "",
-      "image_url": "https://cdn-images.dzcdn.net/images/artist/0dad1a53d21cad96fd6888f6178a2388/500x500-000000-80-0-0.jpg"
-    },
-    {
-      "artist": "Riot Gz Festival",
-      "lineup": "Riot Gz Festival",
-      "date_str": "22/05/2026 · Viernes",
-      "date_iso": "2026-05-22",
-      "venue": "Madrid",
-      "address": "",
-      "price": "Consultar",
-      "buy_link": "",
-      "genre": "Rock",
-      "notes": "",
-      "image_url": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='65' height='65'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0%25' stop-color='%23374151'/><stop offset='100%25' stop-color='%231f2937'/></linearGradient></defs><rect width='65' height='65' rx='6' fill='url(%23g)'/><rect width='65' height='65' rx='6' fill='none' stroke='%234b5563' stroke-width='1'/><text x='50%25' y='50%25' dominant-baseline='central' text-anchor='middle' font-family='Arial,sans-serif' font-size='20' font-weight='700' fill='%239ca3af'>RG</text></svg>"
-    },
-    {
-      "artist": "Rata Blanca",
-      "lineup": "Rata Blanca",
-      "date_str": "23/05/2026 · Sábado",
-      "date_iso": "2026-05-23",
-      "venue": "Sala Silikona",
-      "address": "",
-      "price": "Consultar",
-      "buy_link": "",
-      "genre": "[[heavy Metal",
-      "notes": "",
-      "image_url": "https://cdn-images.dzcdn.net/images/artist/398a531806b0523220c05f8a3feacb71/500x500-000000-80-0-0.jpg"
-    },
-    {
-      "artist": "Raven",
-      "lineup": "Raven",
-      "date_str": "23/05/2026 · Sábado",
-      "date_iso": "2026-05-23",
-      "venue": "Silikona",
-      "address": "",
-      "price": "Consultar",
-      "buy_link": "https://metaltrip.com/raven-tour-2/",
-      "genre": "{{flatlist",
-      "notes": "",
-      "image_url": "https://cdn-images.dzcdn.net/images/artist/9d34bc23b570554394854d5e8b994e01/500x500-000000-80-0-0.jpg"
-    },
-    {
-      "artist": "Rainover",
-      "lineup": "Rainover",
-      "date_str": "23/05/2026 · Sábado",
-      "date_iso": "2026-05-23",
-      "venue": "Sala Barracudas + ITINERUM + NO SOUL",
-      "address": "",
-      "price": "Consultar",
-      "buy_link": "",
-      "genre": "Gothic Metal",
-      "notes": "",
-      "image_url": "https://cdn-images.dzcdn.net/images/artist/d2fae2a8b27930fc43025c3b9483dced/500x500-000000-80-0-0.jpg"
-    },
-    {
-      "artist": "Jelusick",
-      "lineup": "Jelusick",
-      "date_str": "24/05/2026 · Domingo",
-      "date_iso": "2026-05-24",
-      "venue": "Gong",
-      "address": "",
-      "price": "Consultar",
-      "buy_link": "https://metaltrip.com/agenda-entradas-4-conciertos-3/",
-      "genre": "Progressive Metal",
-      "notes": "",
-      "image_url": "https://cdn-images.dzcdn.net/images/artist/4b60155e4bb9981f9b0b12009e21c260/500x500-000000-80-0-0.jpg"
-    },
-    {
-      "artist": "The Rumjacks",
-      "lineup": "The Rumjacks",
-      "date_str": "24/05/2026 · Domingo",
-      "date_iso": "2026-05-24",
-      "venue": "",
-      "address": "",
-      "price": "Consultar",
-      "buy_link": "",
-      "genre": "Folk Metal",
-      "notes": "",
-      "image_url": "https://cdn-images.dzcdn.net/images/artist/eaee237cb8e02fcadff6da4a108b5e59/500x500-000000-80-0-0.jpg"
-    },
     {
       "artist": "Graham Bonnet Band y Matilde G",
       "lineup": "Graham Bonnet Band y Matilde G",
@@ -116,7 +25,7 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "https://metaltrip.com/molchat-doma-tour/",
-      "genre": "Post-punk",
+      "genre": "<!--genres Are Sourced In The Prose-->{{hlist",
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/1a2c0a157de5dcf5b675f12dc2047a13/500x500-000000-80-0-0.jpg"
     },
@@ -129,7 +38,7 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "",
-      "genre": "Metalcore",
+      "genre": "Rock",
       "notes": "",
       "image_url": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='65' height='65'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0%25' stop-color='%23374151'/><stop offset='100%25' stop-color='%231f2937'/></linearGradient></defs><rect width='65' height='65' rx='6' fill='url(%23g)'/><rect width='65' height='65' rx='6' fill='none' stroke='%234b5563' stroke-width='1'/><text x='50%25' y='50%25' dominant-baseline='central' text-anchor='middle' font-family='Arial,sans-serif' font-size='20' font-weight='700' fill='%239ca3af'>ME</text></svg>"
     },
@@ -142,7 +51,7 @@
       "address": "Calle de Andrés Borrego, 15, 28003 Madrid",
       "price": "Consultar",
       "buy_link": "https://metaltrip.com/malevolence-tour-2/",
-      "genre": "Metalcore",
+      "genre": "{{hlist",
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/1c32aaaeaa2fd9a598518391ae562934/500x500-000000-80-0-0.jpg"
     },
@@ -155,7 +64,7 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "",
-      "genre": "Rock",
+      "genre": "{{hlist",
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/b0dc4fe2f89d5f3a60ead4b23b9e9654/500x500-000000-80-0-0.jpg"
     },
@@ -168,9 +77,22 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "https://metaltrip.com/kraken-tour/",
-      "genre": "Power Metal",
+      "genre": "[[heavy Metal Music",
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/42ec6c972344a3eb7829ae98ac5778d7/500x500-000000-80-0-0.jpg"
+    },
+    {
+      "artist": "Rata Blanca",
+      "lineup": "Rata Blanca",
+      "date_str": "29/05/2026 · Viernes",
+      "date_iso": "2026-05-29",
+      "venue": "The One",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "",
+      "genre": "Heavy Metal",
+      "notes": "",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/398a531806b0523220c05f8a3feacb71/500x500-000000-80-0-0.jpg"
     },
     {
       "artist": "Vicious Rumors",
@@ -212,6 +134,19 @@
       "image_url": "https://cdn-images.dzcdn.net/images/artist/d7610048d978be837515929c2807aa7c/500x500-000000-80-0-0.jpg"
     },
     {
+      "artist": "Astor Drive",
+      "lineup": "Astor Drive",
+      "date_str": "29/05/2026 · Viernes",
+      "date_iso": "2026-05-29",
+      "venue": "La Uni",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "https://metaltrip.com/astor-drive-madrid/",
+      "genre": "Rock",
+      "notes": "",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/c98d06ece4534b109119b640d354fcc3/500x500-000000-80-0-0.jpg"
+    },
+    {
       "artist": "Dewolff",
       "lineup": "Dewolff",
       "date_str": "30/05/2026 · Sábado",
@@ -220,7 +155,7 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "https://metaltrip.com/dewolff-madrid/",
-      "genre": "Rock",
+      "genre": "Blues Rock",
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/60ec9d0a7f6963344d7fabfbba8a37b5/500x500-000000-80-0-0.jpg"
     },
@@ -238,19 +173,6 @@
       "image_url": "https://cdn-images.dzcdn.net/images/artist/835158280a461208c434f0a5a3a4376f/500x500-000000-80-0-0.jpg"
     },
     {
-      "artist": "Rata Blanca (gira España 2026)",
-      "lineup": "Rata Blanca (gira España 2026)",
-      "date_str": "31/05/2026 · Domingo",
-      "date_iso": "2026-05-31",
-      "venue": "Madrid",
-      "address": "",
-      "price": "Consultar",
-      "buy_link": "https://metalhammer.es/agendado/madrid-rata-blanca-gira-espana-2026/",
-      "genre": "Rock",
-      "notes": "",
-      "image_url": "https://metalhammer.es/wp-content/uploads/2026/03/1751811394-Rata-Blanca-Gira-Espaa-2026-CL0rw1.webp"
-    },
-    {
       "artist": "Clutch",
       "lineup": "Clutch",
       "date_str": "04/06/2026 · Jueves",
@@ -259,7 +181,7 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "https://metaltrip.com/clutch-tour-2/",
-      "genre": "Rock",
+      "genre": "Stoner Rock",
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/0ce9f8e3902d0bbd9fcea6e1baacdad9/500x500-000000-80-0-0.jpg"
     },
@@ -298,7 +220,7 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "https://metaltrip.com/berkana-madrid/",
-      "genre": "Rock",
+      "genre": "Folk Metal",
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/5d5a4b6eaaaa8d55583af64d4f0d2eaa/500x500-000000-80-0-0.jpg"
     },
@@ -313,7 +235,7 @@
       "buy_link": "",
       "genre": "Rock",
       "notes": "",
-      "image_url": "https://cdn-images.dzcdn.net/images/artist/8eddbcbdf0aaea68305ef872aae37daa/500x500-000000-80-0-0.jpg"
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/7a23fce70c070751c3a0193fb29e66bb/500x500-000000-80-0-0.jpg"
     },
     {
       "artist": "Metalmad Fest",
@@ -321,12 +243,25 @@
       "date_str": "07/06/2026 · Domingo",
       "date_iso": "2026-06-07",
       "venue": "Universidad Autónoma de Madrid",
-      "address": "",
+      "address": "Calle de Francisco Tomás y Valiente, s/n",
       "price": "Consultar",
       "buy_link": "https://metaltrip.com/metalmad-fest-2026/",
       "genre": "Rock",
       "notes": "",
       "image_url": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='65' height='65'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0%25' stop-color='%23374151'/><stop offset='100%25' stop-color='%231f2937'/></linearGradient></defs><rect width='65' height='65' rx='6' fill='url(%23g)'/><rect width='65' height='65' rx='6' fill='none' stroke='%234b5563' stroke-width='1'/><text x='50%25' y='50%25' dominant-baseline='central' text-anchor='middle' font-family='Arial,sans-serif' font-size='20' font-weight='700' fill='%239ca3af'>MF</text></svg>"
+    },
+    {
+      "artist": "Lörihen",
+      "lineup": "Lörihen",
+      "date_str": "11/06/2026 · Jueves",
+      "date_iso": "2026-06-11",
+      "venue": "Rockville",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "https://metaltrip.com/lorihen-madrid/",
+      "genre": "Folk Metal",
+      "notes": "",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/2ccdc05ecaa1c9a93557defc85cbfb5b/500x500-000000-80-0-0.jpg"
     },
     {
       "artist": "Crypta",
@@ -350,7 +285,7 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "https://metaltrip.com/uncle-acid-the-deadbeats-tour/",
-      "genre": "Psychedelic Rock",
+      "genre": "Rock",
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/d7f235ebc2af4bd6a715a2a5c789d61e/500x500-000000-80-0-0.jpg"
     },
@@ -363,7 +298,7 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "",
-      "genre": "Rock",
+      "genre": "Power Metal",
       "notes": "",
       "image_url": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='65' height='65'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0%25' stop-color='%23374151'/><stop offset='100%25' stop-color='%231f2937'/></linearGradient></defs><rect width='65' height='65' rx='6' fill='url(%23g)'/><rect width='65' height='65' rx='6' fill='none' stroke='%234b5563' stroke-width='1'/><text x='50%25' y='50%25' dominant-baseline='central' text-anchor='middle' font-family='Arial,sans-serif' font-size='20' font-weight='700' fill='%239ca3af'>FL</text></svg>"
     },
@@ -415,7 +350,7 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "https://metaltrip.com/starbenders-madrid/",
-      "genre": "Rock",
+      "genre": "Gothic Metal",
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/84ed995652befb8a7c6b50e0fc51eaa6/500x500-000000-80-0-0.jpg"
     },
@@ -428,7 +363,7 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "https://metaltrip.com/gabrielle-del-val-tour/",
-      "genre": "Symphonic Metal",
+      "genre": "Rock",
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/e72bf7c8ed69f687dee7269d2d0a6748/500x500-000000-80-0-0.jpg"
     },
@@ -441,9 +376,22 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "https://metaltrip.com/bloodbath-madrid/",
-      "genre": "Rock",
+      "genre": "Death Metal",
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/de5c7f9fcf3e736f4d398ae9e12f51b3/500x500-000000-80-0-0.jpg"
+    },
+    {
+      "artist": "Chino Banzai",
+      "lineup": "Chino Banzai",
+      "date_str": "22/06/2026 · Lunes",
+      "date_iso": "2026-06-22",
+      "venue": "Revi Live",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "https://metaltrip.com/chino-banzai-madrid/",
+      "genre": "Rock",
+      "notes": "",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist//500x500-000000-80-0-0.jpg"
     },
     {
       "artist": "Linkin Park",
@@ -493,7 +441,7 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "https://metaltrip.com/viejas-secuelas-tour/",
-      "genre": "Rock",
+      "genre": "Hard Rock",
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/e5e462567caf94a277aa623e5bb8d994/500x500-000000-80-0-0.jpg"
     },
@@ -506,7 +454,7 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "",
-      "genre": "Nu Metal",
+      "genre": "Rock",
       "notes": "",
       "image_url": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='65' height='65'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0%25' stop-color='%23374151'/><stop offset='100%25' stop-color='%231f2937'/></linearGradient></defs><rect width='65' height='65' rx='6' fill='url(%23g)'/><rect width='65' height='65' rx='6' fill='none' stroke='%234b5563' stroke-width='1'/><text x='50%25' y='50%25' dominant-baseline='central' text-anchor='middle' font-family='Arial,sans-serif' font-size='20' font-weight='700' fill='%239ca3af'>LB</text></svg>"
     },
@@ -519,7 +467,7 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "https://metaltrip.com/pennywise-tour/",
-      "genre": "Rock",
+      "genre": "Punk",
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/d069f1488ae9cc2394c4890bed620dfa/500x500-000000-80-0-0.jpg"
     },
@@ -529,7 +477,7 @@
       "date_str": "01/07/2026 · Miércoles",
       "date_iso": "2026-07-01",
       "venue": "Movistar Arena",
-      "address": "Calle de Felipe II, s/n, 28009 Madrid",
+      "address": "",
       "price": "Consultar",
       "buy_link": "https://metaltrip.com/limp-bizkit-madrid/",
       "genre": "Rock",
@@ -581,10 +529,10 @@
       "date_str": "04/07/2026 · Sábado",
       "date_iso": "2026-07-04",
       "venue": "Copérnico",
-      "address": "",
+      "address": "Calle de Andrés Borrego, 15, 28003 Madrid",
       "price": "Consultar",
       "buy_link": "https://metaltrip.com/the-rasmus-tour/",
-      "genre": "{{flatlist",
+      "genre": "Rock",
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/135a809bb8b3464eb3215118a5d8183b/500x500-000000-80-0-0.jpg"
     },
@@ -597,7 +545,7 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "",
-      "genre": "{{hlist",
+      "genre": "Rock",
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/da0acae1fb0a8eca91bdac1693a74836/500x500-000000-80-0-0.jpg"
     },
@@ -610,7 +558,7 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "",
-      "genre": "[[heavy Metal Music",
+      "genre": "Power Metal",
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/891e0d125758109d0996a6b37390e35c/500x500-000000-80-0-0.jpg"
     },
@@ -623,7 +571,7 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "http://enterticket.es/",
-      "genre": "{{hlist",
+      "genre": "Rock",
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/a3dc14047e17fc7269855848aaec4ad1/500x500-000000-80-0-0.jpg"
     },
@@ -649,9 +597,22 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "https://metaltrip.com/madcool/",
-      "genre": "Rock",
+      "genre": "Alternative Rock",
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/e6075ef8af5aded1162b373441176ec7/500x500-000000-80-0-0.jpg"
+    },
+    {
+      "artist": "Wolfmother",
+      "lineup": "Wolfmother",
+      "date_str": "19/07/2026 · Domingo",
+      "date_iso": "2026-07-19",
+      "venue": "But",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "https://metaltrip.com/wolfmother-tour-2/",
+      "genre": "{{hlist",
+      "notes": "",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/ddeea4b543e1d8543b435e31a1a2487e/500x500-000000-80-0-0.jpg"
     }
   ]
 }
