@@ -1063,18 +1063,63 @@ def scrape_songkick():
 
 _genre_cache = {}  # artist → genre, avoids duplicate lookups in same run
 
+_GENRE_JUNK = {'hlist', 'flatlist', 'plainlist', 'ubl', 'unbulleted', 'nowrap',
+               'cslist', 'music', 'musical style', 'style', 'various'}
+
+
 def _clean_genre_string(raw: str) -> str:
-    """Normalise a raw genre string from any source."""
+    """Normalise a raw genre string from any source, including messy wikitext
+    (templates like {{hlist}}, [[wiki links]], <!-- comments -->)."""
     if not raw: return ''
-    # Strip wiki-style citations and parenthetical notes
-    raw = re.sub(r'\[.*?\]', '', raw)
-    raw = re.sub(r'\(.*?\)', '', raw)
-    # Take only the first genre if comma/slash separated and too long
-    parts = [p.strip() for p in re.split(r'[,;]', raw) if p.strip()]
+    # HTML comments and ref tags
+    raw = re.sub(r'<!--.*?-->', '', raw, flags=re.DOTALL)
+    raw = re.sub(r'<ref[^>]*>.*?</ref>', '', raw, flags=re.DOTALL | re.IGNORECASE)
+    raw = re.sub(r'<[^>]+>', '', raw)
+    # Wiki links: [[A|B]] -> B, [[A]] -> A
+    raw = re.sub(r'\[\[(?:[^|\]]*\|)?([^\]]+)\]\]', r'\1', raw)
+    # Drop template names (hlist/flatlist/...) but keep their list items
+    raw = re.sub(r'\{\{\s*(?:hlist|flatlist|plainlist|ubl|unbulleted list'
+                 r'|nowrap|cslist)\s*\|?', '', raw, flags=re.IGNORECASE)
+    raw = raw.replace('{{', '').replace('}}', '')
+    raw = raw.replace('[[', '').replace(']]', '')
+    raw = re.sub(r'\[[^\]]*\]', '', raw)      # leftover [refs]
+    raw = re.sub(r'\([^)]*\)', '', raw)       # parentheticals
+    raw = raw.replace('*', ' ')
+    # First genre if list-separated
+    parts = [p.strip(" '\"") for p in re.split(r'[,;|/\n]', raw) if p.strip(" '\"")]
     genre = parts[0] if parts else raw.strip()
-    # Capitalise each word, cap length
     genre = ' '.join(w.capitalize() for w in genre.split())
-    return genre[:60]
+    # Reject leftover markup or template keywords
+    if not genre or re.search(r'[{}\[\]<>]', genre):
+        return ''
+    if genre.lower() in _GENRE_JUNK or len(genre) < 3:
+        return ''
+    return genre[:40]
+
+# ── TASTE PRIORITY ─────────────────────────────────────────────────────────
+# Fernando's preferred subgenres, ranked. Extreme metal and hardcore/metalcore
+# /punk go top; classic heavy/power below; everything else last. Used to sort
+# the agenda taste-first (date breaks ties within a tier).
+_GENRE_TOP = [
+    'death', 'black', 'thrash', 'doom', 'sludge', 'grind', 'crust',
+    'powerviolence', 'hardcore', 'metalcore', 'deathcore', 'mathcore',
+    'crossover', 'punk', 'd-beat', 'dbeat', 'oi!', 'grindcore',
+]
+_GENRE_MID = [
+    'heavy metal', 'power metal', 'speed metal', 'nwobhm', 'traditional metal',
+    'hard rock', 'classic metal', 'true metal',
+]
+
+
+def taste_score(genre: str) -> int:
+    """2 = preferred subgenre, 1 = classic heavy/power, 0 = other."""
+    g = (genre or '').lower()
+    if any(k in g for k in _GENRE_TOP):
+        return 2
+    if any(k in g for k in _GENRE_MID):
+        return 1
+    return 0
+
 
 def fetch_genre_metal_archives(artist: str) -> str:
     """Search Metal Archives for the artist and return their genre."""
@@ -1150,17 +1195,14 @@ def fetch_genre_wikipedia(artist: str) -> str:
             r2 = requests.get(parse_url, headers=headers, timeout=8)
             if r2.status_code != 200: continue
             wikitext = r2.json().get('parse', {}).get('wikitext', {}).get('*', '')
-            # Extract genre from infobox
+            # Capture the whole genre field value (it often spans a multi-line
+            # {{hlist}}/{{flatlist}} template) up to the next infobox param.
             genre_match = re.search(
-                r'\|\s*genre\s*=\s*([^\n\|\}]+)',
-                wikitext, re.IGNORECASE
+                r'\|\s*genre\s*=\s*(.*?)(?:\n\s*\||\n\s*\}\})',
+                wikitext, re.IGNORECASE | re.DOTALL
             )
             if genre_match:
-                raw = genre_match.group(1).strip()
-                # Remove wiki markup like [[Death metal]] → Death metal
-                raw = re.sub(r'\[\[([^|\]]+)(?:\|[^\]]+)?\]\]', r'\1', raw)
-                raw = re.sub(r"{{.*?}}", '', raw)
-                genre = _clean_genre_string(raw)
+                genre = _clean_genre_string(genre_match.group(1))
                 if genre and len(genre) > 2:
                     return genre
         return ''
@@ -1397,6 +1439,7 @@ def export_json(concerts: list):
                 'price':     c.get('price', ''),
                 'buy_link':  c.get('buy_link', ''),
                 'genre':     c.get('genre', ''),
+                'taste_score': c.get('taste_score', 0),
                 'notes':     c.get('notes', ''),
                 'image_url': c.get('image_url', ''),
             }
@@ -1454,6 +1497,13 @@ def main():
         if i % 10 == 0: time.sleep(1)
     print(f"\n🎸 PASO 3: Géneros faltantes...")
     enriched = fill_missing_genres(enriched)
+    # Order taste-first: preferred subgenres up top, chronological within a tier.
+    for c in enriched:
+        c['taste_score'] = taste_score(c.get('genre', ''))
+    enriched.sort(key=lambda c: (-c.get('taste_score', 0),
+                                 c.get('date_obj') or datetime.max))
+    top = sum(1 for c in enriched if c.get('taste_score') == 2)
+    print(f"  Priorizados por gusto: {top} en subgéneros preferidos")
     print(f"\n🖼  PASO 4: Imágenes...")
     enriched = enrich_images(enriched, os.getenv('LASTFM_API_KEY', ''))
     print(f"\n💾 PASO 5: JSON export para weekly-hub...")
