@@ -1,9 +1,51 @@
 import hashlib
 import re
 from datetime import datetime
-from src.utils import setup_logging, clean_text, MADRID_TZ
+from src.utils import setup_logging, clean_text, MADRID_TZ, get_madrid_now
 
 logger = setup_logging("normalizer")
+
+_MONTHS_ES = {
+    'enero': '01', 'febrero': '02', 'marzo': '03', 'abril': '04',
+    'mayo': '05', 'junio': '06', 'julio': '07', 'agosto': '08',
+    'septiembre': '09', 'octubre': '10', 'noviembre': '11', 'diciembre': '12',
+}
+_MONTHS_RE = ('(enero|febrero|marzo|abril|mayo|junio|julio|agosto'
+              '|septiembre|octubre|noviembre|diciembre)')
+
+
+def extract_end_date(text: str) -> str:
+    """
+    Pull an end date (DD/MM/YYYY) from free text when the scraper missed it.
+    Looks for the closing side of a range: "hasta el X de MES [de YYYY]"
+    or "... al X de MES [de YYYY]". Returns '' if none found.
+    """
+    if not text:
+        return ''
+    current_year = get_madrid_now().strftime('%Y')
+    m = re.search(
+        rf'\b(?:hasta\s+el?|al)\s+(\d{{1,2}})\s+de\s+{_MONTHS_RE}(?:\s+de\s+(\d{{4}}))?',
+        text, re.IGNORECASE)
+    if m:
+        day, mon, yr = m.groups()
+        yr = yr or current_year
+        return f"{int(day):02d}/{_MONTHS_ES.get(mon.lower(), '01')}/{yr}"
+    return ''
+
+
+def _parse_display_date(date_str: str):
+    """Parse DD/MM/YYYY (or ISO) to datetime. Returns None if invalid."""
+    if not date_str:
+        return None
+    for fmt in ('%d/%m/%Y',):
+        try:
+            return datetime.strptime(date_str.strip(), fmt)
+        except ValueError:
+            pass
+    try:
+        return datetime.strptime(date_str.strip()[:10], '%Y-%m-%d')
+    except ValueError:
+        return None
 
 FUENTE_MAP = {
     'HoyMadrid': 'HoyMadrid',
@@ -88,6 +130,16 @@ class EventNormalizer:
         descripcion = fix_encoding(clean_text(event.get('descripcion', '')))
         fecha_inicio = fix_encoding(clean_text(event.get('fecha_inicio', '')))
         fecha_fin = fix_encoding(clean_text(event.get('fecha_fin', '')))
+
+        # Recover a missing end date from the title/description text.
+        if not fecha_fin:
+            fecha_fin = extract_end_date(f"{titulo}. {descripcion}")
+
+        # Drop events already finished at source (end date strictly in the past).
+        end_dt = _parse_display_date(fecha_fin)
+        if end_dt is not None and end_dt.date() < get_madrid_now().date():
+            logger.debug(f"Descartado (ya terminado {fecha_fin}): {titulo}")
+            return None
 
         normalized = {
             'titulo': titulo,

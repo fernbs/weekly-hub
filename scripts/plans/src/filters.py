@@ -76,11 +76,14 @@ def _parse_display_date(date_str: str):
         return None
 
 
-def _is_within_window(fecha_inicio: str, fecha_fin: str, now: datetime, horizon: datetime) -> bool:
+def _is_within_window(fecha_inicio: str, fecha_fin: str, now: datetime,
+                      horizon: datetime, open_ended: bool = False) -> bool:
     """
     Return True if the event is relevant within [now, horizon].
     - No dates at all: include (can't tell)
-    - Starts before horizon AND (no end OR ends after now): include
+    - Start only, no end: include if it starts before the horizon. If the start
+      is already in the past we only keep it when the text signals an open run
+      ("a partir de", "desde", "permanente"); otherwise it's a stale one-off.
     - Ends within window: include
     """
     start = _parse_display_date(fecha_inicio)
@@ -93,7 +96,12 @@ def _is_within_window(fecha_inicio: str, fecha_fin: str, now: datetime, horizon:
         return end >= now
 
     if start is not None and end is None:
-        return start <= horizon
+        if start > horizon:
+            return False
+        if start.date() < now.date():
+            # Past start with no end: keep only if clearly open-ended.
+            return open_ended
+        return True
 
     return start <= horizon and end >= now
 
@@ -136,10 +144,15 @@ class EventFilter:
                 excluded_kw += 1
                 continue
 
+            open_ended = bool(re.search(
+                r'a\s+partir\s+de|desde\s+el|permanente|todo\s+el\s+(año|verano)'
+                r'|hasta\s+nuevo\s+aviso',
+                f"{event.get('titulo','')} {event.get('descripcion','')}".lower()
+            ))
             if not _is_within_window(
                 event.get('fecha_inicio', ''),
                 event.get('fecha_fin', ''),
-                now, horizon
+                now, horizon, open_ended
             ):
                 excluded_date += 1
                 logger.debug(
