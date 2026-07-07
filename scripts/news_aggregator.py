@@ -219,7 +219,7 @@ GROQ_MODEL = "llama-3.3-70b-versatile"
 
 
 def summarize_with_groq(article):
-    api_key = os.getenv("GROQ_API_KEY")
+    api_key = os.getenv("GROQ_API_KEY", "").strip()  # strip stray spaces/newlines
     if not api_key:
         print("  GROQ_API_KEY not set")
         return None, ""
@@ -459,6 +459,9 @@ def main():
     print(f"Kept {len(articles)} relevant articles")
 
     print("\n[3] Summarising with Groq...")
+    _raw = os.getenv("GROQ_API_KEY", "")
+    print(f"  [key check] len={len(_raw)} stripped_len={len(_raw.strip())} "
+          f"prefix_ok={_raw.strip()[:4]=='gsk_'} had_whitespace={_raw != _raw.strip()}")
     summaries, failed = [], 0
     for i, art in enumerate(articles, 1):
         print(f"\n[{i}/{len(articles)}] ({art['score']}) {art['title'][:65]}")
