@@ -1,9 +1,23 @@
+import os
+import sys
 import re
 import unicodedata
 from datetime import datetime, timedelta
 from src.utils import setup_logging, load_config, get_madrid_now
 
 logger = setup_logging("filters")
+
+# taste_profile.py is the central interest model (scripts/), one level above the
+# plans package. Add it to the path so plans scores relevance the same way news
+# does. If it can't be imported we fall back to the filters.yml keyword scoring.
+_TASTE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
+if _TASTE_DIR not in sys.path:
+    sys.path.insert(0, _TASTE_DIR)
+try:
+    import taste_profile as tp
+except Exception as _e:  # pragma: no cover
+    tp = None
+    logger.warning(f"No se pudo importar taste_profile ({_e}); usando keywords de filters.yml")
 
 
 def _strip_accents(text: str) -> str:
@@ -172,19 +186,39 @@ class EventFilter:
         return filtered
 
     def _calculate_score(self, event: dict) -> float:
-        text = f"{event.get('titulo', '')} {event.get('descripcion', '')} {event.get('categoria', '')}".lower()
-        score = 0
-        score += sum(10 for kw in self.include_high if kw in text)
-        score += sum(5 for kw in self.include_medium if kw in text)
+        """
+        Relevance score against the taste profile (falls back to filters.yml
+        keywords if taste_profile is unavailable). Stores '_relevance' on the
+        event; the returned score adds small free/new tie-breakers for ordering.
+        """
+        if tp is not None:
+            relevance = tp.score_event(
+                event.get('titulo', ''),
+                event.get('descripcion', ''),
+                event.get('categoria', ''),
+            )['score']
+        else:
+            text = (f"{event.get('titulo', '')} {event.get('descripcion', '')} "
+                    f"{event.get('categoria', '')}").lower()
+            relevance = (sum(4 for kw in self.include_high if kw in text)
+                         + sum(2 for kw in self.include_medium if kw in text))
+
+        event['_relevance'] = relevance
+
+        score = relevance
         if event.get('precio', '').lower() in ['gratis', 'free']:
-            score += 3
+            score += 1
         if event.get('_is_new'):
-            score += 8
+            score += 2
         return score
+
+    def _min_relevance(self) -> float:
+        return tp.PLAN_MIN_SCORE if tp is not None else 3
 
     def _should_include_keywords(self, event: dict, score: float) -> bool:
         text = f"{event.get('titulo', '')} {event.get('descripcion', '')}".lower()
         for kw in self.exclude_strict:
             if kw in text:
                 return False
-        return score >= 3 and len(event.get('descripcion', '')) >= 20
+        return (event.get('_relevance', 0) >= self._min_relevance()
+                and len(event.get('descripcion', '')) >= 20)

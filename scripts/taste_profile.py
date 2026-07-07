@@ -159,6 +159,86 @@ MAX_ARTICLES = 22
 # Minimum score to make the cut.
 MIN_SCORE = 3
 
+# ── Plans profile ────────────────────────────────────────────────────────────
+# Same idea as TOPICS but tuned for Madrid leisure listings (Spanish event text,
+# culture-heavy). Used to score/rank the weekly plans so they match Fernando's
+# interests instead of leaking generic theatre. Keywords are matched
+# accent-insensitively; short ones need a full word boundary (see _compile).
+PLAN_TOPICS = {
+    "geek": {
+        "weight": 5,
+        "label": "Cultura geek",
+        "keywords": [
+            "comic", "manga", "marvel", "superheroe", "videojuego", "gaming",
+            "arcade", "retro", "vintage", "nostalgia", "80s", "90s", "juego de mesa",
+            "juegos de mesa", "rol", "lego", "star wars", "anime", "friki",
+            "cosplay", "fantasia", "ciencia ficcion", "pixel",
+        ],
+    },
+    "ai_tech": {
+        "weight": 5,
+        "label": "IA & tecnología",
+        "keywords": [
+            "inteligencia artificial", "robot", "robotica", "tecnolog",
+            "realidad virtual", "impresion 3d", "innovacion tecnologica",
+            "digital",
+        ],
+    },
+    "science": {
+        "weight": 4,
+        "label": "Ciencia",
+        "keywords": [
+            "ciencia", "cientific", "astronom", "espacio", "planetario",
+            "dinosaurio", "fisica", "biolog", "quimica", "naturaleza",
+            "universo", "cosmos", "geolog", "evolucion", "microscop",
+        ],
+    },
+    "art": {
+        "weight": 4,
+        "label": "Arte & diseño",
+        "keywords": [
+            "arte", "exposicion", "museo", "pintura", "escultura", "fotografia",
+            "ilustracion", "galeria", "diseno", "arquitectura", "instalacion",
+            "grabado", "acuarela", "artistic",
+        ],
+    },
+    "history": {
+        "weight": 3,
+        "label": "Historia",
+        "keywords": [
+            "historia", "historic", "arqueolog", "patrimonio", "medieval",
+            "romano", "antiguo", "siglo", "imperio", "prehistor",
+        ],
+    },
+    "mystery": {
+        "weight": 3,
+        "label": "Misterio & curiosidades",
+        "keywords": [
+            "misterio", "secreto", "oculto", "enigma", "curiosidad", "insolito",
+            "inmersiv", "escape room", "paranormal", "leyenda", "crimen",
+        ],
+    },
+    "cinema": {
+        "weight": 3,
+        "label": "Cine",
+        "keywords": [
+            "cine", "pelicula", "film", "documental", "proyeccion",
+            "cortometraje", "filmoteca", "estreno",
+        ],
+    },
+    "gastronomy": {
+        "weight": 2,
+        "label": "Gastronomía",
+        "keywords": [
+            "gastronom", "cocina", "gourmet", "tapas", "degustacion", "chef",
+            "mercado gastronomico",
+        ],
+    },
+}
+
+# A plan needs to touch at least one interest to survive (gastronomy alone = 2).
+PLAN_MIN_SCORE = 2
+
 # What Fernando is about, in prose — injected into the AI system prompt so
 # summaries are written for him, not for a generic reader.
 READER_CONTEXT = (
@@ -207,6 +287,8 @@ def _compile(keywords) -> "re.Pattern":
 for _cfg in TOPICS.values():
     _cfg["_re"] = _compile(_cfg["keywords"])
 for _cfg in NEGATIVE.values():
+    _cfg["_re"] = _compile(_cfg["keywords"])
+for _cfg in PLAN_TOPICS.values():
     _cfg["_re"] = _compile(_cfg["keywords"])
 
 
@@ -260,3 +342,48 @@ def rank_and_filter(articles: list) -> list:
 
     scored.sort(key=lambda x: x["score"], reverse=True)
     return scored[:MAX_ARTICLES]
+
+
+# ── Plans scoring ────────────────────────────────────────────────────────────
+def score_event(title: str, description: str = "", category: str = "") -> dict:
+    """
+    Relevance of a Madrid plan against PLAN_TOPICS. Same title-dominant model as
+    score_article: the title counts twice, plus the category and a short lead of
+    the description. Each interest topic that matches adds its weight once.
+    Returns {score, topic, label}.
+    """
+    lead = (description or "")[:300]
+    haystack = (" " + _norm(title) + " " + _norm(title) + " " +
+                _norm(category) + " " + _norm(lead) + " ")
+
+    score = 0
+    best_topic = None
+    best_weight = -1
+    for topic, cfg in PLAN_TOPICS.items():
+        if cfg["_re"].search(haystack):
+            score += cfg["weight"]
+            if cfg["weight"] > best_weight:
+                best_weight = cfg["weight"]
+                best_topic = topic
+
+    label = PLAN_TOPICS[best_topic]["label"] if best_topic else ""
+    return {"score": score, "topic": best_topic or "", "label": label}
+
+
+def rank_plans(events: list) -> list:
+    """
+    Attach relevance to each plan, drop those below PLAN_MIN_SCORE, and sort
+    best-first. Each event must have 'titulo'/'descripcion'/'categoria'. Adds
+    '_relevance', '_topic', '_topic_label'. Mirrors rank_and_filter for news.
+    """
+    kept = []
+    for e in events:
+        r = score_event(e.get("titulo", ""), e.get("descripcion", ""),
+                         e.get("categoria", ""))
+        e["_relevance"]   = r["score"]
+        e["_topic"]       = r["topic"]
+        e["_topic_label"] = r["label"]
+        if r["score"] >= PLAN_MIN_SCORE:
+            kept.append(e)
+    kept.sort(key=lambda x: x["_relevance"], reverse=True)
+    return kept

@@ -338,20 +338,23 @@ def export_plans_json(events: list):
     os.makedirs('data', exist_ok=True)
     now = datetime.now()
 
-    new_events  = []
-    ending_soon = []
-    ongoing     = []
-
+    # Bucket first, keeping the event dicts so we can order by taste relevance
+    # (set by the filter as '_relevance') before serializing — plans are shown
+    # best-first, like news.
+    buckets = {'new': [], 'ending_soon': [], 'ongoing': []}
     for e in events:
         e = _apply_display_dates(e)
         bucket = _classify_event(e, now)
-        serialized = _serialize_event(e, bucket)
-        if bucket == 'new':
-            new_events.append(serialized)
-        elif bucket == 'ending_soon':
-            ending_soon.append(serialized)
-        else:
-            ongoing.append(serialized)
+        if bucket not in buckets:
+            bucket = 'ongoing'
+        buckets[bucket].append(e)
+
+    for evs in buckets.values():
+        evs.sort(key=lambda x: x.get('_relevance', 0), reverse=True)
+
+    new_events  = [_serialize_event(e, 'new')         for e in buckets['new']]
+    ending_soon = [_serialize_event(e, 'ending_soon') for e in buckets['ending_soon']]
+    ongoing     = [_serialize_event(e, 'ongoing')     for e in buckets['ongoing']]
 
     # Fetch images for events that have a URL but no image yet
     all_serialized = new_events + ending_soon + ongoing
