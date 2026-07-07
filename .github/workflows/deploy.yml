@@ -18,6 +18,7 @@ on:
       - 'splash/**'
       - 'data/**'
   workflow_dispatch:
+  workflow_call:   # called by the news/plans/concerts workflows after they commit data
 
 permissions:
   contents: read

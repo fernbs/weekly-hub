@@ -1,0 +1,43 @@
+name: Concerts (weekly)
+
+on:
+  schedule:
+    - cron: '0 5 * * 1'   # Monday 07:00 CEST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  concerts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install deps
+        run: |
+          pip install requests beautifulsoup4 lxml python-dateutil rapidfuzz playwright
+          playwright install chromium
+          playwright install-deps chromium
+      - name: Run concerts scraper
+        env:
+          GROQ_API_KEY:   ${{ secrets.GROQ_API_KEY }}
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+        run: python -u scripts/concerts_scraper.py   # writes data/concerts.json at repo root
+      - name: Commit data
+        if: hashFiles('data/concerts.json') != ''
+        run: |
+          git config user.email "action@github.com"
+          git config user.name  "GitHub Action"
+          git add data/concerts.json
+          git diff --staged --quiet || git commit -m "Update concerts.json [$(date -u +%Y-%m-%d)]"
+          git push
+
+  deploy:
+    needs: concerts
+    uses: ./.github/workflows/deploy.yml

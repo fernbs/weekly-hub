@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Planes en Madrid</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: Arial, Helvetica, sans-serif; background: #f0ede8; color: #1a1a1a; }
+    .wrap { max-width: 700px; margin: 0 auto; padding: 0 10px 32px; }
+
+    /* ── CLIP WARNING ───────────────────────── */
+    .clip-warn {
+      background: #1e0a3c; color: rgba(255,255,255,0.85);
+      padding: 10px 18px; font-size: 12px; text-align: center;
+      border-radius: 8px 8px 0 0;
+    }
+    .clip-warn a { color: #fbbf24; font-weight: 700; text-decoration: none; }
+
+    /* ── HEADER ─────────────────────────────── */
+    .header {
+      background: linear-gradient(140deg, #1e0a3c 0%, #5b21b6 55%, #be4b08 100%);
+      padding: 28px 28px 20px; text-align: center;
+    }
+    .header-eyebrow { font-size: 10px; font-weight: 700; letter-spacing: 3px; text-transform: uppercase; color: #fbbf24; margin-bottom: 7px; }
+    .header-title   { font-size: 27px; font-weight: 900; color: #fff; letter-spacing: -0.5px; }
+    .header-sub     { font-size: 12px; color: rgba(255,255,255,0.65); margin-top: 5px; }
+
+    /* ── STATS BAR ──────────────────────────── */
+    .stats-bar { background: #160728; padding: 11px 16px; display: table; width: 100%; }
+    .stat-cell { display: table-cell; text-align: center; padding: 0 6px; border-right: 1px solid rgba(255,255,255,0.1); }
+    .stat-cell:last-child { border-right: none; }
+    .stat-val { font-size: 19px; font-weight: 900; color: #fbbf24; line-height: 1; }
+    .stat-lbl { font-size: 10px; color: rgba(255,255,255,0.5); text-transform: uppercase; letter-spacing: 0.4px; margin-top: 2px; }
+
+    /* ── TAB NAV ────────────────────────────── */
+    /* Note: these are anchor links styled as tabs. Gmail strips JavaScript
+       so true switchable tabs (hide/show content) are not possible.
+       Clicking each tab scrolls to that section. */
+    .tab-nav { background: #fff; border-bottom: 3px solid #e5e7eb; display: table; width: 100%; }
+    .tab-item {
+      display: table-cell; text-align: center;
+      padding: 12px 6px 10px; text-decoration: none;
+      font-size: 12px; font-weight: 700; border-bottom: 3px solid transparent;
+      margin-bottom: -3px; transition: none;
+    }
+    .tab-new     { color: #15803d; border-bottom-color: #15803d; background: #f0fdf4; }
+    .tab-ending  { color: #b91c1c; border-bottom-color: #b91c1c; background: #fff5f5; }
+    .tab-ongoing { color: #1e40af; border-bottom-color: #1e40af; background: #eff6ff; }
+    .tab-count   { display: block; font-size: 20px; font-weight: 900; line-height: 1.1; margin-bottom: 1px; }
+    .tab-lbl     { display: block; font-size: 10px; text-transform: uppercase; letter-spacing: 0.5px; }
+
+    /* ── SECTION HEADER ─────────────────────── */
+    .section-hdr { padding: 12px 18px; display: table; width: 100%; }
+    .section-hdr-inner { display: table-row; }
+    .section-hdr-icon  { display: table-cell; vertical-align: middle; font-size: 17px; width: 28px; }
+    .section-hdr-text  { display: table-cell; vertical-align: middle; font-size: 15px; font-weight: 800; color: #fff; }
+    .section-hdr-count { display: table-cell; vertical-align: middle; text-align: right; background: rgba(255,255,255,0.25); color: #fff; font-size: 11px; font-weight: 700; padding: 3px 9px; border-radius: 20px; white-space: nowrap; width: 54px; }
+    .hdr-new     { background: #15803d; }
+    .hdr-ending  { background: #c2410c; }
+    .hdr-ongoing { background: #1d4ed8; }
+
+    /* ── EVENT TABLE ─────────────────────────── */
+    .event-table { width: 100%; border-collapse: collapse; background: #fff; }
+    .event-table th { background: #f8f7f5; padding: 7px 10px; font-size: 10px; font-weight: 700; color: #6b7280; text-transform: uppercase; letter-spacing: 0.5px; text-align: left; border-bottom: 1px solid #e5e7eb; }
+    .event-table td { padding: 10px 10px; border-bottom: 1px solid #f3f4f6; vertical-align: top; }
+    .event-table tr:last-child td { border-bottom: none; }
+    .row-new    td:first-child { border-left: 3px solid #16a34a; }
+    .row-ending td:first-child { border-left: 3px solid #ea580c; }
+    .row-ongoing td:first-child { border-left: 3px solid #2563eb; }
+
+    /* ── CATEGORY BADGE ─────────────────────── */
+    .cat-badge { display: inline-block; padding: 3px 8px; border-radius: 20px; font-size: 11px; font-weight: 700; white-space: nowrap; line-height: 1.4; }
+    .cat-Exposicion  { background: #ede9fe; color: #5b21b6; }
+    .cat-Museo       { background: #dbeafe; color: #1e40af; }
+    .cat-Teatro      { background: #fce7f3; color: #9f1239; }
+    .cat-Cine        { background: #fef3c7; color: #92400e; }
+    .cat-Taller      { background: #dcfce7; color: #15803d; }
+    .cat-Festival    { background: #ffedd5; color: #9a3412; }
+    .cat-Experiencia { background: #ecfdf5; color: #047857; }
+    .cat-Gastronomia { background: #fff7ed; color: #c2410c; }
+    .cat-Ruta        { background: #e0f2fe; color: #0369a1; }
+    .cat-Mercado     { background: #f0fdf4; color: #15803d; }
+    .cat-Concierto   { background: #fdf4ff; color: #7e22ce; }
+    .cat-Evento      { background: #f3f4f6; color: #374151; }
+
+    /* ── TITLE ──────────────────────────────── */
+    .event-title { font-size: 13px; font-weight: 700; color: #1e0a3c; line-height: 1.35; display: block; margin-bottom: 5px; text-decoration: none; }
+    .event-title:hover { color: #5b21b6; text-decoration: underline; }
+
+    /* ── STATUS BADGES ──────────────────────── */
+    .badge { display: inline-block; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700; margin-right: 3px; }
+    .badge-new     { background: #dcfce7; color: #15803d; }
+    .badge-ongoing { background: #dbeafe; color: #1e40af; }
+    .badge-end     { background: #fee2e2; color: #b91c1c; }
+    .badge-prio    { background: #fef3c7; color: #92400e; }
+
+    /* ── BULLET POINTS ──────────────────────── */
+    .pt { padding: 3px 0 3px 14px; position: relative; font-size: 11.5px; color: #374151; line-height: 1.45; }
+    .pt::before { content: "›"; position: absolute; left: 1px; color: #7c3aed; font-weight: 900; font-size: 13px; line-height: 1.3; }
+    .why { font-size: 10.5px; color: #7c3aed; font-style: italic; margin-top: 5px; padding-top: 4px; border-top: 1px dashed #e5e7eb; }
+
+    /* ── DATES ──────────────────────────────── */
+    .date-box { background: #f8f7f5; border: 1px solid #e5e7eb; border-radius: 5px; padding: 5px 7px; }
+    .date-lbl { font-size: 9px; font-weight: 700; color: #9ca3af; text-transform: uppercase; letter-spacing: 0.3px; }
+    .date-val { font-size: 11.5px; color: #1e293b; font-weight: 600; line-height: 1.3; margin-bottom: 2px; }
+    .date-val-end { font-size: 11.5px; color: #c2410c; font-weight: 700; line-height: 1.3; }
+    .date-sep { border-top: 1px dashed #d1d5db; margin: 3px 0; }
+
+    /* ── PRICE ──────────────────────────────── */
+    .price-free { color: #16a34a; font-weight: 800; font-size: 12px; }
+    .price-paid { color: #374151; font-weight: 700; font-size: 11px; }
+
+    /* ── MISC ───────────────────────────────── */
+    .section-gap { height: 16px; background: #f0ede8; }
+    .empty { background: #fff; padding: 16px; text-align: center; color: #9ca3af; font-size: 13px; border-radius: 0 0 8px 8px; }
+    .issues { background: #fef2f2; border-left: 4px solid #ef4444; padding: 12px 16px; margin-top: 16px; border-radius: 6px; font-size: 12px; }
+    .footer { background: #1e0a3c; border-radius: 0 0 8px 8px; padding: 14px 20px; text-align: center; color: rgba(255,255,255,0.4); font-size: 11px; }
+
+    /* ── CLIP FOOTER ────────────────────────── */
+    .clip-footer { background: #1e0a3c; color: rgba(255,255,255,0.6); padding: 12px 18px; font-size: 12px; text-align: center; margin-top: 0; }
+    .clip-footer strong { color: #fbbf24; }
+
+    @media (max-width: 580px) {
+      .col-desc { display: none; }
+      .header-title { font-size: 21px; }
+    }
+  </style>
+</head>
+<body>
+<div class="wrap">
+
+  <!-- CLIPPING WARNING (top) -->
+  <div class="clip-warn">
+    📧 Si Gmail recorta este mensaje, desplázate hasta el final y haz clic en <strong style="color:#fbbf24">"Ver mensaje completo"</strong>
+  </div>
+
+  <!-- HEADER -->
+  <div class="header">
+    <div class="header-eyebrow">📍 Madrid &bull; Semana {{ week_number }}</div>
+    <div class="header-title">🎭 Planes en Madrid</div>
+    <div class="header-sub">{{ current_date_es }}</div>
+  </div>
+
+  <!-- STATS -->
+  <div class="stats-bar">
+    <div class="stat-cell">
+      <div class="stat-val">{{ stats.sources_processed }}</div>
+      <div class="stat-lbl">Fuentes</div>
+    </div>
+    <div class="stat-cell">
+      <div class="stat-val">{{ stats.new_events }}</div>
+      <div class="stat-lbl">✨ Nuevos</div>
+    </div>
+    <div class="stat-cell">
+      <div class="stat-val">{{ stats.ending_soon }}</div>
+      <div class="stat-lbl">⏰ Acaban pronto</div>
+    </div>
+    <div class="stat-cell">
+      <div class="stat-val">{{ stats.ongoing_events }}</div>
+      <div class="stat-lbl">📅 Activos</div>
+    </div>
+  </div>
+
+  <!-- TAB NAV (anchor links — Gmail does not support interactive JS tabs) -->
+  <div class="tab-nav">
+    <a href="#sec-new" class="tab-item tab-new">
+      <span class="tab-count">{{ new_events | length }}</span>
+      <span class="tab-lbl">✨ Nuevos</span>
+    </a>
+    <a href="#sec-ending" class="tab-item tab-ending">
+      <span class="tab-count">{{ ending_soon | length }}</span>
+      <span class="tab-lbl">⏰ Acaban pronto</span>
+    </a>
+    <a href="#sec-ongoing" class="tab-item tab-ongoing">
+      <span class="tab-count">{{ ongoing_events | length }}</span>
+      <span class="tab-lbl">📅 Siguen activos</span>
+    </a>
+  </div>
+
+  {# ── MACRO ──────────────────────────────────────────────── #}
+  {% macro render_table(events, row_class, badge_class, badge_label) %}
+  {% if events %}
+  <table class="event-table">
+    <thead>
+      <tr>
+        <th style="width:3%;text-align:center">#</th>
+        <th style="width:12%">Tipo</th>
+        <th style="width:22%">Evento</th>
+        <th class="col-desc" style="width:46%">Qué es &bull; Por qué ir</th>
+        <th style="width:12%">Fechas</th>
+        <th style="width:5%">€</th>
+      </tr>
+    </thead>
+    <tbody>
+    {% for event in events %}
+      {% set cat_raw = event.categoria if event.categoria else 'Evento' %}
+      {% set cat_key = cat_raw | replace('ó','o') | replace('é','e') | replace('í','i') | replace('á','a') | replace('ú','u') | replace('ñ','n') %}
+      <tr class="{{ row_class }}">
+
+        <!-- # -->
+        <td style="text-align:center;color:#9ca3af;font-size:11px;font-weight:700;padding-top:12px;">{{ loop.index }}</td>
+
+        <!-- Category badge -->
+        <td style="padding-top:12px;">
+          <span class="cat-badge cat-{{ cat_key }}">{{ event.emoji if event.emoji else '' }} {{ cat_raw }}</span>
+        </td>
+
+        <!-- Title + status badges -->
+        <td>
+          {% if event.enlace %}
+            <a href="{{ event.enlace }}" class="event-title" target="_blank">{{ event.titulo }}</a>
+          {% else %}
+            <span class="event-title" style="cursor:default;">{{ event.titulo }}</span>
+          {% endif %}
+          <span class="badge {{ badge_class }}">{{ badge_label }}</span>
+          {% if event._priority %}<span class="badge badge-prio">Prioridad</span>{% endif %}
+        </td>
+
+        <!-- Description: always bullet points -->
+        <td class="col-desc">
+          {% set pts = event.points if (event.points is defined and event.points) else [] %}
+          {% if pts | length > 0 %}
+            {% for p in pts %}
+              <div class="pt">{{ p[:120] }}{% if p | length > 120 %}…{% endif %}</div>
+            {% endfor %}
+            {% if event.why_go is defined and event.why_go %}
+              <div class="why">💡 {{ event.why_go }}</div>
+            {% endif %}
+          {% else %}
+            {# Fallback: split description into bullet-style sentences #}
+            {% set desc = event.descripcion if event.descripcion else '' %}
+            {% for sentence in desc[:400].split('. ') %}
+              {% if sentence | trim | length > 20 %}
+                <div class="pt">{{ sentence | trim | truncate(110, true, '…') }}</div>
+              {% endif %}
+            {% endfor %}
+          {% endif %}
+        </td>
+
+        <!-- Dates (compact: "2 abr 2026") -->
+        <td>
+          {% set fi = event.fecha_inicio_es if (event.fecha_inicio_es is defined and event.fecha_inicio_es) else '' %}
+          {% set ff = event.fecha_fin_es    if (event.fecha_fin_es    is defined and event.fecha_fin_es)    else '' %}
+          {% if fi or ff %}
+            <div class="date-box">
+              {% if fi %}
+                <div class="date-lbl">Inicio</div>
+                <div class="date-val">{{ fi }}</div>
+              {% endif %}
+              {% if fi and ff %}<div class="date-sep"></div>{% endif %}
+              {% if ff %}
+                <div class="date-lbl">Fin</div>
+                <div class="date-val{% if row_class == 'row-ending' %}-end{% endif %}">{{ ff }}</div>
+              {% endif %}
+            </div>
+          {% else %}
+            <span style="color:#d1d5db;font-size:11px;">Sin fecha</span>
+          {% endif %}
+        </td>
+
+        <!-- Price -->
+        <td style="white-space:nowrap;">
+          {% set precio = event.precio if event.precio is defined else '' %}
+          {% if precio %}
+            {% if precio | lower in ['gratis', 'free'] %}
+              <span class="price-free">Gratis</span>
+            {% else %}
+              <span class="price-paid">{{ precio }}</span>
+            {% endif %}
+          {% else %}
+            <span style="color:#d1d5db;">—</span>
+          {% endif %}
+        </td>
+
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  {% else %}
+    <div class="empty">Ninguno esta semana.</div>
+  {% endif %}
+  {% endmacro %}
+
+  <!-- ═══ SECTION 1: NUEVOS ════════════════════════ -->
+  <div class="section-gap"></div>
+  <div id="sec-new">
+    <div class="section-hdr hdr-new">
+      <div class="section-hdr-inner">
+        <span class="section-hdr-icon">✨</span>
+        <span class="section-hdr-text">Novedades esta semana</span>
+        <span class="section-hdr-count">{{ new_events | length }}</span>
+      </div>
+    </div>
+    {{ render_table(new_events, 'row-new', 'badge-new', 'Nuevo') }}
+  </div>
+
+  <!-- ═══ SECTION 2: ACABAN PRONTO ════════════════ -->
+  <div class="section-gap"></div>
+  <div id="sec-ending">
+    <div class="section-hdr hdr-ending">
+      <div class="section-hdr-inner">
+        <span class="section-hdr-icon">⏰</span>
+        <span class="section-hdr-text">¡Última oportunidad! Acaban esta semana</span>
+        <span class="section-hdr-count">{{ ending_soon | length }}</span>
+      </div>
+    </div>
+    {{ render_table(ending_soon, 'row-ending', 'badge-end', 'Acaba pronto') }}
+  </div>
+
+  <!-- ═══ SECTION 3: SIGUEN ACTIVOS ═══════════════ -->
+  <div class="section-gap"></div>
+  <div id="sec-ongoing">
+    <div class="section-hdr hdr-ongoing">
+      <div class="section-hdr-inner">
+        <span class="section-hdr-icon">📅</span>
+        <span class="section-hdr-text">Siguen activos</span>
+        <span class="section-hdr-count">{{ ongoing_events | length }}</span>
+      </div>
+    </div>
+    {{ render_table(ongoing_events, 'row-ongoing', 'badge-ongoing', 'En curso') }}
+  </div>
+
+  <!-- ISSUES -->
+  {% if failed_sources %}
+  <div class="issues">
+    <strong style="color:#b91c1c;">⚠️ Fuentes con problemas:</strong>
+    <ul style="margin:6px 0 0;padding-left:18px;">
+      {% for src in failed_sources %}
+        <li style="margin-top:3px;">{{ src.name }}: {{ src.error }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+  <!-- CLIPPING WARNING (bottom) -->
+  <div class="section-gap"></div>
+  <div class="clip-footer">
+    ✂️ ¿El mensaje está recortado? &nbsp;<strong>Desplázate hasta el final → "Ver mensaje completo"</strong>
+  </div>
+
+  <!-- FOOTER -->
+  <div class="footer">
+    Generado automáticamente · Madrid Plans Bot · GitHub Actions + Groq AI
+  </div>
+
+</div>
+</body>
+</html>

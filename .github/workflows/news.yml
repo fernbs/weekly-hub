@@ -1,0 +1,42 @@
+name: News (daily)
+
+on:
+  schedule:
+    - cron: '0 5 * * *'   # 07:00 CEST (summer). In winter this is 06:00 CET.
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  news:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install deps
+        run: pip install feedparser requests python-dateutil beautifulsoup4 pytz
+      - name: Run news aggregator
+        env:
+          GROQ_API_KEY:    ${{ secrets.GROQ_API_KEY }}
+          GMAIL_EMAIL:     ${{ secrets.GMAIL_EMAIL }}
+          GMAIL_PASSWORD:  ${{ secrets.GMAIL_PASSWORD }}
+          RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
+          HUB_URL:         ${{ secrets.HUB_URL }}
+        run: python -u scripts/news_aggregator.py   # scripts/ is on sys.path, writes data/news.json at repo root
+      - name: Commit data
+        run: |
+          git config user.email "action@github.com"
+          git config user.name  "GitHub Action"
+          git add data/news.json
+          git diff --staged --quiet || git commit -m "Update news.json [$(date -u +%Y-%m-%d)]"
+          git push
+
+  deploy:
+    needs: news
+    uses: ./.github/workflows/deploy.yml

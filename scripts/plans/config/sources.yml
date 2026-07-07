@@ -1,0 +1,91 @@
+sources:
+
+  # ── WORKING: link_selector (card-based listings) ──────────────────────────
+
+  # HoyMadrid: 900+ events/week. Cards are <a href="/planes/..."> directly.
+  # Fixed: was using article/post selectors that matched nothing.
+  - name: "HoyMadrid"
+    url: "https://www.hoymadrid.app/que-hacer-esta-semana-en-madrid"
+    type: "static"
+    link_selector: "a[href*='/planes/']"
+    max_links: 150
+
+  # EsMadrid Exposiciones: events are <li> items with <a href="/agenda/..."> links.
+  # Fixed: was using article.event/.event-item selectors that matched nothing.
+  - name: "EsMadrid Exposiciones"
+    url: "https://www.esmadrid.com/agenda-exposiciones-madrid"
+    type: "static"
+    link_selector: "a[href*='/agenda/']"
+    max_links: 80
+
+  # EsMadrid Eventos: same structure as Exposiciones.
+  - name: "EsMadrid Eventos"
+    url: "https://www.esmadrid.com/agenda-eventos-madrid"
+    type: "static"
+    link_selector: "a[href*='/agenda/']"
+    max_links: 80
+
+  # ── WORKING: article/post container-based (WordPress blogs) ───────────────
+
+  # Madrid Secreto: WordPress blog. Weekly editorial article with <h2> event headings
+  # and links to individual event posts. Container = article wrapper, links = event posts.
+  - name: "Madrid Secreto"
+    url: "https://madridsecreto.co/planes-fin-de-semana"
+    type: "static"
+    selectors:
+      container: "article, .post, .entry"
+      title: "h2, .entry-title"
+      description: ".entry-content, p"
+      link: "a"
+
+  # UnBuenDia: WordPress blog with <article class="type-post"> containers.
+  # Note: site may block some scrapers (returns 415 on direct fetch).
+  # Playwright fallback will handle if static fails.
+  - name: "UnBuenDia Culturales"
+    url: "https://unbuendiaenmadrid.com/acontecimientos/culturales"
+    type: "static"
+    selectors:
+      container: "article, .type-post, .post"
+      title: ".entry-title, h2, h1"
+      description: ".entry-content, .entry-summary, p"
+      link: "a"
+
+  - name: "UnBuenDia Otros"
+    url: "https://unbuendiaenmadrid.com/acontecimientos/otros-eventos"
+    type: "static"
+    selectors:
+      container: "article, .type-post, .post"
+      title: ".entry-title, h2, h1"
+      description: ".entry-content, .entry-summary, p"
+      link: "a"
+
+  # ── DYNAMIC (JavaScript-rendered): need Playwright ────────────────────────
+
+  # TimeOut Madrid: React-rendered SPA. Static fetch only gets nav/header.
+  # The weekly article has numbered items rendered via JS.
+  # Using dynamic type so Playwright renders the page before scraping.
+  - name: "TimeOut Semanal"
+    url: "https://www.timeout.es/madrid/es/que-hacer/10-cosas-para-hacer-esta-semana-en-madrid"
+    type: "dynamic"
+    selectors:
+      container: "article, section, ._feature, [class*='feature'], [class*='card']"
+      title: "h2, h3, [class*='title']"
+      description: "p, [class*='caption'], [class*='description']"
+      link: "a"
+
+  - name: "TimeOut Fin de Semana"
+    url: "https://www.timeout.es/madrid/es/que-hacer/que-hacer-este-fin-de-semana-en-madrid"
+    type: "dynamic"
+    selectors:
+      container: "article, section, ._feature, [class*='feature'], [class*='card']"
+      title: "h2, h3, [class*='title']"
+      description: "p, [class*='caption']"
+      link: "a"
+
+  # ── REMOVED ────────────────────────────────────────────────────────────────
+
+  # EsMadrid Ferias: removed — ferias/congresos are mostly trade events,
+  # not leisure events matching user's interests.
+
+  # UnBuenDia Gastronomia: removed — mostly restaurant/bar content,
+  # heavily filtered out anyway by exclude keywords.

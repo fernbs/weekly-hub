@@ -1,0 +1,134 @@
+include_keywords:
+  high_priority:
+    - ciencia
+    - tecnología
+    - museo
+    - exposición
+    - diseño
+    - arte
+    - arquitectura
+    - historia
+    - videojuegos
+    - comic
+    - cómic
+    - marvel
+    - juegos de mesa
+    - rol
+    - diy
+    - manualidades
+    - nostalgia
+    - 80s
+    - 90s
+    - 2000s
+    - retro
+    - cultura pop
+  medium_priority:
+    - cine
+    - película
+    - documental
+    - paseo
+    - naturaleza
+    - gastronomía
+    - restaurante
+    - tapas
+    - ocultismo
+    - misterio
+    - curiosidades
+    - raro
+    - único
+    - secreto
+    - teatro
+    - comedia
+    - obra
+
+exclude_keywords:
+  strict:
+    # Alcohol / drinks
+    - café
+    - vino
+    - cerveza
+    - cata
+    # Dance & music
+    - baile
+    - dance
+    - salsa
+    - tango
+    - flamenco
+    - flashmob
+    - flash mob
+    - concierto
+    - música en vivo
+    - dj set
+    - banda sonora
+    - ópera
+    # Children
+    - parque infantil
+    - parques infantiles
+    - infantil
+    - para niños
+    - cuentacuentos
+    - ludoteca
+    - taller infantil
+    - talleres infantiles
+    - actividades para niños
+    - espectáculo infantil
+    # Religious
+    - iglesia
+    - catedral
+    - basílica
+    - templo
+    - misa
+    - retiro espiritual
+    # Sport & wellness
+    - deporte
+    - fútbol
+    - baloncesto
+    - running
+    - maratón
+    - yoga
+    - pilates
+    - meditación
+    - spa
+    # Guided visits / admin web sections
+    - visita guiada
+    - visita libre
+    - visita en grupo
+    - datos de interés
+    - información práctica
+    - el proceso
+    # Social / political
+    - fiesta
+    - verbena
+    - festival de música
+    - manifestación
+    - 8M
+    - día de la mujer
+    # Web noise
+    - cuánto cuesta
+    - cuánto cuestan
+    - precio de entrada
+    - cuánto se tarda
+    - cómo llegar
+    - cómo comprar
+    - dónde comprar
+    - comprar entradas
+    - tienda online
+    - cuenta de instagram
+    - síguenos en
+    - descárgate la app
+    - descarga gratis
+    - disponible en
+    - newsletter
+    - suscríbete
+    - obras más famosas
+    - qué días puedo
+    - qué horario tiene
+    - qué obras famosas
+    - colección permanente
+    - la colección del
+    - entrada expo
+    - teléfono de contacto
+    - artículos de
+    - los artículos
+    - reportero del
+    - reportera del

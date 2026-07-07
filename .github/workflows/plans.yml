@@ -1,0 +1,44 @@
+name: Plans (weekly)
+
+on:
+  schedule:
+    - cron: '0 5 * * 1'   # Monday 07:00 CEST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  plans:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install deps
+        run: |
+          pip install requests beautifulsoup4 lxml playwright python-dateutil pytz rapidfuzz pyyaml jinja2 colorama tqdm
+          playwright install chromium
+      - name: Run plans pipeline
+        working-directory: scripts/plans   # code reads config/ + templates/ and writes data/ relative to cwd
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          HUB_URL:      ${{ secrets.HUB_URL }}
+        run: python -m src.main
+      - name: Sync + commit data
+        run: |
+          mkdir -p data
+          cp scripts/plans/data/plans.json data/plans.json
+          git config user.email "action@github.com"
+          git config user.name  "GitHub Action"
+          git add data/plans.json scripts/plans/data/events_*.json scripts/plans/data/events.json 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "Update plans.json [$(date -u +%Y-%m-%d)]"
+          git push
+
+  deploy:
+    needs: plans
+    uses: ./.github/workflows/deploy.yml
