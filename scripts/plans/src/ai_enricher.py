@@ -78,6 +78,8 @@ _JSON_SHAPE = """{
   "fecha_fin": "DD de MES de YYYY si aparece claramente en el texto, si no cadena vacía"
 }"""
 
+# Note: _JSON_SHAPE has literal { } braces, so it must NOT go through
+# str.format(). It's appended after formatting in _call_groq().
 PROMPT = """Eres un experto en ocio adulto en Madrid. Analiza este contenido scrapeado.
 
 {reject_rules}
@@ -89,7 +91,7 @@ Descripción scrapeada: {description}
 Fuente: {source}
 
 Responde SOLO con este JSON exacto (sin markdown, sin texto extra):
-""" + _JSON_SHAPE
+"""
 
 BATCH_PROMPT = """Eres un experto en ocio adulto en Madrid. Analiza estos {n} eventos scrapeados.
 
@@ -107,9 +109,14 @@ texto extra. Cada objeto tiene esta forma exacta, añadiendo el campo "index":
 
 
 class AIEnricher:
+    # If a 429 asks us to wait longer than this, treat it as the daily budget
+    # being spent: stop calling and keep events with defaults (graceful).
+    LONG_LIMIT_SECONDS = 65
+
     def __init__(self):
         self.api_key = os.getenv('GROQ_API_KEY')
         self.enabled = bool(self.api_key)
+        self._budget_exhausted = False
         if not self.enabled:
             logger.warning("GROQ_API_KEY no configurada — AI enrichment desactivado")
 
@@ -128,17 +135,27 @@ class AIEnricher:
 
         batches = [events[i:i + BATCH_SIZE] for i in range(0, len(events), BATCH_SIZE)]
         for bi, batch in enumerate(batches, 1):
+            if self._budget_exhausted:
+                # Groq budget spent — keep the rest with defaults, no more calls.
+                for event in batch:
+                    self._apply_result(event, None)
+                    enriched.append(event)
+                continue
+
             logger.info(f"  Lote {bi}/{len(batches)} ({len(batch)} eventos)")
             results = self._call_groq_batch(batch)
 
             # Fall back to per-event calls if the batch failed or came back
             # with the wrong number of results.
             if results is None or len(results) != len(batch):
-                if results is not None:
-                    logger.warning(
-                        f"    Lote devolvió {len(results)}/{len(batch)} — "
-                        f"fallback por evento")
-                results = [self._call_groq(e) for e in batch]
+                if self._budget_exhausted:
+                    results = [None] * len(batch)
+                else:
+                    if results is not None:
+                        logger.warning(
+                            f"    Lote devolvió {len(results)}/{len(batch)} — "
+                            f"fallback por evento")
+                    results = [self._call_groq(e) for e in batch]
 
             for event, result in zip(batch, results):
                 kept, was_rejected = self._apply_result(event, result)
@@ -149,6 +166,10 @@ class AIEnricher:
 
             if bi < len(batches):
                 time.sleep(2)  # stay comfortably under 30 req/min
+
+        if self._budget_exhausted:
+            logger.warning("Presupuesto de Groq agotado durante el enriquecimiento; "
+                           "eventos restantes conservados sin why_go/categoría AI")
 
         logger.info(f"✓ Resultado AI: {len(enriched)} válidos, {rejected} rechazados")
         return enriched
@@ -247,7 +268,7 @@ class AIEnricher:
             title=event.get('titulo', '')[:200],
             description=event.get('descripcion', '')[:800],
             source=event.get('fuente', ''),
-        )
+        ) + _JSON_SHAPE
         data = self._post({
             "model": "llama-3.3-70b-versatile",
             "messages": [{"role": "user", "content": prompt}],
@@ -282,14 +303,22 @@ class AIEnricher:
                     logger.warning(f"    Respuesta inesperada: {e}")
                     return None
 
-            if resp.status_code == 429 and attempt < max_tries:
+            if resp.status_code == 429:
                 wait = self._retry_after(resp, attempt)
-                logger.warning(f"    Groq 429 — reintento {attempt}/{max_tries - 1} "
-                               f"en {wait:.1f}s")
-                time.sleep(wait)
-                continue
+                # A long wait means the daily budget is spent (not a per-minute
+                # blip). Don't burn the run retrying — degrade gracefully.
+                if wait > self.LONG_LIMIT_SECONDS:
+                    logger.warning(f"    Groq 429 con espera larga ({wait:.0f}s) — "
+                                   f"presupuesto agotado, se degrada")
+                    self._budget_exhausted = True
+                    return None
+                if attempt < max_tries:
+                    logger.warning(f"    Groq 429 — reintento {attempt}/{max_tries - 1} "
+                                   f"en {wait:.1f}s")
+                    time.sleep(wait)
+                    continue
 
-            logger.warning(f"    Groq {resp.status_code}: {resp.text[:120]}")
+            logger.warning(f"    Groq {resp.status_code}: {resp.text[:200]}")
             return None
         return None
 
@@ -299,10 +328,10 @@ class AIEnricher:
         ra = resp.headers.get('retry-after') or resp.headers.get('Retry-After')
         if ra:
             try:
-                return min(float(ra) + 0.5, 30.0)
+                return float(ra) + 0.5
             except ValueError:
                 pass
-        return min(2.0 * (2 ** (attempt - 1)), 30.0)
+        return min(2.0 * (2 ** (attempt - 1)), 20.0)
 
     @staticmethod
     def _extract_json(text: str):
