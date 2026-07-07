@@ -18,7 +18,9 @@ SINGLE_WORD_FORBIDDEN = {
     'entradas', 'horario', 'dirección', 'teléfono', 'tienda', 'ubicación',
     'contacto', 'acceso', 'precios', 'tarifas', 'información', 'reservas',
     'newsletter', 'cafetería', 'restaurante', 'librería', 'shop', 'horarios',
-    'taquilla', 'aparcamiento', 'parking', 'mapa', 'plano', 'inicio'
+    'taquilla', 'aparcamiento', 'parking', 'mapa', 'plano', 'inicio',
+    'cartel', 'fechas', 'fecha', 'descripción', 'descripcion', 'programa',
+    'programación', 'contenido', 'resumen', 'patrocinadores',
 }
 
 # Patterns indicating permanent museum content (not a temporary event)
@@ -43,6 +45,18 @@ SECTION_TITLE_PATTERNS = [
     r'newsletter',
     r'^mdr\s+entrada',
     r'^(más\s+información|info|aviso)',
+    # Bare years, listicles and English/legal chrome that leak from listings
+    r'^\d{4}$',
+    r'^cartel(\s+\d{4})?$',
+    r'^fechas?(\s+\d{4})?$',
+    r'^(los|las)\s+mejores\b',
+    r'\bque\s+puedes\s+ver\b',
+    r'^planes?\s+para\b',
+    r'privacy\s+notice',
+    r'cookie',
+    r'^discover\b',
+    r'coolest\s+cities',
+    r'time\s+out\s+market',
 ]
 
 

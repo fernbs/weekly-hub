@@ -1,7 +1,65 @@
+import re
+import unicodedata
 from datetime import datetime, timedelta
 from src.utils import setup_logging, load_config, get_madrid_now
 
 logger = setup_logging("filters")
+
+
+def _strip_accents(text: str) -> str:
+    """Lowercase + strip accents, so junk matching is accent-insensitive."""
+    if not text:
+        return ""
+    text = unicodedata.normalize("NFKD", text)
+    text = "".join(c for c in text if not unicodedata.combining(c))
+    return text.lower().strip()
+
+
+# Titles that are scraper garbage, not events: web sections, listicles,
+# legal/cookie notices, brand chrome, bare years, etc. Matched on an
+# accent-stripped, lowercased title.
+_JUNK_EXACT = {
+    'cartel', 'fechas', 'fecha', 'descripcion', 'precios', 'precio',
+    'horario', 'horarios', 'programa', 'programacion', 'contenido',
+    'resumen', 'indice', 'contacto', 'ubicacion', 'direccion', 'telefono',
+    'entradas', 'mapa', 'plano', 'newsletter', 'patrocinadores',
+    'time out market', 'online privacy notice', 'privacy notice',
+    'cookie policy', 'terms of service',
+}
+
+_JUNK_PATTERNS = [re.compile(p) for p in [
+    r'^cartel(\s+\d{4})?$',
+    r'^fechas?(\s+\d{4})?$',
+    r'^\d{4}$',                                    # bare year, e.g. "2026"
+    r'^(precios?|horarios?|descripcion|programaci[o]n|programa|contenido'
+    r'|resumen|indice|contacto|ubicacion|direccion|telefono)$',
+    r'privacy notice|cookie policy|cookies|terms of|aviso legal'
+    r'|politica de privacidad',
+    r'^discover\b',
+    r'coolest cities',
+    r'time out market',
+    # Listicles / SEO round-ups, not a single attendable event
+    r'^(los|las)\s+mejores\b',
+    r'^las?\s+exposiciones\b',
+    r'^los?\s+mercadillos\b',
+    r'\bque\s+puedes\s+ver\b',
+    r'^planes?\s+para\b',
+    r'^que\s+(ver|hacer|visitar)\b',
+    r'^\d+\s+(planes|cosas|lugares|sitios|razones|motivos)\b',
+    r'^todo\s+(lo\s+que|sobre)\b',
+    r'^arte\s+en\s+madrid$',
+    r'^guia\s+(de|del|para)\b',
+]]
+
+
+def is_junk_title(title: str) -> bool:
+    """True if the title is scraper noise rather than a real event."""
+    t = _strip_accents(title)
+    if not t or len(t) < 4:
+        return True
+    if t in _JUNK_EXACT:
+        return True
+    return any(p.search(t) for p in _JUNK_PATTERNS)
 
 
 def _parse_display_date(date_str: str):
@@ -62,8 +120,14 @@ class EventFilter:
         filtered = []
         excluded_date = 0
         excluded_kw   = 0
+        excluded_junk = 0
 
         for event in events:
+            if is_junk_title(event.get('titulo', '')):
+                excluded_junk += 1
+                logger.debug(f"  Basura descartada: {event.get('titulo','')}")
+                continue
+
             score = self._calculate_score(event)
             event['_score'] = score
             event['_priority'] = score >= 15
@@ -89,7 +153,8 @@ class EventFilter:
         filtered.sort(key=lambda x: x['_score'], reverse=True)
         logger.info(
             f"\u2713 {len(filtered)} eventos en las pr\u00f3ximas 4 semanas "
-            f"(excluidos: {excluded_kw} por keywords, {excluded_date} fuera de ventana)"
+            f"(excluidos: {excluded_junk} basura, {excluded_kw} por keywords, "
+            f"{excluded_date} fuera de ventana)"
         )
         return filtered
 
