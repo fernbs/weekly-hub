@@ -171,7 +171,10 @@ def _norm(artist: str) -> str:
     a = re.sub(r'\s*([\-–]\s*)?(tour\b|gira\b|en\s+concierto|presenta(ci[oó]n)?|live\b|show\b).*$', '', a)
     a = re.sub(r'\s*\(.*?\)\s*$', '', a)
     a = re.sub(r'\s+en\s*$', '', a)
-    a = re.split(r'\s*[+&]\s*|\s+con\s+|\s+with\s+|\s+y\s+', a)[0]
+    # Keep only the headliner (first act). Split on comma / slash too, so
+    # "Godsmack, Nothing More y Thundermother" -> "godsmack" and dedups against
+    # a source that listed just "Godsmack".
+    a = re.split(r'\s*[,/+&]\s*|\s+con\s+|\s+with\s+|\s+y\s+', a)[0]
     return a.strip()
 
 def _bands_match(nc: str, nu: str) -> bool:

@@ -383,13 +383,22 @@ function parseDate(s){
   if((m=s.match(/(\d{1,2})\s+(\w+)\s+(\d{4})/))){ const x=mo[m[2].toLowerCase()]; if(x!==undefined) return new Date(+m[3],x,+m[1]); }
   return null;
 }
-function progress(sr,er){
-  const s=parseDate(sr),e=parseDate(er),now=new Date();
-  if(!s||!e||e<=s) return '';
-  const pct=Math.min(100,Math.max(0,Math.round((now-s)/(e-s)*100)));
-  const days=Math.ceil((e-now)/864e5), urg=days>=0&&days<=7;
-  const end=urg?`<span class="purgent">⚡ ${days}d</span>`:`<span>${esc(er)}</span>`;
-  return `<div><div class="pdates-row"><span>${esc(sr||'')}</span>${end}</div><div class="ptrack"><div class="pfill${urg?' urgent':''}" style="width:${pct}%"></div></div></div>`;
+function today0(){ const t=new Date(); t.setHours(0,0,0,0); return t; }
+// Effective end date of an event (end if present, else start). Null if none.
+function planEndDate(e){ return parseDate(e.date_end_raw||e.date_end||e.date_start_raw||e.date_start); }
+function planEnded(e){ const d=planEndDate(e); return d ? d < today0() : false; }
+// Always show dates: a start→end row with progress bar when both exist,
+// otherwise just the single date. Empty only when no date at all.
+function dateBlock(sr,er){
+  const s=parseDate(sr), e=parseDate(er), now=today0();
+  if(s&&e&&e>s){
+    const pct=Math.min(100,Math.max(0,Math.round((now-s)/(e-s)*100)));
+    const days=Math.ceil((e-now)/864e5), urg=days>=0&&days<=7;
+    const end=urg?`<span class="purgent">⚡ ${days}d</span>`:`<span>${esc(er)}</span>`;
+    return `<div><div class="pdates-row"><span>${esc(sr)}</span>${end}</div><div class="ptrack"><div class="pfill${urg?' urgent':''}" style="width:${pct}%"></div></div></div>`;
+  }
+  if(s) return `<div class="pdates-row"><span>📅 ${esc(sr)}</span></div>`;
+  return '';
 }
 async function loadPlans(){
   try{ const r=await fetch('./data/plans.json?t='+Date.now()); if(!r.ok) throw 0; renderPlans(await r.json()); }
@@ -401,7 +410,7 @@ function planCard(e){
   const img=e.image_url?`<img class="pimg" src="${esc(e.image_url)}" alt="" loading="lazy" onerror="this.outerHTML='<div class=\\'pph\\'>${em}</div>'">`:`<div class="pph">${em}</div>`;
   const title=e.url?`<a class="ptitle" href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.title)}</a>`:`<span class="ptitle">${esc(e.title)}</span>`;
   const why=e.why_go?`<div class="pwhy">${esc(e.why_go)}</div>`:'';
-  const bar=progress(e.date_start_raw||e.date_start,e.date_end_raw||e.date_end);
+  const bar=dateBlock(e.date_start_raw||e.date_start,e.date_end_raw||e.date_end);
   const price=e.price?`<div class="pprice">🎟 ${esc(e.price)}</div>`:'';
   const buls=(e.bullets||[]).slice(0,3).map(b=>`<li>${esc(b)}</li>`).join('');
   return `<div class="pcard">
@@ -411,7 +420,10 @@ function planCard(e){
   </div>`;
 }
 function renderPlans(d){
-  const nw=d.new||[],en=d.ending_soon||[],ac=d.ongoing||[];
+  // Drop already-finished events (stopgap until the scraper filters past dates).
+  const nw=(d.new||[]).filter(x=>!planEnded(x)),
+        en=(d.ending_soon||[]).filter(x=>!planEnded(x)),
+        ac=(d.ongoing||[]).filter(x=>!planEnded(x));
   document.getElementById('cnt-plans').textContent=nw.length+en.length+ac.length;
   document.getElementById('c-new').textContent=nw.length;
   document.getElementById('c-end').textContent=en.length;
