@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-07T16:55:27.694529",
+  "generated": "2026-07-07T18:55:01.713895",
   "count": 11,
   "articles": [
     {
@@ -10,16 +10,53 @@
       "language": "en",
       "topic": "ai",
       "topic_label": "IA & Agentes",
-      "que_paso": "The development of autonomous robots is becoming increasingly possible due to advances in artificial intelligence, with researchers and companies working towards creating general-purpose robots that can perform various tasks in workplaces and homes. This vision is being driven by significant investment and the work of researchers such as Matt Malchano, vice president of software at Boston Dynamics. The concept of autonomy in robotics has evolved over time, from simple navigation to complex tasks that can be performed without human intervention.",
+      "que_paso": "The development of autonomous robots is becoming increasingly possible due to advances in artificial intelligence, with researchers and companies working towards creating general-purpose robots that can perform various tasks in workplaces and homes. This vision is being driven by significant investment and the work of researchers such as Matt Malchano, vice president of software at Boston Dynamics, and Sergey Levine, a computer scientist at the University of California Berkeley. The concept of autonomy in robotics has evolved over time, from simple navigation to the ability to perform complex tasks without human intervention.",
       "datos": [
         "1979: the Stanford Cart required five hours to move 20 meters through an obstacle-filled room",
         "1996: the first bipedal robot capable of walking on its own without losing its balance was developed",
-        "2010s: reinforcement learning emerged as a key advance in AI",
+        "2010s: reinforcement learning became a key advance in AI",
         "2020s: large foundation models trained on huge amounts of data have further accelerated robot autonomy",
-        "Matt Malchano, vice president of software at Boston Dynamics, has been working on autonomy for 15 years",
-        "Sergey Levine, a computer scientist at the University of California Berkeley, is a cofounder of a robotics company"
+        "Billions of dollars in investment are being poured into developing autonomous robots",
+        "The International Standards Organization defines autonomy in robotics as the ability to perform intended tasks based on current state and sensing, without human intervention"
       ],
-      "conclusion": "The development of autonomous robots has significant implications for workplaces and homes, as it could enable the creation of general-purpose robots that can perform a wide variety of tasks independently, representing a major step beyond current industrial and service robots. This could lead to increased efficiency and productivity in various industries, and potentially even change the way we live and work."
+      "conclusion": "The development of autonomous robots has significant implications for workplaces and homes, as it could enable the creation of general-purpose robots that can perform a wide variety of tasks independently, representing a major step beyond the capabilities of current industrial and service robots. This could lead to increased efficiency and productivity in various industries, and potentially even change the way we live and work."
+    },
+    {
+      "title": "Este remake de un clásico en Prime Video es el estreno de ciencia ficción del verano: 'Matrix' o 'Cyberpunk 2066' se lo deben todo",
+      "url": "https://www.xataka.com/streaming/este-remake-clasico-prime-video-estreno-ciencia-ficcion-verano-matrix-cyberpunk-2066-se-deben-todo",
+      "image": "https://i.blogs.es/44b67c/captura-de-pantalla-2026-07-07-a-las-18.39.53/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "topic": "science",
+      "topic_label": "Ciencia",
+      "que_paso": "La serie de televisión basada en el legendario anime 'Ghost in the Shell' ha llegado a Prime Video, siendo la primera adaptación de la franquicia sin la participación de Production I.G. en tres décadas. El estudio Science SARU, conocido por trabajos como 'Dan Da Dan' y 'Tu color', ha tomado el proyecto con Toma Kimura al frente. La serie se sitúa en 2029 y sigue la historia de la Mayor Motoko Kusanagi al frente de una unidad especializada en delitos cibernéticos.",
+      "datos": [
+        "La serie se estrenará en Prime Video",
+        "El manga original fue publicado por Masamune Shirow en 1989",
+        "La película de 1995 dirigida por Mamoru Oshii influyó en el imaginario visual de clásicos como 'Matrix'",
+        "La serie se desarrolla en el año 2029",
+        "El estudio Science SARU ha utilizado técnicas tradicionales sin inteligencia artificial en la serie"
+      ],
+      "conclusion": "La nueva serie de 'Ghost in the Shell' podría ser la versión definitiva de la obra, ya que se ciñe más al manga original y ha sido producida con técnicas tradicionales, lo que la hace destacar en el mundo del anime y la ciencia ficción. Su estreno en Prime Video puede atraer a nuevos y antiguos fanáticos de la franquicia."
+    },
+    {
+      "title": "Experts Say There’s Now an Open Source AI Model as Scary as Mythos",
+      "url": "https://futurism.com/artificial-intelligence/open-source-ai-model-scary-mythos",
+      "image": "https://futurism.com/wp-content/uploads/2026/07/open-source-ai-model-scary-mythos.jpg?w=1200",
+      "source": "Futurism",
+      "language": "en",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "The Trump administration had previously forced Anthropic to withdraw its powerful AI models, Mythos 5 and Fable 5, due to national security concerns, but has since allowed their limited rollout to resume. Meanwhile, a Beijing-based AI company, Z.ai, has released an open-source AI model called GLM-5.2, which has raised cybersecurity concerns. This development has significant implications for the use of AI in cybersecurity and the potential risks associated with it.",
+      "datos": [
+        "Mythos 5 is available to around 100 US organizations and government agencies",
+        "Fable 5 is available to the public for a steep off-subscription price as of July 1",
+        "GLM-5.2 can be downloaded by anybody and run on virtually any hardware",
+        "Security firms Semgrep and Graphistry found GLM-5.2 proficient at identifying software bugs and performing other cybersecurity tasks",
+        "Z.ai may have used a controversial practice involving training a 'student' model using one 'teacher' AI, such as OpenAI's GPT-5.5 and Anthropic's Opus 4.8",
+        "Hackers are already trading GLM-5.2 jailbreaks on Russian-language forums"
+      ],
+      "conclusion": "The release of GLM-5.2 poses a significant threat to cybersecurity, as it can be used by hackers to bypass existing defenses, and its open-source nature makes it widely accessible. This development highlights the need for increased vigilance and measures to mitigate the risks associated with the use of AI in cybersecurity."
     },
     {
       "title": "Big tech’s lofty climate goals wrecked by energy-hungry AI",
@@ -29,15 +66,15 @@
       "language": "en",
       "topic": "ai",
       "topic_label": "IA & Agentes",
-      "que_paso": "Tech giants Google, Amazon, and Microsoft have invested heavily in artificial intelligence, which has led to an increase in their carbon emissions, despite their previous pledges to reach net-zero carbon emissions. The companies' desire to integrate AI has outstripped their commitments to sustainability, causing their emissions promises to soften. This shift has occurred as the tech sector prioritizes AI development over environmental concerns.",
+      "que_paso": "Tech giants Google, Amazon, and Microsoft have invested heavily in artificial intelligence, but this has led to a significant increase in their carbon emissions, despite their previous commitments to climate neutrality. The companies' desire to integrate AI and stay competitive has outweighed their sustainability goals. This shift has occurred as the tech sector prioritizes AI development over environmental concerns.",
       "datos": [
         "Google's total carbon emissions climbed 25% year-over-year",
-        "Amazon's carbon emissions shot up 16% year-over-year",
+        "Amazon's carbon emissions shot up 16% in the same period",
         "Microsoft's 2025 sustainability report documented a 23% increase in emissions compared with a 2020 baseline",
-        "Meta's 2025 sustainability report showed that emissions jumped 64% year-over-year",
+        "Meta's emissions jumped 64% year-over-year in 2025",
         "Google has noted increased emissions every year since 2023, attributing the upward slope to datacenter energy consumption"
       ],
-      "conclusion": "The tech giants' struggle to balance AI development with sustainability goals has significant implications for their ability to meet net-zero emissions targets, highlighting the need for more efficient AI infrastructure and a re-evaluation of their environmental priorities. This challenge underscores the importance of considering the environmental footprint of emerging technologies like AI."
+      "conclusion": "The tech giants' struggle to balance AI development with climate goals matters because it highlights the tension between technological progress and environmental sustainability, and the need for companies to reassess their priorities and develop more effective strategies for reducing their carbon footprint. This has significant implications for the tech sector's ability to achieve net-zero emissions and meet its climate commitments."
     },
     {
       "title": "\"Ahora somos SpaceXAI\": las dos empresas de Elon Musk se fusionan porque a Wall Street le pirra la simplicidad",
@@ -47,16 +84,16 @@
       "language": "es",
       "topic": "ai",
       "topic_label": "IA & Agentes",
-      "que_paso": "La empresa SpaceX ha decidido fusionar su denominación con la de xAI, dando lugar a SpaceXAI, después de adquirir xAI en febrero por 250.000 millones de dólares. Esta fusión responde a la estrategia de simplificar la estructura de la empresa y presentarse como una empresa de IA que también lanza cohetes. La decisión se produce después de la salida a bolsa de SpaceX en junio, que recaudó 75.000 millones de dólares y obtuvo una valoración de 1,77 billones de dólares.",
+      "que_paso": "La empresa SpaceX ha decidido fusionar su denominación con la de xAI, pasando a llamarse SpaceXAI, después de adquirir xAI a principios de febrero en una operación que valoró a SpaceX en un billón de dólares y a xAI en 250.000 millones de dólares. Esta fusión busca simplificar la visión de la empresa y unificar su propósito, especialmente después de su salida a bolsa en junio. La estrategia se centra en consolidar las empresas de Elon Musk para ofrecer una visión unificada a Wall Street.",
       "datos": [
-        "El valor de la operación de adquisición de xAI fue de 250.000 millones de dólares",
-        "SpaceX valoró su empresa en un billón de dólares en la operación",
-        "La salida a bolsa de SpaceX recaudó 75.000 millones de dólares",
-        "La valoración de SpaceX después de la salida a bolsa fue de 1,77 billones de dólares",
-        "El mercado direccionable estimado por SpaceX es de 28,5 billones de dólares",
-        "Anthropic pagará 1.250 millones de dólares mensuales a SpaceXAI por acceso a cómputo en los centros de datos Colossus"
+        "El valor de la operación de adquisición de xAI fue de 250.000 millones de dólares.",
+        "SpaceX valoró su valor en un billón de dólares en la operación.",
+        "La salida a bolsa de SpaceX en junio recaudó 75.000 millones de dólares.",
+        "La valoración de SpaceX después de su salida a bolsa fue de 1,77 billones de dólares.",
+        "El mercado direccionable (TAM) estimado por SpaceX es de 28,5 billones de dólares.",
+        "Anthropic pagará 1.250 millones de dólares mensuales a SpaceXAI por acceso a cómputo en los centros de datos Colossus."
       ],
-      "conclusion": "La fusión de SpaceX y xAI en SpaceXAI refleja la estrategia de la empresa de presentarse como una empresa de IA con capacidades de lanzamiento de cohetes, lo que puede atraer a inversores de Wall Street. La simplificación de la estructura de la empresa y la presentación de un propósito unificado pueden ser clave para el éxito de la empresa en el mercado de la IA y la conectividad."
+      "conclusion": ""
     },
     {
       "title": "El BCE exige a la banca un plan de acción frente a la amenaza de la IA Mythos antes de final de octubre",
@@ -66,11 +103,11 @@
       "language": "es",
       "topic": "ai",
       "topic_label": "IA & Agentes",
-      "que_paso": "El Banco Central Europeo ha pedido a los bancos de la zona euro que presenten un plan de acción para abordar las amenazas de ciberseguridad relacionadas con los modelos de IA de vanguardia. La presidenta del Consejo de Supervisión del BCE, Claudia Buch, ha remitido una carta a los consejeros delegados de las instituciones bancarias significativas de la eurozona. Esto se produce después de que el BCE se reuniera con las entidades europeas para analizar las implicaciones de los modelos de IA de vanguardia para el sector.",
+      "que_paso": "El Banco Central Europeo ha pedido a los bancos de la zona euro que presenten un plan de acción para abordar las amenazas de ciberseguridad relacionadas con los modelos de IA de vanguardia. La presidenta del Consejo de Supervisión del BCE, Claudia Buch, ha remitido una carta a los consejeros delegados de las instituciones bancarias significativas de la eurozona. El objetivo es reforzar la seguridad de los sistemas de tecnología de la información y la comunicación (TIC) de los bancos.",
       "datos": [
         "El plazo para presentar el plan de acción es antes del 31 de octubre de 2026",
         "El modelo de IA Mythos, desarrollado por Anthropic, es uno de los modelos de vanguardia que plantea amenazas de ciberseguridad",
-        "La carta ha sido remitida por Claudia Buch, presidenta del Consejo de Supervisión del BCE",
+        "La carta fue remitida por Claudia Buch, presidenta del Consejo de Supervisión del BCE",
         "El BCE realizará un análisis transversal de los planes de acción presentados por los bancos",
         "El plan de acción debe abordar tanto las prioridades inmediatas como los aspectos estratégicos a largo plazo"
       ],
@@ -84,108 +121,70 @@
       "language": "es",
       "topic": "ai",
       "topic_label": "IA & Agentes",
-      "que_paso": "El vídeo de Haaland comiendo durante el Mundial ha generado confusión en las redes sociales. La imagen ha sido compartida en varias plataformas, lo que ha llevado a una investigación sobre su autenticidad. El contexto de esta noticia se enmarca en el aumento de la desinformación y los bulos durante eventos importantes como el Mundial.",
+      "que_paso": "El vídeo en cuestión muestra al futbolista Erling Haaland comiendo durante un partido del Mundial, lo que ha generado confusión y debate en las redes sociales. La verificación de la autenticidad del vídeo ha sido realizada por Maldita.es, una entidad especializada en verificar bulos y desinformaciones. El contexto de este vídeo se enmarca en la creciente preocupación por la manipulación de contenido en línea, especialmente durante eventos de gran relevancia como el Mundial.",
       "datos": [
-        "Maldita.es ha verificado la autenticidad del vídeo",
-        "El vídeo de Haaland ha sido compartido en varias plataformas de redes sociales",
-        "La investigación también ha revelado la creación de mujeres con IA para vender pornografía en Onlyfans o Fanvue",
-        "El Mundial es un evento que atrae una gran cantidad de atención y desinformación",
-        "Onlyfans y Fanvue son plataformas utilizadas para vender contenido explícito"
+        "Erling Haaland es el futbolista que aparece en el vídeo manipulado",
+        "Maldita.es es la entidad que verificó la autenticidad del vídeo",
+        "El vídeo ha generado debate en las redes sociales",
+        "Maldita.es también investigó sobre mujeres creadas con IA para vender pornografía en Onlyfans o Fanvue durante el Mundial",
+        "El vídeo de Haaland es un ejemplo de desinformación durante el Mundial"
       ],
-      "conclusion": "La noticia destaca la importancia de verificar la autenticidad de la información en las redes sociales, especialmente durante eventos de gran alcance como el Mundial. La desinformación y la manipulación de imágenes pueden tener consecuencias negativas y es fundamental ser crítico con la información que se comparte en línea."
+      "conclusion": "La manipulación de contenido en línea, como el vídeo de Haaland, resalta la importancia de verificar la autenticidad de la información antes de compartir o creer en ella, especialmente en plataformas donde la desinformación puede propagarse rápidamente. Esto tiene implicaciones prácticas para los consumidores de información en línea, que deben ser cautelosos y buscar fuentes confiables para evitar la difusión de bulos y desinformaciones."
     },
     {
-      "title": "Microsoft’s $7.3 Billion AI Data Center Just Caught a Nasty Lawsuit From Furious Neighbors",
-      "url": "https://futurism.com/artificial-intelligence/microsoft-ai-data-center-lawsuit-neighbors",
-      "image": "https://futurism.com/wp-content/uploads/2026/07/microsoft-ai-data-center-lawsuit-neighbors.jpg?w=1200",
-      "source": "Futurism",
-      "language": "en",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "The lawsuit against Microsoft's data center in Wisconsin is part of a larger issue of tech companies building large data centers in residential areas, leading to concerns about noise pollution and environmental impact. Local residents have been complaining about the noise from the data center, which they claim is causing property damage. The case highlights the challenges of balancing technological progress with community needs.",
-      "datos": [
-        "Microsoft's Fairwater data center cost $7.3 billion to build",
-        "The data center is located in Mount Pleasant, Wisconsin",
-        "The noise level from a nearby data center in Southwest Michigan was measured at 60 decibels",
-        "Microsoft acknowledged the lawsuit and claimed to have solved the issue in a June 18 update on its official blog",
-        "The lawsuit was filed on July 1 by three residents of the village of Sturtevant",
-        "The noise from the data center is described as 'similar to the whirring engine of a freight train parked nearby'"
-      ],
-      "conclusion": "The lawsuit against Microsoft's data center has significant implications for the tech industry, as it highlights the need for companies to balance their technological ambitions with community concerns and environmental responsibilities. The outcome of this case could set a precedent for how tech companies approach data center development in residential areas."
-    },
-    {
-      "title": "China ultima un desembarco en la IA similar al de los coches: \"Va a llegar una ola para la que no estamos preparados\"",
-      "url": "https://www.eldiario.es/tecnologia/china-ultima-desembarco-ia-similar-coches-llegar-ola-no-preparados_1_13352591.html",
-      "image": "https://static.eldiario.es/clip/52a7caf0-e490-4135-b6c1-e6dbb8a08ba3_facebook-watermarked-aspect-ratio-1200-675_default_0_x648y220.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "China está preparando un desembarco en la inteligencia artificial similar al que ya ha realizado en el mercado de los coches eléctricos, aprovechando su política industrial de copiar y mejorar estrategias a través de financiación estatal y competencia interna. Esto ha permitido a empresas chinas desarrollar modelos de IA como DeepSeek-R1, que han demostrado ser capaces de desarrollarse con un coste de entrenamiento mucho menor que el de sus competidores estadounidenses. La tendencia de uso de modelos de IA chinos ha tenido un punto de inflexión en los últimos meses, especialmente en áreas especializadas como el desarrollo de software y aplicaciones empresariales.",
-      "datos": [
-        "El modelo DeepSeek-R1 demostró que podía desarrollarse con una fracción del coste de entrenamiento de sus competidores estadounidenses",
-        "La publicación de DeepSeek-R1 borró más de un billón de dólares de capitalización de las grandes tecnológicas estadounidenses",
-        "Nvidia perdió 590.000 millones de dólares de capitalización",
-        "El uso de la IA para propósitos profesionales se ha disparado un 80% entre principios de mayo y finales de junio",
-        "Los seis sistemas de IA más usados actualmente son de origen chino, según los datos de OpenRouter",
-        "Claudio Feijoo, catedrático de la Universidad Politécnica de Madrid, afirma que la ola de inteligencia artificial china va a ser más competitiva y se apoyará en las ventajas industriales de China"
-      ],
-      "conclusion": ""
-    },
-    {
-      "title": "Meta’s AI Data Center Caught Infecting Town Water Supply With Deadly Bacteria",
-      "url": "https://futurism.com/health-medicine/meta-ai-data-center-pathogen-bacteria-water",
-      "image": "https://futurism.com/wp-content/uploads/2026/07/meta-ai-data-center-pathogen-bacteria-water.jpg?w=1200",
-      "source": "Futurism",
-      "language": "en",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "The Cheyenne Board of Public Utilities has revoked waste-dumping privileges for all data centers connected to municipal water services after a Meta-affiliated data center company, Goat Systems LLC, was found to be discharging wastewater containing a rare and deadly bacterium. The decision was made following a months-long investigation that traced the bacteria to Meta's discharge. Local officials and residents are concerned about the impact of data centers on their community.",
-      "datos": [
-        "Cupriavidus gilardii is a multidrug-resistant pathogen with a mortality rate of 31.3 percent",
-        "There have been 32 known infections of Cupriavidus gilardii since 2009, resulting in 10 deaths",
-        "Meta's 800,000 square foot Cheyenne campus is still under construction",
-        "The bacterium was first spotted during routine testing for fecal contamination",
-        "Goat Systems LLC was found to be in 'significant noncompliance' with Cheyenne's industrial waste regulations",
-        "The city's wastewater, not public drinking water, was found to contain the bacterium"
-      ],
-      "conclusion": "The incident highlights the need for data centers to prioritize environmental responsibility and comply with local regulations, as their operations can have significant impacts on the surrounding community. The practical takeaway is that data centers must ensure their waste management practices do not pose a risk to public health."
-    },
-    {
-      "title": "5 minutos de sueño, 2 de ejercicio y media ración de verdura: el macroestudio que avala un gran 'hack' de longevidad",
-      "url": "https://www.xataka.com/medicina-y-salud/5-minutos-sueno-2-ejercicio-media-racion-verdura-macroestudio-que-avala-gran-hack-longevidad",
-      "image": "https://i.blogs.es/af1a04/habitos-de-vida/840_560.jpeg",
+      "title": "La San Diego Comic-Con Málaga 2026 quiere hacer borrón y cuenta nueva con un espacio rediseñado y una avalancha de invitados",
+      "url": "https://www.xataka.com/literatura-comics-y-juegos/san-diego-comic-malaga-2026-quiere-hacer-borron-cuenta-nueva-espacio-redisenado-avalancha-invitados",
+      "image": "https://i.blogs.es/b9e17b/fernando-piquer/840_560.jpeg",
       "source": "Xataka",
       "language": "es",
-      "topic": "tech",
-      "topic_label": "Tecnología",
-      "que_paso": "Un estudio publicado en The Lancet ha analizado los hábitos diarios de 59.078 participantes para determinar el cambio mínimo que logra un impacto medible en la longevidad. Los investigadores utilizaron el UK Biobank, una de las bases de datos médicas más completas, y encontraron que pequeños cambios en el sueño, el ejercicio y la dieta pueden tener un efecto significativo en la esperanza de vida. El estudio se centró en identificar la combinación mínima de hábitos que se asocia con un aumento en la longevidad.",
-      "datos": [
-        "59.078 participantes fueron analizados en el estudio",
-        "8,1 años fue el seguimiento medio de los participantes",
-        "5 minutos más de sueño, 2 minutos extra de ejercicio y media ración más de verduras al día son los cambios recomendados",
-        "El estudio encontró una asociación estadística entre estos cambios y un aumento de un año en la esperanza de vida",
-        "El estudio se basó en un análisis de la base de datos del UK Biobank"
-      ],
-      "conclusion": "El estudio destaca el poder de los microhábitos en la mejora de la salud y la longevidad, lo que sugiere que pequeños cambios en el estilo de vida pueden tener un impacto significativo en la calidad de vida y la esperanza de vida. Esto puede ser especialmente relevante para aquellos que buscan mejorar su salud sin tener que hacer cambios drásticos en su rutina diaria."
-    },
-    {
-      "title": "Clues To Why Alzheimer's Risk Is Lower In People Who Have Received The Tuberculosis Vaccine",
-      "url": "https://www.iflscience.com/clues-to-why-alzheimers-risk-is-lower-in-people-who-have-received-the-tuberculosis-vaccine-84020",
-      "image": "https://assets.iflscience.com/assets/articleNo/84020/aImg/91403/mouse-model-alzheimers-l.jpg",
-      "source": "IFLScience",
-      "language": "en",
       "topic": "science",
       "topic_label": "Ciencia",
-      "que_paso": "Researchers have been studying the connection between the BCG vaccine and Alzheimer's disease, seeking to understand how the vaccine affects the risk of developing the condition. The BCG vaccine is commonly used to protect against tuberculosis, a serious infectious disease. This line of research may lead to new approaches in preventing or treating Alzheimer's.",
+      "que_paso": "La San Diego Comic-Con Málaga 2026 busca superar los problemas de organización del año anterior con una serie de mejoras y novedades. La organización ha presentado un espacio rediseñado y una amplia lista de invitados para atraer a los asistentes. El evento se llevará a cabo en un espacio ampliado y contará con una variedad de actividades y programas.",
       "datos": [
-        "BCG vaccine",
-        "Tuberculosis",
-        "Alzheimer's disease",
-        "Immune environment around the brain",
-        "BCG vaccine reshapes the immune system"
+        "El aforo total del evento será de 90.000 asistentes, repartidos en 22.500 por jornada",
+        "El espacio disponible para los asistentes será de 90.000 m²",
+        "Habrá más de 300 horas de programación",
+        "Se han anunciado 25 nuevos invitados, sumándose a los más de 30 anunciados en primavera",
+        "Los asistentes que ya tengan su entrada adquirida recibirán 20 euros de regalo canjeables en foodtrucks, fotos y firmas con famosos",
+        "El nuevo auditorio tendrá un aforo para 400 personas"
       ],
-      "conclusion": "Understanding the relationship between the BCG vaccine and Alzheimer's disease is crucial for developing effective prevention and treatment strategies, and this research may have significant implications for public health. The findings could lead to new approaches in reducing the risk of Alzheimer's disease."
+      "conclusion": "La San Diego Comic-Con Málaga 2026 busca ofrecer una experiencia más organizada y disfrutable para los asistentes, con un espacio ampliado y una variedad de actividades y programas. Esto podría ser un punto de inflexión para el evento, que busca superar los problemas del año anterior y establecerse como uno de los principales eventos de cómic y entretenimiento en España."
+    },
+    {
+      "title": "Scotland could freeze datacentre projects in challenge to UK’s AI strategy",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/07/scotland-could-freeze-datacentre-projects-in-challenge-to-uks-ai-strategy",
+      "image": "https://i.guim.co.uk/img/media/94c2721f70fe3370bfe6f5d678b2fee7ccf4eff3/675_0_5033_4024/master/5033.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d4a3f14d714cf840960d049c7d6af4d9",
+      "source": "The Guardian AI",
+      "language": "en",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "The Scottish government is considering a moratorium on new datacentre projects due to concerns over their environmental impact and the UK's AI strategy. The motion was passed by the Scottish National Party's national council and has been sent to the government for consideration. This move comes amidst a wider review of the UK's AI strategy, with several projects being questioned for their viability and potential benefits.",
+      "datos": [
+        "24 hyperscale datacentre projects are in various stages of planning in Scotland",
+        "The combined power usage of these projects would exceed 1.5 times Scotland's peak demand",
+        "Lesley Backhouse, a local councillor, described the current datacentre plans as 'overdevelopment' and 'intrusive'",
+        "The UK government had previously misrepresented the technical feasibility of a massive datacentre hub in Lanarkshire",
+        "Andy Burnham is reportedly considering a review of several critical planks of the UK's technology policy"
+      ],
+      "conclusion": "The potential moratorium on datacentres in Scotland could significantly impact the UK's AI strategy, highlighting the need for a more nuanced approach to balancing technological development with environmental and community concerns. This development underscores the importance of rigorous planning and assessment in the implementation of AI infrastructure projects."
+    },
+    {
+      "title": "Sánchez carga contra quienes llaman \"cáncer\" a las bajas laborales: \"Los derechos no se recortan, se defienden\"",
+      "url": "https://www.europapress.es/nacional/noticia-sanchez-carga-contra-quienes-llaman-cancer-bajas-laborales-derechos-no-recortan-defienden-20260707201525.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260707201525_1200.jpg",
+      "source": "Europa Press Ciencia",
+      "language": "es",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "El presidente del Gobierno, Pedro Sánchez, ha intervenido en el debate sobre las bajas laborales, criticando a quienes las consideran un problema grave. Este tema ha generado un intenso debate en el ámbito laboral y político. La posición de Sánchez se enmarca en su defensa de los derechos de los trabajadores.",
+      "datos": [
+        "Pedro Sánchez es el presidente del Gobierno",
+        "Las bajas laborales son el tema central del debate",
+        "Se ha propuesto que los trabajadores enfermos \"cobren menos",
+        "Sánchez ha cuestionado a quienes llaman \"cáncer\" a las bajas laborales",
+        "El presidente del Gobierno ha instado a defender los derechos de los trabajadores"
+      ],
+      "conclusion": "La intervención de Sánchez refleja la importancia de proteger los derechos laborales en España. La defensa de estos derechos puede tener implicaciones significativas en la política laboral y social del país."
     },
     {
       "title": "Microsoft cuts 4,800 jobs as it revamps Xbox in latest wave of mass layoffs",
@@ -195,16 +194,16 @@
       "language": "en",
       "topic": "geek",
       "topic_label": "Cultura geek",
-      "que_paso": "Microsoft is undergoing a significant restructuring of its Xbox gaming division as part of a larger cost-cutting effort, driven by the need to invest heavily in artificial intelligence. The company's executive vice-president and chief people officer, Amy Coleman, emphasized that the business is changing due to the evolving world around it. This move follows Microsoft's recent acquisition of Activision Blizzard and successive rounds of cuts within Xbox.",
+      "que_paso": "Microsoft's latest wave of mass layoffs is part of its efforts to invest heavily in AI and restructure its struggling Xbox gaming division. The company is eliminating jobs across its commercial business and Xbox, with the goal of returning the Xbox division to growth by 2027. This move follows Microsoft's $68.7bn acquisition of Activision Blizzard in 2024 and successive rounds of cuts at Xbox.",
       "datos": [
         "4,800 jobs are being eliminated, roughly 2% of Microsoft's global workforce",
         "3,200 gaming jobs will be shed over the coming fiscal year",
-        "Four game studios are being spun off or sold, including Compulsion Games and Double Fine Productions",
-        "Microsoft's $2.5bn push to embed 6,000 engineers inside enterprise clients to accelerate AI adoption",
+        "Four game studios are being spun off or sold, and a fifth is entering a review process",
+        "Microsoft is investing $2.5bn to embed 6,000 engineers inside enterprise clients to accelerate AI adoption",
         "Xbox's profit margins are 3-10 times lower than rivals",
-        "Microsoft's $68.7bn acquisition of Activision Blizzard closed in 2024"
+        "Asha Sharma succeeded Phil Spencer as Xbox chief in February"
       ],
-      "conclusion": "The layoffs and restructuring of Xbox matter because they reflect Microsoft's strategic shift towards investing in artificial intelligence, and the need for the company to adapt to changing market conditions to remain competitive. The practical takeaway is that even established companies like Microsoft must be willing to undergo significant changes to stay relevant in a rapidly evolving technological landscape."
+      "conclusion": "The layoffs and restructuring at Xbox matter because they reflect the company's shift towards AI and its efforts to stay competitive in a changing industry. The practical takeaway is that even established companies like Microsoft must adapt to new technologies and market conditions to remain relevant."
     }
   ]
 }
