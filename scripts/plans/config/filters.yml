@@ -61,6 +61,23 @@ exclude_keywords:
     - dj set
     - banda sonora
     - ópera
+    # Musicals / zarzuela (generic)
+    - zarzuela
+    - opereta
+    - el musical
+    - gran musical
+    - revista musical
+    # Bullfighting
+    - corrida de toros
+    - tauromaquia
+    - novillada
+    - plaza de toros
+    - rejones
+    # Betting / horse racing
+    - hipódromo
+    - apuestas
+    - domingos de apuestas
+    - carreras de caballos
     # Children
     - parque infantil
     - parques infantiles
@@ -72,6 +89,12 @@ exclude_keywords:
     - talleres infantiles
     - actividades para niños
     - espectáculo infantil
+    - campamento
+    - campamentos
+    - aula de verano
+    - escuela de verano
+    - guardería
+    - abrakid
     # Religious
     - iglesia
     - catedral
