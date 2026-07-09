@@ -1,44 +1,154 @@
 {
-  "generated": "2026-07-08T07:25:26.112267",
-  "count": 12,
+  "generated": "2026-07-09T08:27:47.787592",
+  "count": 13,
   "articles": [
     {
-      "title": "How AI could enable autonomous robot workers in workplaces—and maybe homes",
-      "url": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Agility_Digit_06-1152x648.jpg",
+      "title": "No, este vídeo de un \"homenaje a Cristiano Ronaldo con drones en Madeira\" no es real: ha sido generado con IA",
+      "url": "https://maldita.es/desinfo/20260708/este-video-muestra-un-homenaje-a-cristiano-ronaldo-con-drones-en-madeira/",
+      "image": "https://maldita.es/system/articles/24970/image",
+      "source": "Maldita.es",
+      "language": "es",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "Un vídeo que circula en las redes sociales muestra un homenaje a Cristiano Ronaldo con drones en Madeira, pero en realidad se trata de un contenido generado con inteligencia artificial. El vídeo ha sido analizado y desacreditado por Maldita.es, una entidad que se dedica a verificar la veracidad de contenido en línea. Esto forma parte de una tendencia más amplia de desinformación y bulos que se propagan a través de las redes sociales.",
+      "datos": [
+        "Maldita.es ha verificado la falsedad del vídeo",
+        "El vídeo utiliza inteligencia artificial para generar su contenido",
+        "El contenido falso se ha propagado a través de las redes sociales",
+        "Maldita.es también ha investigado sobre mujeres creadas con IA para vender pornografía en Onlyfans o Fanvue",
+        "El vídeo se presenta como un homenaje a Cristiano Ronaldo en Madeira"
+      ],
+      "conclusion": "La capacidad de la inteligencia artificial para generar contenido falso pero creíble tiene implicaciones importantes para la verificación de la información en línea y la lucha contra la desinformación. Es fundamental ser cauteloso y verificar la autenticidad de los contenidos que se comparten en las redes sociales."
+    },
+    {
+      "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
+      "url": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Android-statue-1152x648.jpg",
       "source": "Ars Technica",
       "language": "en",
       "topic": "ai",
       "topic_label": "IA & Agentes",
-      "que_paso": "The development of autonomous robots is becoming increasingly possible due to advancements in artificial intelligence, with researchers and companies working towards creating general-purpose robots that can perform various tasks in workplaces and homes. This vision is being driven by significant investments and the work of researchers such as Matt Malchano, vice president of software at Boston Dynamics, and Sergey Levine, a computer scientist at the University of California Berkeley. The goal is to create robots that can operate without direct human supervision, performing tasks that were previously thought to be exclusive to humans.",
+      "que_paso": "Google has updated its Android Bench benchmark with new large language models (LLMs) to evaluate their performance in Android app development. The update includes a new framework for easier use and invites developers to run their own tests and submit feedback. This move is part of Google's efforts to improve its AI models, particularly Gemini, which is currently lagging behind other models in the leaderboard.",
       "datos": [
-        "15 years ago, the goal of autonomy in robotics was to get a robot to navigate from point A to point B",
-        "In 1979, the Stanford Cart required five hours to move 20 meters through an obstacle-filled room",
-        "The first bipedal robot capable of walking on its own without losing its balance was developed in 1996",
-        "Billions of dollars have been invested in developing autonomous robots",
-        "The International Standards Organization defines autonomy in robotics as the ability to perform intended tasks based on current state and sensing, without human intervention",
-        "Reinforcement learning in the 2010s and large foundation models trained on huge amounts of data in the 2020s have advanced AI capabilities"
+        "100 Android development tasks are used to evaluate the LLMs",
+        "8 new models have been added to the Android Bench leaderboard",
+        "Claude Fable 5 achieved 84.5 percent accuracy in the test",
+        "GPT 5.4 and Claude Sonnet 5 are ahead of Gemini 3.1 Pro in the leaderboard",
+        "Gemini 3.1 Pro costs $87 to run the test, while Fable 5 and GPT 5.5 cost over $130",
+        "Gemini 3.5 Flash took 28 hours to complete the benchmark and costs $165 per run"
       ],
-      "conclusion": "The development of autonomous robots has significant implications for various industries, including manufacturing and service sectors, as it could lead to increased efficiency and productivity. The creation of general-purpose robots that can operate without direct human supervision could represent a major step forward in the field of robotics, enabling robots to perform a wide range of tasks in complex and unpredictable environments."
+      "conclusion": "The update to Android Bench highlights the performance gap between Google's models, particularly Gemini, and other leading LLMs, which could impact the adoption of Google's tools in agentic development. The practical takeaway is that developers need to carefully evaluate the trade-offs between model accuracy and operating costs when choosing an LLM for Android app development."
     },
     {
-      "title": "Este remake de un clásico en Prime Video es el estreno de ciencia ficción del verano: 'Matrix' o 'Cyberpunk 2066' se lo deben todo",
-      "url": "https://www.xataka.com/streaming/este-remake-clasico-prime-video-estreno-ciencia-ficcion-verano-matrix-cyberpunk-2066-se-deben-todo",
-      "image": "https://i.blogs.es/44b67c/captura-de-pantalla-2026-07-07-a-las-18.39.53/840_560.jpeg",
+      "title": "Cinco años llamando dictador a Sánchez tienen consecuencias",
+      "url": "https://www.eldiario.es/opinion/zona-critica/cinco-anos-llamando-dictador-sanchez-consecuencias_129_13365125.html",
+      "image": "https://static.eldiario.es/clip/5f46f405-0787-43b0-adc8-7bbd9c31447b_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha denunciado reiteradamente que el gobierno de Pedro Sánchez está llevando a España hacia un proceso de autoritarismo y descomposición. Esto ha generado un discurso político que busca criminalizar al gobierno y crear una sensación de urgencia en una parte de la sociedad. Este discurso ha sido mantenido durante cinco años, lo que sugiere que se trata de una estrategia política deliberada.",
+      "datos": [
+        "Isabel Díaz Ayuso ha sido presidenta de la Comunidad de Madrid",
+        "Pedro Sánchez es el presidente del gobierno de España",
+        "La pandemia ha sido un contexto en el que se han realizado estas denuncias",
+        "El año 2022 fue cuando Díaz Ayuso afirmó que España estaba camino de una dictadura",
+        "El expresidente José María Aznar ha expresado su opinión sobre la situación con la frase 'quien pueda hacer, que haga'"
+      ],
+      "conclusion": "La estrategia política de denunciar al gobierno como autoritario y dictatorial puede tener consecuencias graves, como la erosión de la confianza en las instituciones y la creación de una sensación de justificación para acciones extremas. Esto puede tener un impacto significativo en la estabilidad política y social de España."
+    },
+    {
+      "title": "Daniel Púa, jefe de seguridad en Magnific: \"El usuario de a pie debería estar preocupado porque el phishing se está refinando con IA\"",
+      "url": "https://www.xataka.com/seguridad/daniel-pua-jefe-seguridad-magnific-usuario-a-pie-deberia-estar-preocupado-porque-phishing-se-esta-refinando-ia",
+      "image": "https://i.blogs.es/7e4bd8/magnific_has-cortado-la-pantalla-d_iajs5oj3uk/840_560.jpeg",
       "source": "Xataka",
+      "language": "es",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "El jefe de seguridad de Magnific, Daniel Púa, alerta sobre el aumento de estafas sofisticadas que utilizan inteligencia artificial para engañar a los usuarios. Estas estafas pueden incluir llamadas y videollamadas con voces y videos clonados que se hacen pasar por familiares o conocidos. La situación es preocupante porque estas estafas pueden ser muy difíciles de detectar.",
+      "datos": [
+        "La IA ya es capaz de encontrar decenas de vulnerabilidades que llevaban años ocultas",
+        "Un empleado transfirió 25 millones de dólares en una videollamada en la que todos eran deepfakes menos él",
+        "Google presentó una función para evitar llamadas deepfake con voces clonadas",
+        "Daniel Púa recomienda tener una segunda vía de aprobación para confirmar la identidad de los familiares o conocidos",
+        "Los expertos en ciberseguridad recomiendan crear una contraseña familiar para evitar estafas",
+        "El lanzamiento de Claude Mythos hace un par de meses hizo saltar las alarmas en la comunidad de ciberseguridad"
+      ],
+      "conclusion": "El aumento de estafas sofisticadas que utilizan inteligencia artificial es un problema creciente que requiere la atención de los usuarios y las empresas. Es importante tomar medidas de seguridad para evitar caer en estas estafas, como tener una segunda vía de aprobación y crear una contraseña familiar."
+    },
+    {
+      "title": "You Can Now Play An Ancient Roman Board Game Called Ludus Latrunculorum, Dating Back At Least 2,000 Years",
+      "url": "https://www.iflscience.com/you-can-now-play-an-ancient-roman-board-game-called-ludus-latrunculorum-dating-back-at-least-2000-years-84025",
+      "image": "https://assets.iflscience.com/assets/articleNo/84025/aImg/91407/ludus-latrunculorum-board-meta.png",
+      "source": "IFLScience",
+      "language": "en",
+      "topic": "geek",
+      "topic_label": "Cultura geek",
+      "que_paso": "The ancient Roman board game Ludus Latrunculorum was discovered at the archaeological site of Vindolanda in northern England, which was a Roman frontier fort near Hadrian’s Wall. The game was found beside a third-century road and is believed to have been used by the non-military population. The discovery and subsequent recreation of the game provide insight into the daily lives and leisure activities of ancient Romans.",
+      "datos": [
+        "The gaming board was discovered in 2019",
+        "Vindolanda was established in 85 CE",
+        "16 gaming boards have been found at Vindolanda",
+        "The recreated board was made using polylactic acid plastic (PLA) through 3D printing",
+        "The game is thought to resemble draughts, with two players attempting to trap their opponent’s pieces"
+      ],
+      "conclusion": "The recreation of Ludus Latrunculorum offers a unique glimpse into the strategic thinking and leisure activities of ancient Romans, highlighting the importance of board games in their daily lives. This discovery also demonstrates the value of archaeological research and 3D printing technology in preserving and sharing historical artifacts."
+    },
+    {
+      "title": "Datacentres are a ticking timebomb. We must make sure AI’s benefits outweigh the costs | Nicki Hutley",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/09/ai-artificial-intelligence-benefits-costs-datacentres-energy-water-environment",
+      "image": "https://i.guim.co.uk/img/media/b1390398cb375a0479d2ebaf93621bb278b603a4/1620_600_3555_2844/master/3555.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=eed94e78e7906beb5abc53567081efb0",
+      "source": "The Guardian AI",
+      "language": "en",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "The rapid growth of datacentres worldwide, driven by the increasing demand for artificial intelligence, is raising concerns about their environmental and social impact. Governments and tech companies are investing heavily in these facilities, but the benefits and costs are not being adequately assessed. The situation is particularly relevant in Australia, where the number of datacentres is expected to increase significantly in the coming years.",
+      "datos": [
+        "There are over 10,000 active datacentres worldwide, with an expected increase of 3.5 times at an estimated cost of US$7tn",
+        "The US hosts the most datacentres, but Australia has 286 active or planned centres",
+        "Datacentres are expected to triple Australia's consumption of energy and water by 2030",
+        "The Australian Prudential Regulation Authority has warned banks of the accelerating cybersecurity risk posed by AI",
+        "The estimated cost of the datacentre boom is around 5% of the world's annual GDP",
+        "Anthropic, a global AI leader, is looking to Australia as a potential training ground for its models"
+      ],
+      "conclusion": "The growth of datacentres poses significant environmental and social risks, and it is essential to carefully assess their benefits and costs to ensure that their development aligns with the greater good. The practical takeaway is that governments and companies must adopt a more nuanced approach to datacentre development, considering both the potential benefits of AI and the potential drawbacks of these facilities."
+    },
+    {
+      "title": "El PP saca del cajón los 15 informes inéditos que mantenía 'ocultos' sobre la represión franquista en Balears",
+      "url": "https://www.eldiario.es/illes-balears/sociedad/pp-saca-cajon-15-informes-ineditos-mantenia-ocultos-represion-franquista-balears_1_13364743.html",
+      "image": "https://static.eldiario.es/clip/438294db-0ea4-4693-b9e3-62a8325c29ce_facebook-watermarked-aspect-ratio-1200-675_default_0.jpg",
+      "source": "elDiario.es",
       "language": "es",
       "topic": "science",
       "topic_label": "Ciencia",
-      "que_paso": "La serie de televisión basada en el legendario anime 'Ghost in the Shell' ha llegado a Prime Video, siendo la primera adaptación de la franquicia sin la participación de Production I.G. en tres décadas. El estudio Science SARU, conocido por trabajos como 'Dan Da Dan' y 'Tu color', ha tomado el relevo con Toma Kimura al frente. La serie se sitúa en 2029 y sigue la historia de la Mayor Motoko Kusanagi al frente de una unidad especializada en delitos cibernéticos.",
+      "que_paso": "El Govern balear ha decidido hacer públicos 15 informes inéditos sobre la represión franquista en las islas, que habían sido encargados y ejecutados durante la pasada legislatura pero mantenidos sin difundir. Estos informes forman parte de la política pública de memoria democrática en Balears y fueron concebidos para tener un retorno social a través de exposiciones y materiales pedagógicos. La publicación de estos informes se presenta como una medida para facilitar el acceso público a las investigaciones realizadas sobre la guerra civil y la represión franquista.",
       "datos": [
-        "La serie se estrenó en Prime Video",
-        "El manga original fue publicado por Masamune Shirow en 1989",
-        "La película de 1995 dirigida por Mamoru Oshii influyó en el imaginario visual de clásicos como 'Matrix'",
-        "La serie se desarrolla en el año 2029",
-        "Toma Kimura, también conocido como Mokochan, hace su debut como director",
-        "La serie utiliza técnicas tradicionales, sin inteligencia artificial"
+        "218.000 euros es el monto total abonado a los autores de los informes",
+        "15 informes inéditos han sido publicados",
+        "20 investigaciones en total pueden consultarse a través del portal institucional del Govern",
+        "IV Plan de Fosas es el marco en el que se promovieron las investigaciones",
+        "La ley autonómica de recuperación de personas desaparecidas durante la guerra civil y el franquismo es la base legal para estas investigaciones"
       ],
-      "conclusion": "La llegada de esta serie a Prime Video es importante porque ofrece una nueva visión de la franquicia 'Ghost in the Shell', más cercana al manga original y con un enfoque en la acción y la trama que podría atraer a nuevos y antiguos fanáticos por igual. Su estreno puede marcar un punto de inflexión en la forma en que se adaptan los animes a series de televisión."
+      "conclusion": "La publicación de estos informes es un paso importante para la consolidación de Balears como referente estatal en políticas de memoria democrática, y permitirá un mayor acceso a la información sobre la represión franquista en las islas. Esto puede tener un impacto significativo en la comprensión y el reconocimiento de la historia de la región."
+    },
+    {
+      "title": "Women and university graduates in Australia most at risk of losing jobs to AI, report finds",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/08/women-and-university-graduates-most-at-risk-ai-job-loss-australia-report",
+      "image": "https://i.guim.co.uk/img/media/12f77a9b9537b09eb76ac5081b13445c2e73c3a6/158_0_6696_5357/master/6696.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b7b951adfcd698d61f1d9ce248f8e4e8",
+      "source": "The Guardian AI",
+      "language": "en",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "The Australian government has released a report on the impact of artificial intelligence on the job market, highlighting the most vulnerable occupations and demographics. The report is based on data from Jobs and Skills Australia and includes insights from experts in the field, such as Dario Amodei, the CEO of Anthropic. The government is using this report to inform its plans for regulating and managing AI in various sectors.",
+      "datos": [
+        "Telemarketers, advertising staff, and accountants are among the occupations most exposed to AI displacement",
+        "60% of workers in high-risk roles are women",
+        "People with university qualifications are more likely to be in occupations exposed to AI displacement",
+        "Tradespeople and aged care workers have the lowest exposure to AI displacement",
+        "Dario Amodei estimates that AI could wipe out half of all entry-level white collar jobs in the next 1-5 years",
+        "The report found no evidence of broad labour market upheaval driven by artificial intelligence"
+      ],
+      "conclusion": "The report's findings have significant implications for the Australian job market, particularly for women and university graduates, who are most at risk of losing their jobs to AI. The government's plans to regulate and manage AI will be crucial in mitigating the negative effects and ensuring that Australians are supported through this change."
     },
     {
       "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
@@ -48,181 +158,88 @@
       "language": "en",
       "topic": "ai",
       "topic_label": "IA & Agentes",
-      "que_paso": "Researchers have discovered a new type of pull-based attack called HalluSquatting that can exploit AI coding assistants and agents to assemble massive botnets. This attack takes advantage of the tendency of large language models to hallucinate resource identifiers, allowing hackers to infect devices at scale. The vulnerability affects several popular AI tools, including those used for coding and development.",
+      "que_paso": "Researchers have discovered a new type of pull-based attack called HalluSquatting, which exploits the vulnerabilities of large language models to assemble massive botnets. This attack targets AI coding assistants and agents, allowing hackers to infect devices at scale. The researchers' findings were published in a paper, highlighting the potential risks of HalluSquatting.",
       "datos": [
-        "9 popular AI tools are susceptible to the HalluSquatting attack, including Cursor, Cursor CLI, and GitHub Copilot",
-        "The attack can compromise a large number of users with minimal effort by targeting popular resources",
-        "HalluSquatting works by predicting and registering resource identifiers that LLMs are likely to hallucinate",
-        "The attack can install reverse shells or other malicious wares on infected devices",
-        "Researchers published a paper on the attack on Wednesday",
-        "HalluSquatting enables attackers to take control of distributed devices at scale"
+        "9 popular AI tools are susceptible to HalluSquatting, including Cursor, Cursor CLI, Gemini CLI, Windsurf, GitHub Copilot, Cline, OpenClaw, ZeroClaw, and NanoClaw",
+        "HalluSquatting can perform large-scale DDoSes and infect devices at scale",
+        "The attack works by predicting and registering resource identifiers that LLMs are likely to hallucinate",
+        "Attackers can compromise a large number of users with minimal effort by targeting popular resources",
+        "HalluSquatting can achieve various objectives not previously possible with prompt injections, including large ransomware attacks"
       ],
-      "conclusion": "The HalluSquatting attack has significant implications for the security of AI-powered systems, as it enables hackers to compromise a large number of devices with minimal effort. This vulnerability highlights the need for developers to prioritize security and implement robust safeguards to prevent such attacks."
+      "conclusion": "The discovery of HalluSquatting highlights the need for AI engine developers to address the root cause of prompt injection vulnerabilities, rather than just mitigating the damage. This attack has significant implications for the security of AI-powered systems and devices, and underscores the importance of developing more robust security measures to prevent large-scale exploits."
     },
     {
-      "title": "Experts Say There’s Now an Open Source AI Model as Scary as Mythos",
-      "url": "https://futurism.com/artificial-intelligence/open-source-ai-model-scary-mythos",
-      "image": "https://futurism.com/wp-content/uploads/2026/07/open-source-ai-model-scary-mythos.jpg?w=1200",
-      "source": "Futurism",
-      "language": "en",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "The Trump administration had previously forced Anthropic to withdraw its powerful AI models, Mythos 5 and Fable 5, due to national security concerns. However, a new open-source AI model, GLM-5.2, has been released by Beijing-based company Z.ai, which can perform similar tasks to Anthropic's models. This development has raised cybersecurity concerns as GLM-5.2 can be downloaded and used by anyone, including potential hackers.",
-      "datos": [
-        "Mythos 5 is available to around 100 US organizations and government agencies",
-        "Fable 5 is available to the public for a steep off-subscription price as of July 1",
-        "GLM-5.2 can be run on virtually any hardware",
-        "Security firm Semgrep found GLM-5.2 to be proficient at identifying software bugs",
-        "Z.ai may have used a controversial practice of distilling OpenAI's GPT-5.5 and Anthropic's Opus 4.8 to develop GLM-5.2",
-        "Hackers are already trading GLM-5.2 jailbreaks on Russian-language forums"
-      ],
-      "conclusion": "The release of GLM-5.2 poses a significant cybersecurity threat as it can be used by hackers to bypass existing defenses, and its open-source nature makes it difficult to track and regulate. This development highlights the need for increased vigilance and cooperation between security firms, governments, and AI companies to mitigate the risks associated with powerful AI models."
-    },
-    {
-      "title": "Big tech’s lofty climate goals wrecked by energy-hungry AI",
-      "url": "https://www.theguardian.com/technology/2026/jul/06/ai-climate-crisis",
-      "image": "https://i.guim.co.uk/img/media/e23db2eeb7fb9eb44b8fe1a13d7097ac9681bee7/417_0_4167_3335/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2946362a7012e370af3049efe118388d",
-      "source": "The Guardian AI",
-      "language": "en",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "Google and Amazon have released their yearly sustainability reports, which show rising emissions due to their investments in power-hungry AI, making their net-zero climate goals more difficult to achieve. This increase in emissions is also expected to be reported by Microsoft in the coming weeks. The tech giants' desire to integrate AI and win the AI arms race has led to a surge in energy consumption, conflicting with their sustainability commitments.",
-      "datos": [
-        "Google's total carbon emissions climbed 25% year-over-year",
-        "Amazon's carbon emissions shot up 16% year-over-year",
-        "Microsoft's 2025 sustainability report documented a 23% increase in emissions compared with a 2020 baseline",
-        "Meta's 2025 sustainability report showed emissions jumped 64% year-over-year",
-        "Google has noted increased emissions every year since 2023, attributing the upward slope to datacenter energy consumption"
-      ],
-      "conclusion": "The tech giants' struggle to balance their AI ambitions with their sustainability goals has significant implications for their ability to achieve net-zero emissions, highlighting the need for more sustainable AI infrastructure and practices. This challenge underscores the importance of addressing the environmental footprint of AI development and deployment."
-    },
-    {
-      "title": "\"Ahora somos SpaceXAI\": las dos empresas de Elon Musk se fusionan porque a Wall Street le pirra la simplicidad",
-      "url": "https://www.xataka.com/empresas-y-economia/ahora-somos-spacexai-dos-empresas-elon-musk-se-fusionan-porque-a-wall-street-le-pirra-simplicidad",
-      "image": "https://i.blogs.es/ffae81/spacexai-nuevo-nombre-spacex-xai/840_560.jpeg",
+      "title": "Pensábamos que la clave para matar un mamut era la puntería de un arma letal. Ahora sabemos que no podíamos estar más equivocados",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/no-tenemos-idea-que-demonios-usaban-acabamos-descubrir-que-arma-letal-para-cazar-mamuts-no-era-que-pensabamos",
+      "image": "https://i.blogs.es/90fab4/034598160840022eb4bfba7c7a641919/840_560.jpeg",
       "source": "Xataka",
       "language": "es",
       "topic": "ai",
       "topic_label": "IA & Agentes",
-      "que_paso": "La empresa SpaceX ha decidido fusionar su denominación con la de xAI, pasando a llamarse SpaceXAI, después de adquirir xAI a principios de febrero en una operación que valoró a SpaceX en un billón de dólares y a xAI en 250.000 millones de dólares. Esta fusión busca simplificar la visión de la empresa y presentarla como una empresa de IA que también lanza cohetes. La decisión se produce después de la salida a bolsa de SpaceX en junio, que recaudó 75.000 millones de dólares y obtuvo una valoración de 1,77 billones de dólares.",
+      "que_paso": "La teoría tradicional sobre la caza de mamuts por la cultura Clovis en Norteamérica se está cuestionando debido a la falta de evidencia arqueológica que respalde la idea de que utilizaban atlatls para abatir a estos animales. Dos estudios recientes han replanteado esta visión, sugiriendo que la cultura Clovis podría haber sido más oportunista en su relación con los mamuts. La arqueología ha aprendido a ser cautelosa con teorías aparentemente indiscutibles debido a fraudes como el del Hombre de Piltdown.",
       "datos": [
-        "El valor de la operación de adquisición de xAI fue de 250.000 millones de dólares",
-        "SpaceX valoró su empresa en un billón de dólares en la operación",
-        "La salida a bolsa de SpaceX recaudó 75.000 millones de dólares",
-        "La valoración de SpaceX después de la salida a bolsa fue de 1,77 billones de dólares",
-        "El mercado direccionable estimado por SpaceX es de 28,5 billones de dólares",
-        "Anthropic pagará 1.250 millones de dólares mensuales a SpaceXAI por acceso a cómputo en los centros de datos Colossus"
+        "Más de 40 años fueron necesarios para demostrar que el Hombre de Piltdown era un fraude",
+        "La cultura Clovis es conocida por haber habitado Norteamérica",
+        "No se ha encontrado un solo atlatl en un yacimiento Clovis",
+        "Los modelos estadísticos sugieren que el atlatl apareció en América unos 4.000 años después de la desaparición de la cultura Clovis",
+        "Quince yacimientos han sido analizados para encontrar evidencia de caza de mamuts por los Clovis",
+        "Ninguno de estos yacimientos demuestra de forma inequívoca que los animales fueran abatidos por seres humanos"
       ],
-      "conclusion": ""
+      "conclusion": "La revisión de estas teorías arqueológicas tiene implicaciones significativas para nuestra comprensión de la relación entre los humanos y los mamuts en la prehistoria americana, sugiriendo que la cultura Clovis podría haber tenido un papel más complejo y oportunista en la caza y el aprovechamiento de estos animales. Esto nos recuerda la importancia de la evidencia empírica y la necesidad de revisar constantemente nuestras teorías en función de nuevos descubrimientos."
     },
     {
-      "title": "No, este vídeo de Haaland comiendo durante el Mundial no es real: está manipulado",
-      "url": "https://maldita.es/desinfo/20260707/este-video-muestra-a-haaland-comiendo-durante-el-mundial/",
-      "image": "https://maldita.es/system/articles/24964/image",
-      "source": "Maldita.es",
-      "language": "es",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "Un vídeo que circula en las redes sociales muestra a Erling Haaland comiendo durante el Mundial, lo que ha generado confusión y debate sobre su autenticidad. El vídeo ha sido compartido por varios usuarios y ha llamado la atención de los medios de comunicación. La verificación de la autenticidad del vídeo es crucial para evitar la difusión de información falsa.",
-      "datos": [
-        "El vídeo en cuestión muestra a Erling Haaland comiendo durante el Mundial",
-        "Maldita.es ha verificado la autenticidad del vídeo",
-        "El vídeo ha sido manipulado",
-        "Maldita.es también ha investigado sobre mujeres creadas con IA durante el Mundial",
-        "La investigación se centra en la venta de pornografía en Onlyfans o Fanvue"
-      ],
-      "conclusion": "La verificación de la autenticidad de los contenidos que circulan en las redes sociales es fundamental para evitar la difusión de información falsa y manipulada, lo que puede tener consecuencias negativas en la percepción pública y la toma de decisiones informadas."
-    },
-    {
-      "title": "La San Diego Comic-Con Málaga 2026 quiere hacer borrón y cuenta nueva con un espacio rediseñado y una avalancha de invitados",
-      "url": "https://www.xataka.com/literatura-comics-y-juegos/san-diego-comic-malaga-2026-quiere-hacer-borron-cuenta-nueva-espacio-redisenado-avalancha-invitados",
-      "image": "https://i.blogs.es/b9e17b/fernando-piquer/840_560.jpeg",
-      "source": "Xataka",
+      "title": "La ola de calor afloja, pero las temperaturas no bajarán de 40 grados en estas provincias",
+      "url": "https://www.eldiario.es/sociedad/el-tiempo/ola-calor-afloja-temperaturas-no-bajaran-40-grados-provincias-pm_1_13365491.html",
+      "image": "https://static.eldiario.es/clip/94d2d852-0383-4fa7-bc69-7850d62cae68_facebook-watermarked-aspect-ratio-1200-675_default_0.jpg",
+      "source": "elDiario.es",
       "language": "es",
       "topic": "science",
       "topic_label": "Ciencia",
-      "que_paso": "La San Diego Comic-Con Málaga 2026 busca superar los problemas de organización del año pasado con una serie de mejoras y nuevas incorporaciones. La edición de este año contará con un espacio rediseñado y una amplia lista de invitados. La organización ha presentado sus planes para mejorar la experiencia del visitante, con un enfoque en la logística y la comodidad.",
+      "que_paso": "La segunda ola de calor de la temporada está a punto de terminar, según el portavoz de la Agencia Estatal de Meteorología, Rubén del Campo. A partir del viernes, las condiciones no serán tan extremas, aunque las temperaturas seguirán siendo muy altas en gran parte de España. Las provincias más afectadas serán aquellas que ya han sufrido temperaturas extremas en los últimos días.",
       "datos": [
-        "El aforo total de este año será de 90.000 asistentes, repartidos en 22.500 por jornada",
-        "El espacio disponible será de 90.000 m²",
-        "Se ofrecerán más de 300 horas de programación",
-        "Se han anunciado 25 nuevos invitados, sumándose a los más de 30 anunciados en primavera",
-        "Los asistentes que ya tengan su entrada adquirida recibirán 20 euros de regalo canjeables en foodtrucks, fotos y firmas con famosos",
-        "Se levantará un auditorio nuevo con aforo para 400 personas"
+        "36-38 grados serán superados en la mayor parte del territorio peninsular, sur de Gran Canaria y Baleares",
+        "7 provincias superarán los 40 grados: Albacete, Girona, Lleida, Logroño, Murcia, Toledo y Zaragoza",
+        "20 grados serán la temperatura mínima en los litorales mediterráneos, el suroeste, el Ebro y Canarias",
+        "25 grados serán la temperatura mínima en los valles del Ebro, Tajo y Guadalquivir y en la vertiente sur de las islas Canarias orientales",
+        "15 comunidades autónomas seguirán con avisos activos por calor: Andalucía, Aragón, Baleares, Castilla y León, Castilla - La Mancha, Catalunya, Extremadura, Galicia, Comunidad de Madrid, Región de Murcia, Navarra, País Vasco, La Rioja y Comunitat Valenciana"
       ],
       "conclusion": ""
     },
     {
-      "title": "The foundational elements of AI architecture that IT leaders need to scale",
-      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-2216481617_7fbe0d.jpg?resize=1200,600",
+      "title": "Vivienda arranca el proceso para el primer pago de 800 millones del Plan Estatal a las Comunidades",
+      "url": "https://www.eldiario.es/economia/vivienda-arranca-proceso-primer-pago-800-millones-plan-estatal-comunidades_1_13366621.html",
+      "image": "https://static.eldiario.es/clip/18bc9b97-6a59-4c42-9c30-c0c5c003e47e_facebook-watermarked-aspect-ratio-1200-675_default_0_x1340y305.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "topic": "ops",
+      "topic_label": "Operaciones & negocio",
+      "que_paso": "El Ministerio de Vivienda ha iniciado el proceso para el primer pago del Plan Estatal de Vivienda, que involucra a las Comunidades Autónomas y un monto significativo de fondos. Las comunidades deben aceptar las condiciones impuestas por el Ministerio para recibir los fondos, lo que ha generado controversia y recursos legales por parte de algunas comunidades. Esto se enmarca en el contexto de la crisis de vivienda y los esfuerzos del Gobierno por abordarla.",
+      "datos": [
+        "800 millones de euros es el monto del primer pago del Plan Estatal de Vivienda",
+        "2026-2030 es el período de vigencia del Plan Estatal de Vivienda",
+        "9.000 millones de euros es la inversión total prevista en vivienda pública, rehabilitación y ayudas",
+        "40% es el porcentaje de financiación que deben asumir las comunidades",
+        "Julio de 2026 es el mes en que se desembolsará el primer pago si las comunidades aceptan las condiciones"
+      ],
+      "conclusion": "La implementación del Plan Estatal de Vivienda tiene implicaciones significativas para la crisis de vivienda en España, ya que puede proporcionar fondos necesarios para abordar el problema, pero también plantea desafíos para las comunidades autónomas en términos de financiación y condiciones. La aceptación o rechazo de las condiciones por parte de las comunidades determinará el éxito del plan."
+    },
+    {
+      "title": "EmTech AI 2026: The Rise of the AI Platform",
+      "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
+      "image": "",
       "source": "MIT Tech Review",
       "language": "en",
       "topic": "ai",
       "topic_label": "IA & Agentes",
-      "que_paso": "As AI capabilities advance and organizations expand their use cases, IT leaders face challenges in scaling AI systems due to risks introduced by constant evolution. The move to agentic systems requires a stable framework for deploying and managing reliable AI systems. Organizations rely on legacy systems, inconsistent data structures, and incomplete datasets, making it difficult to scale AI effectively.",
+      "que_paso": "Subquadratic has shared details about its new model, sparking both interest and skepticism, amidst a broader push for technological advancement. The government is providing strong support for brain implants, aiming for global leadership. This development is part of a larger trend where AI is transforming various industries, including software development.",
       "datos": [
-        "60% of all AI projects will be abandoned through 2026 if not supported by AI-ready data, according to Gartner",
-        "Adnan Adil, CIO of Elastic, emphasizes the importance of data quality in AI architecture",
-        "Industry surveys consistently cite data quality as one of the greatest barriers to AI success",
-        "Poor data quality leads to AI hallucinations, bias, and unreliable outputs",
-        "Context engineering relies on modernized, unified data foundation and retrieval systems such as RAG and vector databases"
+        "Subquadratic has shared details about its new model",
+        "Claude Code is a tool that is getting better at coding tasks",
+        "Developers are handing off coding tasks to AI tools",
+        "The government is providing strong support for brain implants",
+        "The goal is to become a global leader in brain implants"
       ],
-      "conclusion": "The success of AI systems depends on a stable data architecture, and IT leaders must prioritize data quality, context engineering, and scalable data infrastructure to support reliable and integrated AI systems. By doing so, organizations can avoid common pitfalls and ensure their AI investments yield meaningful value."
-    },
-    {
-      "title": "Sánchez carga contra quienes llaman \"cáncer\" a las bajas laborales: \"Los derechos no se recortan, se defienden\"",
-      "url": "https://www.europapress.es/nacional/noticia-sanchez-carga-contra-quienes-llaman-cancer-bajas-laborales-derechos-no-recortan-defienden-20260707201525.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260707201525_1200.jpg",
-      "source": "Europa Press Ciencia",
-      "language": "es",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "El presidente del Gobierno, Pedro Sánchez, se ha pronunciado sobre las bajas laborales en el contexto de la situación laboral actual en España. Esto ha generado un debate sobre los derechos de los trabajadores y cómo abordar las bajas laborales. El presidente ha tomado una postura firme en defensa de los derechos de los trabajadores.",
-      "datos": [
-        "Pedro Sánchez es el presidente del Gobierno de España",
-        "Las bajas laborales son un tema de debate en la situación laboral actual",
-        "Se ha propuesto que los trabajadores enfermos \"cobren menos",
-        "El presidente Sánchez ha cuestionado a quienes llaman \"cáncer\" a las bajas laborales",
-        "El presidente ha instado a defender los derechos de los trabajadores"
-      ],
-      "conclusion": "La postura del presidente Sánchez tiene implicaciones importantes para los derechos de los trabajadores en España, ya que busca defender y no recortar sus derechos. Esto puede tener un impacto significativo en la política laboral y la protección de los trabajadores en el país."
-    },
-    {
-      "title": "España impulsa una alianza de 20 países para proteger a los menores de los riesgos de la IA",
-      "url": "https://www.eldiario.es/tecnologia/espana-impulsa-alianza-20-paises-proteger-menores-riesgos-ia_1_13362819.html",
-      "image": "https://static.eldiario.es/clip/89be482b-8920-4094-ac47-82e7df5101ec_facebook-watermarked-aspect-ratio-1200-675_default_0_x926y633.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "La iniciativa para proteger a los menores de los riesgos de la IA ha sido impulsada por España, Francia y Kenia, con el objetivo de garantizar una inteligencia artificial respetuosa y saludable para la infancia. Esta alianza se ha constituido bajo el amparo de Naciones Unidas y cuenta con el respaldo de varias organizaciones internacionales. El objetivo es desarrollar sistemas de IA seguros y respetuosos con los derechos de la infancia.",
-      "datos": [
-        "20 países se han unido a la Coalición Internacional para los Derechos y la Protección de la Infancia en la Era de la Inteligencia Artificial",
-        "La coalición cuenta con el respaldo de la UE, Unicef, la Unesco y la Unión Internacional de Telecomunicaciones",
-        "El documento ratificado se sustenta en las conclusiones del primer informe del Panel Científico de la IA",
-        "La iniciativa busca imponer la verificación de edad digital, medida que en España se encuentra actualmente en tramitación parlamentaria",
-        "El Ejecutivo de Pedro Sánchez ha emprendido una campaña a nivel internacional para defender que los magnates tecnológicos deben ser responsables legales de los daños que ocasionan sus plataformas"
-      ],
-      "conclusion": ""
-    },
-    {
-      "title": "DeepSeek ya no quiere competir solo con modelos. Su nuevo frente apunta directamente al negocio de NVIDIA, según Reuters",
-      "url": "https://www.xataka.com/robotica-e-ia/deepseek-no-quiere-competir-solo-modelos-su-nuevo-frente-apunta-directamente-al-negocio-nvidia-reuters",
-      "image": "https://i.blogs.es/475ce4/hardware-ia-deepseek-concepto.png/840_560.jpeg",
-      "source": "Xataka",
-      "language": "es",
-      "topic": "tech",
-      "topic_label": "Tecnología",
-      "que_paso": "La empresa china DeepSeek ha dejado de centrarse únicamente en el desarrollo de modelos de inteligencia artificial y ahora busca expandirse hacia el negocio de los chips, lo que podría representar un desafío directo a NVIDIA. Esto se debe a que la empresa busca reducir su dependencia de terceros y mejorar la eficiencia en la ejecución de sus modelos. La noticia surge a partir de una información proporcionada por Reuters, que cita a fuentes cercanas al asunto.",
-      "datos": [
-        "DeepSeek ha utilizado chips de NVIDIA y Huawei para entrenar y ejecutar sus modelos.",
-        "El chip NVIDIA H800, utilizado por DeepSeek, fue diseñado para el mercado chino y su exportación a China fue prohibida por Washington a finales de 2023.",
-        "En abril, DeepSeek lanzó su modelo V4 adaptado a Ascend, y Huawei dijo que sus procesadores se usaron en parte del entrenamiento de V4-Flash.",
-        "Google lleva años desarrollando sus TPU, Amazon tiene Inferentia para cargas de inferencia, Microsoft cuenta con Maia y Meta trabaja en MTIA.",
-        "OpenAI anunció en junio su chip Jalapeño junto a Broadcom, orientado a inferencia, y Anthropic estaba valorando diseñar sus propios chips."
-      ],
-      "conclusion": "El movimiento de DeepSeek hacia el desarrollo de sus propios chips de inteligencia artificial es significativo, ya que busca reducir costos, mejorar la eficiencia y disminuir su dependencia de terceros, lo que podría tener un impacto importante en la industria de la inteligencia artificial. Esto refleja una tendencia en el sector hacia la integración vertical y el control sobre la cadena de suministro."
+      "conclusion": "The rise of AI platforms and tools like Claude Code signals a significant shift in how software is developed, with potential long-term implications for the labor market and the future of work. This trend matters because it indicates a permanent change in the way coding tasks are approached, with AI taking on more responsibilities."
     }
   ]
 }
