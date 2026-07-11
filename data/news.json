@@ -1,44 +1,153 @@
 {
-  "generated": "2026-07-10T08:17:43.400948",
-  "count": 12,
+  "generated": "2026-07-11T07:08:33.946906",
+  "count": 13,
   "articles": [
     {
-      "title": "SpaceX and AI startup wealth fuels demand for private jets",
-      "url": "https://www.theguardian.com/us-news/2026/jul/09/private-jets-ai-ipo-super-rich",
-      "image": "https://i.guim.co.uk/img/media/6f70dcdeb8c520552d42efbd5c630e47d7cd1660/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=02a58b3e6670bf631a7c2a6d17bea942",
+      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+      "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/llm-crystal-globe_1.jpg?resize=1200,600",
+      "source": "MIT Tech Review",
+      "language": "en",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "Anthropic researchers have developed a tool to peek inside large language models, gaining insight into their inner workings. This tool, called the Jacobian lens, was used to study the company's flagship model, Claude. The study's findings have implications for our understanding of AI decision-making processes.",
+      "datos": [
+        "1943: The year psychologist B.F. Skinner led a secret government project to train pigeons to guide missiles",
+        "Vijay Janapa Reddi: An engineering professor at Harvard University who has expressed skepticism about grand plans for AI",
+        "J-space: The name given to the hidden area inside Claude containing words related to the model's responses",
+        "Reinforcement learning: The technology behind some of today's most advanced AI systems, which was influenced by Skinner's experiments",
+        "NASA plans to launch three uncrewed missions to the Moon this year"
+      ],
+      "conclusion": "The ability to understand and analyze the inner workings of large language models has significant implications for the development of more advanced and reliable AI systems. This insight can help improve the performance and decision-making processes of AI models like Claude."
+    },
+    {
+      "title": "Apple sues OpenAI, alleging artificial intelligence company stole trade secrets",
+      "url": "https://www.theguardian.com/technology/2026/jul/10/apple-sues-openai-trade-secrets",
+      "image": "https://i.guim.co.uk/img/media/5272116c50862c7e9e98659c6272a969cab06a2c/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ce4d872cd87b380ec5dbe6394a1001b8",
       "source": "The Guardian AI",
       "language": "en",
       "topic": "ai",
       "topic_label": "IA & Agentes",
-      "que_paso": "The surge in wealth from AI startups and SpaceX has led to a significant increase in demand for private jets, with many tech investors and entrepreneurs seeking to purchase or charter aircraft. This trend is being driven by the anticipated IPOs of companies such as Anthropic and OpenAI, as well as the recent IPO of SpaceX, which raised a record $85.7bn. The private jet sector is benefiting from the influx of new wealth in the tech industry, with luxury travel companies targeting tech entrepreneurs and venture capitalists.",
+      "que_paso": "The lawsuit filed by Apple against OpenAI is a significant development in the tech industry, particularly given the two companies' previous partnership. The move is seen as a major escalation in the competition between tech giants, with Apple seeking to protect its intellectual property. This comes after OpenAI's recent foray into hardware, an area where Apple has traditionally been a major player.",
       "datos": [
-        "$85.7bn",
-        "25% increase in business at Soar Aviation Law",
-        "11.8% rise in flights through shared-ownership programs globally",
-        "13.4% increase in flights operated by private jet owners",
-        "$6m to $70m cost of buying a jet",
-        "24% rise in business jet deliveries during the dotcom boom"
+        "OpenAI spent $6.4bn to acquire a hardware startup founded by former Apple design guru Jony Ive",
+        "Tang Yew Tan, OpenAI's chief hardware officer, is a former vice-president at Apple",
+        "Chang Liu, another former Apple employee, is accused of taking an Apple laptop and downloading dozens of confidential hardware-related files",
+        "Apple alleges that OpenAI encouraged interviewees to divulge confidential company information during 'show and tell' sessions",
+        "The lawsuit names io Products, a startup founded by Jony Ive, as a defendant",
+        "Apple is seeking damages and a court order to block OpenAI from possessing or using its trade secrets"
       ],
-      "conclusion": "The demand for private jets is likely to continue growing as the tech industry generates more wealth, particularly with the anticipated IPOs of AI companies. This trend has significant implications for the private aviation industry, which is poised to benefit from the influx of new wealth and the growing demand for luxury travel options."
+      "conclusion": "The lawsuit highlights the intense competition in the tech industry, particularly in the area of artificial intelligence, and the importance of protecting intellectual property. The outcome of this case could have significant implications for the development of AI and hardware technologies, and the future partnerships between major tech companies."
     },
     {
-      "title": "Ningún otro mamífero puede sobrevivir a temperaturas corporales más bajas que esta ardilla: su cerebro se enfría hasta los 0 °C",
-      "url": "https://www.eldiario.es/spin/mundo-animal/mamifero-sobrevivir-temperaturas-corporales-bajas-ardilla-cerebro-enfria-0-0c-pm_1_13367564.html",
-      "image": "https://static.eldiario.es/clip/7c48646c-1655-451e-bfc9-28ce7a92d67c_facebook-watermarked-aspect-ratio-1200-675_default_0.jpg",
+      "title": "Galactic Empire Roll Out Dates For Their September North American Tour",
+      "url": "https://www.theprp.com/2026/07/10/news/galactic-empire-roll-out-dates-for-their-september-north-american-tour/",
+      "image": "https://www.theprp.com/app/uploads/2026/07/galacticempirelarge-1200x675.webp",
+      "source": "The PRP",
+      "language": "en",
+      "topic": "science",
+      "topic_label": "Ciencia",
+      "que_paso": "Galactic Empire, a cinematic metal band known for their movie score covers, is set to embark on a North American tour. The band's music repertoire includes reworked compositions from Star Wars and other hit films. This tour follows their previous performances, where they showcased their unique sound.",
+      "datos": [
+        "09/04 is the start date of the tour in Nashville, TN",
+        "14 cities are scheduled to be visited during the tour",
+        "Ottawa Comiccon and Quebec Comiccon are two comiccons included in the tour",
+        "10/10 is the date of the Quebec Comiccon show",
+        "The Glass House in Pomona, CA is one of the venues",
+        "The tour spans across September and October"
+      ],
+      "conclusion": "The Galactic Empire tour is a significant event for fans of cinematic metal and movie score covers, offering a unique musical experience. The tour's schedule and venues provide opportunities for fans across North America to attend and enjoy the band's performances."
+    },
+    {
+      "title": "Ni Manuel ni Paco del Campo ni Sor Catalina son reales: la red de perfiles de IA “españoles” que mete miedo con la salud para venderte libros",
+      "url": "https://maldita.es/desinfo/20260710/cuentas-ia-instagram-facebook-salud-libros/",
+      "image": "https://files.maldita.es/uploads/images/2026/07/6a51228b538bbred-perfiles-ia-salud-instagram-facebook-webp.webp",
+      "source": "Maldita.es",
+      "language": "es",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "Una red de perfiles en Instagram y Facebook, que simulan ser personas en España, utiliza inteligencia artificial para ganar la confianza de sus seguidores y venderles libros en formato PDF con información sobre salud sin base científica. Estos perfiles, como Paco del Campo, Manuel del Campo y Sor Catalina, han logrado captar la atención de más de 3,5 millones de seguidores y han generado más de 70,5 millones de visualizaciones en sus vídeos más virales. La red de perfiles utiliza técnicas de desinformación y mensajes alarmantes para llevar a los usuarios a sitios web donde se venden los libros.",
+      "datos": [
+        "3,5 millones de seguidores en total",
+        "70,5 millones de visualizaciones en vídeos virales",
+        "11,75€ es el precio medio de los manuales en PDF",
+        "16 cuentas de Instagram y Facebook han sido analizadas",
+        "429.000 veces ha sido visto el vídeo de @losremediosdevicente",
+        "935.000 seguidores en Instagram tiene la cuenta de Paco del Campo"
+      ],
+      "conclusion": "La existencia de esta red de perfiles destaca la importancia de verificar la información y las fuentes antes de tomar decisiones relacionadas con la salud, y pone en evidencia la necesidad de que las plataformas sociales tomen medidas para prevenir la desinformación y el fraude. La falta de regulación y control en este tipo de plataformas puede tener consecuencias negativas para los usuarios."
+    },
+    {
+      "title": "25 años sin Claude Shannon, el matemático que nos enseñó a medir la información",
+      "url": "https://www.eldiario.es/sociedad/25-anos-claude-shannon-matematico-enseno-medir-informacion_1_13330362.html",
+      "image": "https://static.eldiario.es/clip/4fff39e7-34a5-44c7-bcba-15bdf5a801d3_facebook-watermarked-aspect-ratio-1200-675_default_0.jpg",
       "source": "elDiario.es",
       "language": "es",
       "topic": "ai",
       "topic_label": "IA & Agentes",
-      "que_paso": "La ardilla terrestre ártica es capaz de sobrevivir a temperaturas corporales extremadamente bajas durante su hibernación, lo que la convierte en un objeto de estudio interesante para científicos que buscan comprender mejor este proceso y aplicar sus conocimientos en beneficio de la medicina y la exploración espacial. Estos pequeños mamíferos se esconden bajo tierra en regiones como Canadá, Alaska y Siberia durante el invierno, y su capacidad para adaptarse a estas condiciones extremas ha llamado la atención de investigadores de todo el mundo. La hibernación de estas ardillas puede durar hasta ocho o nueve meses, durante los cuales su metabolismo y temperatura corporal se reducen drásticamente.",
+      "que_paso": "Claude Shannon, un matemático y ingeniero estadounidense, desarrolló una teoría matemática de la comunicación que revolucionó la forma en que se entiende y se mide la información. Su trabajo se centró en la manera óptima de codificar y transmitir mensajes desde un emisor hasta un receptor. Shannon estudió la probabilidad de que ciertos mensajes fueran enviados y asignó una cantidad de información a cada uno en función de su probabilidad.",
       "datos": [
-        "La temperatura del cerebro de la ardilla terrestre ártica puede descender hasta los 0 °C durante la hibernación.",
-        "Su abdomen puede alcanzar temperaturas de -2 °C y sus extremidades de -2,9 °C.",
-        "La temperatura corporal normal de la ardilla en los meses de verano es de 37 °C.",
-        "La hibernación de la ardilla terrestre ártica puede durar hasta ocho o nueve meses al año.",
-        "La especie Urocitellus parryii ha sido objeto de estudio en The New York Academy of Sciences.",
-        "La NASA está financiando investigaciones sobre este animal para comprender mejor cómo funciona el cuerpo humano en un entorno sin gravedad."
+        "Claude Shannon nació en 1916 y falleció en 2001",
+        "La letra 'e' se codifica con un único punto (·) en morse",
+        "La probabilidad de que un telegrafista envíe la letra 'e' es mayor que la de la letra 'j' o 'z'",
+        "La entropía de Shannon se mide en bits y cuantifica el ritmo al que una fuente genera información",
+        "Un mensaje con una probabilidad de 1 tiene una entropía de cero bits"
       ],
-      "conclusion": "La comprensión de la hibernación de la ardilla terrestre ártica puede tener implicaciones significativas para el desarrollo de nuevas terapias y estrategias de preservación muscular y neuroprotección, lo que podría ser beneficioso para la medicina y la exploración espacial. El estudio de estas adaptaciones extremas puede proporcionar conocimientos valiosos para mejorar la salud y el bienestar humano en condiciones extremas."
+      "conclusion": "La teoría de Shannon sobre la información es fundamental para la compresión y transmisión de datos, y su concepto de entropía sigue siendo crucial en la actualidad para entender cómo funciona la comunicación digital. Su legado sigue influyendo en el desarrollo de tecnologías de la información y la comunicación."
+    },
+    {
+      "title": "OpenAI quería simplificar sus productos de IA. Ha terminado con una ensalada de ChatGPT, Atlas y Codex",
+      "url": "https://www.xataka.com/robotica-e-ia/openai-queria-simplificar-sus-productos-ia-ha-terminado-ensalada-chatgpt-atlas-codex",
+      "image": "https://i.blogs.es/96c26d/openai-portada/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "OpenAI está reorganizando sus productos de inteligencia artificial, lo que implica cambios en la experiencia del usuario y la forma en que se accede a diferentes herramientas. La compañía busca concentrar funciones y simplificar su oferta, aunque esto puede requerir que los usuarios se adapten a una nueva forma de trabajar. Esto sucede en un contexto de competencia creciente en el mercado de la inteligencia artificial, con otros actores como Google y Perplexity ofreciendo soluciones alternativas.",
+      "datos": [
+        "La aplicación de escritorio de ChatGPT ahora se llama ChatGPT Classic",
+        "La nueva aplicación de ChatGPT combina Chat, Work y Codex en un solo entorno",
+        "Atlas será retirado el 9 de agosto de 2026",
+        "La nueva experiencia de escritorio está disponible en macOS y Windows",
+        "Google está desplegando Gemini en Chrome, aunque por ahora no está disponible en España"
+      ],
+      "conclusion": ""
+    },
+    {
+      "title": "No es que un centro de datos de Meta consuma mucha o poca agua. Es que está contaminándola",
+      "url": "https://www.xataka.com/robotica-e-ia/no-que-centro-datos-meta-consuma-mucha-poca-agua-que-esta-contaminandola",
+      "image": "https://i.blogs.es/6efc0d/meta-contaminacion/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "Un centro de datos de Meta en Cheyenne, Wyoming, ha sido clausurado por verter aguas contaminadas con la bacteria Cupriavidus gilardii al alcantarillado público. La bacteria se detectó durante pruebas rutinarias de contaminación fecal y se ha prohibido a todos los centros de datos verter residuos a la red de agua potable. La investigación está en curso para determinar el origen exacto del patógeno dentro de las instalaciones.",
+      "datos": [
+        "La bacteria Cupriavidus gilardii es un patógeno oportunista que rara vez infecta a humanos, pero puede causar la muerte.",
+        "Se han conocido siete casos de muerte causada por Cupriavidus gilardii.",
+        "El centro de datos de Meta estaba utilizando el proceso conocido como fill and flush, que implica llenar sistemas de refrigeración con agua y purgarlos antes de la puesta en marcha.",
+        "La autoridad de aguas de Cheyenne ha prohibido a todos los centros de datos verter residuos a la red de agua potable.",
+        "El sistema de alcantarillado donde se localizó la bacteria va a una planta donde se tratan aguas residuales que después son reutilizadas en espacios públicos como parques."
+      ],
+      "conclusion": ""
+    },
+    {
+      "title": "Microsoft se marcó un objetivo climático para 2030. Convertirse en una compañía de IA ha hecho que el plan salte por los aires",
+      "url": "https://www.xataka.com/energia/microsoft-se-marco-objetivo-climatico-para-2030-convertirse-compania-ia-ha-hecho-que-plan-salte-aires",
+      "image": "https://i.blogs.es/a0a012/centros-de-datos/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "Microsoft se había propuesto ser una compañía 'carbon negative' para 2030, pero el crecimiento de sus centros de datos y la inteligencia artificial ha hecho que sus emisiones de CO2 aumenten. La compañía había empezado a investigar formas de reducir su huella de carbono, pero el impulso de la IA ha cambiado sus prioridades. Ahora, la empresa se enfrenta a un desafío para equilibrar su crecimiento con sus objetivos medioambientales.",
+      "datos": [
+        "Las emisiones totales de Microsoft pasaron de 16 millones de toneladas de CO2 a 20 millones de toneladas netas en el último año fiscal.",
+        "La empresa emitió 34 millones de toneladas de CO2, pero compró créditos de carbono para reducir su huella de carbono a 20 millones de toneladas.",
+        "El consumo eléctrico de Microsoft aumentó un 26% en 2024, pasando de 23,6 TWh a 29,8 TWh.",
+        "La huella de carbono de Microsoft es comparable a la de países como Panamá o Lituania.",
+        "El 96% de la huella de carbono de Microsoft se debe a la categoría Scope 3, que incluye los materiales de construcción de los centros de datos y los bienes y servicios adquiridos."
+      ],
+      "conclusion": "El crecimiento de la inteligencia artificial y los centros de datos está poniendo en peligro los objetivos medioambientales de Microsoft, lo que destaca la necesidad de encontrar un equilibrio entre el crecimiento tecnológico y la sostenibilidad ambiental. Esto tiene implicaciones importantes para la industria tecnológica en general, ya que otras empresas como Amazon y Google también enfrentan desafíos similares."
     },
     {
       "title": "South Korea chip maker SK hynix rides AI boom raising $26.5bn in huge US listing",
@@ -48,181 +157,89 @@
       "language": "en",
       "topic": "ai",
       "topic_label": "IA & Agentes",
-      "que_paso": "SK hynix, a major supplier of advanced memory chips, is taking advantage of the global AI boom by listing on the US stock market. The company's profits have skyrocketed due to the increasing demand for AI datacentres. This listing is part of the company's plan to expand its operations and increase its market share in the memory chip market.",
+      "que_paso": "SK hynix, a major supplier of advanced memory chips, is taking advantage of the global AI boom to raise funds through a massive US listing. The company's profits have skyrocketed due to the increasing demand for AI datacentres, and it plans to use the proceeds to fund various projects, including the construction of a new semiconductor cluster. This move is part of the company's efforts to strengthen its position in the memory chip market, where it competes with domestic rival Samsung Electronics.",
       "datos": [
-        "$26.5bn is the amount SK hynix aims to raise in its US listing",
-        "18m shares will be issued on the Nasdaq index",
-        "220% is the increase in SK hynix's stock price this year in Seoul",
-        "2019 was the year Saudi Aramco raised $25.6bn in its debut",
-        "$1tn is the market capitalisation of SK hynix on the Kospi index",
-        "800tn won is the amount of public-private investment for a new chip hub in southwest South Korea"
+        "$26.5bn",
+        "18m shares",
+        "220% increase in stock price this year",
+        "2019 $25.6bn debut by Saudi Aramco",
+        "800tn won public-private investment for a new chip hub in southwest South Korea"
       ],
-      "conclusion": "The successful listing of SK hynix on the US stock market has significant implications for the company's growth and expansion plans, particularly in the memory chip market. This development also highlights the importance of the AI boom in driving the growth of the semiconductor industry."
+      "conclusion": "The successful listing of SK hynix highlights the significant growth opportunities in the AI chip market, and the company's plans to invest in new projects will likely further solidify its position in the industry. This development has important implications for the global semiconductor market and the future of AI technology."
     },
     {
-      "title": "El fin de los discos físicos de PlayStation marca el fin de una era en los videojuegos",
-      "url": "https://www.eldiario.es/tecnologia/discos-fisicos-playstation-marca-videojuegos_1_13364550.html",
-      "image": "https://static.eldiario.es/clip/0356a7b6-a9fc-4c02-888a-3b1ffeafba13_facebook-watermarked-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "La decisión de Sony de dejar de producir videojuegos en formato físico a partir de 2028 marca un cambio significativo en la industria de los videojuegos. Esta medida se debe a la preferencia cada vez mayor de los consumidores por los formatos digitales y busca adaptarse a las tendencias de consumo actuales. La industria de los videojuegos se enfrenta a desafíos económicos, con Sony y Xbox atravesando problemas financieros.",
-      "datos": [
-        "El 85% de las ventas de videojuegos de Sony durante el último trimestre fueron digitales.",
-        "La facturación de la industria de los videojuegos se acerca a los 175.000 millones de euros al año.",
-        "Sony arrastra un agujero de pérdidas de unos 480 millones de euros solo en el último trimestre debido al fracaso de la compra del estudio Bungie.",
-        "Xbox anunció el despido de 3.400 trabajadores esta semana.",
-        "El lanzamiento del esperado GTA VI está previsto para el 19 de noviembre y no tendrá una versión física."
-      ],
-      "conclusion": ""
-    },
-    {
-      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/llm-crystal-globe_1.jpg?resize=1200,600",
-      "source": "MIT Tech Review",
-      "language": "en",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "Anthropic, an AI firm, has developed a tool called the Jacobian lens to uncover a hidden area inside its large language model, Claude Opus 4.6. The company's researchers used this tool to gain insight into the model's internal workings, revealing a space where the model considers concepts before generating responses. This discovery is part of the field of mechanistic interpretability, which aims to understand how large language models process information.",
-      "datos": [
-        "Anthropic released Claude Opus 4.6, a version of its flagship LLM, in February",
-        "The J-lens tool can identify words that an LLM is likely to produce at some point in the near future",
-        "Anthropic has teamed up with Neuronpedia to create a hands-on demo of the J-lens tool",
-        "Tom McGrath, chief scientist and cofounder at Goodfire, described the work as 'very good and interesting'",
-        "MIT Technology Review picked mechanistic interpretability as one of this year's top breakthrough technologies",
-        "The J-lens tool builds on previous work from Anthropic and others to expose a deeper level inside LLMs"
-      ],
-      "conclusion": "The discovery of the hidden space in Claude Opus 4.6 has significant implications for the development of more transparent and controllable large language models, allowing researchers to better understand how these models process information and generate responses. This breakthrough has the potential to improve the overall performance and reliability of LLMs."
-    },
-    {
-      "title": "The Pollution Being Churned Out by AI Data Centers Is So Severe That It’s Almost Incomprehensible",
-      "url": "https://futurism.com/artificial-intelligence/pollution-ai-data-centers-severe",
-      "image": "https://futurism.com/wp-content/uploads/2026/07/pollution-ai-data-centers-severe.jpg?w=1200",
-      "source": "Futurism",
-      "language": "en",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "The rapid growth of AI data centers in the US, particularly in Texas, has led to a significant increase in pollution due to the use of fossil fuel-powered onsite gas plants. Companies are exploiting regulatory loopholes to construct new facilities, contributing to the climate crisis. The situation has raised concerns among environmental groups and scientists, who are racing to understand the environmental footprint of the AI industry.",
-      "datos": [
-        "Texas has become the epicenter of the US's AI data center construction, with a growth rate surpassed only by China globally",
-        "The AI industry could represent 24 to 44 million metric tons of carbon dioxide emissions by 2030",
-        "At least 38 data centers in Texas are using regulatory loopholes to gain permits for onsite power sources",
-        "These data centers feature over 2,100 backup diesel generators, resulting in yearly emissions of 2,500 tons of nitrogen oxides",
-        "The Abilene, Texas project has 62 diesel backup generators, making it significantly larger than smaller ventures"
-      ],
-      "conclusion": "The pollution emitted by AI data centers poses a significant threat to the environment, and the lack of effective regulation and public participation in the permitting process has made it challenging to mitigate the issue. The practical takeaway is that addressing this problem requires proactive measures at the beginning of the development process to prevent further environmental damage."
-    },
-    {
-      "title": "OpenAI releases latest ChatGPT model after delay over White House cybersecurity concerns",
-      "url": "https://www.theguardian.com/technology/2026/jul/09/trump-administration-openai-chatgpt-cybersecurity",
-      "image": "https://i.guim.co.uk/img/media/d9aa4c205d635431946c06fdc96e41b643f8bd5c/508_0_5033_4024/master/5033.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1d65579b058892058e28ca306df47cd1",
+      "title": "‘AI accountability agenda’: US senator unveils package of bills to curb tech’s harms",
+      "url": "https://www.theguardian.com/technology/2026/jul/10/us-senator-unveils-ai-accountability-agenda-bills",
+      "image": "https://i.guim.co.uk/img/media/429a0ba83b3596a0e670ad87de729f1e68471a7a/683_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=234d5dda9d2305c666dc1d18de5fbe6b",
       "source": "The Guardian AI",
       "language": "en",
       "topic": "ai",
       "topic_label": "IA & Agentes",
-      "que_paso": "The US government had expressed concerns over the cybersecurity implications of OpenAI's latest ChatGPT model, leading to a delayed release. The Trump administration had requested that OpenAI limit the initial release to a small group of government-approved users. This move is part of a broader effort by the US government to regulate the development and deployment of advanced AI models.",
+      "que_paso": "US Senator Ed Markey has introduced a package of bills to regulate the harmful effects of artificial intelligence, citing concerns over datacenters, workplace surveillance, and algorithmic bias. The proposed legislation is part of Markey's 'AI accountability agenda', which aims to curb the negative impacts of AI on the environment, economy, and society. Markey's efforts come as AI technology becomes increasingly embedded in various industries, raising concerns over its unregulated growth.",
       "datos": [
-        "ChatGPT 5.6 was released to the public on Thursday",
-        "The Trump administration requested that OpenAI limit the release to a small group of government-approved users last month",
-        "Anthropic’s latest AI models were subject to similar restrictions, resulting in a temporary export ban",
-        "OpenAI’s ChatGPT 5.6 claims to be its safest and most capable model yet",
-        "Anthropic announced a new round of funding in May, valuing the company at $965bn",
-        "OpenAI is reportedly seeking a valuation of $1tn for its own IPO"
+        "Senator Ed Markey has authored close to a dozen bills aimed at tackling AI-related problems",
+        "The proposed bill would require companies to obtain certification from the Federal Communications Commission (FCC) before constructing datacenters",
+        "The FCC would evaluate proposed datacenters' potential effects on air and water quality, noise levels, energy costs, and local ecosystem",
+        "Markey's legislation includes bills to ban employers from primarily relying on automated systems for hiring and firing decisions",
+        "The proposed legislation would also require stronger safeguards for AI chatbot companies to prevent kids from becoming emotionally dependent on them",
+        "Markey is running for his third full term in the Senate"
       ],
-      "conclusion": "The delayed release of ChatGPT 5.6 highlights the growing tensions between the US government's desire to promote AI development and its need to address cybersecurity concerns. This balancing act will have significant implications for the future of AI regulation and development in the US."
+      "conclusion": "The proposed legislation matters because it highlights the need for regulatory oversight to mitigate the harmful effects of AI, ensuring that the technology is developed and deployed in a responsible and accountable manner. The practical takeaway is that policymakers must act quickly to establish clear guidelines and safeguards for AI development, lest the technology's negative consequences outweigh its benefits."
     },
     {
-      "title": "No, esta imagen de Cristiano Ronaldo y Georgina Rodríguez llorando en un coche no es real: ha sido generada con IA",
-      "url": "https://maldita.es/desinfo/20260709/esta-imagen-muestra-a-cristiano-ronaldo-y-georgina-rodriguez-llorando-en-un-coche-tras-eliminar-espana-a-portugal-del-mundial-2026/",
-      "image": "https://maldita.es/system/articles/24981/image",
+      "title": "Cuidado con los mensajes que alertan de que se hacen pasar por empleados del Instituto Nacional de Estadística y Censos para robar fotos y huellas digitales",
+      "url": "https://maldita.es/malditobulo/20260710/se-hacen-pasar-por-empleados-del-instituto-nacional-de-estadistica-y-censos-para-robar-fotos-y-huellas-digitales/",
+      "image": "https://maldita.es/system/articles/23445/image",
       "source": "Maldita.es",
       "language": "es",
       "topic": "ai",
       "topic_label": "IA & Agentes",
-      "que_paso": "La imagen de Cristiano Ronaldo y Georgina Rodríguez llorando en un coche ha generado controversia en las redes sociales. La imagen ha sido compartida por varios usuarios, lo que ha llevado a una investigación sobre su autenticidad. El contexto de la imagen se relaciona con el Mundial y la desinformación que se ha generado en torno a este evento.",
+      "que_paso": "Un mensaje de alerta está circulando en varios países, incluyendo España, advirtiendo sobre supuestos empleados del Instituto Nacional de Estadística y Censos que intentan robar fotos y huellas digitales. El mensaje parece ser una estafa, ya que el Instituto Nacional de Estadística de España (INE) y el Instituto Nacional de Estadística y Censos de Argentina (INDEC) han desmentido cualquier participación en dichas actividades. La cadena de mensajes ha estado circulando desde 2024 y ha sido detectada por el fact-checker argentino Chequeado.",
       "datos": [
-        "Maldita.es ha verificado varios bulos y desinformaciones sobre el Mundial",
-        "La investigación sobre mujeres creadas con IA se ha centrado en la venta de pornografía en Onlyfans o Fanvue",
-        "El evento 'El bulo del Mundial' permite a los usuarios votar",
-        "La imagen de Cristiano Ronaldo y Georgina Rodríguez ha sido generada con IA",
-        "El artículo no proporciona fechas específicas sobre la creación o publicación de la imagen"
+        "El INDEC de Argentina afirma que nunca solicita datos biométricos ni toma fotos.",
+        "El INE de España no ha enviado a ningún empleado para nada relacionado con el próximo censo.",
+        "El INE de España no hace visitas a domicilio para los censos.",
+        "La cadena de mensajes ha estado circulando desde 2024.",
+        "Chequeado, fact-checker argentino, alertó sobre la estafa.",
+        "A 3 de diciembre de 2025, las instituciones de seguridad de ambos países no han respondido a las consultas de Maldita.es."
       ],
-      "conclusion": "La capacidad de generar imágenes falsas con IA tiene implicaciones importantes en la lucha contra la desinformación y el bulo, especialmente en eventos de gran alcance como el Mundial. Es fundamental verificar la autenticidad de las imágenes y la información para evitar la propagación de bulos y desinformación."
+      "conclusion": "Es importante tener cuidado con este tipo de mensajes y no proporcionar información personal a desconocidos, ya que pueden ser estafas. La desinformación puede ser perjudicial, por lo que es fundamental verificar la información a través de fuentes confiables antes de compartir o actuar según la misma."
     },
     {
-      "title": "Hacer una mano robótica es \"100 veces más difícil\" que construir el robot entero. Estas empresas chinas están decididas a resolverlo",
-      "url": "https://www.xataka.com/robotica-e-ia/hacer-mano-robotica-100-veces-dificil-que-construir-robot-entero-estas-empresas-chinas-estan-decididas-a-resolverlo",
-      "image": "https://i.blogs.es/bf7413/magnific_elimina-el-ojo_sorrr1pub8/840_560.jpeg",
-      "source": "Xataka",
+      "title": "El calor extremo deja ya más de 30.000 hectáreas arrasadas, miles de evacuados y 12 muertos por los incendios en España",
+      "url": "https://www.eldiario.es/sociedad/calor-extremo-deja-30-000-hectareas-arrasadas-miles-evacuados-12-muertos-incendios-espana_1_13372118.html",
+      "image": "https://static.eldiario.es/clip/375cebce-1698-4c53-911b-29bb0392af2d_facebook-watermarked-aspect-ratio-1200-675_default_0.jpg",
+      "source": "elDiario.es",
       "language": "es",
-      "topic": "tech",
-      "topic_label": "Tecnología",
-      "que_paso": "Empresas chinas como LinkerBot y Wuji Technology están trabajando en el desarrollo de manos robóticas para humanoides, un componente clave para que estos robots sean útiles. El fundador de LinkerBot, Zhou Yong, destaca la complejidad de fabricar una mano robótica, que es cien veces más difícil que construir un humanoide entero. La ventaja de China en la cadena de suministro y la fabricación de hardware está permitiendo que estas empresas avancen en este campo.",
+      "topic": "science",
+      "topic_label": "Ciencia",
+      "que_paso": "La sequía y el calor extremo han provocado una serie de incendios forestales en España, afectando varias regiones, incluyendo Cataluña, Huelva, Huesca y Andalucía. Los incendios han sido particularmente devastadores en la provincia de Almería, donde se han registrado 12 muertos y 23 personas sin localizar. La situación se ha agravado debido a la falta de precipitaciones y el aumento de temperaturas extremas en la península ibérica desde mayo.",
       "datos": [
-        "La mano humana tiene 27 huesos, 34 músculos y un sinfín de terminaciones nerviosas.",
-        "Linkerbot fabrica 5.000 manos robóticas al mes.",
-        "El sector chino de manos robóticas facturó 7.400 millones de dólares el año pasado.",
-        "LinkerBot aspira a una valoración de 6.000 millones de dólares.",
-        "China ya fabrica el 90% de los robots humanoides del mundo.",
-        "Hay más de un millón de empresas registradas en el sector de la robótica en China, un 40% más que el año pasado."
+        "61.000 hectáreas arrasadas por el fuego desde mayo",
+        "34.000 hectáreas han ardido en 70 días",
+        "12 fallecidos en la provincia de Almería",
+        "23 personas sin localizar en la provincia de Almería",
+        "Un 18% por encima de la media de superficie afectada por incendios en junio",
+        "43.000 hectáreas afectadas por incendios a 28 de junio"
       ],
-      "conclusion": ""
+      "conclusion": "La crisis de incendios forestales en España subraya la importancia de abordar el cambio climático y sus efectos en la protección civil y el medio ambiente. La situación requiere una respuesta coordinada y efectiva para mitigar los impactos y prevenir futuras tragedias."
     },
     {
-      "title": "12 People Die in Southern Spain Wildfire",
-      "url": "https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html",
+      "title": "Flooding in Missouri Prompts State of Emergency and at Least 100 Rescues",
+      "url": "https://www.nytimes.com/2026/07/10/weather/missouri-rain-flooding.html",
       "image": "",
       "source": "New York Times",
       "language": "en",
       "topic": "ai",
       "topic_label": "IA & Agentes",
-      "que_paso": "A major wildfire broke out in the Almería province of Andalusia, Spain, prompting a large-scale operation to contain the blaze. The region has been experiencing heat waves, which have increased the risk of wildfires. The fire has had a significant impact on the local area, with emergency services working to bring it under control.",
+      "que_paso": "The state of Missouri is experiencing severe flooding due to heavy rainfall, prompting the governor to take action. The flooding is primarily affecting the southeastern part of the state. This declaration is in response to the immediate need for rescue and relief efforts.",
       "datos": [
-        "12 people have died in the wildfire",
-        "The fire is located in Almería province",
-        "The fire is in the Andalusia region of Spain",
-        "Heat waves have been affecting Europe this summer"
+        "Up to a foot of rain fell overnight",
+        "At least 100 rescues have been conducted",
+        "Gov. Mike Kehoe declared a state of emergency",
+        "The flooding is occurring in the southeastern part of Missouri"
       ],
-      "conclusion": "The wildfire in southern Spain highlights the increased risk of such disasters during heat waves, emphasizing the need for effective emergency response and prevention measures. It also underscores the importance of monitoring weather forecasts to anticipate and prepare for potential wildfires."
-    },
-    {
-      "title": "Las dos líneas más tórridas del Metro de Madrid ahora tienen aire, pero no basta para el calor: \"Llegas sudado al trabajo\"",
-      "url": "https://www.eldiario.es/madrid/somos/lineas-torridas-metro-madrid-ahora-aire-no-basta-calor-llegas-sudado-trabajo_1_13366447.html",
-      "image": "https://static.eldiario.es/clip/f59974f8-7280-4948-bedc-abbae0d8acf1_facebook-watermarked-aspect-ratio-1200-675_default_0_x604y456.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "topic": "science",
-      "topic_label": "Ciencia",
-      "que_paso": "La ciudad de Madrid se enfrenta a una ola de calor con alerta naranja, lo que ha generado críticas hacia los servicios públicos, especialmente el Metro, por la falta de aire acondicionado en algunos vagones y estaciones. Los usuarios han expresado su insatisfacción y han denunciado la situación, lo que ha llevado a la instalación de 40 aparatos refrigeradores en varias estaciones. A pesar de estas medidas, algunos usuarios siguen experimentando problemas de calor en sus trayectos diarios.",
-      "datos": [
-        "40 aparatos refrigeradores de gran tamaño se han instalado en varias estaciones del Metro de Madrid",
-        "La temperatura en Madrid ha rozado los 40 grados en los últimos días",
-        "La línea 1 y la 5 del Metro son las más problemáticas en cuanto a la falta de aire acondicionado",
-        "La estación de Gran Vía es una de las 20 donde se han colocado ventiladores gigantes",
-        "La instalación de los ventiladores se ha realizado por tercer año consecutivo",
-        "La línea 5 cuenta con ventiladores en estaciones como Callao, Alonso Martínez y Chueca"
-      ],
-      "conclusion": "La falta de aire acondicionado en el Metro de Madrid es un problema que afecta directamente a los usuarios y su comodidad, por lo que es fundamental que se tomen medidas efectivas para abordar esta situación y mejorar la experiencia del usuario. La instalación de ventiladores y la extensión del aire acondicionado a más líneas y estaciones son pasos en la dirección correcta, pero es necesario seguir trabajando para garantizar que los servicios públicos estén preparados para atender las necesidades de los ciudadanos en situaciones de calor extremo."
-    },
-    {
-      "title": "Incendio de Los Gallardos, última hora en directo: hay 12 muertos, 8 heridos y 19 personas no localizadas",
-      "url": "https://www.eldiario.es/andalucia/ultima-hora-incendio-gallardos-ume-suma-trabajos-fuego_133_13370167.html",
-      "image": "https://static.eldiario.es/clip/2b6fc9ee-3168-4c3e-81f7-5d136f0869f7_facebook-watermarked-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "El incendio de Los Gallardos, en la provincia de Almería, ha provocado una gran tragedia con múltiples víctimas mortales y heridos. La Junta de Andalucía y la Unidad Militar de Emergencias (UME) están trabajando juntas para sofocar el incendio y atender a las personas afectadas. El presidente andaluz, Juanma Moreno, se ha desplazado a la zona para coordinar los esfuerzos de respuesta a la emergencia.",
-      "datos": [
-        "12 personas han fallecido en el incendio de Los Gallardos",
-        "8 personas han resultado heridas, 4 de ellas de gravedad",
-        "19 personas siguen sin ser localizadas",
-        "Un millar de personas han sido desalojadas",
-        "El Grupo de Intervención Psicológica en Emergencias y Desastres ha habilitado el número de teléfono 677904624 para ofrecer atención a familiares de las personas afectadas"
-      ],
-      "conclusion": "El incendio de Los Gallardos es una tragedia sin precedentes en la región de Andalucía, y su impacto humano y material es grave. La respuesta efectiva de las autoridades y los servicios de emergencia es crucial para limitar el daño y atender a las personas afectadas."
+      "conclusion": "The state of emergency declaration and ongoing rescue efforts highlight the severity of the flooding situation in Missouri, emphasizing the need for prompt action to ensure public safety. This situation underscores the importance of emergency preparedness and response planning."
     }
   ]
 }
