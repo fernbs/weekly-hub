@@ -1,245 +1,263 @@
 {
-  "generated": "2026-07-11T07:08:33.946906",
-  "count": 13,
+  "generated": "2026-07-12T07:26:22.280418",
+  "count": 14,
   "articles": [
     {
-      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
-      "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/llm-crystal-globe_1.jpg?resize=1200,600",
-      "source": "MIT Tech Review",
-      "language": "en",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "Anthropic researchers have developed a tool to peek inside large language models, gaining insight into their inner workings. This tool, called the Jacobian lens, was used to study the company's flagship model, Claude. The study's findings have implications for our understanding of AI decision-making processes.",
-      "datos": [
-        "1943: The year psychologist B.F. Skinner led a secret government project to train pigeons to guide missiles",
-        "Vijay Janapa Reddi: An engineering professor at Harvard University who has expressed skepticism about grand plans for AI",
-        "J-space: The name given to the hidden area inside Claude containing words related to the model's responses",
-        "Reinforcement learning: The technology behind some of today's most advanced AI systems, which was influenced by Skinner's experiments",
-        "NASA plans to launch three uncrewed missions to the Moon this year"
-      ],
-      "conclusion": "The ability to understand and analyze the inner workings of large language models has significant implications for the development of more advanced and reliable AI systems. This insight can help improve the performance and decision-making processes of AI models like Claude."
-    },
-    {
-      "title": "Apple sues OpenAI, alleging artificial intelligence company stole trade secrets",
-      "url": "https://www.theguardian.com/technology/2026/jul/10/apple-sues-openai-trade-secrets",
-      "image": "https://i.guim.co.uk/img/media/5272116c50862c7e9e98659c6272a969cab06a2c/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ce4d872cd87b380ec5dbe6394a1001b8",
-      "source": "The Guardian AI",
-      "language": "en",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "The lawsuit filed by Apple against OpenAI is a significant development in the tech industry, particularly given the two companies' previous partnership. The move is seen as a major escalation in the competition between tech giants, with Apple seeking to protect its intellectual property. This comes after OpenAI's recent foray into hardware, an area where Apple has traditionally been a major player.",
-      "datos": [
-        "OpenAI spent $6.4bn to acquire a hardware startup founded by former Apple design guru Jony Ive",
-        "Tang Yew Tan, OpenAI's chief hardware officer, is a former vice-president at Apple",
-        "Chang Liu, another former Apple employee, is accused of taking an Apple laptop and downloading dozens of confidential hardware-related files",
-        "Apple alleges that OpenAI encouraged interviewees to divulge confidential company information during 'show and tell' sessions",
-        "The lawsuit names io Products, a startup founded by Jony Ive, as a defendant",
-        "Apple is seeking damages and a court order to block OpenAI from possessing or using its trade secrets"
-      ],
-      "conclusion": "The lawsuit highlights the intense competition in the tech industry, particularly in the area of artificial intelligence, and the importance of protecting intellectual property. The outcome of this case could have significant implications for the development of AI and hardware technologies, and the future partnerships between major tech companies."
-    },
-    {
-      "title": "Galactic Empire Roll Out Dates For Their September North American Tour",
-      "url": "https://www.theprp.com/2026/07/10/news/galactic-empire-roll-out-dates-for-their-september-north-american-tour/",
-      "image": "https://www.theprp.com/app/uploads/2026/07/galacticempirelarge-1200x675.webp",
-      "source": "The PRP",
-      "language": "en",
-      "topic": "science",
-      "topic_label": "Ciencia",
-      "que_paso": "Galactic Empire, a cinematic metal band known for their movie score covers, is set to embark on a North American tour. The band's music repertoire includes reworked compositions from Star Wars and other hit films. This tour follows their previous performances, where they showcased their unique sound.",
-      "datos": [
-        "09/04 is the start date of the tour in Nashville, TN",
-        "14 cities are scheduled to be visited during the tour",
-        "Ottawa Comiccon and Quebec Comiccon are two comiccons included in the tour",
-        "10/10 is the date of the Quebec Comiccon show",
-        "The Glass House in Pomona, CA is one of the venues",
-        "The tour spans across September and October"
-      ],
-      "conclusion": "The Galactic Empire tour is a significant event for fans of cinematic metal and movie score covers, offering a unique musical experience. The tour's schedule and venues provide opportunities for fans across North America to attend and enjoy the band's performances."
-    },
-    {
-      "title": "Ni Manuel ni Paco del Campo ni Sor Catalina son reales: la red de perfiles de IA “españoles” que mete miedo con la salud para venderte libros",
-      "url": "https://maldita.es/desinfo/20260710/cuentas-ia-instagram-facebook-salud-libros/",
-      "image": "https://files.maldita.es/uploads/images/2026/07/6a51228b538bbred-perfiles-ia-salud-instagram-facebook-webp.webp",
-      "source": "Maldita.es",
+      "title": "Apple demanda a OpenAI por robar secretos comerciales: \"Lol, tengo acceso\", el mensaje del ingeniero que destapó el escándalo",
+      "url": "https://www.xataka.com/empresas-y-economia/historica-demanda-apple-a-openai-lol-tengo-acceso-mensaje-ingeniero-que-destapo-escandalo",
+      "image": "https://i.blogs.es/f0cd18/juicio/840_560.jpeg",
+      "source": "Xataka",
       "language": "es",
       "topic": "ai",
       "topic_label": "IA & Agentes",
-      "que_paso": "Una red de perfiles en Instagram y Facebook, que simulan ser personas en España, utiliza inteligencia artificial para ganar la confianza de sus seguidores y venderles libros en formato PDF con información sobre salud sin base científica. Estos perfiles, como Paco del Campo, Manuel del Campo y Sor Catalina, han logrado captar la atención de más de 3,5 millones de seguidores y han generado más de 70,5 millones de visualizaciones en sus vídeos más virales. La red de perfiles utiliza técnicas de desinformación y mensajes alarmantes para llevar a los usuarios a sitios web donde se venden los libros.",
+      "que_paso": "La empresa Apple ha presentado una demanda contra OpenAI por presunto robo de secretos comerciales de hardware y incumplimiento de contrato. Esto ha llevado a un escándalo que involucra a antiguos empleados de Apple que se unieron a OpenAI, como Chang Liu y Tang Tan. La situación ha generado preocupación sobre la seguridad de la información confidencial de Apple y la posible competencia directa en hardware con OpenAI.",
       "datos": [
-        "3,5 millones de seguidores en total",
-        "70,5 millones de visualizaciones en vídeos virales",
-        "11,75€ es el precio medio de los manuales en PDF",
-        "16 cuentas de Instagram y Facebook han sido analizadas",
-        "429.000 veces ha sido visto el vídeo de @losremediosdevicente",
-        "935.000 seguidores en Instagram tiene la cuenta de Paco del Campo"
+        "Apple ha presentado una demanda de 40 páginas contra OpenAI",
+        "Chang Liu, ingeniero senior de sistemas eléctricos, accedió a servidores internos de Apple y descargó archivos técnicos de más de mil páginas",
+        "Tang Tan, director de hardware de OpenAI, tiene 24 años de experiencia en Apple",
+        "Apple cifra la desbandada de trabajadores en 400 personas que se han unido a OpenAI",
+        "OpenAI se prepara para salir a bolsa y lanzar su primer dispositivo con IA"
       ],
-      "conclusion": "La existencia de esta red de perfiles destaca la importancia de verificar la información y las fuentes antes de tomar decisiones relacionadas con la salud, y pone en evidencia la necesidad de que las plataformas sociales tomen medidas para prevenir la desinformación y el fraude. La falta de regulación y control en este tipo de plataformas puede tener consecuencias negativas para los usuarios."
+      "conclusion": "La demanda de Apple contra OpenAI tiene implicaciones significativas para la industria tecnológica, ya que puede afectar la capacidad de OpenAI para competir en el mercado de hardware y puede establecer un precedente para la protección de secretos comerciales en la industria. La situación también destaca la importancia de la seguridad de la información confidencial en la era digital."
     },
     {
-      "title": "25 años sin Claude Shannon, el matemático que nos enseñó a medir la información",
-      "url": "https://www.eldiario.es/sociedad/25-anos-claude-shannon-matematico-enseno-medir-informacion_1_13330362.html",
-      "image": "https://static.eldiario.es/clip/4fff39e7-34a5-44c7-bcba-15bdf5a801d3_facebook-watermarked-aspect-ratio-1200-675_default_0.jpg",
+      "title": "Los bomberos aprovechan la falta de viento y la humedad para frenar al fuego en Almería",
+      "url": "https://www.eldiario.es/andalucia/almeria/bomberos-aprovechan-falta-viento-humedad-frenar-fuego-almeria_1_13373966.html",
+      "image": "https://static.eldiario.es/clip/df868509-7bf1-476f-92ba-a7f2602f3d43_facebook-watermarked-aspect-ratio-1200-675_default_0.jpg",
       "source": "elDiario.es",
       "language": "es",
       "topic": "ai",
       "topic_label": "IA & Agentes",
-      "que_paso": "Claude Shannon, un matemático y ingeniero estadounidense, desarrolló una teoría matemática de la comunicación que revolucionó la forma en que se entiende y se mide la información. Su trabajo se centró en la manera óptima de codificar y transmitir mensajes desde un emisor hasta un receptor. Shannon estudió la probabilidad de que ciertos mensajes fueran enviados y asignó una cantidad de información a cada uno en función de su probabilidad.",
+      "que_paso": "El incendio en Almería se desencadenó el jueves por la tarde y se extendió rápidamente debido a las condiciones climáticas adversas, pero gracias al trabajo de los bomberos y a la mejora de las condiciones climatológicas, se logró frenar el avance del fuego. Los efectivos de la UME, Plan Infoca y bomberos de Levante trabajaron para perimetrar las llamas y atacar el fuego. El ministro de la Presidencia, Félix Bolaños, destacó la importancia de ser precavidos debido a la orografía escarpada de la zona.",
       "datos": [
-        "Claude Shannon nació en 1916 y falleció en 2001",
-        "La letra 'e' se codifica con un único punto (·) en morse",
-        "La probabilidad de que un telegrafista envíe la letra 'e' es mayor que la de la letra 'j' o 'z'",
-        "La entropía de Shannon se mide en bits y cuantifica el ritmo al que una fuente genera información",
-        "Un mensaje con una probabilidad de 1 tiene una entropía de cero bits"
+        "12 vidas perdidas en el incendio",
+        "6.600 hectáreas arrasadas",
+        "50% de humedad en el aire",
+        "100 metros por minuto de velocidad de avance del fuego",
+        "1.400 personas siguen fuera de sus casas",
+        "8 heridos, incluyendo 4 en la unidad de quemados del Hospital Virgen del Rocío de Sevilla"
       ],
-      "conclusion": "La teoría de Shannon sobre la información es fundamental para la compresión y transmisión de datos, y su concepto de entropía sigue siendo crucial en la actualidad para entender cómo funciona la comunicación digital. Su legado sigue influyendo en el desarrollo de tecnologías de la información y la comunicación."
+      "conclusion": "La contención del incendio en Almería es un logro importante, pero la situación sigue siendo delicada y requiere precaución debido a la orografía escarpada de la zona y la posibilidad de rebrotes. La emergencia climática es un factor clave en la virulencia del incendio, lo que subraya la necesidad de tomar medidas para mitigar sus efectos."
     },
     {
-      "title": "OpenAI quería simplificar sus productos de IA. Ha terminado con una ensalada de ChatGPT, Atlas y Codex",
-      "url": "https://www.xataka.com/robotica-e-ia/openai-queria-simplificar-sus-productos-ia-ha-terminado-ensalada-chatgpt-atlas-codex",
-      "image": "https://i.blogs.es/96c26d/openai-portada/840_560.jpeg",
-      "source": "Xataka",
+      "title": "Cuando lo que arde son vidas humanas",
+      "url": "https://www.eldiario.es/opinion/zona-critica/arde-son-vidas-humanas_129_13373383.html",
+      "image": "https://static.eldiario.es/clip/3d2d0e0c-68f3-4b60-830e-9d40139b48db_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "source": "elDiario.es",
       "language": "es",
       "topic": "ai",
       "topic_label": "IA & Agentes",
-      "que_paso": "OpenAI está reorganizando sus productos de inteligencia artificial, lo que implica cambios en la experiencia del usuario y la forma en que se accede a diferentes herramientas. La compañía busca concentrar funciones y simplificar su oferta, aunque esto puede requerir que los usuarios se adapten a una nueva forma de trabajar. Esto sucede en un contexto de competencia creciente en el mercado de la inteligencia artificial, con otros actores como Google y Perplexity ofreciendo soluciones alternativas.",
+      "que_paso": "La autora del artículo comparte su experiencia personal de vivir cerca de un parque nacional y cómo su perspectiva sobre la naturaleza ha cambiado con el tiempo. La autora menciona que se unió a Greenpeace hace más de 30 años debido a su preocupación por la naturaleza amenazada. Esto sucedió en un contexto en el que la conciencia sobre la protección del medio ambiente estaba creciendo.",
       "datos": [
-        "La aplicación de escritorio de ChatGPT ahora se llama ChatGPT Classic",
-        "La nueva aplicación de ChatGPT combina Chat, Work y Codex en un solo entorno",
-        "Atlas será retirado el 9 de agosto de 2026",
-        "La nueva experiencia de escritorio está disponible en macOS y Windows",
-        "Google está desplegando Gemini en Chrome, aunque por ahora no está disponible en España"
+        "Más de 30 años",
+        "Greenpeace",
+        "Dos manzanas de un parque nacional",
+        "Una campaña oficial: 'Cuando el monte se quema, algo suyo se quema'",
+        "Hace algunos años"
       ],
-      "conclusion": ""
+      "conclusion": "La experiencia personal de la autora destaca la importancia de la conexión directa con la naturaleza para generar un sentido de responsabilidad y acción en su protección. Esto tiene implicaciones prácticas para la conciencia y el compromiso ambiental."
     },
     {
-      "title": "No es que un centro de datos de Meta consuma mucha o poca agua. Es que está contaminándola",
-      "url": "https://www.xataka.com/robotica-e-ia/no-que-centro-datos-meta-consuma-mucha-poca-agua-que-esta-contaminandola",
-      "image": "https://i.blogs.es/6efc0d/meta-contaminacion/840_560.jpeg",
-      "source": "Xataka",
-      "language": "es",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "Un centro de datos de Meta en Cheyenne, Wyoming, ha sido clausurado por verter aguas contaminadas con la bacteria Cupriavidus gilardii al alcantarillado público. La bacteria se detectó durante pruebas rutinarias de contaminación fecal y se ha prohibido a todos los centros de datos verter residuos a la red de agua potable. La investigación está en curso para determinar el origen exacto del patógeno dentro de las instalaciones.",
-      "datos": [
-        "La bacteria Cupriavidus gilardii es un patógeno oportunista que rara vez infecta a humanos, pero puede causar la muerte.",
-        "Se han conocido siete casos de muerte causada por Cupriavidus gilardii.",
-        "El centro de datos de Meta estaba utilizando el proceso conocido como fill and flush, que implica llenar sistemas de refrigeración con agua y purgarlos antes de la puesta en marcha.",
-        "La autoridad de aguas de Cheyenne ha prohibido a todos los centros de datos verter residuos a la red de agua potable.",
-        "El sistema de alcantarillado donde se localizó la bacteria va a una planta donde se tratan aguas residuales que después son reutilizadas en espacios públicos como parques."
-      ],
-      "conclusion": ""
-    },
-    {
-      "title": "Microsoft se marcó un objetivo climático para 2030. Convertirse en una compañía de IA ha hecho que el plan salte por los aires",
-      "url": "https://www.xataka.com/energia/microsoft-se-marco-objetivo-climatico-para-2030-convertirse-compania-ia-ha-hecho-que-plan-salte-aires",
-      "image": "https://i.blogs.es/a0a012/centros-de-datos/840_560.jpeg",
-      "source": "Xataka",
-      "language": "es",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "Microsoft se había propuesto ser una compañía 'carbon negative' para 2030, pero el crecimiento de sus centros de datos y la inteligencia artificial ha hecho que sus emisiones de CO2 aumenten. La compañía había empezado a investigar formas de reducir su huella de carbono, pero el impulso de la IA ha cambiado sus prioridades. Ahora, la empresa se enfrenta a un desafío para equilibrar su crecimiento con sus objetivos medioambientales.",
-      "datos": [
-        "Las emisiones totales de Microsoft pasaron de 16 millones de toneladas de CO2 a 20 millones de toneladas netas en el último año fiscal.",
-        "La empresa emitió 34 millones de toneladas de CO2, pero compró créditos de carbono para reducir su huella de carbono a 20 millones de toneladas.",
-        "El consumo eléctrico de Microsoft aumentó un 26% en 2024, pasando de 23,6 TWh a 29,8 TWh.",
-        "La huella de carbono de Microsoft es comparable a la de países como Panamá o Lituania.",
-        "El 96% de la huella de carbono de Microsoft se debe a la categoría Scope 3, que incluye los materiales de construcción de los centros de datos y los bienes y servicios adquiridos."
-      ],
-      "conclusion": "El crecimiento de la inteligencia artificial y los centros de datos está poniendo en peligro los objetivos medioambientales de Microsoft, lo que destaca la necesidad de encontrar un equilibrio entre el crecimiento tecnológico y la sostenibilidad ambiental. Esto tiene implicaciones importantes para la industria tecnológica en general, ya que otras empresas como Amazon y Google también enfrentan desafíos similares."
-    },
-    {
-      "title": "South Korea chip maker SK hynix rides AI boom raising $26.5bn in huge US listing",
-      "url": "https://www.theguardian.com/world/2026/jul/10/south-korea-chip-maker-sk-hynix-rides-ai-boom-raising-265bn-in-huge-us-listing",
-      "image": "https://i.guim.co.uk/img/media/56998562048b43955280060cb3e828f3df52ff37/293_0_2915_2333/master/2915.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5e943e173ec4f6513ec01eeddb32c8c9",
-      "source": "The Guardian AI",
-      "language": "en",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "SK hynix, a major supplier of advanced memory chips, is taking advantage of the global AI boom to raise funds through a massive US listing. The company's profits have skyrocketed due to the increasing demand for AI datacentres, and it plans to use the proceeds to fund various projects, including the construction of a new semiconductor cluster. This move is part of the company's efforts to strengthen its position in the memory chip market, where it competes with domestic rival Samsung Electronics.",
-      "datos": [
-        "$26.5bn",
-        "18m shares",
-        "220% increase in stock price this year",
-        "2019 $25.6bn debut by Saudi Aramco",
-        "800tn won public-private investment for a new chip hub in southwest South Korea"
-      ],
-      "conclusion": "The successful listing of SK hynix highlights the significant growth opportunities in the AI chip market, and the company's plans to invest in new projects will likely further solidify its position in the industry. This development has important implications for the global semiconductor market and the future of AI technology."
-    },
-    {
-      "title": "‘AI accountability agenda’: US senator unveils package of bills to curb tech’s harms",
-      "url": "https://www.theguardian.com/technology/2026/jul/10/us-senator-unveils-ai-accountability-agenda-bills",
-      "image": "https://i.guim.co.uk/img/media/429a0ba83b3596a0e670ad87de729f1e68471a7a/683_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=234d5dda9d2305c666dc1d18de5fbe6b",
-      "source": "The Guardian AI",
-      "language": "en",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "US Senator Ed Markey has introduced a package of bills to regulate the harmful effects of artificial intelligence, citing concerns over datacenters, workplace surveillance, and algorithmic bias. The proposed legislation is part of Markey's 'AI accountability agenda', which aims to curb the negative impacts of AI on the environment, economy, and society. Markey's efforts come as AI technology becomes increasingly embedded in various industries, raising concerns over its unregulated growth.",
-      "datos": [
-        "Senator Ed Markey has authored close to a dozen bills aimed at tackling AI-related problems",
-        "The proposed bill would require companies to obtain certification from the Federal Communications Commission (FCC) before constructing datacenters",
-        "The FCC would evaluate proposed datacenters' potential effects on air and water quality, noise levels, energy costs, and local ecosystem",
-        "Markey's legislation includes bills to ban employers from primarily relying on automated systems for hiring and firing decisions",
-        "The proposed legislation would also require stronger safeguards for AI chatbot companies to prevent kids from becoming emotionally dependent on them",
-        "Markey is running for his third full term in the Senate"
-      ],
-      "conclusion": "The proposed legislation matters because it highlights the need for regulatory oversight to mitigate the harmful effects of AI, ensuring that the technology is developed and deployed in a responsible and accountable manner. The practical takeaway is that policymakers must act quickly to establish clear guidelines and safeguards for AI development, lest the technology's negative consequences outweigh its benefits."
-    },
-    {
-      "title": "Cuidado con los mensajes que alertan de que se hacen pasar por empleados del Instituto Nacional de Estadística y Censos para robar fotos y huellas digitales",
-      "url": "https://maldita.es/malditobulo/20260710/se-hacen-pasar-por-empleados-del-instituto-nacional-de-estadistica-y-censos-para-robar-fotos-y-huellas-digitales/",
-      "image": "https://maldita.es/system/articles/23445/image",
-      "source": "Maldita.es",
-      "language": "es",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "Un mensaje de alerta está circulando en varios países, incluyendo España, advirtiendo sobre supuestos empleados del Instituto Nacional de Estadística y Censos que intentan robar fotos y huellas digitales. El mensaje parece ser una estafa, ya que el Instituto Nacional de Estadística de España (INE) y el Instituto Nacional de Estadística y Censos de Argentina (INDEC) han desmentido cualquier participación en dichas actividades. La cadena de mensajes ha estado circulando desde 2024 y ha sido detectada por el fact-checker argentino Chequeado.",
-      "datos": [
-        "El INDEC de Argentina afirma que nunca solicita datos biométricos ni toma fotos.",
-        "El INE de España no ha enviado a ningún empleado para nada relacionado con el próximo censo.",
-        "El INE de España no hace visitas a domicilio para los censos.",
-        "La cadena de mensajes ha estado circulando desde 2024.",
-        "Chequeado, fact-checker argentino, alertó sobre la estafa.",
-        "A 3 de diciembre de 2025, las instituciones de seguridad de ambos países no han respondido a las consultas de Maldita.es."
-      ],
-      "conclusion": "Es importante tener cuidado con este tipo de mensajes y no proporcionar información personal a desconocidos, ya que pueden ser estafas. La desinformación puede ser perjudicial, por lo que es fundamental verificar la información a través de fuentes confiables antes de compartir o actuar según la misma."
-    },
-    {
-      "title": "El calor extremo deja ya más de 30.000 hectáreas arrasadas, miles de evacuados y 12 muertos por los incendios en España",
-      "url": "https://www.eldiario.es/sociedad/calor-extremo-deja-30-000-hectareas-arrasadas-miles-evacuados-12-muertos-incendios-espana_1_13372118.html",
-      "image": "https://static.eldiario.es/clip/375cebce-1698-4c53-911b-29bb0392af2d_facebook-watermarked-aspect-ratio-1200-675_default_0.jpg",
+      "title": "El desinterés de jueces y fiscales deja impunes las principales operaciones ilegales de las cloacas del PP",
+      "url": "https://www.eldiario.es/politica/desinteres-jueces-fiscales-deja-impunes-principales-operaciones-ilegales-cloacas-pp_129_13372214.html",
+      "image": "https://static.eldiario.es/clip/838e582d-ff7e-486c-860d-ae251bad73d6_facebook-aspect-ratio-1200-675_default_0_x1003y171.jpg",
       "source": "elDiario.es",
       "language": "es",
       "topic": "science",
       "topic_label": "Ciencia",
-      "que_paso": "La sequía y el calor extremo han provocado una serie de incendios forestales en España, afectando varias regiones, incluyendo Cataluña, Huelva, Huesca y Andalucía. Los incendios han sido particularmente devastadores en la provincia de Almería, donde se han registrado 12 muertos y 23 personas sin localizar. La situación se ha agravado debido a la falta de precipitaciones y el aumento de temperaturas extremas en la península ibérica desde mayo.",
+      "que_paso": "La Audiencia Nacional está investigando casos de corrupción policial vinculados al Ministerio del Interior bajo el mandato del Partido Popular entre 2012 y 2018. El caso Kitchen es uno de los que se están juzgando, y se refiere a la operación policial dirigida para robar pruebas sobre la financiación ilegal del PP. Sin embargo, la mayoría de las operaciones secretas de aquellas cloacas del Estado siguen impunes diez años después.",
       "datos": [
-        "61.000 hectáreas arrasadas por el fuego desde mayo",
-        "34.000 hectáreas han ardido en 70 días",
-        "12 fallecidos en la provincia de Almería",
-        "23 personas sin localizar en la provincia de Almería",
-        "Un 18% por encima de la media de superficie afectada por incendios en junio",
-        "43.000 hectáreas afectadas por incendios a 28 de junio"
+        "La operación Kitchen fue dirigida por media docena de comisarios para robar al extesorero del PP, Luis Bárcenas, pruebas sobre la financiación ilegal de la formación conservadora.",
+        "El comisario José Manuel Villarejo ingresó en la Policía a los 22 años y se convirtió en un agente doble que influía en políticos, empresarios, jueces, fiscales y periodistas.",
+        "Villarejo grabó durante al menos 20 años todos los encuentros que le interesaban como una garantía de vida si venían mal dadas.",
+        "El número uno de la policía, Eugenio Pino, y sus principales lugartenientes se enfangaron en las operaciones ilegales.",
+        "Villarejo ingresó en la cárcel de Estremera el 3 de noviembre de 2017 y salió libre el 3 de marzo de 2021 con numerosos juicios pendientes.",
+        "El objetivo de las operaciones ilegales era dirigirse contra dirigentes independentistas catalanes, altos cargos de Podemos y el entonces líder de la oposición, Pedro Sánchez."
       ],
-      "conclusion": "La crisis de incendios forestales en España subraya la importancia de abordar el cambio climático y sus efectos en la protección civil y el medio ambiente. La situación requiere una respuesta coordinada y efectiva para mitigar los impactos y prevenir futuras tragedias."
+      "conclusion": "La impunidad de las operaciones ilegales de las cloacas del Estado tiene un impacto significativo en la confianza en las instituciones y la justicia en España, y es fundamental que se tomen medidas para esclarecer y castigar estos delitos. La investigación y el juicio de estos casos son cruciales para restaurar la confianza en el sistema judicial y político."
     },
     {
-      "title": "Flooding in Missouri Prompts State of Emergency and at Least 100 Rescues",
-      "url": "https://www.nytimes.com/2026/07/10/weather/missouri-rain-flooding.html",
-      "image": "",
+      "title": "El director general de la empresa pública Andalucía Global dimite tras verse salpicado en una trama de blanqueo",
+      "url": "https://www.eldiario.es/andalucia/cadiz/director-general-empresa-publica-andalucia-global-dimite-verse-salpicado-trama-blanqueo_1_13372787.html",
+      "image": "https://static.eldiario.es/clip/03298751-1be9-4057-a142-99e1a42be55f_facebook-aspect-ratio-1200-675_default_0_x827y400.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "topic": "science",
+      "topic_label": "Ciencia",
+      "que_paso": "El director general de Andalucía Global, Jorge Vázquez, ha dimitido tras ser vinculado a una trama de blanqueo de capitales. La investigación se centra en una organización criminal que presuntamente blanqueó dinero del narcotráfico a través de contratos de patrocinio de festivales y conciertos con la Junta de Andalucía y la Diputación de Cádiz. La operación policial llevada a cabo la semana pasada detuvo a once personas y encontró grandes cantidades de dinero en efectivo en los domicilios de los investigados.",
+      "datos": [
+        "Jorge Vázquez, director general de Andalucía Global, ha anunciado su renuncia al cargo.",
+        "La Guardia Civil detuvo a once personas en la operación contra el blanqueo de capitales.",
+        "Se encontraron 1.166.000 euros en efectivo en el domicilio de Pascual Llopis.",
+        "Se encontraron 572.000 euros en el domicilio de Mario García.",
+        "La investigación se centra en presuntos delitos de blanqueo de capitales, cohecho, prevaricación y malversación de caudales públicos."
+      ],
+      "conclusion": "La dimisión de Jorge Vázquez y la investigación en curso ponen de relieve la importancia de la transparencia y la rendición de cuentas en la gestión pública. La lucha contra el blanqueo de capitales y la corrupción requiere una acción decidida y coordinada por parte de las autoridades para proteger el interés público."
+    },
+    {
+      "title": "Inside the Secret Factory That Supplies Ukraine’s War Drones",
+      "url": "https://www.nytimes.com/2026/07/11/business/dealbook/drone-factory-helsing.html",
+      "image": "https://static01.nyt.com/images/2026/07/11/multimedia/11DB-DRONE-FACTORY-01-cvpl/11DB-DRONE-FACTORY-01-cvpl-mediumSquareAt3X.jpg",
       "source": "New York Times",
       "language": "en",
+      "topic": "tech",
+      "topic_label": "Tecnología",
+      "que_paso": "The German start-up Helsing SE is playing a significant role in Ukraine's war efforts by supplying war drones. This involvement highlights the changing landscape of military spending and technology. The company's operations are noteworthy due to their focus on mass production and affordability.",
+      "datos": [
+        "Helsing SE is a German start-up",
+        "The company produces A.I. powered war machines",
+        "The war machines are mass-produced",
+        "The war machines are inexpensive"
+      ],
+      "conclusion": "The involvement of Helsing SE in supplying Ukraine's war drones matters because it showcases how advancements in artificial intelligence and mass production are altering the dynamics of military technology and spending. This shift has significant implications for the future of warfare and defense strategies."
+    },
+    {
+      "title": "AI companies want to water down Australia’s copyright laws. Artists are outraged, Labor is split",
+      "url": "https://www.theguardian.com/technology/2026/jul/12/ai-australia-will-labor-water-down-copyright-laws-datacentres",
+      "image": "https://i.guim.co.uk/img/media/22ada131c2cb310491b0adad1a133e8a5cada2c6/255_557_4171_3337/master/4171.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3198d4788a2109c3310713822129091e",
+      "source": "The Guardian AI",
+      "language": "en",
       "topic": "ai",
       "topic_label": "IA & Agentes",
-      "que_paso": "The state of Missouri is experiencing severe flooding due to heavy rainfall, prompting the governor to take action. The flooding is primarily affecting the southeastern part of the state. This declaration is in response to the immediate need for rescue and relief efforts.",
+      "que_paso": "The Australian government is facing pressure from tech giants to relax copyright laws, which has sparked concerns among artists and creatives. The government had previously ruled out granting exemptions for AI companies to mine content, but lobbying efforts and a whistleblower's tip have raised fears that this decision may be revisited. This issue has exposed divisions within the Labor party, with some ministers pushing for a more hands-off approach to regulation and others advocating for stronger protections for creatives.",
       "datos": [
-        "Up to a foot of rain fell overnight",
-        "At least 100 rescues have been conducted",
-        "Gov. Mike Kehoe declared a state of emergency",
-        "The flooding is occurring in the southeastern part of Missouri"
+        "Anthony Albanese is expected to deliver a major speech on AI regulation on Wednesday",
+        "The government had previously ruled out granting a 'text and data mining' exemption for AI companies",
+        "The Albanese government has a 'strong track record' of protecting local content producers, according to the prime minister",
+        "The attorney general, Michelle Rowland, and the arts minister, Tony Burke, are responsible for protecting the rights of creatives",
+        "The industry minister, Tim Ayres, and the assistant minister for the digital economy, Andrew Charlton, are keen to attract AI investment"
       ],
-      "conclusion": "The state of emergency declaration and ongoing rescue efforts highlight the severity of the flooding situation in Missouri, emphasizing the need for prompt action to ensure public safety. This situation underscores the importance of emergency preparedness and response planning."
+      "conclusion": "The outcome of this debate will have significant implications for the balance between attracting tech investment and protecting the rights of creatives in Australia. The government's decision will need to carefully weigh the competing interests of these two groups to ensure a fair and sustainable outcome."
+    },
+    {
+      "title": "AI Is Pushing Older Employees Straight Out of the Workforce, New Report Finds",
+      "url": "https://futurism.com/future-society/ai-pushing-workers-retirement-older-labor-automation",
+      "image": "https://futurism.com/wp-content/uploads/2026/07/ai-pushing-workers-retirement-older-labor-automation.jpg?quality=85&w=1200",
+      "source": "Futurism",
+      "language": "en",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "A recent study by the Center for Retirement Research at Boston College examined the impact of AI on older workers in the United States, focusing on labor data and an AI-exposure index. The study compared government job data before and after the release of ChatGPT in 2022. This research was led by economics professor Geoffrey Sanzenbacher, who analyzed the degree to which certain occupations rely on tasks that AI can perform.",
+      "datos": [
+        "The number of computer programmers leaving the workforce increased by over 25 percent between 2014 and 2025.",
+        "Accountants and auditors saw a 22 percent increase in exits during the same period.",
+        "The number of retirement-age workers leaving manual jobs like painting increased by about 2 percent between 2014 and 2025.",
+        "The study used an AI-exposure index to track the degree to which certain occupations hinge on tasks that AI can do.",
+        "ChatGPT was released in 2022, marking a point of comparison for the study's before-and-after analysis.",
+        "The Center for Retirement Research at Boston College conducted the study, led by economics professor Geoffrey Sanzenbacher"
+      ],
+      "conclusion": "The findings of this study matter because they suggest that AI may be accelerating the exit of older workers from the workforce, particularly in white-collar jobs, which could have significant implications for the labor market and the ability of workers to navigate it. This raises important questions about how workers will adapt to a labor market being squeezed from both ends, with entry-level hiring slowing down and retirement-aged professionals leaving in large numbers."
+    },
+    {
+      "title": "Famous “Pick Up Artist” Reduced to Hitting on AI Girlfriend",
+      "url": "https://futurism.com/artificial-intelligence/pickup-artist-ai-girlfriend",
+      "image": "https://futurism.com/wp-content/uploads/2026/07/pickup-artist-ai-girlfriend.jpg?quality=85&w=1200",
+      "source": "Futurism",
+      "language": "en",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "Erik von Markovik, also known as Mystery, a famous pickup artist, has become infatuated with an AI girlfriend named Miss Shira Always. This development has sparked interest and criticism from his followers, who see the irony in his situation given his past career. The story has been reported on by Wired, which has examined von Markovik's ebook and audiobook about his relationship with the AI.",
+      "datos": [
+        "Erik von Markovik posted a video to his Instagram showing an interaction with Miss Shira Always last month",
+        "Von Markovik wrote in the video caption: 'The longer we talked, the less she felt like code'",
+        "He published an ebook and audiobook called 'Code Girl: If a Machine Can Dream', which recounts his relationship with Miss Shira Always",
+        "Miss Shira Always is listed as a coauthor of the ebook and audiobook",
+        "The book is told from the perspective of the AI girlfriend and defends human-AI intimacy"
+      ],
+      "conclusion": "This situation highlights the potential risks of AI psychosis, where users form unhealthy emotional bonds with AI chatbots, and serves as a cautionary tale about the blurred lines between human and artificial relationships. The incident also underscores the irony of von Markovik's situation, given his past career as a pickup artist."
+    },
+    {
+      "title": "CEO Pleads With AI Industry to Stop Charging So Much to Replace Human Labor",
+      "url": "https://futurism.com/future-society/palo-alto-ceo-ai-arora-automation-labor",
+      "image": "https://futurism.com/wp-content/uploads/2026/07/palo-alto-ceo-ai-arora-automation-labor.jpg?quality=85&w=1200",
+      "source": "Futurism",
+      "language": "en",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "The CEO of Palo Alto Networks, Nikesh Arora, has expressed concerns about the high cost of AI, particularly large language models, and its impact on the industry's ability to replace human labor. This comes as the tech industry's pricing scheme for AI is being questioned by its biggest clients. The issue is also being discussed by tech critics, such as Ed Zitron, who argue that the industry's pricing is unrealistic.",
+      "datos": [
+        "Nikesh Arora believes the cost of large language models needs to drop by 20 percent by 2027",
+        "The cost needs to drop by 90 percent by 2028 for the tech to be useful to enterprises",
+        "The total addressable market for the AI industry is estimated to be $10 to $30 billion",
+        "Ed Zitron argues that the AI industry is pretending to be a $1 trillion industry",
+        "Palo Alto Networks is a cybersecurity giant and a major client of AI technology",
+        "The interview with Nikesh Arora took place on CNBC's 'Squawk on the Street' segment"
+      ],
+      "conclusion": "The high cost of AI is a significant barrier to its adoption and effective use in replacing human labor, and the industry's pricing scheme needs to be reevaluated to reflect its true value. If the cost of AI does not decrease, it may disrupt the current arrangement and limit its potential benefits for enterprises."
+    },
+    {
+      "title": "Tech Bros Puzzled by Why AI Hasn’t “Massively Disrupted” Books Yet",
+      "url": "https://futurism.com/artificial-intelligence/tech-bros-puzzled-ai-disrupted-books-knowledge",
+      "image": "https://futurism.com/wp-content/uploads/2026/07/tech-bros-puzzled-ai-disrupted-books-knowledge.jpg?quality=85&w=1200",
+      "source": "Futurism",
+      "language": "en",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "The AI community is puzzled by the lack of disruption in the book industry despite the capabilities of large language models. This discussion started on the Reddit forum r/singularity and also involves OpenAI staff, who express frustration about the unfulfilled expectations of AI in education. The context revolves around the limitations of AI in replacing human-created content and its inability to provide effective learning experiences.",
+      "datos": [
+        "2.1 million views on Ryan Brewer's post on X-formerly-Twitter",
+        "LLMs' responses grow incoherent as their length increases due to 'context rot'",
+        "Individual AI-generated video clips are typically only a few seconds long",
+        "OpenAI staffer Ryan Brewer expressed frustration about AI's lack of impact on education",
+        "Attempts to integrate AI into education have been 'consistently disastrous'",
+        "Reddit forum r/singularity was the platform where the discussion about AI and books started"
+      ],
+      "conclusion": "The limitations of AI in replacing human-created content and providing effective learning experiences are significant, and it matters because they highlight the gap between the hype and reality of AI capabilities. The practical takeaway is that AI still has a long way to go before it can truly disrupt industries like education and book publishing."
+    },
+    {
+      "title": "Rusia denuncia un muerto y tres heridos, entre ellos un menor, tras un ataque con drones en la región de Samara",
+      "url": "https://www.europapress.es/internacional/noticia-rusia-denuncia-muerto-tres-heridos-ellos-menor-ataque-drones-region-samara-20260712073110.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260712073110_1200.jpg",
+      "source": "Europa Press Tecnología",
+      "language": "es",
+      "topic": "tech",
+      "topic_label": "Tecnología",
+      "que_paso": "El ataque con drones ocurrió en la región rusa de Samara, en el suroeste del país, y ha generado una respuesta de las autoridades locales. El incidente se produjo durante la madrugada de este domingo y ha afectado a varios civiles. Las autoridades están investigando el ataque y su posible autoría.",
+      "datos": [
+        "Al menos 1 persona ha fallecido",
+        "3 personas han resultado heridas",
+        "Un menor de edad se encuentra entre los heridos",
+        "El ataque ocurrió en la región de Samara",
+        "El incidente se produjo durante la madrugada de este domingo"
+      ],
+      "conclusion": "El ataque con drones en la región de Samara tiene implicaciones importantes para la seguridad nacional y la protección de civiles en zonas de conflicto. La investigación y el esclarecimiento de los hechos serán fundamentales para determinar la responsabilidad y tomar medidas para prevenir incidentes similares en el futuro."
+    },
+    {
+      "title": "Ese tono de curita cruel",
+      "url": "https://www.eldiario.es/opinion/zona-critica/tono-curita-cruel_129_13373882.html",
+      "image": "https://static.eldiario.es/clip/6d4ff403-454a-447b-a231-ff5b24836061_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "topic": "science",
+      "topic_label": "Ciencia",
+      "que_paso": "El presidente de la Conferencia Episcopal, monseñor Argüello, ha realizado declaraciones polémicas sobre el Orgullo y el Gobierno. Estas declaraciones han generado interés no solo por su contenido, sino también por el tono y la forma en que fueron expresadas. La literatura española ofrece ejemplos similares de este tipo de comunicación, que puede ser utilizada para manipular o influir en los demás.",
+      "datos": [
+        "Monseñor Argüello es el presidente de la Conferencia Episcopal",
+        "La literatura española de autores como Clarín, Agustín Gómez Arcos y Alauda Ruiz de Azúa refleja este tipo de comunicación",
+        "La obra 'La Regenta' de Clarín incluye un personaje llamado Fermín de Pas que utiliza un tono similar para manipular a Ana Ozores",
+        "El personaje de Mosén Millán en 'Réquiem por un campesino español' también refleja esta crueldad",
+        "La obra de Agustín Gómez Arcos también explora este tema de crueldad y manipulación"
+      ],
+      "conclusion": "El tono y la forma en que se comunican las ideas pueden ser tan importantes como el contenido en sí, y pueden influir en la percepción y el impacto de los mensajes. La literatura española ofrece ejemplos valiosos para analizar y entender este fenómeno."
+    },
+    {
+      "title": "Americans Are Raging About Autonomous Police Drones Swarming the Skies",
+      "url": "https://futurism.com/future-society/americans-raging-police-drones",
+      "image": "https://futurism.com/wp-content/uploads/2026/07/americans-raging-police-drones.jpg?quality=85&w=1200",
+      "source": "Futurism",
+      "language": "en",
+      "topic": "tech",
+      "topic_label": "Tecnología",
+      "que_paso": "The use of autonomous surveillance drones by police departments across the United States has sparked controversy and opposition from residents, particularly in Minneapolis where a partnership with Skydio, a private defense contractor, is being considered. The initiative has been met with resistance from citizens who are concerned about the potential for abuse and the impact on civil liberties. The debate in Minneapolis is part of a larger national conversation about the role of technology in policing.",
+      "datos": [
+        "Over 40 residents spoke out against the use of drones at a City Council meeting in Minneapolis",
+        "Skydio primarily manufactures drones for military forces",
+        "Minneapolis has a history of police violence against Black people",
+        "The Electronic Frontier Foundation and the American Civil Liberties Union have expressed concerns about the potential for abuse of police technology",
+        "Similar concerns about police drones have been raised in Syracuse, Detroit, and Las Vegas",
+        "The City Council meeting in Minneapolis was attended by residents who filled both the main council hall and a back-up overflow room"
+      ],
+      "conclusion": "The controversy surrounding autonomous police drones highlights the need for careful consideration of the potential consequences of adopting new technologies in law enforcement, and the importance of balancing public safety with civil liberties. The opposition from residents in Minneapolis and other cities suggests that there is a growing awareness of the potential risks and a desire for more transparency and accountability in the use of police technology."
     }
   ]
 }
