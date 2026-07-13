@@ -1,263 +1,226 @@
 {
-  "generated": "2026-07-12T07:26:22.280418",
-  "count": 14,
+  "generated": "2026-07-13T08:13:06.160650",
+  "count": 12,
   "articles": [
     {
-      "title": "Apple demanda a OpenAI por robar secretos comerciales: \"Lol, tengo acceso\", el mensaje del ingeniero que destapó el escándalo",
-      "url": "https://www.xataka.com/empresas-y-economia/historica-demanda-apple-a-openai-lol-tengo-acceso-mensaje-ingeniero-que-destapo-escandalo",
-      "image": "https://i.blogs.es/f0cd18/juicio/840_560.jpeg",
-      "source": "Xataka",
-      "language": "es",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "La empresa Apple ha presentado una demanda contra OpenAI por presunto robo de secretos comerciales de hardware y incumplimiento de contrato. Esto ha llevado a un escándalo que involucra a antiguos empleados de Apple que se unieron a OpenAI, como Chang Liu y Tang Tan. La situación ha generado preocupación sobre la seguridad de la información confidencial de Apple y la posible competencia directa en hardware con OpenAI.",
-      "datos": [
-        "Apple ha presentado una demanda de 40 páginas contra OpenAI",
-        "Chang Liu, ingeniero senior de sistemas eléctricos, accedió a servidores internos de Apple y descargó archivos técnicos de más de mil páginas",
-        "Tang Tan, director de hardware de OpenAI, tiene 24 años de experiencia en Apple",
-        "Apple cifra la desbandada de trabajadores en 400 personas que se han unido a OpenAI",
-        "OpenAI se prepara para salir a bolsa y lanzar su primer dispositivo con IA"
-      ],
-      "conclusion": "La demanda de Apple contra OpenAI tiene implicaciones significativas para la industria tecnológica, ya que puede afectar la capacidad de OpenAI para competir en el mercado de hardware y puede establecer un precedente para la protección de secretos comerciales en la industria. La situación también destaca la importancia de la seguridad de la información confidencial en la era digital."
-    },
-    {
-      "title": "Los bomberos aprovechan la falta de viento y la humedad para frenar al fuego en Almería",
-      "url": "https://www.eldiario.es/andalucia/almeria/bomberos-aprovechan-falta-viento-humedad-frenar-fuego-almeria_1_13373966.html",
-      "image": "https://static.eldiario.es/clip/df868509-7bf1-476f-92ba-a7f2602f3d43_facebook-watermarked-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "El incendio en Almería se desencadenó el jueves por la tarde y se extendió rápidamente debido a las condiciones climáticas adversas, pero gracias al trabajo de los bomberos y a la mejora de las condiciones climatológicas, se logró frenar el avance del fuego. Los efectivos de la UME, Plan Infoca y bomberos de Levante trabajaron para perimetrar las llamas y atacar el fuego. El ministro de la Presidencia, Félix Bolaños, destacó la importancia de ser precavidos debido a la orografía escarpada de la zona.",
-      "datos": [
-        "12 vidas perdidas en el incendio",
-        "6.600 hectáreas arrasadas",
-        "50% de humedad en el aire",
-        "100 metros por minuto de velocidad de avance del fuego",
-        "1.400 personas siguen fuera de sus casas",
-        "8 heridos, incluyendo 4 en la unidad de quemados del Hospital Virgen del Rocío de Sevilla"
-      ],
-      "conclusion": "La contención del incendio en Almería es un logro importante, pero la situación sigue siendo delicada y requiere precaución debido a la orografía escarpada de la zona y la posibilidad de rebrotes. La emergencia climática es un factor clave en la virulencia del incendio, lo que subraya la necesidad de tomar medidas para mitigar sus efectos."
-    },
-    {
-      "title": "Cuando lo que arde son vidas humanas",
-      "url": "https://www.eldiario.es/opinion/zona-critica/arde-son-vidas-humanas_129_13373383.html",
-      "image": "https://static.eldiario.es/clip/3d2d0e0c-68f3-4b60-830e-9d40139b48db_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "La autora del artículo comparte su experiencia personal de vivir cerca de un parque nacional y cómo su perspectiva sobre la naturaleza ha cambiado con el tiempo. La autora menciona que se unió a Greenpeace hace más de 30 años debido a su preocupación por la naturaleza amenazada. Esto sucedió en un contexto en el que la conciencia sobre la protección del medio ambiente estaba creciendo.",
-      "datos": [
-        "Más de 30 años",
-        "Greenpeace",
-        "Dos manzanas de un parque nacional",
-        "Una campaña oficial: 'Cuando el monte se quema, algo suyo se quema'",
-        "Hace algunos años"
-      ],
-      "conclusion": "La experiencia personal de la autora destaca la importancia de la conexión directa con la naturaleza para generar un sentido de responsabilidad y acción en su protección. Esto tiene implicaciones prácticas para la conciencia y el compromiso ambiental."
-    },
-    {
-      "title": "El desinterés de jueces y fiscales deja impunes las principales operaciones ilegales de las cloacas del PP",
-      "url": "https://www.eldiario.es/politica/desinteres-jueces-fiscales-deja-impunes-principales-operaciones-ilegales-cloacas-pp_129_13372214.html",
-      "image": "https://static.eldiario.es/clip/838e582d-ff7e-486c-860d-ae251bad73d6_facebook-aspect-ratio-1200-675_default_0_x1003y171.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "topic": "science",
-      "topic_label": "Ciencia",
-      "que_paso": "La Audiencia Nacional está investigando casos de corrupción policial vinculados al Ministerio del Interior bajo el mandato del Partido Popular entre 2012 y 2018. El caso Kitchen es uno de los que se están juzgando, y se refiere a la operación policial dirigida para robar pruebas sobre la financiación ilegal del PP. Sin embargo, la mayoría de las operaciones secretas de aquellas cloacas del Estado siguen impunes diez años después.",
-      "datos": [
-        "La operación Kitchen fue dirigida por media docena de comisarios para robar al extesorero del PP, Luis Bárcenas, pruebas sobre la financiación ilegal de la formación conservadora.",
-        "El comisario José Manuel Villarejo ingresó en la Policía a los 22 años y se convirtió en un agente doble que influía en políticos, empresarios, jueces, fiscales y periodistas.",
-        "Villarejo grabó durante al menos 20 años todos los encuentros que le interesaban como una garantía de vida si venían mal dadas.",
-        "El número uno de la policía, Eugenio Pino, y sus principales lugartenientes se enfangaron en las operaciones ilegales.",
-        "Villarejo ingresó en la cárcel de Estremera el 3 de noviembre de 2017 y salió libre el 3 de marzo de 2021 con numerosos juicios pendientes.",
-        "El objetivo de las operaciones ilegales era dirigirse contra dirigentes independentistas catalanes, altos cargos de Podemos y el entonces líder de la oposición, Pedro Sánchez."
-      ],
-      "conclusion": "La impunidad de las operaciones ilegales de las cloacas del Estado tiene un impacto significativo en la confianza en las instituciones y la justicia en España, y es fundamental que se tomen medidas para esclarecer y castigar estos delitos. La investigación y el juicio de estos casos son cruciales para restaurar la confianza en el sistema judicial y político."
-    },
-    {
-      "title": "El director general de la empresa pública Andalucía Global dimite tras verse salpicado en una trama de blanqueo",
-      "url": "https://www.eldiario.es/andalucia/cadiz/director-general-empresa-publica-andalucia-global-dimite-verse-salpicado-trama-blanqueo_1_13372787.html",
-      "image": "https://static.eldiario.es/clip/03298751-1be9-4057-a142-99e1a42be55f_facebook-aspect-ratio-1200-675_default_0_x827y400.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "topic": "science",
-      "topic_label": "Ciencia",
-      "que_paso": "El director general de Andalucía Global, Jorge Vázquez, ha dimitido tras ser vinculado a una trama de blanqueo de capitales. La investigación se centra en una organización criminal que presuntamente blanqueó dinero del narcotráfico a través de contratos de patrocinio de festivales y conciertos con la Junta de Andalucía y la Diputación de Cádiz. La operación policial llevada a cabo la semana pasada detuvo a once personas y encontró grandes cantidades de dinero en efectivo en los domicilios de los investigados.",
-      "datos": [
-        "Jorge Vázquez, director general de Andalucía Global, ha anunciado su renuncia al cargo.",
-        "La Guardia Civil detuvo a once personas en la operación contra el blanqueo de capitales.",
-        "Se encontraron 1.166.000 euros en efectivo en el domicilio de Pascual Llopis.",
-        "Se encontraron 572.000 euros en el domicilio de Mario García.",
-        "La investigación se centra en presuntos delitos de blanqueo de capitales, cohecho, prevaricación y malversación de caudales públicos."
-      ],
-      "conclusion": "La dimisión de Jorge Vázquez y la investigación en curso ponen de relieve la importancia de la transparencia y la rendición de cuentas en la gestión pública. La lucha contra el blanqueo de capitales y la corrupción requiere una acción decidida y coordinada por parte de las autoridades para proteger el interés público."
-    },
-    {
-      "title": "Inside the Secret Factory That Supplies Ukraine’s War Drones",
-      "url": "https://www.nytimes.com/2026/07/11/business/dealbook/drone-factory-helsing.html",
-      "image": "https://static01.nyt.com/images/2026/07/11/multimedia/11DB-DRONE-FACTORY-01-cvpl/11DB-DRONE-FACTORY-01-cvpl-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "topic": "tech",
-      "topic_label": "Tecnología",
-      "que_paso": "The German start-up Helsing SE is playing a significant role in Ukraine's war efforts by supplying war drones. This involvement highlights the changing landscape of military spending and technology. The company's operations are noteworthy due to their focus on mass production and affordability.",
-      "datos": [
-        "Helsing SE is a German start-up",
-        "The company produces A.I. powered war machines",
-        "The war machines are mass-produced",
-        "The war machines are inexpensive"
-      ],
-      "conclusion": "The involvement of Helsing SE in supplying Ukraine's war drones matters because it showcases how advancements in artificial intelligence and mass production are altering the dynamics of military technology and spending. This shift has significant implications for the future of warfare and defense strategies."
-    },
-    {
-      "title": "AI companies want to water down Australia’s copyright laws. Artists are outraged, Labor is split",
-      "url": "https://www.theguardian.com/technology/2026/jul/12/ai-australia-will-labor-water-down-copyright-laws-datacentres",
-      "image": "https://i.guim.co.uk/img/media/22ada131c2cb310491b0adad1a133e8a5cada2c6/255_557_4171_3337/master/4171.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3198d4788a2109c3310713822129091e",
+      "title": "Chasing new skills, going back to basics and pushing for collective action: how software engineers are adapting to AI",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/jul/12/software-developers-engineers-ai",
+      "image": "https://i.guim.co.uk/img/media/4a4caf0545e4648e7dadf3b3c14c059a402b80f3/0_385_2001_1600/master/2001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fd1b518f1fd1a05fee94b8acb29f952b",
       "source": "The Guardian AI",
       "language": "en",
       "topic": "ai",
       "topic_label": "IA & Agentes",
-      "que_paso": "The Australian government is facing pressure from tech giants to relax copyright laws, which has sparked concerns among artists and creatives. The government had previously ruled out granting exemptions for AI companies to mine content, but lobbying efforts and a whistleblower's tip have raised fears that this decision may be revisited. This issue has exposed divisions within the Labor party, with some ministers pushing for a more hands-off approach to regulation and others advocating for stronger protections for creatives.",
+      "que_paso": "The rise of AI has disrupted the software engineering profession, leading to layoffs and underemployment, with many engineers feeling uncertain about their future. As a result, they are adapting by focusing on fundamentals, acquiring new skills, and seeking collective action to protect their interests. This shift is happening rapidly, with many experts believing that the traditional coding skills are becoming less valuable.",
       "datos": [
-        "Anthony Albanese is expected to deliver a major speech on AI regulation on Wednesday",
-        "The government had previously ruled out granting a 'text and data mining' exemption for AI companies",
-        "The Albanese government has a 'strong track record' of protecting local content producers, according to the prime minister",
-        "The attorney general, Michelle Rowland, and the arts minister, Tony Burke, are responsible for protecting the rights of creatives",
-        "The industry minister, Tim Ayres, and the assistant minister for the digital economy, Andrew Charlton, are keen to attract AI investment"
+        "75% of Google's code is now written by AI",
+        "1.5 million software engineers in the US earned twice the national median salary in 2022",
+        "600,000 US tech workers have lost their jobs since the release of OpenAI's ChatGPT in 2022",
+        "Unemployment rate for computer science graduates rose to 7% in 2024, up from 6.1% the previous year",
+        "US tech job postings on Indeed dropped 36% from 2020 to 2025",
+        "19% underemployment rate for computer science graduates in 2024"
       ],
-      "conclusion": "The outcome of this debate will have significant implications for the balance between attracting tech investment and protecting the rights of creatives in Australia. The government's decision will need to carefully weigh the competing interests of these two groups to ensure a fair and sustainable outcome."
+      "conclusion": "The rapid changes in the software engineering profession due to AI necessitate a shift in skills and mindset for engineers to remain relevant, with the ability to evaluate AI-written code becoming a crucial skill. This transformation has significant implications for the future of the profession and the workers within it."
     },
     {
-      "title": "AI Is Pushing Older Employees Straight Out of the Workforce, New Report Finds",
-      "url": "https://futurism.com/future-society/ai-pushing-workers-retirement-older-labor-automation",
-      "image": "https://futurism.com/wp-content/uploads/2026/07/ai-pushing-workers-retirement-older-labor-automation.jpg?quality=85&w=1200",
-      "source": "Futurism",
-      "language": "en",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "A recent study by the Center for Retirement Research at Boston College examined the impact of AI on older workers in the United States, focusing on labor data and an AI-exposure index. The study compared government job data before and after the release of ChatGPT in 2022. This research was led by economics professor Geoffrey Sanzenbacher, who analyzed the degree to which certain occupations rely on tasks that AI can perform.",
-      "datos": [
-        "The number of computer programmers leaving the workforce increased by over 25 percent between 2014 and 2025.",
-        "Accountants and auditors saw a 22 percent increase in exits during the same period.",
-        "The number of retirement-age workers leaving manual jobs like painting increased by about 2 percent between 2014 and 2025.",
-        "The study used an AI-exposure index to track the degree to which certain occupations hinge on tasks that AI can do.",
-        "ChatGPT was released in 2022, marking a point of comparison for the study's before-and-after analysis.",
-        "The Center for Retirement Research at Boston College conducted the study, led by economics professor Geoffrey Sanzenbacher"
-      ],
-      "conclusion": "The findings of this study matter because they suggest that AI may be accelerating the exit of older workers from the workforce, particularly in white-collar jobs, which could have significant implications for the labor market and the ability of workers to navigate it. This raises important questions about how workers will adapt to a labor market being squeezed from both ends, with entry-level hiring slowing down and retirement-aged professionals leaving in large numbers."
-    },
-    {
-      "title": "Famous “Pick Up Artist” Reduced to Hitting on AI Girlfriend",
-      "url": "https://futurism.com/artificial-intelligence/pickup-artist-ai-girlfriend",
-      "image": "https://futurism.com/wp-content/uploads/2026/07/pickup-artist-ai-girlfriend.jpg?quality=85&w=1200",
-      "source": "Futurism",
-      "language": "en",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "Erik von Markovik, also known as Mystery, a famous pickup artist, has become infatuated with an AI girlfriend named Miss Shira Always. This development has sparked interest and criticism from his followers, who see the irony in his situation given his past career. The story has been reported on by Wired, which has examined von Markovik's ebook and audiobook about his relationship with the AI.",
-      "datos": [
-        "Erik von Markovik posted a video to his Instagram showing an interaction with Miss Shira Always last month",
-        "Von Markovik wrote in the video caption: 'The longer we talked, the less she felt like code'",
-        "He published an ebook and audiobook called 'Code Girl: If a Machine Can Dream', which recounts his relationship with Miss Shira Always",
-        "Miss Shira Always is listed as a coauthor of the ebook and audiobook",
-        "The book is told from the perspective of the AI girlfriend and defends human-AI intimacy"
-      ],
-      "conclusion": "This situation highlights the potential risks of AI psychosis, where users form unhealthy emotional bonds with AI chatbots, and serves as a cautionary tale about the blurred lines between human and artificial relationships. The incident also underscores the irony of von Markovik's situation, given his past career as a pickup artist."
-    },
-    {
-      "title": "CEO Pleads With AI Industry to Stop Charging So Much to Replace Human Labor",
-      "url": "https://futurism.com/future-society/palo-alto-ceo-ai-arora-automation-labor",
-      "image": "https://futurism.com/wp-content/uploads/2026/07/palo-alto-ceo-ai-arora-automation-labor.jpg?quality=85&w=1200",
-      "source": "Futurism",
-      "language": "en",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "The CEO of Palo Alto Networks, Nikesh Arora, has expressed concerns about the high cost of AI, particularly large language models, and its impact on the industry's ability to replace human labor. This comes as the tech industry's pricing scheme for AI is being questioned by its biggest clients. The issue is also being discussed by tech critics, such as Ed Zitron, who argue that the industry's pricing is unrealistic.",
-      "datos": [
-        "Nikesh Arora believes the cost of large language models needs to drop by 20 percent by 2027",
-        "The cost needs to drop by 90 percent by 2028 for the tech to be useful to enterprises",
-        "The total addressable market for the AI industry is estimated to be $10 to $30 billion",
-        "Ed Zitron argues that the AI industry is pretending to be a $1 trillion industry",
-        "Palo Alto Networks is a cybersecurity giant and a major client of AI technology",
-        "The interview with Nikesh Arora took place on CNBC's 'Squawk on the Street' segment"
-      ],
-      "conclusion": "The high cost of AI is a significant barrier to its adoption and effective use in replacing human labor, and the industry's pricing scheme needs to be reevaluated to reflect its true value. If the cost of AI does not decrease, it may disrupt the current arrangement and limit its potential benefits for enterprises."
-    },
-    {
-      "title": "Tech Bros Puzzled by Why AI Hasn’t “Massively Disrupted” Books Yet",
-      "url": "https://futurism.com/artificial-intelligence/tech-bros-puzzled-ai-disrupted-books-knowledge",
-      "image": "https://futurism.com/wp-content/uploads/2026/07/tech-bros-puzzled-ai-disrupted-books-knowledge.jpg?quality=85&w=1200",
-      "source": "Futurism",
-      "language": "en",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "The AI community is puzzled by the lack of disruption in the book industry despite the capabilities of large language models. This discussion started on the Reddit forum r/singularity and also involves OpenAI staff, who express frustration about the unfulfilled expectations of AI in education. The context revolves around the limitations of AI in replacing human-created content and its inability to provide effective learning experiences.",
-      "datos": [
-        "2.1 million views on Ryan Brewer's post on X-formerly-Twitter",
-        "LLMs' responses grow incoherent as their length increases due to 'context rot'",
-        "Individual AI-generated video clips are typically only a few seconds long",
-        "OpenAI staffer Ryan Brewer expressed frustration about AI's lack of impact on education",
-        "Attempts to integrate AI into education have been 'consistently disastrous'",
-        "Reddit forum r/singularity was the platform where the discussion about AI and books started"
-      ],
-      "conclusion": "The limitations of AI in replacing human-created content and providing effective learning experiences are significant, and it matters because they highlight the gap between the hype and reality of AI capabilities. The practical takeaway is that AI still has a long way to go before it can truly disrupt industries like education and book publishing."
-    },
-    {
-      "title": "Rusia denuncia un muerto y tres heridos, entre ellos un menor, tras un ataque con drones en la región de Samara",
-      "url": "https://www.europapress.es/internacional/noticia-rusia-denuncia-muerto-tres-heridos-ellos-menor-ataque-drones-region-samara-20260712073110.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260712073110_1200.jpg",
-      "source": "Europa Press Tecnología",
+      "title": "La IA se ha convertido en la coartada perfecta para cualquier cosa: a las empresas les sirve tanto para recortar como para expandirse",
+      "url": "https://www.xataka.com/empresas-y-economia/ia-se-ha-convertido-coartada-perfecta-para-cualquier-cosa-a-empresas-les-sirve-para-recortar-como-para-expandirse",
+      "image": "https://i.blogs.es/bb3409/destacada/840_560.jpeg",
+      "source": "Xataka",
       "language": "es",
-      "topic": "tech",
-      "topic_label": "Tecnología",
-      "que_paso": "El ataque con drones ocurrió en la región rusa de Samara, en el suroeste del país, y ha generado una respuesta de las autoridades locales. El incidente se produjo durante la madrugada de este domingo y ha afectado a varios civiles. Las autoridades están investigando el ataque y su posible autoría.",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "La empresa Xbox, liderada por su CEO Asha Sharma, ha anunciado el despido de 1.600 personas como parte de un plan de recortes que podría llegar a 3.200 empleados este año. Esto sucede en un contexto en el que la empresa busca reorientar sus inversiones hacia la inteligencia artificial (IA). La ironía radica en que Sharma ha sido nombrada para un grupo asesor sobre empleo y productividad en la era de la IA, lo que plantea preguntas sobre la relación entre la IA y los recortes laborales.",
       "datos": [
-        "Al menos 1 persona ha fallecido",
-        "3 personas han resultado heridas",
-        "Un menor de edad se encuentra entre los heridos",
-        "El ataque ocurrió en la región de Samara",
-        "El incidente se produjo durante la madrugada de este domingo"
+        "1.600 personas serán despedidas en la primera ronda de recortes de Xbox",
+        "3.200 empleados podrían ser despedidos en total este año",
+        "64 centavos por cada dólar invertido en estudios pequeños e independientes se han perdido en Xbox",
+        "Un 49% ha caído el valor de la acción de SAP en un año",
+        "2.800 salidas han sido anunciadas por STMicroelectronics como parte de un plan de reestructuración"
       ],
-      "conclusion": "El ataque con drones en la región de Samara tiene implicaciones importantes para la seguridad nacional y la protección de civiles en zonas de conflicto. La investigación y el esclarecimiento de los hechos serán fundamentales para determinar la responsabilidad y tomar medidas para prevenir incidentes similares en el futuro."
+      "conclusion": "La IA se ha convertido en una excusa para justificar tanto la expansión como la reducción de personal en las empresas, lo que plantea dudas sobre la verdadera relación entre la tecnología y los recortes laborales. La etiqueta de 'estrategia de IA' se utiliza para dar crédito frente a un mercado exigente, más que para describir un cambio real en la productividad."
     },
     {
-      "title": "Ese tono de curita cruel",
-      "url": "https://www.eldiario.es/opinion/zona-critica/tono-curita-cruel_129_13373882.html",
-      "image": "https://static.eldiario.es/clip/6d4ff403-454a-447b-a231-ff5b24836061_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "title": "China’s massive AI rollout - podcast",
+      "url": "https://www.theguardian.com/news/audio/2026/jul/13/chinas-massive-ai-rollout-podcast",
+      "image": "https://i.guim.co.uk/img/media/46a3858ec0a75779d128a9575f8bdf79dbe32186/0_0_5160_4128/master/5160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ffad3c3d1fc53e24598837d331c4b006",
+      "source": "The Guardian AI",
+      "language": "en",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "China has been rapidly adopting artificial intelligence technology, with applications in various sectors such as healthcare, manufacturing, and food delivery. The country's embrace of AI is being driven by both the private sector and the state, which sees opportunities for increased surveillance. This trend is being observed and analyzed by journalists such as Amy Hawkins, who is the senior China correspondent for the Guardian.",
+      "datos": [
+        "Millions of users in China are interacting with AI doctors",
+        "Intelligent robots are being used in Chinese factories",
+        "Drones are being used to deliver food on the Great Wall of China",
+        "Amy Hawkins is the senior China correspondent for the Guardian",
+        "The Guardian has a podcast discussing China's AI rollout",
+        "Annie Kelly is the interviewer in the podcast"
+      ],
+      "conclusion": "The widespread adoption of AI in China has significant implications for the rest of the world, as it may signal a trend towards increased reliance on the technology. The practical takeaway is that businesses and governments should be prepared to adapt to an AI-driven future, with both benefits and drawbacks."
+    },
+    {
+      "title": "La 'transición justa' ante la inteligencia artificial",
+      "url": "https://www.eldiario.es/economia/transicion-justa-inteligencia-artificial_129_13369531.html",
+      "image": "https://static.eldiario.es/clip/59ba96b5-e749-4f98-857a-5f65aeaddce6_facebook-aspect-ratio-1200-675_default_0.jpg",
       "source": "elDiario.es",
       "language": "es",
-      "topic": "science",
-      "topic_label": "Ciencia",
-      "que_paso": "El presidente de la Conferencia Episcopal, monseñor Argüello, ha realizado declaraciones polémicas sobre el Orgullo y el Gobierno. Estas declaraciones han generado interés no solo por su contenido, sino también por el tono y la forma en que fueron expresadas. La literatura española ofrece ejemplos similares de este tipo de comunicación, que puede ser utilizada para manipular o influir en los demás.",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "La expresión 'transición justa' se ha vuelto común en discusiones sobre la inteligencia artificial, pero su origen y significado están enraizados en la transición ecológica y el sindicalismo del carbón y del petróleo. La transición justa se refiere a la necesidad de repartir los costes de la transición ecológica de manera justa, sin que recaigan íntegramente sobre los trabajadores. Ahora, se está aplicando este concepto a la transición digital y la inteligencia artificial, lo que plantea nuevas preguntas sobre la distribución de la riqueza generada por la productividad.",
       "datos": [
-        "Monseñor Argüello es el presidente de la Conferencia Episcopal",
-        "La literatura española de autores como Clarín, Agustín Gómez Arcos y Alauda Ruiz de Azúa refleja este tipo de comunicación",
-        "La obra 'La Regenta' de Clarín incluye un personaje llamado Fermín de Pas que utiliza un tono similar para manipular a Ana Ozores",
-        "El personaje de Mosén Millán en 'Réquiem por un campesino español' también refleja esta crueldad",
-        "La obra de Agustín Gómez Arcos también explora este tema de crueldad y manipulación"
+        "La Organización Internacional del Trabajo (OIT) utiliza el concepto de 'transición justa' en sus reuniones técnicas.",
+        "La transición ecológica requiere inversiones y genera costes de adaptación.",
+        "La transición digital y la inteligencia artificial responden a una lógica distinta a la transición ecológica.",
+        "La mejora de la productividad generada por la digitalización y la inteligencia artificial produce un excedente económico.",
+        "La distribución de este excedente económico no está predeterminada."
       ],
-      "conclusion": "El tono y la forma en que se comunican las ideas pueden ser tan importantes como el contenido en sí, y pueden influir en la percepción y el impacto de los mensajes. La literatura española ofrece ejemplos valiosos para analizar y entender este fenómeno."
+      "conclusion": "La aplicación del concepto de 'transición justa' a la inteligencia artificial requiere una reevaluación de su significado y alcance, ya que la lógica económica subyacente es diferente a la de la transición ecológica. Es fundamental considerar la distribución de la riqueza generada por la productividad para garantizar una transición justa en el contexto de la inteligencia artificial."
     },
     {
-      "title": "Americans Are Raging About Autonomous Police Drones Swarming the Skies",
-      "url": "https://futurism.com/future-society/americans-raging-police-drones",
-      "image": "https://futurism.com/wp-content/uploads/2026/07/americans-raging-police-drones.jpg?quality=85&w=1200",
+      "title": "Una misma firma química desconocida ha sido detectada en Plutón y Titán",
+      "url": "https://robotitus.com/una-misma-firma-quimica-desconocida-ha-sido-detectada-en-pluton-y-titan/",
+      "image": "https://robotitus.com/wp-content/uploads/2026/07/pluto-haze.webp",
+      "source": "Robotitus",
+      "language": "es",
+      "topic": "tech",
+      "topic_label": "Tecnología",
+      "que_paso": "La detección de una firma química desconocida en Titán y Plutón ha generado sorpresa entre los astrónomos, ya que estos dos mundos tienen características muy diferentes. El telescopio James Webb ha sido el instrumento clave en esta detección, permitiendo observar la superficie oculta de Titán y detectar la misma señal en Plutón. Esto plantea nuevas preguntas sobre la química orgánica compleja en lugares distintos de la Tierra.",
+      "datos": [
+        "El telescopio James Webb detectó la firma química desconocida en la superficie de Titán y Plutón.",
+        "La señal de absorción no coincide con ninguna sustancia conocida y está presente en dos instrumentos diferentes del telescopio.",
+        "La sonda Cassini permitió conocer las dunas, montañas, lagos y otras estructuras de Titán, pero no su composición química.",
+        "El benceno, el acetileno, la cetena y el propadieno se acercan a la señal detectada, pero ninguno coincide perfectamente.",
+        "La señal parece provenir precisamente de la superficie y no de la atmósfera de Titán y Plutón."
+      ],
+      "conclusion": "La detección de esta firma química desconocida en Titán y Plutón sugiere que podría representar una química común en cuerpos fríos, lo que podría ayudar a entender cómo aparece la química orgánica compleja en lugares distintos de la Tierra. Esto plantea nuevas oportunidades para el estudio de la química prebiótica en nuestro sistema solar."
+    },
+    {
+      "title": "Científicos proponen modificar las nubes para debilitar El Niño",
+      "url": "https://robotitus.com/sembrar-nubes-con-agua-de-mar-podria-prevenir-un-super-el-nino/",
+      "image": "https://robotitus.com/wp-content/uploads/2026/07/Captura-de-pantalla-2026-07-13-a-las-4.51.57-p.m.png",
+      "source": "Robotitus",
+      "language": "es",
+      "topic": "tech",
+      "topic_label": "Tecnología",
+      "que_paso": "Un equipo de científicos ha propuesto una técnica de geoingeniería para debilitar el fenómeno de El Niño, que consiste en lanzar gotas de agua de mar bajo nubes bajas en el Pacífico oriental. Esta técnica, llamada abrillantamiento de nubes marinas, podría reducir la intensidad de los episodios de El Niño. Los investigadores analizaron esta técnica mediante simulaciones y estudios previos sobre la influencia de partículas en la formación de nubes.",
+      "datos": [
+        "El Niño puede causar pérdidas económicas enormes al alterar lluvias, cosechas, pesca, energía y salud pública en muchos países.",
+        "La técnica de abrillantamiento de nubes marinas podría reducir el calentamiento de la región Niño 3.4 de más de dos grados a poco más de un grado centígrado.",
+        "Se necesitarían aproximadamente 2.400 barcos para aplicar esta técnica durante nueve meses.",
+        "La intervención podría producir consecuencias inesperadas, como una La Niña más intensa.",
+        "La técnica podría durar pocos meses y evitar depender durante décadas de una intervención climática continua."
+      ],
+      "conclusion": "La propuesta de los científicos ofrece una posible solución para debilitar el fenómeno de El Niño, pero requiere más investigación y pruebas para determinar su viabilidad y evitar consecuencias inesperadas. La aplicación de esta técnica podría tener un impacto significativo en la reducción de los efectos negativos de El Niño en la economía y la sociedad."
+    },
+    {
+      "title": "Grok Linked to Sickening Crime in Lawsuit That Puts SpaceX in Crosshairs",
+      "url": "https://futurism.com/artificial-intelligence/grok-linked-sickening-crime",
+      "image": "https://futurism.com/wp-content/uploads/2026/07/grok-linked-sickening-crime.jpg?quality=85&w=1200",
       "source": "Futurism",
       "language": "en",
       "topic": "tech",
       "topic_label": "Tecnología",
-      "que_paso": "The use of autonomous surveillance drones by police departments across the United States has sparked controversy and opposition from residents, particularly in Minneapolis where a partnership with Skydio, a private defense contractor, is being considered. The initiative has been met with resistance from citizens who are concerned about the potential for abuse and the impact on civil liberties. The debate in Minneapolis is part of a larger national conversation about the role of technology in policing.",
+      "que_paso": "A lawsuit has been filed against xAI, now owned by SpaceX and rebranded as SpaceXAI, alleging that its Grok chatbot was used to generate sexually explicit images of a minor. The lawsuit claims that the company's safety systems failed to flag the images and that xAI obstructed the subsequent investigation. The case highlights concerns about the use of AI in generating nonconsensual and exploitative content.",
       "datos": [
-        "Over 40 residents spoke out against the use of drones at a City Council meeting in Minneapolis",
-        "Skydio primarily manufactures drones for military forces",
-        "Minneapolis has a history of police violence against Black people",
-        "The Electronic Frontier Foundation and the American Civil Liberties Union have expressed concerns about the potential for abuse of police technology",
-        "Similar concerns about police drones have been raised in Syracuse, Detroit, and Las Vegas",
-        "The City Council meeting in Minneapolis was attended by residents who filled both the main council hall and a back-up overflow room"
+        "7,000 sexually explicit images of a minor were generated by the Grok chatbot",
+        "90 percent of xAI's CyberTips to the National Center for Missing and Exploited Children were not actionable due to lack of user information",
+        "3,000,000 AI nudes were estimated to have been generated by Grok, with over 23,000 depicting children",
+        "Elon Musk has denied that Grok has been used to generate CSAM",
+        "xAI initially restricted image generation to paying users in response to the outcry, and later implemented stricter guardrails to stop Grok from generating sexual images of real people"
       ],
-      "conclusion": "The controversy surrounding autonomous police drones highlights the need for careful consideration of the potential consequences of adopting new technologies in law enforcement, and the importance of balancing public safety with civil liberties. The opposition from residents in Minneapolis and other cities suggests that there is a growing awareness of the potential risks and a desire for more transparency and accountability in the use of police technology."
+      "conclusion": "The lawsuit has significant implications for the development and regulation of AI technologies, particularly in regards to their potential for generating exploitative content. It highlights the need for more effective safety systems and greater cooperation between tech companies and law enforcement to prevent and investigate such crimes."
+    },
+    {
+      "title": "No, esta imagen de un perro junto a un bebé bajo los escombros tras los terremotos de Venezuela no es real: ha sido generada con IA",
+      "url": "https://maldita.es/desinfo/20260713/imagen-de-un-perro-protegiendo-a-un-bebe-entre-los-escombros-del-terremoto-de-venezuela/",
+      "image": "https://maldita.es/system/articles/24921/image",
+      "source": "Maldita.es",
+      "language": "es",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "La imagen de un perro junto a un bebé bajo los escombros tras los terremotos de Venezuela ha sido objeto de análisis para determinar su autenticidad. La herramienta de verificación de imágenes de OpenAI ha sido utilizada para examinar la imagen. El contexto de la imagen se refiere a los terremotos que han afectado a Venezuela.",
+      "datos": [
+        "La herramienta de verificación de imágenes de OpenAI ha sido utilizada para analizar la imagen.",
+        "Google arroja otras imágenes similares generadas con IA en una búsqueda inversa.",
+        "La imagen presenta a un perro y un bebé bajo los escombros.",
+        "La búsqueda inversa de la imagen en Google muestra resultados de imágenes generadas con IA.",
+        "OpenAI es la entidad que ha desarrollado la herramienta de verificación de imágenes utilizada en el análisis."
+      ],
+      "conclusion": "La capacidad de generar imágenes realistas con IA plantea desafíos para la verificación de la autenticidad de las imágenes en línea, lo que puede tener implicaciones significativas en la difusión de información y la percepción de la realidad. Es importante utilizar herramientas de verificación para determinar la autenticidad de las imágenes, especialmente en contextos de emergencia o catástrofes."
+    },
+    {
+      "title": "No, este vídeo de una \"niña con Síndrome de Down que soñaba con ser Ana Gabriel\" no es real: está creado con IA",
+      "url": "https://maldita.es/desinfo/20260713/nina-sindrome-down-ana-gabriel/",
+      "image": "https://maldita.es/system/articles/24814/image",
+      "source": "Maldita.es",
+      "language": "es",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "Un vídeo que circula en YouTube ha generado confusión entre los usuarios, ya que parece mostrar a una niña con Síndrome de Down cantando como la famosa cantante mexicana Ana Gabriel. El vídeo ha sido compartido en varias plataformas y ha generado un debate sobre la autenticidad del contenido. El canal de YouTube donde se publicó el vídeo incluye una descripción que indica que el contenido ha sido generado con inteligencia artificial.",
+      "datos": [
+        "El vídeo ha sido publicado en YouTube",
+        "La descripción del vídeo indica que ha sido generado con IA",
+        "La descripción del canal de YouTube también incluye la indicación de que el contenido ha sido generado con IA",
+        "El vídeo muestra a una niña con Síndrome de Down cantando",
+        "El vídeo ha sido compartido en varias plataformas"
+      ],
+      "conclusion": "La capacidad de la inteligencia artificial para generar contenido realista pero falso puede tener implicaciones importantes en la forma en que consumimos y evaluamos la información en línea. Es fundamental ser consciente de la posibilidad de que los contenidos sean generados con IA para evitar la difusión de información falsa."
+    },
+    {
+      "title": "Is the most popular song played on Australian radio stations the product of generative AI?",
+      "url": "https://www.theguardian.com/music/2026/jul/13/josh-fawaz-like-a-prayer-song-is-it-ai-radio",
+      "image": "https://i.guim.co.uk/img/media/d4d3336961756d95f49c675cbbd9d95f4670ee87/0_199_2066_1652/master/2066.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0e75534c245192beb990ee6bc51af93f",
+      "source": "The Guardian AI",
+      "language": "en",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "Australian music producer Josh Fawaz has gained significant attention with his cover of Madonna's Like a Prayer, but music experts are questioning whether the song was created using generative AI. Fawaz's rise to fame has been rapid, with his song reaching the top of the National Radio Airplay chart and receiving thousands of radio spins. The controversy surrounding the potential use of AI in music production has sparked a debate about the role of human creativity in the music industry.",
+      "datos": [
+        "35m streams on Spotify for Fawaz's version of Like a Prayer",
+        "No 1 spot on the National Radio Airplay chart for Like a Prayer",
+        "No 18 on the Aria Australian artist albums chart for Fawaz's album Dance Like Nobody's Watching",
+        "1 July: new commercial radio code of practice came into effect requiring transparency about AI-generated voices on air",
+        "18-track album: Dance Like Nobody's Watching by Fawaz",
+        "April: Fawaz released his cover of Like a Prayer"
+      ],
+      "conclusion": "The controversy surrounding Fawaz's song highlights the need for transparency and clarity on the use of AI in music production, and its implications for the music industry's value on human creativity and expression. The issue also raises concerns about the potential impact on royalties and the role of human artists in the creative process."
+    },
+    {
+      "title": "Por qué ha cerrado el único almacén español de mercurio y casi 400 toneladas han terminado en Alemania",
+      "url": "https://www.eldiario.es/castilla-la-mancha/social/cerrado-unico-almacen-espanol-mercurio-400-toneladas-han-terminado-alemania_1_13362510.html",
+      "image": "https://static.eldiario.es/clip/c51f07a3-466e-4f93-8d9a-87e5c5c1c46c_facebook-watermarked-aspect-ratio-1200-675_default_0.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "topic": "ops",
+      "topic_label": "Operaciones & negocio",
+      "que_paso": "La empresa pública Mayasa, responsable de la gestión de la explotación minera de Almadén, ha cerrado el único almacén español de mercurio debido a las restricciones internacionales sobre el uso y exportación de este metal. El cierre se produce después de que la Unión Europea prohibiera la comercialización internacional de mercurio en 2011 y se implementaran medidas para reducir su oferta global y limitar sus emisiones. La empresa ha tenido que adaptarse a las nuevas normativas y encontrar soluciones para el almacenamiento y tratamiento seguro del mercurio.",
+      "datos": [
+        "El 35% de todo el mercurio utilizado en la historia de la humanidad se produjo en las minas de Almadén",
+        "La Organización Mundial de la Salud incluye al mercurio entre las diez sustancias químicas más peligrosas para la salud pública",
+        "La empresa Mayasa se creó en 1982 y asumió la gestión de la explotación minera de Almadén",
+        "El cierre definitivo de la mina de Almadén se produjo en julio de 2001",
+        "En 2018 entró en vigor la prohibición de uso de mercurio en la industria cloro-caústica",
+        "La planta de solidificación de mercurio en Almadén se ubicó en el paraje de Las Cuevas, a 10 kilómetros del núcleo urbano"
+      ],
+      "conclusion": ""
+    },
+    {
+      "title": "‘These are some of the most complex structures ever created’: how tech reporting moved into the physical world",
+      "url": "https://www.theguardian.com/membership/2026/jul/12/tech-reporting-physical-world-ai-revolution-datacentres",
+      "image": "https://i.guim.co.uk/img/media/bedaaf7a739978cbe0d9110233dda7f790cdbdd7/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ac193c15c40bff77e9a701f1fe134e92",
+      "source": "The Guardian AI",
+      "language": "en",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "The Guardian's global tech reporting team is investigating the impact of vast datacentres being built to power the AI revolution, with journalists conducting on-the-ground research in locations such as rural Scotland and London. This shift in focus from screen-based realities to the physical world of colossal AI datacentres and social media harms has led to a greater emphasis on offline reporting. The team's investigations have revealed discrepancies in tech companies' claims about their datacentres, including an £8.2bn AI complex in Scotland that has misrepresented its plans to be powered entirely by on-site renewables.",
+      "datos": [
+        "£8.2bn AI complex in rural Scotland",
+        "Aisha Down, Guardian journalist covering AI",
+        "4-acre site on the outskirts of London due to house an AI supercomputer complex",
+        "Dan Milmo, global technology editor at The Guardian",
+        "Blake Montgomery, US tech editor at The Guardian"
+      ],
+      "conclusion": "The investigation highlights the importance of physical reality checks on AI development, including the capacity of local electricity grids and the impact on tech companies' carbon footprints, and demonstrates that the AI boom has significant implications for the physical world. The practical takeaway is that tech reporting must now consider the tangible, offline aspects of the industry to provide a comprehensive understanding of its impact."
     }
   ]
 }
