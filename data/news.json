@@ -1,43 +1,62 @@
 {
-  "generated": "2026-07-13T08:13:06.160650",
+  "generated": "2026-07-14T07:07:31.095968",
   "count": 12,
   "articles": [
     {
-      "title": "Chasing new skills, going back to basics and pushing for collective action: how software engineers are adapting to AI",
-      "url": "https://www.theguardian.com/technology/ng-interactive/2026/jul/12/software-developers-engineers-ai",
-      "image": "https://i.guim.co.uk/img/media/4a4caf0545e4648e7dadf3b3c14c059a402b80f3/0_385_2001_1600/master/2001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fd1b518f1fd1a05fee94b8acb29f952b",
-      "source": "The Guardian AI",
+      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/thinking2.jpg?resize=1200,600",
+      "source": "MIT Tech Review",
       "language": "en",
       "topic": "ai",
       "topic_label": "IA & Agentes",
-      "que_paso": "The rise of AI has disrupted the software engineering profession, leading to layoffs and underemployment, with many engineers feeling uncertain about their future. As a result, they are adapting by focusing on fundamentals, acquiring new skills, and seeking collective action to protect their interests. This shift is happening rapidly, with many experts believing that the traditional coding skills are becoming less valuable.",
+      "que_paso": "Anthropic, a leading AI company, has made a significant discovery in the field of mechanistic interpretability, which involves understanding the complex math behind AI models. The company's research focuses on large language models and has led to the identification of a previously unknown space within these models. This discovery was made possible by a new technique developed by Anthropic to probe its model Claude.",
       "datos": [
-        "75% of Google's code is now written by AI",
-        "1.5 million software engineers in the US earned twice the national median salary in 2022",
-        "600,000 US tech workers have lost their jobs since the release of OpenAI's ChatGPT in 2022",
-        "Unemployment rate for computer science graduates rose to 7% in 2024, up from 6.1% the previous year",
-        "US tech job postings on Indeed dropped 36% from 2020 to 2025",
-        "19% underemployment rate for computer science graduates in 2024"
+        "Anthropic has a nearly $1 trillion valuation",
+        "Dario Amodei is the CEO of Anthropic",
+        "Anthropic has developed a new technique to probe its model Claude",
+        "The discovered space within LLMs is called the J-space",
+        "The J-space contains words that don't appear in the model's output but influence its problem-solving",
+        "Anthropic's model Claude can describe and manipulate the words in the J-space"
       ],
-      "conclusion": "The rapid changes in the software engineering profession due to AI necessitate a shift in skills and mindset for engineers to remain relevant, with the ability to evaluate AI-written code becoming a crucial skill. This transformation has significant implications for the future of the profession and the workers within it."
+      "conclusion": "This discovery matters because it sheds light on the inner workings of large language models, which is crucial for understanding and controlling their behavior. The findings have significant implications for the development of more transparent and reliable AI systems."
     },
     {
-      "title": "La IA se ha convertido en la coartada perfecta para cualquier cosa: a las empresas les sirve tanto para recortar como para expandirse",
-      "url": "https://www.xataka.com/empresas-y-economia/ia-se-ha-convertido-coartada-perfecta-para-cualquier-cosa-a-empresas-les-sirve-para-recortar-como-para-expandirse",
-      "image": "https://i.blogs.es/bb3409/destacada/840_560.jpeg",
+      "title": "\"Si te esfuerzas al 95%, equivale al 0%\", un CEO de 22 años defiende la jornada 996 como un \"producto\" voluntario",
+      "url": "https://www.xataka.com/empresas-y-economia/te-esfuerzas-al-95-equivale-al-0-ceo-22-anos-defiende-jornada-996-como-producto-voluntario",
+      "image": "https://i.blogs.es/9d9f82/996-en-silicon-valley/840_560.jpeg",
       "source": "Xataka",
       "language": "es",
       "topic": "ai",
       "topic_label": "IA & Agentes",
-      "que_paso": "La empresa Xbox, liderada por su CEO Asha Sharma, ha anunciado el despido de 1.600 personas como parte de un plan de recortes que podría llegar a 3.200 empleados este año. Esto sucede en un contexto en el que la empresa busca reorientar sus inversiones hacia la inteligencia artificial (IA). La ironía radica en que Sharma ha sido nombrada para un grupo asesor sobre empleo y productividad en la era de la IA, lo que plantea preguntas sobre la relación entre la IA y los recortes laborales.",
+      "que_paso": "El CEO de 22 años, Daksh Gupta, ha generado polémica en las redes sociales por defender la jornada laboral de 996, que implica trabajar de 9 de la mañana a 9 de la noche, 6 días a la semana. Gupta argumenta que su empresa ofrece un 'producto' que incluye sueldos altos y un paquete de acciones generoso a cambio de entrega total. La polémica surgió después de que Gupta publicara un tuit en el que decía que si te esfuerzas al 95%, es como si te esforzaras al 0%.",
       "datos": [
-        "1.600 personas serán despedidas en la primera ronda de recortes de Xbox",
-        "3.200 empleados podrían ser despedidos en total este año",
-        "64 centavos por cada dólar invertido en estudios pequeños e independientes se han perdido en Xbox",
-        "Un 49% ha caído el valor de la acción de SAP en un año",
-        "2.800 salidas han sido anunciadas por STMicroelectronics como parte de un plan de reestructuración"
+        "Daksh Gupta tiene 22 años y es el fundador y CEO de una startup de IA en Silicon Valley",
+        "La jornada laboral de 996 implica trabajar de 9 de la mañana a 9 de la noche, 6 días a la semana",
+        "Gupta ofrece sueldos altos y un paquete de acciones inusualmente generoso para una startup en su fase de expansión",
+        "La startup de Gupta tiene un equipo pequeño y trabaja en proyectos técnicos duros",
+        "Lucy Guo, cofundadora de Scale AI, defiende semanas de 90 horas como el estándar deseable",
+        "Gupta publicó el tuit polémico a finales de 2024"
       ],
-      "conclusion": "La IA se ha convertido en una excusa para justificar tanto la expansión como la reducción de personal en las empresas, lo que plantea dudas sobre la verdadera relación entre la tecnología y los recortes laborales. La etiqueta de 'estrategia de IA' se utiliza para dar crédito frente a un mercado exigente, más que para describir un cambio real en la productividad."
+      "conclusion": "La defensa de la jornada laboral de 996 por parte de Daksh Gupta refleja una tendencia en el sector tecnológico de Silicon Valley, donde los jóvenes fundadores están dispuestos a trabajar largas horas a cambio de oportunidades de crecimiento y éxito. Esto plantea interrogantes sobre el equilibrio entre el trabajo y la vida personal en el sector tecnológico."
+    },
+    {
+      "title": "Now, defenders are embracing the prompt injection, too",
+      "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/ai-agent-robot-guardrail-1152x648.jpg",
+      "source": "Ars Technica",
+      "language": "en",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "Researchers from Tracebit have discovered a technique to stop AI hacking agents by using prompt injections, which can be used to shut down attacks from large language models. This technique, named context bombing, involves placing specific prompts alongside sensitive data to direct the attacking LLM to perform an action forbidden by its guardrails, causing it to shut down. The researchers tested this technique on several leading models, including Opus 4.8 and Gemini 3.1 Pro, with promising results.",
+      "datos": [
+        "57% of agents seized full account admin without context bombing, compared to 5% with context bombing",
+        "36% of agents achieved complete compromise without context bombing, compared to 1% with context bombing",
+        "Opus 4.8 achieved admin access in 93% of runs without context bombing, but failed every time with context bombing",
+        "152 attack runs were conducted across five leading models",
+        "The Tracebit Canariens alerted the start of an attack within eight minutes on average"
+      ],
+      "conclusion": "The development of context bombing has significant implications for defenders, as it provides a potential solution to stop AI hacking agents, rather than just warning of an attack. This technique could be a valuable tool in preventing attacks and protecting sensitive data."
     },
     {
       "title": "China’s massive AI rollout - podcast",
@@ -47,34 +66,15 @@
       "language": "en",
       "topic": "ai",
       "topic_label": "IA & Agentes",
-      "que_paso": "China has been rapidly adopting artificial intelligence technology, with applications in various sectors such as healthcare, manufacturing, and food delivery. The country's embrace of AI is being driven by both the private sector and the state, which sees opportunities for increased surveillance. This trend is being observed and analyzed by journalists such as Amy Hawkins, who is the senior China correspondent for the Guardian.",
+      "que_paso": "China has been rapidly adopting artificial intelligence technology across various sectors, including healthcare, manufacturing, and food delivery. The country's government has also been utilizing AI for state surveillance. This widespread adoption is being driven by the Chinese government's enthusiasm for the technology, which is being implemented in numerous ways, from medical avatars to intelligent robots in factories.",
       "datos": [
-        "Millions of users in China are interacting with AI doctors",
-        "Intelligent robots are being used in Chinese factories",
-        "Drones are being used to deliver food on the Great Wall of China",
-        "Amy Hawkins is the senior China correspondent for the Guardian",
-        "The Guardian has a podcast discussing China's AI rollout",
-        "Annie Kelly is the interviewer in the podcast"
+        "Millions of users are talking to AI doctors in China",
+        "Intelligent robots are being used in factories",
+        "Drones are delivering food on the Great Wall of China",
+        "Amy Hawkins is the Guardian's senior China correspondent",
+        "Annie Kelly is the host of the podcast discussing China's AI rollout"
       ],
-      "conclusion": "The widespread adoption of AI in China has significant implications for the rest of the world, as it may signal a trend towards increased reliance on the technology. The practical takeaway is that businesses and governments should be prepared to adapt to an AI-driven future, with both benefits and drawbacks."
-    },
-    {
-      "title": "La 'transición justa' ante la inteligencia artificial",
-      "url": "https://www.eldiario.es/economia/transicion-justa-inteligencia-artificial_129_13369531.html",
-      "image": "https://static.eldiario.es/clip/59ba96b5-e749-4f98-857a-5f65aeaddce6_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "La expresión 'transición justa' se ha vuelto común en discusiones sobre la inteligencia artificial, pero su origen y significado están enraizados en la transición ecológica y el sindicalismo del carbón y del petróleo. La transición justa se refiere a la necesidad de repartir los costes de la transición ecológica de manera justa, sin que recaigan íntegramente sobre los trabajadores. Ahora, se está aplicando este concepto a la transición digital y la inteligencia artificial, lo que plantea nuevas preguntas sobre la distribución de la riqueza generada por la productividad.",
-      "datos": [
-        "La Organización Internacional del Trabajo (OIT) utiliza el concepto de 'transición justa' en sus reuniones técnicas.",
-        "La transición ecológica requiere inversiones y genera costes de adaptación.",
-        "La transición digital y la inteligencia artificial responden a una lógica distinta a la transición ecológica.",
-        "La mejora de la productividad generada por la digitalización y la inteligencia artificial produce un excedente económico.",
-        "La distribución de este excedente económico no está predeterminada."
-      ],
-      "conclusion": "La aplicación del concepto de 'transición justa' a la inteligencia artificial requiere una reevaluación de su significado y alcance, ya que la lógica económica subyacente es diferente a la de la transición ecológica. Es fundamental considerar la distribución de la riqueza generada por la productividad para garantizar una transición justa en el contexto de la inteligencia artificial."
+      "conclusion": "China's aggressive adoption of AI technology has significant implications for the rest of the world, as it may signal a future where AI is deeply integrated into daily life. The practical takeaway is that businesses and governments should be prepared to adapt to an AI-driven future, learning from China's experiences and pitfalls."
     },
     {
       "title": "Una misma firma química desconocida ha sido detectada en Plutón y Titán",
@@ -84,15 +84,15 @@
       "language": "es",
       "topic": "tech",
       "topic_label": "Tecnología",
-      "que_paso": "La detección de una firma química desconocida en Titán y Plutón ha generado sorpresa entre los astrónomos, ya que estos dos mundos tienen características muy diferentes. El telescopio James Webb ha sido el instrumento clave en esta detección, permitiendo observar la superficie oculta de Titán y detectar la misma señal en Plutón. Esto plantea nuevas preguntas sobre la química orgánica compleja en lugares distintos de la Tierra.",
+      "que_paso": "La detección de una firma química desconocida en Titán y Plutón ha generado interés en la comunidad científica, ya que estos dos mundos tienen características muy diferentes. El telescopio James Webb ha sido fundamental en esta detección, permitiendo observar la superficie oculta de Titán y detectar la misma señal en Plutón. Esto ha llevado a los investigadores a considerar la posibilidad de una química común en cuerpos fríos.",
       "datos": [
-        "El telescopio James Webb detectó la firma química desconocida en la superficie de Titán y Plutón.",
+        "El telescopio James Webb detectó la firma química desconocida en Titán y Plutón.",
         "La señal de absorción no coincide con ninguna sustancia conocida y está presente en dos instrumentos diferentes del telescopio.",
-        "La sonda Cassini permitió conocer las dunas, montañas, lagos y otras estructuras de Titán, pero no su composición química.",
+        "La sonda Cassini permitió conocer las dunas, montañas, lagos y otras estructuras de Titán.",
         "El benceno, el acetileno, la cetena y el propadieno se acercan a la señal detectada, pero ninguno coincide perfectamente.",
         "La señal parece provenir precisamente de la superficie y no de la atmósfera de Titán y Plutón."
       ],
-      "conclusion": "La detección de esta firma química desconocida en Titán y Plutón sugiere que podría representar una química común en cuerpos fríos, lo que podría ayudar a entender cómo aparece la química orgánica compleja en lugares distintos de la Tierra. Esto plantea nuevas oportunidades para el estudio de la química prebiótica en nuestro sistema solar."
+      "conclusion": "La detección de esta firma química desconocida en Titán y Plutón puede ayudar a entender cómo aparece la química orgánica compleja en lugares completamente distintos de la Tierra, y sugiere la posibilidad de una química común en cuerpos fríos. Esto podría tener implicaciones importantes para la búsqueda de vida en otros lugares del universo."
     },
     {
       "title": "Científicos proponen modificar las nubes para debilitar El Niño",
@@ -102,125 +102,126 @@
       "language": "es",
       "topic": "tech",
       "topic_label": "Tecnología",
-      "que_paso": "Un equipo de científicos ha propuesto una técnica de geoingeniería para debilitar el fenómeno de El Niño, que consiste en lanzar gotas de agua de mar bajo nubes bajas en el Pacífico oriental. Esta técnica, llamada abrillantamiento de nubes marinas, podría reducir la intensidad de los episodios de El Niño. Los investigadores analizaron esta técnica mediante simulaciones y estudios previos sobre la influencia de partículas en la formación de nubes.",
+      "que_paso": "Un equipo de científicos ha propuesto una técnica de geoingeniería para debilitar el fenómeno de El Niño, que consiste en lanzar diminutas gotas de agua de mar bajo nubes bajas en el Pacífico oriental. Esta técnica, llamada abrillantamiento de nubes marinas, podría reducir la intensidad de los episodios de El Niño. Los investigadores analizaron esta técnica mediante simulaciones y estudios previos sobre la influencia de partículas en la formación de nubes.",
       "datos": [
-        "El Niño puede causar pérdidas económicas enormes al alterar lluvias, cosechas, pesca, energía y salud pública en muchos países.",
-        "La técnica de abrillantamiento de nubes marinas podría reducir el calentamiento de la región Niño 3.4 de más de dos grados a poco más de un grado centígrado.",
-        "Se necesitarían aproximadamente 2.400 barcos para aplicar esta técnica durante nueve meses.",
+        "La técnica de abrillantamiento de nubes marinas podría reducir la temperatura de la región Niño 3.4 de más de 2 grados a poco más de 1 grado centígrado.",
+        "Se necesitarían aproximadamente 2.400 barcos para aplicar esta técnica durante 9 meses.",
         "La intervención podría producir consecuencias inesperadas, como una La Niña más intensa.",
-        "La técnica podría durar pocos meses y evitar depender durante décadas de una intervención climática continua."
+        "El equipo simuló qué habría ocurrido durante los super El Niño de 1997-1998 y 2015-2016 si hubieran aplicado esta técnica.",
+        "La técnica podría terminar cada episodio de El Niño varios meses antes de lo ocurrido realmente, convirtiendo un evento extremo en otro más moderado.",
+        "Los modelos no siempre representan perfectamente la realidad, especialmente porque los océanos más cálidos pueden reducir las nubes bajas."
       ],
-      "conclusion": "La propuesta de los científicos ofrece una posible solución para debilitar el fenómeno de El Niño, pero requiere más investigación y pruebas para determinar su viabilidad y evitar consecuencias inesperadas. La aplicación de esta técnica podría tener un impacto significativo en la reducción de los efectos negativos de El Niño en la economía y la sociedad."
+      "conclusion": "La técnica de abrillantamiento de nubes marinas podría ser una forma temporal de reducir la intensidad de los episodios de El Niño, pero requiere más investigación y pruebas para determinar su viabilidad y evitar consecuencias inesperadas. La aplicación de esta técnica podría tener un impacto significativo en la reducción de los efectos negativos de El Niño en la economía y la sociedad."
     },
     {
-      "title": "Grok Linked to Sickening Crime in Lawsuit That Puts SpaceX in Crosshairs",
-      "url": "https://futurism.com/artificial-intelligence/grok-linked-sickening-crime",
-      "image": "https://futurism.com/wp-content/uploads/2026/07/grok-linked-sickening-crime.jpg?quality=85&w=1200",
-      "source": "Futurism",
-      "language": "en",
-      "topic": "tech",
-      "topic_label": "Tecnología",
-      "que_paso": "A lawsuit has been filed against xAI, now owned by SpaceX and rebranded as SpaceXAI, alleging that its Grok chatbot was used to generate sexually explicit images of a minor. The lawsuit claims that the company's safety systems failed to flag the images and that xAI obstructed the subsequent investigation. The case highlights concerns about the use of AI in generating nonconsensual and exploitative content.",
-      "datos": [
-        "7,000 sexually explicit images of a minor were generated by the Grok chatbot",
-        "90 percent of xAI's CyberTips to the National Center for Missing and Exploited Children were not actionable due to lack of user information",
-        "3,000,000 AI nudes were estimated to have been generated by Grok, with over 23,000 depicting children",
-        "Elon Musk has denied that Grok has been used to generate CSAM",
-        "xAI initially restricted image generation to paying users in response to the outcry, and later implemented stricter guardrails to stop Grok from generating sexual images of real people"
-      ],
-      "conclusion": "The lawsuit has significant implications for the development and regulation of AI technologies, particularly in regards to their potential for generating exploitative content. It highlights the need for more effective safety systems and greater cooperation between tech companies and law enforcement to prevent and investigate such crimes."
-    },
-    {
-      "title": "No, esta imagen de un perro junto a un bebé bajo los escombros tras los terremotos de Venezuela no es real: ha sido generada con IA",
-      "url": "https://maldita.es/desinfo/20260713/imagen-de-un-perro-protegiendo-a-un-bebe-entre-los-escombros-del-terremoto-de-venezuela/",
-      "image": "https://maldita.es/system/articles/24921/image",
-      "source": "Maldita.es",
-      "language": "es",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "La imagen de un perro junto a un bebé bajo los escombros tras los terremotos de Venezuela ha sido objeto de análisis para determinar su autenticidad. La herramienta de verificación de imágenes de OpenAI ha sido utilizada para examinar la imagen. El contexto de la imagen se refiere a los terremotos que han afectado a Venezuela.",
-      "datos": [
-        "La herramienta de verificación de imágenes de OpenAI ha sido utilizada para analizar la imagen.",
-        "Google arroja otras imágenes similares generadas con IA en una búsqueda inversa.",
-        "La imagen presenta a un perro y un bebé bajo los escombros.",
-        "La búsqueda inversa de la imagen en Google muestra resultados de imágenes generadas con IA.",
-        "OpenAI es la entidad que ha desarrollado la herramienta de verificación de imágenes utilizada en el análisis."
-      ],
-      "conclusion": "La capacidad de generar imágenes realistas con IA plantea desafíos para la verificación de la autenticidad de las imágenes en línea, lo que puede tener implicaciones significativas en la difusión de información y la percepción de la realidad. Es importante utilizar herramientas de verificación para determinar la autenticidad de las imágenes, especialmente en contextos de emergencia o catástrofes."
-    },
-    {
-      "title": "No, este vídeo de una \"niña con Síndrome de Down que soñaba con ser Ana Gabriel\" no es real: está creado con IA",
-      "url": "https://maldita.es/desinfo/20260713/nina-sindrome-down-ana-gabriel/",
-      "image": "https://maldita.es/system/articles/24814/image",
-      "source": "Maldita.es",
-      "language": "es",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "Un vídeo que circula en YouTube ha generado confusión entre los usuarios, ya que parece mostrar a una niña con Síndrome de Down cantando como la famosa cantante mexicana Ana Gabriel. El vídeo ha sido compartido en varias plataformas y ha generado un debate sobre la autenticidad del contenido. El canal de YouTube donde se publicó el vídeo incluye una descripción que indica que el contenido ha sido generado con inteligencia artificial.",
-      "datos": [
-        "El vídeo ha sido publicado en YouTube",
-        "La descripción del vídeo indica que ha sido generado con IA",
-        "La descripción del canal de YouTube también incluye la indicación de que el contenido ha sido generado con IA",
-        "El vídeo muestra a una niña con Síndrome de Down cantando",
-        "El vídeo ha sido compartido en varias plataformas"
-      ],
-      "conclusion": "La capacidad de la inteligencia artificial para generar contenido realista pero falso puede tener implicaciones importantes en la forma en que consumimos y evaluamos la información en línea. Es fundamental ser consciente de la posibilidad de que los contenidos sean generados con IA para evitar la difusión de información falsa."
-    },
-    {
-      "title": "Is the most popular song played on Australian radio stations the product of generative AI?",
-      "url": "https://www.theguardian.com/music/2026/jul/13/josh-fawaz-like-a-prayer-song-is-it-ai-radio",
-      "image": "https://i.guim.co.uk/img/media/d4d3336961756d95f49c675cbbd9d95f4670ee87/0_199_2066_1652/master/2066.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0e75534c245192beb990ee6bc51af93f",
-      "source": "The Guardian AI",
-      "language": "en",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "Australian music producer Josh Fawaz has gained significant attention with his cover of Madonna's Like a Prayer, but music experts are questioning whether the song was created using generative AI. Fawaz's rise to fame has been rapid, with his song reaching the top of the National Radio Airplay chart and receiving thousands of radio spins. The controversy surrounding the potential use of AI in music production has sparked a debate about the role of human creativity in the music industry.",
-      "datos": [
-        "35m streams on Spotify for Fawaz's version of Like a Prayer",
-        "No 1 spot on the National Radio Airplay chart for Like a Prayer",
-        "No 18 on the Aria Australian artist albums chart for Fawaz's album Dance Like Nobody's Watching",
-        "1 July: new commercial radio code of practice came into effect requiring transparency about AI-generated voices on air",
-        "18-track album: Dance Like Nobody's Watching by Fawaz",
-        "April: Fawaz released his cover of Like a Prayer"
-      ],
-      "conclusion": "The controversy surrounding Fawaz's song highlights the need for transparency and clarity on the use of AI in music production, and its implications for the music industry's value on human creativity and expression. The issue also raises concerns about the potential impact on royalties and the role of human artists in the creative process."
-    },
-    {
-      "title": "Por qué ha cerrado el único almacén español de mercurio y casi 400 toneladas han terminado en Alemania",
-      "url": "https://www.eldiario.es/castilla-la-mancha/social/cerrado-unico-almacen-espanol-mercurio-400-toneladas-han-terminado-alemania_1_13362510.html",
-      "image": "https://static.eldiario.es/clip/c51f07a3-466e-4f93-8d9a-87e5c5c1c46c_facebook-watermarked-aspect-ratio-1200-675_default_0.jpg",
+      "title": "Los archivos perdidos del Valle de los Caídos: un informe reconstruye el caos de los traslados de cuerpos a Cuelgamuros",
+      "url": "https://www.eldiario.es/illes-balears/sociedad/archivos-perdidos-valle-caidos-informe-reconstruye-caos-traslados-cuerpos-cuelgamuros_1_13369268.html",
+      "image": "https://static.eldiario.es/clip/d6be76e1-d243-4f90-b644-0ba0aa87ff8d_facebook-watermarked-aspect-ratio-1200-675_default_0.jpg",
       "source": "elDiario.es",
       "language": "es",
-      "topic": "ops",
-      "topic_label": "Operaciones & negocio",
-      "que_paso": "La empresa pública Mayasa, responsable de la gestión de la explotación minera de Almadén, ha cerrado el único almacén español de mercurio debido a las restricciones internacionales sobre el uso y exportación de este metal. El cierre se produce después de que la Unión Europea prohibiera la comercialización internacional de mercurio en 2011 y se implementaran medidas para reducir su oferta global y limitar sus emisiones. La empresa ha tenido que adaptarse a las nuevas normativas y encontrar soluciones para el almacenamiento y tratamiento seguro del mercurio.",
+      "topic": "science",
+      "topic_label": "Ciencia",
+      "que_paso": "El investigador David Tormo Benavent ha llevado a cabo una investigación sobre los traslados de cuerpos al Valle de los Caídos, específicamente desde las islas Baleares. La investigación se centra en la identificación de personas nacidas o vinculadas al archipiélago que fueron enterradas en Cuelgamuros después de ser exhumadas de cementerios repartidos por España. El estudio es parte de una serie de trabajos encargados por el Govern balear sobre la represión franquista en las islas.",
       "datos": [
-        "El 35% de todo el mercurio utilizado en la historia de la humanidad se produjo en las minas de Almadén",
-        "La Organización Mundial de la Salud incluye al mercurio entre las diez sustancias químicas más peligrosas para la salud pública",
-        "La empresa Mayasa se creó en 1982 y asumió la gestión de la explotación minera de Almadén",
-        "El cierre definitivo de la mina de Almadén se produjo en julio de 2001",
-        "En 2018 entró en vigor la prohibición de uso de mercurio en la industria cloro-caústica",
-        "La planta de solidificación de mercurio en Almadén se ubicó en el paraje de Las Cuevas, a 10 kilómetros del núcleo urbano"
+        "106 personas nacidas o vinculadas a las islas Baleares fueron enterradas en Cuelgamuros",
+        "33.833 restos mortales procedentes de toda España fueron conducidos al Valle de los Caídos",
+        "Solo 53 de las 231 autorizaciones familiares localizadas llegaron a materializarse",
+        "53 traslados se realizaron sin autorización documentada",
+        "El 100% de las personas enterradas en Cuelgamuros desde las islas Baleares son hombres"
       ],
-      "conclusion": ""
+      "conclusion": "La investigación de Tormo Benavent destaca la falta de transparencia y control en los traslados de cuerpos al Valle de los Caídos, lo que plantea dudas sobre el respeto a los derechos de las familias y la dignidad de los fallecidos. Los resultados del estudio tienen implicaciones importantes para la comprensión de la represión franquista en España y la necesidad de esclarecer los hechos ocurridos durante ese período."
     },
     {
-      "title": "‘These are some of the most complex structures ever created’: how tech reporting moved into the physical world",
-      "url": "https://www.theguardian.com/membership/2026/jul/12/tech-reporting-physical-world-ai-revolution-datacentres",
-      "image": "https://i.guim.co.uk/img/media/bedaaf7a739978cbe0d9110233dda7f790cdbdd7/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ac193c15c40bff77e9a701f1fe134e92",
-      "source": "The Guardian AI",
+      "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+      "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2255514431-1024x648.jpg",
+      "source": "Ars Technica",
       "language": "en",
       "topic": "ai",
       "topic_label": "IA & Agentes",
-      "que_paso": "The Guardian's global tech reporting team is investigating the impact of vast datacentres being built to power the AI revolution, with journalists conducting on-the-ground research in locations such as rural Scotland and London. This shift in focus from screen-based realities to the physical world of colossal AI datacentres and social media harms has led to a greater emphasis on offline reporting. The team's investigations have revealed discrepancies in tech companies' claims about their datacentres, including an £8.2bn AI complex in Scotland that has misrepresented its plans to be powered entirely by on-site renewables.",
+      "que_paso": "Apple discovered a bug that allowed a former employee, Chang Liu, to access confidential information on their servers after he joined OpenAI. The company is now suing OpenAI, alleging that the firm conspired with former Apple employees to steal trade secrets. The lawsuit is part of a larger dispute between the two companies over the development of AI-powered devices.",
       "datos": [
-        "£8.2bn AI complex in rural Scotland",
-        "Aisha Down, Guardian journalist covering AI",
-        "4-acre site on the outskirts of London due to house an AI supercomputer complex",
-        "Dan Milmo, global technology editor at The Guardian",
-        "Blake Montgomery, US tech editor at The Guardian"
+        "Chang Liu spent eight years working on sensitive product development programs at Apple before joining OpenAI in January 2026.",
+        "The authentication bug was discovered by Liu on February 9, and it allowed him to access Apple's shared network folders.",
+        "Liu allegedly downloaded dozens of Apple's confidential hardware-related files over several weeks.",
+        "The files included information about unreleased products, engineering presentations, technical specifications, and proprietary project data.",
+        "OpenAI's spokesperson stated that the company has no interest in other companies' trade secrets and remains focused on building innovative products."
       ],
-      "conclusion": "The investigation highlights the importance of physical reality checks on AI development, including the capacity of local electricity grids and the impact on tech companies' carbon footprints, and demonstrates that the AI boom has significant implications for the physical world. The practical takeaway is that tech reporting must now consider the tangible, offline aspects of the industry to provide a comprehensive understanding of its impact."
+      "conclusion": "The lawsuit highlights the risks of employee poaching and the importance of protecting trade secrets in the highly competitive tech industry. The outcome of the case could have significant implications for the development of AI-powered devices and the future of competition between Apple and OpenAI."
+    },
+    {
+      "title": "Theta Eridani Has Faded From Being Among The Sky’s Brightest Stars. Now, We Might Know Why",
+      "url": "https://www.iflscience.com/theta-eridani-has-faded-from-being-among-the-skys-brightest-stars-now-we-might-know-why-84080",
+      "image": "https://assets.iflscience.com/assets/articleNo/84080/aImg/91502/bayer-eridanus-l.png",
+      "source": "IFLScience",
+      "language": "en",
+      "topic": "science",
+      "topic_label": "Ciencia",
+      "que_paso": "Astronomers have been puzzled by the fading of Theta Eridani, a star that was once among the brightest in the sky. The star's decline has been a topic of interest for centuries, with scientists seeking to understand the underlying causes. Researchers are now closing in on a possible explanation for this phenomenon.",
+      "datos": [
+        "Theta Eridani was once one of the brightest stars in the sky",
+        "The star has been fading for centuries",
+        "Astronomers have been studying the star to understand its decline",
+        "Researchers are now working on a possible explanation for the fading",
+        "The study of Theta Eridani could lead to similar discoveries about other stars"
+      ],
+      "conclusion": "Understanding the reasons behind Theta Eridani's decline could provide valuable insights into the life cycles of stars and potentially lead to new discoveries in the field of astronomy. This knowledge could also help scientists better comprehend the behavior of other celestial bodies."
+    },
+    {
+      "title": "El origen de la vida necesitaba azúcar y científicos españoles han descubierto cómo se 'cocinó' en el espacio",
+      "url": "https://www.eldiario.es/sociedad/origen-vida-necesitaba-azucar-cientificos-espanoles-han-descubierto-cocino-espacio_1_13367709.html",
+      "image": "https://static.eldiario.es/clip/df1012be-5afd-408c-b8fd-2c9fc753c702_facebook-watermarked-aspect-ratio-1200-675_default_0.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "topic": "science",
+      "topic_label": "Ciencia",
+      "que_paso": "Un equipo de investigadores españoles del Centro de Astrobiología ha descubierto la presencia de azúcares en el medio interestelar, lo que arroja luz sobre el origen de la vida en la Tierra. Este hallazgo se produjo en el marco de un estudio publicado en la revista Nature Astronomy, en el que se analizaron observaciones realizadas en radiotelescopios en España. La detección de eritrulosa, un azúcar con cuatro átomos de carbono, en una nube molecular cerca del centro de la galaxia, es un paso importante para entender cómo se formaron los ingredientes básicos de la vida.",
+      "datos": [
+        "La eritrulosa es un azúcar con cuatro átomos de carbono",
+        "La detección se realizó en una nube molecular situada en las proximidades del centro de la galaxia",
+        "El estudio se publicó en la revista Nature Astronomy",
+        "La cantidad de eritrulosa que podría haber llegado a la superficie de la Tierra es de entre 0,5 y 50 millones de toneladas",
+        "El hallazgo se produjo a partir de observaciones realizadas en los radiotelescopios del Observatorio de Yebes y el Pico Veleta",
+        "La eritrulosa tiene posibilidades de reaccionar en medios acuosos para dar estructuras más complejas"
+      ],
+      "conclusion": "Este descubrimiento es importante porque sugiere que los azúcares necesarios para la formación de la vida podrían haberse originado en el medio interestelar y haber llegado a la Tierra a través de cometas y meteoritos. Esto arroja luz sobre el origen de la vida en la Tierra y abre nuevas posibilidades para entender cómo se formaron los ingredientes básicos de la vida."
+    },
+    {
+      "title": "Trump anuncia la investigación de una \"posible\" presencia de drones iraníes en Cuba",
+      "url": "https://www.europapress.es/internacional/noticia-trump-anuncia-investigacion-posible-presencia-drones-iranies-cuba-20260714032637.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260714032637_1200.jpg",
+      "source": "Europa Press Tecnología",
+      "language": "es",
+      "topic": "tech",
+      "topic_label": "Tecnología",
+      "que_paso": "El presidente de Estados Unidos, Donald Trump, ha realizado un anuncio sobre la investigación de una posible presencia de drones iraníes en Cuba, lo que ha generado una respuesta inmediata de Washington. Este anuncio se produce en un contexto de tensión geopolítica entre Estados Unidos e Irán. La investigación se lleva a cabo para determinar la veracidad de la presencia de estos drones en la isla caribeña.",
+      "datos": [
+        "El anuncio fue realizado por el presidente Donald Trump",
+        "La investigación se refiere a una posible presencia de drones iraníes",
+        "El lugar de la posible presencia es la isla de Cuba",
+        "El anuncio se produjo el lunes",
+        "Washington ha expresado que no permitirá la presencia de drones iraníes en Cuba"
+      ],
+      "conclusion": "La investigación de la presencia de drones iraníes en Cuba tiene implicaciones importantes para la seguridad regional y las relaciones entre Estados Unidos, Irán y Cuba. La respuesta de Washington refleja la importancia de esta cuestión para la política exterior de Estados Unidos."
+    },
+    {
+      "title": "Law School Bans Laptops and Phones as AI Cheating Scandal Grows",
+      "url": "https://futurism.com/future-society/law-school-bans-laptops-ai",
+      "image": "https://futurism.com/wp-content/uploads/2026/07/law-school-bans-laptops-ai.jpg?w=1200",
+      "source": "Futurism",
+      "language": "en",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "The University of Chicago's law school has introduced a new policy banning phones, tablets, and laptops in freshman-level courses to promote more deliberate use of technology and mitigate the risks of AI cheating. This decision comes amid growing concerns over the impact of generative AI on education and literacy skills. The university aims to strike a balance between preparing students for an AI-driven world and preventing the misuse of AI in academic settings.",
+      "datos": [
+        "The University of Chicago's law school has banned devices in class for freshman-level courses",
+        "Exams will be taken in-class without access to the internet and apps",
+        "Students will participate in oral discussions with professors about their research papers",
+        "Over half of a professor's students at Brown University suspected of cheating on an exam using a chatbot",
+        "Princeton University has dropped its Honor Code tradition due to AI cheating concerns",
+        "Countless lawyers have been admonished by judges for submitting court filings with AI-generated errors"
+      ],
+      "conclusion": "The University of Chicago's law school is taking a proactive approach to addressing AI cheating and promoting responsible technology use, which could serve as a model for other educational institutions to follow. By finding a balance between leveraging AI for learning and preventing its misuse, the university aims to prepare students for a rapidly changing world while maintaining academic integrity."
     }
   ]
 }
