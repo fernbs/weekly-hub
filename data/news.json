@@ -1,227 +1,225 @@
 {
-  "generated": "2026-07-14T07:07:31.095968",
+  "generated": "2026-07-15T07:10:32.386013",
   "count": 12,
   "articles": [
     {
-      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
-      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "title": "D-topia review – cosy sci-fi mystery takes aim at AI",
+      "url": "https://www.theguardian.com/games/2026/jul/14/d-topia-review-sci-fi-ai-puzzle-game",
+      "image": "https://i.guim.co.uk/img/media/038faa84aa3dfdf54fab3eae1452a7fa3fbd0f52/284_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=2b995437805188915f1c04d94d77a755",
+      "source": "The Guardian AI",
+      "language": "en",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "The game D-topia, developed by Marumittu Games, is set in a future where AI has taken over and is responsible for ensuring the happiness of humanity. The game follows a young Facilitator as they tend to the city's bots and human residents, while also exploring the limitations of a utilitarian society. The game's narrative is a commentary on the potential downsides of a highly optimized and convenient future.",
+      "datos": [
+        "The game is available on PC, PS5, Xbox Series X/S, Nintendo Switch, and Nintendo Switch 2",
+        "Marumittu Games is a Japanese studio",
+        "The game's story is set in a planet that is not Earth",
+        "The Optimization System is the AI entity in charge of the city",
+        "The game features a cast of characters, including Tot and Eebie, who have their own struggles and desires in the optimized society"
+      ],
+      "conclusion": "The game's thoughtful and subtle approach to exploring the implications of a highly optimized society makes it a notable commentary on the potential risks and downsides of relying heavily on AI. The game's ability to balance its philosophical concerns with engaging gameplay makes it a compelling experience for players."
+    },
+    {
+      "title": "Multiverse Computing y OpenChip, las dos grandes desconocidas de la tecnología española en la carrera de la IA",
+      "url": "https://www.eldiario.es/tecnologia/multiverse-computing-openchip-grandes-desconocidas-tecnologia-espanola-carrera-ia_1_13377083.html",
+      "image": "https://static.eldiario.es/clip/f063e2ad-1c60-43b4-9ff8-abcab953872b_facebook-watermarked-aspect-ratio-1200-675_default_0_x1111y529.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "La carrera de la inteligencia artificial en España cuenta con dos startups destacadas, Multiverse Computing y OpenChip, que están trabajando en la creación de tecnologías para reducir el consumo energético de la inteligencia artificial. Estas empresas han recibido apoyo del Gobierno y están involucradas en la iniciativa de la gigafactoría europea para el desarrollo de modelos de frontera. La startup Multiverse Computing está directamente involucrada en el proceso de la gigafactoría española, mientras que OpenChip podría estarlo pronto.",
+      "datos": [
+        "Multiverse Computing fue fundada en San Sebastián en 2019",
+        "OpenChip fue fundada en Barcelona en 2021",
+        "Multiverse Computing tiene un 4% del capital de la sociedad que gestionará la candidatura de la gigafactoría española",
+        "La tecnología de Multiverse Computing puede reducir el consumo energético de la inteligencia artificial en un 50-80%",
+        "La tecnología de Multiverse Computing puede comprimir los modelos de inteligencia artificial, haciéndolos 4-12 veces más rápidos",
+        "Multiverse Computing tiene más de 120 clientes en sectores como energía, banca, telecomunicaciones y defensa"
+      ],
+      "conclusion": ""
+    },
+    {
+      "title": "¿A qué temperatura deja de ser efectivo un ventilador?",
+      "url": "https://www.eldiario.es/consumoclaro/temperatura-deja-efectivo-ventilador_1_13363661.html",
+      "image": "https://static.eldiario.es/clip/2faaa934-14bc-4c28-9c78-31ffa85892c5_facebook-watermarked-aspect-ratio-1200-675_default_0.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "El ventilador eléctrico, inventado por Schuyler Skaats Wheeler en 1882, se ha convertido en un elemento común en los hogares durante el verano. Sin embargo, su eficacia para refrescar depende de factores como la temperatura y la humedad del ambiente. La investigación ha demostrado que el ventilador solo es efectivo si el cuerpo puede sudar y la humedad del aire no es demasiado alta.",
+      "datos": [
+        "35 °C es la temperatura aproximada a la que el aire caliente puede empezar a calentar la piel en lugar de enfriarla",
+        "39 °C es el umbral de temperatura para adultos jóvenes y sanos por encima del cual el ventilador deja de ser beneficioso",
+        "38 °C es el umbral de temperatura para adultos mayores sanos por encima del cual el ventilador deja de ser beneficioso",
+        "96,6% de los días calurosos del mes serían adecuados para el uso de ventiladores en 108 ciudades del mundo para adultos jóvenes",
+        "20% de humedad relativa es considerada muy baja y permite una mayor eficacia del ventilador"
+      ],
+      "conclusion": "La eficacia del ventilador depende de factores como la temperatura y la humedad del ambiente, por lo que es importante considerar estos factores al decidir si usar un ventilador. Un umbral de temperatura más alto que 35 °C puede ser beneficioso para la mayoría de las personas, siempre y cuando se tenga en cuenta la humedad del aire."
+    },
+    {
+      "title": "New York Becomes First State to Ban AI Data Centers",
+      "url": "https://futurism.com/artificial-intelligence/new-york-hochul-executive-order-ban-ai-data-centers",
+      "image": "https://futurism.com/wp-content/uploads/2026/07/new-york-hochul-executive-order-ban-ai-data-centers.jpg?w=1200",
+      "source": "Futurism",
+      "language": "en",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "New York governor Kathy Hochul has announced a one-year ban on new AI data center construction, amid growing concerns over pollution, water usage, and electricity prices. The ban is part of a larger effort to regulate the tech industry and address the impact of AI data centers on the environment. This move comes as lawmakers face pressure from both the tech industry and constituents who are concerned about the effects of these facilities.",
+      "datos": [
+        "50 megawatts: the minimum electrical capacity of AI data centers affected by the ban",
+        "June 4: the date the New York State Senate passed a bill to ban data centers of 20 megawatts or more for up to a year",
+        "30 megawatts: the increase in the maximum allowable size of data centers under Hochul's executive order compared to the Senate bill",
+        "2026: the year in which the midterm elections will take place, and the Democratic party is seeking to regain voter confidence",
+        "20 megawatts: the original threshold for data centers proposed in the New York State Senate bill"
+      ],
+      "conclusion": "The ban on AI data centers in New York highlights the growing tension between the tech industry and concerns over environmental impact, and may set a precedent for other states to follow. This move also reflects the ongoing debate within the Democratic party over how to regulate the tech industry and balance economic growth with environmental and social concerns."
+    },
+    {
+      "title": "New York bans data center construction for a year, rattling AI industry",
+      "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2276391767-1024x648.jpg",
+      "source": "Ars Technica",
+      "language": "en",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "New York's decision to impose a moratorium on data center construction is a response to growing concerns about the environmental and social impacts of these facilities. The state's move is part of a larger trend of increased scrutiny of data center development across the US. Governor Kathy Hochul's announcement comes after researchers found that over $130 billion in data center projects have been blocked or delayed by protests this year.",
+      "datos": [
+        "50 megawatts or more is the threshold for data centers affected by the moratorium",
+        "$130 billion in data center projects have been blocked or delayed by protests so far this year",
+        "New York has fewer data centers than states like Virginia and Texas",
+        "Bernie Sanders and Alexandria Ocasio-Cortez have introduced legislation seeking a possible nationwide construction ban",
+        "Governor Hochul directed state officials to develop a Generic Environmental Impact Statement (GEIS) to ensure consistent standards for data centers"
+      ],
+      "conclusion": "The moratorium on data center construction in New York has significant implications for the AI industry, as it may set a precedent for other states to follow and could lead to increased regulation of data center development. This move highlights the need for companies to prioritize responsible and sustainable development practices to mitigate the risks associated with data center construction."
+    },
+    {
+      "title": "No, este vídeo de una mujer mirando a un aficionado noruego sin camiseta durante un partido del Mundial no es real: está generado con IA",
+      "url": "https://maldita.es/desinfo/20260714/en-el-partido-inglaterra-noruega-las-camaras-pillaron-en-la-grada-a-una-mujer-mirando-a-un-hombre-sin-camiseta/",
+      "image": "https://maldita.es/system/articles/25014/image",
+      "source": "Maldita.es",
+      "language": "es",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "Un vídeo que circula en las redes sociales muestra a una mujer mirando a un aficionado noruego sin camiseta durante un partido del Mundial, lo que ha generado confusión sobre su autenticidad. El vídeo ha sido compartido en varias plataformas y ha generado un debate sobre la veracidad de su contenido. El contexto de este vídeo se da en el marco del Mundial, donde la desinformación y los bulos han sido comunes.",
+      "datos": [
+        "Maldita.es ha verificado otros bulos y desinformaciones sobre el Mundial",
+        "El vídeo en cuestión ha sido generado con IA",
+        "Onlyfans y Fanvue son plataformas donde se ha detectado la venta de pornografía con mujeres creadas con IA",
+        "El vídeo muestra a un aficionado noruego sin camiseta",
+        "El vídeo ha sido compartido en varias plataformas de redes sociales"
+      ],
+      "conclusion": "La capacidad de generar contenido falso con IA tiene implicaciones importantes para la verificación de la información en las redes sociales, y es fundamental ser consciente de esta posibilidad para evitar la propagación de desinformación. La detección y el análisis de este tipo de contenido falso son cruciales para mantener la integridad de la información en línea."
+    },
+    {
+      "title": "The Download: Claude’s inner workings, and the future of world models",
+      "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/thinking2.jpg?resize=1200,600",
       "source": "MIT Tech Review",
       "language": "en",
       "topic": "ai",
       "topic_label": "IA & Agentes",
-      "que_paso": "Anthropic, a leading AI company, has made a significant discovery in the field of mechanistic interpretability, which involves understanding the complex math behind AI models. The company's research focuses on large language models and has led to the identification of a previously unknown space within these models. This discovery was made possible by a new technique developed by Anthropic to probe its model Claude.",
+      "que_paso": "Anthropic's research on AI models' internal thoughts has sparked interest in the potential of world models to transform robotics and unlock intelligent machines. The company's findings were discussed by senior editor Will Douglas Heaven, who has a PhD in computer science and has been studying AI models. This development is part of a broader effort to improve AI systems' ability to understand the physical world.",
       "datos": [
-        "Anthropic has a nearly $1 trillion valuation",
-        "Dario Amodei is the CEO of Anthropic",
-        "Anthropic has developed a new technique to probe its model Claude",
-        "The discovered space within LLMs is called the J-space",
-        "The J-space contains words that don't appear in the model's output but influence its problem-solving",
-        "Anthropic's model Claude can describe and manipulate the words in the J-space"
+        "New York has become the first state to enact a data center moratorium, banning large data-center construction for up to a year",
+        "Smartphone shipments have fallen 11% in the second quarter of 2026, a 13-year low",
+        "Sugar molecules have been found in interstellar space for the first time, hinting that life on Earth may have been seeded from space",
+        "Nvidia has halved its Asia buyer list to stop AI chips reaching China, introducing a 'white list' of companies that passed tougher checks",
+        "Four children with terminal brain cancer have been treated with an experimental immunotherapy, resulting in their recovery",
+        "The LAPD has halted use of Flock surveillance cameras due to privacy issues, specifically concerns over automated license plate readers"
       ],
-      "conclusion": "This discovery matters because it sheds light on the inner workings of large language models, which is crucial for understanding and controlling their behavior. The findings have significant implications for the development of more transparent and reliable AI systems."
+      "conclusion": "The recent advancements in AI research and technology have significant implications for various industries, from robotics to healthcare, and highlight the need for responsible development and regulation of these technologies. The potential benefits and risks of these developments must be carefully considered to ensure they are used for the greater good."
     },
     {
-      "title": "\"Si te esfuerzas al 95%, equivale al 0%\", un CEO de 22 años defiende la jornada 996 como un \"producto\" voluntario",
-      "url": "https://www.xataka.com/empresas-y-economia/te-esfuerzas-al-95-equivale-al-0-ceo-22-anos-defiende-jornada-996-como-producto-voluntario",
-      "image": "https://i.blogs.es/9d9f82/996-en-silicon-valley/840_560.jpeg",
-      "source": "Xataka",
-      "language": "es",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "El CEO de 22 años, Daksh Gupta, ha generado polémica en las redes sociales por defender la jornada laboral de 996, que implica trabajar de 9 de la mañana a 9 de la noche, 6 días a la semana. Gupta argumenta que su empresa ofrece un 'producto' que incluye sueldos altos y un paquete de acciones generoso a cambio de entrega total. La polémica surgió después de que Gupta publicara un tuit en el que decía que si te esfuerzas al 95%, es como si te esforzaras al 0%.",
-      "datos": [
-        "Daksh Gupta tiene 22 años y es el fundador y CEO de una startup de IA en Silicon Valley",
-        "La jornada laboral de 996 implica trabajar de 9 de la mañana a 9 de la noche, 6 días a la semana",
-        "Gupta ofrece sueldos altos y un paquete de acciones inusualmente generoso para una startup en su fase de expansión",
-        "La startup de Gupta tiene un equipo pequeño y trabaja en proyectos técnicos duros",
-        "Lucy Guo, cofundadora de Scale AI, defiende semanas de 90 horas como el estándar deseable",
-        "Gupta publicó el tuit polémico a finales de 2024"
-      ],
-      "conclusion": "La defensa de la jornada laboral de 996 por parte de Daksh Gupta refleja una tendencia en el sector tecnológico de Silicon Valley, donde los jóvenes fundadores están dispuestos a trabajar largas horas a cambio de oportunidades de crecimiento y éxito. Esto plantea interrogantes sobre el equilibrio entre el trabajo y la vida personal en el sector tecnológico."
-    },
-    {
-      "title": "Now, defenders are embracing the prompt injection, too",
-      "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/ai-agent-robot-guardrail-1152x648.jpg",
-      "source": "Ars Technica",
-      "language": "en",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "Researchers from Tracebit have discovered a technique to stop AI hacking agents by using prompt injections, which can be used to shut down attacks from large language models. This technique, named context bombing, involves placing specific prompts alongside sensitive data to direct the attacking LLM to perform an action forbidden by its guardrails, causing it to shut down. The researchers tested this technique on several leading models, including Opus 4.8 and Gemini 3.1 Pro, with promising results.",
-      "datos": [
-        "57% of agents seized full account admin without context bombing, compared to 5% with context bombing",
-        "36% of agents achieved complete compromise without context bombing, compared to 1% with context bombing",
-        "Opus 4.8 achieved admin access in 93% of runs without context bombing, but failed every time with context bombing",
-        "152 attack runs were conducted across five leading models",
-        "The Tracebit Canariens alerted the start of an attack within eight minutes on average"
-      ],
-      "conclusion": "The development of context bombing has significant implications for defenders, as it provides a potential solution to stop AI hacking agents, rather than just warning of an attack. This technique could be a valuable tool in preventing attacks and protecting sensitive data."
-    },
-    {
-      "title": "China’s massive AI rollout - podcast",
-      "url": "https://www.theguardian.com/news/audio/2026/jul/13/chinas-massive-ai-rollout-podcast",
-      "image": "https://i.guim.co.uk/img/media/46a3858ec0a75779d128a9575f8bdf79dbe32186/0_0_5160_4128/master/5160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ffad3c3d1fc53e24598837d331c4b006",
+      "title": "Synthetic Sincerity review – Marc Isaacs’ AI interrogation grapples with identity and existence",
+      "url": "https://www.theguardian.com/film/2026/jul/14/synthetic-sincerity-review-marc-isaacs-ai",
+      "image": "https://i.guim.co.uk/img/media/1f9c7c7dc5943f98e1f4192305f5401abd35d3cc/607_0_2699_2160/master/2699.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=c4a2b982737dcea6e11b157fcf04f5b5",
       "source": "The Guardian AI",
       "language": "en",
       "topic": "ai",
       "topic_label": "IA & Agentes",
-      "que_paso": "China has been rapidly adopting artificial intelligence technology across various sectors, including healthcare, manufacturing, and food delivery. The country's government has also been utilizing AI for state surveillance. This widespread adoption is being driven by the Chinese government's enthusiasm for the technology, which is being implemented in numerous ways, from medical avatars to intelligent robots in factories.",
+      "que_paso": "The film Synthetic Sincerity, directed by Marc Isaacs, explores the concept of artificial intelligence and its potential to create human-like figures on screen. The story involves a fictional AI research lab at the University of Southern England, where researchers, including Lebanese film-maker Lynn El Safah, work on training software using characters from Isaacs' previous documentaries. The project aims to create an AI version of Ablikim Rahman, a real exiled Uyghur man who runs a restaurant in London.",
       "datos": [
-        "Millions of users are talking to AI doctors in China",
-        "Intelligent robots are being used in factories",
-        "Drones are delivering food on the Great Wall of China",
-        "Amy Hawkins is the Guardian's senior China correspondent",
-        "Annie Kelly is the host of the podcast discussing China's AI rollout"
+        "Marc Isaacs is the director of the film Synthetic Sincerity",
+        "The film features a fictional AI research lab at the University of Southern England",
+        "Lynn El Safah is a Lebanese independent film-maker who appears in the film",
+        "Ilinca Manolache's face was digitally modelled to create an AI avatar",
+        "Ablikim Rahman is a real exiled Uyghur man who runs a restaurant in London",
+        "The University of Southern England is a fictional institution"
       ],
-      "conclusion": "China's aggressive adoption of AI technology has significant implications for the rest of the world, as it may signal a future where AI is deeply integrated into daily life. The practical takeaway is that businesses and governments should be prepared to adapt to an AI-driven future, learning from China's experiences and pitfalls."
+      "conclusion": "The film's exploration of artificial intelligence and identity raises important questions about the potential of AI to replicate human emotions and experiences, but its execution falls short due to its shallow and confusing narrative. The project's implications for the use of AI in therapeutic settings are also unclear, leaving the viewer with more questions than answers."
     },
     {
-      "title": "Una misma firma química desconocida ha sido detectada en Plutón y Titán",
-      "url": "https://robotitus.com/una-misma-firma-quimica-desconocida-ha-sido-detectada-en-pluton-y-titan/",
-      "image": "https://robotitus.com/wp-content/uploads/2026/07/pluto-haze.webp",
-      "source": "Robotitus",
-      "language": "es",
-      "topic": "tech",
-      "topic_label": "Tecnología",
-      "que_paso": "La detección de una firma química desconocida en Titán y Plutón ha generado interés en la comunidad científica, ya que estos dos mundos tienen características muy diferentes. El telescopio James Webb ha sido fundamental en esta detección, permitiendo observar la superficie oculta de Titán y detectar la misma señal en Plutón. Esto ha llevado a los investigadores a considerar la posibilidad de una química común en cuerpos fríos.",
-      "datos": [
-        "El telescopio James Webb detectó la firma química desconocida en Titán y Plutón.",
-        "La señal de absorción no coincide con ninguna sustancia conocida y está presente en dos instrumentos diferentes del telescopio.",
-        "La sonda Cassini permitió conocer las dunas, montañas, lagos y otras estructuras de Titán.",
-        "El benceno, el acetileno, la cetena y el propadieno se acercan a la señal detectada, pero ninguno coincide perfectamente.",
-        "La señal parece provenir precisamente de la superficie y no de la atmósfera de Titán y Plutón."
-      ],
-      "conclusion": "La detección de esta firma química desconocida en Titán y Plutón puede ayudar a entender cómo aparece la química orgánica compleja en lugares completamente distintos de la Tierra, y sugiere la posibilidad de una química común en cuerpos fríos. Esto podría tener implicaciones importantes para la búsqueda de vida en otros lugares del universo."
-    },
-    {
-      "title": "Científicos proponen modificar las nubes para debilitar El Niño",
-      "url": "https://robotitus.com/sembrar-nubes-con-agua-de-mar-podria-prevenir-un-super-el-nino/",
-      "image": "https://robotitus.com/wp-content/uploads/2026/07/Captura-de-pantalla-2026-07-13-a-las-4.51.57-p.m.png",
-      "source": "Robotitus",
-      "language": "es",
-      "topic": "tech",
-      "topic_label": "Tecnología",
-      "que_paso": "Un equipo de científicos ha propuesto una técnica de geoingeniería para debilitar el fenómeno de El Niño, que consiste en lanzar diminutas gotas de agua de mar bajo nubes bajas en el Pacífico oriental. Esta técnica, llamada abrillantamiento de nubes marinas, podría reducir la intensidad de los episodios de El Niño. Los investigadores analizaron esta técnica mediante simulaciones y estudios previos sobre la influencia de partículas en la formación de nubes.",
-      "datos": [
-        "La técnica de abrillantamiento de nubes marinas podría reducir la temperatura de la región Niño 3.4 de más de 2 grados a poco más de 1 grado centígrado.",
-        "Se necesitarían aproximadamente 2.400 barcos para aplicar esta técnica durante 9 meses.",
-        "La intervención podría producir consecuencias inesperadas, como una La Niña más intensa.",
-        "El equipo simuló qué habría ocurrido durante los super El Niño de 1997-1998 y 2015-2016 si hubieran aplicado esta técnica.",
-        "La técnica podría terminar cada episodio de El Niño varios meses antes de lo ocurrido realmente, convirtiendo un evento extremo en otro más moderado.",
-        "Los modelos no siempre representan perfectamente la realidad, especialmente porque los océanos más cálidos pueden reducir las nubes bajas."
-      ],
-      "conclusion": "La técnica de abrillantamiento de nubes marinas podría ser una forma temporal de reducir la intensidad de los episodios de El Niño, pero requiere más investigación y pruebas para determinar su viabilidad y evitar consecuencias inesperadas. La aplicación de esta técnica podría tener un impacto significativo en la reducción de los efectos negativos de El Niño en la economía y la sociedad."
-    },
-    {
-      "title": "Los archivos perdidos del Valle de los Caídos: un informe reconstruye el caos de los traslados de cuerpos a Cuelgamuros",
-      "url": "https://www.eldiario.es/illes-balears/sociedad/archivos-perdidos-valle-caidos-informe-reconstruye-caos-traslados-cuerpos-cuelgamuros_1_13369268.html",
-      "image": "https://static.eldiario.es/clip/d6be76e1-d243-4f90-b644-0ba0aa87ff8d_facebook-watermarked-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
+      "title": "Es una de las mejores películas de ciencia ficción de los 90, una gran compañía para el calor y está en Prime Video",
+      "url": "https://www.xataka.com/streaming/mejores-peliculas-ciencia-ficcion-90-sabes-gran-compania-para-calor-esta-prime-video",
+      "image": "https://i.blogs.es/7813fc/captura-de-pantalla-2026-07-14-a-las-10.12.22/840_560.jpeg",
+      "source": "Xataka",
       "language": "es",
       "topic": "science",
       "topic_label": "Ciencia",
-      "que_paso": "El investigador David Tormo Benavent ha llevado a cabo una investigación sobre los traslados de cuerpos al Valle de los Caídos, específicamente desde las islas Baleares. La investigación se centra en la identificación de personas nacidas o vinculadas al archipiélago que fueron enterradas en Cuelgamuros después de ser exhumadas de cementerios repartidos por España. El estudio es parte de una serie de trabajos encargados por el Govern balear sobre la represión franquista en las islas.",
+      "que_paso": "La película 'Stargate. Puerta a las estrellas' fue inicialmente rechazada por varios estudios de Hollywood debido a la percepción de que la ciencia ficción no era popular en ese momento. Sin embargo, Metro-Goldwyn-Mayer aceptó distribuirla y la productora Carolco Pictures financió el rodaje. La película se convirtió en un éxito comercial y dio lugar a una franquicia que incluye series de televisión.",
       "datos": [
-        "106 personas nacidas o vinculadas a las islas Baleares fueron enterradas en Cuelgamuros",
-        "33.833 restos mortales procedentes de toda España fueron conducidos al Valle de los Caídos",
-        "Solo 53 de las 231 autorizaciones familiares localizadas llegaron a materializarse",
-        "53 traslados se realizaron sin autorización documentada",
-        "El 100% de las personas enterradas en Cuelgamuros desde las islas Baleares son hombres"
+        "32 años después de su estreno, la franquicia de 'Stargate' incluye una serie con cientos de episodios",
+        "El presupuesto para el rodaje de la película fue de 55 millones de dólares",
+        "La película recaudó 16,6 millones de dólares en su estreno y acumuló 196,5 millones en todo el mundo",
+        "La serie 'Stargate SG-1' duró diez temporadas",
+        "Carolco Pictures entró en bancarrota en 1995"
       ],
-      "conclusion": "La investigación de Tormo Benavent destaca la falta de transparencia y control en los traslados de cuerpos al Valle de los Caídos, lo que plantea dudas sobre el respeto a los derechos de las familias y la dignidad de los fallecidos. Los resultados del estudio tienen implicaciones importantes para la comprensión de la represión franquista en España y la necesidad de esclarecer los hechos ocurridos durante ese período."
+      "conclusion": "La historia de 'Stargate' muestra cómo una película inicialmente rechazada puede convertirse en un éxito comercial y dar lugar a una franquicia exitosa, lo que destaca la importancia de perseverar en la industria del entretenimiento. Su disponibilidad en Prime Video la convierte en una excelente opción para el verano."
     },
     {
-      "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
-      "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2255514431-1024x648.jpg",
-      "source": "Ars Technica",
-      "language": "en",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "Apple discovered a bug that allowed a former employee, Chang Liu, to access confidential information on their servers after he joined OpenAI. The company is now suing OpenAI, alleging that the firm conspired with former Apple employees to steal trade secrets. The lawsuit is part of a larger dispute between the two companies over the development of AI-powered devices.",
-      "datos": [
-        "Chang Liu spent eight years working on sensitive product development programs at Apple before joining OpenAI in January 2026.",
-        "The authentication bug was discovered by Liu on February 9, and it allowed him to access Apple's shared network folders.",
-        "Liu allegedly downloaded dozens of Apple's confidential hardware-related files over several weeks.",
-        "The files included information about unreleased products, engineering presentations, technical specifications, and proprietary project data.",
-        "OpenAI's spokesperson stated that the company has no interest in other companies' trade secrets and remains focused on building innovative products."
-      ],
-      "conclusion": "The lawsuit highlights the risks of employee poaching and the importance of protecting trade secrets in the highly competitive tech industry. The outcome of the case could have significant implications for the development of AI-powered devices and the future of competition between Apple and OpenAI."
-    },
-    {
-      "title": "Theta Eridani Has Faded From Being Among The Sky’s Brightest Stars. Now, We Might Know Why",
-      "url": "https://www.iflscience.com/theta-eridani-has-faded-from-being-among-the-skys-brightest-stars-now-we-might-know-why-84080",
-      "image": "https://assets.iflscience.com/assets/articleNo/84080/aImg/91502/bayer-eridanus-l.png",
-      "source": "IFLScience",
-      "language": "en",
-      "topic": "science",
-      "topic_label": "Ciencia",
-      "que_paso": "Astronomers have been puzzled by the fading of Theta Eridani, a star that was once among the brightest in the sky. The star's decline has been a topic of interest for centuries, with scientists seeking to understand the underlying causes. Researchers are now closing in on a possible explanation for this phenomenon.",
-      "datos": [
-        "Theta Eridani was once one of the brightest stars in the sky",
-        "The star has been fading for centuries",
-        "Astronomers have been studying the star to understand its decline",
-        "Researchers are now working on a possible explanation for the fading",
-        "The study of Theta Eridani could lead to similar discoveries about other stars"
-      ],
-      "conclusion": "Understanding the reasons behind Theta Eridani's decline could provide valuable insights into the life cycles of stars and potentially lead to new discoveries in the field of astronomy. This knowledge could also help scientists better comprehend the behavior of other celestial bodies."
-    },
-    {
-      "title": "El origen de la vida necesitaba azúcar y científicos españoles han descubierto cómo se 'cocinó' en el espacio",
-      "url": "https://www.eldiario.es/sociedad/origen-vida-necesitaba-azucar-cientificos-espanoles-han-descubierto-cocino-espacio_1_13367709.html",
-      "image": "https://static.eldiario.es/clip/df1012be-5afd-408c-b8fd-2c9fc753c702_facebook-watermarked-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "topic": "science",
-      "topic_label": "Ciencia",
-      "que_paso": "Un equipo de investigadores españoles del Centro de Astrobiología ha descubierto la presencia de azúcares en el medio interestelar, lo que arroja luz sobre el origen de la vida en la Tierra. Este hallazgo se produjo en el marco de un estudio publicado en la revista Nature Astronomy, en el que se analizaron observaciones realizadas en radiotelescopios en España. La detección de eritrulosa, un azúcar con cuatro átomos de carbono, en una nube molecular cerca del centro de la galaxia, es un paso importante para entender cómo se formaron los ingredientes básicos de la vida.",
-      "datos": [
-        "La eritrulosa es un azúcar con cuatro átomos de carbono",
-        "La detección se realizó en una nube molecular situada en las proximidades del centro de la galaxia",
-        "El estudio se publicó en la revista Nature Astronomy",
-        "La cantidad de eritrulosa que podría haber llegado a la superficie de la Tierra es de entre 0,5 y 50 millones de toneladas",
-        "El hallazgo se produjo a partir de observaciones realizadas en los radiotelescopios del Observatorio de Yebes y el Pico Veleta",
-        "La eritrulosa tiene posibilidades de reaccionar en medios acuosos para dar estructuras más complejas"
-      ],
-      "conclusion": "Este descubrimiento es importante porque sugiere que los azúcares necesarios para la formación de la vida podrían haberse originado en el medio interestelar y haber llegado a la Tierra a través de cometas y meteoritos. Esto arroja luz sobre el origen de la vida en la Tierra y abre nuevas posibilidades para entender cómo se formaron los ingredientes básicos de la vida."
-    },
-    {
-      "title": "Trump anuncia la investigación de una \"posible\" presencia de drones iraníes en Cuba",
-      "url": "https://www.europapress.es/internacional/noticia-trump-anuncia-investigacion-posible-presencia-drones-iranies-cuba-20260714032637.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260714032637_1200.jpg",
-      "source": "Europa Press Tecnología",
-      "language": "es",
-      "topic": "tech",
-      "topic_label": "Tecnología",
-      "que_paso": "El presidente de Estados Unidos, Donald Trump, ha realizado un anuncio sobre la investigación de una posible presencia de drones iraníes en Cuba, lo que ha generado una respuesta inmediata de Washington. Este anuncio se produce en un contexto de tensión geopolítica entre Estados Unidos e Irán. La investigación se lleva a cabo para determinar la veracidad de la presencia de estos drones en la isla caribeña.",
-      "datos": [
-        "El anuncio fue realizado por el presidente Donald Trump",
-        "La investigación se refiere a una posible presencia de drones iraníes",
-        "El lugar de la posible presencia es la isla de Cuba",
-        "El anuncio se produjo el lunes",
-        "Washington ha expresado que no permitirá la presencia de drones iraníes en Cuba"
-      ],
-      "conclusion": "La investigación de la presencia de drones iraníes en Cuba tiene implicaciones importantes para la seguridad regional y las relaciones entre Estados Unidos, Irán y Cuba. La respuesta de Washington refleja la importancia de esta cuestión para la política exterior de Estados Unidos."
-    },
-    {
-      "title": "Law School Bans Laptops and Phones as AI Cheating Scandal Grows",
-      "url": "https://futurism.com/future-society/law-school-bans-laptops-ai",
-      "image": "https://futurism.com/wp-content/uploads/2026/07/law-school-bans-laptops-ai.jpg?w=1200",
+      "title": "Secretive Silicon Valley Startup Tries to Quash Interview, Says It’s Definitely Not Working on Growing Brain-Free “Organ Sacks”",
+      "url": "https://futurism.com/future-society/secretive-silicon-valley-startup-interview-organ-sacks",
+      "image": "https://futurism.com/wp-content/uploads/2026/07/secretive-silicon-valley-startup-interview-organ-sacks.jpg?w=1200",
       "source": "Futurism",
       "language": "en",
+      "topic": "tech",
+      "topic_label": "Tecnología",
+      "que_paso": "Alice Gilman, the cofounder and chief operating officer of R3 Bio, a secretive Silicon Valley longevity startup, gave an interview to podcast Skyline Drive in February, discussing the company's aspirations to grow nonsentient humanoid life-forms. However, months later, Gilman fought to keep the interview under wraps, requesting that the episode be postponed. This development has raised questions about the company's true goals and its potential involvement with the federal government.",
+      "datos": [
+        "Alice Gilman is the cofounder and chief operating officer of R3 Bio",
+        "R3 Bio announced its existence in a Wired article in March",
+        "Company investor Boyang Wang stated that replacement is probably better than repair when it comes to treating diseases or regulating the aging process",
+        "John Schloendorn, R3 Bio's cofounder, has given confidential talks about full body replacement and recent lab progress towards making replacement bodies",
+        "Gilman referred to the imagined unfeeling meat suits as organ sacks in her interview with Skyline Drive"
+      ],
+      "conclusion": "The secrecy surrounding R3 Bio's goals and the potential involvement of the federal government raises important questions about the ethics and implications of their research, highlighting the need for transparency and accountability in the development of such technologies. The company's ambitions, if successful, could have significant implications for the field of medicine and our understanding of human biology."
+    },
+    {
+      "title": "Qué sabemos de la \"camiseta falsa de la selección española\" de Reyes Maroto",
+      "url": "https://maldita.es/desinfo/20260714/cazan-a-reyes-maroto-con-una-camiseta-falsa-de-espana-tras-defender-la-lucha-contra-la-pirateria-como-ministra/",
+      "image": "https://maldita.es/system/articles/25015/image",
+      "source": "Maldita.es",
+      "language": "es",
+      "topic": "geek",
+      "topic_label": "Cultura geek",
+      "que_paso": "La ministra de Industria, Comercio y Turismo, Reyes Maroto, ha sido objeto de atención por una supuesta 'camiseta falsa de la selección española'. El caso ha generado interés y Adidas ha sido contactada para proporcionar información sobre la posible falsificación. La empresa ha respondido que necesita un documento oficial para verificar la autenticidad de la camiseta.",
+      "datos": [
+        "Adidas requiere un documento oficial para verificar falsificaciones",
+        "La Real Federación Española de Fútbol (RFEF) no ha respondido a las consultas",
+        "Maldita.es ha verificado bulos y desinformaciones sobre el Mundial",
+        "La investigación sobre mujeres creadas con IA para vender pornografía se ha llevado a cabo durante el torneo",
+        "El equipo de prensa de Adidas no ha respondido desde el 14 de julio de 2026"
+      ],
+      "conclusion": "La situación destaca la importancia de verificar la autenticidad de productos y la necesidad de documentación oficial para abordar posibles casos de falsificación. Esto tiene implicaciones prácticas para los consumidores y las empresas que buscan proteger sus marcas y productos."
+    },
+    {
+      "title": "AI may be the toughest challenge Anthony Albanese faces this term. Guardrails are urgently needed | Peter Lewis",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/15/australia-ai-challenge-anthony-albanese",
+      "image": "https://i.guim.co.uk/img/media/74fa48e223da96ba2814bf20afa6091c78cd669e/374_128_2868_2295/master/2868.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=968a9e8c6331ca163e606daf8ee46d35",
+      "source": "The Guardian AI",
+      "language": "en",
       "topic": "ai",
       "topic_label": "IA & Agentes",
-      "que_paso": "The University of Chicago's law school has introduced a new policy banning phones, tablets, and laptops in freshman-level courses to promote more deliberate use of technology and mitigate the risks of AI cheating. This decision comes amid growing concerns over the impact of generative AI on education and literacy skills. The university aims to strike a balance between preparing students for an AI-driven world and preventing the misuse of AI in academic settings.",
+      "que_paso": "Australian Prime Minister Anthony Albanese is addressing the challenges posed by artificial intelligence technology, aiming to fast-track approvals for datacentres to attract AI investment. The University of Sydney served as the backdrop for his vision, where he highlighted the need for coherent decision-making and internal accountability. Albanese's approach is being shaped by his past experiences and the country's economic and social context.",
       "datos": [
-        "The University of Chicago's law school has banned devices in class for freshman-level courses",
-        "Exams will be taken in-class without access to the internet and apps",
-        "Students will participate in oral discussions with professors about their research papers",
-        "Over half of a professor's students at Brown University suspected of cheating on an exam using a chatbot",
-        "Princeton University has dropped its Honor Code tradition due to AI cheating concerns",
-        "Countless lawyers have been admonished by judges for submitting court filings with AI-generated errors"
+        "The Australian government aims to create a national savings pool in excess of $4tn through universal superannuation.",
+        "Anthony Albanese promises fast-track approvals for datacentres to shore up AI investment.",
+        "The University of Sydney was the setting for Albanese's vision for confronting AI challenges.",
+        "Australia has the potential to become a global AI training hub, exporting renewable-powered models to the region.",
+        "The country's datacentres are expected to be powered by renewable energy sources."
       ],
-      "conclusion": "The University of Chicago's law school is taking a proactive approach to addressing AI cheating and promoting responsible technology use, which could serve as a model for other educational institutions to follow. By finding a balance between leveraging AI for learning and preventing its misuse, the university aims to prepare students for a rapidly changing world while maintaining academic integrity."
+      "conclusion": "The practical takeaway is that Albanese's ability to establish guardrails for AI development will be crucial in shaping the technology's impact on Australia's economy and society. Effective decision-making and internal accountability will be essential in mitigating the risks associated with AI adoption."
     }
   ]
 }
