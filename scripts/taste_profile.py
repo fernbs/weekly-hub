@@ -154,10 +154,10 @@ NEGATIVE = {
     },
 }
 
-# How many articles to keep at most (fewer, better, cheaper on the AI).
-MAX_ARTICLES = 22
-# Minimum score to make the cut.
-MIN_SCORE = 3
+# How many articles to keep at most.
+MAX_ARTICLES = 50
+# Minimum score to make the cut (2 = one minor topic match is enough).
+MIN_SCORE = 2
 
 # ── Plans profile ────────────────────────────────────────────────────────────
 # Same idea as TOPICS but tuned for Madrid leisure listings (Spanish event text,

@@ -38,20 +38,32 @@ import taste_profile as tp
 # Fixes the old mojibake source names (feed titles were garbled).
 # ============================================================
 SOURCES = [
-    {"url": "https://www.theprp.com/feed",                                   "name": "The PRP",         "lang": "en"},
-    {"url": "https://www.nytimes.com/services/xml/rss/nyt/HomePage.xml",     "name": "New York Times",  "lang": "en"},
-    {"url": "https://www.robotitus.com/feed/",                               "name": "Robotitus",       "lang": "es"},
-    {"url": "https://www.theguardian.com/technology/artificialintelligenceai/rss", "name": "The Guardian AI", "lang": "en"},
-    {"url": "https://www.eldiario.es/rss/",                                  "name": "elDiario.es",     "lang": "es"},
-    {"url": "https://www.iflscience.com/rss/ifls-latest-rss.xml",            "name": "IFLScience",      "lang": "en"},
-    {"url": "https://futurism.com/feed",                                     "name": "Futurism",        "lang": "en"},
-    {"url": "https://maldita.es/feed/",                                      "name": "Maldita.es",      "lang": "es"},
-    {"url": "https://www.europapress.es/rss/rss.aspx?ch=66",                 "name": "Europa Press Ciencia",    "lang": "es"},
-    {"url": "https://www.europapress.es/rss/rss.aspx?ch=69",                 "name": "Europa Press Tecnología", "lang": "es"},
-    # Extra tech/science signal aligned with the taste profile:
-    {"url": "https://www.technologyreview.com/feed/",                        "name": "MIT Tech Review", "lang": "en"},
-    {"url": "https://arstechnica.com/feed/",                                 "name": "Ars Technica",    "lang": "en"},
-    {"url": "https://www.xataka.com/index.xml",                              "name": "Xataka",          "lang": "es"},
+    # Metal / music
+    {"url": "https://www.theprp.com/feed",                                        "name": "The PRP",                    "lang": "en"},
+    # General news (English)
+    {"url": "https://www.nytimes.com/services/xml/rss/nyt/HomePage.xml",          "name": "New York Times",             "lang": "en"},
+    {"url": "https://www.nytimes.com/services/xml/rss/nyt/Science.xml",           "name": "NYT Science",                "lang": "en"},
+    {"url": "https://www.nytimes.com/services/xml/rss/nyt/Technology.xml",        "name": "NYT Tech",                   "lang": "en"},
+    # General news (Spanish)
+    {"url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",   "name": "El País",                    "lang": "es"},
+    {"url": "https://feeds.bbci.co.uk/mundo/rss.xml",                             "name": "BBC Mundo",                  "lang": "es"},
+    {"url": "https://www.eldiario.es/rss/",                                       "name": "elDiario.es",                "lang": "es"},
+    {"url": "https://maldita.es/feed/",                                           "name": "Maldita.es",                 "lang": "es"},
+    {"url": "https://www.europapress.es/rss/rss.aspx?ch=66",                      "name": "Europa Press Ciencia",       "lang": "es"},
+    {"url": "https://www.europapress.es/rss/rss.aspx?ch=69",                      "name": "Europa Press Tecnología",    "lang": "es"},
+    # AI / tech Spanish
+    {"url": "https://www.robotitus.com/feed/",                                    "name": "Robotitus",                  "lang": "es"},
+    {"url": "https://www.xataka.com/index.xml",                                   "name": "Xataka",                     "lang": "es"},
+    {"url": "https://hipertextual.com/feed",                                      "name": "Hipertextual",               "lang": "es"},
+    # AI / tech English
+    {"url": "https://www.theguardian.com/technology/artificialintelligenceai/rss","name": "The Guardian AI",            "lang": "en"},
+    {"url": "https://www.technologyreview.com/feed/",                             "name": "MIT Tech Review",            "lang": "en"},
+    {"url": "https://arstechnica.com/feed/",                                      "name": "Ars Technica",               "lang": "en"},
+    {"url": "https://www.theverge.com/rss/index.xml",                             "name": "The Verge",                  "lang": "en"},
+    {"url": "https://www.wired.com/feed/rss",                                     "name": "Wired",                      "lang": "en"},
+    # Science
+    {"url": "https://www.iflscience.com/rss/ifls-latest-rss.xml",                 "name": "IFLScience",                 "lang": "en"},
+    {"url": "https://futurism.com/feed",                                          "name": "Futurism",                   "lang": "en"},
 ]
 
 HOURS_BACK = 30  # a little over a day, to absorb feed/publish delays
@@ -325,31 +337,53 @@ def export_json(summaries):
 
 
 # ============================================================
-# EMAIL
+# EMAIL — dark design mirroring index.html
 # ============================================================
+_C = {
+    "bg":    "#0e1116",
+    "surf":  "#161a21",
+    "surf2": "#1d232c",
+    "line":  "#2a313d",
+    "txt":   "#e8ebf0",
+    "dim":   "#9aa5b4",
+    "mute":  "#5c6672",
+    "sky":   "#38bdf8",
+    "red":   "#f87171",
+    "amber": "#fbbf24",
+    "green": "#34d399",
+}
+
+
 def _summary_html(s):
     datos = "".join(
-        f'<li style="margin:0 0 5px 0;line-height:1.5;color:#333;font-size:14px;">{html.escape(d)}</li>'
+        f'<li style="margin:0 0 6px 0;line-height:1.55;color:{_C["dim"]};font-size:14px;'
+        f'padding-left:16px;position:relative;list-style:none;">'
+        f'<span style="position:absolute;left:0;color:{_C["sky"]};font-weight:700;">•</span>'
+        f'{html.escape(d)}</li>'
         for d in s["datos"]
     )
     blocks = []
     if s["que_paso"]:
         blocks.append(
-            '<div style="margin-bottom:12px;">'
-            '<span style="font-size:10px;font-weight:700;letter-spacing:.5px;text-transform:uppercase;color:#c0392b;">Qué pasó</span>'
-            f'<p style="margin:3px 0 0;line-height:1.6;color:#333;font-size:14px;">{html.escape(s["que_paso"])}</p></div>'
+            f'<div style="margin-bottom:13px;">'
+            f'<div style="font-size:10px;font-weight:700;letter-spacing:1.2px;text-transform:uppercase;'
+            f'color:{_C["sky"]};margin-bottom:4px;font-family:Arial,Helvetica,sans-serif;">Qué pasó</div>'
+            f'<p style="margin:0;line-height:1.6;color:{_C["dim"]};font-size:14px;">{html.escape(s["que_paso"])}</p></div>'
         )
     if datos:
         blocks.append(
-            '<div style="margin-bottom:12px;">'
-            '<span style="font-size:10px;font-weight:700;letter-spacing:.5px;text-transform:uppercase;color:#1a1a2e;">Datos</span>'
-            f'<ul style="margin:5px 0 0;padding-left:18px;">{datos}</ul></div>'
+            f'<div style="margin-bottom:13px;">'
+            f'<div style="font-size:10px;font-weight:700;letter-spacing:1.2px;text-transform:uppercase;'
+            f'color:{_C["mute"]};margin-bottom:5px;font-family:Arial,Helvetica,sans-serif;">Datos</div>'
+            f'<ul style="margin:0;padding:0;">{datos}</ul></div>'
         )
     if s["conclusion"]:
         blocks.append(
-            '<div style="background:#fdf3f2;border-left:3px solid #c0392b;padding:8px 12px;border-radius:0 3px 3px 0;">'
-            '<span style="font-size:10px;font-weight:700;letter-spacing:.5px;text-transform:uppercase;color:#c0392b;">Conclusión</span>'
-            f'<p style="margin:3px 0 0;line-height:1.55;color:#444;font-size:13px;">{html.escape(s["conclusion"])}</p></div>'
+            f'<div style="background:{_C["surf2"]};border-left:3px solid {_C["amber"]};'
+            f'padding:9px 13px;border-radius:0 6px 6px 0;">'
+            f'<div style="font-size:10px;font-weight:700;letter-spacing:1.2px;text-transform:uppercase;'
+            f'color:{_C["amber"]};margin-bottom:4px;font-family:Arial,Helvetica,sans-serif;">Conclusión</div>'
+            f'<p style="margin:0;line-height:1.55;color:{_C["txt"]};font-size:13px;">{html.escape(s["conclusion"])}</p></div>'
         )
     return "".join(blocks)
 
@@ -358,64 +392,96 @@ def generate_email_html(summaries, stats):
     now = datetime.now()
     hub_url = os.getenv("HUB_URL", "")
     date_es = now.strftime("%d/%m/%Y")
+    c = _C
 
     hub_btn = (
-        '<tr><td style="background:#0d1020;padding:12px 32px;text-align:center;">'
-        f'<a href="{hub_url}" target="_blank" style="display:inline-block;background:#c0392b;'
-        'color:#fff;text-decoration:none;font-size:12px;font-weight:800;letter-spacing:1px;'
-        'text-transform:uppercase;padding:9px 22px;border-radius:4px;">'
-        'Ver todo en la web &#8594;</a></td></tr>'
+        f'<tr><td style="background:{c["surf2"]};padding:12px 32px;text-align:center;border-bottom:1px solid {c["line"]};">'
+        f'<a href="{hub_url}" target="_blank" style="display:inline-block;background:{c["sky"]};'
+        f'color:{c["bg"]};text-decoration:none;font-size:12px;font-weight:800;letter-spacing:1px;'
+        f'text-transform:uppercase;padding:9px 22px;border-radius:6px;font-family:Arial,Helvetica,sans-serif;">'
+        f'Ver todo en la web &#8594;</a></td></tr>'
     ) if hub_url else ""
 
     cards = ""
     for i, item in enumerate(summaries, 1):
         lang = item.get("language", "es")
-        lang_color = "#c0392b" if lang == "es" else "#1a6eb5"
+        lang_bg = c["red"] if lang == "es" else c["sky"]
         lang_label = "ES" if lang == "es" else "EN"
         topic = item.get("topic_label", "")
-        topic_badge = (f'<span style="font-size:10px;font-weight:700;color:#6d28d9;'
-                       f'background:#f3f0ff;padding:2px 7px;border-radius:3px;">{html.escape(topic)}</span>') if topic else ""
+        topic_badge = (
+            f'<span style="font-size:10px;font-weight:700;color:{c["sky"]};'
+            f'background:rgba(56,189,248,.15);padding:2px 8px;border-radius:4px;'
+            f'letter-spacing:.4px;text-transform:uppercase;">{html.escape(topic)}</span>'
+        ) if topic else ""
         img = ""
         if item.get("image_url"):
-            img = (f'<div style="margin-bottom:14px;border-radius:4px;overflow:hidden;">'
+            img = (f'<div style="margin-bottom:14px;border-radius:8px;overflow:hidden;">'
                    f'<img src="{html.escape(item["image_url"])}" alt="" '
-                   f'style="width:100%;max-height:220px;object-fit:cover;display:block;border-radius:4px;" '
+                   f'style="width:100%;max-height:220px;object-fit:cover;display:block;" '
                    f'onerror="this.style.display=\'none\'"></div>')
-        cards += f'''
-        <div style="background:#fff;border:1px solid #e0e0e0;border-left:4px solid #c0392b;border-radius:4px;padding:22px 24px;margin-bottom:16px;">
-            <div style="margin-bottom:10px;">
-                <span style="font-size:11px;font-weight:700;color:#fff;background:{lang_color};padding:2px 7px;border-radius:3px;margin-right:6px;">{lang_label}</span>
-                {topic_badge}
-                <span style="font-size:12px;font-weight:600;color:#888;text-transform:uppercase;letter-spacing:.5px;margin-left:4px;">{html.escape(item["source"])}</span>
-            </div>
-            <h2 style="margin:0 0 14px;font-size:17px;font-weight:700;line-height:1.4;color:#1a1a2e;font-family:Georgia,serif;">{html.escape(item["title"])}</h2>
-            {img}
-            <div style="background:#f9f9f9;border-radius:3px;padding:14px 16px;margin-bottom:14px;">{_summary_html(item["summary"])}</div>
-            <a href="{html.escape(item["url"])}" style="display:inline-block;background:#1a1a2e;color:#fff;text-decoration:none;font-size:12px;font-weight:600;padding:8px 16px;border-radius:3px;">Leer artículo &rarr;</a>
-        </div>'''
+        cards += (
+            f'<div style="background:{c["surf"]};border:1px solid {c["line"]};border-radius:10px;'
+            f'padding:20px 22px;margin-bottom:14px;">'
+            f'<div style="margin-bottom:10px;">'
+            f'<span style="font-size:10px;font-weight:700;color:{c["bg"]};background:{lang_bg};'
+            f'padding:2px 7px;border-radius:4px;margin-right:6px;">{lang_label}</span>'
+            f'{topic_badge}'
+            f'<span style="font-size:11px;font-weight:600;color:{c["mute"]};text-transform:uppercase;'
+            f'letter-spacing:.8px;margin-left:4px;font-family:Arial,Helvetica,sans-serif;">{html.escape(item["source"])}</span>'
+            f'</div>'
+            f'<h2 style="margin:0 0 13px;font-size:17px;font-weight:700;line-height:1.4;'
+            f'color:{c["txt"]};font-family:Georgia,serif;">{html.escape(item["title"])}</h2>'
+            f'{img}'
+            f'<div style="background:{c["surf2"]};border-radius:8px;padding:14px 16px;margin-bottom:14px;">'
+            f'{_summary_html(item["summary"])}</div>'
+            f'<a href="{html.escape(item["url"])}" style="display:inline-block;background:{c["surf2"]};'
+            f'color:{c["sky"]};text-decoration:none;font-size:12px;font-weight:600;padding:8px 16px;'
+            f'border-radius:6px;border:1px solid {c["line"]};text-transform:uppercase;'
+            f'letter-spacing:.5px;font-family:Arial,Helvetica,sans-serif;">Leer artículo &#8594;</a>'
+            f'</div>'
+        )
 
-    return f'''<!DOCTYPE html><html lang="es"><head><meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1.0"><title>La Guía Ferlín</title></head>
-<body style="margin:0;padding:0;background:#f0f0f0;font-family:Arial,Helvetica,sans-serif;">
-<table width="100%" cellpadding="0" cellspacing="0" style="background:#f0f0f0;padding:20px 0;"><tr><td align="center">
-<table width="640" cellpadding="0" cellspacing="0" style="max-width:640px;width:100%;">
-  <tr><td style="background:#1a1a2e;padding:34px 32px 26px;border-radius:4px 4px 0 0;">
-    <div style="border-bottom:2px solid #c0392b;padding-bottom:14px;margin-bottom:14px;">
-      <div style="font-size:11px;font-weight:700;color:#c0392b;letter-spacing:2px;text-transform:uppercase;margin-bottom:8px;">La Guía Ferlín · Noticias</div>
-      <div style="font-size:27px;font-weight:800;color:#fff;font-family:Georgia,serif;">El resumen del día</div>
-    </div>
-    <div><span style="font-size:13px;color:#aab2c0;">{date_es}</span>
-    <span style="font-size:12px;color:#c0392b;font-weight:600;float:right;">{stats["summarized"]} noticias para ti</span></div>
-  </td></tr>
-  {hub_btn}
-  <tr><td style="background:#c0392b;padding:10px 32px;">
-    <span style="font-size:11px;font-weight:700;color:#fff;text-transform:uppercase;letter-spacing:1.5px;">Lo relevante de hoy</span></td></tr>
-  <tr><td style="background:#f0f0f0;padding:16px 16px 8px;">
-    {cards if cards else '<p style="color:#888;text-align:center;padding:40px;">Sin noticias relevantes hoy.</p>'}
-  </td></tr>
-  <tr><td style="background:#1a1a2e;padding:20px 32px;border-radius:0 0 4px 4px;text-align:center;">
-    <p style="margin:0;font-size:11px;color:#6677aa;">Generado automáticamente · Groq AI · {now.strftime("%d/%m/%Y %H:%M")}</p></td></tr>
-</table></td></tr></table></body></html>'''
+    no_news = f'<p style="color:{c["mute"]};text-align:center;padding:40px;font-family:Arial,Helvetica,sans-serif;">Sin noticias relevantes hoy.</p>'
+
+    return (
+        f'<!DOCTYPE html><html lang="es"><head><meta charset="UTF-8">'
+        f'<meta name="viewport" content="width=device-width,initial-scale=1.0">'
+        f'<title>La Guía Ferlín</title></head>'
+        f'<body style="margin:0;padding:0;background:{c["bg"]};font-family:Arial,Helvetica,sans-serif;">'
+        f'<table width="100%" cellpadding="0" cellspacing="0" style="background:{c["bg"]};padding:20px 0;">'
+        f'<tr><td align="center">'
+        f'<table width="640" cellpadding="0" cellspacing="0" style="max-width:640px;width:100%;">'
+        # Header
+        f'<tr><td style="background:{c["surf"]};padding:28px 32px 22px;border-radius:10px 10px 0 0;border-bottom:1px solid {c["line"]};">'
+        f'<div style="border-bottom:1px solid {c["line"]};padding-bottom:14px;margin-bottom:14px;">'
+        f'<div style="font-size:11px;font-weight:700;color:{c["sky"]};letter-spacing:2px;text-transform:uppercase;'
+        f'margin-bottom:8px;font-family:Arial,Helvetica,sans-serif;">La Guía Ferlín · Noticias</div>'
+        f'<div style="font-size:26px;font-weight:800;color:{c["txt"]};font-family:Georgia,serif;">El resumen del día</div>'
+        f'</div>'
+        f'<div>'
+        f'<span style="font-size:13px;color:{c["dim"]};font-family:Arial,Helvetica,sans-serif;">{date_es}</span>'
+        f'<span style="font-size:12px;color:{c["sky"]};font-weight:700;float:right;font-family:Arial,Helvetica,sans-serif;">'
+        f'{stats["summarized"]} noticias</span>'
+        f'</div>'
+        f'</td></tr>'
+        # Hub button
+        f'{hub_btn}'
+        # Section label
+        f'<tr><td style="background:{c["surf2"]};padding:10px 32px;border-top:1px solid {c["line"]};border-bottom:1px solid {c["line"]};">'
+        f'<span style="font-size:11px;font-weight:700;color:{c["sky"]};text-transform:uppercase;'
+        f'letter-spacing:1.5px;font-family:Arial,Helvetica,sans-serif;">Lo relevante de hoy</span></td></tr>'
+        # Cards
+        f'<tr><td style="background:{c["bg"]};padding:16px 16px 8px;">'
+        f'{cards if cards else no_news}'
+        f'</td></tr>'
+        # Footer
+        f'<tr><td style="background:{c["surf"]};padding:18px 32px;border-radius:0 0 10px 10px;'
+        f'border-top:1px solid {c["line"]};text-align:center;">'
+        f'<p style="margin:0;font-size:11px;color:{c["mute"]};font-family:Arial,Helvetica,sans-serif;">'
+        f'Generado automáticamente · Groq AI · {now.strftime("%d/%m/%Y %H:%M")}</p>'
+        f'</td></tr>'
+        f'</table></td></tr></table></body></html>'
+    )
 
 
 def send_email(subject, html_content):
