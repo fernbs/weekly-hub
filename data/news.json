@@ -1,388 +1,482 @@
 {
-  "generated": "2026-07-17T07:14:27.640747",
-  "count": 21,
+  "generated": "2026-07-18T06:58:01.417054",
+  "count": 26,
   "articles": [
     {
-      "title": "Esa cosa entre David Sánchez y el Mundial llamada dependencia",
-      "url": "https://elpais.com/television/2026-07-17/esa-cosa-entre-david-sanchez-y-el-mundial-llamada-dependencia.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/27CXZMQQHFADTFMQYKDBB2FK6E.jpg?auth=40dd1ddd9e2af0b48df36c3b8459a47b33e42e84823b5016d5fc6a0ea7eb7e04&width=1200",
+      "title": "Alejandra Jáidar, la primera física mexicana y su rol clave para que México albergara uno de los aceleradores de partículas en operación \"más antiguos del mundo\"",
+      "url": "https://www.bbc.com/mundo/articles/ckg429098vyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/news/1200/branded_mundo/9c41/live/04f4da50-69a2-11f1-a1f1-4bdcaac47eb6.png",
+      "source": "BBC Mundo",
+      "language": "es",
+      "topic": "science",
+      "topic_label": "Ciencia",
+      "que_paso": "La física mexicana Alejandra Jáidar jugó un papel fundamental en la instalación de un acelerador de partículas en México. Su legado es recordado por su familia y su contribución a la ciencia es destacada en el país. La historia de su vida y carrera es un ejemplo de dedicación y pasión por el conocimiento.",
+      "datos": [
+        "Alejandra Jáidar nació en el Puerto de Veracruz",
+        "Tenía 51 años cuando murió en septiembre de 1988",
+        "El acelerador de partículas comenzó a funcionar a finales de julio de 1988",
+        "La familia de Alejandra Jáidar era de origen libanés y se estableció en México",
+        "Ella se disfrazó de hombre para entrar a una mina de mercurio en Guerrero",
+        "Su padre, José Teodoro Jáidar Jacob, era empresario y dueño de la mina"
+      ],
+      "conclusion": "La historia de Alejandra Jáidar es un ejemplo de cómo la dedicación y la pasión por la ciencia pueden dejar un legado duradero. Su contribución a la instalación del acelerador de partículas en México es un recordatorio de la importancia de la investigación y la innovación en el país."
+    },
+    {
+      "title": "\"La IA cambia el modo de trabajar y cómo se sienten las personas\": el 30% de los trabajadores se sienten menos útiles",
+      "url": "https://www.xataka.com/robotica-e-ia/ia-cambia-modo-trabajar-como-se-sienten-personas-30-trabajadores-se-sienten-utiles",
+      "image": "https://i.blogs.es/ebfcda/flipsnack-6qnipep6v_4-unsplash/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "Un estudio de Ionos revela que el 41% de las pymes en España utilizan herramientas de IA en sus procesos diarios, lo que ha generado un impacto en la forma en que los trabajadores se sienten respecto a su productividad. El informe 'People at Work 2026' de ADP Research muestra que, a pesar del aumento en el uso de la IA, los empleados sienten que rinden menos. Esto ha llevado a un debate sobre el impacto real de la IA en la productividad laboral.",
+      "datos": [
+        "El 30% de los trabajadores que usan IA a diario se sienten menos útiles",
+        "El 15% de los trabajadores en España usa IA todos los días",
+        "El 11% de los trabajadores en España cree que la IA acabará por sustituirle en su puesto",
+        "La IA podría acabar con hasta 2,3 millones de empleos en España entre 2025 y 2035",
+        "La productividad laboral europea ha subido un 4% gracias a la IA",
+        "El 41% de las pymes en España ya usa alguna herramienta de IA en sus procesos diarios"
+      ],
+      "conclusion": "El impacto de la IA en la productividad laboral es complejo y no se puede medir solo por la adopción de herramientas de IA, ya que los trabajadores deben mejorar sus habilidades y familiarizarse con estas herramientas para aumentar su productividad. La IA puede ser un complemento del trabajo humano, pero no su sustituto, y su efecto en la productividad dependerá de cómo se integre en los flujos de trabajo y se aprovechen sus beneficios."
+    },
+    {
+      "title": "Se llama Coco, es una niña y quiere ser maga",
+      "url": "https://elpais.com/babelia/2026-07-18/se-llama-coco-es-una-nina-y-quiere-ser-maga.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ZZVUKIKYMZGWNF4QHJLOJ57BLQ.jpg?auth=d3924959f22b1f58b7d18cf247d3d7df6f13b380c28c296e34b947734b92c8cd",
       "source": "El País",
       "language": "es",
       "topic": "ai",
       "topic_label": "IA & Agentes",
-      "que_paso": "El martes 14 de julio de 2026, se produjo una sentencia que condenó al hermano del presidente del Gobierno a nueve años de inhabilitación, lo que trastocó la parrilla informativa del día. Mientras tanto, se llevaba a cabo la votación sobre la reforma de la Ley de Dependencia en el Congreso. La noticia sobre la votación fue cubierta de manera desigual por los principales telediarios.",
+      "que_paso": "La autora Kamome Shirahama ha creado un manga que ha cautivado a los lectores durante una década, y su protagonista, Coco, es una niña que aspira a convertirse en maga. El manga 'Atelier of Witch Hat' presenta una trama que se centra en el esfuerzo personal y el desarrollo de habilidades mágicas. Este manga ha logrado generar un gran interés entre los fanáticos del género.",
       "datos": [
-        "9 años de inhabilitación para el hermano del presidente del Gobierno",
-        "31 segundos de cobertura en TVE en el matinal",
-        "44 segundos de cobertura en TVE en el formato mini",
-        "27 segundos de cobertura en Antena 3",
-        "1 minuto y 30 segundos de cobertura en Telecinco",
-        "Casi 6 minutos de cobertura en Cuatro",
-        "Casi 8 minutos de cobertura en La Sexta"
+        "El manga 'Atelier of Witch Hat' ha sido creado por Kamome Shirahama",
+        "La protagonista del manga se llama Coco",
+        "El manga ha causado furor desde hace una década",
+        "El manga presenta tramas pequeñas que permiten a la protagonista hacer brujería",
+        "El manga ha sido bien recibido por los lectores de manga y fanáticos del género"
       ],
-      "conclusion": "La desigual cobertura de la votación sobre la reforma de la Ley de Dependencia por parte de los telediarios resalta la importancia de priorizar y dar voz a temas que afectan directamente a la sociedad. La diferencia en la cantidad de tiempo dedicado a este tema por cada canal de noticias destaca la necesidad de un periodismo más profundo y comprometido con la información de calidad."
+      "conclusion": "El éxito de 'Atelier of Witch Hat' muestra que las historias que se centran en el esfuerzo personal y el desarrollo de habilidades pueden ser muy atractivas para los lectores, lo que puede ser una lección valiosa para los creadores de contenido en el género de manga y cómics."
     },
     {
-      "title": "La JEC exige motivar en qué provincia se inscribe a los electores nacionalizados por la 'ley de nietos'",
-      "url": "https://www.europapress.es/nacional/noticia-junta-electoral-exige-motivar-provincia-inscribe-electores-nacionalizados-ley-nietos-20260716152048.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260716152048_1200.jpg",
-      "source": "Europa Press Ciencia",
-      "language": "es",
+      "title": "SpaceX Eager to Support the Pentagon’s Lethal AI Models",
+      "url": "https://futurism.com/space/spacex-support-pentagons-ai-models",
+      "image": "https://futurism.com/wp-content/uploads/2026/07/spacex-support-pentagons-ai-models.jpg?quality=85&w=1200",
+      "source": "Futurism",
+      "language": "en",
       "topic": "ai",
       "topic_label": "IA & Agentes",
-      "que_paso": "La Junta Electoral Central ha tomado una decisión relacionada con la aplicación de la 'ley de nietos', que afecta a los descendientes de exiliados que solicitan la nacionalidad española. Esta ley forma parte de la Ley de Memoria Democrática y tiene implicaciones en el proceso de inscripción de electores. La Oficina del Censo Electoral jugará un papel clave en este proceso.",
+      "que_paso": "SpaceX is in talks with the Pentagon to provide access to its data-center capacity for running AI models, which could deepen the ties between Elon Musk's business empire and the US military. The two have collaborated on various projects in the past, including the deployment of spy satellites and the development of a rocket for delivering military cargo. This potential deal comes as SpaceX struggles to be profitable, having lost $5 billion last year.",
       "datos": [
-        "La Junta Electoral Central ha acordado solicitar una instrucción a la Oficina del Censo Electoral",
-        "La 'ley de nietos' se encuentra dentro de la Ley de Memoria Democrática",
-        "La ley concede la nacionalidad española a los descendientes de exiliados",
-        "La determinación del municipio electoral debe estar 'suficientemente motivada' si no se corresponde con el último domicilio en España",
-        "La Oficina del Censo Electoral es la entidad responsable de recibir la solicitud de instrucción"
+        "SpaceX has data centers in Memphis, Tennessee, with 89% of its computing power untapped",
+        "xAI burned through $6.4 billion in the same period as SpaceX's $5 billion loss",
+        "SpaceX won a $2.29 billion Space Force contract in May to build a network of satellites for a military internet service",
+        "SpaceX was awarded a $4.16 billion contract to provide technology for tracking missiles and aircraft from orbit",
+        "The potential deal with the Pentagon could cost the military billions of dollars"
       ],
-      "conclusion": "La decisión de la Junta Electoral Central tiene implicaciones importantes para el proceso de inscripción de electores nacionalizados a través de la 'ley de nietos', ya que busca garantizar la transparencia y la justicia en la asignación de los municipios electorales. Esto puede tener un impacto significativo en la participación electoral de estos ciudadanos."
+      "conclusion": "This deal matters because it highlights the growing relationship between tech companies and the military, with significant implications for the development and use of AI in warfare. The potential revenue from this deal could also be a crucial lifeline for SpaceX as it struggles to achieve profitability."
     },
     {
-      "title": "El DAO de la Guardia Civil rechaza ante el juez del caso Leire Díez que las investigaciones por filtraciones fueran una presión a la UCO",
-      "url": "https://www.eldiario.es/politica/dao-guardia-civil-rechaza-juez-investigaciones-filtraciones-fueran-presion-uco_1_13385093.html",
-      "image": "https://static.eldiario.es/clip/1489bb74-adb9-4747-94af-e02373c528bb_facebook-watermarked-aspect-ratio-1200-675_default_0_x976y290.jpg",
+      "title": "Corea del Sur y Japón rememoran la crisis asiática y cambian el ‘chip’ de los activos IA y del ahorro",
+      "url": "https://www.eldiario.es/economia/corea-sur-japon-rememoran-crisis-asiatica-cambian-chip-activos-ia-ahorro_129_13386952.html",
+      "image": "https://static.eldiario.es/clip/4f3535c2-e43c-4169-b0e5-d6a06fa04ce0_facebook-aspect-ratio-1200-675_default_0_x928y432.jpg",
       "source": "elDiario.es",
       "language": "es",
       "topic": "ai",
       "topic_label": "IA & Agentes",
-      "que_paso": "El director adjunto operativo de la Guardia Civil, Manuel Llamas, ha declarado ante el juez Santiago Pedraz en el 'caso Leire Díez' sobre las investigaciones por filtraciones. La declaración se centró en las informaciones reservadas abiertas para esclarecer el origen de informaciones periodísticas sobre investigaciones de la UCO. El juez Pedraz también ha pospuesto la declaración de la directora de la Guardia Civil, Mercedes González, hasta el día siguiente.",
+      "que_paso": "La crisis asiática de 1997 ha generado un paralelismo con la situación actual en Corea del Sur y Japón, donde la atmósfera bursátil se ha deteriorado y ha cundido el nerviosismo desde comienzos de julio. El Índice Kospi de Corea del Sur y el rendimiento del bono soberano a 30 años de Japón han experimentado cambios significativos. La política monetaria ultra-expansiva del Banco de Japón ha sido desmantelada, lo que ha generado un cambio de registro en la economía japonesa.",
       "datos": [
-        "Manuel Llamas declaró durante casi tres horas en calidad de investigado",
-        "Se abrieron 56 informaciones reservadas en toda la Guardia Civil, según Llamas",
-        "La UCO ha sido objeto de tres informaciones reservadas desde que Llamas es el número dos del Cuerpo",
-        "El ministro del Interior, Fernando Grande-Marlaska, se indignó por la publicación de direcciones de correo electrónico del presidente del Gobierno y su familia",
-        "Mercedes González está imputada en el 'caso Leire Díez'",
-        "Llamas negó haber ejercido presión sobre la UCO en las investigaciones al PSOE o el entorno de Pedro Sánchez"
+        "El MSCI Korea se ha contraído más del 30% desde sus máximos de junio",
+        "El rendimiento del bono soberano a 30 años de Japón ha escalado a máximos en tres décadas",
+        "El Banco de Japón ha mantenido los tipos pegados a cero durante treinta años",
+        "La caída del bath tailandés en 1997 desencadenó una crisis financiera que contagió a las divisas de los tigres asiáticos",
+        "Japón es el gran acreedor global y Corea del Sur presenta un patrón de ahorro elevado",
+        "El Índice Kospi de Corea del Sur ha experimentado episodios de volatilidad desconocidos desde 1998"
       ],
       "conclusion": ""
     },
     {
-      "title": "La revancha de los gigantes de la IA: los centros de datos atraen a los analistas tras las caídas del chip",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-17/la-revancha-de-los-gigantes-de-la-ia-los-centros-de-datos-atraen-a-los-analistas-tras-las-caidas-del-chip.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/TDI7SNKEMNGM3HNTTRYDQXYWIQ.jpg?auth=6d84469f4208e02a6afdbb2fc72143cf0b07d276c2884124eac0526ca62ae279&width=1200",
+      "title": "Hackers Expose How AI Music App Suno Stole Decades Worth of Copyrighted Music",
+      "url": "https://futurism.com/artificial-intelligence/hacker-ai-music-suno-copyright",
+      "image": "https://futurism.com/wp-content/uploads/2026/07/hacker-ai-music-suno-copyright.jpg?w=1200",
+      "source": "Futurism",
+      "language": "en",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "A hack has revealed the extent of AI music app Suno's scraping of copyrighted music from various websites, including YouTube Music and Deezer, to train its AI model. The hack, reported by 404 Media, has shed light on the methods used by Suno to obtain and funnel copyrighted music into its datasets. This revelation comes as Suno is already facing multiple copyright lawsuits.",
+      "datos": [
+        "2,013,545 music clips were found in a file titled 'youtube_music'",
+        "113,879 hours of youtube_music were held in Suno's AI datasets",
+        "Suno used music and lyrics from sites including YouTube Music, Genius, and Deezer",
+        "The hack also exposed sensitive Suno user data, including Stripe payment information",
+        "Suno's CEO has stated that the company's goal is to help people create original new music"
+      ],
+      "conclusion": "The hack's findings have significant implications for the music industry, highlighting the need for stricter regulations on AI music generation and the use of copyrighted materials. The revelation also raises concerns about user data privacy and the potential consequences for companies like Suno that prioritize innovation over intellectual property rights."
+    },
+    {
+      "title": "Kimi K3, la IA china que ha puesto en guardia a Silicon Valley",
+      "url": "https://elpais.com/tecnologia/2026-07-17/kimi-k3-la-ia-china-que-ha-puesto-en-guardia-a-silicon-valley.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ALUS4NFOWBIOLB2CHSW2MDRMG4.jpg?auth=ee7582534ef1e522f3b2364e33bb580768a29d1515a0b929717d02bd5eeb60f1",
       "source": "El País",
       "language": "es",
       "topic": "ai",
       "topic_label": "IA & Agentes",
-      "que_paso": "La caída del valor bursátil de las empresas de chips ha llevado a los analistas a recomendar invertir en proveedores de centros de datos, como Amazon y Microsoft. Esto se debe a la creciente demanda de capacidad de computación en la nube para desarrollar la inteligencia artificial. Los bancos de inversión como JP Morgan, Citi y UBS están detrás de esta recomendación.",
+      "que_paso": "El modelo Kimi K3 ha sido desarrollado por un equipo de investigadores chinos y se ha lanzado como el mayor modelo de código abierto del mundo. Esto ha generado una gran atención en la industria tecnológica, especialmente en Silicon Valley, donde las empresas líderes en inteligencia artificial están siguiendo de cerca los avances de China en este campo. El lanzamiento de Kimi K3 se produce en un momento en que la competencia entre China y Estados Unidos por liderar la investigación y el desarrollo de la inteligencia artificial es cada vez más intensa.",
       "datos": [
-        "Un 9% del valor bursátil de las cotizadas del chip en todo el mundo se ha perdido en las últimas semanas",
-        "SK Hynix perdió un 58% de su valor bursátil",
-        "Los proveedores de centros de datos han visto caer un 3% su valor en Bolsa en 2026",
-        "Microsoft ha acumulado un desplome del 30% en su valor",
-        "El alquiler de capacidad de computación se ha encarecido un 20% en el año"
+        "El modelo Kimi K3 tiene 100 mil millones de parámetros",
+        "El modelo de código abierto más grande anterior tenía 65 mil millones de parámetros",
+        "El equipo de investigadores chinos que desarrolló Kimi K3 está formado por más de 100 personas",
+        "El modelo Kimi K3 se basa en la arquitectura de red neuronal Transformer",
+        "El lanzamiento de Kimi K3 se produjo en enero de 2024"
       ],
-      "conclusion": ""
+      "conclusion": "El lanzamiento de Kimi K3 tiene implicaciones importantes para la industria tecnológica, ya que demuestra el avance de China en la investigación y el desarrollo de la inteligencia artificial y puede cambiar el equilibrio de poder en la carrera por liderar esta tecnología. Esto puede tener un impacto significativo en la forma en que se desarrollan y se aplican las tecnologías de inteligencia artificial en el futuro."
     },
     {
-      "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
-      "url": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
-      "image": "https://media.wired.com/photos/6a581351c2deddeba2cfe152/191:100/w_1280,c_limit/Uncanny-Valley-OpenAI-Hectic-Week-2282053697.jpg",
-      "source": "Wired",
-      "language": "en",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "Apple has sued OpenAI over alleged theft of confidential hardware secrets, with the lawsuit naming OpenAI's chief hardware officer, Tang Tan, who previously worked at Apple for 24 years. The lawsuit claims that Tan encouraged former Apple employees to bring proprietary information and unreleased technology to OpenAI. This development is part of a larger landscape of challenges for OpenAI, including a new super PAC started by some of its employees to advocate for stronger AI guardrails.",
-      "datos": [
-        "Apple sued OpenAI over alleged stolen hardware secrets",
-        "Tang Tan, OpenAI's chief hardware officer, spent 24 years at Apple",
-        "New York State has passed the first statewide data center moratorium",
-        "The moratorium is the first of its kind in the nation",
-        "OpenAI employees have started a super PAC to advocate for stronger AI guardrails",
-        "The cyclosporiasis outbreak is affecting over 30 states"
-      ],
-      "conclusion": "The lawsuit and the moratorium on data centers highlight the growing scrutiny of the tech industry, particularly around AI development and data management, and have significant implications for companies like OpenAI and Apple. The developments also underscore the need for stronger regulations and guardrails in the AI sector."
-    },
-    {
-      "title": "Fortnite is getting a bunch of AI-powered ‘personas’",
-      "url": "https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/uefn-conversations-blog-header-opt-02.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "source": "The Verge",
-      "language": "en",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "Epic Games is introducing AI-powered characters in Fortnite, allowing creators to publish experiences with these characters starting July 30th. The company has already created 36 characters with unique voices and personas that can be used as non-player characters. This development is a result of Epic's previous experimentation with AI characters, including a Darth Vader NPC.",
-      "datos": [
-        "July 30th is the launch date for Fortnite creators to publish experiences with AI-powered characters",
-        "36 characters with consistent voices and personas have been created by Epic Games",
-        "James Earl Jones' estate collaborated with Epic Games for the Darth Vader NPC",
-        "Performances from independent professional actors are used to develop voice models for the AI characters",
-        "Epic Games started testing AI characters with creators earlier this year"
-      ],
-      "conclusion": "The introduction of AI-powered characters in Fortnite has significant implications for the gaming industry, as it enables more realistic and engaging experiences for players. This development also highlights the potential for AI to enhance creative possibilities in game development."
-    },
-    {
-      "title": "It's official: EU will force Google to share search data and open up AI on Android",
-      "url": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/europe-flag-digital-1152x648-1742412347.jpg",
-      "source": "Ars Technica",
-      "language": "en",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "The European Commission has taken a significant step in regulating Big Tech companies, particularly Google, under the Digital Markets Act. This move is part of a broader effort to increase competition and give users more choices in the EU. The Commission's decision targets Google's Android phones and search services, aiming to promote interoperability and competition.",
-      "datos": [
-        "2024: The year the Digital Markets Act came into force",
-        "60%: The percentage of EU users who have an Android device",
-        "Kent Walker: Google's president of global affairs, who expressed opposition to the EU's new rules",
-        "2: The number of key elements of Google's business affected by the new measures, namely Android phones and search",
-        "Google's Gemini: The AI platform that currently gets preferential access to the Android system"
-      ],
-      "conclusion": "The EU's decision to force Google to share search data and open up AI on Android has significant implications for the tech industry, as it may increase competition and give users more choices, but also raises concerns about privacy and security. This move demonstrates the EU's commitment to regulating Big Tech and promoting a more level playing field in the digital market."
-    },
-    {
-      "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
-      "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-532502452-1152x648.jpg",
-      "source": "Ars Technica",
-      "language": "en",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "The Linux kernel community is debating the use of AI-powered coding tools, with some members strongly opposing their integration. Linus Torvalds, the creator and top-level maintainer of the Linux kernel, has weighed in on the issue, stating his support for the use of AI tools to improve the project. This debate is part of a larger discussion within the open source community about the role of AI in software development.",
-      "datos": [
-        "53.6 percent of bugs that would be fixed by human coders can be independently found by the Sashiko tool",
-        "Sashiko's false positive rate is estimated to be within the 20% range",
-        "19 percent less productive: the difference in productivity between open source coders using AI tools and those who didn't use them, according to an METR study",
-        "20 percent more productive: the perceived productivity gain reported by open source coders using AI tools",
-        "February 2026: the time frame in which researchers believe AI tools are likely to be speeding up developers"
-      ],
-      "conclusion": "The debate over AI-powered coding tools in the Linux kernel community highlights the need for a pragmatic approach to evaluating the benefits and drawbacks of these tools. By considering the technical merits and actual performance of AI tools, developers can make informed decisions about their use and integration into their workflows."
-    },
-    {
-      "title": "Roblox will let people use AI to make games on their phone",
-      "url": "https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK146_Roblox_New_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "language": "en",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "Roblox is expanding its use of artificial intelligence by introducing a new feature called Build, which allows users to create games directly within the Roblox mobile app using AI-powered tools. This move is part of the company's broader effort to integrate AI into its platform, following previous announcements such as the preview of an AI world model similar to Google's Project Genie. The introduction of Build is expected to make game development more accessible to a wider range of users.",
-      "datos": [
-        "Roblox's new feature is called Build, which brings mobile-first AI creation to the platform",
-        "Build can turn text prompts into a basic game, handling gameplay mechanics, environment, characters, visual style, sound, and more",
-        "The feature is powered by both Roblox's own AI models and open-source models",
-        "Games made with Build will be ranked by the same retention-based criteria as other Roblox experiences",
-        "Roblox is working on new AI agents, including a playtesting agent, an analytics agent, and an agent that can run experiments",
-        "These new AI agents will be available in both Build and Studio over the coming months"
-      ],
-      "conclusion": "The introduction of Build and the expansion of AI-powered tools on Roblox has significant implications for the platform's content creation and discovery processes, potentially lowering the barrier to entry for new developers and changing the types of games that are created and promoted. This development matters because it could fundamentally alter the user experience and the types of content available on the platform."
-    },
-    {
-      "title": "Robots, AI and drones: how the Dutch navy is using tech to transform its sea defences",
-      "url": "https://www.theguardian.com/environment/2026/jul/16/robots-ai-and-drones-how-the-dutch-navy-is-using-tech-to-transform-its-sea-defences",
-      "image": "https://i.guim.co.uk/img/media/635c60273de57e773426a5ed282d9a494af8d887/894_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=22f061d143204f0f14c0cde9cf4c193c",
+      "title": "Apple dethrones Nvidia to regain title of world’s most valuable company",
+      "url": "https://www.theguardian.com/technology/2026/jul/17/apple-nvidia-most-valuable-company",
+      "image": "https://i.guim.co.uk/img/media/f859a4960db56b1f34a9dc022912bfa9387ed776/208_0_4408_3526/master/4408.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e42967ad06261c2290f3a91dbf015b16",
       "source": "The Guardian AI",
       "language": "en",
       "topic": "ai",
       "topic_label": "IA & Agentes",
-      "que_paso": "The Royal Netherlands Navy is conducting a five-week mission to test the limits of uncrewed systems, including underwater vehicles, boats, and drones, as part of its plan to transform its sea defences. The mission is led by Capt Sjoerd Feenstra, head of the expertise centre for unmanned systems, and aims to reduce the risk to human personnel by keeping them out of danger zones. The Dutch navy's efforts are part of a broader trend among armed forces worldwide to adopt uncrewed systems for various operations.",
+      "que_paso": "The shift in the ranking of the world's most valuable companies reflects a change in investor sentiment towards artificial intelligence, with Apple overtaking Nvidia. This change is significant as it indicates a broader focus on AI beyond the most obvious beneficiaries. The development comes as Apple attempts to establish itself as a major player in the AI sector, with recent efforts including an overhaul of its Siri assistant.",
       "datos": [
-        "The Dutch military budget plans to use uncrewed systems for more than half of its work within five years",
-        "The UK plans to spend more than £5bn on uncrewed systems technology in a similar period",
-        "The GeoSea vessel is being used as the base for testing Noa drones, Defender vessels, and a Lobster Robotics undersea mine mapper",
-        "Drones have been used in live conflicts, including in Iranian strikes and the war in the Middle East",
-        "The US Navy deployed unmanned sea vessels this year in operations against Iran",
-        "The Dutch navy has been working to change its organisation over the last year and a half to incorporate uncrewed systems"
+        "Apple's market valuation is $4.88tn",
+        "Nvidia's market valuation is $4.86tn, after a 3.5% decline",
+        "Nvidia surpassed a $5tn market valuation in October",
+        "The Philadelphia SE Semiconductor index fell almost 19% from its all-time highs in July",
+        "Micron crossed $1tn in market value in May",
+        "Apple last held the top spot in April last year"
       ],
-      "conclusion": "The adoption of uncrewed systems by the Dutch navy and other armed forces has significant implications for the future of warfare, as it could reduce the risk to human personnel and increase the efficiency of operations. The development and deployment of these systems also raise important ethical questions about the role of artificial intelligence in decision-making and the potential risks of technical failure."
+      "conclusion": "The change in ranking matters as it reflects a shift in investor focus towards a broader range of AI-related opportunities, and Apple's efforts to establish itself as a major player in the sector could have significant implications for its future prospects. The development also highlights the potential for other companies, such as memory chipmakers, to benefit from the growing interest in AI."
     },
     {
-      "title": "Los primeros días de la Guerra Civil española",
-      "url": "https://elpais.com/opinion/2026-07-17/los-primeros-dias-de-la-guerra-civil-espanola.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/4PR4EACUO5EYFP7UIIJICHUIUU.jpg?auth=9b62d82ff0043b5f373bc94e6e10f9e068dabf0ce6344c633efc9fddb2c93ff8",
+      "title": "Dentro de ‘Fallout’: cuando la ciencia ficción de un videojuego se convierte en una tangible superproducción hollywoodiense",
+      "url": "https://elpais.com/television/2026-07-18/dentro-de-fallout-cuando-la-ciencia-ficcion-de-un-videojuego-se-convierte-en-una-tangible-superproduccion-hollywoodiense.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/EXA2UZK7V5HI5GXY3KKOGFKELA.jpg?auth=9ba359b6eb465c1c54cfa39b3e8e9c2514c348196b87664fa4363fc3a213116a",
       "source": "El País",
       "language": "es",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "La Guerra Civil española comenzó con un golpe de Estado contra la República española, lo que desencadenó una serie de eventos violentos en todo el país. El conflicto involucró a diferentes facciones políticas y militares, y tuvo un impacto significativo en la historia de España. El contexto histórico de la época fue marcado por una gran tensión política y social.",
-      "datos": [
-        "90 años atrás se produjo el golpe de Estado",
-        "La violencia se extendió por todo el país",
-        "El conflicto involucró a la República española",
-        "El golpe de Estado fue dado por facciones militares",
-        "La Guerra Civil española duró desde 1936 hasta 1939"
-      ],
-      "conclusion": "La Guerra Civil española fue un evento crucial en la historia de España, y su impacto todavía se siente en la actualidad. La comprensión de este conflicto es fundamental para entender la evolución política y social del país."
-    },
-    {
-      "title": "TSMC Adds $100 Billion to Its U.S. Spending Plan",
-      "url": "https://www.nytimes.com/2026/07/16/business/tsmc-chips-investment-arizona.html",
-      "image": "https://static01.nyt.com/images/2026/07/16/multimedia/16biz-tsmc-spending-promo-gmqw/16biz-tsmc-spending-promo-gmqw-mediumSquareAt3X.jpg",
-      "source": "NYT Tech",
-      "language": "en",
-      "topic": "tech",
-      "topic_label": "Tecnología",
-      "que_paso": "Taiwanese chip-making giant TSMC has expanded its investment in the United States, specifically in Arizona, as part of its growth strategy. This move is part of the company's efforts to increase its global presence and meet the rising demand for its products. The investment is a significant development in the US semiconductor industry.",
-      "datos": [
-        "TSMC's total commitment to its Arizona operations is now $265 billion",
-        "The additional investment is $100 billion",
-        "The investment is in Arizona, USA"
-      ],
-      "conclusion": "This investment matters because it signifies a substantial commitment to the US semiconductor industry, which could have implications for the global chip supply chain and TSMC's position in the market. The practical takeaway is that TSMC is prioritizing its US operations, which could lead to increased production and job creation in the region."
-    },
-    {
-      "title": "For Families Facing a Deadly Brain Cancer, Scientific Progress Can’t Come Soon Enough",
-      "url": "https://www.nytimes.com/2026/07/16/well/pediatric-cancer-dmg-treatments.html",
-      "image": "https://static01.nyt.com/images/2026/07/16/multimedia/16WELL-PEDIATRIC-BRAIN-CANCER2-jmlt/16WELL-PEDIATRIC-BRAIN-CANCER2-jmlt-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
       "topic": "science",
       "topic_label": "Ciencia",
-      "que_paso": "Diffuse midline gliomas are a type of brain cancer that primarily affects children and adolescents, and have historically been associated with a poor prognosis. Researchers have been working to improve understanding and treatment of this disease. The disease has been a significant concern for families with affected members, who are eagerly awaiting effective treatments.",
+      "que_paso": "La serie de televisión basada en el videojuego 'Fallout' se está rodando en un gran plató al norte de Los Ángeles, con el objetivo de crear una experiencia lo más realista posible. El equipo de producción busca recrear el mundo postapocalíptico del juego con gran detalle y precisión. El plató es el escenario perfecto para llevar a cabo este ambicioso proyecto.",
       "datos": [
-        "Diffuse midline gliomas primarily affect children and adolescents",
-        "The disease was long seen as a death sentence",
-        "Researchers have made important strides in understanding the disease",
-        "The disease affects the brain"
+        "El plató se encuentra al norte de Los Ángeles",
+        "La serie busca el máximo realismo en decorados, trajes y monstruos",
+        "El videojuego 'Fallout' es la base de la serie de televisión",
+        "La serie se está rodando en un plató grande",
+        "El equipo de producción busca recrear el mundo postapocalíptico del juego"
       ],
-      "conclusion": "The progress made by researchers in understanding and treating diffuse midline gliomas is crucial for improving the prognosis and quality of life for affected families, and further scientific advancements are necessary to address this devastating disease."
+      "conclusion": "La serie de televisión basada en 'Fallout' puede ser un ejemplo de cómo la ciencia ficción puede convertirse en una producción tangible y realista, lo que puede tener implicaciones interesantes para la industria del entretenimiento y los fans del videojuego. Esto puede significar una nueva forma de experimentar la franquicia 'Fallout' de manera más inmersiva y realista."
     },
     {
-      "title": "¿Qué puede pasar con Puigdemont después de que el TJUE avale la Ley de Amnistía?",
-      "url": "https://elpais.com/videos/2026-07-17/que-puede-pasar-con-puigdemont-despues-de-que-el-tjue-avale-la-ley-de-amnistia.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/345J57NIGFABBI2DBULZCBISGQ.jpg?auth=e214646f7823dc94f5f00b849322b4c9a58344aad6e257615ae3635363dfb25b",
-      "source": "El País",
-      "language": "es",
-      "topic": "tech",
-      "topic_label": "Tecnología",
-      "que_paso": "El Tribunal de Justicia de la Unión Europea (TJUE) ha avalado la Ley de Amnistía, lo que ha generado reacciones en el entorno político catalán. Los partidos ERC y Junts consideran que esta decisión elimina los obstáculos para aplicar la ley, mientras que Carles Puigdemont, expresidente de la Generalitat, ha mostrado cautela sobre un posible regreso a España. Esta situación se desarrolla en un contexto de tensión política y social en Cataluña.",
-      "datos": [
-        "El TJUE ha emitido su fallo sobre la Ley de Amnistía el 24 de mayo",
-        "ERC y Junts han pedido al gobierno español que aplique la ley de inmediato",
-        "Carles Puigdemont lleva en el exilio desde 2017",
-        "La Ley de Amnistía podría beneficiar a más de 1.000 personas",
-        "El gobierno español ha anunciado que estudiará la decisión del TJUE antes de tomar medidas"
-      ],
-      "conclusion": "La decisión del TJUE sobre la Ley de Amnistía tiene implicaciones importantes para la situación política en Cataluña y podría influir en el futuro de Carles Puigdemont. La aplicación de la ley podría marcar un punto de inflexión en la resolución del conflicto catalán y tener un impacto significativo en la estabilidad política en España."
-    },
-    {
-      "title": "Quequé, en libertad tras pasar la noche detenido por una reclamación de un juzgado de Madrid",
-      "url": "https://elpais.com/espana/2026-07-16/detenido-en-salamanca-el-humorista-queque-por-una-reclamacion-judicial-en-madrid.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/A72KEYPJMBDVJL4KPJ62OUEGUA.jpg?auth=d267e53cc4258b38c5d8c529bb5be32d75302568b3c7b74a66e0bf0d68ec5d8b",
-      "source": "El País",
-      "language": "es",
-      "topic": "geek",
-      "topic_label": "Cultura geek",
-      "que_paso": "El cómico Quequé tuvo un enfrentamiento con el colectivo Abogados Cristianos, lo que llevó a una serie de conflictos legales. La detención se produjo en Madrid, donde un juzgado había emitido una sentencia que el cómico no cumplió parcialmente. Esto desencadenó la acción policial que culminó en su detención nocturna.",
-      "datos": [
-        "Quequé fue detenido por incumplir una sentencia judicial",
-        "La detención ocurrió en Madrid",
-        "El colectivo Abogados Cristianos está involucrado en el conflicto",
-        "Quequé tiene antecedentes de choques con el colectivo reaccionario",
-        "La detención se produjo anoche"
-      ],
-      "conclusion": "La detención de Quequé subraya la importancia de cumplir con las sentencias judiciales, incluso para figuras públicas, y muestra cómo los conflictos legales pueden tener consecuencias inmediatas. Esto puede tener implicaciones para la libertad de expresión y el cumplimiento de la ley en España."
-    },
-    {
-      "title": "El incendio de las Cinco Villas alcanza ya las 12.000 hectáreas quemadas tras una noche de fuerte avance",
-      "url": "https://www.eldiario.es/aragon/sociedad/incendio-cinco-villas-alcanza-12-000-hectareas-quemadas-noche-fuerte-avance_1_13386943.html",
-      "image": "https://static.eldiario.es/clip/541ecd5b-5b8a-49aa-a6c4-da8ee1f55399_facebook-watermarked-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "El incendio forestal en la comarca de las Cinco Villas, declarado el miércoles en Orés, ha seguido avanzando durante la noche y ha afectado varias zonas de la región. Los equipos de extinción han trabajado intensamente para evitar daños en las poblaciones, especialmente en Malpica de Arba y Uncastillo. El Gobierno de Aragón mantiene activada la Situación Operativa 2 del nivel 2 del Plan Especial de Protección Civil por Incendios Forestales.",
-      "datos": [
-        "12.000 hectáreas es la superficie provisional quemada por el incendio",
-        "6 brigadas helitransportadas y 12 brigadas terrestres trabajan en el terreno",
-        "11 autobombas y 5 bulldozer forman parte del dispositivo de extinción",
-        "4 helicópteros ligeros y 1 helicóptero medio han sido desplegados por el Ministerio para la Transición Ecológica",
-        "18 autobombas y 2 helicópteros de la Unidad Militar de Emergencias (UME) participan en el operativo",
-        "La A-1204, CV-813 y A-1202 son algunas de las vías cortadas debido al incendio"
-      ],
-      "conclusion": "El incendio forestal en las Cinco Villas sigue siendo una situación crítica que requiere un esfuerzo coordinado y continuo por parte de los equipos de extinción y las autoridades. La contención del incendio es crucial para evitar daños mayores en las poblaciones y el medio ambiente."
-    },
-    {
-      "title": "Si estás enfadado, no discutas por WhatsApp: ¿qué tal si volvemos a utilizar el teléfono para hablar?",
-      "url": "https://elpais.com/ideas/2026-07-17/si-estas-enfadado-no-discutas-por-whatsapp-que-tal-si-volvemos-a-utilizar-el-telefono-para-hablar.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/RMHEN2LQIFG2TGOU3CTJCKXLXI.jpg?auth=a5778ab379df8fca9733d16980add7e882ecb44fd1d3405993143fc26f37402d",
-      "source": "El País",
-      "language": "es",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "La comunicación a través de mensajes de texto y de audio se ha vuelto muy común, especialmente a través de aplicaciones como WhatsApp. Sin embargo, esta forma de comunicación puede llevar a malentendidos y falta de empatía. En este contexto, se plantea la posibilidad de volver a utilizar el teléfono para hablar en lugar de enviar mensajes.",
-      "datos": [
-        "Las llamadas telefónicas suelen ser más empáticas que los mensajes de texto",
-        "Las llamadas pueden ahorrar cadenas interminables de mensajes",
-        "Las llamadas permiten evitar malentendidos con mayor frecuencia que los mensajes de texto",
-        "WhatsApp es una de las aplicaciones más utilizadas para enviar mensajes de texto y de audio",
-        "La comunicación a través de mensajes de texto puede llevar a una falta de empatía en la conversación"
-      ],
-      "conclusion": "La elección del medio de comunicación puede tener un impacto significativo en la efectividad y la empatía de la conversación, por lo que considerar la opción de utilizar el teléfono para hablar en lugar de enviar mensajes puede ser una estrategia valiosa en situaciones de conflicto o discusión. Esto puede ayudar a evitar malentendidos y mejorar la comprensión mutua."
-    },
-    {
-      "title": "Netflix says around 300 titles used generative AI",
-      "url": "https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/american-experiment.jpg?quality=90&strip=all&crop=10.208333333333,0,79.583333333333,100",
+      "title": "Florida man arrested for allegedly stealing over $200,000 in crypto using Steam game malware",
+      "url": "https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/VRG_Illo_STK001_B_Sala_Hacker.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "source": "The Verge",
       "language": "en",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "Netflix has been utilizing generative AI in the production of various titles on its platform, with a significant portion of this usage occurring during post-production. The company's co-CEO, Ted Sarandos, discussed the benefits and applications of AI in content creation during a call with investors. This integration of AI technology is part of Netflix's broader strategy to enhance its content and stay competitive in the streaming market.",
+      "topic": "tech",
+      "topic_label": "Tecnología",
+      "que_paso": "A Florida man, Zyaire Wilkins, has been accused of working with co-conspirators to launch malware-embedded Steam games, allowing them to infect devices and gain access to crypto wallets. The alleged scheme involved marketing the games on social media and messaging platforms, and using the malware to steal private information and drain crypto wallets. The investigation led to Wilkins' arrest after federal agents linked him to the case through his crypto wallet address and online activity.",
       "datos": [
-        "300 titles on Netflix's platform used generative AI",
-        "17 minutes of 'AI-enhanced' footage in The American Experiment docuseries",
-        "Productions using AI were completed 'twice as fast and at half the cost' of previous options",
-        "$12.56 billion in earnings over the past few months",
-        "Netflix aims to double its ad revenue to $3 billion",
-        "Ted Sarandos mentioned AI was used to save time and cut costs in the sci-fi series The Eternaut"
+        "At least $220,000 in crypto was stolen through the malware-infected Steam games",
+        "8,000 devices were infected with the malware",
+        "80 crypto wallets were accessed by the conspirators",
+        "Zyaire Wilkins is 21 years old",
+        "The malware-embedded games were launched between May 2024 and February 2026",
+        "Wilkins was arrested on July 14th and charged with conspiracy to obtain information by computer for private financial gain"
       ],
-      "conclusion": "The integration of generative AI in Netflix's content creation process has significant implications for the efficiency and cost-effectiveness of production, allowing for the inclusion of complex sequences that might have been unaffordable or impractical otherwise. This strategic use of AI technology positions Netflix to maintain its competitive edge in the streaming industry."
+      "conclusion": "This case highlights the importance of being cautious when downloading games from online platforms, and the need for robust security measures to protect against malware and crypto theft. The successful investigation and arrest of Wilkins demonstrate the effectiveness of law enforcement in tracking down and prosecuting individuals involved in cybercrime."
     },
     {
-      "title": "El bulo del Mundial ⚽: ¿Con cuál de estos casi te la cuelan?",
-      "url": "https://maldita.es/desinfo/20260716/mundial-bulos-votacion-maldita/",
-      "image": "https://files.maldita.es/uploads/images/2026/07/6a560780d53besemifinal-portada-webp.webp",
+      "title": "Cuidado con los mensajes que alertan de que se hacen pasar por empleados del Instituto Nacional de Estadística y Censos para robar fotos y huellas digitales",
+      "url": "https://maldita.es/malditobulo/20260717/se-hacen-pasar-por-empleados-del-instituto-nacional-de-estadistica-y-censos-para-robar-fotos-y-huellas-digitales/",
+      "image": "https://maldita.es/system/articles/23445/image",
       "source": "Maldita.es",
       "language": "es",
       "topic": "ai",
       "topic_label": "IA & Agentes",
-      "que_paso": "Durante el Mundial, han surgido varias noticias y contenido falsos en las redes sociales, incluyendo imágenes y videos generados con inteligencia artificial. Estos contenidos han sido diseñados para engañar a los usuarios y vender pornografía, o para difundir información falsa sobre los jugadores y los partidos. Los creadores de estos contenidos han utilizado la IA para generar imágenes y videos realistas de aficionadas, jugadores y momentos del Mundial.",
+      "que_paso": "Un mensaje falso está circulando en varios países, incluyendo España, advirtiendo sobre supuestos empleados del Instituto Nacional de Estadística y Censos que intentan robar fotos y huellas digitales. La institución estadística argentina, INDEC, y la española, INE, han desmentido esta información. El mensaje parece ser una estafa que busca engañar a la población.",
       "datos": [
-        "El 2025 fue el año en que Noruega donó los ingresos a Palestina",
-        "Charlie Kirk es el nombre de la persona cuya camiseta se utilizó en una celebración falsa de un jugador estadounidense",
-        "Lamine Yamal es el nombre del jugador sobre el que se rumoreó que Netanyahu pidió prohibir su entrada a EEUU",
-        "El Estadio BBVA de Monterrey es el lugar donde se supone que se grabó un vídeo falso del partido Suecia-Túnez",
-        "Cucurella es el nombre del jugador que se dice que prefirió cortarse el pelo antes que jugar en el Madrid, aunque no hay pruebas de que lo haya dicho"
+        "El mensaje falso se refiere al 'Instituto Nacional de Estadísticas y Censos', que es el nombre del organismo estadístico de Argentina, no de España.",
+        "El INDEC argentino afirma que 'nunca solicitan datos biométricos ni toman fotos'.",
+        "El INE español dijo el 1 de octubre de 2025 que no ha enviado a ningún empleado para nada relacionado con el próximo censo.",
+        "El INE español también afirmó que no hace visitas a domicilio para los censos.",
+        "La cadena de mensajes falsos circula desde 2024 en varios países."
       ],
-      "conclusion": "Es importante ser cauteloso al consumir información en las redes sociales, especialmente durante eventos de gran cobertura como el Mundial, ya que la desinformación y los contenidos falsos pueden ser muy convincentes. La verificación de la información a través de fuentes confiables es crucial para evitar la propagación de bulos y mantener una visión clara de la realidad."
+      "conclusion": "Es importante verificar la información antes de compartir para evitar la propagación de bulos y estafas, especialmente cuando se trata de temas sensibles como la seguridad de los datos personales. La desinformación puede tener consecuencias negativas para la población y las instituciones."
     },
     {
-      "title": "The Quest for ‘Technological Sovereignty’ in Europe (and Why It’s So Hard)",
-      "url": "https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html",
-      "image": "https://static01.nyt.com/images/2026/07/11/multimedia/11int-Europe-AI-hzbl/11int-Europe-AI-hzbl-mediumSquareAt3X.jpg",
-      "source": "NYT Tech",
+      "title": "La resignificación del lobo desde la escuela",
+      "url": "https://www.eldiario.es/caballodenietzsche/resignificacion-lobo-escuela_132_13387799.html",
+      "image": "https://static.eldiario.es/clip/9a0d8c35-51ea-49a2-83b5-216a0b220d77_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "topic": "science",
+      "topic_label": "Ciencia",
+      "que_paso": "La situación del lobo en España es desfavorable debido a factores como la caza ilegal y la fragmentación del hábitat. La población juvenil está desconectada de la realidad del lobo y se ve influenciada por los cuentos ilustrados y las opiniones de los ganaderos. La educación ambiental en las aulas y centros educativos puede ser clave para cambiar la percepción del lobo.",
+      "datos": [
+        "El estado del lobo en España se califica de 'desfavorable'",
+        "La tasa de pérdidas por ataque de lobo al ganado en España es de un 1% del censo ganadero",
+        "La mortalidad media anual del ganado en extensivo es diez veces mayor que la causada por los lobos",
+        "El lobo es considerado una especie apical de los ecosistemas ibéricos",
+        "La población de lobos en España necesita aumentar y expandirse a otros territorios para potenciar la diversidad genética"
+      ],
+      "conclusion": "La educación ambiental es fundamental para cambiar la percepción del lobo y promover su conservación, ya que la población juvenil puede influir en la opinión pública y las decisiones políticas. La resignificación del lobo en las aulas y centros educativos puede ser un paso clave para asegurar su supervivencia y bienestar en España."
+    },
+    {
+      "title": "La cacería judicial de Begoña Gómez y David Sánchez",
+      "url": "https://www.eldiario.es/contracorriente/caceria-judicial-begona-gomez-david-sanchez_132_13389204.html",
+      "image": "https://static.eldiario.es/clip/668cac52-829d-4209-91ad-736c08c17c01_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "topic": "science",
+      "topic_label": "Ciencia",
+      "que_paso": "La situación de Begoña Gómez y David Sánchez se enmarca en un contexto de persecución judicial que tiene sus raíces en una sentencia del Tribunal Supremo. El origen de esta cacería judicial se remonta a una sentencia específica que ha generado un impacto significativo en los eventos subsiguientes. La Audiencia Nacional había emitido un fallo anterior que condenaba a varios individuos por delitos relacionados con la extorsión.",
+      "datos": [
+        "La sentencia del Tribunal Supremo fue dictada en marzo de 2024",
+        "La Sala Segunda del Tribunal Supremo estaba presidida por el magistrado Manuel Marchena",
+        "Miguel Bernard, presidente de Manos Limpias, fue condenado a 4 años de prisión en julio de 2021",
+        "Luis Pineda, presidente de AUSBANC, recibió una condena de 8 años de prisión por extorsión",
+        "La Audiencia Nacional emitió la condena en julio de 2021"
+      ],
+      "conclusion": "La cacería judicial de Begoña Gómez y David Sánchez tiene implicaciones significativas en cuanto a la percepción de la justicia y la aplicación de la ley en España, lo que puede afectar la confianza en el sistema judicial. La comprensión de los antecedentes y las sentencias específicas es crucial para evaluar la situación de manera objetiva."
+    },
+    {
+      "title": "España va a encadenar tres olas de calor en seis semanas. AEMET lo tiene claro: ya no es una ola, es el clima",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/espana-va-a-encadenar-tres-olas-calor-seis-semanas-aemet-tiene-claro-no-ola-clima",
+      "image": "https://i.blogs.es/ebe29d/captura-de-pantalla-2026-07-17-a-las-11.53.37/840_560.png",
+      "source": "Xataka",
+      "language": "es",
+      "topic": "science",
+      "topic_label": "Ciencia",
+      "que_paso": "España está experimentando un verano extremadamente cálido, con temperaturas por encima de lo normal y varias olas de calor en un corto período de tiempo. La Agencia Estatal de Meteorología (AEMET) ha emitido notas informativas sobre el ascenso térmico generalizado y los posibles episodios de calor extremo. El país ha sufrido dos olas oficiales de calor en las últimas seis semanas y se espera una tercera ola en los próximos días.",
+      "datos": [
+        "La temperatura media en España se ha situado 3,3 ºC por encima de lo normal entre el 1 de junio y el 15 de julio",
+        "Se han registrado 91 olas de calor en España entre 2001 y 2025, frente a las 43 del periodo 1976-2000",
+        "Los días bajo ola de calor han pasado de 210 a 510 en el mismo período",
+        "El sistema MoMo del ISCIII atribuyó al calor 3.649 muertes el verano pasado",
+        "Se espera que la temperatura máxima alcance los 44 ºC en la mitad sur de España",
+        "El exceso de mortalidad atribuido al calor en 2026 ya ha alcanzado la mitad de la cifra del verano pasado antes de que empiece la canícula"
+      ],
+      "conclusion": "El aumento en la frecuencia y duración de las olas de calor en España tiene importantes implicaciones para la salud pública y la planificación de medidas de adaptación al cambio climático. La tendencia hacia un clima más cálido y extremo requiere una respuesta efectiva y sostenible para mitigar sus efectos."
+    },
+    {
+      "title": "Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered",
+      "url": "https://www.nytimes.com/2026/07/17/science/space/two-super-puff-planets-discovered.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/16SCI-PUFFBALL-PLANETS-kzwq/16SCI-PUFFBALL-PLANETS-kzwq-mediumSquareAt3X.jpg",
+      "source": "NYT Science",
       "language": "en",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "France and Germany are seeking to reduce their dependence on the US and China for crucial technologies. This endeavor is part of a broader strategy to achieve technological sovereignty in Europe. The challenge lies in deciding where to focus their efforts and investments.",
+      "topic": "science",
+      "topic_label": "Ciencia",
+      "que_paso": "A team of astrophysicists has made a groundbreaking discovery of two rare 'Super-Puff' planets, which are unusually light. The discovery is expected to shed light on the formation of giant planets. The 'Super-Puff' planets are part of a unique class of celestial bodies that defy conventional understanding of planetary formation.",
       "datos": [
-        "France and Germany are the primary countries involved in this initiative",
-        "The US and China are the current dominant players in key technologies",
-        "Artificial intelligence is one of the key technologies France and Germany want to develop independently",
-        "Europe is the geographic region where this technological sovereignty is being pursued"
+        "The discovered planets are less dense than cotton candy",
+        "The discovery will aid in understanding unusual giant planet formation",
+        "The 'Super-Puff' planets are a rare class of celestial bodies",
+        "The discovery is a breakthrough in astrophysics",
+        "Giant planets are typically dense and massive"
       ],
-      "conclusion": "The pursuit of technological sovereignty by France and Germany has significant implications for the global technology landscape, as it could lead to a more diversified and less US- and China-dependent market. This development matters because it reflects a strategic shift in how European countries approach technology and innovation."
+      "conclusion": "The discovery of these 'Super-Puff' planets matters because it challenges current understanding of planetary formation and will help astrophysicists refine their theories on how giant planets come into existence. This newfound knowledge will have significant implications for the field of astrophysics."
     },
     {
-      "title": "Así han empezado a engañar a la justicia con IA: “Es un fraude invisible”",
-      "url": "https://elpais.com/tecnologia/2026-07-16/asi-han-empezado-a-enganar-a-la-justicia-con-ia-es-un-fraude-invisible.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/MESFLYUIW5A2BP4QA4EHE46TXA.jpg?auth=50eabdee4fe4fad52897f9a6614d2ef5458202fe866b2ed8642cf0e159886537",
+      "title": "La cámara de vigilancia asequible que arrasa en Amazon para controlar el interior de tu casa estas vacaciones",
+      "url": "https://elpais.com/escaparate/tecnologia/camara-vigilancia-casa.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/WDN2W7GKLNB2DGYA7FYAIVD5NE.png?auth=33bf92f6e0306d641c41d4a11311909dffb671c6e39fec7a0db396b05f59fca0",
       "source": "El País",
       "language": "es",
       "topic": "ai",
       "topic_label": "IA & Agentes",
-      "que_paso": "En Brasil, se han detectado varios casos en los que abogados han intentado manipular las decisiones de los jueces mediante el uso de técnicas avanzadas de inteligencia artificial. Esto ha llevado a una preocupación creciente sobre la integridad del sistema judicial en el país. Los casos han sido descubiertos gracias a la labor de investigadores y expertos en tecnología",
+      "que_paso": "La cámara de vigilancia en cuestión ha sido diseñada para ofrecer una solución asequible y efectiva para el control y la seguridad del hogar, especialmente durante las vacaciones cuando los propietarios pueden estar ausentes. Esto responde a la creciente demanda de soluciones de seguridad doméstica inteligentes y accesibles. La tecnología de detección de movimiento con inteligencia artificial (IA) es un aspecto clave de esta cámara.",
       "datos": [
-        "5 casos han sido detectados en Brasil hasta la fecha",
-        "El 80% de los jueces brasileños utilizan sistemas de inteligencia artificial para tomar decisiones",
-        "La empresa de inteligencia artificial 'Lex Machina' ha sido involucrada en algunos de los casos",
-        "El Ministerio de Justicia de Brasil ha anunciado una investigación sobre el uso de inteligencia artificial en el sistema judicial",
-        "El experto en tecnología, 'Ricardo Barretto', ha declarado que 'la inteligencia artificial puede ser utilizada para cometer fraude invisible'"
+        "La cámara ofrece una buena calidad de imagen",
+        "Incorpora detección de movimiento con IA",
+        "Cobertura amplia para vigilar las estancias del hogar",
+        "Disponible en Amazon",
+        "Diseñada para ser asequible"
       ],
-      "conclusion": "La utilización de inteligencia artificial para influir en las decisiones judiciales plantea un desafío significativo para la integridad del sistema judicial, y es fundamental que se tomen medidas para prevenir y detectar este tipo de fraudes. La investigación y el desarrollo de soluciones para abordar este problema son cruciales para mantener la confianza en el sistema judicial."
+      "conclusion": "La disponibilidad de esta cámara de vigilancia asequible y con tecnología de IA para la detección de movimiento puede ser una solución práctica para aquellos que buscan mejorar la seguridad de su hogar sin incurrir en gastos excesivos. Esto puede tener un impacto significativo en la tranquilidad y la seguridad de los propietarios durante sus vacaciones."
+    },
+    {
+      "title": "Jon Rahm llama a la puerta en un día de récords y sanciones",
+      "url": "https://elpais.com/deportes/2026-07-17/jon-rahm-llama-a-la-puerta-en-un-dia-de-records-y-sanciones.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/HQ23RI4QTBDVTBL6LUIZFGY37E.jpg?auth=00be558c8a30e2bcef25385ef93a59642f42e5918fc3ee152dd27db39aa2fcd8",
+      "source": "El País",
+      "language": "es",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "En el torneo de golf, Jon Rahm ha demostrado un rendimiento destacado, mientras que otros jugadores como Herbert y Burns han logrado marcas históricas. El evento ha estado marcado por una serie de récords y sanciones que han afectado a varios jugadores. La competencia se ha intensificado con los jugadores luchando por posiciones destacadas.",
+      "datos": [
+        "Jon Rahm ha logrado un score de -4",
+        "Herbert y Burns han firmado la mejor vuelta en la historia de los grandes con un score de",
+        "Bryson DeChambeau ha sido sancionado con 2 golpes",
+        "El torneo ha visto récords históricos en las vueltas de los jugadores",
+        "La sanción a Bryson DeChambeau ha sido una de las más destacadas en el torneo"
+      ],
+      "conclusion": "El desempeño de Jon Rahm y los récords históricos de Herbert y Burns destacan la intensa competencia en el torneo de golf, mientras que las sanciones a jugadores como Bryson DeChambeau resaltan la importancia de seguir las reglas en el deporte. Esto puede tener un impacto significativo en el resultado final del torneo."
+    },
+    {
+      "title": "Stocks Sink on Anxiety About Tech and A.I. Spending",
+      "url": "https://www.nytimes.com/2026/07/17/business/stocks-ai-tech-wall-street.html",
+      "image": "https://static01.nyt.com/images/2026/08/16/multimedia/16biz-stocks1-jlct/16biz-stocks1-jlct-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "The global tech industry is experiencing increased competition from China, which is causing anxiety among investors. This competition is particularly significant in the field of artificial intelligence, where dominance is crucial for future technological advancements. The situation is unfolding against the backdrop of a global race to develop and implement AI technologies.",
+      "datos": [
+        "China is a major player in the global AI race",
+        "Investors are growing uneasy about increasing competition",
+        "The global tech industry is a significant sector of the economy",
+        "Artificial intelligence is a key area of competition",
+        "The competition is driven by the need for technological advancements"
+      ],
+      "conclusion": "The implications of this increased competition are significant, as they may impact the future of the tech industry and the development of AI technologies. The anxiety among investors highlights the need for companies to adapt and innovate in order to remain competitive in this rapidly changing landscape."
+    },
+    {
+      "title": "TikTok is testing an AI likeness detection tool",
+      "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951408/STK051_VRG_Illo_N_Barclay_4_tiktok.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "language": "en",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "TikTok has initiated a test of a new tool designed to detect AI-generated likenesses, aiming to help creators identify and report unauthorized uses of their likeness. The test is being conducted in collaboration with a limited group of US creators. This development follows similar efforts by YouTube, which has already made a comparable tool available to its adult users.",
+      "datos": [
+        "The tool is being tested with some US creators",
+        "TikTok US spokesperson is Zachary Kizer",
+        "Creators must verify their identity with Jumio to use the tool",
+        "Verification involves a real-time selfie scan and an ID check",
+        "TikTok does not retain ID documents",
+        "YouTube has made a similar tool available to all adult users"
+      ],
+      "conclusion": "The introduction of this AI likeness detection tool matters because it addresses a significant concern for creators regarding the unauthorized use of their likeness, potentially enhancing their control over their digital presence. This development implies a growing recognition of the need for platforms to provide creators with tools to protect their identity and intellectual property."
+    },
+    {
+      "title": "AI Bubble Fears Are Starting to Spill Over",
+      "url": "https://futurism.com/artificial-intelligence/ai-bubble-fears-tsmc-nvidia-earnings",
+      "image": "https://futurism.com/wp-content/uploads/2026/07/ai-bubble-fears-tsmc-nvidia-earnings.jpg?w=1200",
+      "source": "Futurism",
+      "language": "en",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "The AI investment bubble is showing signs of popping, with investors becoming increasingly wary of the technology's ability to deliver financial returns. This shift in sentiment is reflected in the recent earnings report of Taiwanese semiconductor giant Taiwan Semiconductor Manufacturing, which despite posting record revenue, saw its shares tumble due to a revised capital expenditure forecast. The company's spending plans are being closely watched as a bellwether for investor confidence in the AI industry.",
+      "datos": [
+        "Taiwan Semiconductor Manufacturing posted a record revenue of over $40 billion in its second-quarter earnings",
+        "TSMC's shares fell by 4% following the earnings report",
+        "The Nasdaq 100 index fell by 1.4% on Thursday",
+        "TSMC raised its 2026 spending forecast to a range of $60-64 billion",
+        "The AI industry has received nearly $1.6 trillion in investment over the past decade"
+      ],
+      "conclusion": "The market's response to TSMC's earnings report suggests that investors are losing confidence in the AI industry's ability to deliver financial returns, and that the AI bubble may be on the verge of popping. This has significant implications for the tech industry and investors, as it may lead to a reassessment of the value of AI investments and a shift in focus towards more tangible and profitable technologies."
+    },
+    {
+      "title": "El jefe operativo de la Guardia Civil acusa a “algunos” mandos de la UCO de “vanidad”",
+      "url": "https://elpais.com/espana/2026-07-17/el-jefe-operativo-de-la-guardia-civil-acusa-a-algunos-mandos-de-la-uco-de-vanidad.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/S2YH6HV7XZGJDDTTDWND5KVQJY.jpg?auth=208ba246f3b16a74b6e18df8e2189a586565354aef430c9d6daaf96c4c561acc",
+      "source": "El País",
+      "language": "es",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "El teniente general Manuel Llamas se encuentra en el centro de una controversia dentro de la Guardia Civil, específicamente relacionada con la Unidad Central Operativa (UCO). La situación se desarrolla en un contexto de tensiones internas y acusaciones. El apoyo del ministro Marlaska es un factor clave en esta situación.",
+      "datos": [
+        "El teniente general Manuel Llamas es el jefe operativo de la Guardia Civil",
+        "La Unidad Central Operativa (UCO) es el foco de las acusaciones de Llamas",
+        "Marlaska es el ministro que ha expresado su apoyo a Llamas",
+        "Llamas ha sido imputado, pero descarta dimitir",
+        "La situación de Llamas ha sido calificada de \"injusta\" por el ministro Marlaska"
+      ],
+      "conclusion": "La situación de Manuel Llamas refleja las tensiones internas dentro de la Guardia Civil y la importancia del apoyo político en momentos de crisis. La imputación de Llamas y su negativa a dimitir pueden tener implicaciones significativas para la estructura de mando de la institución."
+    },
+    {
+      "title": "Parte de la JEC ve \"incremento irregular del censo\" al ampliar el Gobierno los beneficiarios de la 'ley de nietos'",
+      "url": "https://www.europapress.es/nacional/noticia-miembros-jec-ven-incremento-irregular-censo-ampliar-gobierno-beneficiarios-ley-nietos-20260717160645.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260717160645_1200.jpg",
+      "source": "Europa Press Ciencia",
+      "language": "es",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "La Junta Electoral Central ha tomado una decisión sobre la 'ley de nietos' que ha generado desacuerdo entre algunos de sus vocales. El Ministerio de Justicia había dictado una instrucción para aplicar esta ley, lo que ha llevado a una ampliación de los beneficiarios. Esto ha ocurrido en el contexto de la Ley de Memoria Democrática, que pretendía regular este tema.",
+      "datos": [
+        "4 vocales de la Junta Electoral Central han suscrito un voto particular",
+        "La instrucción fue dictada por el Ministerio de Justicia",
+        "La decisión se tomó este jueves",
+        "La Ley de Memoria Democrática es la base para la 'ley de nietos'",
+        "La ampliación de beneficiarios se refiere a la nacionalización"
+      ],
+      "conclusion": "La decisión de la Junta Electoral Central puede tener implicaciones significativas en la aplicación de la 'ley de nietos' y la nacionalización de personas. Esto puede afectar la interpretación y el alcance de la Ley de Memoria Democrática."
+    },
+    {
+      "title": "The Download: perimenopause misinformation and China’s latest AI leap",
+      "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/GettyImages-2210176273.jpg?resize=1200,600",
+      "source": "MIT Tech Review",
+      "language": "en",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "The conversation around perimenopause has become more open, but it's now being shaped by misinformation, while China has made a significant leap in AI, with Xi Jinping speaking at the World Artificial Intelligence Conference. George Chen, chair in digital practice at The Asia Group consultancy, shared his insights on the speech. Meanwhile, technological advancements are being made in various fields, including waste management and agriculture.",
+      "datos": [
+        "There is no test for perimenopause",
+        "Xi Jinping spoke at the World Artificial Intelligence Conference (WAIC) in Shanghai",
+        "A new industrial facility in suburban Seattle can treat fecal waste from people and livestock",
+        "New York has become the first state to enact a data center moratorium",
+        "Meta is pausing an AI training program that tracks workers' keystrokes",
+        "Sir David Attenborough recently turned 100"
+      ],
+      "conclusion": "The spread of misinformation around perimenopause highlights the need for reliable sources of information, while China's AI advancements and innovations in waste management demonstrate the significant impact technology can have on various aspects of life. These developments have important implications for the future of healthcare, technology, and sustainability."
+    },
+    {
+      "title": "Lorde critica a Spotify en un nuevo capítulo de su cruzada contra la IA: “Limita la libre interpretación”",
+      "url": "https://elpais.com/gente/2026-07-17/lorde-critica-a-spotify-en-un-nuevo-capitulo-de-su-cruzada-contra-la-ia-limita-la-libre-interpretacion.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/4TRALCQHLNFEVG6KGEYLRNU4CI.jpg?auth=0f343954d705a109322dd45574c90167f2d43f4f2a3d27c9f6bd90fd091c8e2c",
+      "source": "El País",
+      "language": "es",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "La cantante Lorde ha expresado su descontento con la plataforma de música en streaming Spotify debido a su uso de inteligencia artificial. Esto se enmarca en una serie de críticas que la artista ha realizado sobre el impacto de la tecnología en la creatividad y la industria musical. La controversia surge en un momento en que la industria de la música en streaming está bajo escrutinio por su manejo de los derechos de autor y la remuneración a los artistas.",
+      "datos": [
+        "Lorde ha pedido que se deje de recopilar información falsa en la plataforma",
+        "La cantante también ha solicitado que se permita a los artistas no participar en las nuevas funciones de la plataforma",
+        "Spotify se ha defendido asegurando que continúan mejorando gracias a los comentarios de los usuarios",
+        "La crítica de Lorde se suma a una serie de debates sobre el uso de la inteligencia artificial en la industria musical",
+        "La plataforma de música en streaming cuenta con más de 400 millones de usuarios activos al mes"
+      ],
+      "conclusion": "La crítica de Lorde a Spotify refleja una preocupación creciente en la industria musical sobre el impacto de la inteligencia artificial en la creatividad y la remuneración de los artistas. Esto puede tener implicaciones significativas para el futuro de la industria musical y la forma en que se distribuyen y se consumen los contenidos musicales."
+    },
+    {
+      "title": "Robert Laidlow: Reality Eaters album review",
+      "url": "https://www.theguardian.com/music/2026/jul/17/robert-laidlow-reality-eaters-album-review",
+      "image": "https://i.guim.co.uk/img/media/de996d8c5e81d6a1208206745a33ed18e2764d4c/46_0_1695_1356/master/1695.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=0f172a45c892b22708b950734dcb9d1b",
+      "source": "The Guardian AI",
+      "language": "en",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "Robert Laidlow's debut album Reality Eaters has been released, featuring orchestral works that draw inspiration from science, technology, and artificial intelligence. The album includes performances by the BBC Philharmonic, Joseph Havlat, Vimbayi Kaziboni, and the Piatti Quartet. The works explore complex concepts such as Einstein's field equations, Newton's universal law, and the impact of AI on human creativity.",
+      "datos": [
+        "The album features a 12-minute piano concerto called Warp",
+        "The Piatti Quartet plays a harmonically unstable homage to Newton's universal law called Gravity",
+        "The work Silicon is a three-movement symphonic piece that explores the impact of AI on human creativity",
+        "The BBC Philharmonic and Vimbayi Kaziboni offer support in the album",
+        "The album is released under the NMC label"
+      ],
+      "conclusion": "This album matters because it showcases the intersection of music, science, and technology, demonstrating how complex concepts can be translated into approachable and imaginative works. The practical takeaway is that innovative artists like Robert Laidlow can inspire new perspectives on the relationship between human creativity and artificial intelligence."
+    },
+    {
+      "title": "Ocupa menos que una lata: la almohada de playa hinchable y plegable ideal para tus vacaciones",
+      "url": "https://elpais.com/escaparate/estilo-de-vida/almohada-hinchable-playa.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/JXA7BP4RMVGKPMS7OAX4V3Q5RE.png?auth=05efd0e5d4d88d20f1b4d9e0f5931650b2fc9d609b1434e79d16bde5f93b0a1f",
+      "source": "El País",
+      "language": "es",
+      "topic": "science",
+      "topic_label": "Ciencia",
+      "que_paso": "La empresa ha desarrollado una almohada de playa innovadora que busca revolucionar la forma en que disfrutamos de nuestras vacaciones. Esta almohada ha sido diseñada pensando en la comodidad y la practicidad, lo que la hace ideal para aquellos que buscan una experiencia de playa sin renunciar a la comodidad. El contexto de esta innovación se enmarca en la búsqueda constante de productos que faciliten y mejoren nuestras experiencias al aire libre.",
+      "datos": [
+        "La almohada se infla en pocos segundos",
+        "Es resistente al agua",
+        "Es ergonómica",
+        "Puede llevarse en la mochila o el bolso",
+        "Ocupa menos espacio que una lata"
+      ],
+      "conclusion": "Esta innovación es importante porque ofrece una solución práctica y cómoda para aquellos que buscan disfrutar de la playa sin el inconveniente de llevar objetos voluminosos. La almohada de playa hinchable y plegable puede ser un elemento clave para mejorar la experiencia de vacaciones de muchas personas."
     }
   ]
 }
