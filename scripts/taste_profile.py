@@ -155,9 +155,12 @@ NEGATIVE = {
 }
 
 # How many articles to keep at most.
-MAX_ARTICLES = 50
-# Minimum score to make the cut (2 = one minor topic match is enough).
-MIN_SCORE = 2
+MAX_ARTICLES = 130
+# Minimum score to make the cut. 0 = no topic match required (any neutral,
+# non-negative article passes); only articles that trip NEGATIVE keywords
+# hard enough to go below zero (pure sports/gossip/partisan noise) are
+# dropped. Interest topics no longer gate news volume, only rank it.
+MIN_SCORE = 0
 
 # ── Plans profile ────────────────────────────────────────────────────────────
 # Same idea as TOPICS but tuned for Madrid leisure listings (Spanish event text,

@@ -229,11 +229,65 @@ def search_fallback(title):
 # ============================================================
 GROQ_MODEL = "llama-3.3-70b-versatile"
 
+# If a 429 asks us to wait longer than this, it's the daily budget talking,
+# not a per-minute blip. Stop calling and let remaining articles fail
+# gracefully instead of burning the rest of the run on doomed retries.
+GROQ_LONG_WAIT_SECONDS = 65
+_groq_budget_exhausted = False
+
+
+def _groq_retry_after(resp, attempt):
+    ra = resp.headers.get("retry-after") or resp.headers.get("Retry-After")
+    if ra:
+        try:
+            return float(ra) + 0.5
+        except ValueError:
+            pass
+    return min(2.0 * (2 ** (attempt - 1)), 20.0)
+
+
+def _post_groq(payload, api_key):
+    """POST to Groq with 429 backoff honouring Retry-After. Returns the
+    response on success, or None (and may set _groq_budget_exhausted)."""
+    global _groq_budget_exhausted
+    if _groq_budget_exhausted:
+        return None
+
+    headers = {"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}
+    max_tries = 4
+    for attempt in range(1, max_tries + 1):
+        try:
+            resp = requests.post("https://api.groq.com/openai/v1/chat/completions",
+                                  headers=headers, json=payload, timeout=40)
+        except Exception as e:
+            print(f"  Groq network error: {e}")
+            return None
+
+        if resp.status_code == 200:
+            return resp
+
+        if resp.status_code == 429:
+            wait = _groq_retry_after(resp, attempt)
+            if wait > GROQ_LONG_WAIT_SECONDS:
+                print(f"  Groq 429 with long wait ({wait:.0f}s) — daily budget exhausted, degrading")
+                _groq_budget_exhausted = True
+                return None
+            if attempt < max_tries:
+                print(f"  Groq 429 — retry {attempt}/{max_tries - 1} in {wait:.1f}s")
+                time.sleep(wait)
+                continue
+
+        print(f"  Groq error {resp.status_code}: {resp.text[:160]}")
+        return None
+    return None
+
 
 def summarize_with_groq(article):
     api_key = os.getenv("GROQ_API_KEY", "").strip()  # strip stray spaces/newlines
     if not api_key:
         print("  GROQ_API_KEY not set")
+        return None, ""
+    if _groq_budget_exhausted:
         return None, ""
 
     title = article["title"]
@@ -285,13 +339,10 @@ Article content:
         "temperature": 0.25,
         "response_format": {"type": "json_object"},
     }
-    headers = {"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}
 
     try:
-        resp = requests.post("https://api.groq.com/openai/v1/chat/completions",
-                            headers=headers, json=payload, timeout=40)
-        if resp.status_code != 200:
-            print(f"  Groq error {resp.status_code}: {resp.text[:160]}")
+        resp = _post_groq(payload, api_key)
+        if resp is None:
             return None, image_url
         raw = resp.json()["choices"][0]["message"]["content"].strip()
         data = json.loads(raw)
