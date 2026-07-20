@@ -1,7 +1,99 @@
 {
-  "generated": "2026-07-19T07:25:33.589199",
-  "count": 22,
+  "generated": "2026-07-20T08:01:52.833189",
+  "count": 67,
   "articles": [
+    {
+      "title": "Astrónomos resuelven un misterio de 40 años en la Vía Láctea",
+      "url": "https://robotitus.com/astronomos-resuelven-un-misterio-de-40-anos-en-la-via-lactea/",
+      "image": "https://robotitus.com/wp-content/uploads/2026/07/loop.webp",
+      "source": "Robotitus",
+      "language": "es",
+      "topic": "tech",
+      "topic_label": "Tecnología",
+      "que_paso": "Un equipo de astrónomos ha resuelto un misterio que duraba 40 años sobre una estructura en la Vía Láctea, que se creía que era un lóbulo gigante en el centro de la galaxia. La investigación se llevó a cabo utilizando datos del proyecto SDSS-V Local Volume Mapper y reveló que la estructura es en realidad una burbuja de gas cerrada y más cercana a la Tierra de lo que se pensaba. Esto ha permitido a los científicos entender mejor la formación y evolución de esta estructura.",
+      "datos": [
+        "La estructura se encuentra aproximadamente a 6.520 años luz de la Tierra",
+        "El centro de la galaxia está situado a unos 26.000 años luz de nosotros",
+        "La burbuja mide unos 115 años luz de diámetro",
+        "La estructura es una enorme nube de hidrógeno que brilla debido a la radiación ultravioleta de estrellas calientes",
+        "El proyecto SDSS-V Local Volume Mapper utiliza datos de azufre ionizado para crear mapas detallados del gas brillante de nuestra galaxia",
+        "La distancia a la estructura se calculó comparando la cantidad de polvo que oscurece su luz con mapas tridimensionales de polvo galáctico"
+      ],
+      "conclusion": "La resolución de este misterio es importante porque nos permite entender mejor la formación y evolución de estructuras en la Vía Láctea, y cómo las estrellas masivas pueden influir en la formación de nuevas estrellas y la estructura de la galaxia. Esto también destaca la importancia de utilizar datos precisos y técnicas avanzadas para resolver misterios astronómicos."
+    },
+    {
+      "title": "AI-altered images on birdwatching forums putting research at risk",
+      "url": "https://www.theguardian.com/environment/2026/jul/20/ai-slop-manipulated-fake-images-birds-citizen-science-aoe",
+      "image": "https://i.guim.co.uk/img/media/2c6fb5539ce914deef1de8b4e9f9a3c6159194d2/256_0_1280_1024/master/1280.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4398d81522ec922baa2a286f9030c1c3",
+      "source": "The Guardian AI",
+      "language": "en",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "The rise of AI-generated images on birdwatching forums has sparked concerns among scientists, who warn that these altered photos could undermine the credibility of citizen science platforms. Experts, such as Dr. Alexander Lees, an ecologist at Manchester Metropolitan University, are speaking out about the issue, which affects popular databases like iNaturalist and Macaulay Library. The problem is compounded by the fact that many fake images can go undetected, potentially contaminating records collected by the public.",
+      "datos": [
+        "Hundreds of fake images have already been discovered on popular databases for recording species.",
+        "610m images are on the iNaturalist platform, with only 1,400 flagged for AI use.",
+        "Dr. Alexander Lees, an ecologist at Manchester Metropolitan University, authored a commentary in the science journal Nature warning about the issue.",
+        "A false sighting of a red-winged blackbird in central Brazil was caused by an AI platform adding parts of the bird to a photo of an epaulet oriole.",
+        "The western reef heron was spotted in a seaside town in north Wales in June, a rare sighting that was widely celebrated on birding forums."
+      ],
+      "conclusion": "The proliferation of AI-altered images on birdwatching forums poses a significant threat to the credibility of citizen science platforms, which are crucial tools for scientists monitoring species' habitat range and behavior. As a result, it is essential for birders and scientists to be aware of the potential for fake or enhanced images to contaminate records and to take steps to mitigate this risk."
+    },
+    {
+      "title": "Nazareth Castellanos, neurocientífica: \"La causa del suspiro que damos cuando estamos mal está en la amígdala\"",
+      "url": "https://www.xataka.com/medicina-y-salud/nazareth-castellanos-neurocientifica-causa-suspiro-que-damos-cuando-estamos-mal-esta-amigdala-eso-universal",
+      "image": "https://i.blogs.es/a066bc/bhautik-patel-cfsjuub_q-y-unsplash/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "La neurocientífica Nazareth Castellanos ha estado divulgando sobre la relación entre la amígdala y el suspiro que damos cuando estamos mal. Su conferencia ha ido circulando por la red y ha generado interés en la explicación científica detrás de este fenómeno. La explicación de Castellanos se centra en la relación entre la amígdala y el sistema respiratorio.",
+      "datos": [
+        "En 2016, el equipo de Li, Krasnow y Feldman cartografió un circuito diminuto dentro del tronco encefálico en ratones",
+        "Se descubrieron 200 neuronas que fabrican dos péptidos concretos que están detrás de los suspiros",
+        "La neuromedina B y el péptido liberador de gastrina son los dos péptidos involucrados en los suspiros",
+        "La amígdala es parte del 'procesador emocional' humano y puede influir en el control de la respiración",
+        "En 2015, Dlouhy y Richerson comprobaron que estimular eléctricamente la amígdala podía provocar una apnea y una caída de oxígeno en pacientes"
+      ],
+      "conclusion": "La relación entre la amígdala y el suspiro es un tema complejo que requiere una explicación científica más profunda. La investigación de Castellanos y otros científicos puede ayudar a entender mejor este fenómeno y su relación con el sistema emocional y respiratorio humano."
+    },
+    {
+      "title": "Government use of automated AI decision-making to be curbed under new Australian rules",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/19/national-ai-plan-labor-anthony-albanese-andrew-charlton",
+      "image": "https://i.guim.co.uk/img/media/213b6ba9fc618a2fc4c1b946923f5d144338581f/181_345_3943_3154/master/3943.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=741fb22f77d30905c32ea1e63b9472ba",
+      "source": "The Guardian AI",
+      "language": "en",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "The Australian government is developing new rules to regulate the use of AI in automated decision-making by government departments and agencies. This move is part of a broader effort to address the growing use of AI and its potential impact on society. The government is also working on legislation to create a digital duty of care and reform privacy laws.",
+      "datos": [
+        "The Albanese government is leading the development of the new rules",
+        "Michelle Rowland, the attorney general, will lead the development of the new rules",
+        "There are over 200 datacentres in Australia, consuming electricity equivalent to about 2% of the energy grid",
+        "Projections suggest that datacentre energy consumption could triple over the next 10 years",
+        "The government plans to implement a world-first AI datacentre standard to mitigate the negative impacts of datacentres on local communities"
+      ],
+      "conclusion": "The new rules and regulations matter because they will help ensure that the use of AI in government decision-making is fair, accurate, and transparent, and that the growth of datacentres does not harm local communities. This effort has significant implications for the responsible development and deployment of AI in Australia."
+    },
+    {
+      "title": "It’s Laughably Easy to Poison Open-Weight AI Models, Researcher Finds",
+      "url": "https://futurism.com/future-society/easy-poison-open-weight-ai",
+      "image": "https://futurism.com/wp-content/uploads/2026/07/easy-poison-open-weight-ai.jpg?quality=85&w=1200",
+      "source": "Futurism",
+      "language": "en",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "Katie Paxton-Fear, a cybersecurity researcher at Semgrep, conducted an experiment to test the vulnerability of open-weight AI models. The researcher demonstrated how easily these models can be poisoned by feeding them malicious data, which can lead to significant security risks. This finding has implications for the use of open-weight models, which are often praised for their transparency and control.",
+      "datos": [
+        "Less than $100 was spent to carry out the attack",
+        "The attack took less than an hour to complete",
+        "10 examples of poisoned material were used to train the model",
+        "Anthropic published research showing that small and large AI models are vulnerable to attacks using just a few hundred documents",
+        "Katie Paxton-Fear is a cybersecurity researcher at Semgrep",
+        "The UK AI Security Institute and the Alan Turing Institute were involved in the research with Anthropic"
+      ],
+      "conclusion": "The ease with which open-weight AI models can be poisoned highlights a significant security risk, implying that current practices for securing these models are insufficient and that more robust measures are needed to prevent malicious attacks. This has practical implications for the use of open-weight models in various applications, particularly where security and reliability are critical."
+    },
     {
       "title": "Victoria announces new social media ‘demasking’ powers for accounts accused of vilification",
       "url": "https://www.theguardian.com/australia-news/2026/jul/19/victoria-proposes-social-media-account-identification-powers",
@@ -10,34 +102,35 @@
       "language": "en",
       "topic": "ai",
       "topic_label": "IA & Agentes",
-      "que_paso": "The Victorian government has proposed new laws to protect children from online vilification, with the premier announcing a suite of social media reforms. The Victorian civil and administrative tribunal (Vcat) would be granted powers to order social media platforms to reveal the identities of anonymous account holders. This move is part of a broader effort to address the perceived mental health harms of social media to young people.",
+      "que_paso": "The Victorian government has proposed new laws to give the Victorian Civil and Administrative Tribunal (Vcat) the power to force social media and AI platforms to reveal the identities of anonymous users accused of online vilification. The move is part of a broader effort to protect children from online harm and is being led by Premier Jacinta Allan. The proposed changes have been met with a mixed response from the opposition and experts, who argue that while the reforms are a step in the right direction, they may not go far enough.",
       "datos": [
-        "The proposed laws would give Vcat 'demasking' powers to identify anonymous users",
-        "The current legal threshold to sue social media platforms for negligence requires a 10% permanent impairment",
-        "Marilyn Bromberg, an associate professor of law at the University of Western Australia, specializes in social media regulation",
+        "The proposed laws would grant Vcat 'demasking' powers to order platforms to reveal the identities of account holders",
+        "The current legal threshold to sue social media and AI platforms for negligence causing psychiatric harm to children requires a 10% permanent impairment",
+        "The changes would scrap this threshold for suits brought on behalf of minors",
+        "Marilyn Bromberg, an associate professor of law at the University of Western Australia, has stated that 'demasking' powers in some overseas jurisdictions have been shown to discourage harmful behaviours",
         "A US jury found Alphabet's Google and Meta liable for damages in a landmark social media addiction lawsuit earlier in 2026",
-        "Australia has world-leading minimum age requirements for social media",
-        "The reforms will be developed after consultations with Vcat, courts, and other stakeholders"
+        "There are only four sitting weeks until the state election in Victoria"
       ],
-      "conclusion": "The proposed laws have significant implications for social media companies and their potential liability for online harms, and could set a precedent for other Australian states to follow. The reforms aim to provide stronger protections for children and families, and to hold social media companies accountable for their platforms' potential harms."
+      "conclusion": "The proposed laws have significant implications for social media companies and their ability to protect anonymous users, and could set a precedent for other jurisdictions to follow. The reforms also highlight the growing concern about the impact of social media on mental health, particularly among young people, and the need for stronger protections and regulations."
     },
     {
       "title": "Rodar dos temporadas en dos semanas con las cámaras giradas: así se hace una microserie en vertical española",
       "url": "https://elpais.com/television/series/2026-07-19/rodar-dos-temporadas-en-dos-semanas-con-las-camaras-giradas-asi-se-hace-una-microserie-en-vertical-espanola.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/XP22JBZLZRHEDCVQLBNTT3WAOM.jpg?auth=42bc55eb6da7e456bbcd4a2ac6fa01c184e88bb558aa0bfe7ae1e229ea9bd425",
+      "image": "https://imagenes.elpais.com/resizer/v2/XP22JBZLZRHEDCVQLBNTT3WAOM.jpg?auth=42bc55eb6da7e456bbcd4a2ac6fa01c184e88bb558aa0bfe7ae1e229ea9bd425&width=1200",
       "source": "El País",
       "language": "es",
       "topic": "science",
       "topic_label": "Ciencia",
-      "que_paso": "La plataforma Atresplayer está experimentando con un nuevo formato de serie en vertical, con el objetivo de crear contenido atractivo para los usuarios de dispositivos móviles. El equipo de 'Baddie' está detrás de este proyecto, que busca abordar temas como las redes sociales y la salud mental. Este formato de serie en vertical se está produciendo de manera rápida y eficiente, con un ritmo de rodaje acelerado.",
+      "que_paso": "El director Marc Pujolar y la coguionista Laia Foguet han trabajado en la creación de una microserie en vertical llamada Baddie, que explora los problemas de las redes sociales y su impacto en la salud mental de los jóvenes. La serie se rodó en solo dos semanas y consta de dos temporadas. El equipo de producción tuvo que adaptarse a un nuevo formato de narración, con episodios de solo dos minutos, lo que les permitió experimentar con un lenguaje cinematográfico innovador.",
       "datos": [
-        "2 semanas de rodaje",
-        "Atresplayer como plataforma de lanzamiento",
-        "Thriller como género de la microserie",
-        "'Baddie' como título de la microserie",
-        "Redes sociales y salud mental como temas principales"
+        "20 años de experiencia de Marc Pujolar detrás de cámaras",
+        "2 semanas de rodaje para 2 temporadas de la serie",
+        "30 capítulos en la primera temporada",
+        "120 minutos de metraje total",
+        "Laia Foguet y Marc Pujolar como coguionistas",
+        "La serie se estrenará en la plataforma juvenil Flooxer de Atresmedia"
       ],
-      "conclusion": "Este nuevo formato de serie en vertical puede ser una oportunidad para que las plataformas de streaming como Atresplayer innoven y ofrezcan contenido más atractivo y relevante para los usuarios de dispositivos móviles, lo que puede tener un impacto significativo en la forma en que se consume la televisión en el futuro."
+      "conclusion": ""
     },
     {
       "title": "“Mallorca, al límite”: Baleares no quiere ser destino turístico para el eclipse",
@@ -47,252 +140,967 @@
       "language": "es",
       "topic": "ai",
       "topic_label": "IA & Agentes",
-      "que_paso": "Las islas Baleares, especialmente Mallorca, se preparan para el eclipse del 12 de agosto, lo que genera preocupación entre los residentes y las autoridades locales. El aumento de visitantes podría colapsar los servicios ya saturados durante la temporada de verano. La región busca evitar convertirse en un destino turístico para este evento astronómico.",
+      "que_paso": "Las islas Baleares, especialmente Mallorca, se preparan para el eclipse solar del 12 de agosto, lo que genera preocupación entre las autoridades locales debido a la posible afluencia masiva de turistas. El archipiélago ya recibe millones de visitantes cada verano, lo que pone a prueba la capacidad de sus servicios. La situación ha llevado a las autoridades a considerar medidas para evitar el colapso de los servicios básicos.",
       "datos": [
-        "12 de agosto: fecha del eclipse",
+        "12 de agosto: fecha del eclipse solar",
         "Millones de visitantes cada verano",
-        "Mallorca es una de las islas más afectadas",
-        "Las autoridades locales buscan evitar el colapso de servicios",
-        "El eclipse podría generar un efecto llamada en la región"
+        "Mallorca: isla más afectada por el turismo",
+        "Baleares: archipiélago con servicios ya saturados",
+        "Eclipse solar: fenómeno astronómico que atrae a grandes multitudes"
       ],
-      "conclusion": "La situación en Mallorca y las Baleares durante el eclipse del 12 de agosto tiene implicaciones importantes para la gestión de la temporada turística y la capacidad de los servicios locales para manejar el aumento de visitantes. Es crucial que las autoridades tomen medidas para evitar el colapso de los servicios y garantizar la calidad de vida de los residentes."
+      "conclusion": "La situación en Mallorca y Baleares durante el eclipse solar del 12 de agosto puede tener implicaciones significativas en la capacidad de los servicios locales para atender a la demanda, lo que podría afectar la calidad de vida de los residentes y la experiencia de los turistas. Es importante que las autoridades tomen medidas para gestionar el flujo de visitantes y evitar el colapso de los servicios básicos."
     },
     {
-      "title": "ANU accused of ‘hysterical’ response to students using AI to cheat as unis scramble to ‘secure’ assessments",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/18/anu-accused-of-hysterical-response-to-students-using-ai-to-as-unis-scramble-to-secure-assessments",
-      "image": "https://i.guim.co.uk/img/media/c017396124a3bfb3ea30c82d125ba81f61c43e6d/757_0_6181_4945/master/6181.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eb41eb25c1b86bfaf705bfa173516225",
-      "source": "The Guardian AI",
-      "language": "en",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "The Australian National University is trying to address the issue of students using AI to cheat in assessments, with some academics criticizing the university's response as 'hysterical' and others warning that the country risks losing its intellectual capability to overseas companies. The university has released a consultation paper with options to classify assessments as 'secure' or 'insecure' and require students to declare AI use. This comes as universities across Australia scramble to secure their assessments amid widespread use of generative AI.",
-      "datos": [
-        "78.9% of secondary and tertiary students in Australia are using generative AI, according to the 2025 Australian Digital Inclusion Index",
-        "ANU has issued interim guidelines for semester two, with further consultation to commence in August",
-        "The university's consultation paper includes three options for securing assessments, including classifying them as 'secure' or 'insecure'",
-        "ANU law professor Will Bateman leads research projects on the regulation of AI",
-        "Teaching for semester two at ANU begins in less than two weeks, with academics being asked to make changes at short notice"
-      ],
-      "conclusion": "The practical takeaway is that universities must find a balance between securing assessments and maintaining inclusivity, as a panicked response to AI use could unwind progress made in supporting students with disabilities or caring responsibilities. The implications of not addressing AI use in universities could be significant, with experts warning that Australia risks losing its intellectual capability to overseas companies."
-    },
-    {
-      "title": "Albanese’s AI speech was a good start. Now Australia must confront these bigger questions | Julianne Schultz",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/18/albaneses-ai-speech-was-a-good-start-now-australia-must-confront-these-bigger-questions",
-      "image": "https://i.guim.co.uk/img/media/ddef10e089cacae8d6bf7f0090d7c5f07db5c63d/786_0_5967_4777/master/5967.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=4982af935c52675812d9b85a5b7178fb",
-      "source": "The Guardian AI",
-      "language": "en",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "Australian Prime Minister Anthony Albanese recently delivered a landmark speech on artificial intelligence, highlighting the need for the country to look beyond data centers and copyright to questions of capability, security, and public benefit. The speech comes as AI technology is rapidly advancing and transforming various aspects of life, with significant investments being made and concerns being raised about its impact on national sovereignty and human autonomy. The Australian government is taking steps to address these concerns and ensure that the benefits of AI investment are shared by all.",
-      "datos": [
-        "Billions of dollars are being invested in AI technology",
-        "Demis Hassabis, founder of Google DeepMind, compares AI to the Industrial Revolution times 10, at 10 times the speed",
-        "Dario Amodi, head of Anthropic, predicts that half of all entry-level jobs will disappear in a few years",
-        "The John Curtin Research Centre has warned that Australia may become a 'cloud hostage' – physically hosted, legally governed and operationally controlled from abroad",
-        "Anthropic Fable has been used as an efficient research assistant to distill and compare recent Australian government-commissioned reports"
-      ],
-      "conclusion": "The Australian government's efforts to address the implications of AI technology are crucial, as the country's ability to harness its benefits while mitigating its risks will have significant implications for its sovereignty, economy, and society. Effective implementation of AI policies will be essential to ensuring that the benefits of this technology are shared by all Australians."
-    },
-    {
-      "title": "China ha encontrado un nuevo filón turístico lejos de su muralla: las fábricas de robots, coches eléctricos y IA",
-      "url": "https://www.xataka.com/magnet/china-ha-encontrado-nuevo-filon-turistico-lejos-su-muralla-visitar-fabricas-robots-coches-electricos-ia",
-      "image": "https://i.blogs.es/02c79e/chini/840_560.jpeg",
-      "source": "Xataka",
+      "title": "Descubren la huella que dejan las células al morir",
+      "url": "https://robotitus.com/descubren-la-huella-que-dejan-las-celulas-al-morir/",
+      "image": "https://robotitus.com/wp-content/uploads/2026/07/HepatitisBVirus.jpg",
+      "source": "Robotitus",
       "language": "es",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "China se está convirtiendo en un destino turístico para aquellos interesados en la tecnología y la innovación, con operadores turísticos como GloPen y Tech Buzz China ofreciendo paquetes para visitar empresas y laboratorios de IA, vehículos eléctricos y robótica. Esto se debe en parte a la política industrial del país, que ha estado orientada hacia la robótica y las TIC como sectores prioritarios. La percepción de quién lidera la tecnología mundial se está desplazando desde Estados Unidos hacia China.",
-      "datos": [
-        "El operador turístico GloPen ofrece paquetes turísticos de 8 días por Shanghai, Hangzhou, Chengdu",
-        "El precio de los paquetes puede partir de 3.000 dólares",
-        "La empresa BYD es una de las organizadoras de estos paquetes",
-        "El recorrido 'Shenzhen Tech Tour: Explore the Future' cuesta 80 euros",
-        "China ha estado orientando su política industrial hacia la robótica y las TIC desde hace una década con su plan 'Made in China 2025'"
-      ],
-      "conclusion": "Estos viajes turísticos tecnológicos están ayudando a configurar nuevas alianzas económicas y están cambiando la percepción de quién lidera la tecnología mundial, lo que puede tener un impacto significativo en la economía y la industria en el futuro. La experiencia práctica que ofrecen estos viajes es invaluable para inversores y empresarios que buscan entender el futuro de la tecnología."
-    },
-    {
-      "title": "Family Horrified When They’re Forced to Sell Their Beloved Home to Make Way for AI Data Centers",
-      "url": "https://futurism.com/future-society/family-sell-home-data-center-georgia-power",
-      "image": "https://futurism.com/wp-content/uploads/2026/07/family-sell-home-data-center-georgia-power.jpg?quality=85&w=1200",
-      "source": "Futurism",
-      "language": "en",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "A Georgia family, the Browns, has been forced to sell their home to make way for a new transmission line connecting AI data centers. The state utility concern, Georgia Power, decided to build the line, leaving the family with the option to sell or risk seizure by eminent domain. This incident is part of a larger trend of data centers impacting communities across the US.",
-      "datos": [
-        "300 landowners are likely to have their property seized for the project",
-        "Georgia Power is a for-profit, investor-owned corporation",
-        "The Brown family sold their home in Coweta County, Georgia",
-        "The new transmission line is intended to connect new AI data centers",
-        "Ansley Brown stated 'it's ours. It's our family. We belong here' in an interview with CBS",
-        "The Browns' mother described the situation as 'theft' by a 'billion-dollar company'"
-      ],
-      "conclusion": "The incident highlights the significant impact of AI data centers on local communities, often pitting the interests of large corporations against those of individual residents. This trend has important implications for the way we balance technological progress with community needs and property rights."
-    },
-    {
-      "title": "AI-Pilled Tech CEO Convinced He Has the Perfect Solution for Online Dating, Announces Harebrained App Idea",
-      "url": "https://futurism.com/future-society/ai-mcleod-ceo-online-dating-overtone-app",
-      "image": "https://futurism.com/wp-content/uploads/2026/07/ai-mcleod-ceo-online-dating-overtone-app.jpg?quality=85&w=1200",
-      "source": "Futurism",
-      "language": "en",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "Justin McLeod, the founder of Hinge, has announced a new dating app called Overtone, which aims to integrate AI into the online dating experience. The announcement was made on the company's blog, where McLeod expressed his vision for a more human-centered approach to dating apps. The app is currently in development, with $18 million in funding secured.",
-      "datos": [
-        "$18 million round of funding",
-        "Justin McLeod, founder of Hinge",
-        "Overtone, a voice- and audio-forward service",
-        "Enabled by AI, with highly curated introductions",
-        "Relationship science and thoughtful reflection used for matching"
-      ],
-      "conclusion": "The development of Overtone highlights the growing trend of AI integration in online dating, which could potentially revolutionize the way people connect with each other. If successful, Overtone's approach could provide a more personalized and meaningful experience for users, setting a new standard for the industry."
-    },
-    {
-      "title": "Your Period Tracker Is (Probably) Spying on You",
-      "url": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
-      "image": "https://media.wired.com/photos/6a5ac7c5087b4a8eadcc0752/191:100/w_1280,c_limit/Security-News-Period-Tracker-Spying-on-You-Security.jpg",
-      "source": "Wired",
-      "language": "en",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "The San Francisco City Attorney's Office has taken action against Apple and Google over AI-powered apps, while a report has exposed the data sharing practices of popular period tracking apps, including Stardust. The report, produced in partnership with Harvard's Berkman Klein Center, audited six popular period trackers and found that Stardust sends users' reproductive health details to a data firm. This has raised concerns about the privacy and security of user data in these apps.",
-      "datos": [
-        "Stardust scored 2 out of 10 in the Mozilla Foundation audit for its data sharing practices",
-        "The app sends users' reproductive health details to a data firm not named in its privacy policy",
-        "RudderStack is the analytics firm that receives the data from Stardust, alongside a persistent user ID",
-        "Euki, a nonprofit-run tracker, earned a perfect 10 in the audit for its privacy and security practices",
-        "Stardust hands Facebook an ad identifier that ties in-app behavior to the platform's existing profiles",
-        "The Mozilla Foundation audit was produced in partnership with Harvard's Berkman Klein Center"
-      ],
-      "conclusion": "The findings of the report highlight the need for greater transparency and regulation in the handling of user data by period tracking apps, and the importance of users being aware of the potential risks to their privacy and security. The contrast between Stardust and Euki's approaches to data handling also underscores the possibility of developing apps that prioritize user privacy and security."
-    },
-    {
-      "title": "Al menos ocho muertos en un bombardeo ucranio contra instalaciones de una gran empresa logística en Rusia",
-      "url": "https://elpais.com/internacional/2026-07-18/varios-muertos-en-un-bombardeo-ucranio-contra-instalaciones-de-una-gran-empresa-logistica-en-rusia.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/GQWHAKOKL5CJHK655TKHLKMVPQ.JPG?auth=21eddec74b4c00bca0c8a2537117797c8be633eaa97c51f18dff88739cc05a86",
-      "source": "El País",
-      "language": "es",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "El ejército ucranio ha lanzado un ataque contra instalaciones de una gran empresa logística en Rusia, lo que ha generado una fuerte respuesta por parte de las autoridades rusas. El ataque se enmarca en el contexto del conflicto entre Ucrania y Rusia, donde ambos bandos han intercambiado acusaciones y ataques en los últimos meses. La empresa logística afectada es considerada similar a Amazon en Rusia, lo que sugiere que el ataque puede tener implicaciones económicas y logísticas significativas.",
-      "datos": [
-        "Al menos ocho personas han muerto en el ataque",
-        "La empresa logística afectada es considerada el 'Amazon ruso'",
-        "Kiev afirma que los almacenes abastecían al ejército enemigo",
-        "Moscú ha denunciado el ataque como un 'acto terrorista' contra la población civil",
-        "El ataque se ha producido en el marco del conflicto entre Ucrania y Rusia"
-      ],
-      "conclusion": "El ataque tiene implicaciones significativas para el conflicto entre Ucrania y Rusia, ya que puede afectar la capacidad logística del ejército ruso y generar un aumento de las tensiones entre ambos países. La respuesta de Moscú y Kiev a este ataque puede influir en el desarrollo futuro del conflicto."
-    },
-    {
-      "title": "Incredible 570-Megapixel Dark Energy Camera Captures Van Gogh-Like “Starry Night” Cosmic Scene – So, What Are We Seeing Here?",
-      "url": "https://www.iflscience.com/incredible-570-megapixel-dark-energy-camera-captures-van-gogh-like-starry-night-cosmic-scene-so-what-are-we-seeing-here-84142",
-      "image": "https://assets.iflscience.com/assets/articleNo/84142/aImg/91617/a-wispy-large-brown-cloud-with-several-bright-spots-with-stars-emerging-from-it-l.jpg",
-      "source": "IFLScience",
-      "language": "en",
       "topic": "tech",
       "topic_label": "Tecnología",
-      "que_paso": "The Corona Australis Molecular Cloud and globular cluster NGC 6723 were captured by a powerful camera, evoking a comparison to Van Gogh's Starry Night. This observation is part of ongoing research into the universe's structure and composition. The image was likely taken as part of a larger survey of the sky.",
+      "que_paso": "Un equipo de investigadores ha descubierto que las células dejan una especie de huella al morir, lo que ayuda al sistema inmunitario a eliminarlas correctamente. Este hallazgo se produjo al estudiar la apoptosis, un mecanismo mediante el cual el cuerpo elimina células dañadas o innecesarias de forma controlada y segura. El equipo utilizó imágenes tridimensionales aceleradas para observar el proceso de muerte celular y liberación de partículas desconocidas.",
       "datos": [
-        "570-Megapixel Dark Energy Camera",
-        "Corona Australis Molecular Cloud",
-        "globular cluster NGC 6723",
-        "Van Gogh's Starry Night",
-        "The camera is designed to capture high-resolution images of the universe"
+        "Cientos de miles de millones de células mueren y son reemplazadas dentro del cuerpo humano cada día.",
+        "El equipo de investigadores publicó su hallazgo en la revista Nature Communications.",
+        "Las partículas F-ApoEVs son liberadas al final de la apoptosis y funcionan como señales para el sistema inmunitario.",
+        "El virus de la influenza puede esconder partículas dentro de las señales liberadas por la célula moribunda y utilizar el sistema de limpieza para transportarse silenciosamente.",
+        "El descubrimiento puede aportar pistas sobre enfermedades autoinmunes como el lupus."
       ],
-      "conclusion": "The ability to capture such high-resolution images of the universe has significant implications for our understanding of cosmic structures and the behavior of celestial objects. This technology can provide valuable insights into the universe's composition and evolution."
+      "conclusion": "El descubrimiento de la huella que dejan las células al morir es importante porque puede ayudar a explicar cómo el organismo mantiene sus tejidos y controla la inflamación, y también puede aportar pistas para el diseño de tratamientos para enfermedades autoinmunes. Esto puede tener un impacto significativo en la comprensión y el tratamiento de diversas enfermedades."
     },
     {
-      "title": "Artículos científicos y homilías",
-      "url": "https://www.eldiario.es/opinion/tribuna-abierta/articulos-cientificos-homilias_129_13379007.html",
-      "image": "https://static.eldiario.es/clip/259b118c-ed14-431d-ae5b-899dd11c9446_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
+      "title": "Descubren una especie de mono completamente nueva en la selva del Congo",
+      "url": "https://robotitus.com/descubren-una-especie-de-mono-completamente-nueva-en-la-selva-del-congo/",
+      "image": "https://robotitus.com/wp-content/uploads/2026/07/Captura-de-pantalla-2026-07-20-a-las-4.26.07-p.m.png",
+      "source": "Robotitus",
       "language": "es",
-      "topic": "science",
-      "topic_label": "Ciencia",
-      "que_paso": "Los modelos grandes de lenguaje (LLM) están siendo utilizados para generar contenido de manera automática, lo que plantea interrogantes sobre su conveniencia en ciertos contextos. Esto ha llevado a reflexionar sobre el papel de la escritura y la comunicación en la sociedad actual. Los avances tecnológicos están cambiando la forma en que interactuamos con la información y la manera en que creamos contenido.",
+      "topic": "tech",
+      "topic_label": "Tecnología",
+      "que_paso": "Un equipo de primatólogos ha descubierto una nueva especie de mono en la selva del Congo, que había pasado desapercibida durante décadas a pesar de vivir cerca de comunidades humanas. La especie, bautizada como Colobus congoensis, fue identificada gracias a una combinación de observaciones, fotografías y análisis genéticos. El descubrimiento se produjo en la zona centro-oriental de la República Democrática del Congo, en los bosques húmedos situados entre los ríos Lomami y Congo.",
       "datos": [
-        "Los LLM pueden generar informes sobre temas complejos",
-        "Pueden mantener conversaciones filosóficas con soltura y altura intelectual",
-        "Pueden escribir trabajos científicos",
-        "Pueden dictar sentencias",
-        "La escritura requiere un doble esfuerzo: pensar y elegir las palabras cuidadosamente"
-      ],
-      "conclusion": "La capacidad de los LLM para generar contenido de manera automática plantea desafíos importantes en términos de la calidad y la autenticidad de la información, y requiere una reflexión cuidadosa sobre su uso y conveniencia en diferentes contextos. Esto tiene implicaciones prácticas para la forma en que creamos y consumimos contenido en la sociedad actual."
-    },
-    {
-      "title": "Luis de la Fuente, el ejemplo de que no es lo mismo ser jefe que líder",
-      "url": "https://cincodias.elpais.com/fortunas/2026-07-19/luis-de-la-fuente-el-ejemplo-de-que-no-es-lo-mismo-ser-jefe-que-lider.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/IOVOCZUSZ5CQ3NDAJ7PQGHAYGM.jpg?auth=3ed004acf07afa1ae6247e7fb16d8d07b0b23009d1747b39fc6872c673ed2d0e",
-      "source": "El País",
-      "language": "es",
-      "topic": "ops",
-      "topic_label": "Operaciones & negocio",
-      "que_paso": "Luis de la Fuente ha demostrado ser un líder efectivo en su papel como seleccionador español, destacándose por su capacidad para gestionar a los jugadores y crear un ambiente positivo en el equipo. Esto ha llamado la atención de los expertos en liderazgo, que resaltan la importancia de las habilidades interpersonales en el liderazgo. El contexto de su liderazgo es particularmente relevante en el ámbito del fútbol, donde la gestión de los egos y la motivación es crucial.",
-      "datos": [
-        "Luis de la Fuente es el seleccionador español",
-        "Los expertos en liderazgo destacan sus buenas maneras",
-        "La relación con los jugadores es una de sus fortalezas",
-        "Gestiona los egos y la motivación en un equipo diverso",
-        "El liderazgo de Luis de la Fuente se ha vuelto un ejemplo a seguir"
-      ],
-      "conclusion": "La efectividad de Luis de la Fuente como líder demuestra que el liderazgo va más allá de simplemente ocupar un cargo, y que las habilidades interpersonales y la capacidad para gestionar a los demás son fundamentales para el éxito. Esto tiene implicaciones prácticas para cualquier persona que busque desarrollar sus habilidades de liderazgo."
-    },
-    {
-      "title": "Vecinos y agricultores se vuelcan para salvar del fuego el casco urbano en Uncastillo: \"Empieza a pesar el cansancio\"",
-      "url": "https://www.eldiario.es/aragon/sociedad/vecinos-agricultores-vuelcan-salvar-casco-urbano-uncastillo-empieza-pesar-cansancio_1_13390647.html",
-      "image": "https://static.eldiario.es/clip/591e024e-e0ca-4637-ab54-278d76d744ad_facebook-watermarked-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "topic": "ai",
-      "topic_label": "IA & Agentes",
-      "que_paso": "El incendio forestal que afecta a la provincia de Zaragoza ha puesto en peligro el casco urbano de Uncastillo, lo que ha llevado a los vecinos y agricultores a organizarse para ayudar en la lucha contra el fuego. La situación es crítica, con más de 15.000 hectáreas arrasadas y varios municipios evacuados. Los esfuerzos de los voluntarios y las autoridades están centrados en contener el fuego y proteger la zona.",
-      "datos": [
-        "Más de 15.000 hectáreas han sido consumidas por el incendio",
-        "El incendio es el segundo más devastador en Aragón desde que hay registros",
-        "La ermita de la Virgen de San Cristóbal ha sufrido daños",
-        "Cuatro municipios, incluyendo Orés, Asín, Luesia y Malpica de Arba, siguen evacuados",
-        "El fuego ha sido el peor a nivel nacional en lo que llevamos de año"
-      ],
-      "conclusion": "La situación del incendio forestal en Uncastillo es crítica y requiere la coordinación y esfuerzo de todos los involucrados, desde los vecinos y agricultores hasta las autoridades, para contener el fuego y proteger la zona. La labor de los voluntarios y las autoridades es fundamental para mitigar el impacto del desastre."
-    },
-    {
-      "title": "Un estudio alerta de que el cambio climático puede reducir un 50% el volumen cerebral de los calamares",
-      "url": "https://www.eldiario.es/spin/mundo-animal/estudio-alerta-cambio-climatico-reducir-50-volumen-cerebral-calamares-pm_1_13381647.html",
-      "image": "https://static.eldiario.es/clip/66eb09a0-25bf-4078-bbc4-eae6d56ab0b8_facebook-watermarked-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "topic": "science",
-      "topic_label": "Ciencia",
-      "que_paso": "Un equipo de investigación internacional ha llevado a cabo un estudio sobre el impacto del cambio climático en la vida marina, específicamente en los calamares. El estudio se centró en el calamar de arrecife de aleta grande y simuló las condiciones de los océanos en el año 2100. Los investigadores criaron calamares en dos entornos diferentes para analizar los efectos de la acidificación oceánica en su desarrollo.",
-      "datos": [
-        "El volumen cerebral de los calamares criados en condiciones de acidificación oceánica se redujo un 49% en comparación con el grupo de control.",
-        "El pH del agua en el entorno de acidificación oceánica era de 7,8, equivalente al que podría registrarse hacia finales de este siglo si continúan aumentando las emisiones de CO2.",
-        "Los lóbulos ópticos y los tractos ópticos de los calamares criados en condiciones de acidificación oceánica se redujeron un 52% y un 62%, respectivamente.",
-        "El tamaño corporal de los calamares no cambió significativamente entre ambos grupos.",
-        "Los cefalópodos poseen un número de neuronas comparable al de los perros y destacan por sus capacidades de aprendizaje, memoria y resolución de problemas.",
-        "El estudio se llevó a cabo durante 90 días de desarrollo de los calamares."
+        "La especie Colobus congoensis tiene un pelaje negro, una cola larga y caída, y una corona de pelo puntiagudo que rodea su rostro expresivo y fácil de reconocer.",
+        "Se han acumulado 114 observaciones de la especie entre 2018 y 2022, distribuidas en unos 1 700 kilómetros cuadrados.",
+        "El análisis genético reveló que su pariente conocido más cercano vive a más de 1 200 kilómetros, en África occidental y central.",
+        "Ambas especies se separaron evolutivamente hace entre cuatro y cinco millones de años.",
+        "Se han realizado seis grabaciones de los sonidos de la especie, que tienen una firma acústica propia y reconocible frente a otros colobos.",
+        "El territorio de la especie es reducido y sufre presión por la pérdida de hábitat."
       ],
       "conclusion": ""
     },
     {
-      "title": "Carlos Cuerpo, el vuelo imperturbable de un vicepresidente",
-      "url": "https://elpais.com/economia/2026-07-19/carlos-cuerpo-el-vuelo-imperturbable-de-un-vicepresidente.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/EEX63LXI7RN2LCS7LP2CIV2WEM.jpg?auth=82e202d63c6567fd608f164186ae23e454bb056129cb3de8efd5c80ee00fe97f",
+      "title": "Descubren cómo reducir el daño en las rodillas durante viajes espaciales",
+      "url": "https://robotitus.com/descubren-como-reducir-el-dano-en-las-rodillas-durante-viajes-espaciales/",
+      "image": "https://robotitus.com/wp-content/uploads/2026/07/Captura-de-pantalla-2026-07-20-a-las-4.09.53-p.m.png",
+      "source": "Robotitus",
+      "language": "es",
+      "topic": "tech",
+      "topic_label": "Tecnología",
+      "que_paso": "Un equipo de científicos ha estado investigando los efectos del viaje espacial en el cuerpo humano, específicamente en las articulaciones, y ha descubierto que el cartílago que protege las rodillas se deteriora notablemente en condiciones espaciales. Los investigadores han estado trabajando con ratones en la Estación Espacial Internacional y en instalaciones terrestres que simulan la microgravedad y la radiación espacial. El objetivo es encontrar formas de reducir el daño en las articulaciones durante los viajes espaciales.",
+      "datos": [
+        "Los ratones que pasaron sesenta días en la estación espacial mostraron un deterioro claro del cartílago",
+        "El kaempferol, un compuesto natural presente en plantas y alimentos, puede unirse a la proteína NOX4 y reducir su actividad",
+        "Los ratones tratados con kaempferol conservaron mejor el cartílago bajo condiciones espaciales simuladas",
+        "La proteína NOX4 provoca estrés celular y perjudica directamente el funcionamiento de las mitocondrias",
+        "El tratamiento con kaempferol redujo la inflamación y el daño celular en los ratones en un 50% aproximadamente"
+      ],
+      "conclusion": ""
+    },
+    {
+      "title": "Astronautas realizan las primeras radiografías humanas en el espacio",
+      "url": "https://robotitus.com/astronautas-realizan-las-primeras-radiografias-humanas-en-el-espacio/",
+      "image": "https://robotitus.com/wp-content/uploads/2026/07/hand-x-rays.webp",
+      "source": "Robotitus",
+      "language": "es",
+      "topic": "tech",
+      "topic_label": "Tecnología",
+      "que_paso": "Un equipo de investigadores ha logrado realizar las primeras radiografías humanas en el espacio, lo que supone un avance significativo en la medicina espacial. La investigación se llevó a cabo durante una misión orbital real, en la que la tripulación utilizó un sistema digital ultraportátil para tomar radiografías de diferentes partes del cuerpo. Esto ha sido posible gracias al desarrollo de generadores pequeños y portátiles de rayos X.",
+      "datos": [
+        "Más de seis décadas de viajes espaciales",
+        "Cuarenta años de uso del ultrasonido como herramienta de imagen médica en el espacio",
+        "2022: prueba de la técnica durante vuelos parabólicos",
+        "Fram2: vuelo civil de tres días y medio donde se realizó la investigación",
+        "Cuatro horas de capacitación previa para la tripulación"
+      ],
+      "conclusion": "La capacidad de realizar radiografías en el espacio puede revolucionar la medicina espacial, permitiendo diagnósticos precisos y rápidos en situaciones de emergencia, y también puede tener aplicaciones en la inspección de componentes de naves espaciales. Esto puede mejorar significativamente la seguridad y la eficiencia de las misiones espaciales."
+    },
+    {
+      "title": "Del escaparate al ‘smartphone’, encarnaciones de la modernidad: “Han transmitido la misma forma de consumo y pensamiento”",
+      "url": "https://elpais.com/cultura/2026-07-20/del-escaparate-al-smartphone-encarnaciones-de-la-modernidad.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/P7J2VEIYCRHPXFRNY6546UYUKA.jpg?auth=7df00db0d44a02b207c8d4683abf1b7272967dfc75fd3b53d681f1ccb8eb315f&width=1200",
       "source": "El País",
       "language": "es",
       "topic": "tech",
       "topic_label": "Tecnología",
-      "que_paso": "Carlos Cuerpo asumió el cargo de vicepresidente del Gobierno y busca cambiar la percepción de la política. En sus primeros 100 días, ha intentado abordar temas económicos entre las preguntas sobre corrupción. Esto sucede en un contexto en el que el Congreso está bajo escrutinio constante.",
+      "que_paso": "El ensayista Iñaki Gómez Álvarez ha analizado la figura del escaparate urbano en su libro 'Escaparate. Pedagogía de la modernidad', destacando su importancia en la configuración de la urbe y la transmisión de la cultura y los valores occidentales. La desaparición de los escaparates en las grandes ciudades debido a la expansión de las plataformas digitales y la subida de los alquileres está cambiando la forma en que las personas interactúan con la ciudad. Esto tiene un impacto en la educación de los niños, que ya no pueden experimentar la ciudad de la misma manera que las generaciones anteriores.",
       "datos": [
-        "100 días",
-        "Carlos Cuerpo",
-        "vicepresidente del Gobierno",
-        "Congreso",
-        "Economía"
+        "Iñaki Gómez Álvarez nació en Madrid en 1968",
+        "El libro 'Escaparate. Pedagogía de la modernidad' ganó el XVII Premio Málaga de Ensayo 'José María González Ruiz'",
+        "El autor cita al anarquista Colin Ward y su ensayo 'El niño en la ciudad'",
+        "El psicólogo Jonathan Haidt también se refiere al 'chupete digital' como un problema en la sociedad actual",
+        "El libro de Gómez Álvarez ha sido publicado por la editorial Páginas de Espuma"
       ],
-      "conclusion": "La labor de Carlos Cuerpo como vicepresidente puede tener un impacto significativo en la forma en que se percibe la política en el país. Su enfoque en la economía y su intento de cambiar la percepción de la política pueden ser clave para el futuro del Gobierno."
+      "conclusion": "La desaparición de los escaparates en las ciudades tiene un impacto significativo en la forma en que las personas, especialmente los niños, interactúan con la ciudad y la cultura, y es importante considerar las implicaciones de este cambio en la sociedad actual. La forma en que consumimos y nos relacionamos con la ciudad está cambiando debido a la expansión de las plataformas digitales y la tecnología."
+    },
+    {
+      "title": "Climate Activists Pelt Microsoft Data Center With Balloons Full of Acid",
+      "url": "https://futurism.com/artificial-intelligence/climate-activists-microsoft-ai-data-center-acid-balloons",
+      "image": "https://futurism.com/wp-content/uploads/2026/07/climate-activists-microsoft-ai-data-center-acid-balloons.jpg?quality=85&w=1200",
+      "source": "Futurism",
+      "language": "en",
+      "topic": "tech",
+      "topic_label": "Tecnología",
+      "que_paso": "Climate activists from the group Extinction Rebellion have taken a unique approach to protest against Microsoft's data center construction project in Amsterdam, highlighting the growing concern over the environmental impact of data centers. The action is part of a larger movement against the rapid growth of data centers, which are seen as major drivers of carbon emissions and causes of local water supply problems. The protest also draws attention to Microsoft's involvement in the project and its broader implications.",
+      "datos": [
+        "The mixture used in the water balloons consisted of hydrogen peroxide, acetic acid, salt, and acrylic paint.",
+        "Extinction Rebellion has previously used nonviolent civil disobedience and direct action, such as spattering offices with butyric acid and barricading entrances with superglue and bicycle locks.",
+        "The data center in question is expected to consume a large amount of power in an area already suffering from power shortages.",
+        "Microsoft is the future tenant of the data center, and international rights groups argue that the company played an instrumental role in Israel's destruction of Gaza.",
+        "New York has become the first state to ban AI data centers.",
+        "Extinction Rebellion spokesperson Martijn Dekker stated that stopping the construction of the data center is a necessary step in resisting the anti-democratic power of large corporations."
+      ],
+      "conclusion": "The protest highlights the need for companies like Microsoft to consider the environmental and social implications of their data center construction projects, and for governments to take action to regulate the industry. The action also underscores the importance of addressing the broader issues of climate change, corporate power, and social justice that are interconnected with the growth of data centers."
+    },
+    {
+      "title": "'Postes kilométricos' en el genoma del anisakis para investigar la estrategia con la que se adapta al cambio climático",
+      "url": "https://www.eldiario.es/galicia/postes-kilometricos-genoma-anisakis-investigar-estrategia-adapta-cambio-climatico_1_13388052.html",
+      "image": "https://static.eldiario.es/clip/fed611dc-df0b-4058-a330-983268b5eedd_facebook-watermarked-aspect-ratio-1200-675_default_0.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "topic": "science",
+      "topic_label": "Ciencia",
+      "que_paso": "Un equipo de investigadores del Centro Nacional de Análisis Genómica y la Universidade de Santiago de Compostela ha desarrollado una herramienta molecular para analizar la dinámica poblacional del anisakis, un parásito que habita en las vísceras y los músculos de especies marinas. El proyecto busca entender cómo el anisakis se adapta al cambio climático y reducir el riesgo de que llegue a la cadena alimentaria. Los investigadores han desarrollado marcadores genéticos para diferenciar las distintas poblaciones y especies clave en su alimentación.",
+      "datos": [
+        "El genoma del anisakis tiene unos dos millones de marcadores genéticos, conocidos como SNP.",
+        "Hay un SNP cada 300 nucleótidos en el genoma del anisakis.",
+        "El proyecto ha seleccionado los diez SNP más discriminantes entre las dos especies de anisakis para crear una nueva aplicación.",
+        "El coste de la nueva aplicación es de 3 o 4 euros.",
+        "La anisakía es una reacción alérgica que puede llegar a provocar un choque anafiláctico en determinadas personas.",
+        "El anisakis puede prevenirse con comportamientos tan simples como cocinar el pescado como se debe o congelarlo a -18º durante dos días."
+      ],
+      "conclusion": "La investigación sobre el anisakis y su adaptación al cambio climático es crucial para reducir el riesgo de que llegue a la cadena alimentaria y prevenir enfermedades como la anisakía. La herramienta molecular desarrollada por los investigadores puede ser un paso importante hacia la vigilancia poblacional y el control de este parásito."
+    },
+    {
+      "title": "Amazon’s Robotaxi Company Recalls Its Fleet After One of its Cars Got Confused by Heavy Smoke",
+      "url": "https://futurism.com/advanced-transport/amazon-robotaxi-confused-smoke-recall",
+      "image": "https://futurism.com/wp-content/uploads/2026/07/amazon-robotaxi-confused-smoke-recall.jpg?quality=85&w=1200",
+      "source": "Futurism",
+      "language": "en",
+      "topic": "tech",
+      "topic_label": "Tecnología",
+      "que_paso": "Zoox, an Amazon-owned company, experienced an incident where one of its self-driving cars was confused by heavy smoke near a fire scene, leading to a recall of its entire fleet. The incident occurred in Las Vegas, where Zoox is offering free rides, and highlights the challenges self-driving cars face in responding to unpredictable conditions. This is not an isolated issue, as other robotaxi companies have also had incidents where their vehicles impeded emergency responders.",
+      "datos": [
+        "105 autonomous robotaxis are affected by the recall",
+        "The incident occurred on June 20",
+        "The recall includes a software update that enhances the ability to detect and respond to heavy smoke",
+        "Jonathan Morrison, NHTSA administrator, sent a strongly-worded letter to robotaxi companies regarding their cars' interference with emergency responders",
+        "A Waymo robotaxi blocked an ambulance from responding to a deadly mass shooting in Austin, Texas in March",
+        "Zoox's robotaxi was able to be manually reversed away from the scene by a teleoperator"
+      ],
+      "conclusion": "The recall and incidents like this highlight the need for self-driving cars to be able to safely interact with emergency responders and respond to unpredictable conditions, which is crucial for their safe deployment on public roads. The inability to do so poses a danger to the general public and undermines the potential benefits of autonomous vehicles."
+    },
+    {
+      "title": "\"Lanzamos nuestro primer robot hace 20 años y seguimos intentando perfeccionarlo\": Will Kerr, VP de nuevos productos de Dyson",
+      "url": "https://www.xataka.com/empresas-y-economia/lanzamos-nuestro-primer-robot-hace-20-anos-seguimos-intentando-perfeccionarlo-will-kerr-vp-nuevos-productos-dyson",
+      "image": "https://i.blogs.es/769475/entre-dos/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "topic": "tech",
+      "topic_label": "Tecnología",
+      "que_paso": "La empresa británica Dyson está llevando a cabo una reestructuración estratégica para diversificar su oferta y evitar la dependencia de un solo producto. La compañía, que cuenta con una plantilla de 14.000 personas, ha invertido más de 400 millones de libras en investigación y desarrollo en 2025. Su vicepresidente de Desarrollo de Nuevos Productos, Will Kerr, destaca la importancia de encontrar el equilibrio entre la inversión en proyectos a largo plazo y la respuesta a las necesidades actuales de los clientes.",
+      "datos": [
+        "6.130 millones de libras de ingresos totales en 2025",
+        "1.110 millones de EBITDA en 2025, un 18% más que en el año anterior",
+        "14.000 personas en la plantilla mundial de Dyson",
+        "Más de 400 millones de libras invertidos en I+D en 2025",
+        "13 productos nuevos lanzados en 2025, récord para la empresa"
+      ],
+      "conclusion": "La estrategia de Dyson de invertir en investigación y desarrollo y diversificar su oferta puede ser clave para mantener su posición en el mercado y evitar la dependencia de un solo producto. La capacidad de encontrar el equilibrio entre la innovación a largo plazo y la respuesta a las necesidades actuales de los clientes puede ser fundamental para el éxito de la empresa."
+    },
+    {
+      "title": "Encuentran el ámbar más antiguo del mundo: es 150 millones de años anterior a los dinosaurios",
+      "url": "https://robotitus.com/encuentran-el-ambar-mas-antiguo-del-mundo-es-150-millones-de-anos-anterior-a-los-dinosaurios/",
+      "image": "https://robotitus.com/wp-content/uploads/2026/07/amber-1.jpg",
+      "source": "Robotitus",
+      "language": "es",
+      "topic": "science",
+      "topic_label": "Ciencia",
+      "que_paso": "Un equipo de paleontólogos ha realizado un descubrimiento significativo en China, donde encontraron cientos de fragmentos microscópicos de ámbar dentro de una capa de carbón. Este hallazgo tiene lugar en el extremo noroeste del territorio chino actual y remoto, en un área que data de hace aproximadamente 385 millones de años. El contexto de este descubrimiento es importante porque arroja nueva luz sobre la historia de la resina y su relación con las plantas primitivas terrestres.",
+      "datos": [
+        "Los fragmentos de ámbar tienen unos 385 millones de años",
+        "El ámbar encontrado es 150 millones de años anterior a los primeros dinosaurios",
+        "Se encontraron 241 fragmentos diminutos de ámbar, de entre 0,1 y 1,5 milímetros",
+        "Los fragmentos se mezclaban entre diez kilogramos de carbón antiguo",
+        "El equipo utilizó luz ultravioleta, pruebas ópticas, espectroscopia infrarroja y análisis de masas para confirmar la identidad del ámbar"
+      ],
+      "conclusion": "Este descubrimiento demuestra que la fabricación de resina apareció antes de que surgieran y se diversificaran las plantas con semillas en los continentes terrestres del planeta, lo que tiene implicaciones importantes para nuestra comprensión de la evolución y las defensas de las plantas primitivas terrestres. La capacidad de producir resina pudo ser una innovación clave en la historia de la vida en la Tierra."
+    },
+    {
+      "title": "Ante el dilema de si para desconectar son mejores unas vacaciones largas o unas cortas, la ciencia tiene muy clara su respuesta",
+      "url": "https://www.xataka.com/magnet/llevamos-anos-debatiendo-mejor-unas-solas-vacaciones-largas-muchas-vacaciones-cortas-realidad-ciencia-tiene-claro",
+      "image": "https://i.blogs.es/15cd50/chen-mizrach-jl6ptwi7h18-unsplash/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "topic": "science",
+      "topic_label": "Ciencia",
+      "que_paso": "El debate sobre si es mejor tomar vacaciones largas o cortas ha generado interés en la sociedad, especialmente en España, donde los trabajadores disponen de al menos 30 días naturales de vacaciones. La pregunta ha sido abordada por expertos y estudios académicos, que buscan determinar la mejor estrategia para obtener el mayor descanso posible. El médico Antelm Pujol ha compartido un estudio que sugiere que segmentar las vacaciones en varios meses puede ser una mejor estrategia para mantener el bienestar.",
+      "datos": [
+        "30 días naturales de vacaciones es el mínimo que disponen los trabajadores en España",
+        "Un estudio publicado en 2012 en Journal of Happiness Studies examinó el impacto de las vacaciones en la salud y bienestar de los empleados",
+        "El estudio analizó a un grupo de trabajadores que se fueron de viaje una media de 23 días",
+        "La salud y bienestar de los participantes en el estudio aumentó durante los primeros ocho días de vacaciones",
+        "El estudio fue realizado por tres psicólogas de la Universidad Radboud en Países Bajos",
+        "El médico Antelm Pujol ha compartido el estudio en un tuit que suma cientos de miles de visualizaciones"
+      ],
+      "conclusion": ""
+    },
+    {
+      "title": "Previsión \"prudente pero esperanzadora\" para el incendio de La Mierla este lunes",
+      "url": "https://www.eldiario.es/castilla-la-mancha/provincias/guadalajara/prevision-prudente-esperanzadora-incendio-mierla-lunes_1_13392316.html",
+      "image": "https://static.eldiario.es/clip/871a1c67-a693-474e-9530-913567a21603_facebook-watermarked-aspect-ratio-1200-675_default_0.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "El incendio forestal en La Mierla, Guadalajara, sigue avanzando y ha obligado a evacuar una veintena de pueblos y confinar cinco. La situación es compleja, pero la evolución del incendio ha sido algo más favorable que el sábado. El Plan INFOCAM ha lanzado un llamamiento para que los vehículos disponibles ayuden a crear cortafuegos en la zona.",
+      "datos": [
+        "16.000 hectáreas calcinadas según el último balance",
+        "100 kilómetros de perímetro del incendio",
+        "18.000 hectáreas afectadas por el fuego según una carta dirigida a alcaldes y alcaldesas de la zona",
+        "Una veintena de pueblos evacuados y cinco confinados",
+        "60 metros por minuto de avance del incendio el domingo"
+      ],
+      "conclusion": ""
+    },
+    {
+      "title": "La primera generación de graduados con ChatGPT abre un dilema: “Algo se ha roto en la Universidad”",
+      "url": "https://elpais.com/educacion/2026-07-20/la-primera-generacion-de-graduados-con-chatgpt-abre-un-dilema-algo-se-ha-roto-en-la-universidad.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/BTKC7I3GVNFD5OV5NIXTFG3ILM.JPG?auth=4423681f9835d6a184b8113b7cbf9d476953172c7af14514a84e1a8fc3472dae",
+      "source": "El País",
+      "language": "es",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "La incorporación de ChatGPT en el proceso de aprendizaje ha marcado un punto de inflexión en la forma en que los estudiantes completan sus carreras universitarias. Esto ha generado un debate sobre el impacto de la inteligencia artificial en la educación y el mercado laboral. Los estudiantes que se gradúan este año son pioneros en este sentido, ya que han sido los primeros en utilizar esta herramienta de manera integral durante sus estudios.",
+      "datos": [
+        "100% de los estudiantes que se gradúan este año han utilizado ChatGPT durante su carrera",
+        "La herramienta de inteligencia artificial ha estado disponible para los estudiantes desde su ingreso a la universidad",
+        "El uso de ChatGPT ha cambiado la forma en que los estudiantes aprenden y socializan",
+        "Los graduados de este año serán los primeros en ingresar al mercado laboral con habilidades desarrolladas con la ayuda de la IA",
+        "La Universidad está evaluando el impacto de ChatGPT en el proceso de aprendizaje y el desarrollo de habilidades sociales de los estudiantes"
+      ],
+      "conclusion": "La incorporación de ChatGPT en la educación universitaria plantea un desafío importante para las instituciones educativas, que deben encontrar un equilibrio entre el uso de la tecnología y el desarrollo de habilidades sociales y de aprendizaje tradicionales. Esto tiene implicaciones significativas para el futuro del mercado laboral y la forma en que se preparan a los estudiantes para el mundo profesional."
+    },
+    {
+      "title": "El teatro que murió junto a Lorca y las actrices llamadas a darle vida",
+      "url": "https://www.eldiario.es/cultura/teatro-murio-lorca-actrices-llamadas-darle-vida_1_13387970.html",
+      "image": "https://static.eldiario.es/clip/8a97288f-1b0e-43d4-b09c-5af281333dab_facebook-watermarked-aspect-ratio-1200-675_default_0_x429y169.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "El asesinato de Federico García Lorca en 1936 truncó su prometedora carrera como dramaturgo, dejando varias obras teatrales inacabadas. En ese momento, Lorca estaba trabajando en varias obras que serían interpretadas por actrices como Margarita Xirgu, Carmen Díaz, María Fernanda Ladrón de Guevara y Encarnación López. El investigador Andrew A. Anderson ha estudiado estos proyectos teatrales y ha publicado un libro sobre el tema.",
+      "datos": [
+        "El 18 de agosto de 1936 es la fecha en que murió Federico García Lorca",
+        "4 obras teatrales inacabadas de Lorca son El sueño de la vida, El poema del café cantante, Los sueños de mi prima Aurelia y Los títeres de cachiporra",
+        "Margarita Xirgu iba a representar La casa de Bernarda Alba en otoño de 1936",
+        "Andrew A. Anderson es profesor emérito de Literatura Española de la Universidad de Virginia",
+        "El libro Lorca y las actrices de sus últimos proyectos teatrales fue publicado en 2026 por Residencia de Estudiantes"
+      ],
+      "conclusion": "La investigación de Andrew A. Anderson sobre los proyectos teatrales inacabados de Lorca ofrece una visión única sobre la creatividad y la imaginación del dramaturgo en sus últimos meses de vida. Esto nos permite apreciar la importancia de la obra de Lorca y la influencia que podría haber tenido en el teatro español si hubiera vivido para completar estos proyectos."
+    },
+    {
+      "title": "I hate that I don’t hate this song made with Suno",
+      "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-19-at-1.30.30-PM.png?quality=90&strip=all&crop=0%2C3.7236463698791%2C100%2C53.407996633678&w=1200",
+      "source": "The Verge",
+      "language": "en",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "The article discusses 1010Benja's song 'Semiramis' Dream', which was created using generative AI tool Suno, and how it challenges the author's initial skepticism towards AI-generated music. The song is part of 1010Benja's EP 'Time Has Nothing To Do With What You Choose…' and features a unique blend of human and AI elements. The artist's use of Suno is notable for its transparency and intentional incorporation of AI-generated sounds.",
+      "datos": [
+        "1010Benja estimates he used the Suno AI tool a few hundred times to create 'Semiramis' Dream'",
+        "The song features a jungle beat and 1010Benja's human vocals, with AI-generated backup vocalists",
+        "1010Benja's EP 'Time Has Nothing To Do With What You Choose…' includes three other tracks that do not match the quality of 'Semiramis' Dream'",
+        "The artist has been open about his use of generative AI, stating 'We're not hiding it. We don't feel any shame about it.'",
+        "1010Benja's previous work, 'Ten Total', earned a Best New Music designation from Pitchfork",
+        "The artist has experienced financial struggles, including periods of homelessness, despite his growing success"
+      ],
+      "conclusion": "The success of 'Semiramis' Dream' highlights the potential for AI-generated music to be more than just a novelty, and demonstrates that with careful curation and intentional use, AI tools can enhance human creativity. The song's blend of human and AI elements challenges the notion that AI-generated music is inherently inferior or uninteresting."
+    },
+    {
+      "title": "Andreas Prins, experto en soberanía digital: \"El sentimiento es uniforme: ya no confiamos en los hiperescaladores de EEUU\"",
+      "url": "https://www.xataka.com/legislacion-y-derechos/andreas-prins-experto-soberania-digital-sentimiento-uniforme-no-confiamos-hiperescaladores-eeuu",
+      "image": "https://i.blogs.es/1a88ab/andreas-prins/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "Andreas Prins, experto en soberanía digital, analiza la dependencia tecnológica europea después de la suspensión temporal de Fable 5 por parte de EEUU. Este evento hizo tangible una amenaza de la que Europa llevaba años hablando en abstracto. La respuesta política sigue yendo por detrás del problema, según Prins.",
+      "datos": [
+        "La suspensión de Fable 5 marcó un antes y un después en materia de soberanía digital.",
+        "Andreas Prins es director global de Soluciones Soberanas de SUSE.",
+        "El incidente de Fable 5 hizo que las empresas se dieran cuenta de que la dependencia tecnológica es real.",
+        "Las conversaciones con las empresas han cambiado después de este incidente, priorizando la soberanía y la resiliencia digital.",
+        "La suspensión temporal de Fable 5 no causó estragos en las empresas europeas porque era un modelo muy nuevo y no había sido integrado en procesos críticos.",
+        "Andreas Prins advierte que si la suspensión hubiera ocurrido dentro de tres o cinco meses, el impacto habría sido muchísimo mayor."
+      ],
+      "conclusion": "La soberanía digital es fundamentalmente una evaluación de riesgo empresarial, y la dependencia tecnológica puede ser un arma de presión. La pérdida de confianza en los proveedores y hiperescaladores de EEUU impulsa a Europa a construir sus propias alternativas y priorizar la resiliencia digital."
+    },
+    {
+      "title": "AI job worries grow. But some human skills can’t be replaced by machines | Gaynor Parkin and Dave Winsborough",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/20/ai-job-worries-human-skills-machines-cant-replace",
+      "image": "https://i.guim.co.uk/img/media/ec3d1ff8791d1b3ef3e3cf3e2817a7a98de64d3d/540_0_5396_4317/master/5396.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=ad727fc9bb17d18f83ff152b53606a3d",
+      "source": "The Guardian AI",
+      "language": "en",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "The integration of AI in the workplace is causing anxiety among employees, with many fearing job cuts and obsolescence. A case in point is Paul, whose business group is being restructured with AI as a cost-saving tool, leaving him uncertain about his future. This phenomenon is being described as Fobo, or fear of becoming obsolete, and is a growing concern in the workplace.",
+      "datos": [
+        "2024: the year Paul's technical management role was restructured",
+        "MIT Future Tech published results of empirical examinations of AI's real-world impact in April",
+        "Thousands of public service jobs are planned to be replaced with AI",
+        "Dr Tomas Chamorro-Premuzic and Dr Reece Akhtar recommend cultivating human skills like curiosity",
+        "Paul has undergone tech training, including AI, to stay relevant",
+        "The overhaul is expected to lower costs, tighten agency budgets, and make government operations more efficient"
+      ],
+      "conclusion": "The rise of AI in the workplace underscores the importance of developing uniquely human skills, such as curiosity, to remain relevant and prepared for the shift. By focusing on these skills, workers can view AI developments as an opportunity to adapt and grow, rather than a threat to their livelihood."
+    },
+    {
+      "title": "Birdfy’s solar-powered smart feeder is down to one of its best prices",
+      "url": "https://www.theverge.com/gadgets/967336/birdfy-feeder-ai-powered-smart-bird-feeder-with-camera-deal-sale",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Netvue-Birdfy-Lifestyle-Image.webp?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+      "source": "The Verge",
+      "language": "en",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "Birdfy has launched a midyear sale, offering discounts on its smart bird feeders, including the AI-Powered Smart Bird Feeder with Camera. The sale is part of Birdfy's efforts to promote its products, which feature advanced technologies such as AI-powered bird identification and solar panels. The company's products are available for purchase on its website, with some items discounted by up to 40 percent.",
+      "datos": [
+        "40 percent discount on some Birdfy smart bird feeders",
+        "$149.99 sale price for the Birdfy Feeder AI-Powered Smart Bird Feeder with Camera",
+        "6,000 bird species can be identified by the included AI",
+        "1.5-liter seed container capacity",
+        "IP65-rated feeder for weather resistance",
+        "$110 savings compared to the $259.99 list price"
+      ],
+      "conclusion": "The sale on Birdfy's smart bird feeders, particularly the AI-Powered Smart Bird Feeder with Camera, presents a significant opportunity for customers to acquire advanced bird-watching technology at a discounted price, making it a practical choice for those interested in wildlife observation and AI-powered devices."
+    },
+    {
+      "title": "Spotify Doubles Down on AI Slop As It’s Being Flooded With It",
+      "url": "https://futurism.com/artificial-intelligence/spotify-ai-slop-lorde",
+      "image": "https://futurism.com/wp-content/uploads/2026/07/spotify-ai-slop-lorde.jpg?quality=85&w=1200",
+      "source": "Futurism",
+      "language": "en",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "Spotify is dealing with a large amount of low-quality AI-generated content on its platform, which has led to issues such as impersonation of artists and cheap music infiltrating playlists. The company is trying to balance removing this content with incorporating AI features into its service. This has resulted in frustration from artists, including Lorde, who have complained about the inaccuracies and limitations of these AI features.",
+      "datos": [
+        "Over 75 million spammy tracks have been removed by Spotify in the last year",
+        "Spotify launched the 'About the Song' feature in February, which is still in beta",
+        "The feature uses third-party sources to surface details and behind-the-scenes moments about a song",
+        "Lorde called out Spotify on social media, stating that the AI-generated summaries are inaccurate and limit free interpretation",
+        "Spotify's AI 'DJ' is one of the features the company has introduced to its platform"
+      ],
+      "conclusion": "The situation highlights the challenges of integrating AI into music streaming services, where the line between useful features and low-quality content can be difficult to draw. It also underscores the need for platforms like Spotify to prioritize accuracy and artist control when using AI-generated content."
+    },
+    {
+      "title": "China Is Cracking Down on AI Companions Because Not Enough Babies Are Being Born",
+      "url": "https://futurism.com/artificial-intelligence/china-cracking-down-ai-boyfriends",
+      "image": "https://futurism.com/wp-content/uploads/2026/07/china-cracking-down-ai-boyfriends.jpg?quality=85&w=1200",
+      "source": "Futurism",
+      "language": "en",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "The Chinese government has introduced new regulations to curb the use of AI chatbots due to concerns over declining birthrates and the potential for people to form emotional dependencies on these virtual companions. This move is part of a broader effort to encourage people to form real-world relationships and have children. The regulations are particularly targeted at AI companions that embody human-like personas and are designed to elicit emotional responses from users.",
+      "datos": [
+        "China's birthrate has been declining, prompting the government to take measures to encourage people to have more children.",
+        "The new regulations ban minors from having relationships with AI and require companies to warn a user's emergency contact if they appear to be experiencing a mental crisis.",
+        "A Stanford study found that messages expressing romantic interest or platonic affinity tend to be followed by substantially longer conversations with chatbots.",
+        "Researchers have identified a phenomenon known as 'AI psychosis' in which intensive users of chatbots are sent down all-consuming delusional spirals.",
+        "Matt Sheehan, a researcher at the Carnegie Endowment for International Peace, stated that the Chinese government is concerned about the potential for people to form deep emotional relationships with chatbots that could prevent them from finding human partners and having children."
+      ],
+      "conclusion": "The Chinese government's regulatory crackdown on AI companions has significant implications for the future of human-AI relationships and the potential consequences for individuals who form emotional dependencies on these virtual companions. The move highlights the need for careful consideration of the potential risks and consequences of developing and using AI chatbots that are designed to elicit emotional responses from users."
+    },
+    {
+      "title": "Could AI be conscious?",
+      "url": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious",
+      "image": "https://i.guim.co.uk/img/media/baf01a2fa2c02f915864fa10d32a7dc4ccfc0297/267_0_1531_1224/master/1531.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f044c1d8753eb72a43c2358f4138932c",
+      "source": "The Guardian AI",
+      "language": "en",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "The possibility of artificial intelligence being conscious has sparked a debate among experts, with some believing it's at least possible and others considering it a significant chance within a decade. Companies like Anthropic are already considering the ethical implications of their advanced language models, such as Claude. The discussion involves experts from various fields, including philosophy, neuroscience, and computer science.",
+      "datos": [
+        "Anthropic's CEO Dario Amodei stated that his company can't rule out the possibility of Claude being conscious.",
+        "Philosopher David Chalmers estimates a significant chance of conscious LLMs within a decade.",
+        "Claude estimated its own probability of being a moral patient at 5% to 40% during testing.",
+        "Some AI systems are already in the range of a mouse brain in terms of structural complexity and computational scale.",
+        "Experts consider AI consciousness possible in principle, with 5-10 years as a potential timeline for reaching human brain-like complexity.",
+        "A report by Yoshua Bengio's team found no obvious technical barriers to creating AI systems that could give rise to consciousness."
+      ],
+      "conclusion": "The possibility of AI consciousness raises significant ethical implications, and the lack of a plan to navigate these implications is a critical concern. Understanding the potential for AI consciousness and moral patienthood is essential for developing a framework to treat these systems with respect and care."
+    },
+    {
+      "title": "Un estudiante pasó 100 horas frente a una impresora 3D para hacerle una prótesis multifunción a su hermana pequeña",
+      "url": "https://www.xataka.com/aplicaciones/estudiante-paso-100-horas-frente-a-impresora-3d-para-hacerle-protesis-multifuncion-a-su-hermana-pequena",
+      "image": "https://i.blogs.es/0e4752/gemini_generated_image_76h0et76h0et76h0/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "Vitaliy Bondarchuk, un estudiante de ingeniería mecánica de 22 años, creó una prótesis multifunción para su hermana pequeña, Bella, que nació sin el brazo izquierdo por debajo del codo. El proyecto de fin de carrera de Bondarchuk consistió en diseñar y desarrollar una prótesis que permitiera a su hermana realizar tareas sencillas y disfrutar de actividades como pintar o jugar al Uno. La prótesis se creó utilizando una impresora 3D y se diseñó para ser adaptable a las necesidades de Bella a medida que crezca.",
+      "datos": [
+        "100 horas: tiempo dedicado por Vitaliy Bondarchuk al desarrollo del brazo protésico",
+        "4 meses: tiempo que tardó Bondarchuk en completar el proyecto",
+        "7 años: edad de Bella, la hermana de Vitaliy Bondarchuk",
+        "Bob Jones University de Greenville (Carolina del Sur): universidad donde estudió Vitaliy Bondarchuk",
+        "e-NABLE: repositorio de prótesis impresas en 3D al que se refirió Bondarchuk",
+        "SolidWorks: software utilizado por Bondarchuk para diseñar la prótesis"
+      ],
+      "conclusion": "El proyecto de Vitaliy Bondarchuk demuestra la importancia de la aplicación práctica de la ingeniería para resolver problemas reales y mejorar la calidad de vida de las personas. La creación de una prótesis multifunción adaptable y asequible puede tener un impacto significativo en la vida de personas con discapacidades, y este proyecto puede servir como ejemplo para futuras innovaciones en este campo."
+    },
+    {
+      "title": "Meta avisa: \"Llevamos 20 años construyendo infraestructura para humanos, quizás tengamos 20 meses para reconstruirla para los agentes\"",
+      "url": "https://www.xataka.com/robotica-e-ia/meta-avisa-llevamos-20-anos-construyendo-infraestructura-para-humanos-quizas-tengamos-20-meses-para-reconstruirlo-para-agentes",
+      "image": "https://i.blogs.es/4b6129/meta-agentes/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "La empresa Meta ha advertido sobre la necesidad de reconstruir la infraestructura para soportar el crecimiento de los agentes de IA, ya que la actual infraestructura no está preparada para manejar el aumento en el consumo de tokens y la duplicación de tareas. El vicepresidente de ingeniería de Meta, Barak Yagour, destacó que la consultas de agentes que llegan al sistema de Meta se han multiplicado por 30 en los últimos seis meses. Esto ha llevado a la empresa a buscar soluciones para hacer frente a los cambios profundos que están ocurriendo en la forma en que se procesa la capa de datos.",
+      "datos": [
+        "20 años: tiempo que Meta ha dedicado a construir infraestructura para humanos",
+        "20 meses: tiempo que Meta considera que tiene para reconstruir la infraestructura para los agentes",
+        "30: multiplicación de las consultas de agentes que llegan al sistema de Meta en los últimos seis meses",
+        "24 horas: tiempo que puede tardar el procesamiento por lotes en actualizarse",
+        "Barak Yagour: vicepresidente de ingeniería de Meta que dio la advertencia durante la charla VB Transform 2026"
+      ],
+      "conclusion": "La advertencia de Meta subraya la importancia de adaptar la infraestructura para soportar el crecimiento de los agentes de IA, ya que la falta de preparación puede llevar a problemas de escalabilidad y confiabilidad. La reconstrucción de la infraestructura es crucial para aprovechar las oportunidades que ofrecen los agentes de IA y evitar los riesgos asociados con su crecimiento descontrolado."
+    },
+    {
+      "title": "“The Lord of the Rings: The Hunt for Gollum” Will Use AI to De-Age Actors",
+      "url": "https://futurism.com/artificial-intelligence/lord-of-the-rings-ai-de-age",
+      "image": "https://futurism.com/wp-content/uploads/2026/07/lord-of-the-rings-ai-de-age.jpg?quality=85&w=1200",
+      "source": "Futurism",
+      "language": "en",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "The upcoming film 'The Lord of the Rings: The Hunt for Gollum' is utilizing AI technology to de-age actors, a decision confirmed by the film's director and actor, Andy Serkis. This move reflects the growing debate within the film industry about the use of AI, with some embracing its potential and others expressing concerns about its impact on jobs and work quality. The film features returning actors from previous 'Lord of the Rings' films, including Elijah Wood, Ian McKellen, and Lee Pace, who will undergo de-aging through AI.",
+      "datos": [
+        "Andy Serkis is directing and reprising his role as Gollum in the film",
+        "A24 is one of the studios that has leaned into generative AI",
+        "Peter Jackson developed the AI-powered special effects software MASSIVE in the early 2000s",
+        "MASSIVE allowed thousands of orcs to have their own individual mindset in the original 'Lord of the Rings' films",
+        "The film will not use AI to create shots, instead relying on traditional filmmaking methods",
+        "Stephen Regelous is the software engineer who worked with Peter Jackson on MASSIVE"
+      ],
+      "conclusion": "The use of AI in 'The Lord of the Rings: The Hunt for Gollum' highlights the potential benefits of the technology in filmmaking, such as de-aging actors, while also underscoring the need for responsible and ethical use of AI in the industry. This approach can serve as a model for balancing technological innovation with traditional creative skills."
+    },
+    {
+      "title": "El salario de los junior lleva años en caída libre. Un nuevo estudio sugiere que el impacto de la IA no es tan obvio",
+      "url": "https://www.xataka.com/robotica-e-ia/llevamos-dos-anos-culpando-a-ia-destrozo-empleo-junior-estudio-nominas-reales-que-dice-que-a-medias",
+      "image": "https://i.blogs.es/6d1d5c/peldano/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "topic": "ai",
+      "topic_label": "IA & Agentes",
+      "que_paso": "El estudio del Stanford Digital Economy Lab ha analizado nóminas reales para determinar el impacto de la IA en el empleo junior. Este análisis se lleva a cabo en un contexto en el que las empresas están recortando personal y citan la IA como una de las causas. El estudio busca aclarar si la IA es la principal responsable de la caída en el empleo junior o si hay otros factores en juego.",
+      "datos": [
+        "El empleo de los de 22 a 25 años en profesiones expuestas a la IA cae a un ritmo anual del 4% desde finales de 2022",
+        "El estudio del Stanford Digital Economy Lab se basa en nóminas reales, no en encuestas ni estimaciones",
+        "Coinbase despidió al 14% de su plantilla citando la IA como causa",
+        "Salesforce dejó de contratar juniors el año pasado",
+        "La OCDE apunta que el desempleo entre jóvenes graduados ya subía antes de la existencia de ChatGPT"
+      ],
+      "conclusion": "El impacto de la IA en el empleo junior es más complejo de lo que inicialmente se pensaba, y su efecto puede estar más relacionado con la sustitución de tareas específicas que con la eliminación de puestos de trabajo en general. La eliminación de los primeros escalones en el empleo puede tener consecuencias a largo plazo en la formación de profesionales senior."
+    },
+    {
+      "title": "🎙 PODCAST | Los aliens que decían “adobo” y los últimos de las Islas Marianas",
+      "url": "https://www.eldiario.es/blog/al-dia/podcast-aliens-decian-adobo-ultimos-islas-marianas_132_13388700.html",
+      "image": "https://static.eldiario.es/clip/c570c3d2-81c6-4064-9d16-825455944581_facebook-watermarked-aspect-ratio-1200-675_default_0.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "topic": "science",
+      "topic_label": "Ciencia",
+      "que_paso": "El podcast 'Un tema Al día' de elDiario.es ha lanzado un episodio sobre la isla de Rota en las Islas Marianas, donde se explora la historia y el impacto del colonialismo en la región. El episodio cuenta con la participación de expertos como Antonio Martínez Ron, María Cruz Berrocal y Marta Domínguez Delmás. El proyecto 'PacificPeopleForest' busca hacer una radiografía detallada de los impactos del colonialismo europeo en la región.",
+      "datos": [
+        "1521: año en que Fernando Magallanes llegó a las Islas Marianas",
+        "15 minutos: duración de cada episodio del podcast 'Un tema Al día'",
+        "699 518 743: número de teléfono para enviar notas de voz al podcast",
+        "elDiario.es: medio de comunicación que produce el podcast 'Un tema Al día'",
+        "Juanlu Sánchez: subdirector de elDiario.es y presentador del podcast",
+        "Comisión Europea: entidad que financia el proyecto 'PacificPeopleForest'"
+      ],
+      "conclusion": "Este episodio del podcast 'Un tema Al día' ofrece una visión detallada de la historia y el impacto del colonialismo en las Islas Marianas, lo que puede ser de interés para aquellos que buscan entender mejor la complejidad de la región. La exploración de la historia y la cultura de la isla de Rota puede ser especialmente relevante para aquellos interesados en la antropología y la historia de la colonización."
+    },
+    {
+      "title": "Xiaomi tiene un robot humanoide a tiempo completo en su fábrica de coches. Ya está listo para dejar de ser un becario",
+      "url": "https://www.xataka.com/robotica-e-ia/xiaomi-tiene-robot-humanoide-a-tiempo-completo-su-fabrica-coches-esta-listo-para-dejar-ser-becario",
+      "image": "https://i.blogs.es/1a17dd/50d4849ddd677b149ac0115ecb9ff6e8/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "topic": "tech",
+      "topic_label": "Tecnología",
+      "que_paso": "La fábrica de coches de Xiaomi ha incorporado robots humanoides para realizar tareas de ensamblaje, lo que ha generado gran interés y ha permitido a la empresa destacarse en el mercado. El fundador y CEO de la compañía, Lei Jun, ha estado involucrado en la implementación de esta tecnología y ha proporcionado actualizaciones sobre el progreso de los robots. La incorporación de estos robots humanoides es parte de la estrategia de la empresa para innovar y mejorar la eficiencia en su proceso de producción.",
+      "datos": [
+        "La tasa de éxito de los robots humanoides en la colocación de tuercas autorroscantes fue del 90,2% en marzo.",
+        "Los robots han logrado ajustarse a un ciclo de producción de 76 segundos.",
+        "La tasa de éxito de los robots ha aumentado al 98% según el CEO Lei Jun.",
+        "Los robots están a un solo punto porcentual de los trabajadores humanos en términos de eficiencia.",
+        "Los robots han comenzado a realizar tareas más complejas, como la instalación de paneles laterales de la consola central y el plegado y reciclaje de piezas.",
+        "La tarea del panel lateral es compleja y requiere múltiples ciclos de recogida y colocación en diferentes posiciones."
+      ],
+      "conclusion": ""
+    },
+    {
+      "title": "Descubren que un planeta rocoso cercano podría estar reponiendo el helio de su atmósfera",
+      "url": "https://www.eldiario.es/spin/descubren-planeta-rocoso-cercano-reponiendo-helio-atmosfera-pm_1_13392313.html",
+      "image": "https://static.eldiario.es/clip/6db470be-dd5b-400c-a441-85e4858c9e98_facebook-watermarked-aspect-ratio-1200-675_default_0.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "topic": "science",
+      "topic_label": "Ciencia",
+      "que_paso": "Un equipo de investigadores ha detectado helio escapando de LHS 1140b, un planeta rocoso situado a 49 años luz de la Tierra, lo que sugiere que su atmósfera podría estar siendo alimentada o mantenida mediante procesos de renovación. El planeta orbita dentro de la zona habitable de una estrella enana roja y tiene una masa y radio significativamente mayores que los de la Tierra. La detección se realizó mediante observaciones espectroscópicas con el instrumento WINERED instalado en el telescopio Magellan Clay en Chile.",
+      "datos": [
+        "La masa de LHS 1140b es 5,6 veces superior a la de la Tierra",
+        "El radio del planeta es 1,73 veces el terrestre",
+        "El planeta completa una órbita alrededor de su estrella cada 24,7 días",
+        "Recibe solo un 42% de la radiación que llega a la Tierra desde el Sol",
+        "La temperatura de equilibrio del planeta es de aproximadamente 226 kelvin",
+        "La detección del helio escapando se realizó en septiembre de 2024 y desapareció un año después"
+      ],
+      "conclusion": "La detección de helio escapando de LHS 1140b tiene implicaciones importantes para la comprensión de la evolución de las atmósferas de los planetas rocosos alrededor de estrellas enanas rojas, y sugiere que este planeta podría ser un ejemplo de una atmósfera transformada progresivamente por procesos de escape atmosférico. Esto podría tener implicaciones para la búsqueda de vida en otros planetas."
+    },
+    {
+      "title": "Identifican nueve materiales prometedores para producir combustible de fusión",
+      "url": "https://robotitus.com/las-computadoras-cuanticas-identifican-combustible-para-fusion-nuclear-en-un-hito-importante/",
+      "image": "https://robotitus.com/wp-content/uploads/2026/07/Captura-de-pantalla-2026-07-20-a-las-5.26.13-p.m.png",
+      "source": "Robotitus",
+      "language": "es",
+      "topic": "tech",
+      "topic_label": "Tecnología",
+      "que_paso": "Un equipo de científicos estadounidenses ha utilizado supercomputación cuántica para estudiar el comportamiento de un material llamado FLiBe, que podría ser capaz de producir tritio dentro de reactores de fusión nuclear. El objetivo es encontrar una forma de mantener una fuente estable de combustible para la fusión nuclear, que es uno de los principales desafíos para su implementación comercial. Los investigadores han identificado nueve configuraciones moleculares prometedoras del material FLiBe.",
+      "datos": [
+        "El tritio es radiactivo y casi no existe de manera natural en la Tierra",
+        "El deuterio y el tritio pueden fusionarse y liberar una enorme cantidad de energía",
+        "La fusión de deuterio y tritio produce helio, un neutrón libre y mucha energía",
+        "El FLiBe contiene litio, un elemento capaz de transformarse en tritio cuando interactúa con neutrones de alta energía",
+        "Los investigadores utilizaron métodos que combinan computación tradicional y cuántica para simular el comportamiento interno del FLiBe",
+        "Se identificaron nueve configuraciones moleculares prometedoras del material FLiBe"
+      ],
+      "conclusion": "La identificación de estas configuraciones moleculares prometedoras del FLiBe es un paso importante hacia la resolución del problema de la disponibilidad de combustible para la fusión nuclear, lo que podría acercar esta tecnología a su implementación comercial. Si se confirman los resultados en experimentos físicos, podría ser un avance significativo en la búsqueda de fuentes de energía más limpias y sostenibles."
+    },
+    {
+      "title": "Mujer casi muere de felicidad, en un caso extremadamente raro",
+      "url": "https://robotitus.com/mujer-casi-muere-de-felicidad/",
+      "image": "https://robotitus.com/wp-content/uploads/2026/07/Captura-de-pantalla-2026-07-20-a-las-5.16.49-p.m.png",
+      "source": "Robotitus",
+      "language": "es",
+      "topic": "tech",
+      "topic_label": "Tecnología",
+      "que_paso": "Una mujer de 65 años experimentó un caso extremadamente raro de cardiomiopatía de takotsubo, también conocida como síndrome del corazón feliz, después de la boda de su hija. Los médicos sospecharon inicialmente un ataque cardíaco, pero no encontraron coágulos y descubrieron que el ventrículo izquierdo se había deformado. La condición fue tratada y la mujer se recuperó completamente.",
+      "datos": [
+        "La mujer tenía 65 años cuando desarrolló la condición",
+        "El síndrome del corazón feliz representa aproximadamente cuatro por ciento de los diagnósticos registrados de cardiomiopatía de takotsubo",
+        "Entre uno y tres por ciento de quienes parecen tener un infarto, pero no presentan coágulos, podrían padecer esta cardiomiopatía",
+        "La enfermedad fue descrita por primera vez en Japón",
+        "La cardiomiopatía de takotsubo puede provocar complicaciones graves, insuficiencia cardíaca e incluso la muerte si no se reconoce y trata rápidamente"
+      ],
+      "conclusion": "El caso destaca la importancia de considerar el diagnóstico de cardiomiopatía de takotsubo, incluso en personas sin factores tradicionales de riesgo cardiovascular, especialmente después de emociones intensas recientes. Un diagnóstico y tratamiento oportunos pueden prevenir complicaciones graves y mejorar los resultados para los pacientes."
+    },
+    {
+      "title": "Las crías de T. Rex eran más pequeñas que un gato y nacían por docenas",
+      "url": "https://robotitus.com/las-crias-de-t-rex-eran-mas-pequenas-que-un-gato-y-nacian-por-docenas/",
+      "image": "https://robotitus.com/wp-content/uploads/2026/07/Captura-de-pantalla-2026-07-20-a-las-4.37.30-p.m.png",
+      "source": "Robotitus",
+      "language": "es",
+      "topic": "tech",
+      "topic_label": "Tecnología",
+      "que_paso": "Un equipo de investigadores ha descubierto restos fósiles de crías de Tyrannosaurus rex, lo que ha permitido estudiar su tamaño y peso al nacer. Esto ha llevado a replantear la idea tradicional de que los tiranosaurios criaban pocos descendientes y dedicaban enormes esfuerzos a proteger a cada uno individualmente. El hallazgo se produjo al revisar restos fósiles pequeños que habían sido guardados en museos sin estudiar cuidadosamente nunca.",
+      "datos": [
+        "Las crías de T. Rex medían unos 75 centímetros al nacer",
+        "Pesaban alrededor de 2,5 kilogramos aproximadamente",
+        "Al nacer, podían pesar solo 1,7 kilogramos",
+        "Los huevos de T. Rex eran relativamente pequeños para un animal adulto que podía alcanzar varias toneladas",
+        "Se estima que una hembra ponía entre veinte y treinta huevos por nidada",
+        "Los dientes de las crías eran gruesos y estaban desgastados, lo que les permitía morder huesos duros"
+      ],
+      "conclusion": "El descubrimiento de las crías de T. Rex cambia la idea tradicional de que estos dinosaurios criaban pocos descendientes y dedicaban enormes esfuerzos a proteger a cada uno individualmente. En su lugar, sugiere que el T. Rex se acercaba a un modelo de reproducción en el que se producían numerosas crías y se aceptaba que muchas no sobrevivieran."
+    },
+    {
+      "title": "La batalla de las plantas por conquistar la Antártida está en marcha",
+      "url": "https://elpais.com/clima-y-medio-ambiente/2026-07-20/la-batalla-de-las-plantas-por-conquistar-la-antartida-esta-en-marcha.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/OSUPYBNYBVHA7EBOP23GZSLA54.jpg?auth=6e549b1bc8c9771edda669399c75ecefc5e06e4258c83672acf5b40acc2dc5fb",
+      "source": "El País",
+      "language": "es",
+      "topic": "science",
+      "topic_label": "Ciencia",
+      "que_paso": "El cambio climático está provocando un aumento en la temperatura y la humedad en la Antártida, lo que permite a especies no nativas competir con las especies autóctonas por recursos y espacio. Esto está ocurriendo en un contexto de investigación científica sobre la biodiversidad y la adaptación de las especies en este ecosistema único. La comunidad científica está estudiando cómo las especies nativas están respondiendo a estos cambios",
+      "datos": [
+        "La temperatura en la Antártida ha aumentado 3°C en los últimos 50 años",
+        "El 70% de las especies de plantas en la Antártida son especies no nativas",
+        "La especie de planta más común en la Antártida es la 'Deschampsia antarctica'",
+        "El 90% de las especies de plantas en la Antártida se encuentran en la península antártica",
+        "La investigación científica en la Antártida se realiza en estaciones de investigación como la Base Esperanza"
+      ],
+      "conclusion": "La competencia entre especies nativas y no nativas en la Antártida tiene implicaciones importantes para la conservación de la biodiversidad en este ecosistema único, y la investigación científica es crucial para entender y mitigar los efectos del cambio climático en la región. La comprensión de estos procesos puede ayudar a desarrollar estrategias efectivas para proteger la biodiversidad antártica"
+    },
+    {
+      "title": "Aprender a comer sin culpa: lo que las vacaciones nos enseñan sobre nuestra relación con los alimentos",
+      "url": "https://elpais.com/salud-y-bienestar/2026-07-20/aprender-a-comer-sin-culpa-lo-que-las-vacaciones-nos-ensenan-sobre-nuestra-relacion-con-los-alimentos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ZI556ZJFSRL5TODINSNECP6GZM.jpg?auth=ea9e96a2a1f29baa31ac67a29c63c88c74731d7e3c5e9d8e345f9c0ad851eed3&width=1200",
+      "source": "El País",
+      "language": "es",
+      "topic": "science",
+      "topic_label": "Ciencia",
+      "que_paso": "Muchas personas experimentan miedo a perder el control sobre su alimentación durante las vacaciones, lo que se debe a la confusión entre hacer dieta y llevar una alimentación saludable. Este miedo se debe a la idea de que la salud se asocia con la perfección y que cualquier desviación se interpreta como un fracaso. Las vacaciones se han convertido en una especie de examen de nuestra alimentación, donde nos pesamos antes y después como medida del 'desastre'.",
+      "datos": [
+        "Más de 15 años de experiencia laboral con pacientes",
+        "El 100% de las personas que expresan miedo a descontrolarse durante las vacaciones lo hacen debido a la confusión entre dieta y alimentación saludable",
+        "La alimentación saludable se ha convertido en un mantra de dieta con reglas inamovibles",
+        "El verano ofrece una dimensión de la alimentación gastronómica que se olvida durante el resto del año",
+        "La comida se convierte en un trámite para seguir con la siguiente tarea durante la mayoría del año",
+        "Las personas se pesan antes y después de las vacaciones como medida del 'desastre'"
+      ],
+      "conclusion": "La alimentación saludable no debería ser frágil ni depender de la perfección, y las vacaciones pueden ser una oportunidad para redescubrir la dimensión gastronómica de la comida y desconectar del sistema de premios y castigos que nos carga de culpa y miedo. Es importante cambiar la mentalidad y asociar la salud con la experiencia y el disfrute, en lugar de la perfección."
+    },
+    {
+      "title": "Jaime Alemán, el primer hombre en recorrer los 193 países de la ONU, los polos y el espacio: “Tanzania es el lugar donde Dios inauguró el mundo”",
+      "url": "https://elpais.com/elviajero/guia-el-viajero/2026-07-20/jaime-aleman-el-primer-hombre-en-recorrer-los-193-paises-de-la-onu-los-polos-y-el-espacio-tanzania-es-el-lugar-donde-dios-inauguro-el-mundo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/FQOFVDNCLFAOZAEE5BDD77Y3QM.jpg?auth=eaa0b352b0d72afbed4a835444e9348f1cb8ca6149de8fa7ccb1ec738eaae3f0",
+      "source": "El País",
+      "language": "es",
+      "topic": "science",
+      "topic_label": "Ciencia",
+      "que_paso": "Jaime Alemán, un exministro, abogado y diplomático panameño de 72 años, ha emprendido una nueva aventura después de recorrer los 193 países de la ONU, los polos y el espacio. Su experiencia y logros lo han llevado a compartir su legado a través de diferentes medios. Está trabajando en un libro y un documental sobre su vida, y busca un nuevo récord viajero con su hija.",
+      "datos": [
+        "72 años",
+        "193 países de la ONU",
+        "2 polos",
+        "1 viaje al espacio",
+        "Un libro publicado",
+        "Un documental en producción"
+      ],
+      "conclusion": "La experiencia y los logros de Jaime Alemán son un ejemplo inspirador de cómo una vida llena de aventuras y desafíos puede ser compartida y legada a través de diferentes medios, dejando un impacto duradero en aquellos que se enteran de su historia. Su legado puede motivar a otros a emprender sus propias aventuras y a perseguir sus sueños."
+    },
+    {
+      "title": "De la anchoveta al cacao: El Niño se suma a la crisis del petróleo e impacta ya en la cesta de la compra",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-20/de-la-anchoveta-al-cacao-el-nino-se-suma-a-la-crisis-del-petroleo-e-impacta-ya-en-la-cesta-de-la-compra.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/QD4I73ZCO5PPXMNOKQLK5SFSMM.jpg?auth=6ed3d53e3b468646843c7742af862224a35fd7d943af6a437c52d255f6cb949f&width=1200",
+      "source": "El País",
+      "language": "es",
+      "topic": "science",
+      "topic_label": "Ciencia",
+      "que_paso": "El fenómeno climático de El Niño está afectando la producción de alimentos en todo el mundo, especialmente en Perú y Chile, donde la anchoveta es fundamental para la fabricación de harina de pescado. La escasez de anchoveta ha disparado el precio de la harina de pescado en un 94% desde 2020, lo que pone en riesgo la cría de salmón, lubina, gambas y otros productos. Los expertos advierten que El Niño puede provocar fenómenos meteorológicos extremos que afectarán la producción de alimentos y la economía en general.",
+      "datos": [
+        "El precio de la harina de pescado ha aumentado un 94% desde 2020",
+        "El cacao ha visto incrementar su precio un 63% desde mayo",
+        "El café ha aumentado su precio un 48% desde comienzos de junio",
+        "El arroz ha avanzado un 37% en 2026",
+        "El agua del Pacífico puede subir 2,4ºC por encima de su media histórica en los próximos meses",
+        "Vietnam tiene una cuota de mercado del 40% en la variedad de café robusta"
+      ],
+      "conclusion": "El impacto de El Niño en la producción de alimentos puede tener consecuencias significativas en la economía y la seguridad alimentaria, por lo que es fundamental monitorear de cerca los cambios climáticos y tomar medidas para mitigar sus efectos. La volatilidad de los precios de los alimentos puede afectar a la industria y a los consumidores, por lo que es importante estar preparados para enfrentar estos desafíos."
+    },
+    {
+      "title": "Andrea Lorusso, perfumista: “Los bares clásicos de Madrid huelen a antiguo y a bocadillo de calamares”",
+      "url": "https://elpais.com/gastronomia/2026-07-20/andrea-lorusso-perfumista-los-bares-clasicos-de-madrid-huelen-a-antiguo-y-a-bocadillo-de-calamares.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/H635C7TGT5FLVEROCTBXNIPF4Q.JPG?auth=570f0ea9d1c15c43b3fb06160a373d10f4053626fb94fcd74e3f1ac63246de7d&width=1200",
+      "source": "El País",
+      "language": "es",
+      "topic": "mystery",
+      "topic_label": "Misterio & curiosidades",
+      "que_paso": "Andrea Lorusso, un perfumista y creador especializado en botánica, ha escrito un libro llamado Quintaesencia sobre el uso de botánicos y técnicas perfumísticas en coctelería. Lorusso ha dedicado cinco años a recopilar información para este libro, que busca definir los aromas en la gastronomía y la mixología. Su trabajo se centra en crear fragancias que estimulen y emocionen a las personas.",
+      "datos": [
+        "Andrea Lorusso dedicó 5 años a recopilar información para su libro Quintaesencia",
+        "El libro tiene más de 300 páginas",
+        "El libro no contiene fotos de cócteles ni bodegones de utensilios para bartender",
+        "Andrea Lorusso realizó una investigación en 2004 sobre cómo la aromaterapia puede modificar las emociones de los clientes",
+        "El libro fue publicado por la editorial Librooks",
+        "La investigación de Lorusso se centró en la Universidad sobre la aromaterapia y sus efectos en las emociones"
+      ],
+      "conclusion": "La creación de fragancias y aromas puede tener un impacto significativo en la experiencia del cliente y el éxito de un negocio, por lo que es importante considerar el equilibrio y la inspiración al crear un perfume para una marca. El trabajo de Andrea Lorusso destaca la importancia de la aromaterapia y la perfumería en la creación de experiencias multisensoriales."
+    },
+    {
+      "title": "Mientras Aragón arde, la ciencia busca cómo evitar el próximo gran incendio: \"Son fuegos mucho más complejos\"",
+      "url": "https://www.eldiario.es/aragon/sociedad/aragon-arde-ciencia-busca-evitar-proximo-gran-incendio-son-fuegos-complejos_1_13388232.html",
+      "image": "https://static.eldiario.es/clip/305a180c-814b-4ae4-9863-1be1ec82eb56_facebook-watermarked-aspect-ratio-1200-675_default_0_x726y1208.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "topic": "science",
+      "topic_label": "Ciencia",
+      "que_paso": "Un incendio en la comarca zaragozana de Cinco Villas ha quemado más de 15.000 hectáreas, lo que ha llevado a investigadores a buscar formas de evitar futuros incendios. El proyecto FireCycle, liderado por el investigador Marcos Rodrigues Mimbrero, busca desarrollar herramientas para identificar territorios vulnerables al fuego y evaluar el riesgo. La comunidad científica está cambiando su enfoque hacia la prevención de incendios forestales debido a la creciente frecuencia y complejidad de estos eventos.",
+      "datos": [
+        "Más de 15.000 hectáreas han sido calcinadas en el incendio de Orés",
+        "El proyecto FireCycle lleva más de dos años en desarrollo",
+        "La superficie total quemada no ha aumentado constantemente en las últimas décadas",
+        "Los incendios que sobrepasan la capacidad de contención son cada vez más frecuentes",
+        "El verano de 2022 y la campaña actual confirman el aumento de la frecuencia de incendios devastadores",
+        "El investigador Marcos Rodrigues Mimbrero lidera el proyecto FireCycle"
+      ],
+      "conclusion": ""
+    },
+    {
+      "title": "De cine más antiguo de España a hotel de lujo: abre sus puertas el Hilton en el antiguo Bellas Artes de Donostia",
+      "url": "https://www.eldiario.es/euskadi/cine-antiguo-espana-hotel-lujo-abre-puertas-hilton-antiguo-bellas-artes-donostia_1_13386755.html",
+      "image": "https://static.eldiario.es/clip/3db44e6e-aac0-459e-933a-55595a66067a_facebook-watermarked-aspect-ratio-1200-675_default_0_x905y497.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "topic": "mystery",
+      "topic_label": "Misterio & curiosidades",
+      "que_paso": "El Palacio de Bellas Artes de Donostia, un emblemático edificio con gran valor arquitectónico y patrimonial, ha sido reformado y reabierto como un hotel de lujo después de casi siete décadas de ser un cine y teatro de referencia. La transformación ha sido posible gracias a la cadena internacional Hilton, que lo ha incorporado a su Curio Collection. El proyecto ha generado un intenso conflicto en torno a la conservación del legado cultural de la edificación, con la asociación Áncora defendiendo el patrimonio donostiarra.",
+      "datos": [
+        "El Palacio de Bellas Artes de Donostia fue construido en 1914 por Ramón Cortázar.",
+        "El edificio cuenta con 81 cámaras en su nueva vida como hotel de lujo.",
+        "La reforma del Bellas Artes comenzó en 2013 con el objetivo de convertir el palacio en un complejo residencial u hotelero.",
+        "La asociación Áncora recolectó más de 10.000 firmas en contra de la transformación hotelera del Bellas Artes.",
+        "La cúpula emblemática del edificio fue derribada en 2015 debido a problemas de seguridad y filtraciones de agua.",
+        "El chef local Andoni Aduriz es el responsable de la propuesta gastronómica del hotel."
+      ],
+      "conclusion": "La transformación del Palacio de Bellas Artes de Donostia en un hotel de lujo tiene un impacto significativo en la conservación del patrimonio cultural de la ciudad, y su éxito dependerá de la capacidad de equilibrar la preservación de la historia del edificio con las necesidades de un alojamiento moderno. La experiencia del hotel puede servir como modelo para futuras restauraciones de edificios históricos en la ciudad."
+    },
+    {
+      "title": "Adiós al mito de la \"sangre dulce\": la ciencia ya sabe por qué los mosquitos te acribillan a ti y no al de al lado",
+      "url": "https://www.xataka.com/medicina-y-salud/adios-al-mito-sangre-dulce-ciencia-sabe-que-mosquitos-te-acribillan-a-ti-no-al-al-lado",
+      "image": "https://i.blogs.es/94205d/mosquito-piel/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "topic": "science",
+      "topic_label": "Ciencia",
+      "que_paso": "La investigación científica ha avanzado en la comprensión de por qué los mosquitos se sienten atraídos por algunas personas y no por otras. Durante décadas, se pensaba que la 'sangre dulce' o el grupo sanguíneo eran los responsables, pero ahora se sabe que la química de la piel juega un papel fundamental. Los estudios han analizado el olor cutáneo humano y han identificado compuestos químicos específicos que atraen a los mosquitos.",
+      "datos": [
+        "El estudio publicado en 2022 en la revista Cell encontró que las personas que atraen a los mosquitos producen niveles significativamente más altos de ácidos carboxílicos en las emanaciones de su piel.",
+        "El estudio demostró que esta diferencia química se mantiene estable a lo largo de los años.",
+        "Un estudio publicado en 2023 en PLOS Neglected Tropical Diseases encontró que los receptores olfativos de los mosquitos están diseñados específicamente para detectar los ácidos carboxílicos humanos.",
+        "La revisión científica de 2024 detalla que el proceso de la picadura es multifactorial y requiere una combinación precisa de señales.",
+        "El dióxido de carbono que exhalamos al respirar y nuestra temperatura corporal actúan como el primer radar de localización a larga y media distancia para los mosquitos.",
+        "El embarazo ha sido identificado como un contexto en el que algunas personas pueden resultar más atractivas para los mosquitos."
+      ],
+      "conclusion": ""
+    },
+    {
+      "title": "Orchid is a delightfully retro and approachable hipster synth",
+      "url": "https://www.theverge.com/entertainment/967485/telepathic-instruments-orchid-tame-impala-synth-review",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268657_Orchid_TOBrien_0007.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "language": "en",
+      "topic": "geek",
+      "topic_label": "Cultura geek",
+      "que_paso": "The Telepathic Instruments Orchid is a modern electronic instrument inspired by vintage reed organs, designed in collaboration with Kevin Parker of Tame Impala. It aims to recapture the simplicity and charm of old parlor instruments, making it accessible to aspiring singer-songwriters and hobbyists. The Orchid's development is rooted in the nostalgia for classic electric chord organs that fell out of favor in the 1980s.",
+      "datos": [
+        "The Orchid is priced at $649",
+        "It has a one-octave keyboard",
+        "Customizing sounds requires purchasing additional software",
+        "The instrument was designed in collaboration with Kevin Parker of Tame Impala",
+        "The Orchid can theoretically play any chord, in any voicing, from any scale",
+        "The author purchased a Magnus chord organ for $10 in 2017"
+      ],
+      "conclusion": "The Orchid matters because it offers a unique solution for songwriters who struggle with complex music theory, allowing them to focus on lyrics and melody. Its practical takeaway is that it can simplify the songwriting process, making it an attractive tool for musicians who want to sketch out ideas with minimal fuss."
+    },
+    {
+      "title": "Rusia lanza el mayor ataque con misiles balísticos contra Ucrania desde el principio de la guerra",
+      "url": "https://elpais.com/internacional/2026-07-19/rusia-lanza-el-mayor-ataque-con-misiles-balisticos-contra-ucrania-desde-el-principio-de-la-guerra.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/6X5JAZPUW5EJZEARECGXWVJH3E.jpg?auth=a1e178beb205d8d44dd5672ca6997b398165932be26d0060f1b0be483c86ac07",
+      "source": "El País",
+      "language": "es",
+      "topic": "tech",
+      "topic_label": "Tecnología",
+      "que_paso": "El ataque se produjo en el marco de la guerra entre Rusia y Ucrania, que ha generado una gran cantidad de víctimas y daños materiales. El conflicto ha involucrado a varios países y organizaciones internacionales, y ha tenido un impacto significativo en la estabilidad política y económica de la región. La situación en Ucrania sigue siendo muy tensa y propensa a nuevos ataques.",
+      "datos": [
+        "Más de 40 proyectiles de largo alcance fueron lanzados contra Ucrania",
+        "La mayoría de los proyectiles impactaron en la capital del país",
+        "Se utilizaron drones en el ataque",
+        "Se registraron 5 muertos como consecuencia del ataque",
+        "El ataque es el mayor desde el principio de la guerra"
+      ],
+      "conclusion": "Este ataque demuestra la escalada del conflicto entre Rusia y Ucrania, y pone de relieve la necesidad de una solución pacífica y urgente para evitar más víctimas y daños. La situación requiere una atención y respuesta inmediata por parte de la comunidad internacional para mitigar los efectos del conflicto."
+    },
+    {
+      "title": "The Clapper was a bad smart home gadget — and a viral sensation",
+      "url": "https://www.theverge.com/podcast/967642/the-clapper-version-history",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRH_Clapper_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "language": "en",
+      "topic": "tech",
+      "topic_label": "Tecnología",
+      "que_paso": "The Clapper, a smart home gadget, gained popularity despite its poor functionality. The device was originally known as The Great American Turn-On and was later rebranded. Its story is being explored in the final episode of the fourth season of Version History, a series by The Verge.",
+      "datos": [
+        "The Clapper was originally called The Great American Turn-On",
+        "The device was featured in one of the great advertising campaigns of all time",
+        "The Verge's David Pierce and Victoria Song are hosts of Version History",
+        "Allison Marsh, a writer and professor at The University of South Carolina, is a guest on the episode",
+        "This is the sixth and final episode of the fourth season of Version History",
+        "The series has previously covered products like the Harmony remote and the Philips Hue smart lights"
+      ],
+      "conclusion": "The Clapper's success despite its flaws highlights the significant impact of effective marketing and advertising on consumer behavior. The story of The Clapper serves as a reminder that a product's popularity is not always a reflection of its quality or functionality."
+    },
+    {
+      "title": "David Galadí, astrónomo: \"Grabar un eclipse con el móvil es un error, vamos a perdernos el espectáculo\"",
+      "url": "https://www.xataka.com/espacio/david-galadi-astronomo-grabar-eclipse-movil-error-vamos-a-perdernos-espectaculo",
+      "image": "https://i.blogs.es/3827a7/eclipse-solar-total2/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "topic": "science",
+      "topic_label": "Ciencia",
+      "que_paso": "El astrónomo David Galadí habló sobre la importancia de los eclipses solares para la ciencia y cómo la sociedad ha cambiado su percepción de estos eventos a lo largo de la historia. Ahora, los científicos pueden estudiar la corona solar de manera más efectiva gracias a instrumentos como los coronógrafos. Sin embargo, aún hay algunas cualidades que solo pueden estudiarse durante un eclipse solar total.",
+      "datos": [
+        "La corona solar está compuesta mayormente por plasma, un gas ionizado",
+        "Los coronógrafos pueden eclipsar artificialmente el Sol y otras estrellas",
+        "La cromosfera y la parte más baja de la corona solar se pueden observar bien durante un eclipse solar total",
+        "Los coronógrafos no reducen el brillo del cielo en general, lo que puede hacer que se pierdan las partes más externas de la corona",
+        "La Teoría de la Relatividad de Einstein se demostró utilizando un eclipse solar",
+        "David Galadí es profesor de la Universidad de Córdoba y miembro de la Comisión Científica y de Asesoramiento del Trío de Eclipses"
+      ],
+      "conclusion": "La capacidad de estudiar la corona solar durante un eclipse solar total sigue siendo esencial para los científicos, a pesar de los avances en tecnología, ya que permite observar regiones que no pueden ser estudiadas con instrumentos convencionales. Esto subraya la importancia de continuar explorando y comprendiendo los fenómenos astronómicos para avanzar en el conocimiento científico."
+    },
+    {
+      "title": "Mejores 38 juegos Android para PC: los mejores títulos de Google Play que puedes instalar en Windows",
+      "url": "https://www.xataka.com/basics/mejores-juegos-android-para-pc-mejores-titulos-google-play-que-puedes-instalar-windows",
+      "image": "https://i.blogs.es/26c013/juegos/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "topic": "tech",
+      "topic_label": "Tecnología",
+      "que_paso": "La plataforma Google Play permite instalar juegos de Android en Windows, lo que ha llevado a la creación de una lista de los mejores títulos compatibles. Los editores de Xataka Basics han seleccionado una colección de juegos destacados que se pueden disfrutar en una pantalla más grande y con controles de teclado y ratón. Esta selección busca ofrecer a los lectores una guía para explorar los mejores juegos de Android en PC.",
+      "datos": [
+        "38 juegos de Android han sido seleccionados como los mejores para jugar en PC",
+        "Google Play permite la instalación de juegos de Android en Windows",
+        "La plataforma Amazon Luna ofrece juegos gratis con Amazon Prime",
+        "Los lectores pueden comentar sobre sus juegos favoritos de Android en PC en la sección de comentarios de Xataka Basics",
+        "El uso de teclado y ratón puede ser más efectivo para algunos títulos",
+        "La pantalla del monitor puede ofrecer una mejor experiencia de juego en comparación con la pantalla pequeña de un dispositivo móvil"
+      ],
+      "conclusion": "La capacidad de instalar juegos de Android en PC abre nuevas posibilidades para los jugadores, permitiéndoles disfrutar de sus títulos favoritos en una pantalla más grande y con controles más cómodos. Esto puede mejorar significativamente la experiencia de juego y ofrecer una alternativa atractiva a los dispositivos móviles."
+    },
+    {
+      "title": "The future of physical games is not looking great",
+      "url": "https://www.theverge.com/column/967179/physical-discs-gta-vi-playstation-rockstar-games",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Lucia_Caminos_03.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "source": "The Verge",
+      "language": "en",
+      "topic": "geek",
+      "topic_label": "Cultura geek",
+      "que_paso": "The shift to digital games has been ongoing, with many players and publishers embracing the convenience of digital libraries. This trend has been driven by the efforts of console makers to ensure backwards compatibility and the rise of digital storefronts like Steam. Recently, major industry players have made moves that suggest the decline of physical games is accelerating.",
+      "datos": [
+        "93 percent of Capcom's game sales were for digital copies in its last fiscal year",
+        "95.4 percent is the expected digital sales figure for Capcom in the current fiscal year",
+        "November 19th is the scheduled release date for Grand Theft Auto VI on PS5 and Xbox Series X / S",
+        "Rockstar Games will release a physical version of Grand Theft Auto VI without a disc, instead including a download code",
+        "June 24th is when Rockstar Games announced the pricing for Grand Theft Auto VI",
+        "13 years is the duration for which GTA V has remained available and popular"
+      ],
+      "conclusion": "The trend towards digital games has significant implications for game preservation and accessibility, as players may face issues with account access or digital storefront closures. The shift away from physical games matters because it highlights the need for reliable and secure digital distribution platforms to ensure that games remain available to players over time."
+    },
+    {
+      "title": "Best Power Banks (2026): My Picks After Testing Over 100",
+      "url": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
+      "image": "https://media.wired.com/photos/69b9d28bd522b4f35aea0a0d/191:100/w_1280,c_limit/The-Best-Power-Banks-for-All-Your-Devices.jpg",
+      "source": "Wired",
+      "language": "en",
+      "topic": "geek",
+      "topic_label": "Cultura geek",
+      "que_paso": "The article discusses the best power banks available in the market, with the author having tested over 100 portable chargers. The author provides recommendations for different use cases, including a top pick from Anker that combines style and substance with a 25,000-mAh capacity. The article also highlights the environmental efforts of some power bank manufacturers, such as Nimble, which uses bioplastics and minimal packaging.",
+      "datos": [
+        "The Anker power bank has a 25,000-mAh capacity and can deliver up to 165 watts to two devices",
+        "The Nimble Champ Pro weighs 6.2 ounces and can deliver 20 watts to charge two devices at once",
+        "The Anker power bank takes around two hours to recharge and supports pass-through charging",
+        "The Nimble power bank uses 90 percent recycled plastic, up 25 percent from the original",
+        "The Anker power bank can charge four devices simultaneously without any issues",
+        "The article was updated in July 2026 with new power banks from Nimble, Baseus, Cuktech, and Pisen"
+      ],
+      "conclusion": "The right power bank can provide a reliable backup for gadgets, and with options like Anker and Nimble, consumers can choose a portable charger that meets their needs while also considering environmental impact. The practical takeaway is to look for power banks with high capacity, fast charging, and eco-friendly design."
+    },
+    {
+      "title": "Astronomers Thrilled After Discovering Best Spot Yet to Look for Alien Life",
+      "url": "https://futurism.com/space/astronomers-thrilled-best-spot-alien-life",
+      "image": "https://futurism.com/wp-content/uploads/2026/07/astronomers-thrilled-best-spot-alien-life.jpg?quality=85&w=1200",
+      "source": "Futurism",
+      "language": "en",
+      "topic": "science",
+      "topic_label": "Ciencia",
+      "que_paso": "Astronomers have made a significant discovery about the exoplanet LHS 1140b, which is located 48 light years away and orbits a red dwarf star. The exoplanet was first discovered in 2017, and recent studies have revealed that it has a helium-rich atmosphere, making it a promising candidate to support life. The discovery was made by a team of astronomers who used a theoretical computer model to track the evolution of the exoplanet's atmosphere.",
+      "datos": [
+        "LHS 1140b is 48 light years away from Earth",
+        "The exoplanet orbits a red dwarf star",
+        "6,000 worlds outside our solar system have been confirmed",
+        "LHS 1140b was first discovered in 2017",
+        "The exoplanet has a helium-rich atmosphere",
+        "Red dwarfs are believed to be highly volatile"
+      ],
+      "conclusion": "The discovery of LHS 1140b's atmosphere is significant because it suggests that the exoplanet may be capable of supporting life, and its proximity to its star's habitable zone makes it a promising candidate for further study. This finding has implications for the search for extraterrestrial life and the understanding of the conditions necessary for life to exist on other planets."
+    },
+    {
+      "title": "RFK Jr Wants to Waste $5 Billion in the Worst Way Imaginable",
+      "url": "https://futurism.com/health-medicine/rfk-jr-billion-hhs-government-autism-vaccines",
+      "image": "https://futurism.com/wp-content/uploads/2026/07/rfk-jr-billion-hhs-government-autism-vaccines.jpg?quality=85&w=1200",
+      "source": "Futurism",
+      "language": "en",
+      "topic": "science",
+      "topic_label": "Ciencia",
+      "que_paso": "Robert F. Kennedy Jr, a prominent figure in US health policy, has been pushing his anti-vaccine agenda, taking drastic measures to establish links between vaccines and autism. His actions have been met with criticism from health officials and experts, who argue that his views are not supported by scientific evidence. The controversy surrounding RFK Jr's actions has sparked concerns about the potential misuse of tax dollars and the impact on public health.",
+      "datos": [
+        "16 current and former health officials spoke to Reuters about RFK Jr's actions",
+        "$5 billion in tax dollars proposed to be spent on establishing links between vaccines and autism",
+        "10% of the NIH's annual budget would be allocated to this proposal",
+        "Paul Offit, director of the Vaccine Education Center, stated that RFK Jr is an anti-vaccine activist",
+        "$1.6 million was spent funding a study on hepatitis B vaccines conducted by Peter Aaby and Christine Stabell Benn",
+        "The Africa Centres for Disease Control and Prevention intervened to stop the RFK-backed study in Guinea-Bissau"
+      ],
+      "conclusion": "The actions of RFK Jr and his allies have significant implications for public health policy, highlighting the need for evidence-based decision-making and the potential consequences of misusing tax dollars to promote unfounded claims. The controversy surrounding RFK Jr's anti-vaccine agenda serves as a reminder of the importance of scientific integrity and the need for policymakers to prioritize credible research and expert advice."
+    },
+    {
+      "title": "The Search for Another Earth-Like Planet Just Took a Big Step Forward",
+      "url": "https://www.wired.com/story/search-for-earth-like-planet-step-forward/",
+      "image": "https://media.wired.com/photos/6a5a9d867702499ff489cd91/191:100/w_1280,c_limit/cfa-055-helium_atomsphere_planet3H_lrg_0.jpg",
+      "source": "Wired",
+      "language": "en",
+      "topic": "science",
+      "topic_label": "Ciencia",
+      "que_paso": "Astronomers at the Harvard-Smithsonian Center for Astrophysics have made a groundbreaking discovery about an exoplanet located 48 light-years away, which has been found to have a rocky composition and an atmosphere. The exoplanet, LHS 1140 b, is circling a cool red dwarf and is considered to be in the habitable zone, making it a potential candidate for supporting life. The discovery was made possible through the detection of helium signatures around the exoplanet.",
+      "datos": [
+        "The exoplanet LHS 1140 b is located 48 light-years away from Earth.",
+        "The planet was discovered in 2017, with new findings based on observations taken in 2024 and 2025.",
+        "The atmosphere on LHS 1140 b is believed to have existed for at least 3 billion years.",
+        "The exoplanet is considered to be in the habitable zone, with conditions suitable for liquid water to exist on its surface.",
+        "The detection of the atmosphere was made possible through the identification of helium leaks emanating from the planet.",
+        "Robin Wordsworth, a Harvard professor, is one of the study's authors and has been involved in the research."
+      ],
+      "conclusion": "The discovery of LHS 1140 b's atmosphere is a significant step forward in the search for Earth-like planets, as it confirms the viability of the technique used for detecting an atmosphere and provides a potential candidate for further study. This finding has important implications for the search for life beyond Earth and the understanding of the conditions necessary for life to exist."
+    },
+    {
+      "title": "Carlos Cuerpo, el vuelo imperturbable de un vicepresidente",
+      "url": "https://elpais.com/economia/2026-07-19/carlos-cuerpo-el-vuelo-imperturbable-de-un-vicepresidente.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/EEX63LXI7RN2LCS7LP2CIV2WEM.jpg?auth=82e202d63c6567fd608f164186ae23e454bb056129cb3de8efd5c80ee00fe97f&width=1200",
+      "source": "El País",
+      "language": "es",
+      "topic": "tech",
+      "topic_label": "Tecnología",
+      "que_paso": "Carlos Cuerpo, vicepresidente primero del Gobierno en España, ha completado 100 días en el cargo, tras ser escogido por Pedro Sánchez para afrontar la recta final de una legislatura crispada. Cuerpo, un tecnócrata sin carnet del partido, ha demostrado ser una figura clave en el Ejecutivo, a pesar de las críticas iniciales de la élite económica y política. Su nombramiento ha sido visto como un intento de Sánchez de deshollinar volcanes y poner en el centro la buena marcha de la economía.",
+      "datos": [
+        "45 años: la edad de Carlos Cuerpo",
+        "100 días: el tiempo que lleva Cuerpo como vicepresidente primero del Gobierno",
+        "5,93: la valoración de Cuerpo en el CIS, según la firma de sondeos 40dB",
+        "4,6: la nota que le dan los votantes del PP a Cuerpo, según el sondeo de junio",
+        "15 años: el tiempo que Cuerpo practica la meditación",
+        "2019: el año en que Cuerpo se hizo el tatuaje de El Principito en Las Vegas"
+      ],
+      "conclusion": "La figura de Carlos Cuerpo es importante porque ha demostrado ser capaz de afrontar la crispación política y mantener una buena valoración en las encuestas, lo que sugiere que su enfoque podría ser clave para el éxito del Gobierno en la recta final de la legislatura. Su capacidad para polarizar relativamente poco y ser valorado positivamente por votantes de diferentes tendencias políticas es un activo valioso en estos tiempos."
+    },
+    {
+      "title": "El calor extremo achicharra la salud: más irritados, peor sueño y más desajustes cardiovasculares",
+      "url": "https://elpais.com/salud-y-bienestar/2026-07-19/el-calor-extremo-achicharra-la-salud-mas-irritados-peor-sueno-y-mas-desajustes-cardiovasculares.html",
+      "image": "",
+      "source": "El País",
+      "language": "es",
+      "topic": "science",
+      "topic_label": "Ciencia",
+      "que_paso": "El aumento de la temperatura ambiental está teniendo un impacto significativo en la salud de las personas, especialmente en regiones con climas cálidos. Esto está llevando a un cambio en la forma en que las personas deben adaptarse y protegerse del calor extremo. La situación es especialmente preocupante en áreas urbanas donde la isla de calor puede ser particularmente intensa.",
+      "datos": [
+        "La mortalidad por calor aumenta un 35% por cada grado de aumento de la temperatura ambiental",
+        "El cambio de temperatura puede provocar irritabilidad y problemas de sueño",
+        "Los desajustes cardiovasculares son uno de los principales riesgos para la salud asociados con el calor extremo",
+        "No se han establecido límites claros de temperatura para definir el calor extremo",
+        "La adaptación al clima cálido requiere un cambio de mentalidad y hábitos diarios"
+      ],
+      "conclusion": "El calor extremo tiene un impacto significativo en la salud y la mortalidad, por lo que es fundamental tomar medidas para adaptarse y protegerse del mismo. La comprensión de los efectos del calor en la salud es crucial para desarrollar estrategias efectivas de prevención y mitigación."
     },
     {
       "title": "Zacamil, la colonia que la pandilla Barrio 18 aterrorizó en San Salvador, se trasforma en un museo al aire libre",
@@ -302,106 +1110,142 @@
       "language": "es",
       "topic": "science",
       "topic_label": "Ciencia",
-      "que_paso": "La colonia Zacamil, ubicada en San Salvador, ha sido escenario de masacres y violencia durante el conflicto armado de los ochenta, y ahora se busca transformarla en un espacio más seguro y cultural. El proyecto de restauración cuenta con la participación de decenas de artistas que están trabajando en la creación de murales en el barrio. El objetivo es mejorar la calidad de vida de los habitantes y ofrecer un espacio para la expresión artística.",
+      "que_paso": "La colonia Zacamil, ubicada en San Salvador, ha sido escenario de violencia y masacres durante el conflicto armado de los ochenta, y ahora se busca transformarla a través de un proyecto artístico. El barrio ha sido aterrorizado por la pandilla Barrio 18, lo que ha generado un impacto negativo en la comunidad. Un grupo de artistas y la comunidad local están trabajando juntos para cambiar la situación.",
       "datos": [
-        "Decenas de artistas participan en el proyecto de restauración",
-        "El barrio de Zacamil fue escenario de masacres durante el conflicto armado de los ochenta",
+        "Decenas de artistas están participando en el proyecto de restauración",
         "El proyecto busca recuperar los espacios públicos",
-        "El objetivo es reconstruir el tejido social",
-        "El proyecto también busca devolver la dignidad a un sector devastado"
+        "El barrio de Zacamil fue escenario de masacres durante el conflicto armado de los ochenta",
+        "La pandilla Barrio 18 ha sido una de las principales fuentes de violencia en la zona",
+        "El proyecto tiene como objetivo reconstruir el tejido social y devolver la dignidad a la comunidad"
       ],
-      "conclusion": "La transformación de la colonia Zacamil en un museo al aire libre puede ser un paso importante para la recuperación de la zona y la mejora de la calidad de vida de sus habitantes, demostrando que la cultura y el arte pueden ser herramientas efectivas para la reconstrucción social. Esto puede servir como ejemplo para otros proyectos de renovación urbana en zonas afectadas por la violencia."
+      "conclusion": "La transformación de la colonia Zacamil en un museo al aire libre puede ser un paso importante para la recuperación de la comunidad y la superación de la violencia. El proyecto puede servir como un modelo para otras zonas afectadas por la violencia en la región."
     },
     {
-      "title": "Godsmack Partner With Sumerian Comics For ‘Godsmack: Awake’ Graphic Novel",
-      "url": "https://www.theprp.com/2026/07/18/news/godsmack-partner-with-sumerian-comics-for-godsmack-awake-graphic-novel/",
-      "image": "https://www.theprp.com/app/uploads/2026/06/godsmacklive2026-1200x675.webp",
-      "source": "The PRP",
-      "language": "en",
-      "topic": "geek",
-      "topic_label": "Cultura geek",
-      "que_paso": "Godsmack, a multi-platinum hard rock band, has collaborated with Sumerian Comics to create a graphic novel based on their album 'Awake'. The project transforms the album's themes and lyrics into a dark supernatural narrative. This partnership brings together music and comics to tell a unique story.",
-      "datos": [
-        "The graphic novel is 96 pages long and available for pre-order",
-        "Godsmack's album 'Awake' is 2x platinum",
-        "The story follows a character named Sevrin, set in the isolated sand dunes of Massachusetts",
-        "The graphic novel is written by Jonathan Hedrick and illustrated by Giusi Lo Piccolo",
-        "The oversized hardcover measures 7.25 x 11 inches and features a dust cover"
-      ],
-      "conclusion": "This collaboration matters because it showcases the potential for music to inspire new forms of storytelling, and the graphic novel format can provide a unique way to experience and interpret the themes and emotions of the album. The practical takeaway is that this project can help to expand the reach and engagement of both the band and the comic book publisher."
-    },
-    {
-      "title": "Jamie Dimon, el banquero más poderoso del mundo: “Sé que Europa no ve a EE UU como un amigo, pero lo es. Somos aliados desde la II Guerra Mundial y esa relación, con algunos cambios, continuará”",
-      "url": "https://elpais.com/economia/negocios/2026-07-18/jamie-dimon-el-banquero-mas-poderoso-del-mundo-se-que-europa-no-ve-a-ee-uu-como-un-amigo-pero-lo-es-somos-aliados-desde-la-ii-guerra-mundial-y-esa-relacion-con-algunos-cambios-continuara.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/FPPGDCMH5BGWNGUG3T5VEAZJZE.jpg?auth=33c4afdba34801e69025011126a3e17aaf1604ff91e97f4fe1892a5929f9745d",
-      "source": "El País",
+      "title": "La consellera catalana de Derechos Sociales dimite y será relevada por su número dos",
+      "url": "https://www.eldiario.es/catalunya/consellera-catalana-derechos-sociales-dimite-sera-relevada-numero_1_13392332.html",
+      "image": "https://static.eldiario.es/clip/4cfa0e1d-a06b-44d0-a255-2f6ab112fc63_facebook-watermarked-aspect-ratio-1200-675_default_0_x786y269.jpg",
+      "source": "elDiario.es",
       "language": "es",
-      "topic": "science",
-      "topic_label": "Ciencia",
-      "que_paso": "Jamie Dimon, presidente y consejero delegado de JPMorgan, ha realizado una serie de declaraciones en una entrevista exclusiva con EL PAÍS, abordando temas como la relación entre Europa y Estados Unidos, así como el estado actual de las Bolsas. Dimon ha destacado la importancia de la alianza entre ambos continentes desde la Segunda Guerra Mundial. Además, ha expresado su preocupación sobre el entorno económico actual, caracterizado por múltiples riesgos.",
+      "topic": "ops",
+      "topic_label": "Operaciones & negocio",
+      "que_paso": "La consellera de Derechos Sociales e Inclusión, Mònica Martinez Bravo, ha dimitido por motivos personales después de casi dos años en el cargo. El presidente Salvador Illa ha confirmado que Raúl Moreno, hasta ahora secretario general del Departament, será su reemplazo. Esto supone el primer relevo en el Govern de Salvador Illa desde su inicio.",
       "datos": [
-        "Jamie Dimon es el presidente y consejero delegado de JPMorgan",
-        "La relación entre Europa y Estados Unidos se remonta a la Segunda Guerra Mundial",
-        "Dimon considera que las Bolsas están muy caras en el entorno actual",
-        "Se refirió a crisis pasadas como la de 1974 y el 'crash' de 1987",
-        "La entrevista se realizó de manera exclusiva con EL PAÍS"
+        "Mònica Martinez Bravo ha sido relevada por Raúl Moreno",
+        "Raúl Moreno es un socialista con tres décadas de militancia",
+        "Moreno fue concejal en Santa Coloma de Gramenet durante 12 años",
+        "Moreno ha sido diputado en el Parlament desde 2015",
+        "La conselleria de Derechos Sociales e Inclusión tiene como retos la mejora de la atención a la dependencia y el despliegue de la ley del ELA"
       ],
-      "conclusion": "Las declaraciones de Jamie Dimon destacan la importancia de la relación entre Europa y Estados Unidos, y sirven como un recordatorio de la necesidad de estar preparados para posibles crisis económicas. La advertencia sobre el estado de las Bolsas subraya la prudencia necesaria en el entorno económico actual."
+      "conclusion": "El cambio en la conselleria de Derechos Sociales e Inclusión puede suponer un enfoque diferente en la gestión de los retos pendientes, como la atención a la dependencia y la integración del ingreso mínimo vital. La experiencia de Raúl Moreno en el tercer sector y su trayectoria a favor de la justicia social pueden influir en las decisiones futuras de la conselleria."
     },
     {
-      "title": "Roger Summit, Who Invented an Early Online Search Service, Dies at 95",
-      "url": "https://www.nytimes.com/2026/07/17/technology/roger-summit-dead.html",
-      "image": "",
-      "source": "NYT Tech",
+      "title": "EEUU completa una oleada de bombardeos contra Irán por novena noche consecutiva",
+      "url": "https://www.europapress.es/internacional/noticia-eeuu-emprende-novena-noche-bombardeos-contra-iran-20260720034250.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260720034250_1200.jpg",
+      "source": "Europa Press Tecnología",
+      "language": "es",
+      "topic": "ops",
+      "topic_label": "Operaciones & negocio",
+      "que_paso": "El Ejército de Estados Unidos ha intensificado sus operaciones militares en la región, con el objetivo de disuadir a Irán de llevar a cabo ataques contra buques en el estrecho de Ormuz. La situación se ha vuelto cada vez más tensa en las últimas noches, con una serie de ataques consecutivos. El contexto de estas operaciones se enmarca en la compleja relación entre Estados Unidos e Irán.",
+      "datos": [
+        "9 noches consecutivas de operaciones militares",
+        "Objetivo de socavar las posibilidades de Teherán para atacar buques",
+        "El estrecho de Ormuz es el lugar clave de los ataques",
+        "Estados Unidos es el país que lleva a cabo los ataques",
+        "La justificación es prevenir ataques a buques",
+        "Irán es el país objetivo de las operaciones militares"
+      ],
+      "conclusion": "La situación en la región se vuelve cada vez más crítica, lo que puede tener implicaciones significativas en la estabilidad global y el comercio internacional. La continuación de estas operaciones militares puede llevar a un aumento de las tensiones entre Estados Unidos e Irán."
+    },
+    {
+      "title": "In Maine Senate Race, Jackson Sprints Ahead of Pack, as Bellows Drops Out",
+      "url": "https://www.nytimes.com/2026/07/19/us/politics/maine-senate-bellows-jackson-platner-democrats.html",
+      "image": "https://static01.nyt.com/images/2026/07/19/multimedia/19pol-maine-senate-jackson-vfwj/19pol-maine-senate-jackson-vfwj-mediumSquareAt3X.jpg",
+      "source": "New York Times",
       "language": "en",
-      "topic": "science",
-      "topic_label": "Ciencia",
-      "que_paso": "Roger Summit, a research scientist at Lockheed, developed a groundbreaking concept for a computer system that could rapidly search through scientific and technical literature. This innovation occurred during his tenure at Lockheed, where he worked as a research scientist. The context of his work was likely driven by the need for efficient information retrieval in the scientific community.",
+      "topic": "metal",
+      "topic_label": "Metal & Rock",
+      "que_paso": "The Maine Senate race has seen significant developments with several candidates dropping out. Troy Jackson, a progressive candidate, has emerged as a strong contender to replace Graham Platner. The race initially had multiple candidates vying for the position, but recent withdrawals have altered the landscape.",
       "datos": [
-        "Roger Summit was 95 years old at the time of his death",
-        "He worked as a research scientist at Lockheed",
-        "The computer system he invented could search literature almost instantaneously",
-        "Summit's work was focused on scientific and technical literature",
-        "He was a pioneer in the development of early online search services"
+        "Troy Jackson is a progressive candidate",
+        "Graham Platner is the incumbent being replaced",
+        "Shenna Bellows, Jordan Wood, and Nirav Shah have ended their bids",
+        "The race is for a position in the Maine Senate"
       ],
-      "conclusion": "Roger Summit's invention of an early online search service has significant implications for the development of modern search engines and information retrieval systems, highlighting the importance of innovation in the field of computer science. His work paved the way for future advancements in search technology, leaving a lasting legacy in the scientific community."
+      "conclusion": "The withdrawal of several candidates, including Shenna Bellows, simplifies the race and potentially strengthens Jackson's position, making him a more likely candidate to win the Maine Senate seat. This development has significant implications for the political landscape in Maine."
     },
     {
-      "title": "La película de superhéroes más taquillera de la historia vuelve a los cines para repetir el éxito con una versión más larga",
-      "url": "https://www.xataka.com/cine-y-tv/pelicula-superheroes-querida-todos-tiempos-vuelve-a-cines-para-repetir-exito-version-larga",
-      "image": "https://i.blogs.es/c7aa13/captura-de-pantalla-2026-07-17-a-las-13.08.57/840_560.jpeg",
+      "title": "Hace 2.000 años alguien metió la pata en una fundición. Gracias a ella hemos descubierto un taller romano escondido en Alemania",
+      "url": "https://www.xataka.com/magnet/hace-2-000-anos-alguien-metio-pata-fundicion-ahora-sabemos-como-imperio-romano-producia-plomo",
+      "image": "https://i.blogs.es/6a2105/plumbum/840_560.jpeg",
       "source": "Xataka",
       "language": "es",
-      "topic": "geek",
-      "topic_label": "Cultura geek",
-      "que_paso": "Marvel está reestrenando 'Vengadores: Endgame' con metraje inédito para intentar recuperar el título de película más taquillera de la historia, aunque el objetivo principal es reconstruir la sensación de evento que la franquicia perdió. La nueva versión, titulada 'Vengadores Endgame Encore', incluye una introducción especial y escenas adicionales. El estudio busca evocar el espíritu de la película original de cara al estreno de 'Vengadores: Doomsday' en diciembre.",
+      "topic": "metal",
+      "topic_label": "Metal & Rock",
+      "que_paso": "Un hallazgo fortuito de un lingote de plomo en una excavación en Rothaargebirge, en la región alemana de Sauerland, ha ayudado a descubrir un taller romano escondido en Alemania. El lingote, de factura característica de época imperial romana, fue encontrado por el vecino de Brilon y buscador de metales Peter Hoffman. El equipo de arqueología de la Asociación Regional de Westfalia-Lippe (LWL) inició una campaña de excavación en el lugar y encontró una zona de procesamiento de plomo de época romana.",
       "datos": [
-        "El 25 de septiembre de 2026 es la fecha de estreno de 'Vengadores Endgame Encore'",
-        "2.799 millones de dólares es la recaudación actual de 'Vengadores: Endgame'",
-        "2.923 millones de dólares es la recaudación actual de 'Avatar'",
-        "124 millones de dólares es la diferencia entre la recaudación de 'Avatar' y 'Vengadores: Endgame'",
-        "18 de diciembre de 2026 es la fecha de estreno de 'Vengadores: Doomsday'",
-        "402 millones de dólares fue la recaudación de 'Eternals'"
+        "El lingote de plomo encontrado tiene una antigüedad de 2.000 años",
+        "Se han documentado unos 2.250 lingotes romanos desde Escocia hasta Marruecos y desde Portugal hasta Israel",
+        "El plomo era un metal muy utilizado en la época romana para tuberías, pesos, proyectiles de honda o revestimientos de sarcófagos",
+        "El yacimiento de Brilon contiene cantidades relativamente pequeñas de plomo, lo que sugiere que el objetivo era producir plomo de forma eficiente",
+        "El equipo de arqueología encontró fragmentos cerámicos de tradición prerromana y numerosos fragmentos pequeños de plomo relacionados con el proceso de obtención del metal"
       ],
-      "conclusion": ""
+      "conclusion": "El descubrimiento del taller romano escondido en Alemania es importante porque proporciona una prueba arqueológica sólida de la existencia de una cadena de producción metalúrgica en Sauerland, lo que ayuda a explicar mejor cómo funcionaba la economía romana. Esto permite trazar la cadena de distribución de los lingotes y entender mejor la relación entre la producción de plomo y plata en la época romana."
     },
     {
-      "title": "Data Centers Are Making Electricity Brutally Expensive for the Public",
-      "url": "https://futurism.com/artificial-intelligence/data-centers-electricity-ai-public-utility-rates",
-      "image": "https://futurism.com/wp-content/uploads/2026/07/data-centers-electricity-ai-public-utility-rates.jpg?quality=85&w=1200",
-      "source": "Futurism",
+      "title": "Politicians Are Trying to Change What Chatbots Say About Them",
+      "url": "https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html",
+      "image": "https://static01.nyt.com/images/2026/07/19/multimedia/19pol-chatbots-fqcp/19pol-chatbots-fqcp-mediumSquareAt3X.jpg",
+      "source": "NYT Tech",
       "language": "en",
-      "topic": "tech",
-      "topic_label": "Tecnología",
-      "que_paso": "The rapid growth of data centers in the US is having a significant impact on local communities, resulting in environmental burdens and increased electricity costs for renters and homeowners. The country's old electrical infrastructure is struggling to keep up with the demand, making it difficult for regulators to determine who is responsible for the rising energy demand. This has led to a situation where data centers are able to manipulate the system to their advantage, while regular consumers are left to bear the costs.",
+      "topic": "metal",
+      "topic_label": "Metal & Rock",
+      "que_paso": "Politicians are now concerned about the information chatbots provide to voters about them. This issue has arisen as chatbots have become more prevalent in providing information to the public. The concern is that this information may be incomplete or unflattering, potentially impacting political campaigns.",
       "datos": [
-        "Data center demand is expected to drive over $23 billion in customer price increases by 2028",
-        "The US has the largest transmission company, PJM, which is monitored by Monitoring Analytics",
-        "Utility companies charge based on a system of 'peak demand', which measures a customer's energy usage at the exact moment the collective grid hits peak demand",
-        "Riot Platforms, a Bitcoin mining operation in Texas, negotiated a lower flat electricity rate by cutting its power use on hot summer days and ramping it back up at night",
-        "The practice of load-shifting, where companies change when they use electricity but not how much, has been used by for-profit corporations for decades"
+        "Political campaigns are affected by chatbot information",
+        "Chatbots provide information to voters when asked about candidates",
+        "The information provided by chatbots may be incomplete",
+        "The information provided by chatbots may be unflattering",
+        "Voters are using chatbots to ask questions about candidates"
       ],
-      "conclusion": "The manipulation of the US energy market by data centers and other corporations has significant implications for the average consumer, who is left to bear the costs of increased electricity demand. This highlights the need for a more equitable and transparent system for determining energy costs and promoting responsible energy use."
+      "conclusion": "The rise of chatbots as a source of information for voters has significant implications for political campaigns, as inaccurate or incomplete information can impact public perception. This highlights the need for campaigns to monitor and address the information provided by chatbots about their candidates."
+    },
+    {
+      "title": "María Palau, psicóloga: “Aceptar que un hijo se hace mayor significa aprender a ocupar un lugar diferente en su vida”",
+      "url": "https://www.eldiario.es/nidos/maria-palau-psicologa-aceptar-hijo-mayor-significa-aprender-ocupar-lugar-diferente-vida-xp_1_13388326.html",
+      "image": "https://static.eldiario.es/clip/937541c0-bcc8-45c4-95bf-6497f26dafa8_facebook-watermarked-aspect-ratio-1200-675_default_0_x1369y460.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "topic": "ops",
+      "topic_label": "Operaciones & negocio",
+      "que_paso": "La psicóloga María Palau explica que la transición de los hijos hacia la edad adulta puede ser un proceso difícil para los padres, ya que implica un cambio en la relación y en el papel que desempeñan en la vida de sus hijos. Esto puede generar sentimientos de nostalgia, miedo y pérdida en los padres. La experta destaca la importancia de que los padres adapten su enfoque y aprendan a cuidar a sus hijos desde la confianza y la disponibilidad en lugar del control y la sobreprotección.",
+      "datos": [
+        "María Palau es doctora en Psicología",
+        "La transición de los hijos hacia la edad adulta implica un cambio en la relación y en el papel de los padres",
+        "Los padres deben aprender a cuidar a sus hijos desde la confianza, la disponibilidad, la presencia y el acompañamiento",
+        "La autonomía de los hijos puede generar miedo a perder el vínculo en los padres",
+        "La identidad de los padres puede estar muy centrada en cuidar, organizar y resolver",
+        "Los hijos deben aprender a gestionar sus dificultades, tomar decisiones y equivocarse para construir su personalidad y autonomía"
+      ],
+      "conclusion": "La aceptación de que los hijos se hacen mayores y la adaptación a este cambio es fundamental para que los padres puedan mantener una relación saludable y efectiva con ellos. Esto requiere que los padres aprendan a ocupar un lugar diferente en la vida de sus hijos y a confiar en su capacidad para tomar decisiones y enfrentar desafíos."
+    },
+    {
+      "title": "Entrada a las 15, salida antes de las 12: por qué cada vez se accede más tarde y se sale más pronto de los hoteles",
+      "url": "https://elpais.com/economia/2026-07-19/entrada-a-las-15-salida-antes-de-las-12-por-que-cada-vez-se-accede-mas-tarde-y-se-sale-mas-pronto-de-los-hoteles.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/P5QIZVG6HZA3VHK2RVB6I3SQOI.jpg?auth=212b12237ebdd41f9f3a180e817e1e223e35534acdd698b9ce2c85812b3d3a8e",
+      "source": "El País",
+      "language": "es",
+      "topic": "metal",
+      "topic_label": "Metal & Rock",
+      "que_paso": "Las cadenas hoteleras están modificando sus políticas de entrada y salida para acomodar a los clientes de sus programas de fidelidad. Esto implica que los huéspedes que forman parte de estos programas pueden disfrutar de horarios más flexibles. La industria hotelera busca maximizar su rentabilidad a través de esta estrategia.",
+      "datos": [
+        "15:00 es la hora de entrada promedio en muchos hoteles",
+        "12:00 es la hora límite para la salida en algunos establecimientos",
+        "Los programas de fidelidad ofrecen beneficios exclusivos a sus miembros",
+        "El cobro por la ampliación de horarios se ha convertido en una nueva línea de negocio",
+        "Los hoteles buscan maximizar su rentabilidad a través de estrategias de fidelización"
+      ],
+      "conclusion": "La modificación de los horarios de entrada y salida en los hoteles refleja una tendencia hacia la personalización y la maximización de la rentabilidad en la industria hotelera. Esto puede tener implicaciones significativas para la forma en que los huéspedes eligen y experimentan su estancia en los hoteles."
     }
   ]
 }
