@@ -5,11 +5,12 @@ news_aggregator.py — La Guía Ferlín daily news.
 Pipeline:
   1. Read RSS feeds (clean source names, correct encoding).
   2. Deduplicate by title.
-  3. Score every article against taste_profile and keep only the relevant
-     top ones (fewer, better, cheaper on the AI).
+  3. Drop pure noise (sports/gossip) and cap volume — full coverage of the
+     SOURCES list otherwise, no personal-interest topic filtering.
   4. Fetch full article text (BeautifulSoup, not regex) + og:image.
-  5. Summarise with Groq in JSON mode: three non-overlapping sections
-     (Qué pasó / Datos / Conclusión) with real figures and a takeaway.
+  5. Summarise with Groq (Gemini as fallback) in JSON mode: three
+     non-overlapping sections (Qué pasó / Datos / Conclusión) with real
+     figures and a takeaway.
   6. Export data/news.json for the hub.
   7. Send the daily email.
 """
@@ -604,7 +605,7 @@ def main():
         print("No articles. Aborting.")
         return
 
-    print("\n[2] Filtering noise (sports/gossip/partisan)...")
+    print("\n[2] Filtering noise (sports/gossip)...")
     articles = tp.filter_news(articles)
     print(f"Kept {len(articles)} articles")
 

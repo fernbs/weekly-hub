@@ -2,126 +2,22 @@
 """
 taste_profile.py — Central taste profile for La Guía Ferlín.
 
-Single source of truth for what Fernando cares about. Used to score and
-filter news articles by relevance, and (later) to guide plans and concerts.
+Single source of truth for what Fernando cares about — used to guide plans
+and concerts. News is deliberately NOT personal-interest filtered: it's
+full coverage of the SOURCES list in news_aggregator.py, minus pure noise
+(NEGATIVE keywords below).
 
 Named taste_profile (not profile) to avoid clashing with Python's stdlib
 `profile` module.
-
-Scoring model:
-  - Each TOPIC has a weight and a keyword list.
-  - An article's text (title counted twice + description) is matched against
-    every topic. Each topic that matches adds its weight ONCE (keyword
-    stuffing does not inflate the score).
-  - NEGATIVE keywords subtract, so pure sports/gossip/politics noise sinks.
-  - The primary topic is the highest-weight topic that matched.
 """
 
 import re
 import unicodedata
 
-# ── Topics of genuine interest ──────────────────────────────────────────────
-# weight: how much a match matters (5 = core interest, 2 = mild).
-TOPICS = {
-    "ai": {
-        "weight": 5,
-        "label": "IA & Agentes",
-        "keywords": [
-            "artificial intelligence", "inteligencia artificial", " ai ", "ia ",
-            "llm", "gpt", "chatgpt", "claude", "gemini", "anthropic", "openai",
-            "machine learning", "aprendizaje automatico", "deep learning",
-            "red neuronal", "neural network", "ai agent", "agente de ia",
-            "agentic", "agentica", "agentes de ia",
-            "copilot", "modelo de lenguaje", "language model", "generative",
-            "generativa", "generativo", "mistral", "llama", "hugging face",
-            "prompt", "fine-tuning", "rag", "transformer",
-        ],
-    },
-    "tech": {
-        "weight": 4,
-        "label": "Tecnología",
-        "keywords": [
-            "software", "hardware", "chip", "semiconductor", "nvidia", "cpu",
-            "gpu", "quantum", "cuantic", "robot", "robotic", "robotica",
-            "startup", "app ", "aplicacion", "gadget", "smartphone", "iphone",
-            "android", "ciberseguridad", "cybersecurity", "hack", "malware",
-            "programacion", "programming", "developer", "coding", "open source",
-            "codigo abierto", "api", "cloud", "data center", "centro de datos",
-            "drone", "dron", "wearable", "vr ", "ar ", "realidad virtual",
-        ],
-    },
-    "science": {
-        "weight": 4,
-        "label": "Ciencia",
-        "keywords": [
-            "science", "ciencia", "cientific", "scientif", "physics", "fisica",
-            "space", "espacio", "nasa", "esa ", "spacex", "astronom", "cosmos",
-            "universo", "galaxy", "galaxia", "planet", "planeta", "biolog",
-            "genetic", "genetica", "adn", "dna", "study finds", "estudio revela",
-            "investigacion", "research", "researchers", "discovery",
-            "descubrimiento", "descubren", "fossil", "fosil", "dinosaur",
-            "dinosaurio", "climate", "clima", "quimica", "chemistry", "neuro",
-            "medicin", "salud", "vacuna", "vaccine",
-        ],
-    },
-    "geek": {
-        "weight": 4,
-        "label": "Cultura geek",
-        "keywords": [
-            "marvel", "dc comics", "comic", "comics", "videojuego", "videogame",
-            "video game", "gaming", "playstation", "ps5", "xbox", "nintendo",
-            "switch", "steam", "juego de mesa", "board game", "rol ", "rpg",
-            "star wars", "star trek", "sci-fi", "ciencia ficcion", "anime",
-            "manga", "lego", "retro", "80s", "90s", "arcade", "pixel",
-            "fantasia", "fantasy", "dungeons", "warhammer",
-        ],
-    },
-    "ops": {
-        "weight": 3,
-        "label": "Operaciones & negocio",
-        "keywords": [
-            "operations", "operaciones", "supply chain", "cadena de suministro",
-            "logistic", "logistica", "productivity", "productividad",
-            "management", "gestion", "consulting", "consultoria", "mckinsey",
-            "bcg", "strategy", "estrategia", "workflow", "automatizacion",
-            "process", "proceso", "transformation", "transformacion", "layoff",
-            "despido", "hiring", "future of work", "futuro del trabajo",
-        ],
-    },
-    "metal": {
-        "weight": 3,
-        "label": "Metal & Rock",
-        "keywords": [
-            "metal", "heavy", "thrash", "death metal", "black metal", "doom",
-            "hardcore", "punk", "metalcore", "prog ", "rock band", "guitarist",
-            "guitarra", "drummer", "new album", "nuevo disco", "nuevo album",
-            "tour dates", "gira", "reunion tour", "riff", "headliner",
-            "download festival", "hellfest", "resurrection fest",
-        ],
-    },
-    "mystery": {
-        "weight": 2,
-        "label": "Misterio & curiosidades",
-        "keywords": [
-            "mystery", "misterio", "misterioso", "occult", "oculto", "unexplained",
-            "inexplicable", "extrano", "extrana", "weird", "bizarre", "rare",
-            "curios", "secret", "secreto", "enigma", "paranormal", "conspiracy",
-            "leyenda", "legend", "ancient", "antiguo", "arqueolog",
-        ],
-    },
-    "spain": {
-        "weight": 2,
-        "label": "España & Madrid",
-        "keywords": [
-            "madrid", "espana", "espanol", "spain", "spanish", "cataluna",
-            "andalucia", "moncloa", "sanchez", "spaniard",
-        ],
-    },
-}
-
-# ── Noise: things that should sink to the bottom or be dropped ───────────────
-# These subtract from the score. Tuned so a strong on-topic article survives
-# an incidental match, but pure sport/gossip/partisan noise is filtered out.
+# ── News noise: the only thing that excludes a news article ─────────────────
+# Sports scores and celebrity gossip are the two categories Fernando confirmed
+# he wants kept out. No personal-interest topics here — see the module
+# docstring above.
 NEGATIVE = {
     "sports": {
         "penalty": 6,
@@ -144,27 +40,17 @@ NEGATIVE = {
             "boda de", "divorcio de", "romance", "novia de", "novio de",
         ],
     },
-    "partisan": {
-        "penalty": 3,
-        "keywords": [
-            "trump", "biden", "vox", "psoe ", "partido popular", "feijoo",
-            "abascal", "campana electoral", "mitin", "encuesta electoral",
-            "elecciones", "election poll",
-        ],
-    },
 }
 
 # How many news articles to keep at most (see filter_news below).
 MAX_ARTICLES = 130
-# Unused by news since filter_news() replaced rank_and_filter — kept in
-# case score_article/TOPICS get reused elsewhere later.
-MIN_SCORE = 0
 
 # ── Plans profile ────────────────────────────────────────────────────────────
-# Same idea as TOPICS but tuned for Madrid leisure listings (Spanish event text,
-# culture-heavy). Used to score/rank the weekly plans so they match Fernando's
-# interests instead of leaking generic theatre. Keywords are matched
-# accent-insensitively; short ones need a full word boundary (see _compile).
+# Weighted interest topics tuned for Madrid leisure listings (Spanish event
+# text, culture-heavy). Used to score/rank the weekly plans so they match
+# Fernando's interests instead of leaking generic theatre. Keywords are
+# matched accent-insensitively; short ones need a full word boundary (see
+# _compile). This is separate from news, which has no topic scoring at all.
 PLAN_TOPICS = {
     "geek": {
         "weight": 5,
@@ -227,6 +113,15 @@ PLAN_TOPICS = {
             "cortometraje", "filmoteca", "estreno",
         ],
     },
+    "fiestas_locales": {
+        "weight": 3,
+        "label": "Fiestas y tradiciones",
+        "keywords": [
+            "fiesta de pueblo", "fiestas de pueblo", "fiesta patronal",
+            "fiestas patronales", "verbena", "tardeo", "fiesta diurna",
+            "fiestas populares", "romeria", "pregon", "feria popular",
+        ],
+    },
     "gastronomy": {
         "weight": 2,
         "label": "Gastronomía",
@@ -285,58 +180,18 @@ def _compile(keywords) -> "re.Pattern":
 
 
 # Pre-compile every pattern once at import time.
-for _cfg in TOPICS.values():
-    _cfg["_re"] = _compile(_cfg["keywords"])
 for _cfg in NEGATIVE.values():
     _cfg["_re"] = _compile(_cfg["keywords"])
 for _cfg in PLAN_TOPICS.values():
     _cfg["_re"] = _compile(_cfg["keywords"])
 
 
-def score_article(title: str, description: str = "") -> dict:
-    """
-    Return {score, topic, label, matched} for an article.
-    topic/label are the primary (highest-weight) interest that matched.
-
-    Scoring is title-dominant: the title (the real topical signal) plus a
-    short lead of the description. Full-text RSS bodies are NOT scored, or a
-    long political article would incidentally match half the topics.
-
-    Kept for reference/reuse elsewhere, but news no longer calls this — see
-    is_news_noise/filter_news below. Fernando doesn't want news categorised
-    by personal-interest topic; that's what caused AI/tech to crowd out
-    everything else even after the topic gate was loosened.
-    """
-    lead = (description or "")[:200]
-    haystack = " " + _norm(title) + " " + _norm(title) + " " + _norm(lead) + " "
-
-    score = 0
-    best_topic = None
-    best_weight = -1
-    matched = []
-
-    for topic, cfg in TOPICS.items():
-        if cfg["_re"].search(haystack):
-            score += cfg["weight"]
-            matched.append(topic)
-            if cfg["weight"] > best_weight:
-                best_weight = cfg["weight"]
-                best_topic = topic
-
-    for _, cfg in NEGATIVE.items():
-        if cfg["_re"].search(haystack):
-            score -= cfg["penalty"]
-
-    label = TOPICS[best_topic]["label"] if best_topic else ""
-    return {"score": score, "topic": best_topic or "", "label": label, "matched": matched}
-
-
 def is_news_noise(title: str, description: str = "") -> bool:
     """
-    True if the title/description trips a NEGATIVE keyword (sports, gossip,
-    partisan politics) — the only thing that excludes a news article. News
-    is full coverage of the SOURCES list in news_aggregator.py, not a
-    personal-interest filter: no TOPICS scoring, no topic labelling.
+    True if the title/description trips a NEGATIVE keyword (sports or
+    gossip) — the only thing that excludes a news article. News is full
+    coverage of the SOURCES list in news_aggregator.py, not a
+    personal-interest filter: no topic scoring, no topic labelling.
     """
     lead = (description or "")[:200]
     haystack = " " + _norm(title) + " " + _norm(title) + " " + _norm(lead) + " "
@@ -345,8 +200,8 @@ def is_news_noise(title: str, description: str = "") -> bool:
 
 def filter_news(articles: list) -> list:
     """
-    Drop pure noise (sports/gossip/partisan) and cap volume at MAX_ARTICLES.
-    Keeps the original chronological order (most recent first, from
+    Drop pure noise (sports/gossip) and cap volume at MAX_ARTICLES. Keeps
+    the original chronological order (most recent first, from
     fetch_articles) — no relevance ranking, no topic classification.
     """
     kept = [a for a in articles if not is_news_noise(a.get("title", ""), a.get("description", ""))]
@@ -356,9 +211,9 @@ def filter_news(articles: list) -> list:
 # ── Plans scoring ────────────────────────────────────────────────────────────
 def score_event(title: str, description: str = "", category: str = "") -> dict:
     """
-    Relevance of a Madrid plan against PLAN_TOPICS. Same title-dominant model as
-    score_article: the title counts twice, plus the category and a short lead of
-    the description. Each interest topic that matches adds its weight once.
+    Relevance of a Madrid plan against PLAN_TOPICS. Title-dominant model:
+    the title counts twice, plus the category and a short lead of the
+    description. Each interest topic that matches adds its weight once.
     Returns {score, topic, label}.
     """
     lead = (description or "")[:300]
@@ -383,7 +238,7 @@ def rank_plans(events: list) -> list:
     """
     Attach relevance to each plan, drop those below PLAN_MIN_SCORE, and sort
     best-first. Each event must have 'titulo'/'descripcion'/'categoria'. Adds
-    '_relevance', '_topic', '_topic_label'. Mirrors rank_and_filter for news.
+    '_relevance', '_topic', '_topic_label'.
     """
     kept = []
     for e in events:
