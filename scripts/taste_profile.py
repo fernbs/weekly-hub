@@ -330,9 +330,15 @@ def score_article(title: str, description: str = "") -> dict:
 
 def rank_and_filter(articles: list) -> list:
     """
-    Attach relevance to each article, drop the noise, sort best-first,
-    and cap at MAX_ARTICLES. Each article dict must have 'title' and may
-    have 'description'. Adds 'score', 'topic', 'topic_label'.
+    Attach relevance metadata (score/topic/label — used for the hub's filter
+    chips) to every article, and drop pure noise (score < MIN_SCORE, i.e.
+    NEGATIVE keywords outweighing any topic match). Does NOT re-sort by
+    score: articles keep the chronological order they arrived in (most
+    recent first, from fetch_articles). Sorting by relevance would let
+    AI/tech articles (which score highest) fill the whole MAX_ARTICLES cap
+    before any general-news article got a slot, crowding out everything
+    else even with MIN_SCORE at 0. Each article dict must have 'title' and
+    may have 'description'.
     """
     scored = []
     for a in articles:
@@ -343,7 +349,6 @@ def rank_and_filter(articles: list) -> list:
         if r["score"] >= MIN_SCORE:
             scored.append(a)
 
-    scored.sort(key=lambda x: x["score"], reverse=True)
     return scored[:MAX_ARTICLES]
 
 
