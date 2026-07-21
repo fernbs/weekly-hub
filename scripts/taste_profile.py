@@ -154,12 +154,10 @@ NEGATIVE = {
     },
 }
 
-# How many articles to keep at most.
+# How many news articles to keep at most (see filter_news below).
 MAX_ARTICLES = 130
-# Minimum score to make the cut. 0 = no topic match required (any neutral,
-# non-negative article passes); only articles that trip NEGATIVE keywords
-# hard enough to go below zero (pure sports/gossip/partisan noise) are
-# dropped. Interest topics no longer gate news volume, only rank it.
+# Unused by news since filter_news() replaced rank_and_filter — kept in
+# case score_article/TOPICS get reused elsewhere later.
 MIN_SCORE = 0
 
 # ── Plans profile ────────────────────────────────────────────────────────────
@@ -303,6 +301,11 @@ def score_article(title: str, description: str = "") -> dict:
     Scoring is title-dominant: the title (the real topical signal) plus a
     short lead of the description. Full-text RSS bodies are NOT scored, or a
     long political article would incidentally match half the topics.
+
+    Kept for reference/reuse elsewhere, but news no longer calls this — see
+    is_news_noise/filter_news below. Fernando doesn't want news categorised
+    by personal-interest topic; that's what caused AI/tech to crowd out
+    everything else even after the topic gate was loosened.
     """
     lead = (description or "")[:200]
     haystack = " " + _norm(title) + " " + _norm(title) + " " + _norm(lead) + " "
@@ -328,28 +331,26 @@ def score_article(title: str, description: str = "") -> dict:
     return {"score": score, "topic": best_topic or "", "label": label, "matched": matched}
 
 
-def rank_and_filter(articles: list) -> list:
+def is_news_noise(title: str, description: str = "") -> bool:
     """
-    Attach relevance metadata (score/topic/label — used for the hub's filter
-    chips) to every article, and drop pure noise (score < MIN_SCORE, i.e.
-    NEGATIVE keywords outweighing any topic match). Does NOT re-sort by
-    score: articles keep the chronological order they arrived in (most
-    recent first, from fetch_articles). Sorting by relevance would let
-    AI/tech articles (which score highest) fill the whole MAX_ARTICLES cap
-    before any general-news article got a slot, crowding out everything
-    else even with MIN_SCORE at 0. Each article dict must have 'title' and
-    may have 'description'.
+    True if the title/description trips a NEGATIVE keyword (sports, gossip,
+    partisan politics) — the only thing that excludes a news article. News
+    is full coverage of the SOURCES list in news_aggregator.py, not a
+    personal-interest filter: no TOPICS scoring, no topic labelling.
     """
-    scored = []
-    for a in articles:
-        r = score_article(a.get("title", ""), a.get("description", ""))
-        a["score"] = r["score"]
-        a["topic"] = r["topic"]
-        a["topic_label"] = r["label"]
-        if r["score"] >= MIN_SCORE:
-            scored.append(a)
+    lead = (description or "")[:200]
+    haystack = " " + _norm(title) + " " + _norm(title) + " " + _norm(lead) + " "
+    return any(cfg["_re"].search(haystack) for cfg in NEGATIVE.values())
 
-    return scored[:MAX_ARTICLES]
+
+def filter_news(articles: list) -> list:
+    """
+    Drop pure noise (sports/gossip/partisan) and cap volume at MAX_ARTICLES.
+    Keeps the original chronological order (most recent first, from
+    fetch_articles) — no relevance ranking, no topic classification.
+    """
+    kept = [a for a in articles if not is_news_noise(a.get("title", ""), a.get("description", ""))]
+    return kept[:MAX_ARTICLES]
 
 
 # ── Plans scoring ────────────────────────────────────────────────────────────

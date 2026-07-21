@@ -282,13 +282,50 @@ def _post_groq(payload, api_key):
     return None
 
 
+# ============================================================
+# GEMINI FALLBACK — used only when Groq fails (mainly: daily budget spent)
+# ============================================================
+GEMINI_MODEL = "gemini-2.0-flash"
+
+
+def _call_gemini(prompt):
+    """Ask Gemini for the same JSON summary Groq would have produced.
+    Returns the raw JSON text, or None if no key is set or the call fails.
+    Gemini's free tier has a much higher daily quota than Groq's, so this
+    only needs to cover the days Groq's budget runs out."""
+    api_key = os.getenv("GEMINI_API_KEY", "").strip()
+    if not api_key:
+        return None
+    url = (f"https://generativelanguage.googleapis.com/v1beta/models/"
+           f"{GEMINI_MODEL}:generateContent?key={api_key}")
+    payload = {
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {
+            "temperature": 0.25,
+            "maxOutputTokens": 900,
+            "responseMimeType": "application/json",
+        },
+    }
+    try:
+        resp = requests.post(url, json=payload, timeout=40)
+        if resp.status_code != 200:
+            print(f"  Gemini error {resp.status_code}: {resp.text[:160]}")
+            return None
+        data = resp.json()
+        return data["candidates"][0]["content"]["parts"][0]["text"].strip()
+    except Exception as e:
+        print(f"  Gemini error: {e}")
+        return None
+
+
 def summarize_with_groq(article):
     api_key = os.getenv("GROQ_API_KEY", "").strip()  # strip stray spaces/newlines
     if not api_key:
         print("  GROQ_API_KEY not set")
-        return None, ""
-    if _groq_budget_exhausted:
-        return None, ""
+    # Note: no early return here even without a Groq key or with the budget
+    # exhausted -- we still want to fetch content and try the Gemini
+    # fallback below. _post_groq() itself is a cheap no-op once the budget
+    # flag is set, so this doesn't waste time hammering Groq.
 
     title = article["title"]
     lang = article.get("language", "es")
@@ -341,10 +378,14 @@ Article content:
     }
 
     try:
-        resp = _post_groq(payload, api_key)
-        if resp is None:
-            return None, image_url
-        raw = resp.json()["choices"][0]["message"]["content"].strip()
+        resp = _post_groq(payload, api_key) if api_key else None
+        if resp is not None:
+            raw = resp.json()["choices"][0]["message"]["content"].strip()
+        else:
+            print("  Groq unavailable, trying Gemini fallback...")
+            raw = _call_gemini(prompt)
+            if raw is None:
+                return None, image_url
         data = json.loads(raw)
         summary = {
             "que_paso": html.unescape(str(data.get("que_paso", "")).strip()),
@@ -357,7 +398,7 @@ Article content:
         print(f"  OK ({len(summary['datos'])} data points)")
         return summary, image_url
     except Exception as e:
-        print(f"  Groq/JSON error: {e}")
+        print(f"  Summary/JSON error: {e}")
         return None, image_url
 
 
@@ -375,8 +416,6 @@ def export_json(summaries):
             "image": item.get("image_url", ""),
             "source": item["source"],
             "language": item.get("language", "es"),
-            "topic": item.get("topic", ""),
-            "topic_label": item.get("topic_label", ""),
             "que_paso": s["que_paso"],
             "datos": s["datos"],
             "conclusion": s["conclusion"],
@@ -458,12 +497,6 @@ def generate_email_html(summaries, stats):
         lang = item.get("language", "es")
         lang_bg = c["red"] if lang == "es" else c["sky"]
         lang_label = "ES" if lang == "es" else "EN"
-        topic = item.get("topic_label", "")
-        topic_badge = (
-            f'<span style="font-size:10px;font-weight:700;color:{c["sky"]};'
-            f'background:rgba(56,189,248,.15);padding:2px 8px;border-radius:4px;'
-            f'letter-spacing:.4px;text-transform:uppercase;">{html.escape(topic)}</span>'
-        ) if topic else ""
         img = ""
         if item.get("image_url"):
             img = (f'<div style="margin-bottom:14px;border-radius:8px;overflow:hidden;">'
@@ -476,7 +509,6 @@ def generate_email_html(summaries, stats):
             f'<div style="margin-bottom:10px;">'
             f'<span style="font-size:10px;font-weight:700;color:{c["bg"]};background:{lang_bg};'
             f'padding:2px 7px;border-radius:4px;margin-right:6px;">{lang_label}</span>'
-            f'{topic_badge}'
             f'<span style="font-size:11px;font-weight:600;color:{c["mute"]};text-transform:uppercase;'
             f'letter-spacing:.8px;margin-left:4px;font-family:Arial,Helvetica,sans-serif;">{html.escape(item["source"])}</span>'
             f'<span style="font-size:11px;color:{c["mute"]};margin-left:6px;font-family:Arial,Helvetica,sans-serif;">#{i}</span>'
@@ -572,22 +604,21 @@ def main():
         print("No articles. Aborting.")
         return
 
-    print("\n[2] Ranking by relevance to profile...")
-    articles = tp.rank_and_filter(articles)
-    print(f"Kept {len(articles)} relevant articles")
+    print("\n[2] Filtering noise (sports/gossip/partisan)...")
+    articles = tp.filter_news(articles)
+    print(f"Kept {len(articles)} articles")
 
     print("\n[3] Summarising with Groq...")
     summaries, failed = [], 0
     for i, art in enumerate(articles, 1):
-        print(f"\n[{i}/{len(articles)}] ({art['score']}) {art['title'][:65]}")
+        print(f"\n[{i}/{len(articles)}] {art['title'][:65]}")
         if i > 1:
             time.sleep(1)
         summary, image_url = summarize_with_groq(art)
         if summary:
             summaries.append({
                 "title": art["title"], "url": art["url"], "source": art["source"],
-                "language": art.get("language", "es"), "topic": art.get("topic", ""),
-                "topic_label": art.get("topic_label", ""),
+                "language": art.get("language", "es"),
                 "summary": summary, "image_url": image_url,
             })
         else:
