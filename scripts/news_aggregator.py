@@ -479,6 +479,7 @@ def generate_email_html(summaries, stats):
             f'{topic_badge}'
             f'<span style="font-size:11px;font-weight:600;color:{c["mute"]};text-transform:uppercase;'
             f'letter-spacing:.8px;margin-left:4px;font-family:Arial,Helvetica,sans-serif;">{html.escape(item["source"])}</span>'
+            f'<span style="font-size:11px;color:{c["mute"]};margin-left:6px;font-family:Arial,Helvetica,sans-serif;">#{i}</span>'
             f'</div>'
             f'<h2 style="margin:0 0 13px;font-size:17px;font-weight:700;line-height:1.4;'
             f'color:{c["txt"]};font-family:Georgia,serif;">{html.escape(item["title"])}</h2>'
