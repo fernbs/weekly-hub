@@ -53,7 +53,7 @@ REJECT_RULES = """RECHAZA (is_real_event: false) si es cualquiera de estos casos
 - Colección permanente de museo (no una exposición temporal). Ejemplo: "La colección Thyssen", "Obras del siglo XIX"
 - Sección administrativa de web: visita libre, visita en grupo, datos de interés, información práctica, precios, horarios, cómo llegar
 - Pregunta SEO sin evento: "¿cuánto cuesta?", "¿dónde está?", "¿cómo comprar entradas?"
-- Eventos de baile, música, concierto, recital, verbena, flashmob, festival de música, ópera, zarzuela, musical
+- Eventos de baile, música, concierto, recital, discoteca, fiesta electrónica, flashmob, festival de música, ópera, zarzuela, musical (pero NO rechaces verbenas/fiestas de pueblo, tardeos ni fiestas diurnas, esas sí interesan)
 - Corrida de toros, tauromaquia, apuestas, hipódromo, carreras
 - Deporte, running, yoga, meditación, spa
 - Religioso: iglesias, catedrales, misas, retiros espirituales

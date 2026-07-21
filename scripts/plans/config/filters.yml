@@ -48,7 +48,8 @@ exclude_keywords:
     - vino
     - cerveza
     - cata
-    # Dance & music
+    # Dance & music — clubbing/electronic specifically. NOT tardeos, fiestas
+    # diurnas or fiestas de pueblo, which Fernando likes and should stay in.
     - baile
     - dance
     - salsa
@@ -59,6 +60,12 @@ exclude_keywords:
     - concierto
     - música en vivo
     - dj set
+    - discoteca
+    - fiesta electrónica
+    - macrofiesta
+    - sala de fiestas
+    - club nocturno
+    - rave
     - banda sonora
     - ópera
     # Musicals / zarzuela (generic)
@@ -120,8 +127,6 @@ exclude_keywords:
     - información práctica
     - el proceso
     # Social / political
-    - fiesta
-    - verbena
     - festival de música
     - manifestación
     - 8M
