@@ -40,6 +40,12 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          # When called via workflow_call from news/plans/concerts (needs: <job>),
+          # the inherited ref/sha is the commit that TRIGGERED the caller, i.e.
+          # the state BEFORE that job's own "Commit data" push. Without pinning
+          # to main explicitly, this deploys stale data one run behind.
+          ref: main
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload site artifact
