@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-27T08:31:27.583203",
-  "from_date": "2026-07-27",
-  "to_date": "2026-09-21",
+  "generated": "2026-08-03T08:29:14.041300",
+  "from_date": "2026-08-03",
+  "to_date": "2026-09-28",
   "concerts": [
     {
       "artist": "Ratos de Porão (end of Wolrd-europe Tour 26)",
@@ -18,18 +18,18 @@
       "image_url": "https://metalhammer.es/wp-content/uploads/2026/05/1779174483-Ratos-de-Porao-S-Pain-Tour-2026.webp"
     },
     {
-      "artist": "American Rock Punk Madrid",
-      "lineup": "American Rock Punk Madrid",
-      "date_str": "22/08/2026 · Sábado",
-      "date_iso": "2026-08-22",
-      "venue": "Gruta 77",
+      "artist": "Madrid: Godsmack + Nothing More",
+      "lineup": "Madrid: Godsmack + Nothing More",
+      "date_str": "11/08/2026 · Martes",
+      "date_iso": "2026-08-11",
+      "venue": "Madrid",
       "address": "",
       "price": "Consultar",
-      "buy_link": "https://metaltrip.com/american-rock-punk-madrid/",
-      "genre": "Punk",
+      "buy_link": "https://metalhammer.es/agendado/barcelona-madrid-godsmack-nothing-more/",
+      "genre": "Metalcore",
       "taste_score": 2,
       "notes": "",
-      "image_url": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='65' height='65'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0%25' stop-color='%23374151'/><stop offset='100%25' stop-color='%231f2937'/></linearGradient></defs><rect width='65' height='65' rx='6' fill='url(%23g)'/><rect width='65' height='65' rx='6' fill='none' stroke='%234b5563' stroke-width='1'/><text x='50%25' y='50%25' dominant-baseline='central' text-anchor='middle' font-family='Arial,sans-serif' font-size='20' font-weight='700' fill='%239ca3af'>AR</text></svg>"
+      "image_url": "https://metalhammer.es/wp-content/uploads/2025/12/Godsmack_2026_1080x1350_GEN_VERT_11zon.jpg"
     },
     {
       "artist": "Bodega",
@@ -37,7 +37,7 @@
       "date_str": "07/09/2026 · Lunes",
       "date_iso": "2026-09-07",
       "venue": "Sala El Sol",
-      "address": "Jovellanos, 4, 28004 Madrid, España",
+      "address": "",
       "price": "Consultar",
       "buy_link": "",
       "genre": "Post-punk",
@@ -46,18 +46,18 @@
       "image_url": "https://cdn-images.dzcdn.net/images/artist/d41d8cd98f00b204e9800998ecf8427e/500x500-000000-80-0-0.jpg"
     },
     {
-      "artist": "Nocturnal Bloodlust",
-      "lineup": "Nocturnal Bloodlust",
-      "date_str": "19/09/2026 · Sábado",
-      "date_iso": "2026-09-19",
-      "venue": "sala Silikona",
+      "artist": "Integrity",
+      "lineup": "Integrity",
+      "date_str": "16/09/2026 · Miércoles",
+      "date_iso": "2026-09-16",
+      "venue": "Barracudas Rock Bar",
       "address": "",
       "price": "Consultar",
-      "buy_link": "",
+      "buy_link": "https://metaltrip.com/integrity-tour/",
       "genre": "Metalcore",
       "taste_score": 2,
       "notes": "",
-      "image_url": "https://cdn-images.dzcdn.net/images/artist/5435386052474388ec503b17e1c02e4a/500x500-000000-80-0-0.jpg"
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/52e807c35f66d371432a9d2c1e8f53b1/500x500-000000-80-0-0.jpg"
     },
     {
       "artist": "Warcry",
@@ -68,24 +68,38 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "",
-      "genre": "Heavy Metal",
+      "genre": "Power Metal",
       "taste_score": 1,
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/8cf9db007cea86f8c4fdc87025b53141/500x500-000000-80-0-0.jpg"
     },
     {
-      "artist": "Madrid: Godsmack + Nothing More",
-      "lineup": "Madrid: Godsmack + Nothing More",
-      "date_str": "11/08/2026 · Martes",
-      "date_iso": "2026-08-11",
-      "venue": "Madrid",
+      "artist": "Godsmack",
+      "lineup": "Godsmack",
+      "date_str": "09/08/2026 · Domingo",
+      "date_iso": "2026-08-09",
+      "venue": "La Riviera",
       "address": "",
       "price": "Consultar",
-      "buy_link": "https://metalhammer.es/agendado/barcelona-madrid-godsmack-nothing-more/",
-      "genre": "Hard Rock",
+      "buy_link": "https://metaltrip.com/godsmack-tour/",
+      "genre": "Heavy Metal",
       "taste_score": 1,
       "notes": "",
-      "image_url": "https://metalhammer.es/wp-content/uploads/2025/12/Godsmack_2026_1080x1350_GEN_VERT_11zon.jpg"
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/df4367740012546846d2f2c2d8c52e5e/500x500-000000-80-0-0.jpg"
+    },
+    {
+      "artist": "Lucifer",
+      "lineup": "Lucifer",
+      "date_str": "26/08/2026 · Miércoles",
+      "date_iso": "2026-08-26",
+      "venue": "sala El Sol",
+      "address": "Jardines de la Morería, 1, 28005 Madrid",
+      "price": "Consultar",
+      "buy_link": "",
+      "genre": "Heavy Metal",
+      "taste_score": 1,
+      "notes": "",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/d30e9605332c7cec0d4d4c66d233b5f6/500x500-000000-80-0-0.jpg"
     },
     {
       "artist": "Primal Fear",
@@ -102,20 +116,6 @@
       "image_url": "https://cdn-images.dzcdn.net/images/artist/da0acae1fb0a8eca91bdac1693a74836/500x500-000000-80-0-0.jpg"
     },
     {
-      "artist": "Blizzard Hunter",
-      "lineup": "Blizzard Hunter",
-      "date_str": "04/09/2026 · Viernes",
-      "date_iso": "2026-09-04",
-      "venue": "Pub Entre Darts",
-      "address": "",
-      "price": "Consultar",
-      "buy_link": "https://www.todoheavymetal.com/index.php/noticias-del-mes/blizzard-hunter-en-madrid",
-      "genre": "Power Metal",
-      "taste_score": 1,
-      "notes": "",
-      "image_url": "https://www.todoheavymetal.com/wp-content/uploads/BH.jpg"
-    },
-    {
       "artist": "Tyla’s Dogs D’amour",
       "lineup": "Tyla’s Dogs D’amour",
       "date_str": "10/09/2026 · Jueves",
@@ -128,6 +128,20 @@
       "taste_score": 1,
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/a2307a7c4aa89019352785d395f50f30/500x500-000000-80-0-0.jpg"
+    },
+    {
+      "artist": "Gus G.",
+      "lineup": "Gus G. + Ronnie Romero (convergence Fest)",
+      "date_str": "23/09/2026 · Miércoles",
+      "date_iso": "2026-09-23",
+      "venue": "Sala Revi Live",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "",
+      "genre": "Power Metal",
+      "taste_score": 1,
+      "notes": "",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/1335d39c8ca99c796fc00d43837bc7a5/500x500-000000-80-0-0.jpg"
     },
     {
       "artist": "High on Fire",
@@ -144,18 +158,18 @@
       "image_url": "https://cdn-images.dzcdn.net/images/artist/83af4b80a4f4a836066b3083d762f363/500x500-000000-80-0-0.jpg"
     },
     {
-      "artist": "Godsmack",
-      "lineup": "Godsmack",
-      "date_str": "09/08/2026 · Domingo",
-      "date_iso": "2026-08-09",
-      "venue": "La Riviera",
+      "artist": "American Rock Punk Madrid",
+      "lineup": "American Rock Punk Madrid",
+      "date_str": "22/08/2026 · Sábado",
+      "date_iso": "2026-08-22",
+      "venue": "Gruta 77",
       "address": "",
       "price": "Consultar",
-      "buy_link": "https://metaltrip.com/godsmack-tour/",
-      "genre": "Alternative Metal",
+      "buy_link": "https://metaltrip.com/american-rock-punk-madrid/",
+      "genre": "Indie Rock",
       "taste_score": 0,
       "notes": "",
-      "image_url": "https://cdn-images.dzcdn.net/images/artist/df4367740012546846d2f2c2d8c52e5e/500x500-000000-80-0-0.jpg"
+      "image_url": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='65' height='65'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0%25' stop-color='%23374151'/><stop offset='100%25' stop-color='%231f2937'/></linearGradient></defs><rect width='65' height='65' rx='6' fill='url(%23g)'/><rect width='65' height='65' rx='6' fill='none' stroke='%234b5563' stroke-width='1'/><text x='50%25' y='50%25' dominant-baseline='central' text-anchor='middle' font-family='Arial,sans-serif' font-size='20' font-weight='700' fill='%239ca3af'>AR</text></svg>"
     },
     {
       "artist": "Anette Olzon",
@@ -170,6 +184,20 @@
       "taste_score": 0,
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/fd0259256afca9be2285a88e211d27f0/500x500-000000-80-0-0.jpg"
+    },
+    {
+      "artist": "Blizzard Hunter",
+      "lineup": "Blizzard Hunter",
+      "date_str": "04/09/2026 · Viernes",
+      "date_iso": "2026-09-04",
+      "venue": "Pub Entre Darts",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "https://www.todoheavymetal.com/index.php/noticias-del-mes/blizzard-hunter-en-madrid",
+      "genre": "Video Games",
+      "taste_score": 0,
+      "notes": "",
+      "image_url": "https://www.todoheavymetal.com/wp-content/uploads/BH.jpg"
     },
     {
       "artist": "Debler Eternia",
@@ -250,24 +278,10 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "",
-      "genre": "Rock",
+      "genre": "Glam Rock",
       "taste_score": 0,
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/04179deb496e3519591d99163e33af23/500x500-000000-80-0-0.jpg"
-    },
-    {
-      "artist": "Integrity",
-      "lineup": "Integrity",
-      "date_str": "16/09/2026 · Miércoles",
-      "date_iso": "2026-09-16",
-      "venue": "Barracudas Rock Bar",
-      "address": "",
-      "price": "Consultar",
-      "buy_link": "https://metaltrip.com/integrity-tour/",
-      "genre": "Rock",
-      "taste_score": 0,
-      "notes": "",
-      "image_url": "https://cdn-images.dzcdn.net/images/artist/52e807c35f66d371432a9d2c1e8f53b1/500x500-000000-80-0-0.jpg"
     },
     {
       "artist": "Not Scientists",
@@ -292,7 +306,7 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "https://www.todoheavymetal.com/index.php/noticias-del-mes/fecha-de-ankhara-en-madrid-2",
-      "genre": "Rock",
+      "genre": "Gothic Metal",
       "taste_score": 0,
       "notes": "",
       "image_url": "https://revi.live/wp-content/uploads/2026/04/IMG-20260408-WA0017-726x1024.jpg"
@@ -309,7 +323,21 @@
       "genre": "Rock",
       "taste_score": 0,
       "notes": "",
-      "image_url": "https://cdn-images.dzcdn.net/images/artist/1db41a82d4634bb7c2957a2430dd146c/500x500-000000-80-0-0.jpg"
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/7a23fce70c070751c3a0193fb29e66bb/500x500-000000-80-0-0.jpg"
+    },
+    {
+      "artist": "Nocturnal Bloodlust",
+      "lineup": "Nocturnal Bloodlust",
+      "date_str": "19/09/2026 · Sábado",
+      "date_iso": "2026-09-19",
+      "venue": "sala Silikona",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "",
+      "genre": "Rock",
+      "taste_score": 0,
+      "notes": "",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/5435386052474388ec503b17e1c02e4a/500x500-000000-80-0-0.jpg"
     },
     {
       "artist": "Airbag",
@@ -334,10 +362,122 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "",
-      "genre": "Folk Metal",
+      "genre": "Rock",
       "taste_score": 0,
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/054d394fdd7fdb07d98fd8f7fcfe06e0/500x500-000000-80-0-0.jpg"
+    },
+    {
+      "artist": "Havok",
+      "lineup": "Havok",
+      "date_str": "23/09/2026 · Miércoles",
+      "date_iso": "2026-09-23",
+      "venue": "Revi Live",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "https://metaltrip.com/havok-tour/",
+      "genre": "Rock",
+      "taste_score": 0,
+      "notes": "",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/266826b63efefa1381bd282791025583/500x500-000000-80-0-0.jpg"
+    },
+    {
+      "artist": "Dark Echoes Fest",
+      "lineup": "Dark Echoes Fest",
+      "date_str": "25/09/2026 · Viernes",
+      "date_iso": "2026-09-25",
+      "venue": "Revi Live",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "https://metaltrip.com/dark-echoes-fest-madrid/",
+      "genre": "Rock",
+      "taste_score": 0,
+      "notes": "",
+      "image_url": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='65' height='65'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0%25' stop-color='%23374151'/><stop offset='100%25' stop-color='%231f2937'/></linearGradient></defs><rect width='65' height='65' rx='6' fill='url(%23g)'/><rect width='65' height='65' rx='6' fill='none' stroke='%234b5563' stroke-width='1'/><text x='50%25' y='50%25' dominant-baseline='central' text-anchor='middle' font-family='Arial,sans-serif' font-size='20' font-weight='700' fill='%239ca3af'>DE</text></svg>"
+    },
+    {
+      "artist": "Metal Legacy Fest Iii",
+      "lineup": "Metal Legacy Fest Iii",
+      "date_str": "26/09/2026 · Sábado",
+      "date_iso": "2026-09-26",
+      "venue": "Sala Revi Live",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "",
+      "genre": "Rock",
+      "taste_score": 0,
+      "notes": "",
+      "image_url": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='65' height='65'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0%25' stop-color='%23374151'/><stop offset='100%25' stop-color='%231f2937'/></linearGradient></defs><rect width='65' height='65' rx='6' fill='url(%23g)'/><rect width='65' height='65' rx='6' fill='none' stroke='%234b5563' stroke-width='1'/><text x='50%25' y='50%25' dominant-baseline='central' text-anchor='middle' font-family='Arial,sans-serif' font-size='20' font-weight='700' fill='%239ca3af'>ML</text></svg>"
+    },
+    {
+      "artist": "The Riven",
+      "lineup": "The Riven",
+      "date_str": "26/09/2026 · Sábado",
+      "date_iso": "2026-09-26",
+      "venue": "Madrid",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "",
+      "genre": "Rock",
+      "taste_score": 0,
+      "notes": "",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/b702023a8df6870fae00f6ac0f384df3/500x500-000000-80-0-0.jpg"
+    },
+    {
+      "artist": "Kamijo",
+      "lineup": "Kamijo",
+      "date_str": "26/09/2026 · Sábado",
+      "date_iso": "2026-09-26",
+      "venue": "Madrid",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "",
+      "genre": "Symphonic Metal",
+      "taste_score": 0,
+      "notes": "",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/aa0d7d65f65066385e60691fd6a09990/500x500-000000-80-0-0.jpg"
+    },
+    {
+      "artist": "Transvision Vamp",
+      "lineup": "Transvision Vamp",
+      "date_str": "26/09/2026 · Sábado",
+      "date_iso": "2026-09-26",
+      "venue": "Wagon",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "https://metaltrip.com/transvision-vamp-tour/",
+      "genre": "Rock",
+      "taste_score": 0,
+      "notes": "",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/9d867d5c895974d1504e912beb41d165/500x500-000000-80-0-0.jpg"
+    },
+    {
+      "artist": "Su Ta Gar",
+      "lineup": "Su Ta Gar",
+      "date_str": "26/09/2026 · Sábado",
+      "date_iso": "2026-09-26",
+      "venue": "Mon Live",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "https://metaltrip.com/su-ta-gar-madrid/",
+      "genre": "Folk Metal",
+      "taste_score": 0,
+      "notes": "",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/08d111f215d31d6dc3b0203ece7f7ce8/500x500-000000-80-0-0.jpg"
+    },
+    {
+      "artist": "Metal Legacy",
+      "lineup": "Metal Legacy",
+      "date_str": "26/09/2026 · Sábado",
+      "date_iso": "2026-09-26",
+      "venue": "Revi Live",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "https://metaltrip.com/metal-legacy-2026/",
+      "genre": "Rock",
+      "taste_score": 0,
+      "notes": "",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/59c999738d4c0e7423432562d2147fad/500x500-000000-80-0-0.jpg"
     }
   ]
 }
