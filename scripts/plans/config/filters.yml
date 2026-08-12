@@ -68,12 +68,12 @@ exclude_keywords:
     - rave
     - banda sonora
     - ópera
-    # Musicals / zarzuela (generic)
+    # Musicals / zarzuela — bare "musical" catches all phrasings (e.g. "el
+    # mejor musical del mundo", "el rock musical") without needing every
+    # exact wording spelled out.
     - zarzuela
     - opereta
-    - el musical
-    - gran musical
-    - revista musical
+    - musical
     # Bullfighting
     - corrida de toros
     - tauromaquia

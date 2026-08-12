@@ -122,6 +122,34 @@ PLAN_TOPICS = {
             "fiestas populares", "romeria", "pregon", "feria popular",
         ],
     },
+    "teatro": {
+        # Deliberately NOT "teatro" alone: scraped titles often carry the
+        # venue name (e.g. "El Rey Leon Teatro Lope de Vega Madrid"), which
+        # would wrongly score musicals as this topic. filters.yml's bare
+        # "musical" exclude keyword blocks those before this ever matters,
+        # but keep these phrases specific regardless.
+        "weight": 3,
+        "label": "Teatro",
+        "keywords": [
+            "obra de teatro", "obra teatral", "monologo", "stand up",
+            "stand-up", "comedia", "dramaturgia", "puesta en escena",
+            "funcion teatral", "representacion teatral", "improvisacion",
+            "microteatro", "reparto", "escenario", "actores",
+        ],
+    },
+    "ruta": {
+        # Guided routes/walks and nature outings — a real category the
+        # scraper/AI enricher already recognise ("Ruta" in CATEGORY_GUIDE)
+        # but that had no PLAN_TOPIC at all, so these never scored above
+        # PLAN_MIN_SCORE and got dropped before reaching the AI.
+        "weight": 3,
+        "label": "Rutas y naturaleza",
+        "keywords": [
+            "ruta guiada", "ruta historica", "ruta tematica", "paseo historico",
+            "paseo cultural", "tour guiado", "senderismo", "naturaleza",
+            "itinerario guiado", "visita nocturna guiada",
+        ],
+    },
     "gastronomy": {
         "weight": 2,
         "label": "Gastronomía",
