@@ -228,7 +228,7 @@ def search_fallback(title):
 # ============================================================
 # GROQ SUMMARY (JSON mode, no fragile label parsing)
 # ============================================================
-GROQ_MODEL = "llama-3.3-70b-versatile"
+GROQ_MODEL = "openai/gpt-oss-120b"
 
 # If a 429 asks us to wait longer than this, it's the daily budget talking,
 # not a per-minute blip. Stop calling and let remaining articles fail
@@ -286,7 +286,7 @@ def _post_groq(payload, api_key):
 # ============================================================
 # GEMINI FALLBACK — used only when Groq fails (mainly: daily budget spent)
 # ============================================================
-GEMINI_MODEL = "gemini-2.0-flash"
+GEMINI_MODEL = "gemini-3.7-flash"
 
 
 def _call_gemini(prompt):
