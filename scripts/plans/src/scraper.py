@@ -324,9 +324,15 @@ class EventScraper:
         categoria, titulo_limpio = self._categorize_title(raw_title, full_text)
         fecha_inicio, fecha_fin = self._extract_dates(full_text[:2000])
 
-        desc_containers = soup.select('article, .content, .entry-content, .post-content, main')
+        # Extended selector list covers WordPress, Drupal, custom CMS structures.
+        desc_containers = soup.select(
+            'article, .content, .entry-content, .post-content, main, '
+            '.field--type-text-with-summary, .field-items, .field-body, '
+            '.node-body, .region-content, .view-content, .block-content, '
+            '.event-description, .descripcion, .description, section.content'
+        )
         desc_parts = []
-        for container in desc_containers[:1]:
+        for container in desc_containers[:2]:
             for p in container.find_all('p', limit=15):
                 text = clean_text(p.get_text())
                 text = self._fix_encoding(text)
@@ -334,9 +340,27 @@ class EventScraper:
                     desc_parts.append(text)
                 if len(' '.join(desc_parts)) > 800:
                     break
+            if desc_parts:
+                break
+
+        # Fallback: scan all <p> tags in the page when specific containers yield nothing.
+        if not desc_parts:
+            for p in soup.find_all('p', limit=25):
+                text = clean_text(p.get_text())
+                text = self._fix_encoding(text)
+                if text and len(text) > 60 and not self._is_admin_text(text):
+                    desc_parts.append(text)
+                if len(' '.join(desc_parts)) > 800:
+                    break
+
+        # Last resort: og:description meta tag.
+        if not desc_parts:
+            og = soup.find('meta', property='og:description') or soup.find('meta', {'name': 'description'})
+            if og and og.get('content') and len(og['content']) > 30:
+                desc_parts.append(og['content'])
 
         descripcion = self._clean_description_aggressive(' '.join(desc_parts)[:1200])
-        if not descripcion or len(descripcion) < 50:
+        if not descripcion or len(descripcion) < 30:
             return None
 
         event = {

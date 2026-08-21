@@ -96,8 +96,8 @@ def _is_within_window(fecha_inicio: str, fecha_fin: str, now: datetime,
     Return True if the event is relevant within [now, horizon].
     - No dates at all: include (can't tell)
     - Start only, no end: include if it starts before the horizon. If the start
-      is already in the past we only keep it when the text signals an open run
-      ("a partir de", "desde", "permanente"); otherwise it's a stale one-off.
+      is already in the past, keep it if it started within 8 weeks (likely
+      still running) or the text signals an open run ("a partir de", "permanente").
     - Ends within window: include
     """
     start = _parse_display_date(fecha_inicio)
@@ -113,8 +113,8 @@ def _is_within_window(fecha_inicio: str, fecha_fin: str, now: datetime,
         if start > horizon:
             return False
         if start.date() < now.date():
-            # Past start with no end: keep only if clearly open-ended.
-            return open_ended
+            # Past start with no end: keep if started within 8 weeks or open-ended phrasing.
+            return open_ended or (now - start).days <= 56
         return True
 
     return start <= horizon and end >= now
@@ -137,7 +137,7 @@ class EventFilter:
         logger.info(f"Filtrando {len(events)} eventos...")
 
         now     = get_madrid_now().replace(tzinfo=None)
-        horizon = now + timedelta(weeks=4)
+        horizon = now + timedelta(weeks=8)
 
         filtered = []
         excluded_date = 0
@@ -216,9 +216,13 @@ class EventFilter:
         return tp.PLAN_MIN_SCORE if tp is not None else 3
 
     def _should_include_keywords(self, event: dict, score: float) -> bool:
-        text = f"{event.get('titulo', '')} {event.get('descripcion', '')}".lower()
+        titulo = event.get('titulo', '').lower()
+        # Only check the first 300 chars of description: real content, not price
+        # tables or logistics sections where "infantil", "musical" etc. can appear
+        # incidentally and wrongly exclude legitimate events.
+        desc_lead = event.get('descripcion', '')[:300].lower()
+        text = titulo + ' ' + desc_lead
         for kw in self.exclude_strict:
             if kw in text:
                 return False
-        return (event.get('_relevance', 0) >= self._min_relevance()
-                and len(event.get('descripcion', '')) >= 20)
+        return event.get('_relevance', 0) >= self._min_relevance()
