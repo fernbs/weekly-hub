@@ -320,7 +320,8 @@ async function loadNews(){
   }catch{ document.getElementById('news-body').innerHTML=state('📭','Sin noticias todavía','Aparecerán tras la primera ejecución'); }
 }
 function renderNews(data){
-  const arts=data.articles||[];
+  const _coupon=/coupon|promo code|promo codes|discount code|promocode/i;
+  const arts=(data.articles||[]).filter(a=>!_coupon.test(a.title||''));
   _news=arts;
   document.getElementById('cnt-news').textContent=arts.length;
   document.getElementById('news-tag').textContent=arts.length+' artículos';
@@ -384,8 +385,8 @@ function parseDate(s){
   return null;
 }
 function today0(){ const t=new Date(); t.setHours(0,0,0,0); return t; }
-// Effective end date of an event (end if present, else start). Null if none.
-function planEndDate(e){ return parseDate(e.date_end_raw||e.date_end||e.date_start_raw||e.date_start); }
+// Only the declared end date — no start-date fallback (events with no end date are never filtered out).
+function planEndDate(e){ return parseDate(e.date_end_raw||e.date_end); }
 function planEnded(e){ const d=planEndDate(e); return d ? d < today0() : false; }
 // Always show dates: a start→end row with progress bar when both exist,
 // otherwise just the single date. Empty only when no date at all.

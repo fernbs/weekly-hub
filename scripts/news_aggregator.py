@@ -348,7 +348,10 @@ def summarize_with_groq(article):
         return None, image_url
 
     lang_name = "Spanish" if lang == "es" else "English"
+    today_str = datetime.now().strftime("%B %d, %Y")
     prompt = f"""{tp.READER_CONTEXT}
+
+Today's date is {today_str}.
 
 You are his news analyst. Read the article and produce a briefing as a JSON object with EXACTLY these keys:
 

@@ -40,6 +40,13 @@ NEGATIVE = {
             "boda de", "divorcio de", "romance", "novia de", "novio de",
         ],
     },
+    "commercial": {
+        "penalty": 6,
+        "keywords": [
+            "coupon", "coupons", "promo code", "promo codes", "discount code",
+            "discount codes", "promocode", "voucher code", "deals this",
+        ],
+    },
 }
 
 # How many news articles to keep at most (see filter_news below).
