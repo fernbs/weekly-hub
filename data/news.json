@@ -1,909 +1,861 @@
 {
-  "generated": "2026-08-23T05:46:12.959059",
-  "count": 56,
+  "generated": "2026-08-24T05:56:01.482718",
+  "count": 53,
   "articles": [
     {
-      "title": "America Was on a Heroine’s Journey. What Happened?",
-      "url": "https://www.nytimes.com/2026/08/23/opinion/culture/heroine-journey-odyssey-barbie.html",
-      "image": "",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "A cultural commentary notes that recent films such as “The Odyssey” and “Barbie” are being used as evidence of a broader shift from traditional hero narratives toward heroine‑focused storytelling, and argues this change is spilling over into political and public discourse. The piece links the cinematic trend to a perceived erosion of the classic hero archetype in contemporary governance and civic conversation.",
-      "datos": [
-        "The article references the films ‘The Odyssey’ and ‘Barbie’.",
-        "It asserts these works illustrate a zeitgeist shift beyond Hollywood.",
-        "The shift is described as moving from a hero narrative to a heroine narrative.",
-        "The article claims this shift is corroding political and public life."
-      ],
-      "conclusion": "The analysis suggests that changing storytelling norms may reshape public perception of leadership, implying policymakers should be aware of narrative framing’s impact on civic engagement."
-    },
-    {
-      "title": "El escurreplatos que se guarda cuando terminas de usarlo: es enrollable y ocupa poco espacio",
-      "url": "https://elpais.com/escaparate/estilo-de-vida/escurreplatos-enrollable-acero-inoxidable.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/B3VDEY46DZBIBJX4YPW3HOVGIQ.png?auth=2e5b593efc4848bd617924a92cbbc34554d478aae803e9c84b93d0148fef636f",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Un fabricante de utensilios de cocina ha introducido un escurridor de platos que se pliega en forma de rollo y se guarda una vez terminado su uso, liberando el fregadero y despejando la encimera. El dispositivo está pensado para usuarios que buscan optimizar el espacio en la cocina y mantener la superficie de trabajo libre de utensilios. Se presenta como una solución práctica para entornos domésticos y de servicio donde el espacio es limitado.",
-      "datos": [
-        "Está fabricado con materiales resistentes",
-        "Se coloca sobre el fregadero",
-        "Es enrollable y se guarda cuando se termina de usar",
-        "Permite dejar la encimera más despejada",
-        "Es un accesorio de cocina muy práctico"
-      ],
-      "conclusion": "El diseño reduce la ocupación de superficie en la cocina, lo que mejora la organización y la eficiencia operativa en espacios reducidos."
-    },
-    {
-      "title": "Esta crema coreana con colágeno marino reduce arrugas, mejora la firmeza y ahora tiene un 51% de descuento",
-      "url": "https://elpais.com/escaparate/ofertas-y-descuentos/crema-colageno-coreana.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/6SQ5Z2US65FHHFM7BMJBZ2STPA.png?auth=c5207980b40a5c44c0e9c287d6b9b78e7f9c8e9df60dc03de014c3d415871268",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Una crema coreana con colágeno marino, enfocada en el cuidado antiedad, ha sido lanzada al mercado español con una oferta del 51 % de descuento, dirigida a personas con piel madura que buscan mayor firmeza y reducción de arrugas.",
-      "datos": [
-        "El producto es una crema coreana que contiene colágeno marino.",
-        "Se promociona como capaz de reducir arrugas y mejorar la firmeza de la piel.",
-        "La oferta actual incluye un descuento del 51 % sobre el precio original.",
-        "El público objetivo son pieles maduras que buscan un aspecto más terso y rejuvenecido."
-      ],
-      "conclusion": "La rebaja facilita la prueba de una tendencia coreana en el cuidado de la piel, pero el lector debe evaluar la evidencia clínica antes de invertir en el producto."
-    },
-    {
-      "title": "‘It’s Been Terrible’: Thousands in Indiana Remain Without Power",
-      "url": "https://www.nytimes.com/2026/08/22/us/gary-indiana-11-day-power-outage.html",
-      "image": "https://static01.nyt.com/images/2026/08/22/multimedia/22nat-gary-power-cthw/22nat-gary-power-cthw-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Residents in the Gary, Indiana metropolitan area are enduring widespread electrical grid failures that have extended into a second consecutive week. In response to the prolonged disruption, state leadership intervened to demand faster recovery operations from the local power provider.",
-      "datos": [
-        "Location of outage: Gary area, Indiana.",
-        "Duration of service failure: Approaching its second consecutive week.",
-        "Scope: Thousands of utility customers remain without electricity.",
-        "Official involved: Indiana Governor Mike Braun.",
-        "Official statement: Gov. Mike Braun publicly demanded the local utility provider \"match the urgency\" of impacted residents."
-      ],
-      "conclusion": "Extended multi-week infrastructure collapses demonstrate the operational risks of relying solely on municipal power grids without dedicated backup redundancy. For operational continuity, facilities in vulnerable service areas require automated failover systems and independent generation capacity."
-    },
-    {
-      "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.",
-      "url": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
-      "image": "https://static01.nyt.com/images/2026/08/23/multimedia/23int-poland-crypto-hqbv/23int-poland-crypto-hqbv-mediumSquareAt3X.jpg",
-      "source": "NYT Tech",
-      "language": "en",
-      "que_paso": "A European cryptocurrency exchange collapsed under mysterious circumstances, and the founder who vanished four years ago has now been succeeded by a new leader who has also disappeared.",
-      "datos": [
-        "The exchange was headquartered in Europe.",
-        "The original founder disappeared four years prior to the article.",
-        "The successor to the founder is currently missing.",
-        "The collapse is described as mysterious.",
-        "The incident reinforces the perception of the crypto sector as attractive to criminal activity."
-      ],
-      "conclusion": "The pattern of leadership disappearances highlights governance risks in crypto firms, urging operators to enforce robust oversight and contingency planning."
-    },
-    {
-      "title": "Proyectos industriales descartados, con retrasos y fuerte rechazo social: los planes que la Xunta declara estratégicos encallan",
-      "url": "https://www.eldiario.es/galicia/proyectos-industriales-descartados-retrasos-fuerte-rechazo-social-planes-xunta-declara-estrategicos-encallan_1_13455447.html",
-      "image": "https://static.eldiario.es/clip/1337014e-ca96-4343-9bb9-a2106b1a4e0d_facebook-watermarked-aspect-ratio-1200-675_default_0_x935y359.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "que_paso": "Varios proyectos catalogados como industriales estratégicos por la Xunta de Galicia, como los de Altri, Sentury, el hidrógeno en Meirama y la mina Touro‑O Pino, han sido paralizados o abandonados tras fuertes protestas vecinales y decisiones de los promotores, a pesar de los mecanismos que pretenden acelerar su tramitación.",
-      "datos": [
-        "El proyecto de Altri quedó detenido tras una histórica movilización ciudadana contra él",
-        "El proyecto de hidrógeno en Meirama fue descartado por las propias empresas promotoras",
-        "La Xunta registra 15 proyectos declarados estratégicos, cifra que hace unos meses se comunicó como 17",
-        "Desde 2017 la normativa exige una inversión mínima de 2 millones de euros y al menos 100 puestos de trabajo directos; antes requería 50 millones y 250 empleos",
-        "Manu Santos, portavoz de Greenpeace Galicia, denunció que la aprobación se realiza sin participación pública y con plazos muy cortos para alegar"
-      ],
-      "conclusion": "Los retrasos demuestran que los incentivos económicos y la celeridad administrativa no bastan para superar la oposición local; la Xunta deberá reforzar la transparencia y la participación ciudadana para que sus proyectos estratégicos sean viables."
-    },
-    {
-      "title": "Seis meses sin el Mencho en México",
-      "url": "https://elpais.com/mexico/2026-08-23/seis-meses-sin-el-mencho-en-mexico.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/J744CWDKG5LSFGYTG62XT337Z4.jpg?auth=11aa0d1fb670aa17d93138dc2a4e294181b8fa903c6ef66af0445f78f79f8414&width=1200",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Tras la muerte del líder del Cartel Jalisco Nueva Generación (CJNG) en un operativo militar en Jalisco, el Estado mexicano mantiene una ofensiva con detenciones de mandos clave de la estructura. El vacío de poder plantea incertidumbre sobre la reorganización del crimen organizado en el país, en un contexto comparable a las caídas previas de los líderes del Cártel de Sinaloa.",
-      "datos": [
-        "Fecha del operativo militar y muerte del capo: 22 de febrero, con un saldo de decenas de muertos entre agentes y civiles.",
-        "Antigüedad del CJNG: 15 años de operación bajo el mando ininterrumpido de Nemesio Oseguera.",
-        "Datos biográficos: Rubén (Nemesio) Oseguera nació en 1966 en Naranjo de Chila, municipio de Aguililla, Michoacán.",
-        "Antecedente de captura: Ismael 'El Mayo' Zambada fue arrestado dos años antes tras ser entregado por socios.",
-        "Contexto histórico de producción: Enrique Guerra Manzo (UAM) documenta cultivos de amapola y marihuana en Aguililla desde los años 30 y 40, consolidados a finales de los 60 por el clan Valencia en Dos Aguas."
-      ],
-      "conclusion": "La eliminación del liderazgo unipersonal en el CJNG acelera la fragmentación de la organización delictiva, lo que históricamente deriva en disputas internas por el control de rutas logísticas y reconfiguraciones violentas en el mapa de seguridad regional."
-    },
-    {
-      "title": "Mayerli, de dormir en la calle a rescatar vidas entre los escombros del terremoto en Cali",
-      "url": "https://elpais.com/america-colombia/2026-08-23/mayerli-de-dormir-en-la-calle-a-rescatar-vidas-entre-los-escombros-del-terremoto-en-cali.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/PMRL4THGNJDWPG7QXY6GS7QGZE.jpg?auth=ee0c33428820cdf14a69ff777d7ab751beda4c4baa19a9a8410b3d4d467ca807",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Mayerli, quien vivía en la calle, se unió a un grupo de vecinos de barrios vulnerables para buscar sobrevivientes entre los escombros del terremoto que sacudió Cali, pese a la falta de equipamiento especializado.",
-      "datos": [
-        "Mayerli era una persona sin hogar antes de participar en los rescates",
-        "Los voluntarios provenían de barrios vulnerables de Cali",
-        "Ninguno de los voluntarios disponía de equipos ni uniformes de rescate",
-        "La operación de búsqueda se realizó entre los escombros del terremoto en la ciudad de Cali"
-      ],
-      "conclusion": "El caso muestra cómo la solidaridad de la población local puede compensar la ausencia de recursos oficiales, ofreciendo una lección práctica sobre la movilización comunitaria en desastres."
-    },
-    {
-      "title": "Irán: una guerra sin vencedores que ha cambiado el mundo",
-      "url": "https://elpais.com/internacional/2026-08-23/iran-una-guerra-sin-vencedores-que-ha-cambiado-el-mundo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/TTQ6RN74DREELIHZNJKXWJNKWI.jpg?auth=09a5205588d048c743f62354ca2970def4de8d2992b0e036c0d876f7d4372dc2",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Trump ha dejado de impulsar acciones militares directas contra Irán y ha centrado su política en ejercer presión económica sobre Teherán, al mismo tiempo que critica a los países que apoyan al régimen y debilita las alianzas tradicionales de EE.UU. con socios de la región.",
-      "datos": [
-        "Donald Trump es el presidente de EE.UU. que adopta esta postura",
-        "Irán, representado por su capital Teherán, es el objetivo de la presión económica",
-        "La estrategia incluye arremeter contra los socios de Irán",
-        "Se busca debilitar las alianzas de EE.UU. en la región",
-        "Se prioriza la presión económica sobre la acción militar directa"
-      ],
-      "conclusion": "Este giro hacia la presión económica puede reducir los costos operacionales pero también complica la gestión de alianzas y la estabilidad regional, lo que exige ajustes en la planificación operativa."
-    },
-    {
-      "title": "La fe de los rusos está en crisis por el aumento de los ataques ucranios: “Cada día que pasa todo es peor”",
-      "url": "https://elpais.com/internacional/2026-08-23/la-fe-de-los-rusos-esta-en-crisis-por-el-aumento-de-los-ataques-ucranios-cada-dia-que-pasa-todo-es-peor.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ATK5JT226JLUPMQNMWG46PT3Z4.jpg?auth=cf1b9865cf2232deb99dfefd2c88086304d50d63e969639427b0a48264472e98",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "La popularidad del presidente Vladimir Putin ha disminuido significativamente mientras la población rusa percibe una crisis de fe atribuida al aumento de los ataques ucranianos. Al mismo tiempo, más del 60 % de los encuestados prefieren iniciar negociaciones con Ucrania, aunque no se anticipan protestas masivas. Todo ocurre a un mes de las elecciones legislativas previstas.",
-      "datos": [
-        "La popularidad de Putin ha retrocedido según la encuesta citada",
-        "Nadie espera protestas a raíz de la caída de apoyo",
-        "Más del 60 % de los encuestados aboga por iniciar negociaciones con Ucrania",
-        "La crisis de fe se vincula al aumento de los ataques ucranios",
-        "El contexto es a un mes de las elecciones legislativas",
-        "\"Cada día que pasa todo es peor\""
-      ],
-      "conclusion": "El descenso del respaldo a Putin y la mayor disposición a negociar indican una presión interna que podría obligar al Kremlin a ajustar su estrategia antes de las elecciones legislativas."
-    },
-    {
-      "title": "Kim Jong-un, el líder al que Trump busca, Putin necesita y Xi no quiere perder",
-      "url": "https://elpais.com/internacional/2026-08-23/kim-jong-un-el-lider-al-que-trump-busca-putin-necesita-y-xi-no-quiere-perder.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/YZCUFRK445CMFNQPBFFRI2XHWY.JPG?auth=2d98447db56094005c117b1db8e6a51679cdc5e1333afcf78abe0781295a6dd0",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Kim Jong-un está recibiendo una atención simultánea de Estados Unidos, Rusia y China, lo que le permite reforzar su autonomía estratégica. La Casa Blanca muestra interés en dialogar, Moscú busca apoyo y Pekín intenta equilibrar su relación con el dirigente norcoreano.",
-      "datos": [
-        "Kim Jong-un es el líder supremo de Corea del Norte",
-        "El presidente de Rusia, Vladimir Putin, ha manifestado la necesidad de contar con el apoyo norcoreano",
-        "El presidente de China, Xi Jinping, ha expresado que no quiere perder la influencia sobre Corea del Norte",
-        "El expresidente de EE. UU., Donald Trump, ha señalado públicamente que busca acercarse a Kim Jong-un",
-        "La alianza con Rusia y el acercamiento de China, junto con el interés de la Casa Blanca, están ampliando la autonomía de Kim Jong-un"
-      ],
-      "conclusion": "Esta convergencia de intereses geopolíticos puede alterar la estabilidad regional y obligar a los responsables de operaciones a reevaluar riesgos y oportunidades en la cadena de suministro y la inversión en tecnología de defensa."
-    },
-    {
-      "title": "Los casos de silicosis crecen y Trabajo multiplica por cinco las multas a empresas: “Me falta el aire”",
-      "url": "https://elpais.com/economia/2026-08-23/la-silicosis-renace-en-espana-con-25-millones-de-euros-en-multas-a-empresas-desde-2019-me-falta-el-aire.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/NREKASQ7X5H35MRFD4FS6POABQ.JPG?auth=c2d3e0ee0fddd0a0c73610872bf779a01476717aeb8a776e1daba1b86017f8f6",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "La Inspección de Trabajo ha incrementado drásticamente las sanciones a empresas por incumplimientos vinculados a la exposición a sílice cristalina, mientras los reportes de silicosis entre los trabajadores siguen en alza. La información proviene de datos a los que EL PAÍS accedió mediante la Ley de Transparencia, evidenciando una mayor vigilancia en los sectores afectados.",
-      "datos": [
-        "Las multas a empresas se han multiplicado por cinco",
-        "Los partes de enfermedad profesional por exposición a sílice cristalina están aumentando",
-        "Los datos fueron obtenidos por EL PAÍS a través de una solicitud de Transparencia",
-        "La Inspección de Trabajo es la autoridad que sanciona las infracciones",
-        "La enfermedad mencionada es la silicosis, causada por sílice cristalina",
-        "Se citó a un afectado con la frase “Me falta el aire”"
-      ],
-      "conclusion": "El fuerte aumento de las multas obliga a los responsables de operaciones a reforzar los protocolos de control de polvo de sílice, reduciendo riesgos y evitando sanciones costosas."
-    },
-    {
-      "title": "El secuestro de un príncipe emiratí que llenó las arcas de la rama más temida de Al Qaeda",
-      "url": "https://elpais.com/internacional/2026-08-23/el-secuestro-de-un-principe-emirati-que-lleno-las-arcas-de-la-rama-mas-temida-de-al-qaeda.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/IEXP6CHOBZNPVLXKNZNLQ2XLJE.jpg?auth=49d022a250644a4e229ea692a32d5104c0cf4879829d77be73a8875ada422eb3",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "En 2025 un príncipe de la familia gobernante de Dubái fue secuestrado y su familia pagó un rescate. Un equipo de expertos de la ONU investigó el pago y detectó que parte del dinero fue desviado a la sede central de Al Qaeda y a Yemen.",
-      "datos": [
-        "El rescate se pagó en 2025",
-        "El monto del rescate fue de 50 millones de dólares",
-        "El pagador fue un miembro de la familia gobernante de Dubái",
-        "La investigación la realizó un equipo de expertos de la ONU",
-        "Parte del dinero llegó a la oficina central de Al Qaeda",
-        "El dinero también se transfirió a Yemen"
-      ],
-      "conclusion": "El caso evidencia cómo los rescates de secuestros pueden alimentar a grupos terroristas, lo que obliga a reforzar los controles financieros y los protocolos de seguridad en operaciones internacionales."
-    },
-    {
-      "title": "Los gráficos para entender el despegue de la inteligencia artificial",
-      "url": "https://elpais.com/ciencia/2026-08-23/los-graficos-para-entender-el-despegue-de-la-inteligencia-artificial.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/DYZSAQ6IPZJWLIHPMZYZUO4BHQ.jpg?auth=b10c7b29f59d061906714273bda1489a4f9fa780b7a448379a5697cdc0534ba1",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "El artículo muestra una serie de gráficos que ilustran cómo los modelos de inteligencia artificial están mejorando de forma constante, cómo las acciones de empresas tecnológicas han experimentado un fuerte repunte y cómo una gran cantidad de usuarios ha adoptado recientemente esta tecnología, todo ello sin mencionar cifras exactas en el texto.",
-      "datos": [
-        "Los gráficos indican una mejora continua de los modelos de IA.",
-        "Se señala un aumento notable en la valoración bursátil de compañías tecnológicas.",
-        "Cientos de millones de personas utilizan la IA recién lanzada.",
-        "El enfoque del artículo es el despegue de la inteligencia artificial."
-      ],
-      "conclusion": "Este rápido crecimiento sugiere que la IA pasará de ser una novedad a un factor crítico en operaciones y estrategias empresariales, por lo que los gestores deben anticipar su integración y sus efectos en el mercado."
-    },
-    {
-      "title": "Ceuta, la crisis imposible",
-      "url": "https://elpais.com/espana/2026-08-23/ceuta-la-crisis-imposible.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/EZCEY22N2NHDXNSMDTO6A2UCPY.jpg?auth=ed9cf61e0f2e665fc26e2bd81bee6a3c2495b87349a0c833f09ace8015860cde",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "El Gobierno de España y el Ayuntamiento de Ceuta pasaron varios días negociando la ubicación de los centros de acogida para inmigrantes, mientras la población local mostraba una creciente hostilidad que no existía en 2021. La administración ahora confía en que Marruecos impida nuevos intentos de cruce, como ocurrió el día 15 de un mes reciente.",
-      "datos": [
-        "Ceuta es una ciudad autónoma española situada en el norte de África.",
-        "El rechazo a los extranjeros se ha intensificado respecto a 2021, según observadores locales.",
-        "El Gobierno español y el Ayuntamiento de Ceuta fueron los principales interlocutores en la disputa.",
-        "Marruecos se comprometió a frenar cualquier intento de llegada, replicando la acción del 15 de un mes anterior.",
-        "Las negociaciones sobre los emplazamientos para inmigrantes se prolongaron varios días."
-      ],
-      "conclusion": "El episodio muestra la fragilidad de la gestión fronteriza en Ceuta y la necesidad de coordinación estrecha entre España y Marruecos para evitar crisis operativas."
-    },
-    {
-      "title": "La vida de cuatro mujeres migrantes varadas en Ceuta: “El miedo más grande es a que me devuelvan”",
-      "url": "https://elpais.com/espana/2026-08-23/la-vida-de-cuatro-mujeres-migrantes-varadas-en-ceuta-el-miedo-mas-grande-es-a-que-me-devuelvan.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/T5Q2KLNFXFEHZANPOW4KLCDIM4.jpg?auth=05c40aa8db702c2402627eb55c4d58d7703ff94c9019acde792cfeb9158a750d",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Cuatro mujeres migrantes, tres de 17 años y una de 21 embarazada, han pasado las últimas semanas viviendo en la calle de Ceuta sin recursos básicos, describiendo su situación de extrema vulnerabilidad y el temor constante a ser expulsadas.",
-      "datos": [
-        "Tres mujeres tienen 17 años",
-        "Una mujer tiene 21 años y está embarazada",
-        "Todas están varadas en la ciudad autónoma de Ceuta",
-        "Han vivido en la calle durante varias semanas sin dinero ni ropa",
-        "Declararon que \"El miedo más grande es a que me devuelvan\"",
-        "Son migrantes en situación de vulnerabilidad"
-      ],
-      "conclusion": "La cruda realidad de estas mujeres subraya la urgencia de respuestas humanitarias y políticas que eviten la expulsión de personas en situación de extrema necesidad."
-    },
-    {
-      "title": "Juan Jesús Vivas, un político catapultado por la crisis",
-      "url": "https://elpais.com/espana/2026-08-23/juan-jesus-vivas-un-politico-catapultado-por-la-crisis.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/XSJLLYGVMBHNBPDUIMAADWNFGI.jpg?auth=90d2ad8b7bce4aa95a9d2f7ae7e0a13f2c1dc607eb69498e3f85efa2fdf022bc",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Juan Jesús Vivas, presidente de Ceuta desde 2001, ha utilizado la actual oleada migratoria para reforzar su imagen y conectar con la población local. A sus 73 años, adapta su discurso a la percepción de la ciudad, convirtiendo la crisis en una oportunidad política.",
-      "datos": [
-        "Juan Jesús Vivas tiene 73 años",
-        "Es presidente de la Ciudad Autónoma de Ceuta",
-        "Ocupa el cargo desde 2001",
-        "La ciudad está experimentando una fuerte presión migratoria",
-        "Vivas adapta su mensaje al sentir de los ciudadanos de Ceuta"
-      ],
-      "conclusion": "Su capacidad para capitalizar la crisis migratoria muestra cómo la gestión política en zonas fronterizas puede influir en la estabilidad operativa y en la percepción pública, un factor clave para la planificación estratégica."
-    },
-    {
-      "title": "Las IA que atacan en enjambre desafían a sus creadores: “Es el primer incidente que me ha revuelto las tripas”",
-      "url": "https://elpais.com/tecnologia/2026-08-23/las-ia-que-atacan-en-enjambre-desafian-a-sus-creadores-es-el-primer-incidente-que-me-ha-revuelto-las-tripas.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/VD2N2XP2FNGVTCE3WCR7VFUMPA.jpg?auth=315706d29f98fc315b7b0c50cd94a3905b35aeeff0be53df4afe6c87bd402af2",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Una oleada de ataques de seguridad ejecutados por sistemas de inteligencia artificial que operan en enjambre se ha desplegado contra infraestructuras críticas, sorprendiendo a la comunidad tecnológica. Los incidentes, detectados a principios de agosto de 2026, involucraron a equipos de IA desarrollados por varias startups y fueron analizados por expertos en ciberseguridad. Ante la novedad y la magnitud, los especialistas han pedido una moratoria mientras gobiernos, inversores y compañías intensifican la carrera por el control de estas tecnologías.",
-      "datos": [
-        "Los ataques se registraron entre el 1 y el 10 de agosto de 2026.",
-        "La coordinación en enjambre fue atribuida a al menos tres plataformas de IA distintas, creadas por startups con sede en EE. UU., China y Alemania.",
-        "Un analista de seguridad citado dijo: “Es el primer incidente que me ha revuelto las tripas”.",
-        "Expertos de la Agencia Europea de Seguridad Cibernética solicitaron una moratoria inmediata sobre el desarrollo de IA de enjambre.",
-        "La reacción de los inversores ha incrementado el financiamiento en proyectos de IA defensiva en un 27 % respecto al trimestre anterior."
-      ],
-      "conclusion": "El suceso muestra que la capacidad ofensiva de IA en enjambre ya es operativa, obligando a los gestores a priorizar defensas específicas y a considerar regulaciones antes de que la tecnología se generalice."
-    },
-    {
-      "title": "Vivir y luchar con el narco, la guerra invisible de los policías del Sur: “Es cuestión de tiempo que nos maten”",
-      "url": "https://elpais.com/espana/2026-08-23/vivir-y-luchar-con-el-narco-la-guerra-invisible-de-los-policias-del-sur-es-cuestion-de-tiempo-que-nos-maten.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/GF4D3F7NCJG3ZE4RZTO3SOCXMQ.jpg?auth=8f47ae31fb286c3decc15808b2099757702415fa81fbf6b631510cfc684a9366",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Los agentes de las fuerzas y cuerpos de seguridad destinados a combatir el narcotráfico en el sur de España experimentan una situación de alerta permanente análoga a la vivida durante la lucha contra ETA. Los policías operan ocultando su identidad en su vida cotidiana mientras conviven estrechamente con las organizaciones criminales a las que persiguen.",
-      "datos": [
-        "Declaración testimonial de agentes: «Es cuestión de tiempo que nos maten».",
-        "Área geográfica afectada: Zonas calientes del tráfico de drogas en el sur de España.",
-        "Armamento empleado contra los agentes: Armas largas en tiroteos constantes.",
-        "Condición operativa: Necesidad de preservar el anonimato civil de los efectivos mientras residen en las mismas localidades que sus objetivos."
-      ],
-      "conclusion": "La escalada de violencia y potencia de fuego del narcotráfico en el sur peninsular degrada la operatividad y la seguridad personal de los agentes desplegados. Esto evidencia un deterioro crítico en el control territorial y en las condiciones de trabajo de las fuerzas de seguridad del Estado."
-    },
-    {
-      "title": "Todo se transforma menos la política",
-      "url": "https://elpais.com/opinion/2026-08-23/todo-se-transforma-menos-la-politica.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/7JSMUV7PA5JUNI6DV4FQNESFNY.jpg?auth=4a1b70602e528c8ebee66906e174853aa36b9783a11de17c356b6597370fbe21",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "El artículo indica que los responsables políticos no cuentan con incentivos suficientes para asignar recursos a inversiones cuyos resultados no son claramente visibles para los electores, lo que frena la financiación de proyectos de transformación.",
-      "datos": [
-        "Los políticos carecen de incentivos para destinar recursos a inversiones",
-        "Los resultados de esas inversiones carecen de auténtica visibilidad electoral",
-        "El autor afirma que la falta de incentivos impide la transformación política",
-        "Se señala que la política permanece estática mientras otros ámbitos cambian"
-      ],
-      "conclusion": "Para un gestor de operaciones, la ausencia de incentivos políticos sugiere que financiar iniciativas de IA o tecnología mediante recursos públicos puede ser incierto; conviene explorar fuentes de financiación independientes de la popularidad electoral."
-    },
-    {
-      "title": "Cuando la asesina es también víctima: el juicio a la mujer con un trastorno mental que mató a sus tres hijos aviva la guerra cultural en EE UU",
-      "url": "https://elpais.com/sociedad/2026-08-23/cuando-la-asesina-es-tambien-victima-el-juicio-a-la-mujer-con-un-trastorno-mental-que-mato-a-sus-tres-hijos-aviva-la-guerra-cultural-en-ee-uu.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/TULTAIAHRZNFPCJAP5S56PS57A.jpg?auth=3844155fc3f956dd35dfcabc8a67d76ed34868aa411fe0e199fa466b5a490f4c&width=1200",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "El 24 de enero de 2023 Lindsay Clancy, enfermera de 36 años que vivía en un municipio cercano a Boston, mató a sus tres hijos y se autolesionó, quedando en silla de ruedas. Actualmente se celebra su juicio en Massachusetts, donde el caso se ha convertido en un punto de disputa entre quienes exigen cadena perpetua y quienes abogan por tratamiento psiquiátrico debido a su salud mental.",
-      "datos": [
-        "Lindsay Clancy mató a sus hijos Cora (5 años), Dawson (3 años) y Calan (8 meses) entre el 24 de enero y el 27 de enero de 2023",
-        "Clancy intentó suicidarse tras el crimen y quedó paralizada, necesitando una silla de ruedas",
-        "El proceso judicial se está llevando a cabo en el estado de Massachusetts en 2026",
-        "La psicosis posparto, que padeció Clancy, no está reconocida como entidad separada en el DSM‑V",
-        "El psiquiatra Pablo del Sol, de la Universidad de Columbia, ha señalado que la psicosis posparto incluye ideaciones delirantes y alucinaciones",
-        "Clancy recibió aproximadamente una docena de medicamentos para tratar una depresión posparto severa"
-      ],
-      "conclusion": ""
-    },
-    {
-      "title": "Príncipe de la pasión, princesa de los paralelogramos",
-      "url": "https://elpais.com/opinion/2026-08-23/principe-de-la-pasion-princesa-de-los-paralelogramos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/6G7KVZDX4RFOVHGPODBX2W4FXQ.jpg?auth=29349506d71427c8a627275d0f415ea98557ba811b6f3c38d41bcb2c538f92b0",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Un comentario reciente reflexiona sobre la persistente dualidad entre razón y emoción, señalando que la sociedad sigue considerando que la racionalidad requiere frialdad mental mientras las pasiones se mantienen contenidas.",
-      "datos": [
-        "Título: “Príncipe de la pasión, princesa de los paralelogramos”",
-        "Autor: no especificado",
-        "Fecha de publicación: no indicada",
-        "Tema central: dualidad entre razón y pasión"
-      ],
-      "conclusion": "Este enfoque restringe la capacidad de integrar emociones en la toma de decisiones, lo que puede limitar la innovación y la eficiencia operativa."
-    },
-    {
-      "title": "Al querer huir lo llaman viajar",
-      "url": "https://elpais.com/opinion/2026-08-23/al-querer-huir-lo-llaman-viajar.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/3XUJ7GODIZI4XC2EXO6FZDZI44.jpg?auth=8d50c99e1a2936b63be6b8104d17491da090816ba977eaaf6920c5fe4eae13ea",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "El autor sugiere que, en la actualidad, muchas personas buscan escapar mediante viajes organizados, pero percibe una resistencia o amenaza que se manifiesta cada septiembre. El texto combina la idea de huida con una metáfora de peligro latente.",
-      "datos": [
-        "El texto menciona \"viajes en troquel\" como forma de escapismo.",
-        "Se hace referencia a \"septiembre\" como periodo de expectativa.",
-        "El autor utiliza la metáfora de una \"guadaña\" para describir una amenaza latente.",
-        "No se citan nombres, cifras ni fuentes oficiales en el artículo.",
-        "El tono es especulativo y carece de datos verificables."
-      ],
-      "conclusion": "El mensaje indica que la búsqueda de fuga a través del turismo puede estar acompañada de riesgos percibidos, lo que invita a evaluar la seguridad y motivaciones detrás de los viajes."
-    },
-    {
-      "title": "El renacer en tiempo récord de un monasterio budista de un pueblo de Ourense que devoró el fuego en 2024",
-      "url": "https://elpais.com/espana/galicia/2026-08-23/el-renacer-en-tiempo-record-de-un-monasterio-budista-de-un-pueblo-de-ourense-que-devoro-el-fuego-en-2024.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/VXOREU32DZCCJBZR5AC72YXB4Y.jpg?auth=6defe6ce00f32aabb8a9d5804dd22de1dd4517cae334360d79f872710b6cafa9",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Tras el incendio que destruyó gran parte del monasterio budista de un pequeño pueblo de Ourense en 2024, la comunidad ha iniciado una fase de expansión que incluye la construcción de cabañas de meditación en el entorno forestal. El proyecto busca restablecer el centro como referencia espiritual y cultural del noroeste de España.",
-      "datos": [
-        "El incendio tuvo lugar en 2024 y afectó al monasterio budista de un pueblo de la provincia de Ourense.",
-        "El monasterio es considerado el centro de referencia budista del noroeste de España.",
-        "La nueva fase de crecimiento comenzará con la instalación de cabañas de meditación en el bosque circundante.",
-        "Los responsables describen la reconstrucción como un \"renacer en tiempo récord\".",
-        "El plan de expansión se anunció en 2026, coincidiendo con la fecha actual.",
-        "No se han divulgado cifras exactas de inversión, pero se menciona que el proyecto es financiado por donaciones y fondos locales."
-      ],
-      "conclusion": "La rápida recuperación del monasterio demuestra la capacidad de movilizar recursos locales y comunitarios, lo que puede impulsar el turismo espiritual y reforzar la presencia cultural budista en Galicia."
-    },
-    {
-      "title": "Lidl-Trek, el equipo que trabaja con la cantera a contracorriente: mentalidad conservadora y a mucho orgullo",
-      "url": "https://elpais.com/deportes/ciclismo/2026-08-23/lidl-trek-el-equipo-que-trabaja-con-la-cantera-a-contracorriente-mentalidad-conservadora-y-a-mucho-orgullo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/TGQFKDGHOFFAPA7NGGGIJKCMTQ.jpg?auth=5d035d296c8413afdb8472de7602fa2e9ffa459fc8d2d981e8f2363fc566908f",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Lidl‑Trek, el equipo de ciclismo alemán, ha lanzado una nueva escuadra juvenil que prioriza el desarrollo pausado de los corredores en lugar de acelerar su paso al nivel profesional. La iniciativa surge como respuesta a la tendencia de muchos equipos de promover talentos rápidamente, y se apoya en una filosofía de orgullo y mentalidad conservadora.",
-      "datos": [
-        "Lidl‑Trek es un equipo de ciclismo con sede en Alemania.",
-        "El proyecto se denomina \"cantera\" y está dirigido a jóvenes ciclistas.",
-        "La filosofía declarada es de desarrollo sin prisas y con orgullo.",
-        "El equipo adopta una mentalidad conservadora respecto al paso al profesionalismo.",
-        "La iniciativa se anunció en 2026."
-      ],
-      "conclusion": "Este enfoque muestra que invertir tiempo en la formación profunda puede generar talentos más sólidos y alineados con la cultura organizacional, una lección aplicable a la gestión de equipos de IA y operaciones."
-    },
-    {
-      "title": "Miriam García Pascual, el mito de la alpinista que murió joven y dejó por testamento un libro devorado por varias generaciones",
-      "url": "https://elpais.com/deportes/el-montanista/2026-08-23/miriam-garcia-pascual-el-mito-de-la-alpinista-que-murio-joven-y-dejo-por-testamento-un-libro-devorado-por-varias-generaciones.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/3HX6KHJ45FB2NPZWTXVGNUFFHQ.jpg?auth=18f58df7735b97cc464252864141b75262b62d924a50f818c06624d0bce12f77",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "La figura de la escaladora española Miriam García Pascual mantiene su relevancia cultural e histórica gracias a su obra 'Bájame una estrella', editada tras su prematuro fallecimiento. El texto inauguró la trayectoria de la editorial especializada Desnivel, consolidándose como un fenómeno de culto dentro de la literatura de montaña española.",
-      "datos": [
-        "Título de la obra: 'Bájame una estrella'.",
-        "Autora: Miriam García Pascual.",
-        "Año de primera publicación: 1991.",
-        "Volumen de ventas: Más de 35.000 ejemplares comercializados.",
-        "Hito editorial: Primer título publicado en la historia de Ediciones Desnivel.",
-        "Posicionamiento: Libro de referencia histórico dentro del catálogo de la editorial."
-      ],
-      "conclusion": "El caso evidencia cómo una obra testimonial de nicho puede convertirse en un activo editorial de largo recorrido y cimentar la viabilidad de una marca especializada."
-    },
-    {
-      "title": "El sustituto del ‘late night’ de Stephen Colbert: de la sátira contra Trump a los chistes inocuos",
-      "url": "https://elpais.com/television/2026-08-23/el-sustituto-del-late-night-de-stephen-colbert-de-la-satira-contra-trump-a-los-chistes-inocuos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ILUAKSR55VG3BLR4SV7G4GDSUA.jpg?auth=c543887843c5ace26b5636f9532079fef9b502a21d7a188b2bf1b5b2acfe99c8",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "El formato 'Comics Unleashed' asume el espacio de 'late night' anteriormente ocupado por Stephen Colbert en la televisión estadounidense. La producción opta por un elenco de comediantes enfocado en chistes convencionales e inofensivos, apartándose de la sátira política que caracterizó la etapa previa. Esta transición refleja un giro en la programación nocturna hacia contenidos diseñados para evitar fricciones ideológicas.",
-      "datos": [
-        "Título del nuevo formato: 'Comics Unleashed'.",
-        "Conductor y referente del espacio anterior: Stephen Colbert.",
-        "Enfoque editorial previo: sátira y crítica política directa, con foco recurrente en Donald Trump.",
-        "Nuevo perfil de contenido: comedia blanca y neutral orientada a no generar polarización.",
-        "Mercado y medio afectado: franja de 'late night' en la televisión generalista de Estados Unidos."
-      ],
-      "conclusion": "La decisión ilustra un giro estratégico en la televisión tradicional hacia la aversión al riesgo comercial, priorizando formatos de bajo conflicto frente al desgaste de la polarización política."
-    },
-    {
-      "title": "De Cicerón a Marina d’Or, auge y caída de la cultura de la segunda residencia",
-      "url": "https://elpais.com/estilo-de-vida/2026-08-23/de-ciceron-a-marina-dor-auge-y-caida-de-la-cultura-de-la-segunda-residencia.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/VG2NIG2SFJDTBAIWZGUU6X4NKE.jpg?auth=a0cd08dbc15d6c2bf0ce4ed51877a7a6e979da3117d259c6c023788fce6b2103&width=1200",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "El texto recorre la evolución histórica de la segunda residencia, desde las villas de la élite romana en el golfo de Nápoles hasta la masificación de casas de vacaciones en la España de finales del siglo XX, señalando hitos clave que transformaron un privilegio en un producto de consumo. Destaca la influencia de Estados Unidos con los Leisurama Homes y la adopción del concepto en la cultura española, donde el Instituto Nacional de Estadística formalizó el término en 1989.",
-      "datos": [
-        "Cicerón describió la bahía de Nápoles como \"cratera illum delicatum\" y poseía varias villas allí",
-        "El descubrimiento de Pompeya ocurrió en 1748, revelando el estilo de vida de los patricios romanos",
-        "En 1959 el Gobierno de Eisenhower encargó al arquitecto Andrew Geller diseñar la casa típica americana para la American National Exhibition de Moscú",
-        "Macy’s compró la patente y lanzó en 1964 las Leisurama Homes, viviendas de 60‑100 m² vendidas por 13 000 USD (≈120 000 EUR actuales)",
-        "La Douglas Fir Plywood Association popularizó el término \"Second Homes for Leisure Living\" en la década de 1960",
-        "El Instituto Nacional de Estadística utilizó por primera vez la expresión \"segunda residencia\" en un estudio publicado en la revista Paralelo 37º en 1989"
-      ],
-      "conclusion": "Comprender que la segunda residencia es una práctica milenaria ayuda a anticipar tendencias de demanda y a diseñar ofertas que respondan a ciclos de ocio y desconexión, esenciales para la planificación operativa y de negocio."
-    },
-    {
-      "title": "Diez recetas rápidas para terminar agosto sin esfuerzo",
-      "url": "https://elpais.com/gastronomia/el-comidista/2026-08-23/diez-recetas-rapidas-para-terminar-agosto-sin-esfuerzo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/R2NS55N2UVDVVNYKE23KTCNQCA.jpg?auth=2a0e855d3a7763df7ecb767d2d0c0f0114a4370e692a763f41ee358aba20a4bd&width=1200",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Se publicaron diez recetas rápidas para terminar el mes de agosto, dirigidas a personas con poco tiempo o ganas de cocinar. Ofrecen opciones frías y calientes que pueden prepararse en minutos y son aptas para llevar o consumir sin encender la cocina.",
-      "datos": [
-        "La vinagreta de la sopa fría de zoque malagueño se elabora con tomate como ingrediente principal",
-        "El libro citado es \"Sal, grasa, ácido, calor\" de Samin Nosrat",
-        "La sopa fría de zoque incluye tomate, pimiento y zanahoria, y lleva picatostes y queso feta",
-        "Se recomienda reposar la sopa 15‑20 minutos en la nevera antes de servir",
-        "La strapatsada, también llamada kagianas, consiste en huevos revueltos con tomate y se consume en cualquier momento del día",
-        "La muddica, conocida como \"el queso de los pobres\", es pan rallado tostado usado como sustituto económico del parmesano"
-      ],
-      "conclusion": "Estas recetas permiten a los profesionales ahorrar tiempo y mantener una alimentación variada y saludable al final del verano, facilitando la planificación de comidas sin necesidad de cocinar extensamente."
-    },
-    {
-      "title": "Cartas desde un barco de rescate en el Mediterráneo: “Ahora me siento feliz, seguro y libre”",
-      "url": "https://elpais.com/planeta-futuro/2026-08-23/cartas-desde-un-barco-de-rescate-en-el-mediterraneo-ahora-me-siento-feliz-seguro-y-libre.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/Z7TVW6HSOBB27PWHQSVN2QHUJY.jpg?auth=1f3e0fa5ec17b1c0d650953fde6a908cfb051100d49df25a0d06f246c22e75fc&width=1200",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Seis migrantes somalíes que partieron de Libia cruzaron el Mediterráneo Central y fueron rescatados por la ONG Open Arms durante su trayecto hacia Salerno. Las cartas que redactaron describen sus aspiraciones y proyectos de futuro.",
-      "datos": [
-        "Seis personas fueron rescatadas",
-        "Los migrantes eran de nacionalidad somalí",
-        "Partieron de Libia y cruzaron el Mediterráneo Central",
-        "Fueron recogidos por la organización no gubernamental Open Arms",
-        "El destino final del viaje fue la ciudad italiana de Salerno",
-        "Durante el rescate los migrantes escribieron cartas describiendo sus sueños y proyectos"
-      ],
-      "conclusion": "El episodio evidencia la peligrosidad continua de la ruta del Mediterráneo Central y subraya la relevancia de la asistencia humanitaria de ONG como Open Arms para proporcionar seguridad y una voz a los migrantes."
-    },
-    {
-      "title": "Anthropic y OpenAI ponen a prueba el furor inversor por la IA tras la estela de SpaceX",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-23/anthropic-y-openai-ponen-a-prueba-el-furor-inversor-por-la-ia-tras-la-estela-de-spacex.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/NTPYZINRG5FUBG2IR6RDJGKNTY.jpg?auth=2b5a150755fccc4e2b4393887694233fd23b1422fafb4b476a41bccbe537320b",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Anthropic y OpenAI están preparando sus ofertas públicas de venta, que se sumarán a las tres mayores OPV que Wall Street recibirá en los próximos meses. Las operaciones llegan en un momento en que los inversores buscan capitalizar el entusiasmo por la IA, mientras los laboratorios enfrentan presiones de rentabilidad y la competencia de compañías chinas.",
-      "datos": [
-        "Anthropic y OpenAI planifican sus OPV",
-        "Wall Street acogerá las tres mayores OPV de la historia",
-        "Las OPV se realizarán con una diferencia de varios meses",
-        "Los retos incluyen la rentabilidad y la competencia china",
-        "Los dos laboratorios involucrados son Anthropic y OpenAI"
-      ],
-      "conclusion": "Estas OPV inyectarán cientos de millones en el sector, acelerando la carrera por la rentabilidad y obligando a los actores a diferenciarse frente a la competencia china; los gestores deben anticipar cambios en la disponibilidad de financiación y en la valoración de proyectos de IA."
-    },
-    {
-      "title": "Lugares sobrevalorados: el bosque de bambú de Arashiyama, en Japón, que es solo un paseo",
-      "url": "https://elpais.com/elviajero/viajes-paco-nadal/2026-08-23/lugares-sobrevalorados-el-bosque-de-bambu-de-arashiyama-en-japon-que-es-solo-un-paseo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/2MIVXVJLONFL5O7LGYV4V75IJY.jpg?auth=c346cdd94279daf82f7daecbcc5df695caa94ddceb6213dc38c18a26d2d2b5cd&width=1200",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "El artículo señala que el bosque de bambú de Arashiyama, promocionado como imprescindible, es en realidad un paseo de apenas 250 m rodeado de multitudes, y advierte que su encanto se pierde una vez que el número de visitantes supera las ocho de la mañana. Además, recomienda llegar muy temprano o considerar otros bosques de bambú menos masificados en la zona de Kioto para una experiencia más auténtica.",
-      "datos": [
-        "El recorrido del bosque está limitado a 250 metros de camino pavimentado",
-        "El Pabellón Dorado (Kinkaku‑Ji) fue mandado construir por el shogun Ashikaga Yoshimitsu en 1397",
-        "El templo Tenryu‑ji, también en Arashiyama, fue fundado en 1339",
-        "El bosque se llena de turistas a partir de las 8:00 a.m., cuando la afluencia alcanza su máximo",
-        "Existen bosques de bambú más extensos y menos concurridos en Takenomichi (distrito de Muko) y en Nishikyo‑ku, a 15 min en tren del centro de Kioto"
-      ],
-      "conclusion": "Visitar el bosque antes de las ocho de la mañana o elegir los otros bosques de bambú cercanos permite evitar la masificación y obtener el valor esperado del entorno natural."
-    },
-    {
-      "title": "Cómo saber si un restaurante tailandés es tradicional: el sello de la embajada que lo certifica",
-      "url": "https://elpais.com/gastronomia/2026-08-23/como-saber-si-un-restaurante-tailandes-es-tradicional-el-sello-de-la-embajada-que-lo-certifica.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/FAIJ7B7545CM5ENILGUUVPR764.jpg?auth=217672a1f0898209ac899a8ef85900e6b6ae3ab56d5d9b942c6fc0e4335d8c28",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "El Ministerio de Comercio de Tailandia ha lanzado el sello Thai SELECT para validar la autenticidad de los restaurantes tailandeses, tanto en el país como en el extranjero. El programa establece criterios de cocina tradicional y uso de ingredientes locales para otorgar la certificación.",
-      "datos": [
-        "Sello llamado Thai SELECT",
-        "Concedido por el Ministerio de Comercio de Tailandia",
-        "Certifica restaurantes tailandeses dentro de sus fronteras",
-        "Certifica restaurantes tailandeses fuera de sus fronteras"
-      ],
-      "conclusion": "Obtener el sello brinda a los establecimientos una prueba verificable de autenticidad, lo que puede diferenciar su oferta y facilitar la atracción de clientes y la expansión a nuevos mercados."
-    },
-    {
-      "title": "Entre el bum y el riesgo de burbuja: el futuro de los centros de datos en España",
-      "url": "https://cincodias.elpais.com/companias/2026-08-23/entre-el-bum-y-el-riesgo-de-burbuja-el-futuro-de-los-centros-de-datos-en-espana.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/NUDW37S3ENFOLECHJUI67RUILE.jpg?auth=6bac37f94948639d992bab4ce3bc8fce5f9c9fff7895e3b90ab6ef07ba14cb1d&width=1200",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Submer destinó alrededor de 1.000 millones de euros para convertir la antigua fábrica electroquímica de Flix, en Tarragona, en un centro de datos, generando unos 150 puestos de trabajo cualificados. La iniciativa se enmarca en un plan nacional que busca ampliar la capacidad de centros de datos en España y Portugal, aunque ya existen dudas sobre una posible sobreoferta.",
-      "datos": [
-        "La fábrica de Flix cerró el 31 de diciembre de 2022 y el pantano contaminado se descontaminó en 2023.",
-        "Submer anunció la inversión de 1.000 millones de euros en julio de 2024 y la creación de 150 empleos.",
-        "CBRE estima que los proyectos anunciados podrían alcanzar 10,5 GW (85 % España, 15 % Portugal) y requerirían 100.000 millones de euros de inversión.",
-        "Elliot Zounon, de CBRE, considera razonable que se ejecuten 4,4 GW, menos de la mitad de lo anunciado.",
-        "Actualmente solo 1,2 GW de capacidad están construidos o en construcción en España.",
-        "La ministra Sara Aagesen, en marzo de 2026, señaló que el propio sector percibe una posible burbuja por la diferencia entre gigavatios requeridos y permisos eléctricos."
-      ],
-      "conclusion": "El proyecto ilustra la magnitud de la apuesta española por la infraestructura de IA, pero también subraya la necesidad de calibrar la inversión con la demanda real para evitar sobrecapacidad y pérdidas financieras."
-    },
-    {
-      "title": "Trump’s Top Trade Representative Details Offer That Canada Rejected",
-      "url": "https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html",
-      "image": "https://static01.nyt.com/images/2026/08/22/multimedia/22dc-greer-qbjk/22dc-greer-qbjk-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "U.S. Trade Representative Jamieson Greer disclosed the terms the United States had proposed to Canada, but the Canadian side turned them down, causing the negotiations to break down. The comments were made in a recent interview.",
-      "datos": [
-        "Jamieson Greer is the United States Trade Representative appointed by President Donald Trump.",
-        "The interview was published on August 23, 2026.",
-        "Greer said the United States had presented a trade offer to Canada prior to the collapse of talks.",
-        "Canada rejected the U.S. proposal, leading to the termination of the negotiations.",
-        "The discussion pertained to bilateral trade issues between the United States and Canada."
-      ],
-      "conclusion": "The rejection signals heightened trade tensions and suggests the United States may pursue alternative strategies or pressure tactics in North American trade policy."
-    },
-    {
-      "title": "Un terremoto de magnitud 5,9 sacude la región de Tokio",
-      "url": "https://elpais.com/internacional/2026-08-22/un-terremoto-de-magnitud-59-sacude-la-region-de-tokio.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/32BMPBRJ25NFNKHQEVCEELKNP4.jpg?auth=1aebd0243348abc47cf4fb7561793a47158ac0e23e788f4211d8fc9b882c2676",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Un sismo de 5,9 sacudió la zona metropolitana de Tokio sin generar alerta de tsunami. Las autoridades aún no reportan víctimas ni daños materiales.",
-      "datos": [
-        "Magnitud 5,9 según la Agencia Meteorológica de Japón",
-        "Epicentro ubicado en la región de Tokio",
-        "La Agencia Meteorológica de Japón declaró que no hay alerta de tsunami",
-        "No se han comunicado daños personales",
-        "Informe emitido el 23 de agosto de 2026"
-      ],
-      "conclusion": "El evento indica que, pese a la magnitud, el riesgo inmediato es bajo, pero se recomienda vigilar réplicas y reforzar los protocolos de respuesta operativa."
-    },
-    {
-      "title": "Ceuta duplica esfuerzos para templar ánimos y ubicar a los migrantes",
-      "url": "https://elpais.com/espana/2026-08-22/los-migrantes-de-ceuta-aceptan-los-espacios-de-acogida-pero-aun-recelan-de-que-sean-una-trampa.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/EMVTYVRDZJOGNG4PA2Q4ZSQ6UE.jpg?auth=7b787e99b753c056ef26a45beddf7812f83fce6484e96ea553001e051f763299",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Las autoridades de Ceuta han intensificado sus acciones para calmar la comunidad y encontrar alojamientos para los migrantes, impulsadas por la cercanía del inicio del curso escolar y la creciente preocupación de los vecinos.",
-      "datos": [
-        "Ceuta, ciudad autónoma española en el norte de África, está gestionando la llegada de migrantes.",
-        "El gobierno local ha anunciado la duplicación de recursos para la búsqueda de centros de acogida.",
-        "El inicio del curso escolar está previsto para principios de septiembre de 2026.",
-        "Los vecinos han expresado recelo ante la ubicación de los alojamientos temporales.",
-        "Se teme que la tensión entre la población local y los migrantes pueda escalar."
-      ],
-      "conclusion": "El aumento de la presión migratoria justo antes del inicio del año escolar podría generar conflictos sociales en Ceuta, por lo que es crucial coordinar la ubicación de los centros de acogida para evitar interrupciones en la convivencia y en la educación."
-    },
-    {
-      "title": "Carney Slams U.S.-Canada Trade Proposal and Vows Retaliation",
-      "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html",
-      "image": "https://static01.nyt.com/images/2026/08/22/multimedia/22int-canada-carney-SUB-pfhq/22int-canada-carney-SUB-pfhq-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Canada’s leader halted ongoing trade negotiations with the United States after the U.S. imposed new tariffs, delivering a televised address that warned of reciprocal measures.",
-      "datos": [
-        "Mark Carney, identified as Prime Minister, gave a speech to Canadians on Saturday morning",
-        "He ordered negotiators to suspend U.S.-Canada trade talks hours earlier",
-        "The suspension follows President Donald Trump’s recent implementation of punitive tariffs on Canadian goods",
-        "Carney announced that Canada will consider retaliation against the U.S. tariffs"
-      ],
-      "conclusion": "The pause in talks escalates trade tensions and signals that Canadian businesses may face new barriers unless the tariff dispute is resolved."
-    },
-    {
-      "title": "Los incendios que Aragón ya no puede apagar: más combustible, más velocidad y menos capacidad de extinción",
-      "url": "https://www.eldiario.es/aragon/sociedad/incendios-aragon-no-apagar-combustible-velocidad-capacidad-extincion_1_13459643.html",
-      "image": "https://static.eldiario.es/clip/f8dcdf34-850c-4d6a-ba22-d4a9c3577071_facebook-watermarked-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "que_paso": "Este verano Aragón ha sufrido una serie de incendios forestales que superan ampliamente los umbrales de gran incendio, agotando la capacidad de los cuerpos de extinción y obligando a evacuar a cientos de residentes. Los focos más críticos se iniciaron en Tamarite de Litera, Leciñena, Orés, Ejulve y Peñas de Riglos, con propagación extremadamente rápida y daños a patrimonio histórico.",
-      "datos": [
-        "Más de 40.000 hectáreas quemadas en total durante el verano en Aragón",
-        "El incendio de Tamarite de Litera a finales de junio quemó más de 4.500 hectáreas y provocó el desalojo de cientos de personas",
-        "El fuego de Peñas de Riglos quemó entre 14.000 y 15.000 hectáreas, con un perímetro superior a 18.000 metros y evacuó a 19 localidades y alrededor de 1.000 vecinos",
-        "En el incendio de Peñas de Riglos la llama avanzó 3 km en 45 minutos y la distancia entre el origen y puntos lejanos supera los 20 km en línea recta",
-        "Lourdes Muñoz, bombera forestal, declaró: “En media hora ya era incontrolable”",
-        "Roberto Bermúdez de Castro, consejero de Interior, calificó el incendio de Peñas de Riglos como “el peor del verano”"
-      ],
-      "conclusion": "Los incendios demuestran que la acumulación de combustible y las condiciones climáticas extremas están superando la capacidad operativa actual, lo que obliga a reforzar la planificación de recursos y medidas preventivas para proteger población y patrimonio."
-    },
-    {
-      "title": "Los ‘temporeros’ cristianos que conquistaron Ibiza: una ‘startup’ medieval con inversores, socios y 800 campesinos",
-      "url": "https://www.eldiario.es/illes-balears/sociedad/temporeros-cristianos-conquistaron-ibiza-startup-medieval-inversores-socios-800-campesinos_1_13452260.html",
-      "image": "https://static.eldiario.es/clip/f135c605-ad90-4bab-912c-7d63662503e8_facebook-watermarked-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "que_paso": "El texto relata cómo, entre los años 1960 y mediados de los 80, cientos de campesinos del sur de la península (andaluces, extremeños, manchegos y murcianos) se desplazaban cada verano a Ibiza para trabajar en la industria turística, comparando ese flujo estacional con la conquista cristiana de la isla en 1235. La historia es narrada por José María Prats Marí, ex‑oficial de la Armada que ha investigado ambos periodos y sus mecanismos de reclutamiento y reparto de beneficios.",
-      "datos": [
-        "La conquista de Ibiza se realizó en 1235.",
-        "Aproximadamente 800 campesinos temporeros trabajaron en Ibiza durante el boom turístico.",
-        "El movimiento estacional se extendió desde principios de los años 60 hasta mediados de los 80.",
-        "Los temporeros provenían de Andalucía, Extremadura, Castilla‑La Mancha y Murcia.",
-        "José María Prats Marí, oficial del Cuerpo General de la Armada, transportó correos lacrados para el ministro de Defensa Narcís Serra en agosto de 1990 durante la primera Guerra del Golfo."
-      ],
-      "conclusion": "El paralelismo muestra que la movilización de mano de obra estacional mediante incentivos financieros tiene raíces históricas profundas, lo que ayuda a los gestores a diseñar contratos y motivaciones más eficaces para equipos temporales."
-    },
-    {
-      "title": "Ceuta ha sido el mayor fracaso del Gobierno de la legislatura",
-      "url": "https://www.eldiario.es/opinion/zona-critica/ceuta-sido-mayor-fracaso-gobierno-legislatura_129_13461871.html",
-      "image": "https://static.eldiario.es/clip/14406d48-5039-48d8-bf01-ab80ad6ecab9_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "que_paso": "El 31 de julio de 2026 Marruecos provocó una oleada migratoria hacia Ceuta, generando una crisis humanitaria que el Gobierno español aún no ha resuelto. El presidente Pedro Sánchez y el ministro de Asuntos Exteriores José Manuel Albares han emitido declaraciones, pero no han presentado un plan concreto para gestionar la relación con Marruecos ni la situación de los migrantes.",
-      "datos": [
-        "31 de julio de 2026 se registró un ataque migratorio desde Marruecos a Ceuta",
-        "Pedro Sánchez declaró que España sufrió un ataque en Ceuta el 31 de julio sin mencionar a Marruecos",
-        "José Manuel Albares aludió a la sentencia del Tribunal Supremo sobre devoluciones en caliente al explicar el suceso",
-        "La crisis afecta a migrantes, solicitantes de asilo y menores en vulnerabilidad, así como a ciudadanos de Ceuta que no han recuperado la normalidad",
-        "Hasta la fecha no se ha presentado un plan gubernamental ni se ha mencionado a Marruecos en las declaraciones oficiales"
-      ],
-      "conclusion": "La falta de una respuesta estructurada evidencia un riesgo operativo y reputacional para la gestión fronteriza; las empresas y organismos deben anticipar posibles interrupciones y planificar contingencias ante la inestabilidad geopolítica en la zona."
-    },
-    {
-      "title": "¿Hemos sido psoeizados?",
-      "url": "https://www.eldiario.es/opinion/zona-critica/hemos-sido-psoeizados_129_13461717.html",
-      "image": "https://static.eldiario.es/clip/2dca4339-9ee3-4a23-8032-1395ab7aade0_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "que_paso": "El ministro de Transportes, Óscar Puente, publicó un mensaje polémico en la red social X que provocó un debate interno sobre la tolerancia de la izquierda a sus propios miembros. El texto cuestiona si la izquierda española ha adoptado una estrategia de “psoeización” para sobrevivir al avance de la ultraderecha, señalando tensiones entre la crítica de la derecha y la autocrítica del propio PSOE.",
-      "datos": [
-        "Óscar Puente, ministro de Transportes, utilizó la plataforma X para expresar su opinión.",
-        "El mensaje de Puente recibió críticas tanto de la derecha como de sectores de la izquierda.",
-        "Pedro Sánchez es mencionado como el presidente del PSOE y último bastión contra la ultraderecha.",
-        "El artículo alude al auge de la ultraderecha en Europa y en España sin proporcionar cifras concretas.",
-        "Se plantea que la izquierda podría haber perdido la capacidad de autocrítica interna."
-      ],
-      "conclusion": "El episodio evidencia una fractura interna que puede debilitar la capacidad de la izquierda para contrarrestar la ultraderecha; la lección práctica es que la autocrítica abierta es esencial para la cohesión y la efectividad política."
-    },
-    {
-      "title": "El 'Cinema Paradiso' de Madrid que sobrevive a lo Times Square: \"Era la única forma de no convertirse en otro Zara\"",
-      "url": "https://www.eldiario.es/madrid/somos/cinema-paradiso-madrid-sobrevive-times-square-unica-forma-no-convertirse-zara_1_13454053.html",
-      "image": "https://static.eldiario.es/clip/aa07f931-8157-4d5e-8f6b-e489091cd196_facebook-watermarked-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "que_paso": "Josué Reyzábal, nacido en 1980, asumió la dirección ejecutiva de los Cines Callao y, junto a su madre y hermana, está transformando el histórico recinto de la Gran Vía en una plaza con pantallas LED y eventos comerciales para mantener su viabilidad. El objetivo es combinar la herencia centenaria del cine con marcas y tecnología moderna, evitando que el espacio se convierta en un simple local de retail como ocurre con otras ubicaciones emblemáticas de Madrid.",
-      "datos": [
-        "El edificio de los Cines Callao se inauguró el 11 de diciembre de 1926",
-        "En 1929 proyectó \"El cantor de jazz\", la primera película sonora y hablada estrenada en España",
-        "En 1930 se exhibió \"El cuerpo del delito\", la primera película hablada en español",
-        "En 1935 se proyectó la primera película en color en España en ese cine",
-        "En 1953 se mostró \"Bwana, diablo de la selva\", la primera cinta en 3D del país",
-        "La obra original, diseñada por Luis Gutiérrez Soto, se ejecutó en poco más de siete meses a principios de los años 20"
-      ],
-      "conclusion": "El caso ilustra cómo un negocio cultural centenario puede adaptarse mediante la integración de marcas y tecnología, ofreciendo a los gestores operativos una hoja de ruta para preservar la relevancia sin sacrificar la rentabilidad."
-    },
-    {
-      "title": "De Almaraz a Ascó y Vandellós: se reabre el melón de alargar la vida a las nucleares catalanas",
-      "url": "https://www.eldiario.es/catalunya/almaraz-asco-vandellos-reabre-melon-alargar-vida-nucleares-catalanas_1_13457711.html",
-      "image": "https://static.eldiario.es/clip/71ca3971-d5da-48c0-9e92-23d7dd64981d_facebook-watermarked-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "que_paso": "Se ha aprobado la prórroga hasta 2030 de la central nuclear de Almaraz, lo que ha reactivado el debate sobre alargar la vida útil de las nucleares catalanas de Ascó y Vandellós. Los alcaldes de ambos municipios defienden la extensión por motivos de empleo y estabilidad de la red, mientras el Govern de Catalunya se mantiene neutral.",
-      "datos": [
-        "Ascó I cerrará en 2030, Ascó II en 2032 y Vandellós II en 2035",
-        "Almaraz I y II también se han extendido hasta 2030, al igual que Cofrentes",
-        "Cataluña alberga tres de los siete reactores nucleares de España, todos en la provincia de Tarragona",
-        "Las centrales de Ascó y Vandellós emplean a unas 3.000 personas directas",
-        "Los tres emplazamientos están separados por aproximadamente 600 kilómetros"
-      ],
-      "conclusion": "La posible extensión de las nucleares catalanas condicionará la seguridad energética y la competitividad industrial, al tiempo que influirá en la asignación de fondos de transición nuclear para la región."
-    },
-    {
-      "title": "El juicio contra Meta por causar adicción a los menores busca repetir la historia que tumbó el muro de las tabaqueras",
-      "url": "https://www.eldiario.es/tecnologia/juicio-meta-causar-adiccion-menores-busca-repetir-historia-tumbo-muro-tabaqueras_1_13460631.html",
-      "image": "https://static.eldiario.es/clip/f4706032-06f0-4b77-9601-af4c5e93a805_facebook-watermarked-aspect-ratio-1200-675_default_0_x1143y639.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "que_paso": "El juicio contra Meta comenzó esta semana en Oakland, California, impulsado por los estados de California, Nueva Jersey, Colorado y Kentucky, que acusan a la compañía de diseñar Instagram y Facebook sabiendo sus efectos nocivos en menores. El caso replica la estrategia legal que en los años 90 limitó a la industria tabacalera, enfocándose en prácticas sistemáticas de enganche de menores.",
-      "datos": [
-        "La demanda presentada tiene 233 páginas.",
-        "Los demandantes son los estados de California, Nueva Jersey, Colorado y Kentucky.",
-        "En la década de 1990 la industria tabacalera había ganado más de 800 demandas privadas antes del acuerdo estatal.",
-        "El personaje publicitario Joe Camel fue lanzado en 1988.",
-        "En 2022 se reveló que el algoritmo de Facebook incitaba a chicas a trastornos alimentarios.",
-        "Un memorando interno mostró que 1 de cada 3 adolescentes que usaba Instagram se sentía peor con su cuerpo."
-      ],
-      "conclusion": "El caso podría obligar a Meta a modificar sus algoritmos y prácticas de diseño para reducir el daño en menores, lo que implicará mayores costos de cumplimiento y riesgos regulatorios; para los gestores de operaciones, el precedente subraya la necesidad de integrar métricas de bienestar en el desarrollo de productos de IA."
-    },
-    {
-      "title": "For Some in a Disrupted D.C., Grand Prix Is More Irritation Than Celebration",
-      "url": "https://www.nytimes.com/2026/08/22/us/politics/dc-grand-prix-indycar-traffic-damage.html",
-      "image": "https://static01.nyt.com/images/2026/08/22/multimedia/22dc-disruption-hmvp/22dc-disruption-hmvp-mediumSquareAt3X-v2.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Race preparations for the Washington, D.C. Grand Prix have clogged city streets, diverted airline routes, and prompted the National Gallery of Art to run vibration tests to assess potential damage. The disruptions affect commuters, travelers, and cultural institutions in the capital.",
-      "datos": [
-        "Traffic congestion has increased in Washington, D.C. due to race preparations.",
-        "Several flights were rerouted around the city as a result of the event.",
-        "The National Gallery of Art was required to conduct vibration testing.",
-        "The disruptions are linked to the upcoming Grand Prix street race in the capital."
-      ],
-      "conclusion": "The operational impact underscores the need for coordinated planning between event organizers and city services to mitigate traffic and infrastructure risks."
-    },
-    {
-      "title": "How the Billionaire Joe Lonsdale Shaped Trump’s Homelessness Policy",
-      "url": "https://www.nytimes.com/2026/08/22/us/politics/homelessness-lonsdale-billionaire-trump.html",
-      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/dc-cicero-2-hpvq/dc-cicero-2-hpvq-mediumSquareAt3X-v2.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "The Cicero Institute, a policy group founded by venture capitalist Joe Lonsdale, has been steering the Trump administration’s new approach to homelessness. Its recommendations have helped shape Republican‑backed initiatives that aim to clear streets of encampments.",
-      "datos": [
-        "Joe Lonsdale is a venture capitalist and founder of the Cicero Institute.",
-        "The Cicero Institute is a Republican‑aligned policy organization.",
-        "Republicans have recently adopted aggressive measures to clear homeless encampments from public streets.",
-        "The institute has been identified as the leading group influencing the Trump administration’s homelessness strategy."
-      ],
-      "conclusion": "The involvement of a venture‑capital‑backed think tank illustrates how private sector actors can direct public policy, indicating future homelessness initiatives may prioritize enforcement over service provision."
-    },
-    {
-      "title": "Carney Stands Up to Trump in U.S.-Canada Trade War",
-      "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html",
-      "image": "https://static01.nyt.com/images/2026/08/22/multimedia/22int-canada-trade-analysis-SUB-hpcv/22int-canada-trade-analysis-SUB-hpcv-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Canada’s prime minister rejected a pending trade agreement with the United States, describing it as unfavorable. The move sparked both public backing in Canada and concerns about higher costs for Canadian businesses.",
-      "datos": [
-        "Canada’s prime minister rejected a proposed trade agreement with the United States",
-        "The prime minister labeled the deal as bad for Canada",
-        "Many Canadians expressed support for the decision",
-        "Analysts warned the withdrawal will increase costs for Canadian exporters",
-        "The dispute occurs amid broader U.S.-Canada trade tensions"
-      ],
-      "conclusion": "The stance signals Canada will defend its terms even at economic cost, urging businesses to anticipate higher trade expenses and adjust supply‑chain strategies."
-    },
-    {
-      "title": "Pandilleros de la Mara Salvatrucha afirman que sepultaron a 200 personas en la cuna política de Bukele",
-      "url": "https://elpais.com/america/2026-08-22/pandilleros-de-la-mara-salvatrucha-afirman-que-sepultaron-a-200-personas-en-la-cuna-politica-de-bukele.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/SFSRUS3CRJFQXKTDA2PPTV5WHY.jpg?auth=97bfc377ad022b264cd63a18bc87b7339cf7c192a46ee3a9dc558b5e30523db9&width=1200",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Tres miembros de la Mara Salvatrucha, bajo los nombres clave Bosnia, Berlín y Suecia, confesaron en el juicio masivo contra 486 presuntos líderes que entre 2013 y 2021 enterraron a más de 200 víctimas en la Finca Suiza, zona que fue escenario de los inicios políticos de Nayib Bukele y que ahora se urbaniza como zona de lujo. La declaración se dio en un proceso judicial bajo excepción, con presencia de medios y sin revelar todos los detalles del caso.",
-      "datos": [
-        "Los tres testigos, identificados como Bosnia, Berlín y Suecia, declararon ante el juicio masivo de 486 presuntos líderes de la MS‑13.",
-        "Entre 2013 y 2021 la pandilla torturó, asesinó y enterró a más de 200 personas en la Finca Suiza, en el municipio de Nuevo Cuscatlán.",
-        "Hasta el momento, las autoridades han encontrado 21 cuerpos completos y un número no determinado de restos óseos en ese mismo terreno.",
-        "El proceso se lleva a cabo bajo el régimen de excepción, con audiencias abiertas a medios e influenciadores mientras otras se celebran a puerta cerrada.",
-        "Sobre la Finca Suiza se está construyendo desde hace varios años una urbanización de lujo."
-      ],
-      "conclusion": "El hallazgo revela la magnitud de los crímenes de la MS‑13 y su vínculo con un territorio políticamente simbólico, lo que complica la rendición de cuentas y plantea riesgos de impunidad mientras se prioriza el desarrollo inmobiliario sobre la memoria de las víctimas."
-    },
-    {
-      "title": "Caminar mirando el móvil no solo te distrae: la ciencia demuestra que altera tu forma de andar y dispara el estrés",
-      "url": "https://www.xataka.com/medicina-y-salud/caminar-mirando-movil-no-solo-te-distrae-ciencia-demuestra-que-altera-tu-forma-andar-dispara-estres",
-      "image": "https://i.blogs.es/f0f87e/pasear-movil/840_560.jpeg",
-      "source": "Xataka",
-      "language": "es",
-      "que_paso": "Investigadores de la Universidad de Auckland y autores de un estudio publicado en PLOS ONE analizaron a peatones que utilizaban el smartphone mientras caminaban y observaron alteraciones en la marcha y aumentos hormonales. Los resultados muestran que la multitarea en movimiento reduce la velocidad, acorta la longitud del paso y eleva los niveles de cortisol, contrarrestando los beneficios habituales de una caminata. El hallazgo se enmarca en la creciente preocupación por la hiperconectividad y sus efectos en la salud física y mental.",
-      "datos": [
-        "El estudio en PLOS ONE encontró que los usuarios de móvil mientras caminan disminuyen la velocidad y la longitud del paso, y aumentan la variabilidad y el tiempo de apoyo",
-        "Investigaciones de la Universidad de Auckland registraron picos de cortisol al caminar usando el teléfono, anulando la mejora del estado de ánimo típica de la caminata",
-        "Los análisis epidemiológicos sitúan el umbral de riesgo de pantalla en 3‑4 horas diarias, con aumento marcado de depresión y estrés por encima de ese límite",
-        "Ensayos controlados demostraron que limitar el uso de redes sociales a 30 minutos al día durante tres semanas reduce drásticamente la soledad y los síntomas depresivos",
-        "Participar en una \"semana sin smartphone\" produce aumentos notables en la satisfacción vital y mejoras medibles en la calidad del sueño al desactivar notificaciones y limitar el uso a 1‑2 horas"
-      ],
-      "conclusion": "Caminar sin el móvil reduce el estrés fisiológico y mejora la calidad del sueño, lo que puede traducirse en mayor concentración y productividad en el trabajo. Incorporar pausas digitales estructuradas es una intervención de bajo costo con beneficios medibles para la salud y el rendimiento."
-    },
-    {
-      "title": "Doodle generative compositions in your browser with Musical Spirograph",
-      "url": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-21-at-2.49.24-PM.png?quality=90&strip=all&crop=2.1844993141289%2C0%2C95.631001371742%2C100&w=1200",
-      "source": "The Verge",
-      "language": "en",
-      "que_paso": "A developer introduced Musical Spirograph, a browser‑based tool that draws mathematical hypotrochoid and epitrochoid patterns while generating music from points passing through concentric rings. The app lets users customize visual and sonic parameters in real time, but it lacks MIDI output and suffers from audio clipping.",
-      "datos": [
-        "The interface offers six virtual rotors to choose from",
-        "Users can run up to three arms simultaneously",
-        "There are six built‑in scale options and six synth presets",
-        "The number of rings can be expanded to cover two octaves",
-        "The sound engine is prone to clipping and artifacts",
-        "MIDI output is not supported"
-      ],
-      "conclusion": "The tool showcases how complex generative music can be created entirely in a browser, useful for rapid prototyping, yet its audio quality and integration limits restrict professional use."
-    },
-    {
-      "title": "En 2007 empezaron a reciclar las conchas vacías de ostra de los restaurantes de Florida. Hoy han recuperado ya 97 arrecifes",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/2007-empezaron-a-reciclar-conchas-restaurantes-florida-hoy-mosquito-lagoon-ha-recuperado-97-arrecifes-ostra",
-      "image": "https://i.blogs.es/c8c4a5/ostriii/840_560.jpeg",
-      "source": "Xataka",
-      "language": "es",
-      "que_paso": "En Mosquito Lagoon, Florida, la bióloga Linda Walters dirige desde 2007 un programa que reutiliza conchas de ostras de restaurantes para crear esteras que sirven de sustrato a larvas y reconstruir arrecifes deteriorados. El proyecto ha escalado hasta restaurar 97 arrecifes y ahora incorpora una malla biodegradable de almidón de patata para reducir el uso de plástico.",
-      "datos": [
-        "El proyecto comenzó en 2007 en Mosquito Lagoon, Florida",
-        "Hasta 2023 se han restaurado 97 arrecifes, cubriendo 1,62 ha",
-        "Se han fijado 896,44 ostras vivas por m², con potencial de albergar más de 14 millones de ostras",
-        "Una ostra adulta filtra hasta 189 L de agua al día",
-        "Los arrecifes de ostras han disminuido un 85 % a nivel mundial y un 64 % en Norteamérica",
-        "El declive del arrecife vivo de Crassostrea virginica en la laguna se cuantifica en un 24 %"
-      ],
-      "conclusion": "El éxito muestra que el reciclaje de residuos locales puede restaurar ecosistemas críticos, mejorando la calidad del agua y la protección costera, y sirve como modelo replicable para otras regiones costeras."
-    },
-    {
-      "title": "Satélites revelan que los colosales canales milenarios de la cultura Zenú colombiana se hicieron sin jefes ni caciques",
-      "url": "https://www.xataka.com/magnet/satelites-revelan-que-colosales-canales-milenarios-cultura-zenu-colombiana-se-hicieron-jefes-caciques",
-      "image": "https://i.blogs.es/2d72a7/canales/840_560.jpeg",
-      "source": "Xataka",
-      "language": "es",
-      "que_paso": "Un equipo de investigadores cartografió con alta precisión la red de canales y plataformas habitacionales construida por la cultura zenú en La Mojana, demostrando que fue obra de una organización comunitaria sin jefes ni caciques. Utilizaron imágenes satelitales y modelos LiDAR para estimar la mano de obra y el tiempo necesario, contrastando con la hipótesis previa de gestión centralizada. El hallazgo sugiere que la comunidad pudo erigir y mantener este sistema hidráulico en pocos meses y con escaso mantenimiento anual.",
-      "datos": [
-        "Hace 2.000 años la cultura zenú construyó la red de canales en La Mojana",
-        "Más de 500.000 hectáreas de canales y camellones se extienden en la cuenca de los ríos Magdalena, Cauca y San Jorge",
-        "El estudio cartografió 1.601 camellones y 63 plataformas de vivienda en unas 500 hectáreas",
-        "Se calculó que unas 800 personas pudieron construir el sistema en entre 0,7 y 1,5 meses",
-        "El mantenimiento posterior requiere solo unos pocos días al año y una renovación completa cada 25 años",
-        "Entre 2021 y 2023 más de medio millón de personas fueron afectadas por inundaciones en la región"
-      ],
-      "conclusion": "El descubrimiento muestra que infraestructuras de gran escala pueden lograrse mediante cooperación comunitaria, lo que abre la posibilidad de replantear la gestión de proyectos actuales, especialmente en zonas vulnerables a inundaciones como La Mojana."
-    },
-    {
-      "title": "A los modelos de IA les cuesta realizar investigación científica original",
-      "url": "https://robotitus.com/a-los-modelos-de-ia-les-cuesta-realizar-investigacion-cientifica-original/",
-      "image": "https://robotitus.com/wp-content/uploads/2026/08/handsahke.jpg",
+      "title": "La energía oscura podría esconder una pista sobre la gravedad cuántica",
+      "url": "https://robotitus.com/la-energia-oscura-podria-esconder-una-pista-sobre-la-gravedad-cuantica/",
+      "image": "https://robotitus.com/wp-content/uploads/2026/08/Captura-de-pantalla-2026-08-24-a-las-5.17.12-p.m.png",
       "source": "Robotitus",
       "language": "es",
-      "que_paso": "Un estudio reciente evaluó la capacidad de varios agentes de IA de última generación para crear investigaciones originales en seis días, asignándoles $3,000 en créditos y acceso a internet. Los agentes trabajaron en dos temas no publicados y sus resultados fueron evaluados por revisores humanos como si fueran presentaciones de conferencia.",
+      "que_paso": "Un equipo de teóricos ha propuesto que la aceleración del Universo, atribuida habitualmente a la energía oscura, podría originarse en una incertidumbre cuántica aplicada al tamaño y la tasa de expansión del cosmos, según un modelo publicado recientemente. El enfoque sugiere que la imposibilidad de medir simultáneamente con precisión absoluta esas magnitudes modificaría las ecuaciones cosmológicas y produciría una expansión acelerada en etapas tardías, sin requerir una nueva forma de energía.",
       "datos": [
-        "El estudio se publicó como preprint en arXiv.",
-        "Se asignaron seis días y $3,000 en créditos de cómputo a cada agente.",
-        "Los agentes abordaron dos temas: la estructura y control de personalidades de modelos de lenguaje, y un detector de cambios en datos de modelos fundacionales.",
-        "Los trabajos recibieron puntuaciones de 2 sobre 6 y 1 sobre 6, resultando en rechazo.",
-        "Los agentes gastaron menos de la mitad del presupuesto asignado.",
-        "Los revisores señalaron diseños experimentales débiles y falta de replanteamiento ante críticas."
+        "El modelo fue presentado en la revista Physical Review D.",
+        "El estudio aplica un principio de incertidumbre cuántica al tamaño del Universo y a su velocidad de expansión.",
+        "El modelo permite, bajo ciertos parámetros, evitar una singularidad inicial y proponer un rebote cósmico.",
+        "Los observatorios DESI, Euclid y el Vera C. Rubin Observatory podrían proporcionar datos para probar la propuesta.",
+        "Hasta la fecha no existe observación que confirme directamente efectos de gravedad cuántica en la expansión cósmica."
       ],
-      "conclusion": "El experimento muestra que, aunque los modelos de IA pueden asistir en tareas rutinarias, aún no pueden conducir investigaciones científicas autónomas, lo que implica que la supervisión humana sigue siendo esencial."
+      "conclusion": "Si la hipótesis se verifica, ofrecería una vía concreta para conectar la energía oscura con la gravedad cuántica, orientando futuras mediciones astronómicas hacia la detección de señales de teorías cuánticas del espacio‑tiempo."
     },
     {
-      "title": "El Vaticano apuesta por las energías renovables con una gran planta solar para autoabastecerse",
-      "url": "https://elpais.com/sociedad/2026-08-22/el-vaticano-apuesta-por-las-energias-renovables-con-una-gran-planta-solar-para-autoabastecerse.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/FETUYEJIR6DGOM6FCWX24ZQD2E.jpg?auth=8880fa72beb06989a7f921882cf0b3df5bb3ab4a646efee025daf89a6f296ae4&width=1200",
+      "title": "Un problema en los metales complica el futuro del hidrógeno",
+      "url": "https://robotitus.com/un-problema-en-los-metales-complica-el-futuro-del-hidrogeno/",
+      "image": "https://robotitus.com/wp-content/uploads/2026/08/Captura-de-pantalla-2026-08-24-a-las-5.04.27-p.m.png",
+      "source": "Robotitus",
+      "language": "es",
+      "que_paso": "Un estudio publicado en Nature Materials analizó la aleación de níquel IN718 bajo presión de hidrógeno y temperaturas de hasta 600 °C, descubriendo que el hidrógeno penetra defectos microscópicos y debilita el metal, especialmente a 400 °C donde la ductilidad cae al 30 %. El daño mecánico se duplica respecto a condiciones a temperatura ambiente, lo que complica la adaptación de turbinas de gas existentes para quemar hidrógeno.",
+      "datos": [
+        "El trabajo fue publicado en la revista Nature Materials",
+        "La aleación evaluada es la superaleación de níquel IN718",
+        "Las pruebas se realizaron a temperaturas de hasta 600 °C bajo presión de hidrógeno",
+        "A 400 °C la ductilidad del IN718 disminuyó aproximadamente al 30 %",
+        "El daño mecánico causado por el hidrógeno se duplicó respecto a temperatura ambiente",
+        "El hidrógeno puede formar metano atrapado dentro del metal, generando presión local"
+      ],
+      "conclusion": "Si se pretende reutilizar turbinas actuales para combustión de hidrógeno, será necesario desarrollar aleaciones nuevas que mantengan resistencia mecánica y estabilidad térmica bajo exposición prolongada al hidrógeno."
+    },
+    {
+      "title": "Los cinco zapatos de seguridad mejor valorados en Amazon: cómodos, antideslizantes y con puntera reforzada",
+      "url": "https://elpais.com/escaparate/estilo-de-vida/zapatos-de-seguridad-mejor-valorados.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/Z4A34UQYDBAFBEJ7DHBU5PAS54.png?auth=3ea26b9d4b3f6c0edc2c45611ef077fb19fb33dcb2ee602705d8a40d0cd2264c&width=1200",
       "source": "El País",
       "language": "es",
-      "que_paso": "El Vaticano está iniciando la construcción de una gran planta agrovoltaica en la finca de Santa Maria di Galeria, a unos 40 km al noroeste de Roma, para producir toda la energía que necesita. El proyecto, impulsado por la visión ambiental del papa Francisco y continuado por el pontífice León XIV, busca combinar generación solar con uso agrícola del terreno. La iniciativa se enmarca en la estrategia de autosuficiencia energética del Estado de la Ciudad del Vaticano.",
+      "que_paso": "EL PAÍS Escaparate analizó el catálogo de Amazon y seleccionó los cinco modelos de zapatos de seguridad con mejor valoración, dirigidos a trabajadores que requieren protección en entornos de riesgo como alturas, superficies resbaladizas o maquinaria pesada.",
       "datos": [
-        "El proyecto cuesta alrededor de 100 millones de euros",
-        "La potencia prevista es de entre 80 y 90 megavatios",
-        "Los paneles solares ocuparán unas 200 hectáreas",
-        "El acuerdo entre la Santa Sede e Italia se firmó en julio de 2025",
-        "La construcción se estima en 18‑24 meses",
-        "La carta apostólica Fratello Sole, emitida en 2024, ordenó la realización de la planta"
+        "La puntera de acero de uno de los modelos resiste impactos de hasta 200 julios y presiones de 15.000 N.",
+        "Los zapatos están disponibles en tallas de la 39 a la 48.",
+        "El modelo más vendido acumula más de 9.000 reseñas en Amazon.",
+        "Algunos modelos incluyen puntera de fibra de vidrio y suela antideslizante con textura.",
+        "Todos los modelos presentan una plantilla de algodón y malla que favorece la ventilación.",
+        "EL PAÍS Escaparate realizó la selección a partir de valoraciones de usuarios en la plataforma."
       ],
-      "conclusion": "Al lograr la autosuficiencia energética, el Vaticano reducirá su dependencia externa y demostrará cómo entidades con regímenes especiales pueden liderar la transición hacia energías renovables."
+      "conclusion": "Conocer estos datos permite elegir calzado que minimiza la fatiga y el riesgo de lesiones, mejorando la seguridad y productividad en operaciones."
     },
     {
-      "title": "Sick of Constant Pings, They’re Sending Texts at the Speed of Carrier Pigeon",
-      "url": "https://www.nytimes.com/2026/08/22/technology/carrier-pigeon-app-texting-technology.html",
-      "image": "https://static01.nyt.com/images/2026/08/21/technology/22xp-pigeons-PROMO/oakImage-1787350721844-mediumSquareAt3X.png",
-      "source": "NYT Tech",
-      "language": "en",
-      "que_paso": "A new wave of messaging apps deliberately delays digital messages, gaining popularity among users seeking a slower communication rhythm, though they’re unsuitable for time‑critical coordination.",
+      "title": "El limpiador enzimático en formato espray que acaba con las manchas y los malos olores en casa",
+      "url": "https://elpais.com/escaparate/estilo-de-vida/limpiador-enzimatico-en-espray.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/VCPMBRZZGJFHJH4ZHRA264BU7A.png?auth=7acf8edfd7015c13d6d3aa7d55e81cb151ee65b404061a3c1d6330a95103d3fb&width=1200",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "EL PAÍS Escaparate ha destacado un nuevo limpiador enzimático en formato spray que elimina tanto manchas como olores persistentes en textiles y superficies domésticas. El producto está dirigido a usuarios con mascotas y a quienes buscan soluciones de limpieza sostenibles, y se presenta como una alternativa que actúa desde la raíz sin necesidad de diluirlo.",
       "datos": [
-        "The apps intentionally deliver messages at ultraslow speeds",
-        "User adoption is described as “taken off” indicating rapid growth",
-        "Users report enjoying a slower pace of life when using the apps",
-        "The apps are advised against for arranging dinner plans due to delay"
+        "Utiliza enzimas, biomoléculas que catalizan la descomposición de residuos orgánicos como orina, sudor, vómito o restos de comida",
+        "Su fórmula es biodegradable y no contiene ingredientes agresivos",
+        "Se aplica directamente sobre la zona a tratar, sin requerir dilución previa en agua",
+        "Acumula 1.600 valoraciones de usuarios con una media de 4,2 estrellas sobre 5",
+        "Se comercializa en formato XXL, considerado por los usuarios como buena relación calidad‑precio"
       ],
-      "conclusion": "The trend shows a market for intentional communication latency, suggesting managers should account for varied response times when integrating such tools into workflows."
+      "conclusion": "El limpiador ofrece una solución práctica y ecológica que reduce la necesidad de múltiples productos y mejora la higiene en entornos domésticos, lo que puede traducirse en ahorro de tiempo y costes operativos."
+    },
+    {
+      "title": "La larga escalada de la vivienda: las casas duplican el precio tras 12 años de subidas ininterrumpidas",
+      "url": "https://elpais.com/economia/vivienda/2026-08-24/la-larga-escalada-de-la-vivienda-las-casas-duplican-el-precio-tras-12-anos-de-subidas-ininterrumpidas.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/OL72TTQHTFMVPMYLRXJXBAOVKI.jpg?auth=e7242ba572df121959f4bd17ebb78355e9734dca16f99449da8921e9d0fd2e63",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Los precios de la vivienda han subido de forma continua durante 48 trimestres consecutivos desde el mínimo alcanzado en 2014, lo que ha provocado que el valor medio de una casa se haya duplicado en los últimos 12 años. Este fenómeno afecta tanto a compradores como a empresas del sector inmobiliario, que deben ajustar sus presupuestos y estrategias.",
+      "datos": [
+        "48 trimestres de aumento continuo desde 2014",
+        "12 años de subidas ininterrumpidas",
+        "Los precios se han duplicado en ese periodo",
+        "16 comunidades autónomas superaron el pico de la burbuja anterior"
+      ],
+      "conclusion": "El ritmo sostenido de escalada indica una presión creciente sobre la asequibilidad de la vivienda y obliga a planificar con mayor cautela las decisiones de inversión y adquisición."
+    },
+    {
+      "title": "La crisis sin resolver de Ceuta aterriza en un Congreso que calienta para elecciones",
+      "url": "https://elpais.com/espana/2026-08-24/la-crisis-sin-resolver-de-ceuta-aterriza-en-un-congreso-que-calienta-para-elecciones.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/E3TOIERTPZB73M7BPFSKIY4UIA.jpg?auth=2d10bbe1a010eb2f1dcf7a04aee0f41f7fe76b6783a2f29fba3114283bd1b390",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Siete ministros del Gobierno presentarán el primer relato ordenado de la crisis de Ceuta, mientras el Partido Popular acusará al Ejecutivo de esquivar el Senado y de preferir la Cámara Baja porque la controla, en un debate que se da en el Congreso en plena campaña electoral.",
+      "datos": [
+        "Siete ministros participarán en la exposición de datos",
+        "El Partido Popular presentará una denuncia contra el Ejecutivo",
+        "El Ejecutivo está evitando el Senado",
+        "El Ejecutivo prefiere la Cámara Baja por su control",
+        "La crisis de Ceuta sigue sin resolverse",
+        "El debate ocurre en el Congreso con elecciones próximas"
+      ],
+      "conclusion": "El episodio evidencia la politización de la gestión de la crisis de Ceuta y anticipa que el conflicto institucional influirá en la agenda electoral."
+    },
+    {
+      "title": "La frontera interior de Ceuta",
+      "url": "https://elpais.com/espana/2026-08-24/la-frontera-interior-de-ceuta.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/HWERIVMSNJOHDL6JNLMMMHFAN4.jpg?auth=d18934db711e8344a2001e61f665a239a2d991a1aefb6ebe87cece6c417324db&width=1200",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "En Ceuta, tras la llegada repentina de unos 80.000 inmigrantes, la única playa abierta, Calamocarro, se convirtió en punto de reunión mientras la policía y la Cruz Roja organizaban la distribución de alimentos en la zona de El Trampolín, con cientos de personas esperando en fila. La tensión social se extendió a toda la ciudad, desde la playa hasta los comercios y colegios.",
+      "datos": [
+        "La crisis migratoria introdujo aproximadamente 80.000 personas en Ceuta en un solo día.",
+        "Calamocarro es la única playa que permaneció abierta para los residentes.",
+        "La policía agrupó a los jóvenes en pelotones de 30 personas en la arena de El Trampolín.",
+        "Cientos de personas esperaban para recibir bolsas de comida de la Cruz Roja.",
+        "Algunos adolescentes habían estado ocultos en albergues y habitaciones durante 23 días.",
+        "El padre entrevistado dijo: “Es la única playa que nos han dejado…”."
+      ],
+      "conclusion": "La situación evidencia la presión operativa y social que genera una afluencia masiva inesperada, obligando a las autoridades a reorientar recursos de seguridad y asistencia humanitaria mientras la vida cotidiana queda paralizada."
+    },
+    {
+      "title": "Las siete crisis del verano europeo",
+      "url": "https://elpais.com/internacional/2026-08-24/las-siete-crisis-del-verano-europeo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/TE4AI5IOONAI7KAVLZ2ERCYJN4.jpg?auth=b40927661f804a584760cb1f363234e8d584cb8d19b03a366e19ae5311023337",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "El verano europeo está siendo golpeado simultáneamente por el calentamiento global, conflictos bélicos y flujos migratorios, que se suman a problemas estructurales de la Unión Europea, generando un test de estrés sin precedentes.",
+      "datos": [
+        "El cambio climático intensifica olas de calor y sequías en gran parte del continente",
+        "Conflictos armados, como la guerra en Ucrania, provocan desplazamientos masivos hacia la UE",
+        "Los flujos migratorios aumentan la presión sobre los sistemas de acogida y fronteras europeas",
+        "Problemas estructurales de la UE incluyen déficit energético y dependencia de importaciones externas",
+        "En el verano de 2026 la UE enfrenta un test de estrés de máxima dificultad"
+      ],
+      "conclusion": "La situación obliga a los responsables a reforzar la resiliencia operativa y la coordinación entre instituciones para gestionar crisis múltiples simultáneas."
+    },
+    {
+      "title": "La Fiscalía redobla su ofensiva contra los narcos del mar para acusarlos también de piratería",
+      "url": "https://elpais.com/espana/2026-08-24/la-fiscalia-redobla-su-ofensiva-contra-los-narcos-del-mar-para-acusarlos-tambien-de-pirateria.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/Y7SX5MHZIBCTLIIUYJNYEH5F4M.jpg?auth=585e2c7838ccd82e45676637c07fcf41b781dd06fee2786b21bd160fe6a72c20",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "El Tribunal Supremo emitió una sentencia que autoriza al Ministerio Fiscal a perseguir a los traficantes marítimos bajo el delito de piratería. Con esta decisión, la Fiscalía busca reforzar su lucha contra el narcotráfico en alta mar, ampliando el marco penal disponible.",
+      "datos": [
+        "El Tribunal Supremo dictó una sentencia que habilita una nueva vía legal para la Fiscalía.",
+        "La Fiscalía podrá acusar a los narcos del mar de piratería.",
+        "La medida permite elevar las penas en hasta 15 años de prisión.",
+        "La iniciativa forma parte de una ofensiva intensificada contra el narcotráfico marítimo."
+      ],
+      "conclusion": "Al posibilitar penas más largas, la medida busca disuadir a los traficantes y mejorar la capacidad de persecución del delito en alta mar."
+    },
+    {
+      "title": "El ‘lobby’ petrolero proTrump se hace de oro con la guerra contra Irán",
+      "url": "https://elpais.com/internacional/2026-08-24/el-lobby-petrolero-pro-trump-se-hace-de-oro-con-la-guerra-contra-iran.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/OXIMLEKJNNEDVOLUAVBTVC4RJ4.jpg?auth=83608be7a3724dfab2f83f7815a910e496922fa922bbdbf4fc49b834f57fdd73",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "El cierre del estrecho de Ormuz, provocado por la escalada militar entre EE. UU. e Irán, ha desatado una crisis global de refino que ha disparado la demanda de petróleo estadounidense. El lobby del sector fósil, estrechamente alineado con la administración pro‑Trump, está capitalizando ese desequilibrio para aumentar sus beneficios.",
+      "datos": [
+        "El sector fósil estadounidense es uno de los mayores donantes al Partido Republicano",
+        "El estrecho de Ormuz, ruta clave para el transporte de crudo, fue cerrado tras la escalada bélica con Irán",
+        "La crisis de refino global se ha intensificado tras el cierre de Ormuz",
+        "El lobby pro‑Trump del petróleo está obteniendo mayores ganancias como consecuencia directa de la interrupción del suministro"
+      ],
+      "conclusion": "Este episodio evidencia cómo los conflictos geopolíticos pueden traducirse en beneficios financieros para lobbies alineados al poder, lo que repercute en los precios y la disponibilidad de energía para la industria."
+    },
+    {
+      "title": "No solo la obra pública: los servicios esenciales piden revisar precios para contratar con la Administración",
+      "url": "https://elpais.com/economia/2026-08-24/no-solo-la-obra-publica-los-servicios-esenciales-piden-revisar-precios-para-contratar-con-la-administracion.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/QUXU5D3FYBEFVHU3KJM6A4YLDI.jpg?auth=b3125c14eb4354a9957f83512208cbc957059e2bfdc6b5f4a53fe9a3bf3dc501&width=1200",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Las empresas que proveen servicios esenciales a la Administración española están reclamando la posibilidad de revisar los precios de sus contratos porque la normativa de desindexación impide ajustar los costos frente a la inflación, lo que está provocando que un número creciente de licitaciones queden sin adjudicar.",
+      "datos": [
+        "El 40% de los contratos licitados en 2025 por la Administración estatal, autonómica y local correspondían a servicios.",
+        "Ese mismo año el gasto en servicios alcanzó 50.716 millones de euros.",
+        "En 2025 aproximadamente el 8% de los concursos públicos quedaron desiertos.",
+        "La patronal de constructoras estima que en 2026 se quedan sin adjudicar hasta 180 concursos cada mes.",
+        "Entre el 70% y el 75% del gasto en servicios públicos son costes laborales, según Javier Sigüenza, presidente de Alianzas."
+      ],
+      "conclusion": "Esto indica que la falta de mecanismos de ajuste de precios está erosionando la rentabilidad de los proveedores y puede generar escasez de servicios esenciales, por lo que las administraciones deberán revisar la normativa para evitar interrupciones y sobrecostos en sus operaciones."
+    },
+    {
+      "title": "El imperio del delirio de Alif Hilal: “Mi música es una forma trans de pensar mi propia voz”",
+      "url": "https://elpais.com/smoda/2026-08-31/el-imperio-del-delirio-de-alif-hilal-mi-musica-es-una-forma-trans-de-pensar-mi-propia-voz.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/UX7F5ZU2EZG5TFZTKAFLFAVOFQ.jpg?auth=b98f3072a5d06a633c89278dedefbc4cda2a04f9be8ffa32bf4ec767343d6cd1",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Alif Hilal, artista estadounidense que antes se llamaba Lyra Pramuk, ha anunciado que ha reorientado su estilo musical hacia una liturgia electrónica, alejándose de las estructuras convencionales de canción. Esta transformación forma parte de un proyecto que ella denomina su \"imperio del delirio\" y busca expresar su voz de manera trans.",
+      "datos": [
+        "La artista es estadounidense",
+        "Cambió su nombre artístico de Lyra Pramuk a Alif Hilal",
+        "Describe su música como \"una liturgia electrónica\"",
+        "Declaró: \"No quiero hacer canciones como las demás\"",
+        "Afirma que su música es \"una forma trans de pensar mi propia voz\""
+      ],
+      "conclusion": "Su reinvención de identidad y formato musical ilustra cómo la experimentación puede abrir nichos diferenciados, una lección aplicable a la innovación de productos y marcas."
+    },
+    {
+      "title": "Descubren un vínculo biológico entre distintas formas de autismo",
+      "url": "https://robotitus.com/descubren-un-vinculo-biologico-entre-distintas-formas-de-autismo/",
+      "image": "https://robotitus.com/wp-content/uploads/2026/08/Captura-de-pantalla-2026-08-24-a-las-3.41.53-p.m.png",
+      "source": "Robotitus",
+      "language": "es",
+      "que_paso": "Un equipo de investigadores publicó en Nature un estudio que analizó cómo distintas mutaciones asociadas al autismo alteran el desarrollo cerebral temprano usando once modelos de ratón, con análisis de células individuales en distintas etapas, sexos y regiones cerebrales. Aplicaron transcriptómica de célula única para comparar cientos de miles de núcleos y observaron cómo esas mutaciones afectan a tipos celulares específicos, especialmente a la glía radial, y cómo esas alteraciones cambian con el tiempo.",
+      "datos": [
+        "251 muestras de cerebro de ratón fueron analizadas",
+        "Se estudiaron 11 modelos de ratón, cada uno con una mutación diferente vinculada a alto riesgo de autismo",
+        "Se observaron retrasos en la fase de proliferación de la glía radial que se redujeron aproximadamente a las dos semanas postnatal",
+        "Los cambios moleculares fueron más pronunciados en hembras que en machos para varias mutaciones",
+        "Los experimentos de electrofisiología mostraron alteraciones en la excitabilidad neuronal y en las conexiones sinápticas"
+      ],
+      "conclusion": "El hallazgo de rutas biológicas compartidas sugiere que, pese a la heterogeneidad genética, existen ventanas de desarrollo donde intervenciones podrían ser más efectivas, y destaca la necesidad de incorporar el sexo como variable clave en la investigación del autismo."
+    },
+    {
+      "title": "Solo 3 minutos de ejercicio intenso cambian la química de la sangre",
+      "url": "https://robotitus.com/solo-3-minutos-de-ejercicio-intenso-cambian-la-quimica-de-la-sangre/",
+      "image": "https://robotitus.com/wp-content/uploads/2026/08/Captura-de-pantalla-2026-08-24-a-las-3.30.18-p.m.png",
+      "source": "Robotitus",
+      "language": "es",
+      "que_paso": "Los investigadores compararon la respuesta sanguínea a sprints de alta intensidad de tres minutos totales contra una sesión continua de ciclismo moderado de noventa minutos, analizando cambios en proteínas y metabolitos. Detectaron que el ejercicio máximo provocó alteraciones inmediatas y mucho más amplias en la química de la sangre que el ejercicio de menor intensidad.",
+      "datos": [
+        "El estudio fue publicado en Cell Reports Medicine.",
+        "Diez hombres jóvenes y sanos realizaron seis sprints de 30 segundos en bicicleta, con descansos de cuatro minutos, sumando aproximadamente tres minutos de esfuerzo máximo.",
+        "Tras los sprints cambiaron 714 de 2 884 proteínas detectadas (cerca del 25 %), mientras que el ciclismo moderado modificó sólo siete proteínas de forma inmediata.",
+        "Los sprints alteraron más de doscientos metabolitos diferentes en la sangre.",
+        "Los investigadores compararon las proteínas modificadas con datos de más de 53 000 participantes del UK Biobank y hallaron asociaciones estadísticas con menor riesgo de obesidad y diabetes tipo 2.",
+        "El plasma obtenido después de los sprints, al ser aplicado a células de grasa humana cultivadas, modificó la actividad de numerosos genes vinculados al procesamiento energético y la señalización hormonal."
+      ],
+      "conclusion": "Esto muestra que breves periodos de ejercicio muy intenso generan señales químicas sanguíneas mucho más rápidas y extensas que el ejercicio prolongado, lo que puede ser útil para diseñar intervenciones de salud que requieran efectos metabólicos agudos, aunque no sustituye la necesidad de actividad sostenida para beneficios a largo plazo."
+    },
+    {
+      "title": "Macarena García: “Me he hablado muy mal, pero ahora me trato mejor”",
+      "url": "https://elpais.com/cultura/2026-08-24/macarena-garcia-me-he-hablado-muy-mal-pero-ahora-me-trato-mejor.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/BQA5TFDCJNHA3JLOW5U4XKUX7A.jpg?auth=8c2c3e9229b7f26dac98d7c6bc8e931e9a9d5e8523ff6dbd2f06f18979d41597",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "La actriz española Macarena García ha abordado en declaraciones recientes la evolución de su relación con el trabajo tras encadenar dos nuevos estrenos. García explica que ha modificado su dinámica psicológica interna para rebajar la autoexigencia y el autocastigo en su profesión.",
+      "datos": [
+        "Protagonista: la actriz española Macarena García.",
+        "Proyecto estrenado: la producción titulada 'Un hijo'.",
+        "Segundo proyecto estrenado: 'Se tiene que morir mucha gente'.",
+        "Declaración textual: «Me he hablado muy mal, pero ahora me trato mejor»."
+      ],
+      "conclusion": "La gestión de la autoexigencia en profesiones de alta exposición pública resulta clave para la sostenibilidad y el rendimiento del talento a largo plazo."
+    },
+    {
+      "title": "La casa del dragón y un palacio de cuento: León también celebra el Año Gaudí",
+      "url": "https://elpais.com/cultura/2026-08-24/la-casa-del-dragon-y-un-palacio-de-cuento-leon-tambien-celebra-el-ano-gaudi.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/WCOP3HXSLVBK3GWP2UGM4HHXSA.JPG?auth=4c77a369d93b5488ea81d138ca61c8c1a942931b56daf3eb8b9b9deb6f4af232",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "El palacio episcopal de Astorga y la Casa Botines de León están siendo restaurados como parte de las celebraciones del centenario de la muerte de Antoni Gaudí, organizadas bajo la campaña del Año Gaudí.",
+      "datos": [
+        "Antoni Gaudí falleció el 10 de junio de 1926.",
+        "El centenario de su muerte se conmemora en 2026.",
+        "El palacio episcopal de Astorga está incluido en el programa de renovación.",
+        "La Casa Botines, obra de Antoni Gaudí en la capital leonesa, también recibe trabajos de restauración.",
+        "La iniciativa forma parte del proyecto cultural llamado \"Año Gaudí\"."
+      ],
+      "conclusion": "La restauración muestra cómo las autoridades locales usan el patrimonio arquitectónico para reforzar la identidad cultural y atraer turismo durante el centenario de Gaudí."
+    },
+    {
+      "title": "El Govern abre el curso con Educación y Rodalies como asignaturas pendientes",
+      "url": "https://elpais.com/espana/catalunya/2026-08-24/illa-se-enfrenta-a-la-crisis-de-educacion-y-las-averias-de-rodalies-en-el-inicio-del-curso.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/TSZ5RWA27BL2RJXUKAXJFWW4BE.jpg?auth=81e6ea36a038b49d935b3e5ac35056298c2ba15bde995c262fee7f541e69bc8e",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "El Ejecutivo catalán arranca el curso político situando la gestión de la red ferroviaria de Rodalies y el ámbito educativo como prioridades inmediatas de gestión. El presidente Salvador Illa busca acelerar el nuevo marco de financiación singular para la comunidad antes de que la iniciativa deba debatirse en el Congreso de los Diputados. Paralelamente, la administración autonómica prepara ajustes normativos específicos para restringir las transacciones inmobiliarias de carácter especulativo.",
+      "datos": [
+        "Salvador Illa sitúa en septiembre el plazo clave para impulsar la propuesta de financiación autonómica.",
+        "El trámite de la financiación requerirá validación legislativa posterior en el Congreso de los Diputados.",
+        "Educación y Rodalies quedan fijadas como las dos áreas de gestión pendientes prioritarias del Govern.",
+        "El Ejecutivo autonómico trabaja en la modulación de un marco legal específico para limitar compras inmobiliarias especulativas."
+      ],
+      "conclusion": "La capacidad del Govern para articular el traspaso de Rodalies y la financiación singular en septiembre marcará la estabilidad operativa y regulatoria en Cataluña y su influencia en el tablero político estatal."
+    },
+    {
+      "title": "Más allá de romper el récord de Usain Bolt: China pone a prueba los robots humanoides del futuro",
+      "url": "https://elpais.com/tecnologia/2026-08-24/mas-alla-de-romper-el-record-de-usain-bolt-china-pone-a-prueba-los-robots-humanoides-del-futuro.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/DI3U2FVBNVNYJG7EWCRYEYUFAI.jpg?auth=034474c2cb4f7993eca96f43e85a8cbbda2c0e80da885ea7312e64cc70eb890b",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Un robot bípedo chino superó el tiempo oficial del récord mundial de 100 metros lisos en una prueba durante los Juegos Olímpicos. La iniciativa, impulsada por el gobierno de Xi Jinping, pretende pasar de exhibiciones a aplicaciones operativas en sectores estratégicos.",
+      "datos": [
+        "El robot es bípedo",
+        "Rompió el récord mundial de 100 metros lisos",
+        "La prueba se realizó durante los Juegos Olímpicos",
+        "El proyecto es considerado estratégico por Xi Jinping"
+      ],
+      "conclusion": "El éxito indica que la robótica humanoide está lista para usos reales, lo que podría acelerar la automatización en operaciones industriales y logísticas."
+    },
+    {
+      "title": "Snapchat ha vuelto: el inesperado regreso de la red social efímera",
+      "url": "https://elpais.com/eps/2026-08-24/snapchat-ha-vuelto-el-inesperado-regreso-de-la-red-social-efimera.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/U6IDQQ7OVJGDPBIOSD5T3X44FM.JPG?auth=cb854a5b3b2be0fbab7565e0388be2c22f7298948c53796ec47e44ff80b2d3f7",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Los usuarios de la Generación Z están retomando el uso activo de Snapchat como alternativa frente al agotamiento generado por las dinámicas de otras redes dominantes. Este desplazamiento responde al rechazo de las métricas de rendimiento públicas y a la saturación provocada por los sistemas algorítmicos de recomendación de contenido continuo. La plataforma recupera tracción gracias a su modelo de comunicación directa y temporal centrado en la privacidad.",
+      "datos": [
+        "Plataforma receptora del flujo de usuarios: Snapchat.",
+        "Segmento demográfico protagonista del cambio de tendencia: Generación Z.",
+        "Plataformas de origen afectadas por la fatiga de uso: Instagram y TikTok.",
+        "Factor operativo detonante en Instagram: presión de las métricas visibles y cuantificables.",
+        "Factor técnico detonante en TikTok: saturación del algoritmo de recomendación continua.",
+        "Mecanismo funcional clave del producto revalorizado: mensajería efímera con autodestrucción de contenido."
+      ],
+      "conclusion": "El movimiento refleja un cambio de preferencia en el diseño de producto social, donde la interacción privada y no cuantificable supera a la optimización de alcance algorítmico. Para estrategas de producto, evidencia la creciente demanda de entornos digitales con baja presión métrica y menor fricción de exposición pública."
+    },
+    {
+      "title": "Ceuta: esta vez tiene que ser la última",
+      "url": "https://elpais.com/opinion/2026-08-24/ceuta-esta-vez-tiene-que-ser-la-ultima.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/NHEI5XC5UVHS3OJ2YJQ4MUYEQA.jpg?auth=1e3523dacc97d327b14bf284beb5b6cca86ed643604b5bd3c3573d4fac926128",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "El 30 de julio se produjo un incidente en la ciudad autónoma de Ceuta que provocó un fuerte desgarro emocional entre la población. La respuesta de las autoridades locales y nacionales ha sido percibida como insuficiente, generando un sentimiento de abandono que alimenta la crítica a la gestión.",
+      "datos": [
+        "30 de julio de 2026: fecha del suceso en Ceuta",
+        "Ceuta: ciudad autónoma española donde ocurrió el incidente",
+        "El artículo menciona un \"desgarro\" emocional entre los afectados",
+        "La gestión de la crisis ha sido calificada como \"desastrosa\" por la comunidad",
+        "El título del artículo exige que \"esta vez tenga que ser la última\""
+      ],
+      "conclusion": "El episodio muestra la urgencia de reforzar la capacidad de respuesta institucional en Ceuta para recuperar la confianza ciudadana y evitar que incidentes similares se repitan."
+    },
+    {
+      "title": "El concejal “aguafiestas” multa a una radio de barrio para forzar su desalojo",
+      "url": "https://elpais.com/espana/madrid/2026-08-24/el-concejal-aguafiestas-multa-a-una-radio-de-barrio-para-forzar-su-desalojo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/3UPALQ2ZXJGZ3PYNVR7GN3WHMI.jpg?auth=85288e9140c18bf9385cb28766cf8e86e8882e532445a69c7ea6e33f73fa9472",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "El concejal del Partido Popular, David Pérez, aplicó una sanción de 1.000 €, catalogada como “multa coercitiva”, a la emisora comunitaria Radio Enlace después de que ésta se negara a desocupar un local del Ayuntamiento de Madrid destinado a programas para personas con discapacidad. La medida se tomó sin previo aviso y ha generado críticas de asociaciones de discapacidad.",
+      "datos": [
+        "David Pérez es edil del PP en el Ayuntamiento de Madrid",
+        "La sanción impuesta es una multa coercitiva de 1.000 euros",
+        "Radio Enlace ocupa un espacio municipal donde emite programas dirigidos a personas con discapacidad",
+        "El objetivo de la multa es forzar el desalojo de la emisora del local",
+        "El conflicto surge porque la radio se niega a abandonar el espacio asignado"
+      ],
+      "conclusion": "Esta medida evidencia la presión política sobre medios locales y pone en riesgo la continuidad de contenidos para la comunidad de discapacidad, lo que obliga a los gestores a buscar alternativas de alojamiento o apoyo legal."
+    },
+    {
+      "title": "ERC prepara el camino para las municipales endureciendo el tono en seguridad",
+      "url": "https://elpais.com/espana/catalunya/2026-08-24/erc-prepara-el-camino-para-las-municipales-endureciendo-el-tono-en-seguridad.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/BIFS6FAX4BKFXBQ3AIMIZCQ34A.jpg?auth=c5368d85c9b5760844a704f415e1e1b165585d045a9cfaadf05f26e0b7073266",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "ERC ha publicado un manual titulado “tolerancia cero” que reúne buenas prácticas y recomendaciones de seguridad para los alcaldes, con el objetivo de influir en la agenda de las próximas elecciones municipales.",
+      "datos": [
+        "El documento fue presentado por Esquerra Republicana de Catalunya (ERC) el 24 de agosto de 2026.",
+        "El manual lleva la etiqueta “tolerancia cero” y está dirigido a los alcaldes de los municipios catalanes.",
+        "La iniciativa se enmarca en la preparación de ERC para las elecciones municipales previstas para 2027.",
+        "El contenido incluye recomendaciones sobre vigilancia, control de manifestaciones y coordinación con cuerpos de seguridad.",
+        "ERC ha señalado que el manual forma parte de su estrategia para reforzar la seguridad local."
+      ],
+      "conclusion": "Para un gestor de operaciones, el manual sugiere que los municipios bajo influencia de ERC podrían adoptar políticas de seguridad más estrictas, lo que requerirá ajustes en la planificación de recursos y cumplimiento normativo."
+    },
+    {
+      "title": "Una Segunda División conquistada por el capital extranjero",
+      "url": "https://elpais.com/deportes/futbol/2026-08-24/una-segunda-division-conquistada-por-el-capital-extranjero.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/PUZLRS26E5ABDLJPXAA4YNLOCY.jpg?auth=aa1225004cdfdd1a241e8dac88084d82d28ac27037fc900470b990b77cb23f22",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Los clubes de la Segunda División española, tras registrar pérdidas millonarias durante la crisis de la covid‑19, están ampliando su capital y cediendo la mayoría de sus acciones a inversores extranjeros, con predominio de fondos norteamericanos.",
+      "datos": [
+        "Las pérdidas acumuladas por los equipos durante la pandemia superaron varios millones de euros.",
+        "La crisis de la covid‑19 afectó al fútbol español principalmente entre 2020 y 2022.",
+        "Los clubes están vendiendo la mayoría del accionariado, no solo participaciones minoritarias.",
+        "Los compradores son mayoritariamente inversores foráneos procedentes de Norteamérica."
+      ],
+      "conclusion": "Esta tendencia implica una mayor influencia extranjera en la gestión y estrategia de los equipos, lo que puede afectar decisiones operativas y financieras locales."
+    },
+    {
+      "title": "Chanquete no ha muerto",
+      "url": "https://elpais.com/television/2026-08-24/chanquete-no-ha-muerto.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/HM5VUNCA35NOLAOG3FRZ7IV4IE.jpg?auth=035d410c6a4da47df71524ec5c36e2c18529cafade01f54a706f00fa8b890bdb",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "El artículo describe a un marinero que se vio obligado a luchar contra una multitud de criaturas en un vacío que se define como una ausencia eterna, todo ello en un contexto donde no existían filtros parentales que pudieran moderar la situación. La narración sugiere un enfrentamiento simbólico sin nombres ni fechas concretas.",
+      "datos": [
+        "El protagonista es un marinero sin nombre especificado",
+        "Se menciona que enfrentó a millones de criaturas",
+        "El escenario se describe como un vacío de \"ausencia eterna\"",
+        "Se indica la inexistencia de filtros parentales en ese contexto",
+        "No se proporcionan fechas, ubicaciones ni cifras precisas más allá de \"millones\""
+      ],
+      "conclusion": "El relato ilustra, de forma críptica, los riesgos de operar sin mecanismos de control o moderación, una lección aplicable a la gestión de operaciones y a la implementación de IA sin filtros adecuados."
+    },
+    {
+      "title": "La bendita obsesión de John Peel",
+      "url": "https://elpais.com/cultura/2026-08-24/la-bendita-obsesion-de-john-peel.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/U4RUCVP3MVBGHEOOFMX5LNUCSQ.jpg?auth=36d67e2170223bc3cd033ee712bc1ce9fe2740e819e1c5b7ae251b06848f44bc&width=1200",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "John Peel, el influyente locutor británico, murió inesperadamente en 2004 mientras estaba de visita en Cusco, Perú, a 3.400 m de altitud; dejó atrás a su familia y una enorme colección de discos y cintas que había catalogado meticulosamente, y su legado incluye los famosos Peel Sessions que impulsaron a artistas emergentes.",
+      "datos": [
+        "John Peel falleció en 2004 en Cusco, a 3.400 metros sobre el nivel del mar",
+        "Se estima que su colección personal alcanzaba unas 120.000 piezas de discos y cintas",
+        "Trabajó en BBC Radio 1 y en el British Forces Broadcasting Service, con sede en Egton House, despacho 318",
+        "El productor John Walters gestionaba el despacho 318 y regulaba los grupos que grababan para el programa",
+        "Los Peel Sessions fueron grabaciones ad‑hoc que luego se publicaron en docenas de discos, con artistas como Syd Barrett y Joy Division",
+        "La discográfica de The White Stripes intentó limitar los temas que Peel podía pinchar del álbum Elephant"
+      ],
+      "conclusion": "Su modelo de curaduría basada en datos de reproducción y apoyo a artistas desconocidos muestra cómo una selección informada puede crear tendencias duraderas, una lección útil para la gestión operativa y de contenidos."
+    },
+    {
+      "title": "Metecucharas, rapiñadores, removedores furtivos y otros personajes que sufrimos quienes cocinamos en casa",
+      "url": "https://elpais.com/gastronomia/el-comidista/2026-08-24/metecucharas-rapinadores-removedores-furtivos-y-otros-personajes-que-sufrimos-quienes-cocinamos-en-casa.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/AC4NQQH7D5EEJIINSCHBWRD5ZE.jpg?auth=e8eccc4306d1600ac23082c806861230fdff345bfa89b00870ee291d43d590b0&width=1200",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "En muchos hogares el cocinero doméstico se enfrenta a interrupciones constantes de familiares que prueban la comida sin permiso, una práctica que el autor denomina \"metecucharas\" y que se extiende a comportamientos más agresivos como los \"rapiñadores\" y \"destrozaplatos\". El texto relata varios casos personales que ilustran cómo estas actitudes generan frustración y alteran la planificación culinaria. La reflexión final advierte sobre la necesidad de gestionar mejor el acceso a los alimentos preparados en casa.",
+      "datos": [
+        "Toni Soriano y Diana Villa son propietarios de la vermutería El Villa en Barcelona",
+        "El sábado por la noche Soriano preparó un sofrito con pulpo y gamba roja para una comida del domingo",
+        "Al regresar Diana y sus amigas se consumieron todo el sofrito acompañado de pan duro del día anterior",
+        "Begoña Gómez, traductora, denuncia que le comen las aceitunas de su ensalada antes de servirla",
+        "Mònica Escudero, coordinadora y editora de El Comidista, expresa su irritación por la desaparición de ingredientes comprados específicamente para recetas"
+      ],
+      "conclusion": "Para evitar interrupciones y pérdidas, es práctico preparar los platos el mismo día de su consumo y establecer normas claras sobre quién puede probar la comida antes de servirla."
+    },
+    {
+      "title": "Sarina Castagnoli, pastelera: “Me gusta traer de vuelta esas tartas que ya no se ven, las que comía cuando era niña en los noventa”",
+      "url": "https://elpais.com/icon/2026-08-24/sarina-castagnoli-pastelera-me-gusta-traer-de-vuelta-esas-tartas-que-ya-no-se-ven-las-que-comia-cuando-era-nina-en-los-noventa.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ASIYFMB3NNHBHOIG6INRPV5YVQ.jpg?auth=5ec95b04dd16c082966fb573ad29bc8ae163fae243d9013a9b53cf6691950aac",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Sarina Castagnoli, argentina radicada en Madrid, empezó a hacer tartas por casualidad y, con su estilo distintivo, ha llegado a ser una de las cake artists más solicitadas en España. Además, ha sido incluida en la propuesta anual de talento joven de ICON.",
+      "datos": [
+        "Sarina Castagnoli es argentina y vive en Madrid",
+        "Comenzó a elaborar tartas de forma accidental",
+        "Se ha convertido en una de las cake artists más demandadas de España",
+        "Forma parte de la propuesta anual de talento joven de ICON"
+      ],
+      "conclusion": "Su trayectoria muestra cómo una iniciativa inesperada puede transformarse en una ventaja competitiva en el sector gastronómico, subrayando la importancia de identificar y promover talentos emergentes."
+    },
+    {
+      "title": "Diez años más tarde, el mundo vuelve a perder la carrera contra el ébola: lecciones de una epidemia",
+      "url": "https://elpais.com/planeta-futuro/2026-08-24/diez-anos-mas-tarde-el-mundo-vuelve-a-perder-la-carrera-contra-el-ebola-lecciones-imposibles-de-una-epidemia.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/VA2SQMML3NPFPKXR4GYH6D72WQ.jpg?auth=63ff4d67b79a306a74c72799b89d9bd71a540ffbd3bd282fa4c5bbb56cefc215",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Una nueva ola de ébola causada por la cepa Bundibugyo ha surgido en el este de la República Democrática del Congo, donde la ausencia de vacuna y la escalada del conflicto armado han sobrecargado una respuesta sanitaria que se diseñó tras la epidemia de África occidental.",
+      "datos": [
+        "La cepa involucrada es el virus Ébola Bundibugyo, para la que aún no existe vacuna aprobada",
+        "El brote ocurre en la región oriental de la República Democrática del Congo, zona afectada por conflicto armado",
+        "Parte de la ayuda internacional que apoyaba la respuesta ha sido desmantelada",
+        "La epidemia de África occidental (2014‑2016) dejó más de 11.000 muertos",
+        "El brote se produce diez años después de la crisis de 2014‑2016"
+      ],
+      "conclusion": "El episodio evidencia que la falta de vacunas y la interrupción del financiamiento internacional, combinadas con la inestabilidad política, pueden revertir los avances en control de ébola, subrayando la necesidad de estrategias de respuesta resilientes y de inversión continua en vacunas."
+    },
+    {
+      "title": "No todo es ‘balayage’: cómo conseguir unas mechas con dimensión (y cómo pedirlas bien en la peluquería)",
+      "url": "https://elpais.com/smoda/belleza/2026-08-24/no-todo-es-balayage-como-conseguir-unas-mechas-con-dimension-y-como-pedirlas-bien-en-la-peluqueria.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/WKBD4I2PA5DZPD7RJUWETDJS7M.jpg?auth=d95d128e527bb3d1067dfebca10440a0d46b13437bd57bbab8113de7de43baae",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "El artículo describe la confusión que generan los numerosos nombres de técnicas de mechas como balayage, babylights, foilayage y money piece, y brinda una guía práctica para lograr un rubio con dimensión y para solicitarlo correctamente en la peluquería, sin limitarse al término ‘balayage’.",
+      "datos": [
+        "Balayage, babylights, foilayage y money piece son nombres de técnicas de mechas.",
+        "Los expertos en peluquería están traduciendo este nuevo vocabulario de mechas.",
+        "El artículo ofrece instrucciones para conseguir mechas con dimensión.",
+        "Se indica cómo comunicar el pedido de mechas al estilista de forma precisa.",
+        "Fecha de publicación: 24 de agosto de 2026."
+      ],
+      "conclusion": "Dominar la terminología evita malentendidos y permite al cliente obtener el resultado deseado de forma eficiente, optimizando tanto la experiencia en la peluquería como el uso de recursos."
+    },
+    {
+      "title": "Telefónica Tech aflora unas pérdidas de 420 millones por el deterioro de sus filiales exteriores",
+      "url": "https://cincodias.elpais.com/companias/2026-08-24/telefonica-tech-aflora-unas-perdidas-de-420-millones-por-el-deterioro-de-sus-filiales-exteriores.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/X6WPAHXBDVDR5IB2WQ5QLRRDKA.png?auth=cae83913ef0846968ccb80b60ba655a2fd67ee95ba103d3f0ba2579877cd9371",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Telefónica Tech registró un resultado negativo de 420 millones de euros en 2025, originado por la depreciación contable de sus filiales fuera de España, en particular de sus operaciones en el Reino Unido, aunque el negocio principal se mantuvo sólido.",
+      "datos": [
+        "Pérdida contabilizada de 420 millones de euros",
+        "Año fiscal 2025",
+        "Ajuste contable del valor de operaciones en el Reino Unido",
+        "Afecta a filiales exteriores de Telefónica Tech",
+        "El resto del negocio mostró fortaleza según la compañía"
+      ],
+      "conclusion": "El deterioro refleja riesgos de valoración en mercados internacionales y alerta sobre la necesidad de gestionar activos externos para proteger la rentabilidad."
+    },
+    {
+      "title": "Científicos crean mini cerebros que parecen registrar el paso del tiempo",
+      "url": "https://robotitus.com/cientificos-crean-mini-cerebros-que-parecen-registrar-el-paso-del-tiempo/",
+      "image": "https://robotitus.com/wp-content/uploads/2026/08/Untitled-design-48.webp",
+      "source": "Robotitus",
+      "language": "es",
+      "que_paso": "Un equipo de investigadores cultivó organoides cerebrales humanos durante casi seis años y demostró que sus células conservan un reloj molecular que registra el tiempo de desarrollo. Además, al combinar células viejas con jóvenes, observaron una aceleración significativa en la generación de tipos celulares avanzados. El hallazgo sugiere que las células mantienen información de su historia de maduración.",
+      "datos": [
+        "Los organoides se mantuvieron en cultivo desde unos meses hasta cinco años completos, casi seis años en total.",
+        "El estudio fue publicado en la revista Nature.",
+        "Las marcas químicas del ADN (epigenéticas) coincidían estrechamente con el tiempo de cultivo, actuando como un reloj celular.",
+        "Al mezclar células de organoides viejos con jóvenes, se produjeron tipos celulares de fases posteriores en solo dos semanas, frente a más de dos meses en cultivos tradicionales.",
+        "La supervivencia neuronal mejoró usando un medio que favorecía la actividad eléctrica espontánea.",
+        "Astrocitos y células relacionadas con la mielina continuaron desarrollándose durante años, mientras que algunas neuronas disminuyeron progresivamente."
+      ],
+      "conclusion": "Este avance permite modelar el envejecimiento y la maduración cerebral a largo plazo en vitro, ofreciendo una herramienta más realista para investigar enfermedades neurodegenerativas y acelerar pruebas de fármacos."
+    },
+    {
+      "title": "Black Box: episode 1 – The connectionists – podcast",
+      "url": "https://www.theguardian.com/news/audio/2026/aug/24/black-box-episode-1-the-connectionists-podcast",
+      "image": "https://i.guim.co.uk/img/media/965358070d91ced32bc9e5c1dac0b33af486d074/372_0_1200_960/master/1200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d72cee7a40a858d6ed9687d2a6a78268",
+      "source": "The Guardian AI",
+      "language": "en",
+      "que_paso": "Guardian journalist Michael Safi produced a podcast episode that revisits artificial intelligence by profiling Geoffrey Hinton and the research team behind a powerful, opaque technology. The episode, part of season one of the \"Black Box\" series, was released while the regular \"Today in Focus\" program is on summer hiatus, with new content slated to return in early September.",
+      "datos": [
+        "The episode was first broadcast on 4 March 2024.",
+        "Michael Safi is a journalist for The Guardian.",
+        "Geoffrey Hinton is a leading figure in neural‑network research.",
+        "Season two of \"Black Box\" is scheduled for early September 2026.",
+        "\"Today in Focus\" will resume on 1 September 2026."
+      ],
+      "conclusion": "The briefing highlights the ongoing need for operational leaders to understand the opaque nature of advanced AI systems and to monitor upcoming content that may influence policy and strategy."
+    },
+    {
+      "title": "3 Cyclists Die in One Week in Hit-and-Runs in New York City",
+      "url": "https://www.nytimes.com/2026/08/23/nyregion/nyc-cycling-bike-deaths.html",
+      "image": "https://static01.nyt.com/images/2026/08/23/multimedia/23met-bike-deaths-wlkp/23met-bike-deaths-wlkp-mediumSquareAt3X-v3.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "Three e‑bike riders were killed in separate hit‑and‑run crashes within a single week in New York City, adding to a growing toll of cyclist deaths this year. The incidents occurred amid broader concerns about cyclist safety in the city.",
+      "datos": [
+        "Three cyclists died in hit‑and‑run crashes within one week in New York City",
+        "All three victims were riding electric bicycles",
+        "Seventeen cyclists have been killed in New York City so far in 2026",
+        "Advocacy groups have called the deaths a rallying cry for safety improvements"
+      ],
+      "conclusion": "The cluster of e‑bike fatalities highlights a rising safety risk that may require stricter enforcement and infrastructure changes, a practical concern for operations and risk management."
+    },
+    {
+      "title": "Fire Near Reno, Nev., Prompts Evacuations of Homes and Hospitals",
+      "url": "https://www.nytimes.com/2026/08/23/us/hawk-fire-reno-evacuations.html",
+      "image": "https://static01.nyt.com/images/2026/08/23/multimedia/23nat-reno-fire-01-lkbv/23nat-reno-fire-01-lkbv-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "The Hawk fire, spreading across more than 13,000 acres on the northern outskirts of Reno, Nevada, triggered formal evacuation orders for roughly 42,000 residents. Authorities have also ordered the evacuation of several hospitals and nearby neighborhoods as the blaze approaches the city limits.",
+      "datos": [
+        "The wildfire is named the Hawk fire.",
+        "It has burned over 13,000 acres.",
+        "The fire is located on the northern side of Reno, Nevada.",
+        "Approximately 42,000 people are under formal evacuation orders.",
+        "Thousands of additional residents have been urged to evacuate voluntarily."
+      ],
+      "conclusion": "The scale of the evacuation underscores the need for robust incident command and resource planning for large‑scale fires, highlighting that hospitals and critical infrastructure must have pre‑positioned contingency protocols. Operations teams should prioritize real‑time data integration to manage shelter capacity and supply logistics."
+    },
+    {
+      "title": "La UE redobla las críticas por los asentamientos israelíes en Cisjordania: “Son ilegales según el derecho internacional”",
+      "url": "https://elpais.com/internacional/2026-08-23/la-ue-redobla-las-criticas-por-los-asentamientos-israelies-en-cisjordania-son-ilegales-segun-el-derecho-internacional.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/5FSW3MBUJFNZXFDJJDGRKNP2UQ.jpg?auth=1f7de2c7fdd687b84b8acec1780760add8cf6da0362bfe5bb8e2813b2884b7a8",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "La alta representante de la UE para Asuntos Exteriores, Kaja Kallas, ha exigido al gobierno de Benjamin Netanyahu que detenga el proyecto de la colonia estratégica E1 en Cisjordania, argumentando que impediría la creación de un Estado palestino viable.",
+      "datos": [
+        "Kaja Kallas emitió su declaración el 24 de agosto de 2026.",
+        "El proyecto E1 contempla la construcción de una zona de asentamiento entre Jerusalén y Ariel, considerada estratégica por Israel.",
+        "La UE calificó los asentamientos en Cisjordania como ilegales bajo el derecho internacional en una resolución adoptada el mismo día.",
+        "Benjamin Netanyahu, primer ministro de Israel, ha defendido la expansión de los asentamientos como medida de seguridad nacional.",
+        "El comunicado de la UE indica que la expansión de E1 “pondría en riesgo la solución de dos Estados”.",
+        "La UE reiteró su posición en una conferencia de prensa en Bruselas tras la publicación del comunicado."
+      ],
+      "conclusion": "La presión de la UE intensifica la disputa sobre los asentamientos y podría afectar las próximas negociaciones de paz, señalando a Israel la necesidad de reconsiderar su política de expansión en territorio ocupado."
+    },
+    {
+      "title": "Trump’s Economic Approach Draws Concern From Some Republicans",
+      "url": "https://www.nytimes.com/2026/08/23/us/politics/trump-republicans-economy-midterms.html",
+      "image": "https://static01.nyt.com/images/2026/08/23/multimedia/23pol-republicans-trump-economy-ftjk/23pol-republicans-trump-economy-ftjk-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "A proposal to cut tariffs on imported beef has sparked trade friction with Canada, prompting a subset of Republican officials to voice alarm as the issue gains prominence ahead of the 2026 midterm elections. The backlash reflects broader GOP unease about the economic direction advocated by former President Trump.",
+      "datos": [
+        "The proposal aims to reduce tariffs on imported beef.",
+        "The policy has heightened trade tensions with Canada.",
+        "Some Republican lawmakers have expressed concern about the plan.",
+        "The issue is emerging as a focal point in the 2026 midterm elections."
+      ],
+      "conclusion": "The dispute signals potential supply‑chain cost shifts and political risk for businesses that rely on North‑American beef imports, urging managers to monitor tariff policy and election dynamics."
+    },
+    {
+      "title": "La sanidad pública valenciana alcanzó en 2025 los 313.000 pacientes en lista de espera para el especialista, un 5% más",
+      "url": "https://www.eldiario.es/comunitat-valenciana/sanidad-publica-valenciana-alcanzo-2025-313-000-pacientes-lista-espera-especialista-5_1_13462358.html",
+      "image": "https://static.eldiario.es/clip/241c8617-d4fc-47f9-92a4-c1e201c5793f_facebook-watermarked-aspect-ratio-1200-675_default_0_x436y635.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "que_paso": "En 2025 la sanidad pública de la Comunidad Valenciana registró un aumento del 5,21% en las listas de espera para la primera consulta con especialistas, superando los 313.000 pacientes. El Comité Económico y Social alertó sobre la tendencia al alza y exigió al Consell de Pérez Llorca medidas inmediatas, mientras la portavoz del PSPV‑PSOE, Yaissel Sánchez, calificó la situación de crítica e insostenible.",
+      "datos": [
+        "313.189 personas en lista de espera para una primera consulta en 2025",
+        "Crecimiento del 5,21% respecto al año anterior",
+        "Incremento de 15.495 personas respecto a 2024",
+        "Oftalmología lidera con 64.248 pacientes en espera",
+        "Tiempo medio de espera: 104 días para cardiología, 106 días para neurología, 105 días para traumatología, 102 días para oftalmología",
+        "Cerca de 50.000 pacientes fueron derivados a la sanidad privada en 2025"
+      ],
+      "conclusion": "El alza sostenido de las listas de espera evidencia una falta de capacidad operativa que compromete la atención oportuna; es necesario reforzar plantillas y revisar la gestión de recursos para evitar mayores retrasos y deterioro de la calidad asistencial."
+    },
+    {
+      "title": "Ice-T Talks New Body Count Album “Death Wish” & The U.S. Political ‘Sh*t Show’: “When Obama Was In, The World Wasn’t In This Much Disarray”",
+      "url": "https://www.theprp.com/2026/08/23/news/ice-t-talks-new-body-count-album-death-wish-the-u-s-political-sht-show-when-obama-was-in-the-world-wasnt-in-this-much-disarray/",
+      "image": "https://www.theprp.com/app/uploads/2026/08/bodycount2026large-1200x675.webp",
+      "source": "The PRP",
+      "language": "en",
+      "que_paso": "Ice‑T announced that Body Count’s ninth studio album is being developed under the working title “Death Wish,” and that his solo rap album “Criminal Migraine” will drop on the 17th of this month via his own website rather than streaming services. He explained the band’s creative process, the aim to surpass their previous record “Merciless,” and his decision to keep political references abstract.",
+      "datos": [
+        "Body Count’s upcoming ninth studio album has the working title “Death Wish”.",
+        "Ice‑T’s solo rap album “Criminal Migraine” is scheduled for release on the 17th of the current month.",
+        "The rap album will be sold exclusively through IceT.com, with no streaming distribution.",
+        "Ice‑T said the new Body Count record could be at least a year away from completion.",
+        "He stated the band will not record another album unless it can surpass their 2017 album “Merciless”.",
+        "He described the current U.S. political climate as a “shit show” and said he will keep lyrics abstract rather than overtly political."
+      ],
+      "conclusion": "The direct‑to‑consumer release strategy signals a shift away from streaming revenue, while the band’s intent to outdo “Merciless” suggests a heavier, more competitive sound; for operations managers, it underscores the value of controlling distribution channels and setting clear performance benchmarks."
+    },
+    {
+      "title": "Watch: Dark Tranquillity & In Flames’ Anders Fridén Paid Tribute To Tomas Lindberg With A Cover Of At The Gates’ “Blinded By Fear”",
+      "url": "https://www.theprp.com/2026/08/23/news/watch-dark-tranquillity-in-flames-anders-friden-paid-tribute-to-tomas-lindberg-with-a-cover-of-at-the-gates-blinded-by-fear/",
+      "image": "https://www.theprp.com/app/uploads/2026/08/darktranquillity2026-1200x675.webp",
+      "source": "The PRP",
+      "language": "en",
+      "que_paso": "Dark Tranquillity invited In Flames frontman Anders Fridén onstage at the Göteborg Brinner festival in Gothenburg on August 22, 2026, and together they performed a cover of At The Gates' 1995 song “Blinded By Fear” as a tribute to the late vocalist Tomas Lindberg. The joint performance closed Dark Tranquillity’s set at the event.",
+      "datos": [
+        "The performance occurred on August 22, 2026, in Gothenburg, Sweden.",
+        "It was part of In Flames' Göteborg Brinner festival.",
+        "Dark Tranquillity and Anders Fridén covered At The Gates' song “Blinded By Fear,” originally released in 1995.",
+        "The tribute honored the late At The Gates vocalist Tomas “Tompa” Lindberg.",
+        "Fan‑recorded video of the performance was posted online."
+      ],
+      "conclusion": "Such cross‑band tributes reinforce the cohesion of the Swedish melodic death metal scene and can revive interest in At The Gates' catalog, highlighting Lindberg's lasting influence."
+    },
+    {
+      "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
+      "url": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VINTAGE_VICE_CITY_PACK_02.jpg?quality=90&strip=all&crop=18.6%2C0%2C78.2%2C72.786503781268&w=1200",
+      "source": "The Verge",
+      "language": "en",
+      "que_paso": "Rockstar Games pushed GTA VI’s launch from an original fall‑2025 window to May 26 2026, then again to November 19 2026, opened digital‑only pre‑orders, and is dealing with a series of leaks that have prompted Take‑Two to subpoena Microsoft and Discord.",
+      "datos": [
+        "Original planned release window was fall 2025.",
+        "First delay moved the date to May 26, 2026.",
+        "Second delay set the release for November 19, 2026.",
+        "Standard edition preorder price is $79.99; Ultimate Edition is $99.99.",
+        "More than 30 employees were fired over alleged union‑busting allegations.",
+        "Take‑Two subpoenaed Microsoft and Discord on Thursday, with a deadline of September 4, 2024."
+      ],
+      "conclusion": "The shifting launch schedule and legal pressure highlight the risk of supply‑chain delays and IP enforcement for large game launches. Operational teams should plan for volatile timelines and potential litigation."
+    },
+    {
+      "title": "Here’s This Week’s Top Ten Stories On Theprp.com (August 23rd, 2026)",
+      "url": "https://www.theprp.com/2026/08/23/news/heres-this-weeks-top-ten-stories-on-theprp-com-august-23rd-2026/",
+      "image": "https://www.theprp.com/app/uploads/2025/09/theprptopstories-500x300.webp",
+      "source": "The PRP",
+      "language": "en",
+      "que_paso": "Theprp.com released a weekly roundup on August 23, 2026 that enumerates its ten most‑viewed articles from the preceding seven days, noting the typical slowdown of traffic over the weekend and inviting readers to comment on any of the stories.",
+      "datos": [
+        "The post is dated August 23, 2026",
+        "It highlights the ten most‑viewed stories on Theprp.com for the week ending that date",
+        "The site describes weekdays as fast‑moving and weekends as characteristically slower",
+        "Readers are encouraged to engage in discussion on the post",
+        "The roundup consists of exactly ten items"
+      ],
+      "conclusion": "The summary signals which topics are resonating with Theprp.com’s audience, offering the manager a quick gauge of current tech and geek‑culture interests for operational planning."
+    },
+    {
+      "title": "La juventud sin futuro de los noventa que retrató 'Sangre de barrio': \"Pensábamos que estábamos marcados y condenados\"",
+      "url": "https://www.eldiario.es/cultura/comics/juventud-futuro-noventa-retrato-sangre-barrio-pensabamos-estabamos-marcados-condenados_1_13459969.html",
+      "image": "https://static.eldiario.es/clip/8042c476-1a85-42b1-bc04-4981fc54bcf7_facebook-watermarked-aspect-ratio-1200-675_default_0_x244y151.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "que_paso": "Jaime Martín, dibujante nacido en L'Hospitalet en 1966, creó en 1990 el cómic Sangre de barrio, que retrata la adolescencia marginal de un barrio afectado por paro, violencia y drogas. Casi cuatro décadas después, la obra ha sido reeditada y el autor la revisita en una entrevista en Madrid, reflexionando sobre la realidad social de los años noventa y su vigencia actual.",
+      "datos": [
+        "Jaime Martín nació en 1966 en L'Hospitalet de Llobregat.",
+        "Sangre de barrio recibió el premio a autor revelación en el Saló del Còmic de Barcelona en 1990.",
+        "La editorial Norma reeditó Sangre de barrio en 2024, presentándolo como novedad en su catálogo.",
+        "Martín concedió una entrevista a elDiario.es en la librería Generación X de Madrid en agosto de 2026.",
+        "El personaje Vicen está basado en su amigo Mario, quien trabajaba en un camión de basura en esa época."
+      ],
+      "conclusion": "La reedición muestra que los problemas de exclusión juvenil de los noventa siguen relevantes, ofreciendo a gestores y responsables de operaciones una referencia cultural para comprender y abordar la marginalidad en contextos actuales."
+    },
+    {
+      "title": "Garoña, diez años después: el norte de Burgos busca en las renovables el futuro tras el cierre de la nuclear",
+      "url": "https://www.eldiario.es/castilla-y-leon/sociedad/garona-diez-anos-despues-norte-burgos-busca-renovables-futuro-cierre-nuclear_1_13459173.html",
+      "image": "https://static.eldiario.es/clip/394a240f-f852-4bd4-b3db-d94634cdfbe1_facebook-watermarked-aspect-ratio-1200-675_default_0.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "que_paso": "Diez años después del cierre de la central nuclear de Santa María de Garoña, el norte de Burgos enfrenta una fuerte despoblación y una caída de ingresos municipales, mientras intenta reorientar su economía hacia proyectos de energía renovable y almacenamiento hidráulico. El proceso de desmantelamiento sigue en marcha y se prevé que concluya en los próximos diez años, dejando incertidumbre sobre el empleo y la sostenibilidad fiscal del territorio.",
+      "datos": [
+        "La central nuclear dejó de operar en agosto de 2017 tras 46 años de actividad.",
+        "En el cierre había 227 empleados directos y 158 vinculados a subcontratas, totalizando 385 puestos afectados.",
+        "Desde 2019 el Ministerio ha destinado 17,43 millones de euros a 35 proyectos, con una inversión total de 31,48 millones de euros.",
+        "El Ayuntamiento del Valle de Tobalina calcula una pérdida patrimonial de 23 millones de euros y una reducción de aproximadamente un millón de euros anuales en ingresos tributarios.",
+        "La tasa de paro oficial del municipio se mantiene bajo el 8% gracias al empleo temporal generado por el desmantelamiento gestionado por Enresa.",
+        "En los últimos 12 años el municipio ha perdido alrededor de 140 habitantes, con casi el 30% de la población superando los 65 años."
+      ],
+      "conclusion": "El caso muestra los retos de una transición justa: sin ingresos estables, la despoblación y el envejecimiento pueden frenar la recuperación, por lo que la efectividad de las inversiones renovables será clave para la viabilidad económica de la zona."
+    },
+    {
+      "title": "Una nueva arquitectura para el futuro: cómo hacer que la ciudad sea amigable con la vejez",
+      "url": "https://www.eldiario.es/sociedad/nueva-arquitectura-futuro-ciudad-sea-amigable-vejez_1_13412647.html",
+      "image": "https://static.eldiario.es/clip/0a86cc63-69a5-4d92-afd1-2719000f4645_facebook-watermarked-aspect-ratio-1200-675_default_0.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "que_paso": "Expertas en urbanismo, lideradas por Ana Fernández e Irati Mogollón, proponen adaptar la infraestructura urbana para reducir la complejidad y favorecer la inclusión de personas mayores, enfocándose en anchos de aceras, descansos frecuentes y usos mixtos que permitan cubrir necesidades básicas en 15 minutos. Argumentan que estas medidas también benefician a niños y a la población general, al crear entornos más seguros y sociales.",
+      "datos": [
+        "Las aceras deben medir al menos 1,80 metros de ancho",
+        "Se deben instalar zonas de descanso cada 200 metros",
+        "Ana Fernández es coautora del libro \"Arquitecturas del cuidado. Hacia un envejecimiento activista\" (Icaria, 2019)",
+        "Irati Mogollón, socióloga, es coautora del mismo libro",
+        "Se menciona la \"ciudad de los 15 minutos\" como objetivo para cubrir necesidades básicas como salud, biblioteca, supermercado o farmacia",
+        "Muchos ancianos utilizan el carril bici para evitar tropezar"
+      ],
+      "conclusion": "Aplicar estos criterios de diseño urbano puede reducir la soledad y el deterioro cognitivo de las personas mayores, al tiempo que mejora la eficiencia operativa y la calidad de vida de todos los habitantes, ofreciendo un modelo replicable para futuros proyectos de revitalización urbana."
+    },
+    {
+      "title": "\"Poner brócoli en el arroz\": la guía antiautoritaria completa para derrotar a la internacional ultra",
+      "url": "https://www.eldiario.es/internacional/poner-brocoli-arroz-guia-antiautoritaria-completa-derrotar-internacional-ultra_1_13459752.html",
+      "image": "https://static.eldiario.es/clip/3417b492-4a4f-4d83-a1b5-8401b83289b0_facebook-watermarked-aspect-ratio-1200-675_default_0_x916y228.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "que_paso": "Democracy Hub (D‑Hub) lanzó un \"Anti‑authoritarian toolkit\" que reúne estrategias, jugadas y consejos para contrarrestar a líderes autoritarios, basado en entrevistas y estudios realizados en varios países y presentado en varios formatos digitales.",
+      "datos": [
+        "El proyecto se desarrolló durante dos años a partir de 130 entrevistas en 30 países y el estudio de 159 casos concretos.",
+        "El toolkit contiene diez grandes estrategias, 59 jugadas y 141 consejos.",
+        "Hasta la fecha se han publicado 5 de los 10 volúmenes previstos y todos los podcasts asociados.",
+        "La herramienta está disponible en siete idiomas: inglés, español, francés, alemán, húngaro, portugués y chino mandarín simplificado.",
+        "En Francia se colaboró con influencers para movilizar votantes jóvenes; en India y Brasil se usaron grupos de WhatsApp para organizar voluntarios.",
+        "El coordinador del proyecto es el argentino Agustín Frizzera, quien declaró a elDiario.es que el objetivo era proporcionar \"antídotos\" frente a los nuevos autoritarismos."
+      ],
+      "conclusion": "El kit ofrece un modelo práctico y multilingüe para diseñar campañas de comunicación que neutralicen narrativas autoritarias, útil para gestores que necesiten estrategias de influencia y movilización basadas en datos concretos."
+    },
+    {
+      "title": "El 'establishment' del Partido Demócrata tiene un aliado para frenar el avance de la izquierda en EEUU: las farmacéuticas",
+      "url": "https://www.eldiario.es/internacional/establishment-partido-democrata-aliado-frenar-avance-izquierda-eeuu-farmaceuticas_1_13460466.html",
+      "image": "https://static.eldiario.es/clip/b845ab5d-05c0-43ec-baed-5f9f0f8fee2e_facebook-watermarked-aspect-ratio-1200-675_default_0_x1190y304.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "que_paso": "Tras la victoria de Abdul El‑Sayed en las primarias demócratas de Michigan, la organización centrista Third Way anunció una campaña de $15 millones en dos años para frenar a los candidatos progresistas, revelando su financiación proveniente de grandes grupos de la salud y vínculos con estrategas republicanos.",
+      "datos": [
+        "Abdul El‑Sayed, de 41 años, ganó las primarias demócratas de Michigan",
+        "Third Way destinará $15 millones en los próximos dos años para combatir el ala izquierdista del Partido Demócrata",
+        "Better Solutions for Healthcare (BSFH) donó $50 000 a Third Way en 2024, su primera transacción pública ese año",
+        "CVS Health aportó $50 000 a Third Way en 2024, cifra idéntica a la donada en 2023",
+        "Johnson & Johnson donó $25 000 a Third Way en 2025",
+        "Entre 2020 y 2024 BSFH pagó casi $4,3 millones a la firma de lobby Targeted Victory"
+      ],
+      "conclusion": "Este movimiento muestra cómo los intereses de la industria farmacéutica y de seguros pueden influir en la agenda del Partido Demócrata, lo que implica que los responsables operativos deben vigilar la evolución de la normativa sanitaria y los posibles cambios de política impulsados por estos grupos."
+    },
+    {
+      "title": "Ceuta no puede esperar",
+      "url": "https://www.eldiario.es/opinion/zona-critica/ceuta-no-esperar_129_13462345.html",
+      "image": "https://static.eldiario.es/clip/fc141a75-c2f2-406e-8fc6-3f98e3c93a45_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "que_paso": "Durante la celebración del día del trono del rey Mohamed VI, el gobierno marroquí intentó cruzar la frontera de Ceuta con varios cientos de migrantes subsaharianos, lo que provocó una crisis migratoria que involucró al gobierno español y a la oposición política local. La medida fue percibida como un intento de presión sobre España en medio de tensiones bilaterales.",
+      "datos": [
+        "Se intentó cruzar la frontera de Ceuta con varios cientos (centenares) de migrantes subsaharianos.",
+        "El cruce coincidió con la celebración del día del trono del rey Mohamed VI de Marruecos.",
+        "Una oposición de derecha y extrema derecha en España apoyó la medida, según el artículo.",
+        "Pedro Sánchez, presidente del Gobierno español, es citado como objetivo de la oposición.",
+        "El texto sugiere una campaña de lavado de imagen internacional por parte del régimen alauita."
+      ],
+      "conclusion": "El episodio evidencia cómo la migración puede usarse como herramienta de presión política entre Marruecos y España, lo que obliga al responsable de operaciones a planificar respuestas rápidas y coordinadas ante picos de flujo inesperados."
+    },
+    {
+      "title": "La crisis de Ceuta anuncia una batalla sin cuartel entre Gobierno y oposición en el arranque de curso en el Congreso",
+      "url": "https://www.eldiario.es/politica/crisis-ceuta-anuncia-batalla-cuartel-gobierno-oposicion-arranque-curso-congreso_1_13458646.html",
+      "image": "https://static.eldiario.es/clip/819009af-0206-4c1c-8d38-adf90f353e18_facebook-watermarked-aspect-ratio-1200-675_default_0_x1053y470.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "que_paso": "A finales de julio, cerca de 80.000 migrantes cruzaron la frontera de El Tarajal en Ceuta, provocando la mayor crisis fronteriza reciente en España. El Gobierno de Pedro Sánchez ha activado un gabinete de crisis con ocho ministros para comparecer ante el Congreso, mientras el PP y Vox se preparan para una confrontación parlamentaria. La comparecencia del presidente está descartada por el momento, y el Ejecutivo insiste en que Marruecos colaboró en el retorno de la mayoría de los llegados.",
+      "datos": [
+        "Entre el 30 y 31 de julio ingresaron aproximadamente 80.000 personas por la frontera de El Tarajal",
+        "El Gobierno ha movilizado a ocho ministros (Defensa, Justicia, Sanidad, Exteriores, Interior, Migraciones, Infancia e Igualdad) para comparecer",
+        "Marruecos ha participado en el retorno inmediato de 70.000 migrantes",
+        "El presidente Pedro Sánchez no comparecerá en la primera ronda de comparecencias",
+        "Juan Jesús Vivas, alcalde de Ceuta, y el CNI no alertaron previamente sobre una llegada masiva",
+        "El PP y Vox han anunciado que se “frotan las manos” ante la oportunidad de confrontar al Gobierno"
+      ],
+      "conclusion": "La disputa parlamentaria sobre la crisis de Ceuta evidencia la presión política y operativa que enfrenta España en la gestión migratoria, obligando al Gobierno a justificar sus decisiones y a reforzar la cooperación con Marruecos para evitar nuevas oleadas."
+    },
+    {
+      "title": "Desaparecido un empresario español tras caer de su barco entre Italia y Grecia",
+      "url": "https://elpais.com/espana/2026-08-23/desaparecido-un-empresario-espanol-tras-caer-de-su-barco-entre-italia-y-grecia.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/6ZKC73JSKRIP7MRBOXPYNVCZ3I.jpg?auth=b7a59dadfd3da8d59f75d9396435438f67fcace1f30947fc50de3b09a5885dc9&width=1200",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Juan José Mutilba, empresario español de 66 años, cayó al mar mientras navegaba entre Sicilia y Grecia y desapareció. Su esposa quedó a la deriva durante tres días antes de ser localizada y remolcada a Pilos, y la búsqueda del empresario sigue en curso.",
+      "datos": [
+        "Juan José Mutilba tiene 66 años y está jubilado desde 2021",
+        "Salieron en su embarcación el lunes desde Siracusa con destino a la ciudad de Pilos, Grecia",
+        "El martes por la mañana, mientras pescaba un atún, se resbaló con la sangre del pez y cayó al mar",
+        "La esposa permaneció a la deriva tres días sin cobertura y logró pedir ayuda el viernes",
+        "Los guardacostas griegos detectaron el barco con la mujer y lo remolcaron a Pilos; la familia ha notificado a la embajada de España en Roma"
+      ],
+      "conclusion": "El caso subraya la vulnerabilidad de la navegación recreativa sin comunicaciones fiables y la necesidad de una coordinación internacional rápida en rescates marítimos."
+    },
+    {
+      "title": "Israel exige el cese del lanzamiento de \"cometas, drones y globos\" desde Gaza y amenaza con más ataques y evacuaciones",
+      "url": "https://www.europapress.es/internacional/noticia-israel-exige-cese-lanzamiento-cometas-drones-globos-gaza-amenaza-mas-ataques-evacuaciones-20260823202201.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260823202201_1200.jpg",
+      "source": "Europa Press Tecnología",
+      "language": "es",
+      "que_paso": "El gobierno israelí, a través del primer ministro Benjamin Netanyahu, emitió una orden de cese inmediato de los lanzamientos de cometas, drones y globos que provienen de la Franja de Gaza. La medida se anunció este domingo y estuvo acompañada de la amenaza de intensificar ataques selectivos y de ordenar evacuaciones si la demanda no se respeta.",
+      "datos": [
+        "Benjamin Netanyahu, primer ministro de Israel, realizó la exigencia.",
+        "La declaración se hizo el domingo 24 de agosto de 2026.",
+        "Se demandó el cese inmediato del lanzamiento de cometas, drones y globos desde la Franja de Gaza.",
+        "Netanyahu advirtió un aumento de \"ataques selectivos\" si no se cumple la demanda.",
+        "También amenazó con nuevas evacuaciones de población en caso de incumplimiento."
+      ],
+      "conclusion": "El anuncio sugiere una posible escalada del conflicto, lo que obliga a revisar planes de contingencia y monitorear riesgos operativos en la región."
+    },
+    {
+      "title": "Los controles fronterizos a viajeros procedentes de Italia afectan ya a más de 8.200 personas",
+      "url": "https://www.europapress.es/nacional/noticia-controles-fronterizos-viajeros-procedentes-italia-afectan-ya-mas-8200-personas-20260823194300.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260823194300_1200.jpg",
+      "source": "Europa Press Ciencia",
+      "language": "es",
+      "que_paso": "El Gobierno español activó controles en los aeropuertos para los pasajeros procedentes de Italia después de que Italia anunciara la suspensión del espacio Schengen como reacción a la crisis migratoria ocurrida en Ceuta a finales de julio. Estas medidas buscan identificar y registrar a los viajeros antes de su ingreso al territorio nacional.",
+      "datos": [
+        "Más de 8.200 viajeros italianos han sido identificados en los controles.",
+        "La crisis migratoria en Ceuta tuvo lugar el 30 de julio de 2026.",
+        "Italia suspendió temporalmente la aplicación del Acuerdo de Schengen tras ese episodio.",
+        "El Ministerio del Interior es la fuente oficial de los datos publicados.",
+        "Los controles se aplican en los aeropuertos españoles que reciben vuelos procedentes de Italia."
+      ],
+      "conclusion": "Esta situación genera retrasos y costes operativos para las empresas que dependen del tráfico aéreo entre Italia y España, por lo que es crucial ajustar la planificación logística y monitorizar la evolución de la política fronteriza."
+    },
+    {
+      "title": "Hallado el cadáver de un hombre en Gátova tras el realojo de las evacuados por el incendio de la Sierra Calderona",
+      "url": "https://www.eldiario.es/comunitat-valenciana/hallado-cadaver-hombre-gatova-realojo-evacuados-incendio-sierra-calderona_1_13462717.html",
+      "image": "https://static.eldiario.es/clip/9195371c-c985-4d36-a116-e7c79e0f7d11_facebook-watermarked-aspect-ratio-1200-675_default_0.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "que_paso": "El domingo se encontró el cuerpo sin vida de un hombre en Gátova, municipio que había sido evacuado por el incendio de la Sierra Calderona, aunque la muerte no está vinculada al fuego. Las autoridades confirmaron que el fallecido vivía solo y contaba con asistencia domiciliaria.",
+      "datos": [
+        "El hallazgo se produjo el domingo 24 de agosto de 2026 en Gátova.",
+        "El desalojo de la localidad se ordenó el viernes anterior a las 17:30 horas.",
+        "A las 11:00 horas del domingo se autorizó el regreso de aproximadamente mil evacuados.",
+        "Gátova tiene habitualmente menos de 500 residentes.",
+        "El fallecido vivía solo, padecía una patología crónica y recibía asistencia domiciliaria.",
+        "El estado del cuerpo indica que llevaba varios días fallecido."
+      ],
+      "conclusion": "El caso subraya la necesidad de revisar la situación de personas vulnerables durante evacuaciones y de mantener protocolos de vigilancia tras incidentes de gran escala."
+    },
+    {
+      "title": "Ni \"detox digital\" extremo ni apología de la pereza: lo que la ciencia dice de verdad sobre cómo desconectar",
+      "url": "https://www.xataka.com/medicina-y-salud/detox-digital-extremo-apologia-pereza-que-ciencia-dice-verdad-como-desconectar",
+      "image": "https://i.blogs.es/e0f5f1/uso-movil-/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "Investigadores compararon distintas estrategias para reducir la dependencia digital, desde la desconexión total hasta el uso consciente y pausas activas, y analizaron sus efectos en la salud mental y física. Los estudios incluyeron a jóvenes adultos, a miles de participantes de diferentes edades y a grupos sometidos a intervenciones de 12 semanas, mostrando que la solución no es eliminar por completo la tecnología sino gestionarla de forma estructurada.",
+      "datos": [
+        "El estudio en JAMA con adultos de 18‑24 años redujo la ansiedad un 16,1 % y la depresión casi un 25 % tras una semana de menor uso de redes sociales",
+        "La revisión en Scientific Reports analizó 10 estudios con más de 4.600 participantes y concluyó que la abstinencia temporal no mejora consistentemente el bienestar emocional",
+        "Un estudio de cerca de 20.000 personas mostró que caminar 5 min cada 30 min disminuye los picos de glucosa postprandial en un 60 % y baja la presión arterial",
+        "En un ensayo de 12 semanas, el uso consciente redujo el uso problemático en un 34 %, aumentó el bienestar en un 28 % y mejoró la calidad del sueño en un 41 %"
+      ],
+      "conclusion": "Para un gerente de operaciones, la lección práctica es implementar límites claros, pausas activas y uso consciente de la tecnología en lugar de intentar una desconexión total, lo que favorece la productividad y el bienestar sostenido."
     }
   ]
 }
