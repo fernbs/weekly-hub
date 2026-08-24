@@ -1,36 +1,8 @@
 {
-  "generated": "2026-08-17T05:36:03.414821",
-  "from_date": "2026-08-17",
-  "to_date": "2026-10-12",
+  "generated": "2026-08-24T05:39:15.249862",
+  "from_date": "2026-08-24",
+  "to_date": "2026-10-19",
   "concerts": [
-    {
-      "artist": "American Rock Punk Madrid",
-      "lineup": "American Rock Punk Madrid",
-      "date_str": "22/08/2026 · Sábado",
-      "date_iso": "2026-08-22",
-      "venue": "Gruta 77",
-      "address": "",
-      "price": "Consultar",
-      "buy_link": "https://metaltrip.com/american-rock-punk-madrid/",
-      "genre": "Punk",
-      "taste_score": 2,
-      "notes": "",
-      "image_url": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='65' height='65'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0%25' stop-color='%23374151'/><stop offset='100%25' stop-color='%231f2937'/></linearGradient></defs><rect width='65' height='65' rx='6' fill='url(%23g)'/><rect width='65' height='65' rx='6' fill='none' stroke='%234b5563' stroke-width='1'/><text x='50%25' y='50%25' dominant-baseline='central' text-anchor='middle' font-family='Arial,sans-serif' font-size='20' font-weight='700' fill='%239ca3af'>AR</text></svg>"
-    },
-    {
-      "artist": "Lucifer",
-      "lineup": "Lucifer",
-      "date_str": "26/08/2026 · Miércoles",
-      "date_iso": "2026-08-26",
-      "venue": "sala El Sol",
-      "address": "",
-      "price": "Consultar",
-      "buy_link": "",
-      "genre": "Doom Metal",
-      "taste_score": 2,
-      "notes": "",
-      "image_url": "https://cdn-images.dzcdn.net/images/artist/d30e9605332c7cec0d4d4c66d233b5f6/500x500-000000-80-0-0.jpg"
-    },
     {
       "artist": "Integrity",
       "lineup": "Integrity",
@@ -46,74 +18,18 @@
       "image_url": "https://cdn-images.dzcdn.net/images/artist/52e807c35f66d371432a9d2c1e8f53b1/500x500-000000-80-0-0.jpg"
     },
     {
-      "artist": "Nocturnal Bloodlust",
-      "lineup": "Nocturnal Bloodlust",
-      "date_str": "19/09/2026 · Sábado",
-      "date_iso": "2026-09-19",
-      "venue": "sala Silikona",
+      "artist": "Lucifer",
+      "lineup": "Lucifer",
+      "date_str": "26/08/2026 · Miércoles",
+      "date_iso": "2026-08-26",
+      "venue": "sala El Sol",
       "address": "",
       "price": "Consultar",
       "buy_link": "",
-      "genre": "Metalcore",
-      "taste_score": 2,
+      "genre": "Heavy Metal",
+      "taste_score": 1,
       "notes": "",
-      "image_url": "https://cdn-images.dzcdn.net/images/artist/5435386052474388ec503b17e1c02e4a/500x500-000000-80-0-0.jpg"
-    },
-    {
-      "artist": "Havok",
-      "lineup": "Havok",
-      "date_str": "23/09/2026 · Miércoles",
-      "date_iso": "2026-09-23",
-      "venue": "Revi Live",
-      "address": "",
-      "price": "Consultar",
-      "buy_link": "https://metaltrip.com/havok-tour/",
-      "genre": "Thrash Metal",
-      "taste_score": 2,
-      "notes": "",
-      "image_url": "https://cdn-images.dzcdn.net/images/artist/266826b63efefa1381bd282791025583/500x500-000000-80-0-0.jpg"
-    },
-    {
-      "artist": "The Riven",
-      "lineup": "The Riven",
-      "date_str": "26/09/2026 · Sábado",
-      "date_iso": "2026-09-26",
-      "venue": "Madrid",
-      "address": "",
-      "price": "Consultar",
-      "buy_link": "",
-      "genre": "Doom Metal",
-      "taste_score": 2,
-      "notes": "",
-      "image_url": "https://cdn-images.dzcdn.net/images/artist/b702023a8df6870fae00f6ac0f384df3/500x500-000000-80-0-0.jpg"
-    },
-    {
-      "artist": "Desaster",
-      "lineup": "Desaster",
-      "date_str": "07/10/2026 · Miércoles",
-      "date_iso": "2026-10-07",
-      "venue": "Nazca",
-      "address": "",
-      "price": "Consultar",
-      "buy_link": "https://metaltrip.com/desaster-tour/",
-      "genre": "Black Metal",
-      "taste_score": 2,
-      "notes": "",
-      "image_url": "https://cdn-images.dzcdn.net/images/artist/120045522d89ff7c71361389ad2a6118/500x500-000000-80-0-0.jpg"
-    },
-    {
-      "artist": "Gutalax",
-      "lineup": "Gutalax",
-      "date_str": "09/10/2026 · Viernes",
-      "date_iso": "2026-10-09",
-      "venue": "Sala Groove",
-      "address": "",
-      "price": "Consultar",
-      "buy_link": "",
-      "genre": "Goregrind",
-      "taste_score": 2,
-      "notes": "",
-      "image_url": "https://cdn-images.dzcdn.net/images/artist/c16fad60c8d9368efd97ec37ca4a9aae/500x500-000000-80-0-0.jpg"
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/d30e9605332c7cec0d4d4c66d233b5f6/500x500-000000-80-0-0.jpg"
     },
     {
       "artist": "Primal Fear",
@@ -130,76 +46,6 @@
       "image_url": "https://cdn-images.dzcdn.net/images/artist/da0acae1fb0a8eca91bdac1693a74836/500x500-000000-80-0-0.jpg"
     },
     {
-      "artist": "Induction",
-      "lineup": "Induction",
-      "date_str": "06/09/2026 · Domingo",
-      "date_iso": "2026-09-06",
-      "venue": "Sala Revi Live",
-      "address": "",
-      "price": "Consultar",
-      "buy_link": "",
-      "genre": "Power Metal",
-      "taste_score": 1,
-      "notes": "",
-      "image_url": "https://cdn-images.dzcdn.net/images/artist/e23066163f21176a822b54001ee648a2/500x500-000000-80-0-0.jpg"
-    },
-    {
-      "artist": "Tyla’s Dogs D’amour",
-      "lineup": "Tyla’s Dogs D’amour",
-      "date_str": "10/09/2026 · Jueves",
-      "date_iso": "2026-09-10",
-      "venue": "Uni",
-      "address": "",
-      "price": "Consultar",
-      "buy_link": "https://metaltrip.com/tylas-dogs-damour-tour/",
-      "genre": "Hard Rock",
-      "taste_score": 1,
-      "notes": "",
-      "image_url": "https://cdn-images.dzcdn.net/images/artist/a2307a7c4aa89019352785d395f50f30/500x500-000000-80-0-0.jpg"
-    },
-    {
-      "artist": "Airbag",
-      "lineup": "Airbag",
-      "date_str": "19/09/2026 · Sábado",
-      "date_iso": "2026-09-19",
-      "venue": "Palacio de Vistalegre",
-      "address": "Calle de Utebo, 1",
-      "price": "Consultar",
-      "buy_link": "https://metaltrip.com/airbag-tour/",
-      "genre": "Hard Rock",
-      "taste_score": 1,
-      "notes": "",
-      "image_url": "https://cdn-images.dzcdn.net/images/artist/bc987cc8ae28ce0c166cc8c917f1b76d/500x500-000000-80-0-0.jpg"
-    },
-    {
-      "artist": "Gus G.",
-      "lineup": "Gus G. + Ronnie Romero (convergence Fest)",
-      "date_str": "23/09/2026 · Miércoles",
-      "date_iso": "2026-09-23",
-      "venue": "Sala Revi Live",
-      "address": "",
-      "price": "Consultar",
-      "buy_link": "",
-      "genre": "Power Metal",
-      "taste_score": 1,
-      "notes": "",
-      "image_url": "https://cdn-images.dzcdn.net/images/artist/1335d39c8ca99c796fc00d43837bc7a5/500x500-000000-80-0-0.jpg"
-    },
-    {
-      "artist": "Hitten",
-      "lineup": "Hitten +haunt",
-      "date_str": "02/10/2026 · Viernes",
-      "date_iso": "2026-10-02",
-      "venue": "Sala Revi Live",
-      "address": "",
-      "price": "Consultar",
-      "buy_link": "",
-      "genre": "Heavy Metal",
-      "taste_score": 1,
-      "notes": "",
-      "image_url": "https://cdn-images.dzcdn.net/images/artist/a81a3c7b3fa72e20d5c5915ec6eae99e/500x500-000000-80-0-0.jpg"
-    },
-    {
       "artist": "Primal Fear",
       "lineup": "Primal Fear",
       "date_str": "08/10/2026 · Jueves",
@@ -212,20 +58,6 @@
       "taste_score": 1,
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/da0acae1fb0a8eca91bdac1693a74836/500x500-000000-80-0-0.jpg"
-    },
-    {
-      "artist": "Europe",
-      "lineup": "Europe",
-      "date_str": "10/10/2026 · Sábado",
-      "date_iso": "2026-10-10",
-      "venue": "Cubierta de Leganés",
-      "address": "",
-      "price": "Consultar",
-      "buy_link": "https://metaltrip.com/europe-tour/",
-      "genre": "Hard Rock",
-      "taste_score": 1,
-      "notes": "",
-      "image_url": "https://cdn-images.dzcdn.net/images/artist/0df5f24b96556172d2a10af059fde3a7/500x500-000000-80-0-0.jpg"
     },
     {
       "artist": "Anette Olzon",
@@ -264,7 +96,7 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "https://www.todoheavymetal.com/index.php/noticias-del-mes/blizzard-hunter-en-madrid",
-      "genre": "Video Games",
+      "genre": "Rock",
       "taste_score": 0,
       "notes": "",
       "image_url": "https://www.todoheavymetal.com/wp-content/uploads/BH.jpg"
@@ -278,7 +110,7 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "https://metaltrip.com/debler-eternia/",
-      "genre": "Symphonic Metal",
+      "genre": "Rock",
       "taste_score": 0,
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/305abf88d9101add3388965ef7f8f974/500x500-000000-80-0-0.jpg"
@@ -295,7 +127,21 @@
       "genre": "Rock",
       "taste_score": 0,
       "notes": "",
-      "image_url": "https://www.taquilla.com/data/images/t/9c/debler.jpg"
+      "image_url": "https://cd1.taquilla.com/data/images/t/9c/debler.webp"
+    },
+    {
+      "artist": "Induction",
+      "lineup": "Induction",
+      "date_str": "06/09/2026 · Domingo",
+      "date_iso": "2026-09-06",
+      "venue": "Sala Revi Live",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "",
+      "genre": "Rock",
+      "taste_score": 0,
+      "notes": "",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/e23066163f21176a822b54001ee648a2/500x500-000000-80-0-0.jpg"
     },
     {
       "artist": "Bodega",
@@ -306,10 +152,24 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "",
-      "genre": "Art Rockcite Web",
+      "genre": "Rock",
       "taste_score": 0,
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/d41d8cd98f00b204e9800998ecf8427e/500x500-000000-80-0-0.jpg"
+    },
+    {
+      "artist": "Tyla’s Dogs D’amour",
+      "lineup": "Tyla’s Dogs D’amour",
+      "date_str": "10/09/2026 · Jueves",
+      "date_iso": "2026-09-10",
+      "venue": "Uni",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "https://metaltrip.com/tylas-dogs-damour-tour/",
+      "genre": "Rock",
+      "taste_score": 0,
+      "notes": "",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/a2307a7c4aa89019352785d395f50f30/500x500-000000-80-0-0.jpg"
     },
     {
       "artist": "Billy Corgan",
@@ -320,7 +180,7 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "https://metaltrip.com/billy-corgan-madrid-2/",
-      "genre": "Alternative Rock",
+      "genre": "Rock",
       "taste_score": 0,
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/f768bfff552ec8c1b7e5c5b313eec71b/500x500-000000-80-0-0.jpg"
@@ -348,7 +208,7 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "https://metaltrip.com/das-ich-tour/",
-      "genre": "Gothic Metal",
+      "genre": "Ndt",
       "taste_score": 0,
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/c1db477064fc23ebc9a0b2cf5729f895/500x500-000000-80-0-0.jpg"
@@ -362,7 +222,7 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "",
-      "genre": "Glam Rock",
+      "genre": "Boogie Rock",
       "taste_score": 0,
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/04179deb496e3519591d99163e33af23/500x500-000000-80-0-0.jpg"
@@ -376,7 +236,7 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "https://metaltrip.com/not-scientists-tour/",
-      "genre": "Indie Rock",
+      "genre": "Alternative Rock",
       "taste_score": 0,
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/fb6d679b4e15aab4b54c1e72dacbc58a/500x500-000000-80-0-0.jpg"
@@ -389,8 +249,8 @@
       "venue": "Sala Revi Live",
       "address": "",
       "price": "Consultar",
-      "buy_link": "https://www.todoheavymetal.com/index.php/noticias-del-mes/fecha-de-ankhara-en-madrid-2",
-      "genre": "Gothic Metal",
+      "buy_link": "https://www.todoheavymetal.com/index.php/noticias-del-mes/ankhara-en-madrid-un-mes",
+      "genre": "Rock",
       "taste_score": 0,
       "notes": "",
       "image_url": "https://revi.live/wp-content/uploads/2026/04/IMG-20260408-WA0017-726x1024.jpg"
@@ -407,7 +267,35 @@
       "genre": "Rock",
       "taste_score": 0,
       "notes": "",
-      "image_url": "https://cdn-images.dzcdn.net/images/artist/7a23fce70c070751c3a0193fb29e66bb/500x500-000000-80-0-0.jpg"
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/7eff8996ebb6bc6d123b5f524e0feab5/500x500-000000-80-0-0.jpg"
+    },
+    {
+      "artist": "Nocturnal Bloodlust",
+      "lineup": "Nocturnal Bloodlust",
+      "date_str": "19/09/2026 · Sábado",
+      "date_iso": "2026-09-19",
+      "venue": "sala Silikona",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "",
+      "genre": "Rock",
+      "taste_score": 0,
+      "notes": "",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/5435386052474388ec503b17e1c02e4a/500x500-000000-80-0-0.jpg"
+    },
+    {
+      "artist": "Airbag",
+      "lineup": "Airbag",
+      "date_str": "19/09/2026 · Sábado",
+      "date_iso": "2026-09-19",
+      "venue": "Palacio de Vistalegre",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "https://metaltrip.com/airbag-tour/",
+      "genre": "Rock",
+      "taste_score": 0,
+      "notes": "",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/bc987cc8ae28ce0c166cc8c917f1b76d/500x500-000000-80-0-0.jpg"
     },
     {
       "artist": "Leyenda",
@@ -418,10 +306,38 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "",
-      "genre": "Folk Metal",
+      "genre": "Rock",
       "taste_score": 0,
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/054d394fdd7fdb07d98fd8f7fcfe06e0/500x500-000000-80-0-0.jpg"
+    },
+    {
+      "artist": "Gus G.",
+      "lineup": "Gus G. + Ronnie Romero (convergence Fest)",
+      "date_str": "23/09/2026 · Miércoles",
+      "date_iso": "2026-09-23",
+      "venue": "Sala Revi Live",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "",
+      "genre": "Rock",
+      "taste_score": 0,
+      "notes": "",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/1335d39c8ca99c796fc00d43837bc7a5/500x500-000000-80-0-0.jpg"
+    },
+    {
+      "artist": "Havok",
+      "lineup": "Havok",
+      "date_str": "23/09/2026 · Miércoles",
+      "date_iso": "2026-09-23",
+      "venue": "Revi Live",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "https://metaltrip.com/havok-tour/",
+      "genre": "Rock",
+      "taste_score": 0,
+      "notes": "",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/266826b63efefa1381bd282791025583/500x500-000000-80-0-0.jpg"
     },
     {
       "artist": "Dark Echoes Fest",
@@ -432,7 +348,7 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "https://metaltrip.com/dark-echoes-fest-madrid/",
-      "genre": "Electronica",
+      "genre": "Rock",
       "taste_score": 0,
       "notes": "",
       "image_url": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='65' height='65'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0%25' stop-color='%23374151'/><stop offset='100%25' stop-color='%231f2937'/></linearGradient></defs><rect width='65' height='65' rx='6' fill='url(%23g)'/><rect width='65' height='65' rx='6' fill='none' stroke='%234b5563' stroke-width='1'/><text x='50%25' y='50%25' dominant-baseline='central' text-anchor='middle' font-family='Arial,sans-serif' font-size='20' font-weight='700' fill='%239ca3af'>DE</text></svg>"
@@ -452,6 +368,20 @@
       "image_url": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='65' height='65'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0%25' stop-color='%23374151'/><stop offset='100%25' stop-color='%231f2937'/></linearGradient></defs><rect width='65' height='65' rx='6' fill='url(%23g)'/><rect width='65' height='65' rx='6' fill='none' stroke='%234b5563' stroke-width='1'/><text x='50%25' y='50%25' dominant-baseline='central' text-anchor='middle' font-family='Arial,sans-serif' font-size='20' font-weight='700' fill='%239ca3af'>ML</text></svg>"
     },
     {
+      "artist": "The Riven",
+      "lineup": "The Riven",
+      "date_str": "26/09/2026 · Sábado",
+      "date_iso": "2026-09-26",
+      "venue": "Madrid",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "",
+      "genre": "Rock",
+      "taste_score": 0,
+      "notes": "",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/b702023a8df6870fae00f6ac0f384df3/500x500-000000-80-0-0.jpg"
+    },
+    {
       "artist": "Kamijo",
       "lineup": "Kamijo",
       "date_str": "26/09/2026 · Sábado",
@@ -460,10 +390,10 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "",
-      "genre": "Symphonic Metal",
+      "genre": "Rock",
       "taste_score": 0,
       "notes": "",
-      "image_url": "https://cdn-images.dzcdn.net/images/artist/aa0d7d65f65066385e60691fd6a09990/500x500-000000-80-0-0.jpg"
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/d7d023ac8c5abd8f71759d4a5383729f/500x500-000000-80-0-0.jpg"
     },
     {
       "artist": "Transvision Vamp",
@@ -474,7 +404,7 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "https://metaltrip.com/transvision-vamp-tour/",
-      "genre": "Gothic Rock",
+      "genre": "Rock",
       "taste_score": 0,
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/9d867d5c895974d1504e912beb41d165/500x500-000000-80-0-0.jpg"
@@ -488,10 +418,10 @@
       "address": "",
       "price": "Consultar",
       "buy_link": "https://metaltrip.com/su-ta-gar-madrid/",
-      "genre": "Folk Metal",
+      "genre": "Rock",
       "taste_score": 0,
       "notes": "",
-      "image_url": "https://cdn-images.dzcdn.net/images/artist/caa81b1de09ab26910e3656c220572fc/500x500-000000-80-0-0.jpg"
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/08d111f215d31d6dc3b0203ece7f7ce8/500x500-000000-80-0-0.jpg"
     },
     {
       "artist": "Metal Legacy",
@@ -505,7 +435,7 @@
       "genre": "Rock",
       "taste_score": 0,
       "notes": "",
-      "image_url": "https://cdn-images.dzcdn.net/images/artist/59c999738d4c0e7423432562d2147fad/500x500-000000-80-0-0.jpg"
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/358ab2363ae80ac4a499c014adf1bb27/500x500-000000-80-0-0.jpg"
     },
     {
       "artist": "The Dictators",
@@ -536,15 +466,29 @@
       "image_url": "https://cdn-images.dzcdn.net/images/artist/01acb60a5bf7833377a29bafabd3a234/500x500-000000-80-0-0.jpg"
     },
     {
+      "artist": "Hitten",
+      "lineup": "Hitten +haunt",
+      "date_str": "02/10/2026 · Viernes",
+      "date_iso": "2026-10-02",
+      "venue": "Sala Revi Live",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "",
+      "genre": "Rock",
+      "taste_score": 0,
+      "notes": "",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/a81a3c7b3fa72e20d5c5915ec6eae99e/500x500-000000-80-0-0.jpg"
+    },
+    {
       "artist": "Evanescence",
       "lineup": "Evanescence",
       "date_str": "02/10/2026 · Viernes",
       "date_iso": "2026-10-02",
       "venue": "Palacio de Vistalegre",
-      "address": "Calle de Utebo, 1, 28022 Madrid",
+      "address": "",
       "price": "Consultar",
       "buy_link": "https://metaltrip.com/evanescence-tour/",
-      "genre": "Gothic Metal",
+      "genre": "Rock",
       "taste_score": 0,
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/0c993f8104879b99b1a952005a8c2426/500x500-000000-80-0-0.jpg"
@@ -575,7 +519,21 @@
       "genre": "Rock",
       "taste_score": 0,
       "notes": "",
-      "image_url": "https://cdn-images.dzcdn.net/images/artist/2fb8199e0d8bd0e72b76010653d70733/500x500-000000-80-0-0.jpg"
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/f1066fb32411de7e05ae2b9fcee39799/500x500-000000-80-0-0.jpg"
+    },
+    {
+      "artist": "Desaster",
+      "lineup": "Desaster",
+      "date_str": "07/10/2026 · Miércoles",
+      "date_iso": "2026-10-07",
+      "venue": "Nazca",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "https://metaltrip.com/desaster-tour/",
+      "genre": "Rock",
+      "taste_score": 0,
+      "notes": "",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/120045522d89ff7c71361389ad2a6118/500x500-000000-80-0-0.jpg"
     },
     {
       "artist": "Devin Townsend",
@@ -590,6 +548,146 @@
       "taste_score": 0,
       "notes": "",
       "image_url": "https://cdn-images.dzcdn.net/images/artist/d50ef754e709d019fae8923f287a2cbb/500x500-000000-80-0-0.jpg"
+    },
+    {
+      "artist": "Gutalax",
+      "lineup": "Gutalax",
+      "date_str": "09/10/2026 · Viernes",
+      "date_iso": "2026-10-09",
+      "venue": "Sala Groove",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "",
+      "genre": "Rock",
+      "taste_score": 0,
+      "notes": "",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/c16fad60c8d9368efd97ec37ca4a9aae/500x500-000000-80-0-0.jpg"
+    },
+    {
+      "artist": "Europe",
+      "lineup": "Europe",
+      "date_str": "10/10/2026 · Sábado",
+      "date_iso": "2026-10-10",
+      "venue": "Cubierta de Leganés",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "https://metaltrip.com/europe-tour/",
+      "genre": "Rock",
+      "taste_score": 0,
+      "notes": "",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/0df5f24b96556172d2a10af059fde3a7/500x500-000000-80-0-0.jpg"
+    },
+    {
+      "artist": "Mateus Asato",
+      "lineup": "Mateus Asato",
+      "date_str": "13/10/2026 · Martes",
+      "date_iso": "2026-10-13",
+      "venue": "Nazca",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "https://metaltrip.com/mateus-asato-madrid/",
+      "genre": "Rock",
+      "taste_score": 0,
+      "notes": "",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/7658f52aec9697b715d657117204aec5/500x500-000000-80-0-0.jpg"
+    },
+    {
+      "artist": "Far East Groove",
+      "lineup": "Far East Groove",
+      "date_str": "14/10/2026 · Miércoles",
+      "date_iso": "2026-10-14",
+      "venue": "sala Revi Live",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "",
+      "genre": "Rock",
+      "taste_score": 0,
+      "notes": "",
+      "image_url": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='65' height='65'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0%25' stop-color='%23374151'/><stop offset='100%25' stop-color='%231f2937'/></linearGradient></defs><rect width='65' height='65' rx='6' fill='url(%23g)'/><rect width='65' height='65' rx='6' fill='none' stroke='%234b5563' stroke-width='1'/><text x='50%25' y='50%25' dominant-baseline='central' text-anchor='middle' font-family='Arial,sans-serif' font-size='20' font-weight='700' fill='%239ca3af'>FE</text></svg>"
+    },
+    {
+      "artist": "Anciients",
+      "lineup": "Anciients",
+      "date_str": "14/10/2026 · Miércoles",
+      "date_iso": "2026-10-14",
+      "venue": "Rockville",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "https://metaltrip.com/anciients-tour/",
+      "genre": "Rock",
+      "taste_score": 0,
+      "notes": "",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/e19e08afc99f02ad8382771637b5eb88/500x500-000000-80-0-0.jpg"
+    },
+    {
+      "artist": "Wucan",
+      "lineup": "Wucan",
+      "date_str": "14/10/2026 · Miércoles",
+      "date_iso": "2026-10-14",
+      "venue": "Rockville",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "https://metaltrip.com/wucan-tour/",
+      "genre": "Rock",
+      "taste_score": 0,
+      "notes": "",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/0c34e1ac76be1ec636672b1e805d1eff/500x500-000000-80-0-0.jpg"
+    },
+    {
+      "artist": "Sabbat",
+      "lineup": "Sabbat",
+      "date_str": "17/10/2026 · Sábado",
+      "date_iso": "2026-10-17",
+      "venue": "sala Silikona",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "",
+      "genre": "Rock",
+      "taste_score": 0,
+      "notes": "",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/5c03ba57c28242a1f2f870b9d060f0d7/500x500-000000-80-0-0.jpg"
+    },
+    {
+      "artist": "Hällas y Komodor",
+      "lineup": "Hällas y Komodor",
+      "date_str": "17/10/2026 · Sábado",
+      "date_iso": "2026-10-17",
+      "venue": "sala Nazca",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "https://feverup.com/m/645807",
+      "genre": "Rock",
+      "taste_score": 0,
+      "notes": "",
+      "image_url": "https://applications-media.feverup.com/image/upload/f_auto,ar_15:8,c_fill/fever2/plan/photo/e30a51ca-68a9-11f1-b1ca-fe2fce671125.png"
+    },
+    {
+      "artist": "Gutalax en Bilbao, Logroño, Barcelona, Valencia, Murcia, Granada, Sevilla y Madrid",
+      "lineup": "Gutalax en Bilbao, Logroño, Barcelona, Valencia, Murcia, Granada, Sevilla y Madrid",
+      "date_str": "18/10/2026 · Domingo",
+      "date_iso": "2026-10-18",
+      "venue": "sala El Sol",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "",
+      "genre": "Rock",
+      "taste_score": 0,
+      "notes": "",
+      "image_url": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='65' height='65'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0%25' stop-color='%23374151'/><stop offset='100%25' stop-color='%231f2937'/></linearGradient></defs><rect width='65' height='65' rx='6' fill='url(%23g)'/><rect width='65' height='65' rx='6' fill='none' stroke='%234b5563' stroke-width='1'/><text x='50%25' y='50%25' dominant-baseline='central' text-anchor='middle' font-family='Arial,sans-serif' font-size='20' font-weight='700' fill='%239ca3af'>GE</text></svg>"
+    },
+    {
+      "artist": "Gloryhammer",
+      "lineup": "Gloryhammer",
+      "date_str": "18/10/2026 · Domingo",
+      "date_iso": "2026-10-18",
+      "venue": "But",
+      "address": "",
+      "price": "Consultar",
+      "buy_link": "https://metaltrip.com/gloryhammer-tour/",
+      "genre": "Rock",
+      "taste_score": 0,
+      "notes": "",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/c7e7dabe550dc3893fdba2d65633807a/500x500-000000-80-0-0.jpg"
     }
   ]
 }
