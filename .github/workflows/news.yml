@@ -2,7 +2,7 @@ name: News (daily)
 
 on:
   schedule:
-    - cron: '0 5 * * *'   # 07:00 CEST (summer). In winter this is 06:00 CET.
+    - cron: '0 22 * * *'  # Targets delivery before 07:00 CEST. GitHub Actions typically delays 4-6h on public repos, so scheduling at 22:00 UTC (midnight CEST) lands the email around 04:00-06:00 CEST. In winter (CET=UTC+1), midnight local time = 23:00 UTC -- adjust then.
   workflow_dispatch:
 
 permissions:
