@@ -1,859 +1,941 @@
 {
-  "generated": "2026-09-02T09:41:29.114719",
-  "count": 53,
+  "generated": "2026-09-03T09:43:12.448229",
+  "count": 58,
   "articles": [
     {
-      "title": "Get to Know Your Phone’s Built-In Emergency Kit",
-      "url": "https://www.nytimes.com/2026/09/02/technology/personaltech/iphone-android-emergency-features.html",
-      "image": "https://static01.nyt.com/images/2026/09/02/technology/personaltech/02BIZ-TECHTIP-TOP/02BIZ-TECHTIP-mediumSquareAt3X.jpg",
+      "title": "La española Multiverse ha lanzado el modelo de IA más avanzado de Europa. Todo apunta a que es casi un clon del modelo chino GLM-5.2",
+      "url": "https://www.xataka.com/robotica-e-ia/espanola-multiverse-ha-lanzado-modelo-ia-avanzado-europa-todo-apunta-a-que-casi-clon-modelo-chino-glm-5-2",
+      "image": "https://i.blogs.es/4feee0/multiverse-computing-quasar/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "Esta semana Multiverse Computing presentó el modelo de IA Quasar 438B, anunciándolo como el más inteligente de Europa y destacando su puntuación en el Intelligence Index. Sin embargo, la ficha del modelo indica que está basado en el modelo chino GLM‑5.2, lo que sugiere que es una versión comprimida del mismo.",
+      "datos": [
+        "Quasar 438B tiene 438.000 millones de parámetros y una ventana de contexto de un millón de tokens",
+        "Obtuvo 43 puntos en el Intelligence Index de Artificial Analysis",
+        "GLM‑5.2, lanzado por Zhipu.AI en junio 2026, cuenta con 753.000 millones de parámetros y 40.000 millones activos en inferencia",
+        "GLM‑5.2 puntúa 53 en el mismo índice y procesa 68 tokens por segundo, mientras que Quasar procesa 183 tokens por segundo",
+        "El Gobierno de España invirtió 67 millones de euros en Multiverse en febrero 2025 para su tecnología CompactifAI",
+        "En junio 2025 la empresa recaudó 189 millones de euros y en febrero 2026 negociaba una ronda que superara una valoración de 1.500 millones de euros"
+      ],
+      "conclusion": "El anuncio muestra que la supremacía europea en IA puede depender de adaptaciones de tecnologías extranjeras, mientras que la compresión de modelos permite mayor velocidad a costa de capacidad, un factor clave para decisiones de inversión y desarrollo interno."
+    },
+    {
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Feijóo, a Sánchez: “Dimita por incompetente o por cómplice”",
+      "url": "https://elpais.com/espana/2026-09-03/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/VY7MIC6JFNEKFKJUFZLIAAY4KU.jpg?auth=a9ad8daa6565549c9f4ce0df41bd3c6848c117e8608bf7f4884325085c654ddc",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Una oleada de inmigrantes cruzó la frontera de Ceuta, lo que provocó la convocatoria de la embajadora de Marruecos por parte del Gobierno español y una fuerte reacción del ministro del Interior, Alberto Núñez Feijóo, quien acusó a dos ministros marroquíes de actuar por incompetencia o complicidad. El presidente Pedro Sánchez anunció la publicación de un dosier con todos los informes previos y pidió que el rey Felipe VI visite Ceuta y Melilla en las próximas semanas.",
+      "datos": [
+        "El 3 de septiembre de 2026 se registró una entrada masiva de inmigrantes en Ceuta.",
+        "El Gobierno español convocó a la embajadora de Marruecos tras declaraciones calificadas como \"inaceptables\" por dos ministros de Marruecos.",
+        "Alberto Núñez Feijóo acusó a los ministros marroquíes de \"dimitar por incompetente o por cómplice\".",
+        "Pedro Sánchez anunció que publicará un dosier con todos los informes previos a la entrada masiva.",
+        "Sánchez considera necesaria una visita del rey Felipe VI a Ceuta y Melilla en las próximas semanas."
+      ],
+      "conclusion": "El episodio evidencia tensiones operativas y diplomáticas en la gestión fronteriza, obligando a España a reforzar la coordinación con Marruecos y a preparar respuestas institucionales rápidas."
+    },
+    {
+      "title": "China exige a Francia que retire las tasas a la ‘moda ultrarrápida’ de Shein o Temu",
+      "url": "https://cincodias.elpais.com/companias/2026-09-03/china-exige-a-francia-que-retire-las-tasas-a-la-moda-ultrarrapida-de-shein-o-temu.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/3JMFJFGEVVBRXDTHPK7B2B5LOQ.jpg?auth=15cfaa0166dbd30233b6ce765b154de169cd5d441806a450112b692786f3bd5e",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "El gobierno francés ha impuesto una serie de penalizaciones de entre 0,5 y 12 euros a los productos de moda ultrarrápida importados de Shein y Temu, y China ha exigido la eliminación de esas tasas, advirtiendo que tomará medidas para proteger sus intereses.",
+      "datos": [
+        "Las penalizaciones varían entre 0,5 € y 12 € por artículo.",
+        "Las sanciones comenzaron a aplicarse en septiembre de 2026.",
+        "Shein y Temu son plataformas de comercio electrónico con sede en China.",
+        "El Ministerio de Comercio de China emitió una nota diplomática exigiendo la retirada de las tasas.",
+        "Francia introdujo la medida como parte de su política contra la \"moda ultrarrápida\" para proteger la industria textil local.",
+        "China ha advertido que podría imponer aranceles o restricciones a productos franceses en respuesta."
+      ],
+      "conclusion": "Este enfrentamiento podría escalar a una disputa comercial que afecte las cadenas de suministro y los precios de la moda en Europa, obligando a las empresas a reevaluar sus estrategias de importación."
+    },
+    {
+      "title": "What Did Jurassic Forests Sound Like? Like This.",
+      "url": "https://www.nytimes.com/2026/09/03/science/what-did-jurassic-forests-sound-like-like-this.html",
+      "image": "https://static01.nyt.com/images/2026/09/02/science/02SCI-JURASSIC-SOUNDS/02SCI-JURASSIC-SOUNDS-mediumSquareAt3X.jpg",
+      "source": "NYT Science",
+      "language": "en",
+      "que_paso": "Scientists spent more than ten years reconstructing the vocalizations of nine Jurassic insect species, using fossil data and modern analogues, to assemble a soundscape that represents the acoustic environment of that era. The effort produced the first scientifically accurate Jurassic soundscape, offering a new sensory window into the period's ecosystem.",
+      "datos": [
+        "The project lasted over a decade (more than ten years).",
+        "Calls were reconstructed for nine distinct Jurassic insect species.",
+        "Reconstruction relied on fossil evidence and comparative analysis with modern insects.",
+        "The outcome is the first accurate Jurassic soundscape ever created."
+      ],
+      "conclusion": "The soundscape provides concrete data on ancient acoustic ecology, helping researchers model Jurassic ecosystems and informing broader studies of paleo-biodiversity."
+    },
+    {
+      "title": "Dimite el ministro de Defensa de Estonia tras un escándalo por la adquisición de munición destinada a Ucrania",
+      "url": "https://www.europapress.es/internacional/noticia-dimite-ministro-defensa-estonia-escandalo-adquisicion-municion-destinada-ucrania-20260903110337.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260903110337_1200.jpg",
+      "source": "Europa Press Tecnología",
+      "language": "es",
+      "que_paso": "El ministro de Defensa de Estonia, Hanno Pevkur, anunció su dimisión después de que se revelara que el gobierno había transferido 70 millones de euros a una empresa para comprar munición destinada a Ucrania, aunque la compañía nunca había entregado ningún proyectil. La polémica surgió al descubrirse la falta de entregas previas de la empresa contratada.",
+      "datos": [
+        "Hanno Pevkur era el ministro de Defensa de Estonia al momento de la dimisión.",
+        "El gobierno estonio había destinado 70 millones de euros a la empresa contratada.",
+        "La munición estaba prevista para las Fuerzas Armadas de Ucrania.",
+        "La empresa contratada no había suminificado ningún proyectil antes del escándalo.",
+        "La dimisión se presentó en septiembre de 2026.",
+        "El caso generó polémica pública y mediática en Estonia."
+      ],
+      "conclusion": "La renuncia subraya la necesidad de mayor control y transparencia en la adquisición de material bélico, especialmente cuando se trata de apoyo a terceros, y alerta a los gestores de operaciones sobre los riesgos de contratos sin historial comprobado."
+    },
+    {
+      "title": "Which Investors Will Get Rich From Anthropic’s IPO?",
+      "url": "https://www.nytimes.com/2026/09/03/technology/anthropic-ipo-investors-winners.html",
+      "image": "https://static01.nyt.com/images/2026/09/02/business/00anthropic-vc/00anthropic-vc-mediumSquareAt3X.jpg",
       "source": "NYT Tech",
       "language": "en",
-      "que_paso": "Apple’s iPhone and Google’s Android phones include hidden emergency toolsets that can be used during natural disasters or other dangerous events. The piece highlights that these built‑in features may provide vital assistance when conventional emergency response is limited.",
+      "que_paso": "Anthropic is preparing a large initial public offering and the article examines which existing shareholders are likely to benefit. It uses this upcoming IPO as a lens to illustrate how venture‑capital and startup investing practices have shifted over time.",
       "datos": [
-        "iPhone",
-        "Android device",
-        "natural disasters",
-        "other dangers",
-        "special features tucked away",
-        "built‑in Emergency Kit"
+        "Anthropic's upcoming IPO is described as a \"blockbuster offering\".",
+        "The piece frames the question of investor profit as a measure of how startup investing has changed over the years.",
+        "No specific investors, dates, or monetary amounts are named in the article.",
+        "The focus is on the anticipated public listing rather than past financial performance."
       ],
-      "conclusion": "Knowing how to access these built‑in emergency tools gives users a concrete safety advantage in crises."
+      "conclusion": "The analysis signals that the profile of investors who profit from AI IPOs is evolving, highlighting a broader transformation in venture‑capital strategies that readers should monitor."
     },
     {
-      "title": "Microsoft is enabling a Windows 11 security feature that can hurt gaming performance",
-      "url": "https://www.theverge.com/news/988056/microsoft-windows-11-memory-integrity-rollout-october-2026",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "title": "‘La mesa’ de Cristina Pardo: para amantes de la recena",
+      "url": "https://elpais.com/television/2026-09-03/la-mesa-de-cristina-pardo-para-amantes-de-la-recena.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/7YPLSKXM2FCMFO2D2KU2AS7MWM.jpg?auth=5dee64087f1493af8ef5ff02b76525eca6e027fd03ee8f044ed9635e29b7c1db",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Cristina Pardo presentó su nuevo programa televisivo \"La mesa\" y, al iniciar la emisión, mostró nerviosismo. El rodaje se realizó en un plató con una escenografía sobria y una iluminación muy intensa, lo que acentuó su incomodidad inicial.",
+      "datos": [
+        "Cristina Pardo es la periodista que conduce \"La mesa\"",
+        "El programa se grabó en un plató con escenografía sobria",
+        "La iluminación del set fue descrita como \"enguapece\"",
+        "Pardo se mostró nerviosa al principio de la emisión",
+        "El formato está dirigido a los amantes de la recena"
+      ],
+      "conclusion": "El ambiente austero y la luz agresiva subrayan el carácter especializado del programa, mientras que la nerviosidad de la presentadora indica que la conexión con la audiencia dependerá de su confianza en pantalla."
+    },
+    {
+      "title": "Astrónomos aficionados encontraron algo raro en Saturno. El Hubble acaba de confirmar qué era: un decágono de nubes en su polo sur",
+      "url": "https://www.xataka.com/espacio/astronomos-aficionados-encontraron-algo-raro-saturno-hubble-acaba-confirmar-que-era-decagono-nubes-su-polo-sur",
+      "image": "https://i.blogs.es/8e7e10/decagono-polo-sur-saturno/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "Astrónomos aficionados detectaron en 2023 una extraña estructura en el polo sur de Saturno y, tras enviar sus datos, el telescopio espacial Hubble confirmó que se trata de un decágono de nubes. El hallazgo se publica esta semana y complementa al conocido hexágono del polo norte, descubierto en 1988. La observación se logró después de que la inclinación del planeta hiciera invisible el hemisferio sur entre 2012 y 2023.",
+      "datos": [
+        "El decágono de Saturno tiene 167.820 km de ancho y cada uno de sus 10 lados mide 16.782 km.",
+        "El hexágono del polo norte fue descrito por primera vez en 1988 a partir de imágenes de la sonda Voyager.",
+        "El polo sur de Saturno no fue visible desde la Tierra entre 2012 y 2023 debido a la inclinación axial del planeta.",
+        "En 2023 astrónomos aficionados compartieron observaciones que indicaron la presencia de la estructura antes de que Hubble la capturara.",
+        "El estudio que describe el decágono incluye la participación de astrofísicos españoles que analizaron los datos de Hubble."
+      ],
+      "conclusion": "Este descubrimiento amplía la comprensión de la dinámica atmosférica de Saturno y demuestra el valor de la colaboración entre aficionados y la comunidad científica para obtener datos inéditos."
+    },
+    {
+      "title": "‘La bola negra’, ‘El ser querido’ y ‘Los domingos’, finalistas para representar a España en los Oscar",
+      "url": "https://www.eldiario.es/cultura/cine/bola-negra-querido-domingos-tres-finalistas-representar-espana-oscar_1_13483931.html",
+      "image": "https://static.eldiario.es/clip/91d757fd-e710-4b31-be76-b46f51d60222_facebook-aspect-ratio-1200-675_default_0_x1010y436.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "que_paso": "La Academia de Cine ha presentado a \"La bola negra\" de los Javis, \"El ser querido\" de Rodrigo Sorogoyen y \"Los domingos\" de Alauda Ruiz de Azúa como los tres candidatos que competirán por ser la película española en los Oscar 2027; la decisión final la tomarán los miembros de la academia y se anunciará el 16 de septiembre, sustituyendo a \"Sirat\" de Oliver Laxe, que representó a España en 2026.",
+      "datos": [
+        "Los tres finalistas fueron anunciados por la Academia de Cine el 3 de septiembre de 2026",
+        "La votación final se realizará entre los miembros de la academia y el resultado se dará a conocer el 16 de septiembre de 2026",
+        "En Cannes 2026, \"La bola negra\" y \"El ser querido\" compitieron en la Sección Oficial y \"La bola negra\" ganó el premio a la mejor dirección",
+        "Netflix ha preparado la campaña promocional más larga en EE. UU. antes del estreno de \"La bola negra\" en la plataforma",
+        "La canción \"La nieve\", compuesta por Guitarricadelafuente y Raül Refree, ha sido presentada para una posible nominación al Oscar"
+      ],
+      "conclusion": "El proceso muestra el creciente impulso de España en el circuito internacional y la fuerte apuesta de Netflix, lo que podría traducirse en mayor visibilidad y oportunidades de distribución para la película ganadora."
+    },
+    {
+      "title": "La toxicidad del embalse gallego de As Conchas llega a Portugal y los vecinos vuelven al juzgado por la inacción de Xunta y Gobierno",
+      "url": "https://elpais.com/espana/galicia/2026-09-03/la-toxicidad-del-embalse-gallego-de-as-conchas-llega-a-portugal-y-los-vecinos-vuelven-al-juzgado-por-la-inaccion-de-xunta-y-gobierno.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/UPI6VPDJMNHY7B2FSZGKQXROEQ.jpg?auth=d72b90f418230ef140287325c266e7d7cb9e5d1ebbcdb0d1b1a964bb38ba3843",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Los vecinos del municipio cercano al embalse de As Conchas han presentado una nueva demanda para obligar a la ejecución de la sentencia que, hace más de un año, responsabilizó a la Xunta de Galicia y al Gobierno español por la contaminación del embalse con purines de granjas, una contaminación que ya ha llegado a territorio portugués.",
+      "datos": [
+        "El embalse As Conchas está situado en la provincia de Ourense",
+        "La contaminación proviene de purines de cientos de granjas de la zona",
+        "La polución ha cruzado la frontera y afecta al cauce que desemboca en Portugal",
+        "Hace más de un año un tribunal condenó a la Xunta y al Gobierno por vulnerar el derecho a la vida",
+        "Los vecinos han interpuesto una demanda para la ejecución de esa sentencia"
+      ],
+      "conclusion": "El caso muestra que la inacción frente a la gestión de residuos agropecuarios genera responsabilidad legal y daños transfronterizos, obligando a las administraciones a adoptar medidas preventivas urgentes."
+    },
+    {
+      "title": "Here’s the first 4K 120Hz UST projector with optical lens shift",
+      "url": "https://www.theverge.com/gadgets/986005/awol-visions-4k-120hz-ust-projector-is-first-with-optical-lens-shift",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Man-Cave.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
       "source": "The Verge",
       "language": "en",
-      "que_paso": "Microsoft will start rolling out the Windows 11 memory‑integrity security feature to eligible PCs in October 2026, automatically enabling Virtualization‑based Security unless the user has already turned the feature off. The change is aimed at tightening kernel‑level protection but may reduce frame rates on older processors, prompting gamers to toggle the setting around play sessions.",
+      "que_paso": "Awol Vision announced the LuxVision, a new ultra‑short‑throw projector that adds optical lens shift to preserve 4K detail without moving the unit, and is being marketed toward sports viewers and gamers ahead of an October launch, with pre‑order discounts beginning September 5.",
       "datos": [
-        "Rollout scheduled for October 2026 (the month after the September 2 2026 article).",
-        "Feature is called Memory Integrity and is part of Virtualization‑based Security (VBS).",
-        "Peter Waxman, Group Program Manager at Microsoft, announced the update.",
-        "Microsoft stated the feature can cause noticeable framerate drops on older CPUs while newer CPUs see less impact.",
-        "Users can enable or disable Memory Integrity via the Core Isolation page in Windows Security, and Microsoft will not re‑enable it automatically if it was previously disabled."
+        "6000 ISO lumens brightness",
+        "4K resolution at 120 Hz refresh rate",
+        "Vertical optical lens shift for image positioning",
+        "Input lag approximately 1 ms with Dolby Vision Gaming HDR, ALLM and VRR support",
+        "Three HDMI 2.1 ports, one DisplayPort, and HDMI Multiview for up to four simultaneous sources",
+        "Launch price $6,499 / €5,999 / £4,999, with an additional ~$1,000 recommended for an ALR screen"
       ],
-      "conclusion": "Ops managers must weigh the added kernel‑level protection against potential gaming performance loss, especially on legacy hardware, and plan to toggle the setting only when needed."
+      "conclusion": "The LuxVision’s combination of true 4K 120 Hz performance and optical lens shift makes it a viable high‑end TV alternative for immersive sports and gaming, but its premium price and accessory costs limit immediate mass adoption."
     },
     {
-      "title": "U.N. Says World Will Miss Its 1.5-Degree Climate Target",
-      "url": "https://www.nytimes.com/2026/09/02/climate/united-nations-climate-target-overshoot.html",
-      "image": "https://static01.nyt.com/images/2026/09/01/multimedia/01CLI-CLIMATE-OVERSHOOT-zfwl/01CLI-CLIMATE-OVERSHOOT-zfwl-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "The United Nations climate body announced that current emissions trajectories will exceed the 1.5 °C warming limit. It introduced a proposal to set a new target that caps the amount of temperature overshoot and later seeks to reverse the gain, acknowledging the approach is highly uncertain.",
-      "datos": [
-        "The UN stated the world will miss the 1.5 °C target",
-        "The proposal calls for limiting the “overshoot” of rising temperatures",
-        "It aims to eventually determine how to undo temperature gains",
-        "The pathway is described as “highly uncertain”"
-      ],
-      "conclusion": "This signals that existing mitigation plans are insufficient and that policymakers must consider strategies to manage and reverse warming, not just limit it."
-    },
-    {
-      "title": "U.S.S. Abraham Lincoln Docks in Thailand, Giving Weary Crew a Break",
-      "url": "https://www.nytimes.com/2026/09/02/world/asia/uss-lincoln-arrives-thailand.html",
-      "image": "https://static01.nyt.com/images/2026/09/02/multimedia/02int-thailand-lincoln-01-qwfl/02int-thailand-lincoln-01-qwfl-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "The U.S.S. Abraham Lincoln, a U.S. Navy aircraft carrier, pulled into a Thai port to give its crew a rest after a demanding deployment. The ship’s sailors and Marines, who had been operating in the ongoing war in Iran, were granted shore leave. The stop was intended to alleviate fatigue before the carrier resumes its mission.",
-      "datos": [
-        "Thousands of sailors and Marines serve on the U.S.S. Abraham Lincoln",
-        "The vessel came into the spotlight because of a tough deployment in the war in Iran",
-        "The carrier docked in Thailand",
-        "The crew received a break after the deployment"
-      ],
-      "conclusion": "The pause restores personnel readiness and signals continued U.S. naval presence in Southeast Asia, which can affect regional operational planning."
-    },
-    {
-      "title": "El Gobierno pide a la Fiscalía que investigue el tiroteo de una orca desde un barco español",
-      "url": "https://www.eldiario.es/sociedad/gobierno-pide-fiscalia-investigue-tiroteo-orca-barco-espanol_1_13481340.html",
-      "image": "https://static.eldiario.es/clip/2caf5eef-1f98-4f56-9d9c-1fb8b5e39343_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "que_paso": "El Ministerio de Transición Ecológica ha solicitado a la Fiscalía que investigue el disparo contra la orca Toñi, realizado desde un barco español en aguas portuguesas en agosto, y ha pedido a la Guardia Civil que identifique a los presuntos responsables y verifique la tenencia de armas. La petición se produce en el marco de la protección de la especie, catalogada como vulnerable en el estrecho de Gibraltar.",
-      "datos": [
-        "El tiroteo ocurrió en agosto de 2026 en aguas territoriales de Portugal.",
-        "El disparo fue efectuado desde un barco con bandera española.",
-        "La orca afectada, llamada Toñi, es el ejemplar más longevo del estrecho de Gibraltar.",
-        "Toñi presenta heridas de arma de fuego en la aleta dorsal.",
-        "Tras el incidente, Toñi y su grupo fueron avistados en aguas gallegas.",
-        "El Código Penal español establece una pena de seis meses a dos años de cárcel por delito contra fauna protegida."
-      ],
-      "conclusion": "El caso evidencia la vulnerabilidad de la población de orcas del estrecho y el riesgo de sanciones penales por agresiones a fauna protegida, lo que obliga a reforzar la vigilancia y la normativa en actividades marítimas."
-    },
-    {
-      "title": "El delegado carga contra quienes han \"intentado engañar\" con las manifestaciones por Ceuta para \"generar más ruido\"",
-      "url": "https://www.europapress.es/madrid/noticia-delegado-carga-contra-quienes-intentado-enganar-manifestaciones-ceuta-generar-mas-ruido-20260902102535.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260902102535_1200.jpg",
-      "source": "Europa Press Ciencia",
-      "language": "es",
-      "que_paso": "El delegado del Gobierno en la Comunidad de Madrid, Francisco Martín, criticó este miércoles a ciertos actores que, según él, intentaron manipular la percepción sobre la legalidad de las manifestaciones realizadas en Ceuta, con el fin de crear mayor polémica.",
-      "datos": [
-        "Francisco Martín es el delegado del Gobierno en la Comunidad de Madrid",
-        "La declaración se emitió el miércoles 2 de septiembre de 2026",
-        "Se refirió a las manifestaciones celebradas en Ceuta",
-        "Acusó a \"quienes han intentado engañar\" sobre la legalidad de esas protestas",
-        "Indicó que el objetivo de esos intentos era \"generar más ruido\""
-      ],
-      "conclusion": "El mensaje subraya la intención del gobierno de controlar la narrativa sobre la legalidad de protestas y alerta a los operadores a no usar la polémica como herramienta de presión."
-    },
-    {
-      "title": "Heridas dos personas por la explosión de un objeto no identificado cerca de la estación de tren de Augsburgo, Alemania",
-      "url": "https://www.europapress.es/internacional/noticia-heridas-dos-personas-explosion-objeto-no-identificado-cerca-estacion-tren-augsburgo-alemania-20260902102310.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260902102310_1200.jpg",
+      "title": "Irán afirma haber colocado \"más minas\" en Ormuz y se burla de la propuesta de Trump de poner su nombre al estrecho",
+      "url": "https://www.europapress.es/internacional/noticia-iran-afirma-haber-colocado-mas-minas-ormuz-burla-propuesta-trump-poner-nombre-estrecho-20260903102905.html",
+      "image": "https://s01.europapress.net/imagenes/estaticos/OpenGraph_EP_1024x512.jpg",
       "source": "Europa Press Tecnología",
       "language": "es",
-      "que_paso": "Una explosión de origen desconocido se produjo cerca de la estación central de trenes de Augsburgo, provocando heridos y movilizando a los servicios de emergencia locales.",
+      "que_paso": "Las Fuerzas Armadas de Irán anunciaron el jueves que han colocado más minas en el corredor sur del estrecho de Ormuz y se burlaron de la sugerencia del presidente estadounidense Donald Trump de nombrar el paso con su nombre, en medio de una escalada de tensiones y ataques recientes.",
       "datos": [
-        "Al menos dos personas resultaron heridas.",
-        "La explosión ocurrió cerca de la estación central de trenes de Augsburgo.",
-        "El incidente tuvo lugar el miércoles 2 de septiembre de 2026.",
-        "Las autoridades locales confirmaron el suceso.",
-        "Augsburgo está situada en el sur de Alemania."
+        "El anuncio se realizó el 3 de septiembre de 2026.",
+        "Las minas fueron instaladas en el corredor sur del estrecho de Ormuz.",
+        "El comunicado provino de las Fuerzas Armadas de Irán.",
+        "Donald Trump propuso que el estrecho lleve su nombre.",
+        "El mensaje se dio en el contexto de intercambios de ataques en los últimos días."
       ],
-      "conclusion": "El hecho subraya la vulnerabilidad de los grandes núcleos de transporte y la necesidad de reforzar la vigilancia y los protocolos de seguridad en estaciones ferroviarias."
+      "conclusion": "El aumento de minas en Ormuz eleva el riesgo para el tráfico marítimo y muestra una respuesta iraní a la presión política estadounidense, lo que implica una mayor incertidumbre para la seguridad del comercio global."
     },
     {
-      "title": "Almeida acusa al delegado de intentar \"desincentivar y desalentar\" la asistencia a la concentración de Cibeles",
-      "url": "https://www.europapress.es/madrid/noticia-almeida-acusa-delegado-intentar-desincentivar-desalentar-asistencia-concentracion-cibeles-20260902101200.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260902101200_1200.jpg",
-      "source": "Europa Press Ciencia",
-      "language": "es",
-      "que_paso": "El alcalde de Madrid, José Luis Martínez-Almeida, criticó públicamente al delegado del Gobierno en la comunidad, Francisco Martín, alegando que sus declaraciones buscan reducir la participación ciudadana en una manifestación programada para apoyar a Ceuta. La concentración está prevista para este miércoles a las 20:00 en la plaza de Cibeles y forma parte de la respuesta a la situación en la ciudad norteafricana.",
-      "datos": [
-        "José Luis Martínez-Almeida es el alcalde de Madrid",
-        "Francisco Martín es el delegado del Gobierno en Madrid",
-        "La concentración se celebrará el miércoles a las 20:00 en la plaza de Cibeles",
-        "El objetivo de la manifestación es apoyar a Ceuta",
-        "Almeida acusó a Martín de intentar \"desincentivar y desalentar\" la asistencia"
-      ],
-      "conclusion": "El conflicto entre la alcaldía y la representación del Gobierno evidencia tensiones políticas sobre la gestión de protestas y la cuestión de Ceuta, lo que puede afectar la movilización ciudadana y la percepción de autoridad local."
-    },
-    {
-      "title": "Un abogado explica qué hacer ante las llamadas publicitarias: “No debería ser el ciudadano quien tenga que defenderse”",
-      "url": "https://www.eldiario.es/consumoclaro/abogado-explica-llamadas-publicitarias-no-deberia-ciudadano-tenga-defenderse-xp_1_13479999.html",
-      "image": "https://static.eldiario.es/clip/a6e50a46-df1d-4685-839e-11f81febc9de_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "que_paso": "El abogado Miguel Crespo, de la Federación de Consumidores y Usuarios CECU, explicó que, pese a la reforma legal de 2023, los ciudadanos siguen recibiendo llamadas publicitarias porque la normativa permite excepciones que no siempre se cumplen. Detalló cuándo una llamada es legal (consentimiento válido o interés legítimo) y qué debe hacer el consumidor si se opone a recibirlas.",
-      "datos": [
-        "Miguel Crespo es abogado de la Federación de Consumidores y Usuarios CECU.",
-        "La normativa española que protege al consumidor de llamadas comerciales entró en vigor el 29 de junio de 2023.",
-        "El consentimiento para recibir llamadas debe ser explícito; una casilla premarcada no es válido según el abogado.",
-        "Las empresas de telefonía o suministro eléctrico pueden llamar a sus clientes sin consentimiento específico para ofrecer productos relacionados.",
-        "Si el consumidor ha expresado oposición a recibir llamadas, la empresa debe detenerlas de inmediato.",
-        "Las compañías están obligadas a identificar el número desde el que realizan llamadas comerciales, según regulaciones posteriores."
-      ],
-      "conclusion": "Conocer estas condiciones permite al usuario ejercer su derecho a bloquear llamadas no deseadas y exigir pruebas de consentimiento, reduciendo la molestia y el incumplimiento de la normativa."
-    },
-    {
-      "title": "Jordania anuncia el derribo de diez misiles lanzados por Irán y asegura que no hay víctimas",
-      "url": "https://www.europapress.es/internacional/noticia-jordania-anuncia-derribo-diez-misiles-lanzados-iran-asegura-no-hay-victimas-20260902095809.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260902095809_1200.jpg",
-      "source": "Europa Press Tecnología",
-      "language": "es",
-      "que_paso": "El Ejército de Jordania informó que, en respuesta a los bombardeos estadounidenses a Irán, sus sistemas antimisiles interceptaron diez misiles balísticos lanzados por Irán. Otros tres proyectiles alcanzaron zonas remotas sin causar víctimas.",
-      "datos": [
-        "Diez misiles balísticos fueron derribados por fuerzas jordanas",
-        "Tres misiles impactaron en áreas remotas sin generar víctimas",
-        "Los lanzamientos provinieron de Irán como represalia a los bombardeos de EE.UU",
-        "El anuncio se realizó el miércoles 2 de septiembre de 2026",
-        "El Ejército de Jordania confirmó la ausencia de heridos"
-      ],
-      "conclusion": "El hecho evidencia la capacidad de defensa aérea de Jordania y que, pese a la tensión regional, la amenaza directa para la población local se mantiene contenida."
-    },
-    {
-      "title": "Albares reclama a la UE \"la misma solidaridad\" con Ceuta que con el resto de fronteras europeas",
-      "url": "https://www.europapress.es/nacional/noticia-albares-reclama-ue-misma-solidaridad-ceuta-resto-fronteras-europeas-20260902095533.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260902095533_1200.jpg",
-      "source": "Europa Press Ciencia",
-      "language": "es",
-      "que_paso": "El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares, solicitó a la UE que brinde a Ceuta y Melilla la misma solidaridad que ha ofrecido a otras fronteras europeas, y denunció que algunos gobiernos europeos están difundiendo información errónea sobre la crisis migratoria en esas ciudades. La petición se produce en medio de la creciente presión migratoria en los enclaves españoles del norte de África.",
-      "datos": [
-        "José Manuel Albares es el ministro de Asuntos Exteriores, Unión Europea y Cooperación de España.",
-        "Albares pidió a la UE que muestre la misma solidaridad con Ceuta y Melilla que con otras fronteras europeas.",
-        "Afirmó que España ha ofrecido solidaridad en otras crisis fronterizas europeas.",
-        "Criticó que \"algunos\" gobiernos europeos han contribuido a amplificar desinformación sobre la crisis migratoria en Ceuta y Melilla.",
-        "La declaración se realizó en el contexto de la crisis migratoria que afecta a los enclaves españoles en el norte de África."
-      ],
-      "conclusion": "El reclamo subraya la necesidad de una respuesta europea coordinada y basada en datos para la gestión migratoria en Ceuta y Melilla, evitando la desinformación que dificulta la toma de decisiones operativas."
-    },
-    {
-      "title": "El pueblo pesquero de Fuerteventura con playas de arena blanca y piscinas naturales entre las rocas de la costa",
-      "url": "https://www.eldiario.es/viajes/pueblo-pesquero-fuerteventura-playas-arena-blanca-piscinas-naturales-rocas-costa_1_13457823.html",
-      "image": "https://static.eldiario.es/clip/e3677118-31e8-41f4-8f75-da2c8b546032_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "que_paso": "El Cotillo, pueblo pesquero del extremo norte de Fuerteventura en el municipio de La Oliva, combina su tradición marítima y su patrimonio histórico con un litoral de playas de arena blanca y piscinas naturales. Sus calles de casas enjalbegadas y monumentos como la Torre del Tostón recuerdan su pasado defensivo, mientras que la zona costera atrae a visitantes que buscan tranquilidad y actividades náuticas.",
-      "datos": [
-        "El Cotillo está ubicado en el extremo norte de la isla de Fuerteventura, dentro del municipio de La Oliva.",
-        "La Torre del Tostón, también llamada Castillo del Tostón, data del siglo XVII y se construyó para frenar la piratería.",
-        "La playa de La Concha, de forma herradura, está galardonada con la Bandera Azul y está protegida por un arrecife natural de piedra volcánica que actúa como rompeolas.",
-        "Los corralitos son muros circulares de piedra volcánica que forman piscinas naturales de escasa profundidad y se utilizan para el baño y el sol.",
-        "El ecosistema bajo la superficie de las bahías alberga múltiples especies de fauna canaria, visibles entre basalto y arena fina."
-      ],
-      "conclusion": "La combinación de patrimonio histórico y litoral de alta calidad convierte a El Cotillo en un destino atractivo para el turismo sostenible, generando oportunidades económicas locales sin comprometer su identidad tradicional."
-    },
-    {
-      "title": "Cómo solicitar el certificado digital para hacer trámites con el móvil sin acudir a una oficina de empleo",
-      "url": "https://www.eldiario.es/economia/tu-economia/solicitar-certificado-digital-tramites-movil-acudir-oficina-empleo_1_13457693.html",
-      "image": "https://static.eldiario.es/clip/b4c06752-7b43-4091-8453-80b29682b972_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "que_paso": "El proceso permite a cualquier ciudadano español o extranjero solicitar el Certificado Electrónico de Ciudadano desde su móvil, eligiendo entre DNI electrónico, acreditación presencial o videoidentificación, y completar la descarga sin desplazarse a una oficina.",
-      "datos": [
-        "La FNMT expide el Certificado Electrónico de Ciudadano.",
-        "Puede solicitarlo cualquier ciudadano español o extranjero mayor de edad o menor emancipado con DNI o NIE.",
-        "La identificación por vídeo tiene un coste de 2,99 € más IVA.",
-        "La revisión de la videoidentificación tarda aproximadamente 48 horas hábiles.",
-        "La aplicación oficial de la FNMT está disponible gratuitamente para iOS y Android.",
-        "Si se usa el DNIe, es necesario el PIN; si se olvida, se renueva en la Policía Nacional."
-      ],
-      "conclusion": "Este método agiliza trámites oficiales, reduce desplazamientos y tiempos de gestión, lo que mejora la eficiencia operativa y la experiencia del usuario."
-    },
-    {
-      "title": "Kuwait denuncia un incendio en un \"complejo residencial\" por la última oleada de ataques de Irán",
-      "url": "https://www.europapress.es/internacional/noticia-kuwait-denuncia-incendio-complejo-residencial-ultima-oleada-ataques-iran-20260902091114.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260902091114_1200.jpg",
-      "source": "Europa Press Tecnología",
-      "language": "es",
-      "que_paso": "El miércoles se registró un incendio en un complejo residencial de la capital kuwaití, atribuido a la reciente oleada de ataques iraníes. Las autoridades locales confirmaron que el fuego fue controlado sin que se reportaran víctimas. El suceso ocurre en medio de crecientes tensiones entre Kuwait e Irán.",
-      "datos": [
-        "Fecha del incidente: miércoles 2 de septiembre de 2026.",
-        "Ubicación: un complejo residencial en la ciudad de Kuwait, capital de Kuwait.",
-        "Causa atribuida: la última oleada de ataques perpetrados por Irán.",
-        "Resultado: el incendio se extinguió sin víctimas.",
-        "Estado actual: las llamas están bajo control.",
-        "Fuente: autoridades de Kuwait."
-      ],
-      "conclusion": "El hecho muestra cómo la escalada de hostilidades regionales puede impactar directamente la seguridad civil, lo que obliga a los gestores operativos a reforzar planes de contingencia."
-    },
-    {
-      "title": "Los Veintisiete discutirán hoy qué respuesta dar a Rusia por el ataque fallido contra Alemania",
-      "url": "https://www.europapress.es/internacional/noticia-veintisiete-discutiran-hoy-respuesta-dar-rusia-ataque-fallido-contra-alemania-20260902090628.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260902090628_1200.jpg",
-      "source": "Europa Press Tecnología",
-      "language": "es",
-      "que_paso": "Los ministros de Asuntos Exteriores de la UE se reunirán hoy en Irlanda para decidir cómo responder a Rusia tras el intento fallido de ataque con drones bomba en el aeropuerto de Leipzig el mes pasado. Alemania ha señalado a Rusia como responsable y los demás estados miembros han condenado el hecho.",
-      "datos": [
-        "La reunión informal de los ministros de Asuntos Exteriores de la UE se celebra el 2 de septiembre de 2026 en Irlanda.",
-        "El ataque con drones bomba tuvo lugar en el aeropuerto de Leipzig en agosto de 2026 y no logró su objetivo.",
-        "Alemania anunció el martes 1 de septiembre de 2026 que atribuye el ataque a Rusia.",
-        "Varios países europeos emitieron declaraciones de condena al incidente.",
-        "La UE está evaluando una respuesta coordinada contra Rusia."
-      ],
-      "conclusion": "Una respuesta conjunta de la UE podría marcar un nuevo nivel de presión sobre Moscú y afectar la planificación de seguridad en infraestructuras críticas europeas."
-    },
-    {
-      "title": "La regularización alivia la reducción de empleo del final del verano a 162.800 personas, aunque empuja al alza el paro",
-      "url": "https://www.eldiario.es/economia/regularizacion-alivia-reduccion-empleo-final-verano-162-800-personas-empuja-alza-paro_1_13480870.html",
-      "image": "https://static.eldiario.es/clip/c694ca12-0eca-4a72-b6cd-d4b3ec6c513f_facebook-aspect-ratio-1200-675_default_0_x1161y300.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "que_paso": "La regularización extraordinaria de migrantes iniciada a mediados de abril redujo la caída típica del empleo al final del verano a 162.800 puestos, pero al mismo tiempo provocó un aumento del paro de 44.400 personas, el doble que el del año anterior. Este fenómeno afecta principalmente a sectores como la hostelería, la construcción y el trabajo del hogar, donde la afiliación de extranjeros ha crecido de forma notable.",
-      "datos": [
-        "La caída del empleo en agosto fue de 162.800 puestos, la segunda más baja de la última década.",
-        "El paro registrado aumentó en 44.400 personas, el doble que en 2025.",
-        "Al 31 de agosto, 337.900 extranjeros fueron dados de alta en la Seguridad Social: 134.500 mujeres y 203.400 hombres.",
-        "El total de afiliados a la Seguridad Social alcanzó 22,3 millones, tras el récord de 22,5 millones en julio.",
-        "En agosto, la afiliación de extranjeros subió 39.500 respecto a julio, frente a 3.800 en 2025 y una reducción de 22.000 en 2024.",
-        "El paro de extranjeros se incrementó en 16.000 personas en agosto, a diferencia de descensos de 4.000 en 2025 y 2.000 en 2024."
-      ],
-      "conclusion": "La regularización está modificando la composición del mercado laboral, ofreciendo más mano de obra formal en sectores clave pero también inflando el registro de desempleo, lo que obliga a ajustar la planificación de recursos humanos y las previsiones de contratación."
-    },
-    {
-      "title": "Israel bombardea Líbano \"en respuesta\" al lanzamiento de dos drones de Hezbolá contra sus tropas",
-      "url": "https://www.europapress.es/internacional/noticia-israel-bombardea-libano-respuesta-lanzamiento-dos-drones-hezbola-contra-tropas-libano-20260902085903.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260902085903_1200.jpg",
-      "source": "Europa Press Tecnología",
-      "language": "es",
-      "que_paso": "El ejército israelí llevó a cabo bombardeos en el sur de Líbano como respuesta al lanzamiento de dos drones por parte de Hezbolá contra sus fuerzas desplegadas. La acción se produce pese al alto el fuego acordado entre las autoridades libanesas e israelíes y, hasta el momento, no se han reportado víctimas.",
-      "datos": [
-        "Los bombardeos se realizaron el miércoles 2 de septiembre de 2026",
-        "Hezbolá lanzó dos drones contra tropas israelíes",
-        "El ejército de Israel describió la operación como una respuesta a esos drones",
-        "No se han comunicado víctimas tras los ataques",
-        "Existe un alto el fuego vigente entre Líbano e Israel",
-        "Las tropas israelíes están desplegadas en la zona fronteriza del sur libanés"
-      ],
-      "conclusion": "El incidente muestra la fragilidad del cese de hostilidades y alerta sobre posibles escaladas que podrían afectar la seguridad operativa en la frontera."
-    },
-    {
-      "title": "La esperanza de hallar supervivientes disminuye una semana después de la riada del Himalaya: “La recuperación será un largo maratón”",
-      "url": "https://elpais.com/internacional/2026-09-02/la-esperanza-de-hallar-supervivientes-disminuye-una-semana-despues-de-la-riada-del-himalaya-la-recuperacion-sera-un-largo-maraton.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/GDO6GZQ2IFKUPAUWOLBU4NBENE.jpg?auth=437f5f9a9e7358ba5d2a8309dc304306abc6aab7dd0a6ba6c35a838942b9390d",
+      "title": "Quintanar del Rey gana el ‘Grand Prix’ en una final que emociona a Ramón García: “No es solo la audiencia”",
+      "url": "https://elpais.com/television/2026-09-03/quintanar-del-rey-es-el-pueblo-ganador-del-grand-prix-del-verano-2026.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/6CMHY62WMNHKDFZITBSEDHH4JE.jpg?auth=aec9205e5ccd474a22833753ac43bcbf96860308bf0db177590983d4953fc42d",
       "source": "El País",
       "language": "es",
-      "que_paso": "Una semana después de la inundación en la zona del Himalaya, las autoridades de Nepal han centrado sus esfuerzos en la reconstrucción mientras el número de víctimas sigue aumentando. Las autoridades locales intentan organizar la ayuda mientras la incertidumbre sobre los desaparecidos persiste.",
+      "que_paso": "En la final del Grand Prix, la localidad conquense venció a la barcelonesa Polinyà en un programa que alcanzó una cuota de pantalla media del 11,7%, y el presentador Ramón García subrayó que el éxito no depende solo de la audiencia.",
       "datos": [
-        "Más de 1.100 personas fallecidas en Nepal",
-        "Casi 5.000 desaparecidos en Nepal",
-        "China reportó 16 fallecidos y 546 desaparecidos",
-        "China no ha actualizado esas cifras desde el domingo 26 de agosto de 2026",
-        "El gobierno nepalí ha anunciado que la respuesta se orienta a la reconstrucción",
-        "Frase del portavoz: “La recuperación será un largo maratón”"
+        "Quintanar del Rey (Conquista) ganó la final contra Polinyà (Barcelona).",
+        "El programa obtuvo una cuota de pantalla media del 11,7%.",
+        "Ramón García declaró: “No es solo la audiencia”.",
+        "La competición se llamó ‘Grand Prix’.",
+        "La final se celebró en la localidad conquense."
       ],
-      "conclusion": "El elevado saldo de muertos y desaparecidos y la ausencia de datos actualizados subrayan la necesidad de recursos prolongados y coordinación internacional para una recuperación eficaz."
+      "conclusion": "El triunfo evidencia que la calidad y el impacto del contenido pueden ser más relevantes que los índices de audiencia, lo que invita a los organizadores y anunciantes a considerar métricas más amplias."
     },
     {
-      "title": "This new Roomba seals itself to your carpet",
-      "url": "https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Roomba_Max_875_Combo_Email_Onboarding_Touch1_Hero_Mobile_425x300.jpg?quality=90&strip=all&crop=0,12.914485165794,100,74.171029668412",
+      "title": "David Broncano: “Temo que esta sea mi última presentación en TVE, todos sabemos lo que puede pasar”",
+      "url": "https://elpais.com/television/2026-09-03/david-broncano-temo-que-esta-sea-mi-ultima-presentacion-en-tve-todos-sabemos-lo-que-puede-pasar.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/Q6PAYBC7VVP45G7CXYGD32BGCM.jpg?auth=b310698c8c9a82acb18f479b652587924051d5d881b567363f368645cc17141b",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Radiotelevisión Española celebró este miércoles la gala de presentación de sus apuestas principales para la nueva temporada televisiva. Durante el acto oficial, David Broncano intervino como uno de los fichajes clave de la cadena pública, bromeando sobre la incertidumbre y la polémica que han rodeado su contratación.",
+      "datos": [
+        "Declaración textual de David Broncano: 'Temo que esta sea mi última presentación en TVE, todos sabemos lo que puede pasar'.",
+        "Entidad organizadora del evento: Radio Televisión Española (TVE).",
+        "Fecha de la presentación de temporada: Miércoles 2 de septiembre de 2026.",
+        "Rol asignado al presentador: Protagonista de la franja de acceso al horario estelar en la cadena pública."
+      ],
+      "conclusion": "El movimiento estratégico de TVE para competir en el 'access prime time' comienza bajo una intensa presión mediática y política, donde la medición de audiencias de las primeras semanas será determinante para su estabilidad."
+    },
+    {
+      "title": "Sánchez: “Si existieran pruebas contra Marruecos actuaríamos, pero no hay evidencias sólidas”",
+      "url": "https://elpais.com/espana/2026-09-03/sanchez-si-existieran-pruebas-contra-marruecos-actuariamos-pero-no-hay-evidencias-solidas.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/RA46U2IENVOPXJ25J6FWBBH7AI.jpg?auth=c48308e69b97d0348a6196b2e941d72f0d4a678a9ab445c6f64d37ddb70a6bb7",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "El presidente Pedro Sánchez declaró que, al no contar con pruebas concluyentes contra Marruecos, el Gobierno publicará los informes relacionados y señaló que el 21 de agosto se realizó una llamada a la embajadora marroquí. Por su parte, Alberto Núñez Feijóo, líder del PP, sostuvo que la operación provino de Marruecos y cuestionó al presidente.",
+      "datos": [
+        "Pedro Sánchez anunció que hará públicos todos los informes sobre la supuesta operación.",
+        "El Gobierno español contactó a la embajadora de Marruecos el 21 de agosto.",
+        "Sánchez afirmó que no existen pruebas sólidas contra Marruecos.",
+        "Alberto Núñez Feijóo declaró que la operación salió de Marruecos y preguntó \"¿Qué saben de usted?\"",
+        "La declaración se dio en una rueda de prensa el 3 de septiembre de 2026."
+      ],
+      "conclusion": "La falta de evidencia limita la capacidad de respuesta del Gobierno y aumenta la tensión diplomática, lo que obliga a basar cualquier medida en datos verificables."
+    },
+    {
+      "title": "Cassandra Wilson, Star Jazz Singer, Dies at 70",
+      "url": "https://www.nytimes.com/2026/09/02/arts/music/cassandra-wilson-dead.html",
+      "image": "https://static01.nyt.com/images/2026/09/02/multimedia/02obits-Wilson-lmbp/00obits-Wilson-lmbp-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "Cassandra Wilson, a celebrated jazz vocalist, passed away at the age of 70. Her career was defined by a low, smoky voice that fused Mississippi blues traditions into both original songs and cover performances. The announcement comes as the jazz community reflects on her lasting artistic impact.",
+      "datos": [
+        "Cassandra Wilson died at age 70",
+        "She was a native of Mississippi",
+        "She was known for a low, smoky vocal style",
+        "She performed both original compositions and covers",
+        "Her music blended jazz with blues traditions"
+      ],
+      "conclusion": "Her passing removes a unique bridge between jazz and blues, underscoring the need to nurture artists who integrate regional roots into contemporary music."
+    },
+    {
+      "title": "MediaMarkt estrena septiembre rebajando algunos de los móviles y relojes Samsung más buscados",
+      "url": "https://elpais.com/escaparate/ofertas-y-descuentos/mediamarkt-descuentos-moviles-samsung.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/7AAK4PH2JJBJJPK6PGDMYR2KOA.png?auth=6e8603b42ffe41584259456ab3ed7929430b2491dfe847d1744e1cd3c3c76224",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "En septiembre de 2026 MediaMarkt puso en marcha una campaña que combina cupones de descuento exclusivos con las rebajas del club miMediamarkt para impulsar la venta de smartphones y relojes inteligentes Samsung, productos que la compañía considera clave para el mercado este año. La iniciativa está dirigida a los consumidores españoles que buscan adquirir los dispositivos más demandados a precios reducidos.",
+      "datos": [
+        "MediaMarkt lanzó la promoción en septiembre de 2026",
+        "La oferta incluye smartphones Samsung",
+        "La oferta incluye relojes inteligentes Samsung",
+        "Se utilizan cupones de descuento exclusivos",
+        "Las rebajas forman parte del club miMediamarkt"
+      ],
+      "conclusion": "Esta estrategia muestra una presión competitiva en el sector retail español, ofreciendo a los compradores una vía de ahorro que puede acelerar la adopción de dispositivos Samsung y generar mayor tráfico en las tiendas de MediaMarkt."
+    },
+    {
+      "title": "Mueren más de 80 personas en un cayuco rescatado al sur de Canarias",
+      "url": "https://elpais.com/espana/2026-09-03/mueren-mas-de-80-personas-en-un-cayuco-rescatado-al-sur-de-canarias.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/5BHTJQIT5JK35G4Q4JMR43ZQGI.jpg?auth=29080ab93aad1beb6496bd0a4508ff54e1e05dfcb87502d2d655f50b76c8ad37",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Los servicios de Salvamento Marítimo interceptaron una embarcación precaria a la deriva en aguas al sur del archipiélago canario tras casi un mes de travesía. La nave había partido desde la costa de África occidental con más de un centenar de personas que quedaron expuestas a semanas de desabastecimiento en alta mar. Las autoridades lograron auxiliar a las personas que quedaban con vida mientras continúan las labores de atención a los afectados.",
+      "datos": [
+        "Organismo responsable del rescate: Salvamento Marítimo.",
+        "Fecha del rescate: Jueves 3 de septiembre de 2026.",
+        "Punto de partida: Gambia, 27 días antes del rescate.",
+        "Ocupantes iniciales: 128 personas a bordo.",
+        "Supervivientes localizados: 44 personas.",
+        "Cadáveres hallados en la embarcación: 8 personas (con más de 70 desaparecidos adicionales en el mar)."
+      ],
+      "conclusion": "El suceso evidencia la extrema letalidad y saturación operativa de la ruta atlántica hacia España, donde los tiempos de deriva superiores a tres semanas reducen drásticamente la tasa de supervivencia antes del contacto con los servicios de emergencia."
+    },
+    {
+      "title": "Sánchez garantiza \"contundencia\" si se verifica que Marruecos gestó la entrada en Ceuta pero dice que no hay \"pruebas\"",
+      "url": "https://www.europapress.es/nacional/noticia-sanchez-garantiza-contundencia-si-verifica-marruecos-gesto-entrada-ceuta-dice-no-hay-pruebas-20260903100734.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260903100734_1200.jpg",
+      "source": "Europa Press Ciencia",
+      "language": "es",
+      "que_paso": "El presidente del Gobierno, Pedro Sánchez, declaró que adoptará una postura firme si se comprueba que Marruecos organizó la infiltración de personas en Ceuta, aunque afirmó que aún no existen pruebas concluyentes. Además, confirmó que el pasado 21 de agosto convocó a la embajadora marroquí para exigir explicaciones y señaló la necesidad de replantear la cooperación bilateral.",
+      "datos": [
+        "Pedro Sánchez afirmó que no hay pruebas de que Marruecos haya gestado la entrada en Ceuta.",
+        "El 21 de agosto de 2026 se convocó a la embajadora de Marruecos en Madrid.",
+        "Sánchez prometió \"contundencia\" en caso de confirmarse la implicación marroquí.",
+        "El incidente de entrada irregular tuvo lugar en Ceuta, una ciudad autónoma española en la frontera con Marruecos.",
+        "La cooperación con Rabat debe ser \"diferente\", según declaró el presidente."
+      ],
+      "conclusion": "El mensaje subraya la presión política sobre Marruecos y la posible revisión de la política de cooperación, lo que implica que futuras acciones de seguridad en Ceuta podrían intensificarse."
+    },
+    {
+      "title": "El Ayuntamiento de Madrid prohíbe la exhibición de “símbolos políticos” en una verbena popular",
+      "url": "https://elpais.com/espana/madrid/2026-09-03/el-ayuntamiento-de-madrid-prohibe-la-exhibicion-de-simbolos-politicos-en-una-verbena-popular.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/PONFVGNELRFCREFFEX3K4AAKC4.jpg?auth=5b4315dcd7030a08bd6aaf78d48907eab856688d6bea597b54913c03b024d3f6",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Este jueves, 3 de septiembre de 2026, las asociaciones del distrito de Arganzuela se congregaron para protestar contra la amenaza de una concejala del Ayuntamiento de Madrid de imponer sanciones a las casetas vecinales que exhiban banderas que no sean las constitucionales durante las fiestas del distrito.",
+      "datos": [
+        "La manifestación tuvo lugar el 3 de septiembre de 2026.",
+        "Participaron asociaciones vecinales del distrito de Arganzuela, Madrid.",
+        "Una concejala del Ayuntamiento de Madrid anunció la posibilidad de sancionar a las casetas que cuelguen banderas no constitucionales.",
+        "La medida se aplicaría durante las fiestas populares del distrito de Arganzuela.",
+        "La prohibición se refiere específicamente a \"símbolos políticos\" en la exhibición de banderas."
+      ],
+      "conclusion": "Esta decisión muestra una mayor restricción de la expresión simbólica en eventos locales, lo que podría limitar la participación de colectivos y generar tensiones entre la administración municipal y la comunidad."
+    },
+    {
+      "title": "Zelenski critica el \"absolutamente vergonzoso\" tiroteo en Kiev entre agentes de dos servicios de seguridad",
+      "url": "https://www.europapress.es/internacional/noticia-zelenski-critica-absolutamente-vergonzoso-tiroteo-kiev-agentes-dos-servicios-seguridad-20260903100239.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260903100239_1200.jpg",
+      "source": "Europa Press Tecnología",
+      "language": "es",
+      "que_paso": "El miércoles en Kiev se produjo un enfrentamiento armado entre miembros de dos organismos de inteligencia y seguridad del país, lo que dejó varios heridos. El presidente Zelenski condenó el hecho y recordó la normativa sobre el uso de la fuerza contra las fuerzas rusas ocupantes.",
+      "datos": [
+        "El tiroteo tuvo lugar el miércoles 2 de septiembre de 2026 en la capital ucraniana, Kiev.",
+        "Participaron agentes de dos servicios de inteligencia y seguridad de Ucrania.",
+        "Al menos tres personas resultaron heridas en el intercambio de disparos.",
+        "El presidente Volodímir Zelenski describió el hecho como \"absolutamente vergonzoso\".",
+        "Zelenski afirmó que \"los disparos solo están permitidos contra los ocupantes rusos\"."
+      ],
+      "conclusion": "El episodio expone tensiones internas entre los cuerpos de seguridad ucranianos y destaca la importancia de una coordinación eficaz para evitar que incidentes internos desvíen recursos críticos de la defensa contra la ocupación rusa."
+    },
+    {
+      "title": "Así arrasó la peste de Mallorca de 1820, el último gran brote epidémico de peste en Europa occidental",
+      "url": "https://www.eldiario.es/spin/arraso-peste-mallorca-1820-ultimo-gran-brote-epidemico-peste-europa-occidental-pm_1_13482613.html",
+      "image": "https://static.eldiario.es/clip/021b65c1-58a9-4993-a8ab-8131bd1b3967_facebook-aspect-ratio-1200-675_default_0_x1774y960.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "que_paso": "En 1820 una epidemia de peste azotó el Levante mallorquín, iniciándose en Son Servera y propagándose rápidamente a municipios vecinos, con una mortalidad muy alta. Investigaciones recientes indican que, además del ciclo tradicional de ratas‑pulgas, hubo transmisión directa entre personas y formas neumónicas o septicémicas, lo que obliga a replantear la visión histórica del brote.",
+      "datos": [
+        "Más de 2.400 personas murieron en el brote.",
+        "El brote comenzó a principios de mayo de 1820 en Son Servera y se extendió a Artà, Capdepera y Sant Llorenç.",
+        "La letalidad del episodio fue del 78 %.",
+        "Los periodos infecciosos fueron de aproximadamente 2,8 días en Son Servera y 2 días en Capdepera.",
+        "El estudio fue publicado en la revista PNAS por Joana Maria Pujadas‑Mora (UOC) y Pere Puig (UAB).",
+        "El origen probable fue un barco que llegó desde Tánger y desembarcó clandestinamente en Son Servera."
+      ],
+      "conclusion": "Revisar los modos de transmisión de la peste mejora la comprensión de brotes zoonóticos y ayuda a diseñar respuestas más efectivas ante enfermedades emergentes."
+    },
+    {
+      "title": "Maduro apela a su inmunidad como jefe de Estado e insta al juez estadounidense a desestimar los cargos",
+      "url": "https://elpais.com/internacional/2026-09-03/maduro-apela-a-su-inmunidad-como-jefe-de-estado-e-insta-al-juez-estadounidense-a-desestimar-los-cargos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/SFOOYOLKLVIARDMLRLXJHV54LE.jpg?auth=85bbcb34970789566bf7e1e5051db83b2ce3d6d85030964eb2646a01d61712e0",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Maduro, ex presidente de Venezuela, presentó ante un tribunal federal de Nueva York una moción solicitando que se le reconozca la inmunidad de jefe de Estado para que se desestimen los cargos penales que enfrenta. Su abogado defendió la solicitud ante el juez estadounidense a cargo del caso, pese a que Washington no reconoce su mandato. La petición busca que el tribunal descarte la acusación mientras él está bajo custodia.",
+      "datos": [
+        "Nicolás Maduro es el depuesto mandatario de Venezuela",
+        "Está detenido en una cárcel de Nueva York",
+        "Presentó una moción que invoca la inmunidad de jefe de Estado",
+        "Su abogado defendió la moción ante un tribunal federal",
+        "El gobierno de EE. UU. no reconoce a Maduro como presidente legítimo",
+        "El caso está bajo la jurisdicción de un juez federal estadounidense"
+      ],
+      "conclusion": "La solicitud pone a prueba la aplicación de la inmunidad diplomática en los tribunales estadounidenses y podría sentar un precedente para futuros procesos contra funcionarios extranjeros bajo acusación penal."
+    },
+    {
+      "title": "Anker’s sleep speaker uses radar and flower power to help you relax",
+      "url": "https://www.theverge.com/tech/985689/anker-put-radar-and-flower-power-into-a-sleep-speaker",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Sleep-Speaker-Lifestyle-1.png?quality=90&strip=all&crop=39.94453125%2C27.831602675974%2C60.05546875%2C55.897905759162&w=1200",
       "source": "The Verge",
       "language": "en",
-      "que_paso": "iRobot unveiled its newest flagship robot vacuum, the Roomba Max 875 Combo, at the IFA trade show in Berlin, now operating under the ownership of Picea Robotics. The model introduces a new SealForce sealing system that lowers a skirt around the cleaning head when carpet is detected, aiming to improve cleaning depth beyond traditional suction.",
+      "que_paso": "Anker introduced its SleepLab speaker, a bedside device that employs 60 GHz millimeter‑wave radar to monitor a sleeper’s chest movements, heart rate and breathing, and then uses binaural beats and adjustable lighting to promote deeper relaxation. The unit works as a standalone gadget, can be controlled by a single button, streams audio via Bluetooth, and is marketed without a subscription requirement.",
       "datos": [
-        "The Roomba Max 875 Combo is priced at $1,199.",
-        "It delivers 35,000 Pa of suction power, the highest iRobot has published.",
-        "Its vane‑type blower motor moves air at 20 L/s.",
-        "The robot can climb thresholds up to 3.5 cm high.",
-        "iRobot was purchased out of bankruptcy by Picea Robotics in January 2026.",
-        "The model was announced at IFA Berlin in early September 2026."
+        "The speaker uses 60 GHz millimeter‑wave radar to detect micro‑movements.",
+        "It tracks heart rate and breathing to identify sleep stages.",
+        "It combines radar data with binaural beats and programmable lighting to influence relaxation.",
+        "The device operates independently of a smartphone and does not require a paid subscription.",
+        "It can be reserved for $1, with the SleepLab Pro model priced at $269.99 with radar sensing or $169.99 without.",
+        "Audio can be streamed to the speaker via Bluetooth."
       ],
-      "conclusion": "The deeper carpet cleaning capability could reduce manual floor‑maintenance effort and costs, while the premium price signals iRobot’s strategic push to regain market leadership in autonomous cleaning solutions."
+      "conclusion": "The technology demonstrates how contact‑free radar can collect biometric data without wearables, offering a low‑cost, subscription‑free option for workplace wellness or environment‑control pilots; its price point and standalone design reduce barriers to early adoption."
     },
     {
-      "title": "Marlaska pregunta al director de la Policía por el supuesto informe que atribuía a fuerzas marroquíes la entrada de migrantes en Ceuta",
-      "url": "https://www.eldiario.es/politica/marlaska-pregunta-director-policia-supuesto-informe-atribuia-fuerzas-marroquies-entrada-migrantes-ceuta_1_13481015.html",
-      "image": "https://static.eldiario.es/clip/62c10434-dd6b-4062-9875-a65c20e6e3a7_facebook-aspect-ratio-1200-675_default_0_x536y540.jpg",
+      "title": "Anker’s Soundcore is bringing its incredible call quality to more headphones",
+      "url": "https://www.theverge.com/tech/986330/soundcore-headphones-earbuds-announcement-ifa-2026",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/soundcore-space-2-pro-lifestyle.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "language": "en",
+      "que_paso": "Soundcore used its IFA 2026 Berlin showcase to roll out a new line of headphones and earbuds that incorporate the Thus processing chip, which was first introduced in April on the Liberty 5 Pro earbuds. The lineup includes the Space 2 Pro headphones, AeroClip 2 (and Pro) open‑clip earbuds, and Liberty Buds 2, all aimed at delivering superior call quality and noise cancellation.",
+      "datos": [
+        "The Thus chip debuted in April on the Liberty 5 Pro earbuds",
+        "Space 2 Pro headphones feature a six‑microphone array for voice isolation and eight microphones for ANC, with ANC claimed 1.5 times stronger than the Space One Pro across 20 Hz‑2,000 Hz",
+        "Battery life is rated at 60 hours of listening at 50 % volume (30 hours with ANC) or 20 hours of talk time per charge",
+        "All three new products launch on September 22, 2026; Space 2 Pro is priced at $200, AeroClip 2 at $170, and Liberty Buds 2 at $130",
+        "Space 2 Pro will be sold in gray, white, and black in the US, EU, and UK markets",
+        "Liberty Buds 2 weigh 4.7 grams and use a six‑microphone ANC system"
+      ],
+      "conclusion": "The broader deployment of the AI‑driven Thus chip demonstrates scalable improvements in call clarity and noise reduction, offering concrete performance and battery metrics that can inform procurement and operational planning for remote‑work or contact‑center environments."
+    },
+    {
+      "title": "Anker’s new printer works directly on fabrics",
+      "url": "https://www.theverge.com/tech/986948/anker-eufymake-personal-fabric-printer-dtg-dtf-ifa",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ankerprinter1.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+      "source": "The Verge",
+      "language": "en",
+      "que_paso": "Anker’s eufyMake brand announced a personal fabric printer that will launch in spring 2027, offering both direct‑to‑garment and direct‑to‑film printing on textiles. The device aims to let users apply photos, logos or embroidered designs to T‑shirts, jeans, bags and hats without needing a full‑color embroidery machine.",
+      "datos": [
+        "Anker introduced a consumer‑friendly UV printer for wood, metal, glass and acrylic in 2025.",
+        "The new fabric printer is scheduled for launch in the spring of 2027.",
+        "It can perform direct‑to‑garment printing on soft, breathable fabrics and direct‑to‑film printing that uses a heat press for a broader range of fabrics.",
+        "The machine can reproduce colors accurately on both light and dark fabrics.",
+        "Anker states the printer can add color to embroidered designs, allowing use with a cheaper single‑color embroiderer."
+      ],
+      "conclusion": "The printer could enable on‑demand, low‑volume apparel customization while reducing capital outlay for multicolor embroidery equipment, offering a faster, data‑driven production workflow for small businesses."
+    },
+    {
+      "title": "Anker’s new MindBase is an AI-powered brain for your smart home",
+      "url": "https://www.theverge.com/tech/987936/anker-eufy-mindbase-ai-security-camera-system-matter",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Anker-MindBase_Lifestyle-image.jpg?quality=90&strip=all&crop=9.4895161290323%2C0%2C81.020967741935%2C100&w=1200",
+      "source": "The Verge",
+      "language": "en",
+      "que_paso": "Anker unveiled the Eufy MindBase, an on‑device AI hub for smart‑home security, at the IFA tech show in Berlin, positioning it as a local‑processing brain that can manage cameras and other connected devices without sending footage to the cloud.",
+      "datos": [
+        "The MindBase will run Matter 1.5 and support over 40 Matter device categories",
+        "It can handle up to 16 wireless cameras, four wired cameras, and 34 sensors",
+        "It offers up to 48 TB of expandable storage and includes a dedicated AI chip for on‑device processing",
+        "Connectivity includes dual‑band Wi‑Fi, Bluetooth, Thread, and Zigbee, and it integrates with Apple HomeKit Secure Video, Amazon Alexa, Google Home, and Home Assistant",
+        "Anker announced related products such as the TrackLight Cam S1 and the S4 video doorbell with a VR‑inspired mobile experience",
+        "No price or release date was disclosed at the announcement"
+      ],
+      "conclusion": "The MindBase gives users privacy‑preserving AI analytics and a unified control point for many smart‑home devices, eliminating the need for cloud subscriptions and simplifying home automation management."
+    },
+    {
+      "title": "Philips Hue adds Nanoleaf’s light panels to its ecosystem with a $40 module",
+      "url": "https://www.theverge.com/tech/988144/philips-hue-nanoleaf-smart-wall-panels-integration-module",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_9184.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+      "source": "The Verge",
+      "language": "en",
+      "que_paso": "Philips Hue announced that, as of September 3, 2026, its ecosystem can now control Nanoleaf’s Hexagon, Triangle and Mini Triangle wall panels through a new $39.99 Hue‑Nanoleaf Wall Light Module. The module embeds Hue’s Bluetooth, Zigbee and Thread stack, letting users manage the panels via the Hue app and, eventually, both Hue and Nanoleaf apps simultaneously.",
+      "datos": [
+        "$39.99 price for the Philips Hue x Nanoleaf Wall Light Module.",
+        "Launch date: September 3, 2026.",
+        "The module supports Bluetooth, Zigbee and Thread protocols concurrently.",
+        "Integration development took 18 months.",
+        "Nanoleaf CEO Gimmy Chu noted a recent patent infringement lawsuit by Hue’s parent company Signify against Nanoleaf.",
+        "Dual‑control functionality, allowing both Hue and Nanoleaf apps, is expected within the next few months."
+      ],
+      "conclusion": "The unified control reduces hardware complexity and enables richer automation across two major smart‑lighting brands, giving operations teams a single platform for lighting scenes and data collection."
+    },
+    {
+      "title": "Rutas de senderismo y actividades acuáticas: la playa de agua dulce de Euskadi rodeada de naturaleza",
+      "url": "https://www.eldiario.es/viajes/rutas-senderismo-actividades-acuaticas-playa-agua-dulce-euskadi-rodeada-naturaleza_1_13460185.html",
+      "image": "https://static.eldiario.es/clip/67329cc6-380e-4f8a-be0a-1b78b8a42e30_facebook-aspect-ratio-1200-675_default_0.jpg",
       "source": "elDiario.es",
       "language": "es",
-      "que_paso": "El ministro del Interior, Fernando Grande‑Marlaska, ha remitido una carta al director general de la Policía, Francisco Pardo, exigiendo que se confirme la autenticidad de un informe que señala a fuerzas marroquíes como responsables de la entrada masiva de migrantes en Ceuta los días 30 y 31 de julio. Al mismo tiempo, el ministro de Política Territorial, Ángel Víctor Torres, ha declarado que no hará conjeturas hasta disponer del documento y de sus detalles.",
+      "que_paso": "El artículo describe el embalse de Ullíbarri‑Gamboa, el mayor de agua dulce de Euskadi, y el Parque Provincial de Garaio, que combina senderismo y actividades acuáticas en un entorno natural cercano a Vitoria‑Gasteiz. Detalla la ruta circular de casi 44 km que parte del centro de información del parque y las infraestructuras disponibles para visitantes.",
       "datos": [
-        "Fernando Grande‑Marlaska envió la carta a Francisco Pardo a través de la Cadena Ser y elDiario.es",
-        "El supuesto informe atribuye a las Fuerzas y Cuerpos de Seguridad marroquíes la entrada de migrantes en Ceuta los 30 y 31 de julio",
-        "El informe habría sido remitido por el Centro Nacional de Inmigración y Fronteras (CENIF) a la Audiencia Nacional, según El Español",
-        "La Ley 36/2015 de Seguridad Nacional declara la situación como de interés para la seguridad nacional",
-        "Ángel Víctor Torres señaló que no se sabe si el informe proviene de un agente concreto ni quién lo solicitó",
-        "Se menciona que más de 70.000 migrantes ingresaron en Ceuta a finales de julio"
+        "El embalse de Ullíbarri‑Gamboa está a poco más de 20 minutos de Vitoria‑Gasteiz.",
+        "El Parque Provincial de Garaio ocupa 116 hectáreas en forma de península dentro del embalse.",
+        "La ruta circular tiene una longitud de 43,9 km con un desnivel acumulado de 100 m.",
+        "El tiempo estimado para completarla es de aproximadamente 9,5 h a pie o 5 h en bicicleta.",
+        "Las playas de Garaio mantienen de forma continuada la certificación de la Bandera Azul por la calidad del agua."
       ],
-      "conclusion": "La solicitud de verificación subraya la necesidad de datos precisos para gestionar la crisis migratoria y evitar tensiones diplomáticas con Marruecos, mientras que la espera del informe refleja prudencia ante posibles repercusiones legales y de seguridad."
+      "conclusion": "Este espacio muestra cómo la gestión sostenible del agua y la infraestructura de ocio pueden generar atractivos turísticos de bajo impacto, ofreciendo a empresas oportunidades de actividades de team‑building y descanso sin alejarse de la zona urbana."
     },
     {
-      "title": "Prepara el cambio de armario sin caos: el invento de 3 módulos que duplica el espacio y mantiene el orden",
-      "url": "https://elpais.com/escaparate/estilo-de-vida/organizador-de-armarios.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/H6G42NPHW5BJ7ICF6SBZR4TTYU.png?auth=fea1f4e974958fb2ee35d413c22a31643539b594306b28571f31d2b959361931",
+      "title": "Sánchez garantiza al Congreso que Ceuta y Melilla serán españolas \"hasta el final de los tiempos\": \"A perpetuidad\"",
+      "url": "https://www.europapress.es/nacional/noticia-sanchez-garantiza-congreso-ceuta-melilla-seran-espanolas-final-tiempos-perpetuidad-20260903091201.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260903091201_1200.jpg",
+      "source": "Europa Press Ciencia",
+      "language": "es",
+      "que_paso": "El presidente Pedro Sánchez declaró ante el Pleno del Congreso que la soberanía española sobre Ceuta y Melilla se mantendrá indefinidamente, asegurando que permanecerán “hasta el final de los tiempos”.",
+      "datos": [
+        "Pedro Sánchez, presidente del Gobierno, habló ante el Pleno del Congreso el 3 de septiembre de 2026.",
+        "En su intervención afirmó que Ceuta y Melilla son españolas “a perpetuidad”.",
+        "También aseguró que esas ciudades seguirán siendo españolas “hasta el final de los tiempos”.",
+        "La declaración se realizó durante la sesión plenaria de la Cámara de los Diputados.",
+        "Ceuta y Melilla son ciudades autónomas españolas situadas en el norte de África."
+      ],
+      "conclusion": "El mensaje refuerza la posición de España sobre la integridad territorial, lo que implica estabilidad jurídica para operaciones y negocios en esas regiones."
+    },
+    {
+      "title": "China’s demise was gleefully predicted by the west – meanwhile, it built an AI revolution | Larry Elliott",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/03/china-demise-predicted-west-ai-revolution",
+      "image": "https://i.guim.co.uk/img/media/4f1e9ac00cecb4a483c365cc7da2de5e4e6e38b3/1016_0_5019_4016/master/5019.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=da68e6bbb083f620e02f8c2c46c96954",
+      "source": "The Guardian AI",
+      "language": "en",
+      "que_paso": "A Chinese AI startup launched a high‑performance language model that immediately outstripped demand, prompting a rapid suspension of new users, while the article frames this as evidence that China’s economy has shifted from low‑cost manufacturing to advanced technology competition with the United States. The piece also notes that China’s broader industrial upgrade has left it dominant in solar panels, batteries and electric vehicles, and that its economic model still relies heavily on export‑driven growth, drawing criticism at a recent G20 finance ministers meeting.",
+      "datos": [
+        "Moonshot unveiled the Kimi K3 model in July 2026",
+        "Two days after launch, Moonshot halted new subscriptions due to capacity constraints",
+        "China now leads global production of solar panels, batteries and electric vehicles",
+        "China was isolated at the latest G20 finance ministers meeting for failing to boost domestic demand",
+        "The rise of Germany’s far‑right Alternative für Deutschland is partly attributed to perceived Chinese competition for manufacturing jobs"
+      ],
+      "conclusion": "The rapid uptake of China’s home‑grown AI shows the country can challenge US dominance, signalling operational managers to anticipate new competitive pressures and consider AI adoption strategies to stay ahead."
+    },
+    {
+      "title": "Huawei Watch GT 7 Pro, análisis: cuando un smartwatch deja de pedirte atención y simplemente se dedica a funcionar",
+      "url": "https://www.xataka.com/analisis/huawei-watch-gt-7-pro-analisis-caracteristicas-precio-especificaciones",
+      "image": "https://i.blogs.es/65938a/huawei-watch-gt7-pro-12/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "El analista probó durante casi un mes el nuevo Huawei Watch GT 7 Pro y constató que funciona sin problemas tanto en dispositivos Android como iPhone, ofreciendo una experiencia de uso que pasa desapercibida gracias a su autonomía y a su diseño premium. El artículo describe cómo el reloj combina materiales de alta calidad, una pantalla muy brillante y funcionalidades avanzadas de salud y deporte, sin requerir recargas frecuentes.",
+      "datos": [
+        "El Huawei Watch GT 7 Pro es compatible con Android y iPhone",
+        "La caja está fabricada en titanio con diseño octogonal",
+        "La pantalla AMOLED alcanza hasta 3 000 nits de brillo pico según Huawei",
+        "El autor lo utilizó durante casi un mes y casi no necesitó recargarlo",
+        "Incluye sensor de electrocardiograma y un botón que inicia actividades deportivas con dos pulsaciones",
+        "Es resistente al agua y apto para buceo y apnea"
+      ],
+      "conclusion": "Este smartwatch demuestra que es posible contar con un dispositivo de alta precisión, larga duración y robustez para profesionales que requieren datos fiables sin interrupciones, lo que facilita la gestión de la salud y la productividad en entornos operativos."
+    },
+    {
+      "title": "Zelenski asegura que aerolíneas suspendieron vuelos a Rusia tras su advertencia por los ataques con drones",
+      "url": "https://www.europapress.es/internacional/noticia-zelenski-asegura-aerolineas-suspendieron-vuelos-rusia-advertencia-ataques-drones-20260903084413.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260903084413_1200.jpg",
+      "source": "Europa Press Tecnología",
+      "language": "es",
+      "que_paso": "Zelenski informó que, tras su petición, varias compañías aéreas han comenzado a cancelar sus rutas hacia Rusia, argumentando que el espacio aéreo ruso quedará efectivamente cerrado debido al incremento de ataques con drones por parte de Ucrania. La medida se produce en medio de la escalada del conflicto aéreo entre ambos países.",
+      "datos": [
+        "Volodimir Zelenski, presidente de Ucrania, emitió la advertencia.",
+        "Las aerolíneas han empezado a suspender vuelos a Rusia.",
+        "Zelenski afirmó que el espacio aéreo ruso estará \"cerrado de forma efectiva\".",
+        "Los ataques con drones provienen de las fuerzas ucranianas."
+      ],
+      "conclusion": "Para los operadores logísticos, la posible clausura del espacio aéreo ruso obliga a replanificar rutas y buscar alternativas, lo que incrementará costos y tiempos de entrega."
+    },
+    {
+      "title": "La ultraderecha trata de inflamar Manresa con datos falsos sobre los autores de un crimen",
+      "url": "https://elpais.com/espana/catalunya/2026-09-03/la-ultraderecha-trata-de-inflamar-manresa-con-datos-falsos-sobre-los-autores-de-un-crimen.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/4LVOHZ5L6BHZ3KGJQJU5IRELGA.jpg?auth=617b9aaf7e36b2cc0fb8bf646997ba5e50edd763b0625a830b4398cbdd9eca74",
       "source": "El País",
       "language": "es",
-      "que_paso": "Se lanzó al mercado un sistema de tres módulos apilables con bandejas extraíbles diseñado para duplicar la capacidad de almacenamiento y facilitar la reorganización del armario sin generar desorden.",
+      "que_paso": "En Manresa, los partidos de ultraderecha Aliança Catalana y Vox apoyaron manifestaciones contra la inseguridad mientras difundían que los dos detenidos por un delito eran extranjeros, una información que resultó ser falsa. La estrategia buscó generar tensión social al atribuir el crimen a personas ajenas a la comunidad local.",
       "datos": [
-        "El producto consta de tres módulos",
-        "Los módulos son apilables entre sí",
-        "Cada módulo incluye bandejas extraíbles",
-        "El conjunto promete duplicar el espacio disponible para ropa",
-        "Está pensado para simplificar el cambio de armario",
-        "Permite visualizar toda la ropa almacenada"
+        "Aliança Catalana respaldó las concentraciones en Manresa",
+        "Vox también apoyó dichas concentraciones",
+        "Se informó que dos personas fueron detenidas por un crimen",
+        "La premisa de que los detenidos eran extranjeros fue calificada como falsa",
+        "El foco de la campaña fue la inseguridad percibida en la ciudad"
       ],
-      "conclusion": "Esta solución práctica permite optimizar el espacio y reducir el tiempo dedicado a la reorganización del vestuario, lo que se traduce en mayor eficiencia operativa en el hogar."
+      "conclusion": "Este episodio muestra cómo la ultraderecha manipula datos falsos para avivar el miedo y polarizar a la ciudadanía, lo que obliga a los gestores operativos a reforzar la verificación de información antes de actuar."
     },
     {
-      "title": "Parece un polvo compacto tradicional, pero este maquillaje de Avène esconde una fórmula con alta protección solar",
-      "url": "https://elpais.com/escaparate/belleza/maquillaje-compacto-avene.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/N2LW7QKMMJGVTFLRDSLZKYBFZA.png?auth=f5fd50260eadd43775683208a3cb2e4ab66439b794cf37e83d9840d6befbff86",
+      "title": "Samsung ha demostrado en IFA 2026 que la guerra ya no es por el dispositivo del hogar: es por hacerse con todo el ecosistema",
+      "url": "https://www.xataka.com/domotica-1/samsung-ha-demostrado-ifa-2026-que-guerra-no-dispositivo-hogar-hacerse-todo-ecosistema",
+      "image": "https://i.blogs.es/4dae31/img_20260902_163557/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "Samsung mostró en IFA 2026, celebrada en Berlín, que su prioridad ya no es lanzar dispositivos aislados sino presentar un ecosistema doméstico totalmente integrado mediante IA, donde televisores, frigoríficos, lavadoras y otros aparatos se comunican sin que el usuario tenga que programarlos. En lugar de productos completamente nuevos, la empresa expuso la interoperabilidad de su catálogo existente, destacando la lavadora Bespoke AI Washer y el sistema Vision AI Companion en los televisores.",
+      "datos": [
+        "Samsung Connect se celebró en la feria IFA 2026 en Berlín.",
+        "El Galaxy S26 FE fue anunciado una semana antes del evento.",
+        "El Galaxy Book6 se anunció en el Mobile World Congress de Barcelona.",
+        "Los lavadores Bespoke AI Washer tienen capacidades de 10 kg y 13 kg y un ancho de 60 cm.",
+        "Los televisores de última generación incorporan el sistema Vision AI Companion que ajusta imagen y sonido automáticamente.",
+        "El frigorífico Bespoke AI Family Hub identifica alimentos, controla fechas de caducidad y puede enviar recetas al horno."
+      ],
+      "conclusion": "Esta estrategia indica que la competencia en electrónica de consumo se está desplazando hacia la capacidad de ofrecer un ecosistema inteligente, lo que implica que las operaciones y la gestión de TI deberán centrarse en la integración y la automatización de dispositivos para obtener ventajas competitivas."
+    },
+    {
+      "title": "A los robots cortacésped solo les faltaba algo para dejar perfecto el jardín: un brazo para las esquinas. Segway acaba de ponérselo",
+      "url": "https://www.xataka.com/robotica-e-ia/segway-navimow-h5-pro-caracteristicas-precio-ficha-tecnica",
+      "image": "https://i.blogs.es/608f8a/esqui/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "Segway lanzó el Navimow H5 Pro, un robot cortacésped que incorpora un brazo robótico para alcanzar y cortar los bordes del jardín, una función que antes requería herramientas manuales.",
+      "datos": [
+        "El robot se llama Navimow H5 Pro y es presentado por Segway",
+        "El brazo extensible EdgeMaestro tiene 7,7 cm de alcance",
+        "Incluye un segundo brazo flotante omnidireccional que se adapta a desniveles verticales",
+        "Emite 58 dB durante el corte de bordes",
+        "Utiliza el algoritmo EdgeSense 2.0 con LiDAR, visión artificial e infrarrojos para detección de obstáculos y animales",
+        "George Ren, director ejecutivo de Navimow, declaró que el objetivo es automatizar completamente la tarea de remate de los bordes"
+      ],
+      "conclusion": "Esto permite a los propietarios de jardines eliminar la labor manual de los bordes, reduciendo tiempo y costes de mantenimiento, y abre un nuevo segmento de robots de cuidado de áreas complejas."
+    },
+    {
+      "title": "Hacer masa madre en casa ya no es un lío: el set de vidrio graduado pensado para principiantes",
+      "url": "https://elpais.com/escaparate/estilo-de-vida/set-para-hacer-masa-madre-en-casa.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/T22CL2FXTRHMBHXNBN5QDSMMIY.png?auth=a7eee861b95d14bcdef983a81c87d95d256fca26a745124575120258e55a7ee3",
       "source": "El País",
       "language": "es",
-      "que_paso": "Avène lanzó un polvo compacto de maquillaje que incorpora protección solar SPF 50, pensado para uso cotidiano y para unificar el tono de la piel mientras disimula imperfecciones. El producto se presenta como una solución todo en uno que combina cobertura y cuidado solar.",
+      "que_paso": "Se ha lanzado al mercado un nuevo set de vidrio graduado para preparar masa madre en casa, pensado específicamente para usuarios principiantes. El kit incluye una guía paso a paso y todos los accesorios necesarios para simplificar el proceso de fermentación, eliminando la complejidad tradicional del método.",
       "datos": [
-        "Protección solar SPF 50 integrada en el polvo compacto.",
-        "Producto desarrollado por la marca francesa de dermocosmética Avène.",
-        "Diseñado para unificar el tono de la piel y disimular imperfecciones.",
-        "Promocionado como ‘el aliado perfecto para el día a día’.",
-        "Ofrece un acabado que deja un ‘efecto buena cara’ según la descripción del fabricante."
+        "El set está fabricado en vidrio con marcas de graduación para medir los ingredientes",
+        "Incluye una guía detallada del proceso de fermentación",
+        "Contiene todos los accesorios requeridos para iniciar la masa madre",
+        "Está dirigido a principiantes que desean hacer masa madre sin complicaciones"
       ],
-      "conclusion": "Combinar alta protección solar con maquillaje reduce la necesidad de aplicar productos separados, lo que simplifica la rutina de cuidado y puede mejorar la adherencia al uso de protección UV en entornos laborales. Para un gestor que valora la eficiencia, este producto representa una opción práctica."
+      "conclusion": "El producto reduce la barrera de entrada para la elaboración casera de masa madre, facilitando la adopción de técnicas de fermentación en entornos domésticos."
     },
     {
-      "title": "‘Extreme Thing’ Festival To Return From Decade-Long Hiatus In 2027",
-      "url": "https://www.theprp.com/2026/09/01/news/extreme-thing-festival-to-return-from-decade-long-hiatus-in-2027/",
-      "image": "https://www.theprp.com/app/uploads/2026/09/extremethingfestival2027-1200x675.webp",
-      "source": "The PRP",
-      "language": "en",
-      "que_paso": "After a ten‑year hiatus, the Extreme Thing festival is slated to resume on March 20, 2027 in Las Vegas, organized by Brian Saliba and positioned as the event’s 25th anniversary. The revival will combine extreme‑sports demonstrations with punk, hardcore and metal acts, with Blackpath Booking handling the lineup and hints that members of The Ghost Inside are engaged.",
-      "datos": [
-        "The festival is scheduled for March 20, 2027.",
-        "Venue: Events Center at Desert Breeze, Las Vegas, Nevada.",
-        "Organizer Brian Saliba announced the return, noting the 25th anniversary.",
-        "Blackpath Booking is responsible for curating the lineup.",
-        "Past editions featured Avenged Sevenfold and Bring Me The Horizon.",
-        "Three members of The Ghost Inside commented on the announcement."
-      ],
-      "conclusion": "The comeback highlights renewed demand for niche, experience‑driven festivals, presenting operational and partnership opportunities for businesses focused on event logistics and entertainment supply chains."
-    },
-    {
-      "title": "Las ofertas de Amazon que más están llamando la atención: hasta un 57% menos",
-      "url": "https://elpais.com/escaparate/ofertas-y-descuentos/chollos-semana-amazon-2-septiembre-2026.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/WL5KRJ4NCRAUXIC3QQP4FA7G4I.png?auth=2188689492b4e7a7ed3f3ab6d941b3c72b80158ebf6657ed0d3871be879e6278",
+      "title": "Columbia rebaja sus superventas hasta un 46% de descuento: chaquetas, zapatillas y más",
+      "url": "https://elpais.com/escaparate/ofertas-y-descuentos/rebajas-columbia.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/JNU3RD57UVAQHBGUSKPEA5X7IM.png?auth=46cd38082769bbdbb7dad04af2bd07614bd647b2b77e4d78cc3e3a240147d56e",
       "source": "El País",
       "language": "es",
-      "que_paso": "Amazon lanzó una serie de rebajas al comienzo del mes en su plataforma de comercio electrónico, enfocándose en atraer a compradores con precios reducidos. El artículo selecciona las ofertas más llamativas entre todas las disponibles.",
+      "que_paso": "Columbia ha puesto en marcha una campaña de rebajas en su catálogo de ropa técnica y equipamiento de montaña, dirigida a consumidores que buscan renovar su vestuario antes del otoño. La oferta se extiende a sus productos más vendidos, como chaquetas y zapatillas, y se anuncia en medio de la llegada del clima fresco.",
       "datos": [
-        "Descuentos de hasta el 57 % en productos de Amazon",
-        "Las rebajas se concentran al inicio del mes",
-        "Las ofertas pertenecen al sector del comercio electrónico",
-        "El artículo destaca los descuentos más relevantes entre los disponibles"
+        "Descuentos de hasta el 46 % en los productos superventas de Columbia",
+        "Las rebajas incluyen chaquetas, zapatillas y otros artículos de montaña",
+        "La promoción está disponible hasta el 6 de septiembre de 2026",
+        "La campaña se comunica como respuesta a la temporada de frío que se aproxima"
       ],
-      "conclusion": "Estas rebajas aumentan la presión competitiva en e‑commerce, lo que obliga a optimizar precios y logística, y brinda una ocasión para aplicar IA en la gestión de inventario y campañas promocionales."
+      "conclusion": "Aprovechar estos precios permite equipar al personal con ropa técnica a un costo reducido, mejorando la preparación operativa para el clima frío sin comprometer el presupuesto."
     },
     {
-      "title": "Social Media and the Myth of the Big Tobacco Moment",
-      "url": "https://www.nytimes.com/2026/08/28/technology/meta-social-media-big-tobacco.html",
-      "image": "https://static01.nyt.com/images/2026/08/28/multimedia/28biz-meta-tobacco--01-vqml/28biz-meta-tobacco--01-vqml-mediumSquareAt3X.jpg",
-      "source": "NYT Tech",
+      "title": "2 Killed and 2 Officers Shot at Minneapolis Apartment Building",
+      "url": "https://www.nytimes.com/2026/09/02/us/shooting-minneapolis-downtown.html",
+      "image": "https://static01.nyt.com/images/2026/09/02/multimedia/02xp-minneapolis-shooting-jcpf/02xp-minneapolis-shooting-jcpf-mediumSquareAt3X.jpg",
+      "source": "New York Times",
       "language": "en",
-      "que_paso": "The piece argues that modern social‑media platforms have achieved a level of ubiquity once seen with smoking, but it rejects the notion that we are currently in a comparable “big tobacco” crisis, noting that society eventually curbed smoking after a prolonged effort.",
+      "que_paso": "Two people were killed and two police officers were shot during a violent confrontation inside a downtown Minneapolis apartment building, after which the suspect also died. Authorities responded and subsequently warned residents to avoid the building.",
       "datos": [
-        "Facebook, TikTok, Snap, YouTube and Instagram are cited as modern platforms with near‑universal reach.",
-        "Smoking was historically described as being \"everywhere\" before public‑health campaigns.",
-        "The article states that society decided to break the smoking habit.",
-        "It notes that the reduction of smoking took a long period of time.",
-        "The comparison of social media to the \"big tobacco moment\" is presented as a myth."
+        "Fatalities: 2 people",
+        "Police injuries: 2 officers shot",
+        "Suspect status: deceased",
+        "Location: downtown Minneapolis apartment building",
+        "Residents were instructed to stay away by authorities"
       ],
-      "conclusion": "Treating social media as a direct analogue to tobacco may inflate perceived risks and hinder practical policy; the historical lag in reducing smoking suggests that meaningful change in social‑media use will also require sustained, long‑term effort."
+      "conclusion": "The incident highlights the importance of rapid emergency response and clear communication to protect public safety and maintain operational continuity during urban crises."
     },
     {
-      "title": "Nails Launch New EP “Fear Based Life”",
-      "url": "https://www.theprp.com/2026/09/01/news/nails-launch-new-ep-fear-based-life/",
-      "image": "https://www.theprp.com/app/uploads/2026/09/nailsbandlarge-1200x675.webp",
-      "source": "The PRP",
+      "title": "Trump Puts Tariffs of Up to 100% on Foreign-Made Drones",
+      "url": "https://www.nytimes.com/2026/09/03/business/trump-drone-tariffs.html",
+      "image": "https://static01.nyt.com/images/2026/09/03/multimedia/03biz-drone-tariffs-qzpk/03biz-drone-tariffs-qzpk-mediumSquareAt3X.jpg",
+      "source": "New York Times",
       "language": "en",
-      "que_paso": "The California powerviolence band Nails released two new tracks, “Dollar Bin Generation” and “Fear Based Life,” as part of an EP on the label Closed Casket Activities. The songs are self‑produced and are available for streaming, with pre‑orders open for a limited‑edition 7‑inch vinyl in multiple colorways.",
+      "que_paso": "President Donald Trump announced new tariffs on imported drones, reaching as high as 100%, while the Federal Communications Commission is simultaneously reviewing restrictions on drone capabilities such as thermal imaging and aerosol spraying.",
       "datos": [
-        "Band: Nails, a Californian powerviolence outfit.",
-        "Tracks released: “Dollar Bin Generation” and “Fear Based Life.”",
-        "Label: Closed Casket Activities.",
-        "Pre‑orders are available via closedcasketactivities.com.",
-        "Physical 7‑inch vinyl will be released on October 09, 2026.",
-        "The vinyl will be offered in several colorways."
+        "Tariffs of up to 100% were announced for foreign‑made drones",
+        "The policy was announced by President Donald Trump",
+        "The Federal Communications Commission is considering limits on thermal imaging in drones",
+        "The FCC is also evaluating restrictions on aerosol‑spraying drone technology",
+        "The measures target commercially available drone equipment",
+        "No specific implementation timeline was provided"
       ],
-      "conclusion": "The release demonstrates Nails’ DIY production model and generates immediate revenue through limited‑edition vinyl, illustrating a viable direct‑to‑fan strategy for niche artists."
+      "conclusion": "The combined tariff and regulatory actions could raise costs and limit functionality for drone operators, prompting supply‑chain adjustments and compliance planning."
     },
     {
-      "title": "PcComponentes rebaja monitores, portátiles y accesorios para tu oficina en casa",
-      "url": "https://elpais.com/escaparate/ofertas-y-descuentos/teletrabajo-ofertas-pccomponentes.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/BFXZ3TD6QZHI3BVISP7U4CVM6Y.png?auth=8e405977843627879311fefe108cdf1e31f265e282e3ddb6220dc7fe652e1256",
+      "title": "Las claves del informe que Marlaska no conocía y que puede suponer el inicio de una investigación por lo sucedido en Ceuta",
+      "url": "https://elpais.com/espana/2026-09-03/las-claves-del-informe-que-marlaska-no-conocia-y-que-puede-suponer-el-inicio-de-una-investigacion-por-lo-sucedido-en-ceuta.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/PC4JCIAA4FGVJJODTXSGAVRXHY.jpg?auth=66f6a3e541fb959ad418ea1097c547cae28a8784d4c657249cd6c29641232f5f",
       "source": "El País",
       "language": "es",
-      "que_paso": "PcComponentes ha lanzado una campaña de rebajas en monitores, portátiles y accesorios para equipar oficinas en casa, dirigida a teletrabajadores y estudiantes a distancia.",
+      "que_paso": "El 31 de julio la magistrada solicitó a la Dirección General de Extranjería un análisis sobre la masiva afluencia de migrantes en Ceuta. Un mes después, la jueza debe decidir si abre una causa por la posible colaboración de agentes marroquíes en la entrada de 70.000 personas, lo que podría iniciar una investigación formal.",
       "datos": [
-        "PcComponentes es un retailer español especializado en tecnología",
-        "La promoción incluye descuentos en monitores, portátiles y accesorios de oficina",
-        "Los productos ofertados son considerados básicos para teletrabajo y estudio a distancia",
-        "La campaña se presenta como la forma más cómoda de adquirir estos equipos"
+        "La magistrada encargó el análisis el 31 de julio de 2026",
+        "El informe se centra en la entrada de aproximadamente 70.000 personas en Ceuta",
+        "Se investiga la posible colaboración de agentes de la policía marroquí en la frontera",
+        "La jueza tiene un plazo de un mes, previsto para finales de agosto de 2026, para decidir si abre una causa",
+        "El informe no había sido conocido previamente por la magistrada Marlaska"
       ],
-      "conclusion": "Para un manager de operaciones, la oferta permite reducir el gasto en equipamiento de trabajo remoto y acelerar la puesta en marcha de oficinas en casa."
+      "conclusion": "Abrir la causa podría generar responsabilidades internacionales y obligar a revisar la cooperación fronteriza entre España y Marruecos, afectando la gestión de futuros flujos migratorios."
     },
     {
-      "title": "Vuelve el calor intenso a Madrid: aviso amarillo en horas centrales con termómetros que marcarán hasta 37 grados",
-      "url": "https://www.eldiario.es/madrid/somos/vuelve-calor-intenso-madrid-aviso-amarillo-horas-centrales-termometros-marcaran-37-grados-pm_1_13480587.html",
-      "image": "https://static.eldiario.es/clip/55748504-85e9-4cb7-990f-92f68d45268d_facebook-aspect-ratio-1200-675_default_0_x806y605.jpg",
-      "source": "elDiario.es",
+      "title": "Los que no salieron a manifestarse en Ceuta: “Tengo miedo a que pueda pasar algo”",
+      "url": "https://elpais.com/espana/2026-09-03/los-que-no-salieron-a-manifestarse-en-ceuta-tengo-miedo-a-que-pueda-pasar-algo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/AIKMKTAQ7ZECHP22N2NITIHPUA.jpeg?auth=e1584c2f2dfa1cb8717f3833e8ecdb195258b7b77876d756681d2c9e0b86860a",
+      "source": "El País",
       "language": "es",
-      "que_paso": "AEMET activó el aviso amarillo para toda la Comunidad de Madrid debido a un repunte de temperaturas, con máximas previstas de 36‑37 °C el miércoles y picos de hasta 39 °C el viernes. El pronóstico indica cielos despejados, vientos leves que cambiarán de dirección y mínimas entre 15 °C y 20 °C, manteniéndose la alerta el jueves y descendiendo ligeramente el fin de semana.",
+      "que_paso": "En Ceuta se llevó a cabo una manifestación masiva, pero varios migrantes y residentes decidieron no participar, quedándose en sus hogares por temor a posibles incidentes o por diferencias políticas.",
       "datos": [
-        "La Agencia Estatal de Meteorología (AEMET) emitió aviso amarillo para toda la Comunidad de Madrid",
-        "Se esperan máximas de 36‑37 °C el miércoles y hasta 39 °C el viernes en algunos puntos de la región",
-        "En la Sierra se pronostican máximas de 34‑35 °C",
-        "Las temperaturas mínimas del miércoles estarán entre 15 °C y 20 °C",
-        "El viento será flojo del norte, girará al sur en horas centrales y luego al oeste",
-        "El aviso amarillo se mantendrá el jueves y se prevé descenso de máximas el fin de semana con mínimas por encima de 20 °C y lluvias débiles"
+        "La manifestación se describió como masiva",
+        "Participaron tanto migrantes como ciudadanos de Ceuta",
+        "Algunos migrantes optaron por refugiarse en sus viviendas",
+        "Otros residentes se mantuvieron en casa por miedo a que ocurriera algo",
+        "El hecho tuvo lugar en la ciudad autónoma de Ceuta"
       ],
-      "conclusion": "El calor extremo implica riesgos operativos y de salud; es crucial ajustar horarios, reforzar la climatización y planificar contingencias para mantener la productividad y la seguridad del personal."
+      "conclusion": "La percepción de riesgo está limitando la participación, lo que puede reducir la representatividad de futuras movilizaciones en la región."
     },
     {
-      "title": "La ONU alerta de que la temperatura del planeta superará pronto el límite de seguridad de 1,5 grados: \"Es inevitable”",
-      "url": "https://www.eldiario.es/sociedad/onu-alerta-temperatura-planeta-superara-pronto-limite-seguridad-1-5-grados-inevitable_1_13480091.html",
-      "image": "https://static.eldiario.es/clip/1df34090-a3fb-4229-bf6d-349154814137_facebook-aspect-ratio-1200-675_default_0_x953y782.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "que_paso": "El Programa de Medio Ambiente de la ONU (UNEP) publicó este miércoles un informe que advierte que la temperatura global superará pronto el límite de 1,5 °C establecido en el Acuerdo de París, proyectando un pico entre 1,8 °C y 2 °C. El documento señala que la inacción actual hace inevitable este sobrepaso y llama a una respuesta inmediata para reducir emisiones y limitar el periodo de overshoot.",
-      "datos": [
-        "El informe UNEP fue publicado el miércoles 2 de septiembre de 2026",
-        "El informe estima que el pico de calentamiento será de entre 1,8 °C y 2 °C sobre niveles preindustriales",
-        "El Acuerdo de París fija como objetivo limitar el calentamiento a 1,5 °C para finales del siglo XXI",
-        "El secretario general de la ONU, Antonio Guterres, declaró que la acción insuficiente ha hecho inevitable superar los 1,5 °C",
-        "Inger Andersen, directora ejecutiva de UNEP, afirmó que la superación debe ser lo más pequeña y breve posible",
-        "El informe advierte riesgos como la pérdida del bosque amazónico, la desaceleración de la corriente atlántica (AMOC) y el derretimiento del hielo marino"
-      ],
-      "conclusion": "El aviso subraya la urgencia de implementar medidas de reducción de emisiones a gran escala para evitar que el overshoot se prolongue, lo que reduciría la exposición a impactos climáticos extremos y puntos de inflexión críticos."
-    },
-    {
-      "title": "Bring Me The Horizon’s “Can You Feel My Heart” Headed To Fortnite",
-      "url": "https://www.theprp.com/2026/09/01/news/bring-me-the-horizons-can-you-feel-my-heart-headed-to-fortnite/",
-      "image": "https://www.theprp.com/app/uploads/2026/07/bringmethehorizon2026large-1200x675.jpg",
-      "source": "The PRP",
-      "language": "en",
-      "que_paso": "British alternative metal band Bring Me The Horizon is adding their single “Can You Feel My Heart” to the Fortnite Festival, with the track set to appear in the game later this week. The move follows the song’s release as the fourth and final single from their fourth studio album, Sempiternal, and leverages Fortnite’s virtual concert platform to reach gamers.",
-      "datos": [
-        "“Can You Feel My Heart” is the fourth and final single from Bring Me The Horizon’s fourth studio album, Sempiternal.",
-        "The song has accumulated over 900 million streams on Spotify as of the press time.",
-        "Bring Me The Horizon is a British alternative metal band.",
-        "Fortnite Festival is a virtual concert event within the Fortnite video game.",
-        "The track is scheduled to debut in Fortnite later this week."
-      ],
-      "conclusion": "The partnership illustrates how music artists are using gaming platforms to amplify exposure and monetize content, offering a direct channel to a large, engaged audience."
-    },
-    {
-      "title": "“La reacción de las autoridades marroquíes sobre Ceuta me parece vil”",
-      "url": "https://elpais.com/podcasts/hoy-en-el-pais/2026-09-02/la-reaccion-de-las-autoridades-marroquies-sobre-ceuta-me-parece-vil.html",
+      "title": "Decenas de jóvenes marroquíes emprenden el camino de regreso a sus casas: “No me queda otra”",
+      "url": "https://elpais.com/podcasts/hoy-en-el-pais/2026-09-03/volver-a-intentarlo-esta-en-la-mente-de-cualquier-adolescente-marroqui.html",
       "image": "",
       "source": "El País",
       "language": "es",
-      "que_paso": "Fouad Abdelmoumni, economista y activista marroquí, denunció que la respuesta del gobierno de Marruecos ante la situación migratoria en Ceuta es “vil”, señalando que la frustración entre los ciudadanos marroquíes es mucho más amplia de lo que se había estimado.",
+      "que_paso": "Un grupo de jóvenes marroquíes que ingresó a Ceuta a finales de julio de 2026 ha decidido regresar a Marruecos después de pasar alrededor de un mes en la ciudad, manifestando alivio pero también frustración y sensación de fracaso.",
       "datos": [
-        "Fouad Abdelmoumni es economista y activista marroquí.",
-        "El comentario se refiere a la reacción de las autoridades marroquíes frente a la crisis migratoria en Ceuta.",
-        "Según Abdelmoumni, la frustración de los compatriotas es más extendida de lo que se pensaba.",
-        "La declaración se realizó el 2 de septiembre de 2026.",
-        "Ceuta es una ciudad española situada en la costa norte de África, punto crítico de la migración."
+        "Decenas de jóvenes marroquíes involucrados",
+        "Ingresaron en Ceuta a finales de julio de 2026",
+        "Permanecieron aproximadamente un mes en Ceuta",
+        "Regresaron a Marruecos a principios de agosto de 2026",
+        "Expresaron alivio y sensación de fracaso",
+        "Cita: “No me queda otra”"
       ],
-      "conclusion": "El pronunciamiento revela un descontento interno que podría presionar a Marruecos a revisar sus políticas migratorias y afecta la planificación operativa en la región."
+      "conclusion": "El retorno subraya la dificultad de mantener a los migrantes en Ceuta sin soluciones claras y sugiere la necesidad de una mayor cooperación entre España y Marruecos para gestionar la migración irregular."
     },
     {
-      "title": "Six Takeaways From the Massachusetts Primaries",
-      "url": "https://www.nytimes.com/2026/09/01/us/politics/massachusetts-primary-election-results-takeaways.html",
-      "image": "https://static01.nyt.com/images/2026/09/01/multimedia/01pol-mass-takeaways-markey-jpbg/01pol-mass-takeaways-markey-jpbg-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "In the recent Massachusetts Democratic primaries, 80‑year‑old Senator Ed Markey defeated a younger challenger who campaigned on generational renewal, while two other veteran Democratic legislators also managed to retain their nominations.",
-      "datos": [
-        "Senator Ed Markey is 80 years old",
-        "Markey won his primary against a younger opponent who emphasized generational change",
-        "Two longtime Democratic lawmakers also survived their primary contests",
-        "The contests were part of the Massachusetts primary elections"
-      ],
-      "conclusion": "The results signal that incumbent experience still dominates Massachusetts Democratic politics, limiting immediate shifts toward younger leadership."
-    },
-    {
-      "title": "\"Nunca estuve en Afganistán\": los 6 millones de deportados obligados a empezar de nuevo bajo el Talibán",
-      "url": "https://www.bbc.com/mundo/articles/cwyzj7v3497o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/news/1200/branded_mundo/ae4b/live/abaa7a90-a54c-11f1-aed2-8d6da8d75094.jpg",
-      "source": "BBC Mundo",
-      "language": "es",
-      "que_paso": "Familias afganas que vivían en Pakistán e Irán fueron obligadas a cruzar de nuevo la frontera de Torkham y regresar a Afganistán bajo la presión del régimen talibán, que ha intensificado la represión contra inmigrantes indocumentados y registrados. Los desplazados llegan a campamentos improvisados donde apenas disponen de refugio y alimentos básicos.",
-      "datos": [
-        "Según la Agencia de la ONU para los Refugiados (ACNUR), este año ya han regresado un millón de personas desde Pakistán e Irán.",
-        "En poco menos de tres años, seis millones de afganos han sido forzados a volver a Afganistán, según Charlie Goodlake, portavoz de ACNUR en Afganistán.",
-        "El cruce de Torkham, llamado \"punto cero\", es la principal vía de retorno para los deportados.",
-        "Nazía, de 35 años, cruzó con sus dos hijos después de 45 años de ausencia, nunca antes había estado en Afganistán.",
-        "Pakistán ha declarado públicamente que los afganos con tarjetas de registro tampoco están exentos de la deportación.",
-        "El retorno masivo constituye el mayor movimiento transfronterizo de personas del mundo, según la ONU."
-      ],
-      "conclusion": "El regreso forzado de millones de afganos crea una urgente crisis humanitaria que exige una rápida coordinación de recursos de ayuda y plantea riesgos de inestabilidad social en Afganistán bajo el control talibán."
-    },
-    {
-      "title": "Longtime Democratic Congressman Defeats Progressive Rival in Massachusetts",
-      "url": "https://www.nytimes.com/2026/09/01/us/politics/massachusetts-democratic-primary-lynch-roath.html",
-      "image": "https://static01.nyt.com/images/2026/09/01/multimedia/01pol-ma08-hfo-plkz/01pol-ma08-hfo-plkz-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Incumbent Democrat Stephen Lynch, 71, defeated 39‑year‑old challenger Patrick Roath in a Massachusetts primary, a contest that underscored the party’s split between older centrists and younger progressives. The primary determined the Democratic nominee for the upcoming congressional election.",
-      "datos": [
-        "Stephen Lynch, age 71, is the incumbent Democratic Representative from Massachusetts.",
-        "Patrick Roath, age 39, ran as a progressive challenger.",
-        "The election was a Democratic primary.",
-        "The race highlighted generational (71 vs 39) and ideological (centrist vs progressive) divides within the party.",
-        "Lynch won the primary, securing the Democratic nomination."
-      ],
-      "conclusion": "The outcome shows that established centrist incumbents can still prevail over younger progressive challengers, signaling that party leadership may prioritize experience over ideological shifts in upcoming elections."
-    },
-    {
-      "title": "Crown Magnetar’s “Dead Crown” Music Video Debuts",
-      "url": "https://www.theprp.com/2026/09/01/news/crown-magnetars-dead-crown-music-video-debuts/",
-      "image": "https://www.theprp.com/app/uploads/2026/07/crownmagnetarlarge-1200x675.webp",
+      "title": "Ex-Danzig, Etc. Guitarist John Christ: “I Have Been Focusing On A Medical Issue That Has Been Kicking My Butt”",
+      "url": "https://www.theprp.com/2026/09/02/news/ex-danzig-etc-guitarist-john-christ-i-have-been-focusing-on-a-medical-issue-that-has-been-kicking-my-butt/",
+      "image": "https://www.theprp.com/app/uploads/2026/09/johnchrist-1200x675.webp",
       "source": "The PRP",
       "language": "en",
-      "que_paso": "Colorado deathcore band Crown Magnetar released the single “Dead Crown” together with its music video, which was directed by Dakota Johnson. The release serves as the lead promotion for their upcoming third album, “The Hollowing Of Godflesh,” scheduled for later this month.",
+      "que_paso": "John Christ, former guitarist for Danzig and Samhain, issued a statement on September 2, 2026 announcing a temporary suspension of his guitar lessons and live performances. He explained that a medical condition requires him to follow doctors' orders and rest for several months. The pause also affects his merchandise fulfillment timeline.",
       "datos": [
-        "Crown Magnetar is a deathcore outfit based in Colorado.",
-        "The single is titled “Dead Crown.”",
-        "The music video was directed by actress Dakota Johnson.",
-        "The track will appear on the band’s third studio album “The Hollowing Of Godflesh.”",
-        "Unique Leader Records set the album’s release date for September 25, 2026.",
-        "The band described the song as one of the heaviest they have written, featuring a concept of a crown surgically driven into a skull."
+        "John Christ, former guitarist for Danzig and Samhain, released a statement on September 2, 2026.",
+        "He said doctors have instructed him to take a few months off to recover from a medical issue.",
+        "He will be unable to conduct guitar lessons or live gigs until further notice.",
+        "His merchandise team will continue processing orders, though fulfillment may be delayed.",
+        "He pledged to contact fans for lessons once he is medically cleared."
       ],
-      "conclusion": "The involvement of a high‑profile director could expand the band’s audience beyond the genre, and the song’s extreme intensity signals a continued emphasis on heavier material for the forthcoming album."
+      "conclusion": "Stakeholders should adjust any planned collaborations or bookings with Christ and anticipate possible delays in merchandise orders during his recovery period."
     },
     {
-      "title": "Salir de Ceuta por su propio pie: “No puedo más, me voy. Aún no sé para qué vine”",
-      "url": "https://elpais.com/espana/2026-09-02/salir-de-ceuta-por-su-propio-pie-no-puedo-mas-me-voy-aun-no-se-para-que-vine.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/JDFRWO6FIFFQ3BP75FPV7FIXZ4.jpg?auth=5cacf060ed3193efb0d320873a121b3110655c07275141aa3192f2a4223d227f",
+      "title": "Las cartas inéditas de Francisco al obispo de Barbastro para protegerlo del Opus Dei: “Busco librarte de las intrigas mafiosas”",
+      "url": "https://elpais.com/sociedad/2026-09-03/las-cartas-ineditas-de-francisco-al-obispo-de-barbastro-para-protegerlo-del-opus-dei-busco-librarte-de-las-intrigas-mafiosas.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/PCDI4GYFPFC6BF67MSXUPAKVS4.jpeg?auth=d115884da65beee126ad6d048b807f4ed0d63d906b4225134bb816293cda106b",
       "source": "El País",
       "language": "es",
-      "que_paso": "Un número creciente de adolescentes en la frontera de Ceuta con Marruecos decide abandonar la zona de forma voluntaria, describiendo la experiencia como “el peor mes de mi vida”. El flujo se presenta como un goteo diario de jóvenes que dejan la frontera por su propia voluntad.",
+      "que_paso": "EL PAÍS publicó dos cartas inéditas que el papa Francisco envió al obispo de Barbastro, Pérez Pueyo, en las que le insta a no ceder ante la presión de Opus Dei dentro de la disputa por el santuario de Torreciudad. Las misivas revelan la oposición directa del pontífice a la intervención de la organización en ese conflicto.",
       "datos": [
-        "Ceuta es una ciudad autónoma española que comparte frontera terrestre con Marruecos",
-        "Los adolescentes cruzan la frontera de forma voluntaria",
-        "El fenómeno se describe como un goteo diario de jóvenes",
-        "Los jóvenes califican el periodo previo como “el peor mes de mi vida”"
+        "EL PAÍS obtuvo acceso a dos misivas enviadas por el papa Francisco",
+        "Las cartas están dirigidas al obispo Pérez Pueyo de Barbastro",
+        "En ellas el pontífice expresa su oposición a la Obra (Opus Dei)",
+        "Las misivas forman parte de la disputa por el santuario de Torreciudad",
+        "El texto incluye la exhortación «¡No cedás!»"
       ],
-      "conclusion": "Este abandono voluntario indica una crisis de bienestar entre jóvenes en la frontera, lo que obliga a autoridades a reforzar apoyos psicológicos y a reconsiderar las políticas migratorias."
+      "conclusion": "El hecho muestra la intervención del Vaticano en disputas internas de la Iglesia, lo que puede influir en la gestión de propiedades eclesiásticas y en la relación con Opus Dei."
     },
     {
-      "title": "Nelio Biedermann, el escritor de 23 años que narró un siglo entero: “Olvidar es una forma comprensible de sobrellevar la Historia”",
-      "url": "https://elpais.com/cultura/2026-09-02/nelio-biedermann-el-escritor-de-23-anos-que-narro-un-siglo-entero-olvidar-es-una-forma-comprensible-de-sobrellevar-la-historia.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/XY4PUDKURVDZTERVTHV2KPOKVQ.jpg?auth=02479258f2be64f6ea2e9b7e32ccf8033d1d047f72c84764fcbfc2954b7dacdd",
+      "title": "La jueza Durántez, que se ha negado durante un año a abrir la macrocausa de las residencias, pregunta qué hacer a la Audiencia de Madrid",
+      "url": "https://elpais.com/espana/madrid/2026-09-03/la-jueza-durantez-que-se-ha-negado-durante-un-ano-a-abrir-la-macrocausa-de-las-residencias-pregunta-que-hacer-a-la-audiencia-de-madrid.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/NPLE6X5R2JFEZBMOSOZIVKY6GY.jpg?auth=c0b4c126b28b698bc356456c4cb75c4a2e1785c25b5398205a32463ced478d7a",
       "source": "El País",
       "language": "es",
-      "que_paso": "Nelio Biedermann, de 23 años, publicó su primera novela, ‘Lázár’, que utiliza la historia de su familia húngara aristocrática para narrar los acontecimientos del siglo XX. La obra ha generado un amplio reconocimiento y ha sido traducida a numerosos idiomas, convirtiéndose en un fenómeno literario internacional.",
+      "que_paso": "La jueza Durántez, que lleva un año sin abrir la macrocausa sobre las residencias, planteó al presidente de la Audiencia Nacional de Madrid la incertidumbre sobre cómo proceder. La cuestión surgió tras un conflicto estival entre magistrados acerca de si se deben unir las investigaciones contra ex cargos del gobierno de Isabel Díaz Ayuso.",
       "datos": [
-        "Nelio Biedermann tiene 23 años.",
-        "El título de la novela es ‘Lázár’.",
-        "La trama se inspira en la familia aristócrata húngara del autor.",
-        "El libro recorre los eventos del siglo XX.",
-        "Ha sido traducido a más de 25 idiomas."
+        "La jueza Durántez lleva un año sin abrir la macrocausa de las residencias",
+        "El conflicto entre magistrados surgió en el verano de 2026",
+        "La disputa trata de la posible unión de investigaciones contra ex cargos del gobierno de Isabel Díaz Ayuso",
+        "La duda fue planteada al presidente de la Audiencia Nacional de Madrid",
+        "Durántez solicitó al presidente orientación sobre los pasos a seguir"
       ],
-      "conclusion": "El éxito de ‘Lázár’ demuestra que una perspectiva personal puede resonar globalmente, ofreciendo al lector una visión condensada del siglo pasado y señalando oportunidades de mercado para obras históricas con enfoque familiar."
+      "conclusion": "Esta indecisión retrasa la resolución de casos que afectan a la gestión de residencias y a la rendición de cuentas de ex funcionarios, generando incertidumbre jurídica para el sector."
     },
     {
-      "title": "Romper la relación con la familia: por qué mucha gente apuesta por el contacto cero",
-      "url": "https://elpais.com/smoda/bienestar/2026-09-02/la-ruptura-del-mito-de-la-familia-unida-por-que-mucha-gente-apuesta-por-el-contacto-cero.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/3V5HZWJHBBFS5BV6VCW4BMVLDA.jpg?auth=9f9a79151dc04aebaf65e173ff1a73a903ab3985fb043d972b8072ed931c44d6",
+      "title": "El calor extremo puede causar reglas más cortas, más intensas o con más sangrado",
+      "url": "https://elpais.com/salud-y-bienestar/2026-09-03/el-calor-extremo-tambien-impacta-en-la-menstruacion-mas-sangrado-sintomas-intensos-o-reglas-mas-cortas.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/6J5VHEN4LVD4RPXAMZFNEVSTHM.JPG?auth=1577f79650c463fde8380a6bff7bfa3e2ea2f8d85f2652b1e1b2d48e49782d72",
       "source": "El País",
       "language": "es",
-      "que_paso": "Cada vez más personas están adoptando el \"contacto cero\" con sus familiares, siguiendo el ejemplo de celebridades como Brooklyn Beckham, para cuestionar la idea tradicional de que la familia debe permanecer unida sin excepción. Este movimiento se está normalizando entre quienes buscan romper con ese mito y establecer límites claros en sus relaciones familiares.",
+      "que_paso": "Investigadores han demostrado que la exposición a temperaturas extremadamente altas altera la regulación hormonal de la mujer, lo que a su vez modifica la termorregulación y produce irregularidades en el ciclo menstrual, como periodos más cortos, más intensos o con mayor sangrado, en el contexto de olas de calor cada vez más frecuentes.",
       "datos": [
-        "Brooklyn Beckham es citado como una de las figuras públicas que promueve el distanciamiento familiar.",
-        "El término utilizado para describir esta práctica es \"contacto cero\".",
-        "El objetivo declarado es derribar el mito de que la familia debe mantenerse unida a toda costa.",
-        "El artículo indica que el distanciamiento familiar está comenzando a ser habitual entre ciertos grupos."
+        "Las altas temperaturas provocan alteraciones hormonales que afectan la termorregulación femenina",
+        "El estrés térmico puede distorsionar la regularidad del ciclo menstrual",
+        "Los cambios observados incluyen ciclos más cortos, mayor intensidad y mayor sangrado",
+        "El hallazgo proviene de estudios que analizan a mujeres expuestas a episodios de calor extremo"
       ],
-      "conclusion": "El auge del contacto cero refleja un cambio cultural en la percepción de la familia, lo que puede influir en la gestión de relaciones personales y profesionales al requerir límites más definidos."
+      "conclusion": "Este efecto muestra que el calor extremo no solo impacta la productividad, sino también la salud reproductiva de las empleadas, por lo que es crucial implementar medidas de mitigación térmica en el entorno laboral."
     },
     {
-      "title": "Con las manos manchadas de catástrofe",
-      "url": "https://elpais.com/opinion/2026-09-02/con-las-manos-manchadas-de-catastrofe.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/VETXK4GVV5GKZOF4W64PBFW3LY.jpg?auth=8420a5ffd92741274671fd0efc403daf7536df1f56d3ca42afc199245c3cc5f6",
+      "title": "La IA llega a los gimnasios y hay quien la prefiere a un entrenador personal: “ChatGPT es gratis”",
+      "url": "https://elpais.com/estilo-de-vida/2026-09-03/la-ia-llega-a-los-gimnasios-y-hay-quien-la-prefiere-a-un-entrenador-personal-chatgpt-es-gratis.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/OE53TYJAMBEKBIXCXOJEKD4R7A.jpg?auth=3e2ee4a9abff8c16db281a673baad25cbfedd8fcd4658d1fa222ebe4691596d3",
       "source": "El País",
       "language": "es",
-      "que_paso": "En el marco de las próximas elecciones en Brasil, los dos principales programas electorales han anunciado que planean incrementar la producción de petróleo, a pesar de que en otras regiones del planeta se registran sequías devastadoras e inundaciones extremas. La propuesta se presenta como parte de sus plataformas de campaña.",
+      "que_paso": "Empresas de gimnasios y usuarios están incorporando herramientas de IA para diseñar rutinas de entrenamiento, sustituyendo en algunos casos al entrenador personal; la tendencia se impulsa por la disponibilidad gratuita de ChatGPT, aunque los usuarios advierten falta de personalización y errores visibles.",
       "datos": [
-        "Los dos principales programas electorales en Brasil proponen aumentar la producción de petróleo.",
-        "El artículo menciona sequías devastadoras en algunas partes del mundo.",
-        "El artículo menciona inundaciones apocalípticas en otras regiones.",
-        "No se citan cifras específicas de producción ni fechas en el texto.",
-        "El contexto es la discusión sobre la crisis climática global."
+        "ChatGPT se ofrece sin coste para los usuarios que lo emplean en la planificación de ejercicios.",
+        "Las aplicaciones de IA están siendo probadas en varios gimnasios de España, incluido Madrid.",
+        "Los usuarios reportan que la IA no adapta los programas a sus condiciones físicas específicas.",
+        "Se han detectado errores evidentes en las rutinas generadas, como ejercicios incompatibles con lesiones previas.",
+        "La ausencia de interacción humana es citada como una limitación importante."
       ],
-      "conclusion": "Esto indica que la agenda energética brasileña podría priorizar la expansión del petróleo pese a la presión climática, lo que implica riesgos regulatorios y de reputación para operaciones dependientes de combustibles fósiles. Los gestores deben anticipar posibles cambios de política y considerar alternativas más sostenibles."
+      "conclusion": "Esto indica que, aunque la IA puede reducir costos y ampliar el acceso a planes de entrenamiento, su falta de personalización y errores limitan su sustitución completa del entrenador humano, por lo que los operadores deben combinar ambas opciones."
     },
     {
-      "title": "El debate | ¿Cuándo hay que acabar esta legislatura?",
-      "url": "https://elpais.com/opinion/2026-09-02/el-debate-cuando-hay-que-acabar-esta-legislatura.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/BDM23TTM4VC27KMF42YGB4LD6A.jpg?auth=5ba5b3f594d791c251ef25172039356523750d2ec75be9f520bae21b0297ea64",
+      "title": "Inicio de curso bajo tensión",
+      "url": "https://elpais.com/opinion/2026-09-03/inicio-de-curso-bajo-tension.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/LUWHXQABTBDVLIVPTU4WHXCNSI.jpg?auth=42e7761c69226c6fa514a9554dcfdc505e274bbbceed77ee8e437af342c37c45",
       "source": "El País",
       "language": "es",
-      "que_paso": "El Congreso ha iniciado su último año de sesiones de la XV Legislatura, y el presidente del Gobierno, Pedro Sánchez, enfrenta la presión de decidir entre convocar elecciones anticipadas o mantener el mandato hasta el verano de 2027. La discusión se produce en medio de varias crisis abiertas y proyectos legislativos pendientes que aún no se han resuelto.",
+      "que_paso": "Al iniciar el nuevo curso escolar, se constató que la brecha socioeconómica está provocando diferencias marcadas en la disponibilidad de recursos educativos, lo que genera tensiones entre los docentes y la comunidad educativa.",
       "datos": [
-        "La XV Legislatura española comenzó el 17 de julio de 2023 tras las elecciones generales de ese año",
-        "El mandato legislativo en España tiene una duración máxima de cuatro años, con vencimiento previsto para el verano de 2027",
-        "Pedro Sánchez, presidente del Gobierno, es quien tiene la facultad de disolver anticipadamente el Congreso",
-        "El último curso de la XV Legislatura empezó en septiembre de 2026",
-        "Actualmente existen crisis abiertas, como la energética y la reforma laboral, que siguen sin resolverse"
+        "Segregación socioeconómica en el sistema educativo",
+        "Desigualdad en el acceso a la educación",
+        "Impacto negativo en las condiciones laborales de los docentes",
+        "Inicio del curso percibido bajo tensión"
       ],
-      "conclusion": "Una disolución anticipada generaría incertidumbre política que podría afectar la planificación operativa y la estabilidad regulatoria; mantener el mandato hasta 2027 proporcionaría mayor previsibilidad para la toma de decisiones empresariales."
+      "conclusion": "La situación obliga a replantear la asignación de recursos y las políticas laborales para mitigar la brecha y mantener la calidad educativa."
     },
     {
-      "title": "¿Es la ola reaccionaria una nueva contracultura?",
-      "url": "https://elpais.com/cultura/2026-09-02/es-la-ola-reaccionaria-una-nueva-contracultura.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/5YUZ6IYUKZB4XGIJ564VGZWGGU.jpg?auth=789a480bc97f51d6f3747ec448b75f6748cc8b93ce19102a868a7075a237607e",
+      "title": "Ceuta: las niñas son las más vulnerables",
+      "url": "https://elpais.com/opinion/2026-09-03/ceuta-las-ninas-son-las-mas-vulnerables.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/EZKJLKCP2VCBPNRCAMHCWHF75Q.jpg?auth=1132c3857242edd0f4091ea9bc47bd9766b385f2174e47292454c32940edf3a6",
       "source": "El País",
       "language": "es",
-      "que_paso": "El ensayista Jaron Rowan publicó el ensayo “Un monstruo llamado Yo”, en el que analiza cómo la ultraderecha actual se vincula con movimientos subculturales y contraculturales, planteando la cuestión de si esa ola reaccionaria constituye una nueva contracultura.",
+      "que_paso": "Una disputa política se ha intensificado en Ceuta mientras las autoridades tratan de abordar una crisis que afecta especialmente a las niñas, consideradas el colectivo más vulnerable. El conflicto involucra al gobierno central, la administración local y organizaciones sociales que demandan medidas específicas. La presión migratoria y la escasez de recursos agravan la situación.",
       "datos": [
-        "Autor del ensayo: Jaron Rowan",
-        "Título del ensayo: “Un monstruo llamado Yo”",
-        "Tema central: conexiones entre la ultraderecha contemporánea y corrientes subculturales y contraculturales",
-        "Pregunta planteada en el artículo: ¿Es la ola reaccionaria una nueva contracultura?"
+        "Ceuta es una ciudad autónoma española situada en el norte de África.",
+        "Según el último informe municipal, las niñas presentan los índices más altos de vulnerabilidad social en la ciudad.",
+        "El debate político se da entre el Ministerio de Política Territorial y la Junta de Gobierno de Ceuta.",
+        "Organizaciones de derechos infantiles han solicitado la creación de un plan de protección específico.",
+        "La crisis está vinculada a la presión migratoria y al déficit de servicios sociales.",
+        "El alcalde de Ceuta, Juan Jesús Vivas, ha declarado que se necesita una respuesta coordinada."
       ],
-      "conclusion": "Este análisis alerta sobre la capacidad de la ultraderecha para apropiarse de símbolos y dinámicas culturales, lo que implica que las organizaciones deben vigilar la influencia cultural en sus entornos operativos."
+      "conclusion": "Resolver la vulnerabilidad de las niñas es clave para estabilizar la situación social de Ceuta y evitar que la crisis se extienda, por lo que la coordinación entre niveles de gobierno y la implementación de políticas específicas son imprescindibles."
     },
     {
-      "title": "El desafío de las almazaras: o concentran la oferta o están abocadas al cierre",
-      "url": "https://elpais.com/espana/2026-09-02/el-desafio-de-las-almazaras-o-concentran-la-oferta-o-estan-abocadas-al-cierre.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/5LZVPE5CONDMXNBAXGQLFLKHUU.jpg?auth=05e86635432779ba41c587edfb72471d89021dbc1769bc14b3383115dfc35778",
+      "title": "Aitor Francesena, el campeón de surf que cabalga las olas sin verlas",
+      "url": "https://elpais.com/eps/2026-09-03/aitor-francesena-el-campeon-de-surf-que-cabalga-las-olas-sin-verlas.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/J7VUVVU5YZCSJFJOS56Y3GFLQM.jpg?auth=3402761d4d768f4ac3846d05b0248feaa5ce800255db2066819a25795502a87c",
       "source": "El País",
       "language": "es",
-      "que_paso": "Un estudio reciente del sector oleícola indica que, en los próximos diez años, más de 600 almazaras de la Península Ibérica podrían cerrar por falta de competitividad y rentabilidad, lo que obliga al sector a decidir entre concentrar la oferta o desaparecer.",
+      "que_paso": "Aitor Francesena, surfista de Zarautz que lleva casi quince años viviendo con ceguera, ha lanzado su nuevo libro en el que narra su trayectoria y los obstáculos que ha superado. El lanzamiento coincide con la creciente atención al deporte inclusivo en España.",
       "datos": [
-        "Más de 600 almazaras podrían cerrar",
-        "El horizonte temporal es la próxima década",
-        "La causa principal es la falta de competitividad y rentabilidad",
-        "El estudio se centra en la Península Ibérica",
-        "Se plantea la necesidad de concentrar la oferta para sobrevivir"
+        "Aitor Francesena es campeón de surf en España",
+        "Reside en Zarautz, provincia de Guipúzcoa",
+        "Convive con ceguera desde hace aproximadamente 15 años",
+        "Publicó el libro titulado “Surfear la vida” en 2026",
+        "El libro describe sus estrategias para afrontar dificultades y retos"
       ],
-      "conclusion": "El posible cierre masivo afectará la cadena de suministro de aceite de oliva y requerirá que los operadores consoliden recursos para mantener la viabilidad del sector."
+      "conclusion": "Su experiencia muestra que la adaptación y la mentalidad de resolución de problemas pueden superar limitaciones físicas, una lección útil para la gestión operativa y el desarrollo de IA."
     },
     {
-      "title": "Más enseñanzas militares, propaganda y ofertas de alistamiento en el inicio del año escolar en Rusia",
-      "url": "https://elpais.com/internacional/2026-09-02/mas-ensenanzas-militares-propaganda-y-ofertas-de-alistamiento-en-el-inicio-del-ano-escolar-en-rusia.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/66BFQU6Z5BDMZGXAYASVLBGPU4.jpg?auth=126a2baef1ccea69dca34cb3c6434bb51c9e84333e6a6b2841ca5e4d79c6b6a8",
+      "title": "‘Furious’: Acabemos con el tópico de la chica muerta y el hombre poderoso de una vez por todas",
+      "url": "https://elpais.com/television/series/2026-09-03/furious-acabemos-con-el-topico-de-la-chica-muerta-y-el-hombre-poderoso-de-una-vez-por-todas.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/XN2EPGXJURCQRH6EFMA25CS6QQ.jpg?auth=698e9d6ff9917ceee929d388ac90605dcc5fa71ced023fe6c17d82f94a6b1eb0",
       "source": "El País",
       "language": "es",
-      "que_paso": "El Ministerio de Educación de Rusia ha modificado el currículo escolar para el inicio del año académico, incorporando contenidos de carácter militar y reduciendo la presencia de materias como inglés y ciencias sociales. Además, el nuevo programa incluye lecciones de historia con una perspectiva sesgada y asignaturas que enseñan el manejo de drones, acompañadas de ofertas de alistamiento para los estudiantes.",
+      "que_paso": "La serie ‘Furious’, protagonizada por Emmy Rossum, estrenó su episodio final en Disney+ el 3 de septiembre de 2026, cerrando una producción que ha sido señalada por críticos como una renovación del thriller criminal y una ruptura de los clichés habituales del género.",
       "datos": [
-        "El programa educativo incluye menos inglés y ciencias sociales",
-        "Incluye una visión de la historia poco objetiva",
-        "Incluye asignaturas que incluyen el manejo de drones",
-        "Se añaden enseñanzas militares al currículo",
-        "Se incluyen ofertas de alistamiento en el inicio del año escolar"
+        "‘Furious’ es una serie de televisión de género criminal.",
+        "Emmy Rossum interpreta a la protagonista de la serie.",
+        "El episodio final se puso a disposición en Disney+ el 3 de septiembre de 2026.",
+        "Los críticos han destacado que la serie elimina el tópico de la chica muerta y el hombre poderoso.",
+        "La serie ha sido descrita como una evidencia de que la violencia solo genera más violencia y que el miedo puede cambiar de bando en cualquier momento."
       ],
-      "conclusion": "Esta medida intensifica la militarización de la educación rusa, lo que puede afectar la formación académica tradicional y orientar a los jóvenes hacia carreras militares desde edades tempranas."
+      "conclusion": "El cierre demuestra que los dramas criminales pueden subvertir tropos tradicionales, ofreciendo a los creadores una hoja de ruta para narrativas más originales y menos predecibles."
     },
     {
-      "title": "Arranca el festival de Venecia con Gaza y sin mujeres",
-      "url": "https://elpais.com/cultura/cine/2026-09-02/arranca-el-festival-de-venecia-con-gaza-y-sin-mujeres.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/LKTMCSRRUBOPTG6XDF4KFEQ2SM.jpg?auth=af402e1b274aac2c6c01a876641aecec23bdd87be49327764f71236c562a85cd",
+      "title": "Un circo ambulante para el horror de Gaza",
+      "url": "https://elpais.com/internacional/2026-09-03/un-circo-ambulante-para-el-horror-de-gaza.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/E52CTZVXM5BCBBPE22QZXZII64.jpg?auth=bf3ef8b6a1adf3ede83e7004249e6e66d83e1889573f209f55c4bd1104826a4a",
       "source": "El País",
       "language": "es",
-      "que_paso": "El Festival de Cine de Venecia comenzó con la participación de dos directoras en la sección competitiva. Estas cineastas hicieron un llamado a la solidaridad con el pueblo palestino y, a última hora, se incorporó al programa el documental NAZA, realizado por los creadores de “No Other Land”.",
+      "que_paso": "La invasión israelí en Gaza ha convertido una iniciativa educativa previamente planificada en un espectáculo itinerante que busca provocar risa entre niños y adultos. El proyecto, originalmente pensado para la enseñanza, ahora funciona como un circo móvil en medio de la devastación causada por el conflicto.",
       "datos": [
-        "Dos directoras forman parte del concurso oficial del festival.",
-        "Las directoras hicieron un llamado a la solidaridad con el pueblo palestino.",
-        "Se incluyó a última hora el documental \"NAZA\" en la programación.",
-        "\"NAZA\" es obra de los directores de \"No Other Land\".",
-        "El festival se celebra en Venecia, Italia."
+        "Invasión israelí en la Franja de Gaza",
+        "Iniciativa educativa original antes de la transformación",
+        "Conversión en espectáculo ambulante (circo)",
+        "Objetivo declarado de hacer reír a todas las edades",
+        "Entorno de destrucción generalizada en Gaza"
       ],
-      "conclusion": "La presencia de mujeres en la competencia y el énfasis en Gaza reflejan una mayor politización del evento, lo que puede orientar la agenda cultural hacia temáticas sociales y de derechos humanos."
+      "conclusion": "Este giro muestra cómo la guerra obliga a adaptar actividades culturales para ofrecer alivio psicológico, subrayando la necesidad de estrategias de resiliencia en zonas de conflicto."
     },
     {
-      "title": "Beneficios y riesgos de dormir con tu mascota: de la sensación de seguridad a la pérdida de calidad del sueño",
-      "url": "https://elpais.com/estilo-de-vida/2026-09-02/beneficios-y-riesgos-de-dormir-con-tu-mascota-de-la-sensacion-de-seguridad-a-la-perdida-de-calidad-del-sueno.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/YN3UUSQUWRFFPMD53EI2K6HZZU.jpg?auth=9358e5d2a7fe546b01edb0a95cb4b9261fac8a4cea1d7337ddadbffe369be6cb",
+      "title": "Uno de cada cinco menores sufre abuso o explotación sexual ‘online’ en 21 países, según datos de Unicef e Interpol",
+      "url": "https://elpais.com/planeta-futuro/2026-09-03/uno-de-cada-cinco-menores-sufre-abuso-o-explotacion-sexual-online-en-21-paises-segun-datos-de-unicef-e-interpol.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/KZYJ2ZSIIJCGFO7KMMKCIYUNBE.jpg?auth=acd62569a8f2cd8bfdc57b66265ed115052aa68dbfe7ba7854072e8eac0e8eb0",
       "source": "El País",
       "language": "es",
-      "que_paso": "Expertos en salud y comportamiento animal han evaluado los efectos de compartir la cama con perros o gatos, analizando cómo la compañía y la sensación de seguridad influyen en el bienestar emocional y en la calidad del sueño, una práctica cada vez más frecuente en hogares españoles.",
+      "que_paso": "UNICEF e Interpol analizaron casos de abuso sexual en línea en 21 países y determinaron que alrededor del 20 % de los menores fueron víctimas, la mayoría por personas que ya conocían. El hallazgo se produce en el contexto de la creciente interacción digital de los menores.",
       "datos": [
-        "Compartir la cama con perros o gatos es una costumbre extendida en muchos hogares.",
-        "Se asocia con una mayor sensación de seguridad y bienestar emocional para el dueño.",
-        "Los especialistas advierten que esta práctica puede disminuir la calidad del sueño.",
-        "Los expertos están analizando los factores que determinan el impacto positivo o negativo de la convivencia nocturna con mascotas."
+        "1 de cada 5 menores (20 %) sufre abuso o explotación sexual online",
+        "Estudio abarcó 21 países",
+        "El 57 % de los casos involucró a alguien conocido por la víctima",
+        "Menos del 1 % de los incidentes se denunciaron a la policía o a una línea de ayuda",
+        "El informe fue elaborado por UNICEF e Interpol"
       ],
-      "conclusion": "El lector debe equilibrar los beneficios emocionales de dormir con su mascota contra el posible deterioro del descanso, ajustando la rutina para optimizar su rendimiento laboral y personal."
+      "conclusion": "La escasa denuncia indica que la mayoría de los abusos permanecen invisibles, lo que obliga a reforzar los protocolos de detección y reporte en entornos operativos y tecnológicos."
     },
     {
-      "title": "El alivio del regreso a la rutina tras un verano con los hijos",
-      "url": "https://elpais.com/mamas-papas/familia/2026-09-02/el-alivio-del-regreso-a-la-rutina-tras-un-verano-con-los-hijos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/3OHJUBCFFZAUZJQQPZ3QP2FCEI.jpg?auth=94ba0196600f653bfe2d1aee9a6cb86cd8142b8cfcff8fc60e42478209ab0e9c",
+      "title": "La regularización rejuvenece el mercado laboral con más afiliados menores de 35 años",
+      "url": "https://elpais.com/economia/2026-09-03/la-regularizacion-rejuvenece-el-mercado-laboral-con-mas-afiliados-menores-de-35-anos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/75HPV7SHSJEFPNJLZFSARW2FHI.jpg?auth=40c1667c0361f194a43e24c480336df4c499c988d5ba99249c9e546e8cb30ccb",
       "source": "El País",
       "language": "es",
-      "que_paso": "Al terminar las vacaciones de verano, muchos padres experimentan sentimientos contradictorios al volver a su rutina y recuperar tiempo personal. Este fenómeno, descrito en la psicología como ambivalencia emocional, refleja la tensión entre el deseo de disfrutar con los hijos y la necesidad de espacio propio.",
+      "que_paso": "El proceso de regularización ha incorporado a un número significativo de trabajadores jóvenes al sistema de Seguridad Social, con la mayoría de ellos en la franja de menos de 35 años. Además, ha generado una nueva inscripción de desempleados que se apuntan al paro.",
       "datos": [
-        "Los padres sienten sentimientos contradictorios al terminar las vacaciones.",
-        "El fenómeno se denomina ambivalencia emocional en psicología.",
-        "La situación ocurre al finalizar el verano y al recuperar espacio personal.",
-        "No se discute abiertamente en la sociedad."
+        "55 % de los trabajadores regularizados están entre 0 y 35 años",
+        "337 900 personas ya cotizan a la Seguridad Social tras la regularización",
+        "40 400 personas se han inscrito en el paro tras el proceso",
+        "El programa se denomina regularización laboral"
       ],
-      "conclusion": "Reconocer la ambivalencia emocional permite a los padres gestionar mejor su tiempo y comunicarse con sus hijos, favoreciendo un equilibrio más saludable entre vida familiar y personal."
+      "conclusion": "La incorporación de jóvenes al sistema fortalece la base contributiva y reduce la presión sobre el desempleo, lo que beneficia la estabilidad financiera y operativa de la empresa."
     },
     {
-      "title": "He probado la botella superventas de Amazon y ahora entiendo por qué acumula más de 60.000 valoraciones",
-      "url": "https://elpais.com/escaparate/estilo-de-vida/probamos-botella-superventas-amazon.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/K52TJQRZ6RFUPJ6FC5PPAPBDCQ.png?auth=935fba7155ff3a5098a6bc3c02c6b4e04799038e90fa98a8537c91074ef7ad79",
+      "title": "Policía y Hacienda tendrán acceso al nuevo registro de titulares de cuentas cripto",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-09-03/policia-y-hacienda-tendran-acceso-al-nuevo-registro-de-titulares-de-cuentas-cripto.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/25ASF63FGNHYZP3TZUOAW4UHKQ.jpg?auth=99dcb3199f7047a367ed6a9b7b5ae37b35a7b93c2d40756febc837163c41e5d2",
       "source": "El País",
       "language": "es",
-      "que_paso": "El autor probó durante varias semanas la botella de acero inoxidable de un litro con tapa de pajita antigoteo que lidera las ventas en Amazon, para evaluar su desempeño como termo. El test se realizó en el contexto de buscar un termo fiable para uso diario y profesional.",
+      "que_paso": "La nueva normativa antiblanqueo exigirá a las plataformas de criptoactivos notificar a las autoridades cada apertura y cierre de cuenta, creando un registro de titulares al que podrán acceder diversas entidades de seguridad y fiscalidad. La medida se incorpora al marco legislativo español para reforzar la vigilancia de los criptoactivos y prevenir el blanqueo de capitales.",
       "datos": [
-        "La botella está fabricada en acero inoxidable",
-        "Capacidad de 1 litro",
-        "Incluye una tapa con pajita antigoteo",
-        "Ha acumulado más de 60 000 valoraciones en Amazon",
-        "El autor la utilizó durante varias semanas para probar su funcionamiento"
+        "La futura ley antiblanqueo obligará a las plataformas de criptoactivos a comunicar a las autoridades cada apertura y cierre de cuenta",
+        "El registro de titulares será accesible para jueces, fiscales, fuerzas de seguridad, la Agencia Tributaria y el CNI",
+        "La normativa forma parte del marco legislativo español para combatir el blanqueo de capitales y la financiación del terrorismo",
+        "La obligación se aplicará a todas las plataformas que operen en territorio español, independientemente de su origen",
+        "La medida busca permitir la detección temprana de actividades sospechosas en criptoactivos"
       ],
-      "conclusion": "Los resultados confirman que el diseño y los materiales cumplen con las expectativas de durabilidad y funcionalidad, información útil para decidir su compra en entornos operativos."
+      "conclusion": "El acceso de Policía, Hacienda y el CNI al registro aumentará la capacidad de detección de actividades ilícitas en cripto, obligando a los operadores a adoptar procesos de cumplimiento más rigurosos."
     },
     {
-      "title": "Rubén Valbuena, quesero: “Creemos haber elaborado el primer queso azul de leche de burra”",
-      "url": "https://elpais.com/gastronomia/2026-09-02/ruben-valbuena-quesero-creemos-haber-elaborado-el-primer-queso-azul-de-leche-de-burra.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/I75ADJABT5GHTKLFPA7RT2FBMI.jpeg?auth=cf2eca2ed89a5d35e25bc6ef7bcbd053b662be51d248eac3ddbb4ca2c6c38ef8",
+      "title": "A la oficina o a la calle: los estudios de videojuegos ponen trabas al teletrabajo",
+      "url": "https://elpais.com/economia/2026-09-03/a-la-oficina-o-a-la-calle-los-estudios-de-videojuegos-ponen-trabas-al-teletrabajo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/CINOVOF5ZNC2RJHPLUKXCGNE7E.jpg?auth=fe973f4da521df18d3181be9828f379f7cc22bfaa61007b44c6abc2276bdcabf",
       "source": "El País",
       "language": "es",
-      "que_paso": "Rubén Valbuena, trabajando en la Granja Cantagrullas y junto a la cooperativa Buleza de Zamora, ha desarrollado un nuevo queso llamado Serón elaborado con leche de burra y curado como queso azul. El proyecto se enmarca en la tendencia de productos artesanales de alto valor que buscan diversificar la producción láctea regional.",
+      "que_paso": "Después de varios años de expansión y de permitir el teletrabajo, los estudios de desarrollo de videojuegos están revocando esa flexibilidad y exigiendo que sus equipos vuelvan a trabajar presencialmente. La medida ha sido criticada por sindicatos y empleados, que la interpretan como una estrategia para que algunos trabajadores abandonen la empresa.",
       "datos": [
-        "Rubén Valbuena es el quesero que lidera el proyecto",
-        "La Granja Cantagrullas y la cooperativa Buleza colaboran en la elaboración",
-        "El queso, llamado Serón, está hecho con leche de burra",
-        "Se trata de un queso azul, según la afirmación del productor",
-        "El precio supera los 250 euros por kilogramo",
-        "La producción se lleva a cabo en Zamora, Castilla y León"
+        "Los estudios de videojuegos han anunciado la eliminación del teletrabajo.",
+        "La política de presencialidad se impone tras años de crecimiento del sector.",
+        "Los sindicatos han manifestado su oposición a la medida.",
+        "Los empleados consideran que la medida busca forzar bajas.",
+        "La decisión afecta a los equipos de desarrollo que trabajaban remotamente."
       ],
-      "conclusion": "Este queso demuestra que la leche de burra puede generar productos premium, abriendo oportunidades de mercado para pequeños productores y diversificando la oferta láctea regional."
+      "conclusion": "Esta reversión de la flexibilidad laboral puede aumentar la rotación y afectar la productividad en un sector que depende de talento especializado, por lo que los gerentes deben planificar estrategias de retención y considerar modelos híbridos."
     },
     {
-      "title": "Cinco preguntas sin respuesta en el fiasco de las pruebas PISA en Cataluña",
-      "url": "https://elpais.com/espana/catalunya/2026-09-02/cinco-preguntas-sin-respuesta-en-el-fiasco-de-las-pruebas-pisa-en-cataluna.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/GC7TJTDDENJ7PL6Z2JUNMJBKH4.jpg?auth=eefa17e51bc9ab56f3f61c10b5ab224966c828f58af1e17d1cd2492c1d07f4e3",
+      "title": "Antideslizantes, impermeables y lavables: las mejores fundas para proteger tu sofá de manchas, roce o pelos de mascota",
+      "url": "https://elpais.com/escaparate/estilo-de-vida/fundas-para-sofa.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/7KRQGVPCLJBG5FJLNYYC4EEBGM.png?auth=652c1764cf99efc7b61b81104bdd00f359b34f8a267feb39ee0d96c621b5179e",
       "source": "El País",
       "language": "es",
-      "que_paso": "El Departamento de Educación de Cataluña gestionó mal la participación en las pruebas PISA, lo que provocó un fiasco que ha generado críticas. La consejera de Educación, Niúbó, ha intentado explicar la situación, pero persisten dudas sobre la cadena de decisiones.",
+      "que_paso": "Se ha publicado una guía que recopila los protectores de sofá con mayor aceptación entre los consumidores, destacando sus características antideslizantes, impermeables y lavables. La selección se basa en miles de valoraciones de usuarios que consideran estos productos como superventas y los utilizan para evitar manchas, desgaste y pelos de mascotas en sus muebles. El artículo ofrece opciones que prometen renovar la apariencia del sofá mientras lo resguardan de incidentes cotidianos.",
       "datos": [
-        "El artículo menciona cinco preguntas sin respuesta",
-        "Se trata del fiasco de las pruebas PISA en Cataluña",
-        "La consejera Niúbó ofreció explicaciones oficiales",
-        "Se hizo caso omiso de alertas previas",
-        "No está claro quién en el Departamento sabía de la situación"
+        "Miles de valoraciones de usuarios respaldan los productos seleccionados",
+        "Los protectores son antideslizantes, impermeables y lavables",
+        "Se promocionan como superventas en el segmento de fundas para sofá",
+        "Están diseñados para prevenir manchas, roce y pelos de mascota"
       ],
-      "conclusion": "El caso evidencia fallos de supervisión y comunicación interna en la gestión de evaluaciones internacionales, lo que puede afectar la credibilidad del sistema educativo catalán."
-    },
-    {
-      "title": "Puente reestructura la cúpula de Transportes para acelerar políticas verdes en el final de la legislatura",
-      "url": "https://elpais.com/economia/2026-09-02/puente-reestructura-la-cupula-de-transportes-para-acelerar-politicas-verdes-en-el-final-de-la-legislatura.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/OTQ3YIJU6NIVPBVJPELRLOPAC4.jpg?auth=b8eaea8d71bfde08e3adf5391352525ca7a039417e4a271958407c974f2b4cab",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "El gobierno, bajo la dirección de Puente, ha reorganizado la estructura de Transportes al aprobar la creación de una supersecretaría que combina las áreas de Transporte Terrestre y Movilidad Sostenible, con el objetivo de impulsar políticas verdes antes de que concluya la legislatura.",
-      "datos": [
-        "El Consejo de Ministros aprobó la creación de una supersecretaría general.",
-        "La nueva supersecretaría integrará la Secretaría de Transporte Terrestre y la Secretaría de Movilidad Sostenible.",
-        "La iniciativa está liderada por el ministro Puente.",
-        "El objetivo declarado es acelerar la implementación de políticas verdes en el tramo final de la legislatura."
-      ],
-      "conclusion": "Esta reestructuración centraliza la toma de decisiones en movilidad sostenible, lo que podría acelerar la ejecución de proyectos verdes antes del cierre del mandato."
-    },
-    {
-      "title": "Tech giants are trying to obliterate privacy. Australia has a rare chance to take back part of their power | Lizzie O'Shea",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/02/tech-giants-australia-privacy-act-legislation-laws",
-      "image": "https://i.guim.co.uk/img/media/fb9fa74dda4cd935fbaba98848a6e7e45ccd53c7/317_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=d5d494941d7e3462fe0b3c5e46235453",
-      "source": "The Guardian AI",
-      "language": "en",
-      "que_paso": "The Australian government has released an exposure draft proposing major updates to the Privacy Act, aiming to shift consent responsibilities from individuals to companies and to introduce a right to erasure. The reforms come amid growing public concern over AI‑driven surveillance, facial‑recognition devices, and data‑extractive business models.",
-      "datos": [
-        "93% of Australians say protecting personal information is important to them",
-        "87% say they are more concerned about privacy than five years ago",
-        "Most of Australia’s privacy laws were drafted four decades ago",
-        "The draft proposes a \"fair and reasonable\" test that places the onus on companies for data collection and use",
-        "The proposal includes a right for individuals to request deletion of their data"
-      ],
-      "conclusion": "If enacted and properly enforced, the changes could bring Australia’s privacy framework closer to EU and California standards, giving consumers stronger control over their data while curbing exploitative data practices."
-    },
-    {
-      "title": "At G20 Summit, Some U.S. Allies Push Back on Trump’s Economic Approach",
-      "url": "https://www.nytimes.com/2026/09/01/world/europe/g20-bessent-trump-allies.html",
-      "image": "https://static01.nyt.com/images/2026/09/01/multimedia/01dc-g20-lhbm/01dc-g20-lhbm-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "During the G20 meeting, President Donald Trump presented his economic agenda, but several European leaders voiced objections, focusing on the impact of U.S. tariffs and the ongoing conflict with Iran. The summit was meant to display the U.S. model for global economies, yet the European criticism highlighted divergent policy priorities.",
-      "datos": [
-        "President Donald Trump presented his economic policies at the G20 summit",
-        "European Union representatives publicly criticized U.S. tariff measures",
-        "European leaders referenced the war with Iran as a concern",
-        "The summit was intended to showcase the U.S. model for global economies"
-      ],
-      "conclusion": "The pushback signals growing friction between the United States and its European allies, indicating that future trade negotiations may become more contentious and could affect multinational operations."
-    },
-    {
-      "title": "Missouri Voters Appear to Recall City Councilman Over Data Center Support",
-      "url": "https://www.nytimes.com/2026/09/01/technology/data-center-recall-vote-independence.html",
-      "image": "https://static01.nyt.com/images/2026/08/31/multimedia/00biz-ai-recall-hfo-pwjl/00biz-ai-recall-hfo-pwjl-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Independence, Missouri residents voted to recall a city councilman because he championed large tax incentives for a data‑center development, prompting a recall effort that appears to have succeeded in the initial count.",
-      "datos": [
-        "The vote took place in Independence, Missouri.",
-        "The official targeted was a city councilman.",
-        "He had supported tax breaks totaling billions of dollars for a data center.",
-        "Initial results showed an overwhelming majority in favor of recall."
-      ],
-      "conclusion": "The outcome signals strong voter resistance to massive tax‑break packages for tech projects, warning officials of political risk when backing such incentives."
+      "conclusion": "Para un gestor de operaciones, adoptar estas fundas puede reducir costos de mantenimiento y prolongar la vida útil del mobiliario, garantizando un entorno presentable y funcional."
     }
   ]
 }
