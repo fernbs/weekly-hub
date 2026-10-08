@@ -1,753 +1,852 @@
 {
-  "generated": "2026-10-07T01:35:14.634184",
-  "count": 46,
+  "generated": "2026-10-08T01:59:14.591207",
+  "count": 52,
   "articles": [
     {
-      "title": "Justice Dept. Turns to Partisans and Conspiracists to Fill Depleted Ranks",
-      "url": "https://www.nytimes.com/2026/10/06/us/politics/justice-department-civil-rights-division.html",
-      "image": "https://static01.nyt.com/images/2026/09/29/multimedia/DC-DOJ-LAWYERS-vzjp/DC-DOJ-LAWYERS-vzjp-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "The Justice Department’s civil rights division is filling vacant positions with people whose work histories, education, and experience would previously have been deemed insufficient, according to former officials, as the unit struggles with staffing shortages.",
+      "title": "Los líderes políticos reaccionan al fallecimiento del símbolo de los desahuciados: “La muerte de Maricarmen nos golpea”",
+      "url": "https://elpais.com/espana/2026-10-07/los-lideres-politicos-reaccionan-al-fallecimiento-del-simbolo-de-los-desahuciados-la-muerte-de-maricarmen-nos-golpea.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/IS5QBMCUF5BMPILIODQLKNSBME.JPG?auth=dd6cc4c9934430840a68562d279c5eee8aa28d5d21bbd506672a36ce431ce49a&width=1200",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Maricarmen Abascal, de 87 años y referente de la lucha contra los desahucios, falleció este miércoles tras ser ingresada en un hospital tras su desalojo. Su muerte provocó una serie de mensajes de condolencia de los principales dirigentes políticos y reavivó el debate sobre el decreto de vivienda que lleva su nombre, cuyo rechazo parlamentario había desencadenado la convocatoria de elecciones generales.",
       "datos": [
-        "The civil rights unit is experiencing depleted staffing levels.",
-        "Recruitment is targeting candidates with questionable work histories.",
-        "Candidates often lack the typical education and experience required for civil rights positions.",
-        "Former officials reported the hiring of individuals identified as partisans or conspiracists."
+        "Maricarmen Abascal murió a los 87 años el miércoles tras ser hospitalizada por el desalojo de su vivienda.",
+        "El llamado \"decreto Maricarmen\" fue rechazado en el Parlamento, lo que precipitó la convocatoria de elecciones generales.",
+        "Pedro Sánchez publicó en X su mensaje de condolencia el mismo día del fallecimiento.",
+        "Alberto Núñez Feijóo, presidente del PP, también expresó su pésame en X.",
+        "Salvador Illa, presidente de la Generalitat, declaró: \"La muerte de Maricarmen nos golpea\".",
+        "Emiliano García‑Page, presidente de Castilla‑La Mancha, envió su pésame a través de redes sociales."
       ],
-      "conclusion": "The strategy risks eroding the unit’s credibility and effectiveness, indicating operational strain and possible politicization of civil rights enforcement."
+      "conclusion": "El fallecimiento de Maricarmen subraya la presión política para aprobar el decreto de vivienda y evidencia la sensibilidad de los partidos ante el problema de los desahucios, lo que puede influir en la agenda legislativa próxima."
     },
     {
-      "title": "113 Best Prime Day Deals We’re Shopping This October (2026)",
-      "url": "https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-06-2026/",
-      "image": "https://media.wired.com/photos/6ac3ef9c649b084becf0e2b4/191:100/w_1280,c_limit/Amazon%20Prime%20Day%20Top%20Art%20102026%20Absolute%20Best%20Prime%20Day%20Deals%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
+      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+      "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Surface-Laptop-Ultra-Opened-1152x648.png",
+      "source": "Ars Technica",
+      "language": "en",
+      "que_paso": "Microsoft held its first live event in two years, unveiling the Surface Laptop Ultra built around Nvidia's RTX Spark SoC and a $5,999 RTX Spark Dev Box aimed at frontier developers, while also previewing a suite of Windows 11 updates for local AI and Copilot. The announcements were made by Satya Nadella, Jensen Huang and Windows Devices President Pavan Davuluri, and the new hardware is positioned for both development and high‑end gaming use.",
+      "datos": [
+        "The Surface Laptop Ultra starts at $2,599 and ships on October 16, 2026",
+        "It offers either a 5,120‑core or 6,144‑core Blackwell GPU with up to 128 GB of LPDDR5x unified memory",
+        "The RTX Spark Dev Box is priced at $5,999 and includes 128 GB of unified memory",
+        "Microsoft claims the Dev Box delivers one petaflop (1,000 teraflops) of AI compute performance",
+        "The Dev Box features 1,000 chassis air vents as a visual reference to its 1,000‑teraflop capability",
+        "A demo ran the AAA title Gears of War: E‑Day on the Surface Laptop Ultra"
+      ],
+      "conclusion": "These devices bring petaflop‑scale AI compute to the desktop, enabling developers and power users to run local models without cloud latency, and the Windows 11 changes integrate AI actions directly into the OS, accelerating on‑premise AI adoption for operational workflows."
+    },
+    {
+      "title": "RFK Jr. Plans Vaccine Injury Initiative, Drawing Wary Eye From Experts",
+      "url": "https://www.nytimes.com/2026/10/07/us/politics/kennedy-vaccine-injuries.html",
+      "image": "https://static01.nyt.com/images/2026/10/07/multimedia/07dc-kennedy-vaccines-zwbg/07dc-kennedy-vaccines-zwbg-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "Robert F. Kennedy Jr. announced a new initiative aimed at investigating vaccine injuries, working in coordination with the health secretary, and the proposal has drawn a cautious response from vaccine‑safety experts who stress the need for scientific rigor.",
+      "datos": [
+        "Robert F. Kennedy Jr. announced a vaccine injury initiative.",
+        "The U.S. Health Secretary is linked to the effort.",
+        "Vaccine safety experts said additional research on side effects would be welcome.",
+        "Experts questioned whether the initiative will be grounded in science."
+      ],
+      "conclusion": "The move could shape future vaccine policy, but its impact will depend on whether it adheres to solid scientific standards."
+    },
+    {
+      "title": "Cilia Flores presenta este jueves en la corte federal su pedido de arresto domiciliario",
+      "url": "https://elpais.com/us/2026-10-07/cilia-flores-presenta-este-jueves-en-la-corte-federal-su-pedido-de-arresto-domiciliario.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/II2XZYOTEREB3EMYKZ5M7EE6NE.jpg?auth=abb125dba81b9442a7f576247ec4b5ae31ea2cb3c35e618cced66d791c1f1157&width=1200",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Cilia Flores, esposa de Nicolás Maduro, comparecerá ante el tribunal federal de Nueva York para solicitar arresto domiciliario por problemas de salud, mientras la Fiscalía federal se opone alegando riesgo de fuga y falta de cooperación médica. La audiencia se produce tras meses de solicitudes de sus abogados y una serie de evaluaciones médicas que ella ha rechazado.",
+      "datos": [
+        "Flores fue detenida el 3 de enero en el Centro de Detención Metropolitano de Brooklyn",
+        "El 10 de septiembre sus abogados pidieron que salga bajo fianza y sea trasladada a una residencia privada con guardias armados y brazalete electrónico",
+        "El juicio está programado para iniciar el 1 de junio del próximo año",
+        "En su solicitud menciona pérdida de más de 25 libras (≈11 kg) y un episodio de dolor torácico el 29 de julio",
+        "El 23 de abril se le realizó una prueba de esfuerzo en Brooklyn Hospital Center y tres cardiólogos recomendaron un cateterismo que ella rechazó"
+      ],
+      "conclusion": "Si se concede el arresto domiciliario, podría facilitar su defensa financiera con fondos venezolanos y complicar la persecución de cargos de narcoterrorismo, mientras que la negativa reforzaría la postura firme de EE.UU. contra la impunidad de altos funcionarios venezolanos."
+    },
+    {
+      "title": "The 23 Best Prime Day Deals Under $100 That You Can Still Get (2026)",
+      "url": "https://www.wired.com/story/best-prime-day-deals-under-100-10-07-2026/",
+      "image": "https://media.wired.com/photos/6abeeb9c10b6b4f5a562908c/191:100/w_1280,c_limit/Amazon%20Prime%20Day%20Top%20Art%20102026%20Best%20Prime%20Day%20Deals%20Under%20$100%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
       "source": "Wired",
       "language": "en",
-      "que_paso": "Amazon launched its fall Prime Day sale, called Big Deal Days 2026, on October 6 and it will run until midnight on October 7. The event requires an Amazon Prime membership and features curated product picks from WIRED staff, including laptops, earbuds, and AI‑focused devices.",
+      "que_paso": "Amazon has released an updated list of Prime Day deals priced under $100, adding items like SteelSeries headphones and an Xteink pocket e‑reader as the sale period nears its end. The roundup highlights specific low‑cost tech and household gadgets that remain available despite overall tough market conditions.",
       "datos": [
-        "The sale runs from October 6, 2026 to midnight on October 7, 2026.",
-        "Participation requires an active Amazon Prime membership.",
-        "WIRED’s contributors for the deal roundup include Louryn Strampe, Simon Hill, Nena Farrell, Kat Merck, Molly Higgins, Boutayna Chokrane, Luke Larsen, Harry Rabinowitz, and Les Shu.",
-        "The Mac Mini had been sold out for most of 2026 and is now available as the new M6 model.",
-        "The MacBook Air M5 is advertised at its lowest price since June 2026.",
-        "The article was last updated at 8:30 pm ET on October 6, 2026."
+        "The list was refreshed at 7:30 pm ET on October 7, 2026",
+        "The power bank featured has a 25,000 mAh capacity and includes a retractable 2‑foot USB‑C cable plus a 1‑foot USB‑C cord",
+        "The Nutribullet Ultra blender is rated at 1,200 watts",
+        "The handheld vacuum’s battery provides only a 15‑minute runtime",
+        "The article notes that Kindle devices are no longer priced under $100 during this Prime Day"
       ],
-      "conclusion": "For an operations manager focused on AI, the availability of the Mac Mini M6 at a discount provides a cost‑effective platform for local agentic AI workloads, while the limited‑time sale window means quick procurement decisions are required."
+      "conclusion": "These sub‑$100 deals let cost‑focused managers acquire useful tech and tools without inflating budgets, highlighting that viable equipment upgrades are still possible even in a tight spending environment."
     },
     {
-      "title": "Bill Harris Has Died. He Kidnapped Patty Hearst in 1974.",
-      "url": "https://www.nytimes.com/2026/10/06/us/bill-harris-dead.html",
-      "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05obit-harris-bqlv/05obit-harris-bqlv-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Bill Harris, a former Vietnam veteran who joined the Symbionese Liberation Army, has died; he was one of the members who participated in the 1974 kidnapping of heiress Patty Hearst, an event that marked a high‑profile domestic terrorist act.",
-      "datos": [
-        "Bill Harris was a Vietnam War veteran",
-        "He joined the Symbionese Liberation Army (SLA)",
-        "The SLA kidnapped Patty Hearst in 1974",
-        "Patty Hearst was abducted on February 4, 1974",
-        "Bill Harris’s death was announced in 2026"
-      ],
-      "conclusion": "His death closes a chapter on a notorious 1970s terrorist group, reminding security planners of the long‑term impact of radicalization on operational risk."
-    },
-    {
-      "title": "Jaguar Finally Reveals Its Biggest Gamble: the Type 01",
-      "url": "https://www.wired.com/story/jaguar-finally-reveals-its-biggest-gamble-the-type-01/",
-      "image": "https://media.wired.com/photos/6ac4bca7d1f8ebf1980afc09/191:100/w_1280,c_limit/Design_Front%2034.jpg",
+      "title": "The 28 Best Prime Day Tech Deals Will Expire Tonight",
+      "url": "https://www.wired.com/story/best-prime-day-tech-deals-10-07-2026/",
+      "image": "https://media.wired.com/photos/6abed71a8fdae86eaab61be4/191:100/w_1280,c_limit/Amazon%20Prime%20Day%20Top%20Art%20102026%20Prime%20Day%20Tech%20Deals%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
       "source": "Wired",
       "language": "en",
-      "que_paso": "Jaguar unveiled the production version of its all‑electric grand tourer, the Type 01, at a New York City event on Tuesday, following a turbulent rollout of the polarising Type 00 prototype and the recent departure of chief creative officer Gerry McGovern. Managing director Rawdon Glover presented the car as the culmination of Jaguar Land Rover’s electric reinvention that began with a rebrand in November 2024.",
+      "que_paso": "Amazon's Prime Day sale is ending at midnight, and the article lists the final tech deals available, highlighting products from Apple, Nothing, Sonos, Sony, Google and Samsung. The piece was updated on October 7, 2026 to reflect the latest discounts before the deadline.",
       "datos": [
-        "The Type 01 produces up to 1,030 PS (1,365 Nm) from a tri‑motor layout (260 kW front, two 310 kW rear motors).",
-        "0‑62 mph (0‑100 km/h) is achieved in 3.2 seconds and 62‑112 mph in an additional 4 seconds.",
-        "Drag coefficient is 0.23 Cd, with 23‑inch wheels and active aerodynamic elements.",
-        "The 118‑kWh usable battery operates on an 850‑volt architecture and is rated for up to 400 miles EPA range (450 miles WLTP, 320 miles sustained highway).",
-        "Rapid DC charging at 350 kW can add roughly 200 miles of range in 13 minutes.",
-        "The vehicle measures 5,235 mm in length and 1,403 mm in height, and features all‑wheel steering."
+        "Prime Day ends tonight at midnight (local time)",
+        "Article updated on October 7 at 7:15 pm ET",
+        "Apple AirPods Pro 3 are at their lowest price since June 2026",
+        "Nothing Headphone (1) is offered at the deepest discount seen to date",
+        "Sonos Beam Gen 2 was originally released in 2021 and is now the cheapest version available"
       ],
-      "conclusion": "The Type 01 demonstrates Jaguar’s commitment to high‑performance electric luxury, setting a new benchmark that could reshape its market positioning and influence competitors in the premium EV segment."
+      "conclusion": "The timing offers a narrow window to secure high‑value tech at unprecedented prices, enabling cost‑effective upgrades for both personal and operational use."
     },
     {
-      "title": "Privacy watchdog launches probe into China-based company behind Kmart ‘pervert glasses’ app",
-      "url": "https://www.theguardian.com/technology/2026/oct/07/privacy-regulator-probe-kmart-anko-meta-smartglasses-australia",
-      "image": "https://i.guim.co.uk/img/media/46fb6a3e1a7d7dec68ed33f3d75194118a86e9a6/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9618453cd0bc4b5d24fa75033e02824d",
-      "source": "The Guardian AI",
-      "language": "en",
-      "que_paso": "Australian Privacy Commissioner Carly Kind initiated a formal investigation into Chinese software developer Shenzhen Qingcheng regarding the HeyCyan companion app paired with Kmart's budget smartglasses. The regulatory move follows public concern over covert video recording and the developer's refusal to answer official inquiries into its privacy policy and data practices. Australian authorities are targeting the software layer as existing domestic privacy statutes govern corporate data handlers rather than individual device users or pure hardware distributors.",
-      "datos": [
-        "Kmart retailed the Anko-branded smartglasses with HD recording capabilities at a price point of $89 before selling out.",
-        "A GetUp petition demanding restrictions on the wearable devices accumulated more than 55,000 signatures.",
-        "Commissioner Carly Kind sent formal inquiries to Kmart, BDI Technology, Meta, and Google, but initiated a formal investigation solely against Shenzhen Qingcheng.",
-        "The Australian Privacy Act applies strictly to companies and Commonwealth agencies, excluding individual users and retailers that do not directly collect personal data.",
-        "Proposed government reforms seek to replace the 'reasonably necessary for an entity's functions' legal test with a 'fair and reasonable' standard evaluating user choice and child safety."
-      ],
-      "conclusion": "Regulatory scrutiny on surveillance-capable consumer tech is pivoting liability directly toward software and cloud infrastructure providers rather than hardware retailers. Builders of connected hardware must audit companion apps and data pipelines to ensure compliance with emerging 'fair and reasonable' data collection mandates."
-    },
-    {
-      "title": "After Death of Bill Harris, a Look Back at the Symbionese Liberation Army",
-      "url": "https://www.nytimes.com/2026/10/06/us/sla-symbionese-liberation-army-patty-hearst.html",
-      "image": "https://static01.nyt.com/images/2026/10/03/multimedia/00obit-SLA--ktfw/00obit-SLA--ktfw-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Bill Harris has died, prompting a retrospective on the Symbionese Liberation Army, a small urban guerrilla group that tried to overthrow the ruling class with guns and bombs, ultimately causing death and ruin.",
-      "datos": [
-        "Bill Harris – former member of the Symbionese Liberation Army whose death triggered the article",
-        "Symbionese Liberation Army – described as a small band of urban guerrillas",
-        "The group’s stated goal was to topple the “ruling class” using guns and bombs",
-        "Their actions resulted in death and ruin"
-      ],
-      "conclusion": "The piece underscores how violent, extremist tactics backfired, offering a cautionary lesson about the practical risks of radical operational approaches."
-    },
-    {
-      "title": "OpenAI Releases Findings on 377 Math Problems, Further Roiling Field",
-      "url": "https://www.nytimes.com/2026/10/06/science/openai-math-problems.html",
-      "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06sci-openai-math-01-bkmj/06sci-openai-math-01-bkmj-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "OpenAI published a report detailing its performance on 377 distinct mathematics problems, following backlash from a prior solution that mathematicians found problematic. The company framed the new release as a direct response to criticism that AI could undermine traditional research practices.",
-      "datos": [
-        "The report covers 377 separate math problems.",
-        "A previous OpenAI solution had provoked criticism from the mathematics community.",
-        "OpenAI described the new release as more responsive to concerns about AI disrupting research.",
-        "The announcement was presented as an effort to address the backlash and restore confidence in AI‑generated research."
-      ],
-      "conclusion": "The move signals that AI developers must anticipate and address scholarly pushback, highlighting the need for transparent validation when deploying AI in research contexts."
-    },
-    {
-      "title": "How to Destroy a Reputation in Hollywood, as Told in 5 Women’s Lawsuits",
-      "url": "https://www.nytimes.com/2026/10/06/nyregion/smear-campaigns-blake-lively-bryan-freedman.html",
-      "image": "https://static01.nyt.com/images/2026/10/06/lens/SHAME-PROMO/SHAME-PROMO-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Five women have filed lawsuits alleging they were subjected to coordinated public‑relations attacks intended to ruin their standing in Hollywood. They claim three powerful individuals directed the campaigns, which they describe as malicious and reputation‑destroying.",
-      "datos": [
-        "Five women filed lawsuits alleging reputational harm",
-        "The lawsuits allege malicious public‑relations campaigns",
-        "Three influential players are identified as the orchestrators of the campaigns",
-        "The alleged damage targets the women's professional reputations in Hollywood",
-        "The article reports the claims without mentioning any court rulings"
-      ],
-      "conclusion": "The case highlights the vulnerability of public figures to orchestrated smear tactics and underscores the need for proactive reputation defense and legal safeguards."
-    },
-    {
-      "title": "You Probably Aren’t Going to Get the Plague",
-      "url": "https://www.wired.com/story/what-we-know-about-plague-russia/",
-      "image": "https://media.wired.com/photos/6ac4f365faca1c452d82d19b/191:100/w_1280,c_limit/100626-Russia%20Plague.jpg",
-      "source": "Wired",
-      "language": "en",
-      "que_paso": "A researcher at the Irkutsk Anti-Plague Institute in Siberia died after a laboratory accident that caused severe pneumonia of unknown origin, prompting quarantine of the treating hospital and isolation of coworkers. U.S. CDC and the World Health Organization have assessed the situation as low risk to the broader public and are monitoring developments.",
-      "datos": [
-        "The CDC posted on X on Tuesday, October 7, 2026, that the case remains unconfirmed and poses no broader threat to the United States.",
-        "The deceased was a young researcher at the Irkutsk Anti-Plague Institute in Siberia who reportedly broke a test tube before falling ill.",
-        "WHO spokesperson Christian Lindmeier said the organization is in contact with Russian authorities and considers the public health risk to the general population very low.",
-        "In July 2025, an Arizona man died from pneumonic plague after exposure to infected cats.",
-        "The last documented human-to-human transmission of plague occurred in 1924 in Los Angeles."
-      ],
-      "conclusion": "The incident underscores the importance of rapid identification and antibiotic treatment for plague cases while confirming that, despite media alarm, the immediate public health threat remains minimal."
-    },
-    {
-      "title": "Christa Pike Regains Consciousness After Failed Execution in Tennessee",
-      "url": "https://www.nytimes.com/2026/10/06/us/christa-pike-condition.html",
-      "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05nat-tn-christa-gpbt/05nat-tn-christa-gpbt-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "A Tennessee death‑row inmate, Christa Pike, was subjected to a lethal injection protocol last week, receiving two doses of the drug, but she survived and was removed from the execution chamber by ambulance. The failed execution has prompted scrutiny of the state's lethal injection procedures.",
-      "datos": [
-        "Inmate: Christa Pike, convicted of murder, on Tennessee death row.",
-        "Execution attempt occurred the week of September 30‑October 1, 2026 (article dated October 7, 2026).",
-        "Two doses of lethal injection drug were administered.",
-        "Pike remained conscious and survived the procedure.",
-        "She was taken from the execution chamber in an ambulance.",
-        "The incident took place at the Tennessee Department of Correction's execution facility in Nashville."
-      ],
-      "conclusion": "The botched execution underscores possible deficiencies in Tennessee’s lethal injection protocol, suggesting a need for procedural review to prevent future failures and legal complications."
-    },
-    {
-      "title": "Hollywood Undead To Tour Europe And The UK In Early 2027",
-      "url": "https://www.theprp.com/2026/10/06/news/hollywood-undead-to-tour-europe-and-the-uk-in-early-2027/",
-      "image": "https://www.theprp.com/app/uploads/2026/10/hollywoodundeadlarge-1200x675.webp",
-      "source": "The PRP",
-      "language": "en",
-      "que_paso": "Hollywood Undead announced a European and UK tour scheduled for January–February 2027, with shows in 20 cities across the continent. The band will begin an artist presale on October 7, 2026 at 10:00 am BST, followed by a general sale on October 9, 2026.",
-      "datos": [
-        "Artist presale starts on 07 Oct 2026 at 10:00 am BST",
-        "General public onsale is on 09 Oct 2026 at 10:00 am BST",
-        "Tour includes 20 scheduled performances from 27 Jan to 28 Feb 2027",
-        "First three venues are Tilburg (Netherlands) at 013, Zurich (Switzerland) at X‑Tra, and Munich (Germany) at Tonhalle",
-        "Final UK shows are on 23–28 Feb 2027 at O2 Academy Birmingham, O2 Forum Kentish Town (London), Manchester Academy, O2 Academy Glasgow, and O2 Academy Leeds",
-        "Band is a multi‑platinum rap‑rock act"
-      ],
-      "conclusion": "The tour shows strong European demand for live rap‑rock, so precise ticket‑sale scheduling and venue coordination will be essential to capture revenue and maintain fan engagement."
-    },
-    {
-      "title": "Heavy/Hitter Are Recording Their Debut Album",
-      "url": "https://www.theprp.com/2026/10/06/news/heavy-hitter-are-recording-their-debut-album/",
-      "image": "https://www.theprp.com/app/uploads/2026/06/heavyhitterlarge-1200x675.webp",
-      "source": "The PRP",
-      "language": "en",
-      "que_paso": "Florida-based deathcore act Heavy//Hitter has commenced studio recording sessions for their first full-length studio album. The group is utilizing an analog, performance-driven tracking approach rather than modern quantized production techniques.",
-      "datos": [
-        "Band: Heavy//Hitter, based in Florida.",
-        "Genre: Deathcore.",
-        "Announcement date: October 6.",
-        "Project milestone: Recording debut full-length album.",
-        "Production parameters: Tracking instruments live without using a click track.",
-        "Official band statement: 'Currently in the studio recording our album We aren’t using a click And everything is being tracked live The way Deathcore should be'."
-      ],
-      "conclusion": "The band's deliberate choice to forgo click tracks highlights a push for raw, organic timing and live authenticity in an otherwise heavily digitalized modern subgenre."
-    },
-    {
-      "title": "War From A Harlots Mouth Release Newly Remastered Version Of “Voyeur”",
-      "url": "https://www.theprp.com/2026/10/06/news/war-from-a-harlots-mouth-release-newly-remastered-version-of-voyeur/",
-      "image": "https://www.theprp.com/app/uploads/2026/10/warfromaharlotsmouthlarge-1200x675.webp",
-      "source": "The PRP",
-      "language": "en",
-      "que_paso": "German metalcore outfit War From A Harlots Mouth has officially published an updated master of their final studio record. The reissue targets physical collectors through an expanded vinyl pressing of the defunct group's catalog. This project marks the band's second retrospective release campaign within the current calendar year.",
-      "datos": [
-        "Original album release year: 2012",
-        "Remaster release date: Friday, October 2nd",
-        "Remastering engineer: Brad Boatright",
-        "Physical distribution format: Deluxe vinyl reissue",
-        "Preceding reissue: Limited edition 20th anniversary pressing of 'Falling Upstairs'"
-      ],
-      "conclusion": "The reissue demonstrates the sustained commercial viability and catalog monetization of niche 2010s extreme metal through specialty vinyl remastering."
-    },
-    {
-      "title": "Qué se sabe del caso de la trabajadora de un laboratorio ruso que falleció en un centro de investigación de la peste en Siberia y que preocupa a EE.UU. y otros países",
-      "url": "https://www.bbc.com/mundo/articles/cx5yn8y1yg2qo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/news/1200/branded_mundo/2d23/live/9dd2e180-c100-11f1-af3c-abf7beab7214.jpg",
+      "title": "Por qué la mayor colonia de pingüinos del mundo ha perdido dos tercios de su población",
+      "url": "https://www.bbc.com/mundo/articles/c8vgx6k3k1p3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/news/1200/branded_mundo/ad33/live/1a300bd0-c0c6-11f1-a5b0-6f550c662e91.jpg",
       "source": "BBC Mundo",
       "language": "es",
-      "que_paso": "Una técnica de laboratorio rusa, Daria Shipilova, falleció en el Instituto Antipeste de Siberia y el Lejano Oriente, lo que provocó la cuarentena del hospital de Irkutsk y la cancelación de un evento público en la zona. Las autoridades rusas y estadounidenses siguieron de cerca el caso, con declaraciones contradictorias sobre la causa y la posible propagación de peste neumónica.",
+      "que_paso": "Un estudio del British Antarctic Survey reveló que entre 2011 y 2025 la colonia de pingüinos barbijo de la isla Zavodovski perdió un 63 % de los nidos ocupados, lo que hizo que la isla dejara de ser la mayor colonia del mundo. El descenso se atribuye al calentamiento de los océanos y a la escasez de kril, mientras que la población de pingüinos macaroni está aumentando.",
       "datos": [
-        "Daria Shipilova, 28 años, ingresó al hospital a finales de septiembre y murió tres días después, según algunos reportes el 2 de octubre",
-        "El gobernador de Irkutsk, Igor Kobzev, informó que 197 personas estaban bajo observación médica (Izvestia)",
-        "El secretario de Estado de EE.UU., Marco Rubio, expresó preocupación por una posible propagación de peste neumónica pero dijo que no había motivos para alarmarse",
-        "El presidente Donald Trump afirmó que la Casa Blanca observa el caso \"muy detenidamente\" y ofreció ayuda a los afectados",
-        "El organismo ruso Rospotrebnadzor declaró que un equipo de bioseguridad inspeccionó el instituto y no encontró situación de emergencia",
-        "El portavoz del Kremlin, Dmitri Peskov, instó a la población a no prestar atención a rumores y confiar en las declaraciones oficiales"
+        "En 2011 el BAS estimó 600 000 pingüinos barbijo y 90 000 pingüinos macaroni anidando en Zavodovski.",
+        "En 2025 había un 63 % menos de nidos ocupados de pingüinos barbijo que en la misma época de 2011.",
+        "El equipo liderado por el profesor Norman Ratcliffe pasó 15 días navegando hasta la isla y utilizó drones, fotografía aérea y dispositivos de seguimiento en 20 aves.",
+        "La última erupción importante del volcán Monte Curry ocurrió en 2016.",
+        "Los investigadores señalaron que el krill se ha desplazado al sur por el aumento de la temperatura del agua, reduciendo la disponibilidad de alimento para los barbijo.",
+        "El estudio sugiere que los pingüinos barbijo podrían estar oficialmente en peligro de extinción."
       ],
-      "conclusion": "El incidente subraya la importancia de protocolos de bioseguridad claros y la coordinación internacional para evitar alarmas innecesarias y proteger la salud pública."
+      "conclusion": "El hallazgo muestra cómo el cambio climático puede provocar colapsos rápidos en ecosistemas críticos, lo que alerta a los gestores a integrar indicadores ambientales en la planificación estratégica y a reforzar la resiliencia operativa frente a riesgos climáticos."
     },
     {
-      "title": "Jan Ptacek, vicepresidente de Renault Vehículos Comerciales: \"Los competidores chinos están más activos, pero nos gusta la competencia\"",
-      "url": "https://www.eldiario.es/motor/protagonistas/jan-ptacek-vicepresidente-renault-vehiculos-comerciales-competidores-chinos-activos-gusta-competencia_1_13531076.html",
-      "image": "https://static.eldiario.es/clip/57691b58-fe8c-4519-aa2d-b0292271143f_facebook-aspect-ratio-1200-675_default_0_x353y142.jpg",
+      "title": "Las poblaciones de especies silvestres siguen cayendo y América Latina lleva la peor parte",
+      "url": "https://elpais.com/america-futura/2026-10-07/las-poblaciones-de-especies-silvestres-siguen-cayendo-y-america-latina-lleva-la-peor-parte.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/OHZU35ROVFGCZFJD6ZCQTMK4WQ.jpg?auth=fe8fb971b4e82c179a4397e6603c56a8c0c365f84fd3ce64630392eae76d8d49&width=1200",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "La WWF y la Sociedad Zoológica de Londres publicaron el informe Planeta Vivo con datos actualizados hasta 2022, revelando que la disminución de poblaciones de vertebrados sigue en aumento y que América Latina y el Caribe son la región más afectada. El estudio compara la pérdida de población desde 1970 entre distintas regiones y ecosistemas, destacando diferencias marcadas entre agua dulce, terrestre y marina.",
+      "datos": [
+        "La disminución media de poblaciones a nivel global es del 73% desde 1970",
+        "En América Latina y el Caribe la cifra de declive alcanza el 95%",
+        "El índice se basa en 35 803 poblaciones de 5 790 especies de vertebrados a nivel mundial",
+        "En América Latina se monitorizaron 4 737 poblaciones de 1 405 especies",
+        "Las especies de agua dulce mostraron una caída media del 85%, las terrestres del 69% y las marinas del 59%",
+        "En 2023 se destinaron aproximadamente 7,3 billones de dólares a actividades nocivas para la naturaleza, frente a solo 220 000 millones de dólares a actividades favorables"
+      ],
+      "conclusion": "El deterioro extremo en América Latina indica que las políticas de conservación deben priorizar los ecosistemas de agua dulce y reforzar la financiación de medidas positivas, pues la tendencia actual amenaza la biodiversidad regional y sus servicios ecosistémicos."
+    },
+    {
+      "title": "Gina Hinojosa se crece en la carrera por la gobernación de Texas y líderes demócratas urgen a financiar su campaña",
+      "url": "https://elpais.com/us/2026-10-07/gina-hinojosa-se-crece-en-la-carrera-por-la-gobernacion-de-texas-y-lideres-democratas-urgen-a-financiar-su-campana.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/Z46Y3PX3INB4PDUNZL4LDPITLM.jpg?auth=2d271bd2e590d47757c6b3795fe143b6e2eef69958dc88d487ce0a46a686e79a",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "A pocos días de los comicios de medio término, los sondeos muestran una ventaja inesperada para la demócrata Gina Hinojosa frente al gobernador republicano Greg Abbott. Este giro ha impulsado a dirigentes del Partido Demócrata a lanzar un llamado urgente a financiar su campaña.",
+      "datos": [
+        "27 días antes de las elecciones de medio término",
+        "Los últimos sondeos indican una tendencia favorable a Gina Hinojosa",
+        "Greg Abbott es el actual gobernador republicano de Texas",
+        "Líderes demócratas están solicitando financiamiento adicional para la campaña de Hinojosa"
+      ],
+      "conclusion": "Mantener el impulso y asegurar recursos podría permitir a los demócratas romper la hegemonía republicana en Texas y cambiar la dirección de la política estatal."
+    },
+    {
+      "title": "Del rocódromo a la roca: guía práctica para iniciarse en la escalada de montaña de forma segura",
+      "url": "https://www.eldiario.es/viajes/rocodromo-roca-guia-practica-iniciarse-escalada-montana-forma-segura_1_13569810.html",
+      "image": "https://static.eldiario.es/clip/86960b08-646d-46d1-aa99-5560d52aee1c_facebook-aspect-ratio-1200-675_default_0.jpg",
       "source": "elDiario.es",
       "language": "es",
-      "que_paso": "Renault presentó la furgoneta eléctrica Trafic E‑Tech en el Salón IAA de Hannover y, a través de su vicepresidente Jan Ptacek, subrayó que la mayor actividad de los fabricantes chinos en Europa obliga a reforzar la estrategia de los fabricantes locales. La compañía apuesta por un ecosistema de servicios y una plataforma eléctrica de alta tensión para mantener su posición en el segmento de vehículos comerciales.",
+      "que_paso": "Los centros de escalada indoor han experimentado un crecimiento acelerado, lo que ha generado que muchos practicantes busquen pasar del rocódromo a la escalada en roca natural. El artículo recoge la visión de Jaume Oliveras, Director de Operaciones de EP Centers, sobre este paso como parte del proceso de aprendizaje.",
       "datos": [
-        "Jan Ptacek, vicepresidente de Renault Vehículos Comerciales, habló en el IAA Hannover tras presentar la Trafic E‑Tech",
-        "La Trafic E‑Tech utiliza una plataforma eléctrica de 800 V y ofrece hasta 470 km de autonomía",
-        "Puede recargar 280 km de autonomía en 20 minutos mediante carga rápida",
-        "Renault estima que el coste total de propiedad será un 10 % inferior al de la versión diésel, sin contar ayudas públicas",
-        "Renault mantendrá la versión diésel y la eléctrica en paralelo, produciéndolas en la planta de Sandouville sobre la misma línea",
-        "Ptacek señaló que los competidores chinos están más activos en el mercado europeo de vehículos comerciales"
+        "El número de rocódromos en España ha crecido de forma exponencial en los últimos años.",
+        "La pandemia incrementó la demanda de espacios de escalada indoor.",
+        "El éxito de la escalada española en los Juegos Olímpicos de Tokio 2021 impulsó la popularidad del deporte.",
+        "Miles de personas utilizan el plafón como alternativa al gimnasio tradicional.",
+        "Jaume Oliveras es Director de Operaciones de EP Centers, una cadena de centros de escalada.",
+        "Oliveras afirma que “salir a roca representa el paso final dentro del proceso de aprendizaje que comienza en el rocódromo”."
       ],
-      "conclusion": "La estrategia de Renault, basada en una plataforma eléctrica avanzada y un ecosistema de servicios, busca reducir el TCO y contrarrestar la presión de los nuevos entrantes chinos, lo que implica que los operadores podrán obtener ahorros operativos significativos al adoptar la Trafic E‑Tech."
+      "conclusion": "Este salto a la roca implica la necesidad de protocolos de seguridad y entrenamiento específicos, lo que abre oportunidades para desarrollar programas operativos y de gestión de riesgos en la industria de la escalada."
     },
     {
-      "title": "Starset’s “T r a n s f u s 1 0 n” Music Video Is Now Streaming",
-      "url": "https://www.theprp.com/2026/10/06/news/starsets-t-r-a-n-s-f-u-s-1-0-n-music-video-is-now-streaming/",
-      "image": "https://www.theprp.com/app/uploads/2026/09/starsetlarge2026promo-1200x675.webp",
-      "source": "The PRP",
-      "language": "en",
-      "que_paso": "Starset has added a new music video for the track “t r a n s f u s 1 0 n” to its online catalog, extending a recent string of similarly titled releases. The video, directed by Jeb Hardwick, debuted on the band’s official platforms and showcases the group’s cinematic rock style.",
-      "datos": [
-        "Starset is a platinum‑certified rock band.",
-        "The video for “t r a n s f u s 1 0 n” was directed by Jeb Hardwick, who previously worked with Architects and A Day To Remember.",
-        "The video premiered online on October 7, 2026.",
-        "The song is part of a series of similarly named singles released by Starset in the past few weeks.",
-        "The video is available for streaming on the band’s official channels."
-      ],
-      "conclusion": "The release highlights Starset’s use of high‑production video content to maintain fan engagement and reinforce their brand, a tactic that other businesses can emulate to boost audience retention through multimedia."
-    },
-    {
-      "title": "Obscura’s “The Prolonging” Music Video Premieres",
-      "url": "https://www.theprp.com/2026/10/06/news/obscuras-the-prolonging-music-video-premieres/",
-      "image": "https://www.theprp.com/app/uploads/2026/09/obscuralarge-1200x675.webp",
-      "source": "The PRP",
-      "language": "en",
-      "que_paso": "Obscura released a new music video for their track “The Prolonging,” working with director Mirko Witzki, who has previously collaborated with Arch Enemy and Kreator. The video promotes the song from their current album “A Sonication” as the band prepares for upcoming tour dates in North America, Europe and the UK.",
-      "datos": [
-        "German technical death metal band Obscura released a music video for “The Prolonging”.",
-        "The video was directed by Mirko Witzki, who has worked with Arch Enemy and Kreator.",
-        "The track appears on Obscura’s album “A Sonication”.",
-        "Steffen Kummerer said the song is one of the shortest and fastest the band has recorded.",
-        "He noted it became a fan favourite during the recent tour supporting “A Sonication”.",
-        "Obscura plans to perform the song on upcoming tours in North America, Europe and the United Kingdom."
-      ],
-      "conclusion": "The visual rollout underscores Obscura’s strategy to boost engagement with their newest material and signals that “The Prolonging” will be a focal point of their forthcoming international tour, offering fans a high‑energy addition to the setlist."
-    },
-    {
-      "title": "Apple and LG team up on new smart home gear, starting with a lock, doorbell, and thermostat",
-      "url": "https://www.theverge.com/news/1006238/apple-lg-homekit-rumor-fcc",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STK071_APPLE_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "title": "BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover",
+      "url": "https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/WGM31182.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "source": "The Verge",
       "language": "en",
-      "que_paso": "Apple is partnering with LG to create a new series of smart‑home products, deepening its involvement in the connected‑home market beyond its existing HomeKit offerings.",
+      "que_paso": "BMW announced the iX4, a coupe‑styled SUV built on its next‑generation Neue Klasse platform, as a direct response to the surge of Chinese electric‑vehicle imports. The 50 xDrive version will debut in March 2027, followed later by a higher‑performance M60 xDrive model. The rollout emphasizes range and efficiency to differentiate BMW from competitors.",
       "datos": [
-        "The collaboration is described as a “second‑party” development arrangement between Apple and LG (Bloomberg).",
-        "The initial lineup includes a video doorbell, thermostat, indoor camera, deadbolt lock, outdoor security camera, and floodlight camera.",
-        "The devices will bear LG branding but will integrate with Apple’s rumored smart‑home hub expected to launch at an event on October 13.",
-        "Several of the devices will support the Thread and Matter smart‑home protocols.",
-        "The deadbolt lock will feature ultra‑wideband technology that can automatically unlock when a user approaches.",
-        "Apple is also expected to unveil a Siri‑AI enabled smart‑home hub with a six‑inch display, a new HomePod mini, and an upgraded Apple TV at the same event."
+        "The iX4 50 xDrive is priced at $66,200 before destination and handling fees.",
+        "It uses a Gen6 battery with 112.2 kWh usable energy and an 800‑volt architecture, delivering an EPA‑estimated 428 miles of range.",
+        "The 50 xDrive produces 463 hp and 475 lb‑ft of torque, achieving 0‑60 mph in 4.7 seconds; the M60 xDrive delivers 603 hp, 645 lb‑ft and a 0‑60 time about one second quicker.",
+        "BMW claims the new drive system cuts energy losses by 40 % and reduces weight by 10 % compared with previous designs.",
+        "Gen6 cells are cylindrical (46 mm × 95 mm) and offer a 20 % higher energy density than the prismatic Gen5 cells.",
+        "The iX4 is the third model on the Neue Klasse platform, after the iX3 and i3."
       ],
-      "conclusion": "The partnership gives Apple ready‑made hardware to accelerate its HomeKit reboot, while LG gains access to Apple’s ecosystem, potentially expanding market share for both in the growing smart‑home sector."
+      "conclusion": "BMW’s focus on superior range and efficiency aims to protect its market share against cost‑driven Chinese EVs, but the premium price may limit its appeal in price‑sensitive segments."
     },
     {
-      "title": "Drones sink ships near NATO countries in “unacceptable” attacks, EU says",
-      "url": "https://arstechnica.com/gadgets/2026/10/drone-strikes-likely-russian-sink-ships-in-nato-countries-economic-zones/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Drone-strikes-on-grain-cargo-ships-near-Odesa-2560x1440.jpg",
-      "source": "Ars Technica",
+      "title": "Faetooth Announce Californian Shows With Glixen, Starling & More",
+      "url": "https://www.theprp.com/2026/10/07/news/faetooth-announce-californian-shows-with-glixen-starling-more/",
+      "image": "https://www.theprp.com/app/uploads/2026/07/faetoothlarge-1200x675.webp",
+      "source": "The PRP",
       "language": "en",
-      "que_paso": "Drones attacked commercial vessels in the Black Sea, sinking the Togo‑flagged Alfa Watan and the Turkish‑owned Royad Mammadov while setting the Palau‑flagged Able on fire, marking the first such incidents inside NATO exclusive economic zones. The strikes occurred on October 5‑6, 2026 off the coasts of Romania and Bulgaria, prompting statements from EU and Ukrainian leaders about the attacks and their likely origin.",
+      "que_paso": "Faetooth, a fairy‑doom trio, scheduled two California concerts just before the holiday season, sharing the bill with Glixen, Starling and Misfire SD. The shows will take place in Los Angeles and San Diego, and tickets go on sale the following Friday.",
       "datos": [
-        "Alfa Watan sank about 80 miles (128 km) off Bulgaria on October 6, 2026; Able was set ablaze in the same area and its 18‑person crew was evacuated by a Bulgarian ferry, with two severely injured",
-        "Royad Mammadov was hit in Romania's EEZ on October 5, 2026, caught fire, sank, and 11 crew members were rescued while one remained missing",
-        "Two crew members were confirmed dead across the three incidents",
-        "EU President Ursula von der Leyen called the drone strikes “increasingly concerning” on X, noting the circumstances were still being established",
-        "Ukrainian President Volodymyr Zelenskyy said a joint investigation with Bulgaria’s navy attributed the attacks to a Russian combined sea‑and‑air drone operation"
+        "Los Angeles show: December 18, 2026 at El Rey, featuring Starling",
+        "San Diego show: December 19, 2026 at SOMA Side Stage, featuring Misfire SD",
+        "Ticket sales begin on Friday, October 9, 2026",
+        "Supporting acts include Glixen, Starling, and Misfire SD"
       ],
-      "conclusion": "The attacks demonstrate a new maritime threat to NATO waters, underscoring the need for enhanced detection and defensive capabilities against hybrid drone warfare."
+      "conclusion": "The back‑to‑back dates require tight coordination of venue logistics and staffing, providing a practical example of rapid event rollout. The early October ticket release creates a short sales window, making demand monitoring essential for future planning."
     },
     {
-      "title": "The Best Anti–Prime Day Deals for Amazon Haters",
-      "url": "https://www.wired.com/story/anti-prime-day-deals-october-2026/",
-      "image": "https://media.wired.com/photos/6ac41edd197e00069ce2bbcd/191:100/w_1280,c_limit/Amazon%20Prime%20Day%20Top%20Art%20102026%20Anti%20Prime%20Day%20Deals%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
+      "title": "Feijóo asegura que solo cabe \"respeto\" por la muerte de Maricarmen: \"Ni campaña, ni partidos, ni utilización interesada\"",
+      "url": "https://www.europapress.es/sociedad/noticia-feijoo-asegura-solo-cabe-respeto-muerte-maricarmen-campana-partidos-utilizacion-interesada-20261007233244.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261007233244_1200.jpg",
+      "source": "Europa Press Ciencia",
+      "language": "es",
+      "que_paso": "El presidente del Partido Popular, Alberto Núñez Feijóo, publicó en la red social X un mensaje pidiendo respeto por la muerte de Maricarmen y rechazó que su caso sea usado con fines de campaña o partidistas. El comunicado fue recogido por la agencia Europa Press.",
+      "datos": [
+        "Alberto Núñez Feijóo es presidente del Partido Popular.",
+        "El mensaje fue publicado en la plataforma X.",
+        "La declaración fue citada por la agencia de noticias Europa Press.",
+        "Feijóo afirmó que no debe haber \"campaña, partidos ni utilización interesada\" del fallecimiento de Maricarmen.",
+        "Maricarmen ha fallecido, según el comunicado."
+      ],
+      "conclusion": "El posicionamiento busca evitar la politización de tragedias y proteger la imagen del PP ante posibles críticas de instrumentalizar el duelo. Para el lector, indica la importancia de separar la gestión de crisis humanitaria de la estrategia electoral."
+    },
+    {
+      "title": "27 Best Prime Day Deals on Phone Accessories (2026)",
+      "url": "https://www.wired.com/story/best-prime-day-mobile-accessories-deals-10-7-2026/",
+      "image": "https://media.wired.com/photos/6ac40e6301f301de9ebc46a3/191:100/w_1280,c_limit/Amazon%20Prime%20Day%20Top%20Art%20102026%20Standalone%20Mobile%20Accessories%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
       "source": "Wired",
       "language": "en",
-      "que_paso": "WIRED compiled a list of non‑Amazon retailers offering discounts that coincide with Amazon’s October Prime Day, targeting shoppers who want to avoid Amazon. The article cites specific products, prices, and retailers, and notes that some deals are price‑matched to Amazon’s offers.",
+      "que_paso": "The article lists a selection of phone accessories that are on sale during Amazon Prime Day, highlighting specific power banks, chargers, and stands while noting that overall deal quality has declined compared to previous years. It also points readers to additional coverage for broader Prime Day offers and updates the list as of the evening of October 7.",
       "datos": [
-        "Apple AirPods 3 are priced at $179 at Best Buy.",
-        "AirPods Max 2 are sold for $429, $30 above their lowest historical price, with Walmart price‑matching Amazon.",
-        "Kindle Scribe Colorsoft is offered for $520 at Best Buy, featuring an 11‑inch color display and included stylus.",
-        "Sonos Beam Gen 2 is listed at $359 at both Walmart and the Shop app, confirmed by audio expert Harry Rabinowitz.",
-        "Furbo 360 Dog Camera is $54, cheaper at its first‑party retailer than Amazon’s Prime Day price.",
-        "Native Union MagSafe Wallet is $39 on the Shop app, highlighted by WIRED Commerce Director Cooper Fleishman."
+        "Article updated at 5:22 pm ET on October 7 2026",
+        "Prime Day sale referenced ends on October 8 2026",
+        "Anker power bank offers 25,000 mAh capacity and up to 165 W output",
+        "A power bank with a retractable USB‑C cord provides 10,000 mAh and 45 W fast‑charge",
+        "The 3‑in‑1 Apple wireless charger is priced at $63, its lowest ever on Amazon",
+        "The HiRise 3 stand is $5 above its previous lowest price"
       ],
-      "conclusion": "The briefing shows that comparable or better discounts are available outside Amazon, allowing operations‑focused shoppers to secure needed tech without relying on the platform. Leveraging these alternatives can reduce dependency on Amazon and improve procurement flexibility."
+      "conclusion": "Deal depth is weaker, so buyers should verify actual savings before purchasing; however, the listed accessories still offer high‑capacity power solutions that can extend device uptime for operational workflows."
     },
     {
-      "title": "Mikel Merino siempre lo arregla todo y remonta con un doblete a Croacia",
-      "url": "https://elpais.com/deportes/futbol/2026-10-06/mikel-merino-siempre-lo-arregla-todo-y-remonta-con-un-doblete-a-croacia.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/BA7QRS75P5HDPBO6VSTJONP4SM.jpg?auth=3839f3469d9dfe89b5e47d8ef85be9bfa68cc131b4966f59ff4de3e8bd5fa4c2&width=1200",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "En el Nations League de marzo, España venció a Croacia en Split gracias a los dos goles de Mikel Merino, quien entró en los minutos finales tras un inicio desfavorable. Luis de la Fuente había anticipado que Merino sería decisivo y, con las atajadas de Unai Simón, el equipo se aseguró el puesto en los cuartos de final.",
-      "datos": [
-        "Mikel Merino marcó dos goles en el partido contra Croacia",
-        "El encuentro se jugó en el estadio Hadjuk de Split",
-        "España necesitaba al menos un empate para garantizar su clasificación a cuartos de final",
-        "Croacia había sufrido una derrota 0‑7 contra Inglaterra tres días antes en Rijeka",
-        "Luis de la Fuente había señalado antes del partido que Merino sería clave en los minutos finales"
-      ],
-      "conclusion": "El resultado muestra cómo una intervención puntual de talento clave puede revertir una situación adversa, una lección aplicable a la gestión operativa: identificar y activar recursos críticos en el momento preciso maximiza el rendimiento."
-    },
-    {
-      "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
-      "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chatgpt-icon-1152x648-1789154124.jpg",
-      "source": "Ars Technica",
+      "title": "In Vienna and Beijing, the First Nuclear Clocks Begin to Tick",
+      "url": "https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html",
+      "image": "",
+      "source": "NYT Science",
       "language": "en",
-      "que_paso": "OpenAI announced that it will embed a proprietary watermark, called textGrain, into every ChatGPT response for users in the European Union, while keeping the feature optional elsewhere. The move is intended to satisfy the EU AI Act’s new requirement that AI‑generated content be detectable, and OpenAI will initially grant detector access only to a limited set of researchers and organizations.",
+      "que_paso": "Researchers in Vienna and Beijing have built the first functional nuclear clocks by tracking the deformation cycles of thorium‑229 nuclei. The two independent teams demonstrated that the nuclear transition can serve as a timing reference, a step beyond conventional atomic clocks.",
       "datos": [
-        "The EU AI Act, which mandates marking AI‑generated content, took effect in August 2026.",
-        "OpenAI’s watermarking system is named “textGrain” and a technical paper describing it has been published.",
-        "OpenAI’s internal tests show a 92 % detection success rate for unmodified outputs.",
-        "Changing 10 % of the generated text reduces detection success by about 30 %.",
-        "Changing 20 % of the text reduces detection success by about 75 %."
+        "Two research teams measured the squishing and unsquishing of thorium‑229 nuclei",
+        "The experiments were conducted in Vienna, Austria and Beijing, China",
+        "The teams created a new type of clock based on a nuclear transition",
+        "The clock is projected to surpass the precision of existing atomic clocks",
+        "The device exploits the low‑energy isomer transition of thorium‑229"
       ],
-      "conclusion": "The rollout ensures regulatory compliance in the EU and signals that organizations will need to account for watermark detection when managing AI‑generated content, while also highlighting the technique’s current limitations."
+      "conclusion": "Nuclear clocks promise orders‑of‑magnitude better timekeeping, which could enhance navigation, communications, and fundamental physics experiments."
     },
     {
-      "title": "Amazon Prime Day Deals Under $50 in October 2026",
-      "url": "https://www.wired.com/story/best-amazon-prime-day-deals-under-50-10-06-2026/",
-      "image": "https://media.wired.com/photos/6abe70e983ce388ebf1661e9/191:100/w_1280,c_limit/Amazon%20Prime%20Day%20Top%20Art%20102026%20Prime%20Day%20Deals%20Under%20$50%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
+      "title": "‘Maricarmen,’ Whose Eviction Enraged Spaniards, Dies at 87",
+      "url": "https://www.nytimes.com/2026/10/07/world/europe/maricarmen-dies-spain-housing-sanchez.html",
+      "image": "https://static01.nyt.com/images/2026/10/07/multimedia/07int-spain-top-ztqj/07int-spain-top-ztqj-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "María del Carmen Abascal, an 87‑year‑old resident of Madrid, was forcibly removed from her apartment two weeks ago. The eviction ignited widespread demonstrations and helped push the government to call early national elections.",
+      "datos": [
+        "María del Carmen Abascal, age 87, was evicted around September 24, 2026.",
+        "The eviction occurred in Madrid, Spain.",
+        "Mass protests erupted nationwide following the eviction.",
+        "The protests contributed to the decision to hold national elections in 2026.",
+        "Abascal became a public symbol of Spain's housing crisis."
+      ],
+      "conclusion": "The episode shows how individual housing disputes can rapidly translate into political pressure, underscoring the need for concrete housing policy reforms."
+    },
+    {
+      "title": "Best Prime Day Vacuum Deals: Save Big On a Dyson (2026)",
+      "url": "https://www.wired.com/story/prime-day-vacuum-deals-10-07-2026/",
+      "image": "https://media.wired.com/photos/6ac418a15076de9a53ea653c/191:100/w_1280,c_limit/Amazon%20Prime%20Day%20Top%20Art%20102026%20Standalone%20Vacuums%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
       "source": "Wired",
       "language": "en",
-      "que_paso": "Amazon held its Prime Big Deal Days, a two‑day October sale positioned as the final major discount before the holidays, and the article compiles a selection of products priced at $50 or less while warning that many advertised discounts are misleading.",
+      "que_paso": "During Amazon's Prime Big Deal Days in early October 2026, WIRED's resident vacuum expert compiled a list of the best vacuum deals, focusing on models he personally tested, including robot vacuums with advanced features. The article highlights specific products, pricing, and performance observations, and notes that the deals remain live through the end of the event.",
       "datos": [
-        "Prime Big Deal Days took place on October 6 and 7, 2026.",
-        "The article was updated on October 6, 2026 at 3 pm ET with additional deals.",
-        "The Arlo 2nd‑Gen video doorbell was listed at $29.",
-        "The recommended USB hub provides 140 watts of power.",
-        "All featured items are priced at $50 or below.",
-        "The sale is marketed as offering “millions of deals.”"
+        "Updated October 7, 2026 at 5:00 pm ET",
+        "At least 13 different vacuums were in the tester's home during the summer for evaluation",
+        "The Shark PowerDetect UV Reveal identified an old orange‑juice stain on wood flooring",
+        "The Qrevo 2 Pro was listed at approximately $500, described as a budget‑friendly robot vacuum",
+        "Dyson launched the Spot+Scrub Ai vacuum earlier in 2026",
+        "Reviewer Adrienne So said the Roborock Saros Z70’s OmniGrip arm “didn’t quite work”"
       ],
-      "conclusion": "The briefing highlights concrete price points and power specs so you can allocate budget efficiently and avoid inflated discounts during the pre‑holiday sales rush."
+      "conclusion": "Buying AI‑enabled robot vacuums during Prime Big Deal Days can deliver measurable cleaning performance improvements at a discounted price, making them a practical upgrade for both home and small‑office operations."
     },
     {
-      "title": "Las tormentas provocan retrasos, desvíos y cancelaciones en los aeropuertos de Madrid-Barajas y El Prat",
-      "url": "https://elpais.com/economia/2026-10-06/las-tormentas-provocan-retrasos-desvios-y-cancelaciones-en-los-aeropuertos-de-madrid-barajas-y-en-el-prat.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/TEBV3N3EKND3FF2FNCNIAMKL6Y.jpg?auth=ae40d7473b4f0a5c127dc6cd37dd647a681540534f461bad324d4bef76d8ea5f&width=1200",
+      "title": "Elon Musk’s America PAC Is Quietly Funding November’s Most Consequential Elections",
+      "url": "https://www.wired.com/story/elon-musks-america-pac-is-quietly-funding-novembers-most-consequential-elections/",
+      "image": "https://media.wired.com/photos/6ac572f4ee1eb4b838492c3f/191:100/w_1280,c_limit/politics_musk_funding_elections.jpg",
+      "source": "Wired",
+      "language": "en",
+      "que_paso": "Elon Musk’s America PAC is directing a large portion of its war chest toward digital attack ads in pivotal Senate contests, notably spending heavily against Democratic candidates in Texas and Ohio while providing modest support to Republican contenders, all as the 2026 midterms could shift Senate control.",
+      "datos": [
+        "America PAC spent more than $9.4 million on ads opposing Texas Democrat James Talarico and about $1.8 million backing Republican Ken Paxton",
+        "Two separate digital media purchases of $1.3 million each were the largest single expenditures by America PAC, both targeting Talarico",
+        "In Ohio, America PAC allocated $3.3 million against Democrat Sherrod Brown and $1.6 million for Republican Jon Husted",
+        "The PAC’s overall spending pattern is roughly three dollars on attack ads for every one dollar spent supporting GOP Senate candidates",
+        "America PAC has not funded any television advertising; TV spots are being purchased by other groups such as MAGA Inc."
+      ],
+      "conclusion": "The spending pattern shows Musk’s PAC is leveraging digital attacks to shape Senate outcomes, signaling heightened political risk for Democrats and potential leverage over future tech and AI legislation."
+    },
+    {
+      "title": "Maricarmen; su muerte no será en vano",
+      "url": "https://elpais.com/opinion/2026-10-07/maricarmen-su-muerte-no-sera-en-vano.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/GFXJEBYNE5G73H7T3R67HSHA2U.JPG?auth=d3dc00fc4a63a1500c1e7c63c1c8f36fb1f249e74d253b0936e5bfdcc8098c27",
       "source": "El País",
       "language": "es",
-      "que_paso": "Una fuerte tormenta provocó retrasos, desvíos y cancelaciones en los aeropuertos de Madrid‑Barajas y Barcelona‑El Prat el martes, afectando a vuelos nacionales e internacionales. Los controladores aéreos y las aerolíneas tuvieron que gestionar desvíos a ciudades como Zaragoza y Valencia y comunicar a los pasajeros la situación.",
+      "que_paso": "Maricarmen, una anciana, falleció después de salir de su casa con los ojos asustados; el texto la presenta como ejemplo para quienes mostraron falta de piedad y llama a que su muerte sirva de advertencia.",
       "datos": [
-        "22:00 hora peninsular, 700 vuelos retrasados en Madrid‑Barajas (52% del total)",
-        "Ocho cancelaciones registradas en Madrid hasta esa hora",
-        "Al menos cuatro aeronaves desviadas a Zaragoza o Valencia",
-        "En Barcelona‑El Prat se cancelaron al menos 47 vuelos",
-        "511 vuelos retrasados en Barcelona, representando el 48% del total",
-        "AEMET pronostica que el mal tiempo en Madrid mejorará el miércoles por la tarde y que las lluvias en Barcelona persistirán hasta el viernes"
+        "Maricarmen es el nombre de la persona fallecida",
+        "Era una anciana que salió de su casa con los ojos asustados",
+        "El artículo afirma que su muerte debe ser una señal para quienes no tuvieron piedad",
+        "No se indican fechas, lugares exactos ni responsables del fallecimiento"
       ],
-      "conclusion": "Los retrasos masivos y desvíos evidencian la necesidad de planes de contingencia robustos para tormentas, ya que impactan la puntualidad y la capacidad operativa de los principales hubs españoles."
+      "conclusion": "La muerte de Maricarmen se utiliza como llamado a la compasión y a la responsabilidad social, instando a que actos de crueldad no queden impunes."
     },
     {
-      "title": "Wrongly Indicted Man Seeks Inquiry of Official Conduct in Reflecting Pool Case",
-      "url": "https://www.nytimes.com/2026/10/06/us/politics/reflecting-pool-vandalism-case.html",
-      "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06dc-reflectingpool-wblc/06dc-reflectingpool-wblc-mediumSquareAt3X.jpg",
-      "source": "New York Times",
+      "title": "The Science Behind the Nobel-Winning Technology That Controls Neurons With Light",
+      "url": "https://www.wired.com/story/the-science-behind-the-nobel-winning-technology-that-controls-neurons-with-light/",
+      "image": "https://media.wired.com/photos/6ac695cc6b97e0c167f10285/191:100/w_1280,c_limit/Nobel%20Medicina%202026%202298087035.jpg",
+      "source": "Wired",
       "language": "en",
-      "que_paso": "Former Olympian David Hearn, whose indictment prosecutors allegedly ignored their own evidence, is now asking a court to investigate the conduct of the officials involved in the Reflecting Pool case.",
+      "que_paso": "Researchers Karl Deisseroth, Peter Hegemann, and Georg Nagel were awarded the 2026 Nobel Prize in Medicine for creating optogenetics, a method that uses light to switch individual neurons on or off, a breakthrough that emerged from microbiology research on light‑sensing algae. The Nobel Committee highlighted the technique’s unprecedented ability to map living brains, linking discoveries from Stanford, Humboldt University, and the University of Würzburg.",
       "datos": [
-        "David Hearn is a former Olympian.",
-        "His lawyers allege prosecutors ignored evidence that could exonerate him.",
-        "The lawyers claim prosecutors supplied \"blatantly false\" information about their knowledge.",
-        "Hearn is seeking an official inquiry into the conduct of prosecutors in the Reflecting Pool case.",
-        "The case is referred to as the Reflecting Pool case.",
-        "The inquiry request was filed after the indictment."
+        "Karl Deisseroth (Stanford), Peter Hegemann (Humboldt University Berlin), and Georg Nagel (University of Würzburg) received the 2026 Nobel Prize in Medicine",
+        "Optogenetics enables activation or inhibition of single nerve cells with light beams",
+        "Hegemann measured an electrical impulse in Chlamydomonas 0.5 ms after light exposure, about 20 times faster than the human eye’s ≥10 ms response",
+        "Japanese researchers sequenced the complete DNA of Chlamydomonas, allowing identification of two channelrhodopsin genes",
+        "Nagel expressed channelrhodopsin‑1 and channelrhodopsin‑2 in frog eggs, where the proteins localized to cell membranes and opened as ion channels when illuminated"
       ],
-      "conclusion": "An inquiry that uncovers prosecutorial misconduct could overturn the indictment and signal the need for stronger oversight of legal proceedings."
+      "conclusion": "The award underscores optogenetics’ practical impact for precise neural circuit studies and illustrates how cross‑disciplinary biology can produce transformative tools for neuroscience and disease research."
     },
     {
-      "title": "HBO Max, Paramount+, and Discovery+ \"will unify into a single service”",
-      "url": "https://arstechnica.com/gadgets/2026/10/hbo-max-paramount-and-discovery-will-unify-into-a-single-service/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298278370-1024x648.jpg",
-      "source": "Ars Technica",
-      "language": "en",
-      "que_paso": "Paramount Skydance finalized its purchase of Warner Bros. Discovery, ending a months‑long saga that began with Netflix’s aborted bid. The new owner announced that its three streaming brands—HBO Max, Paramount+ and Discovery+—will be merged into a single service over time. The statement also noted that Skydance now controls CBS, CNN, Cartoon Network and Nickelodeon.",
-      "datos": [
-        "Paramount Skydance completed its acquisition of Warner Bros. Discovery on October 7, 2026.",
-        "Netflix announced a plan to acquire WBD in 2025 and withdrew the proposal in February 2026.",
-        "The merger that created Skydance was valued at $111 billion.",
-        "Skydance said HBO Max, Paramount+ and Discovery+ will be unified into one platform over time.",
-        "Casey Bloys, HBO Max content chief, spoke about possible bundling at Bloomberg’s 2026 Screentime event on October 1, 2026.",
-        "Skydance’s purchase gives it ownership of CBS and CNN, which will operate independently under an Editorial Independence Board."
-      ],
-      "conclusion": "The consolidation will likely raise licensing costs and could lead to higher subscription prices or reduced content variety, so operational planning should account for potential pricing pressure and integration challenges."
-    },
-    {
-      "title": "Supreme Court Hears Boulder Climate Case",
-      "url": "https://www.nytimes.com/2026/10/06/climate/boulder-supreme-court-climate.html",
-      "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06cli-newsletter-scotus-01-ckvg/06cli-newsletter-scotus-01-ckvg-mediumSquareAt3X.jpg",
-      "source": "NYT Science",
-      "language": "en",
-      "que_paso": "The U.S. Supreme Court heard oral arguments on a lawsuit filed by the city of Boulder, Colorado, challenging federal limits on its climate‑action plan. The arguments, delivered on Monday, were described as highly technical, and the Court said it will rule on whether the case can proceed by June or July of next year.",
-      "datos": [
-        "Oral arguments were held on Monday, October 5, 2026.",
-        "The plaintiff is the city of Boulder, Colorado, contesting federal restrictions on its climate policies.",
-        "The Supreme Court indicated a decision on jurisdiction will be issued in June or July 2027.",
-        "Observers characterized the arguments as \"highly technical.\"",
-        "The case could set a nationwide precedent for municipal climate‑mitigation efforts."
-      ],
-      "conclusion": "The ruling will determine if cities can implement aggressive climate measures without federal blockage, directly impacting operational planning for local governments and businesses."
-    },
-    {
-      "title": "Ex-C.I.A. Officer Who Stashed Gold Bars Admits to Far Larger $145 Million Scam",
-      "url": "https://www.nytimes.com/2026/10/06/us/politics/cia-officer-gold-bars-guilty-plea.html",
-      "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06dc-goldbars-02-bjcz/06dc-goldbars-02-bjcz-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "During a recent plea hearing, a former CIA officer admitted that the gold‑bar stash he was accused of hiding was part of a much larger $145 million fraud scheme targeting the U.S. government. The hearing also indicated that the scheme extended beyond the gold bars, though many specifics were not disclosed.",
-      "datos": [
-        "The individual is a former CIA officer.",
-        "He admitted involvement in a $145 million fraud scheme.",
-        "The scheme involved stashing gold bars.",
-        "A plea hearing revealed a broader pattern of fraud against the U.S. government.",
-        "Several details of the fraud remain undisclosed."
-      ],
-      "conclusion": "The case highlights vulnerabilities when former intelligence personnel exploit government contracts, underscoring the need for stricter oversight of insider transactions."
-    },
-    {
-      "title": "Mucho más que un trofeo para Djokovic, de nuevo campeón en Pekín",
-      "url": "https://elpais.com/deportes/tenis/2026-10-06/mucho-mas-que-un-trofeo-para-djokovic-de-nuevo-campeon-en-pekin.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ZDRDGWXU7RNHVN4VHTXOXRWDSQ.jpg?auth=ac1b1080856e31c51ba2c8018b987f46ee00b6aa3d56d793e10c89602959278b&width=1200",
-      "source": "El País",
+      "title": "Maricarmen (no) se iba a morir igual",
+      "url": "https://www.eldiario.es/opinion/zona-critica/maricarmen-no-iba-morir-igual_129_13570764.html",
+      "image": "https://static.eldiario.es/clip/3081e2b6-5281-4dc5-9a80-f7307b7d300f_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "source": "elDiario.es",
       "language": "es",
-      "que_paso": "Novak Djokovic ganó su séptimo título en el Masters 1000 de Pekín, superando a Alex de Miñaur que se retiró por una lesión, y consolidó su racha invicta en la ciudad con 34 victorias sin derrotas. El triunfo llega después de una temporada difícil, con bajas en Cincinnati y el US Open, y tras el incidente del golpe de pelota de Daniil Medvedev a un espectador.",
+      "que_paso": "Maricarmen, de 87 años, falleció tras ser desalojada de su vivienda en Madrid, aunque sus allegados sostienen que su muerte estaba determinada por su avanzada edad y fragilidad. El caso se menciona junto a la historia de su vecina Isa, quien murió a los 90 años tras una caída de la cama, ilustrando la vulnerabilidad de los ancianos ante incidentes cotidianos.",
       "datos": [
-        "Djokovic obtuvo su séptimo trofeo en Pekín, sumando 34 victorias y 0 derrotas en la historia del torneo.",
-        "Es su 21ª temporada consecutiva con al menos un título.",
-        "El finalista Alex de Miñaur, de 27 años y noveno del mundo, se retiró por una lesión en el muslo izquierdo.",
-        "El incidente del día anterior involucró a Daniil Medvedev, cuyo golpe accidental alcanzó a un espectador.",
-        "Djokovic tiene 103 títulos, a un solo trofeo de Roger Federer.",
-        "Djokovic tiene 39 años."
+        "Maricarmen tenía 87 años al momento de su fallecimiento.",
+        "Fue desalojada de su domicilio en Madrid mediante la intervención de decenas de policías.",
+        "Su vecina Isa murió a los 90 años después de una caída de la cama.",
+        "Isa falleció semanas después del accidente, sin presentar lesiones aparentes inicialmente.",
+        "El artículo menciona varios intentos previos de desahucio contra Maricarmen."
       ],
-      "conclusion": "El título refuerza la posición de Djokovic como contendiente principal pese a problemas físicos, y le brinda un impulso psicológico clave para el resto de la temporada."
+      "conclusion": "El relato subraya la fragilidad de las personas mayores ante situaciones de vivienda y accidentes, indicando la necesidad de políticas de protección y apoyo social para evitar muertes prematuras."
     },
     {
-      "title": "Energy Firms Try to Squeeze More Power Out of Old Nuclear Plants",
-      "url": "https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html",
-      "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06cli-nuclear-pmbv/06cli-nuclear-pmbv-mediumSquareAt3X.jpg",
-      "source": "NYT Science",
-      "language": "en",
-      "que_paso": "U.S. energy companies are exploring ways to increase the electricity output of existing nuclear reactors because constructing new nuclear plants requires a long lead time.",
-      "datos": [
-        "Some U.S. companies are targeting older nuclear reactors for higher output",
-        "Building new nuclear plants is described as taking a long time",
-        "The strategy aims to extract more electricity from reactors that already exist",
-        "The effort is driven by the desire to avoid the lengthy construction process"
-      ],
-      "conclusion": "Boosting output from existing plants can augment supply without the delays of new construction, offering a quicker, cost‑effective path for operators."
-    },
-    {
-      "title": "Qué es y cómo se propaga la peste neumónica que se estudia en el laboratorio de Siberia en el que falleció una trabajadora",
-      "url": "https://www.bbc.com/mundo/articles/cqp8g7ydzx3do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/news/1200/branded_mundo/4d00/live/67e79d70-c1c0-11f1-a1fa-8f24f60baa65.jpg",
-      "source": "BBC Mundo",
-      "language": "es",
-      "que_paso": "Una trabajadora falleció en un laboratorio de investigación de la peste en Siberia, lo que llevó a la Organización Mundial de la Salud a solicitar a Rusia información adicional; las autoridades rusas continúan investigando la causa y han comunicado que los contactos de la técnica resultaron negativos en pruebas de peste neumónica.",
-      "datos": [
-        "La Organización Mundial de la Salud solicitó a Rusia información adicional sobre la muerte de la trabajadora del laboratorio de Siberia.",
-        "Todas las personas que estuvieron en contacto con la técnica dieron negativo en pruebas de peste neumónica, según autoridades rusas.",
-        "El número global anual de casos de peste (bubónica, septicémica y neumónica) oscila entre 1.000 y 3.000.",
-        "La bacteria Yersinia pestis persiste en reservorios animales; alrededor de 200 especies de roedores pueden albergarla en América, Eurasia y África.",
-        "Piero Olliaro, catedrático de la Universidad de Oxford, afirmó que la vigilancia, el control de infecciones y los antibióticos son claves para limitar el impacto de la peste."
-      ],
-      "conclusion": "El incidente subraya la necesidad de estrictas medidas de bioseguridad en laboratorios y de mantener una vigilancia epidemiológica constante para prevenir brotes de enfermedades zoonóticas."
-    },
-    {
-      "title": "Save on MacBooks, iPads and Apple Watches during October Prime Day",
-      "url": "https://www.theverge.com/gadgets/1005662/apple-ipad-macbook-airpod-prime-day-deal-sale",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0016.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "title": "We found some great October Prime Day deals under $50",
+      "url": "https://www.theverge.com/gadgets/1007110/october-prime-day-budget-deals-under-50",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/anker_nano2.jpg?quality=90&strip=all&crop=0%2C10.717271201674%2C100%2C78.565457596651&w=1200",
       "source": "The Verge",
       "language": "en",
-      "que_paso": "Amazon’s October Prime Day sale, running through the night of October 8, 2026, is offering discounted Apple hardware, including MacBooks, iPads, and Apple Watches, with many deals limited to Prime members. The Verge is tracking the offers and notes that other retailers may match or beat Amazon’s prices.",
+      "que_paso": "Amazon launched its October Prime Day sale, offering a curated selection of gadgets priced at $50 or less. The Verge compiled the list, highlighting items such as smart plugs, chargers, and audio gear, with prices valid only until early morning on October 8, 2026.",
       "datos": [
-        "The sale runs until the night of October 8, 2026 (the article states it lasts through tomorrow night from October 7, 2026).",
-        "The latest MacBook Air is powered by Apple’s M5 chip and now ships with 512 GB base storage, double the previous model’s capacity.",
-        "The iPhone Air measures 5.6 mm thick, features a 6.5‑inch ProMotion display, a 48 MP rear camera and an 18 MP front camera with Center Stage support.",
-        "The iPhone 16E is priced at $599 and does not include MagSafe compatibility.",
-        "The Apple Watch SE 3 adds an always‑on display, a wrist‑temperature sensor, a faster processor and supports fast charging."
+        "The sale’s discounted prices are available until 3 AM ET on October 8, 2026.",
+        "All featured items are priced at $50 or less.",
+        "The Anker USB‑C charger provides up to 45 W of power and includes a front‑facing smart display.",
+        "TP‑Link’s Tapo smart plug is Matter‑compatible and works with both iOS and Android.",
+        "Loop’s Quiet 2 earplugs deliver up to 24 dB of noise reduction (SNR) and include four eartip sizes.",
+        "The Blink video doorbell bundle includes a battery‑powered 2K‑resolution doorbell and an outdoor camera."
       ],
-      "conclusion": "These limited‑time, Prime‑only discounts let an operations manager acquire AI‑ready Apple devices at reduced cost, but the narrow window requires swift procurement decisions."
+      "conclusion": "For an operations manager, the sale provides a low‑cost opportunity to equip the workplace with smart‑home and productivity devices, delivering immediate budget savings while enhancing functionality."
     },
     {
-      "title": "What, Exactly, Did Trump Say About Iran Taking Out Los Angeles and San Diego?",
-      "url": "https://www.nytimes.com/2026/10/06/us/politics/trump-iran-take-out-los-angeles.html",
-      "image": "https://static01.nyt.com/images/2026/10/06/06vid-trump-nebraska-LA-San-Diego-51303-cover/06vid-trump-nebraska-LA-San-Diego-51303-cover-mediumSquareAt3X-v2.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "President Donald Trump suggested that Iran could target Los Angeles and San Diego, prompting criticism from Democrats and Republicans; a White House official later claimed the remarks were taken out of context.",
-      "datos": [
-        "President Donald Trump made the remarks about Iran potentially striking Los Angeles and San Diego.",
-        "Members of both the Democratic and Republican parties publicly condemned the comments.",
-        "A White House official responded that Trump's statements had been taken out of context.",
-        "The controversy centered on the perceived threat to two major California cities."
-      ],
-      "conclusion": "The incident highlights how incendiary rhetoric can generate bipartisan backlash and strain U.S.-Iran diplomatic relations, underscoring the need for precise communication from senior officials."
-    },
-    {
-      "title": "Apple AirPods Max 2 Are $120 Off Right Now During Prime Day (2026)",
-      "url": "https://www.wired.com/story/apple-airpods-max-2-deal-october-2026/",
-      "image": "https://media.wired.com/photos/6ac507aafaca1c452d82d6a4/191:100/w_1280,c_limit/Amazon%20Prime%20Day%20Top%20Art%20102026%20Standalone%20Apple%20AirPods%20Max%202%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
-      "source": "Wired",
-      "language": "en",
-      "que_paso": "Apple’s second‑generation AirPods Max are being sold at a 22 percent discount, roughly $120 off, across Amazon, Walmart and Best Buy. The price cut coincides with the launch of the updated model earlier this year, which adds stronger active‑noise‑cancelling and new software features. The promotion is part of a broader set of deals rather than a single Prime Day event.",
-      "datos": [
-        "Discount is 22 % ($120) at Amazon, Walmart and Best Buy",
-        "AirPods Max 2 launched in early 2026",
-        "Active‑noise‑cancelling is 1.5 times stronger than the original model",
-        "The headphones now use Apple’s H2 chip, upgraded from the H1",
-        "New features include live translation, adaptive audio and conversation awareness"
-      ],
-      "conclusion": "The reduced price makes a high‑end, Apple‑integrated headset more accessible for professionals, while the enhanced ANC and software upgrades improve productivity in noisy environments."
-    },
-    {
-      "title": "El fenómeno musical del momento que ha destronado a Mariah Carey a las puertas de Navidad en Estados Unidos",
-      "url": "https://www.eldiario.es/spin/fenomeno-musical-destronado-mariah-carey-puertas-navidad-estados-unidos-choosin-texas-pm_1_13567655.html",
-      "image": "https://static.eldiario.es/clip/480b15f5-62e0-4a13-afdb-59da6c4f2ff2_facebook-aspect-ratio-1200-675_default_0_x1025y508.jpg",
-      "source": "elDiario.es",
+      "title": "Maricarmen, santa súbita",
+      "url": "https://elpais.com/espana/madrid/2026-10-07/maricarmen-santa-subita.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/FAOCR5G2I5G6NJFSLXBO6KA3WQ.jpg?auth=0201bedea193619bc858b2ac574ea4df24a40e706ac951050d9ebc151e601e6a&width=1200",
+      "source": "El País",
       "language": "es",
-      "que_paso": "Una balada country titulada “Choosin’ Texas”, interpretada por la joven cantante estadounidense Ella Langley, ha superado el récord de semanas en la cima de la lista Billboard, desplazando a la canción navideña de Mariah Carey. El tema se ha convertido en el mayor éxito viral a nivel global, acumulando miles de millones de reproducciones y obteniendo numerosos galardones, aunque no ha logrado tracción en el mercado español.",
+      "que_paso": "Maricarmen Abascal falleció tras ser desalojada por la policía en una camilla dentro de su domicilio, y el autor del texto la propone como santa laica por su papel en la movilización de jóvenes que reclaman derecho a una vivienda digna.",
       "datos": [
-        "“Choosin’ Texas” estuvo 24 semanas en el número 1 de Billboard, frente a las 23 semanas de “All I Want For Christmas Is You” de Mariah Carey",
-        "Ha acumulado 1 600 000 000 de reproducciones en streaming a nivel mundial",
-        "El videoclip supera los 86 000 000 de visualizaciones en YouTube y la canción tiene 712 000 000 de reproducciones en Spotify",
-        "En los ACM Awards 2026 ganó Canción del Año y Single del Año, además de siete premios adicionales",
-        "El álbum ‘Dandelion’, que incluye la canción, se lanzó el 10 de abril de 2026",
-        "A pesar del éxito global, la canción no aparece en la lista Los 40 Principales ni en los rankings de Spotify en España"
+        "Maricarmen Abascal murió dos semanas después de la intervención policial",
+        "La policía la desahució en camilla en su casa",
+        "El autor sugiere su canonización inmediata como santa laica",
+        "Se le atribuye haber impulsado a jóvenes a protestar pacíficamente por el derecho a un techo propio",
+        "El texto menciona que fue objeto de agresiones y críticas por parte de autoridades y sectores conservadores"
       ],
-      "conclusion": "El caso ilustra cómo una estrategia viral y el streaming pueden romper récords tradicionales, ofreciendo lecciones sobre la promoción digital y la necesidad de adaptar campañas a mercados locales como el español."
+      "conclusion": "El caso ilustra la creciente tensión social en torno a los desalojos y la vivienda, mostrando cómo figuras públicas pueden convertirse en símbolos de resistencia y generar debates sobre derechos ciudadanos."
     },
     {
-      "title": "Mixed Human Feelings After a Day at a Park Full of Robots",
-      "url": "https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html",
-      "image": "https://static01.nyt.com/images/2026/09/29/xp-robot-park-topart-cover/xp-robot-park-topart-cover-mediumSquareAt3X-v2.jpg",
-      "source": "NYT Tech",
-      "language": "en",
-      "que_paso": "The author visited Galaxy Robot Park in Seoul to observe interactions between humans and robots and assess how such environments might inform future cohabitation. The experience combined advanced robotics with theatrical elements, leading to mixed emotional reactions.",
-      "datos": [
-        "Galaxy Robot Park is located in Seoul, South Korea",
-        "The park showcases robots designed for public interaction",
-        "The author attended the park to evaluate potential human‑robot cohabitation scenarios",
-        "Exhibits blend cutting‑edge robotics technology with theatrical performances",
-        "The article provides no quantitative visitor statistics or performance metrics"
-      ],
-      "conclusion": "The visit illustrates that real‑world robot deployments can expose both technical capabilities and social perception issues, offering practical insights for AI integration strategies."
-    },
-    {
-      "title": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
-      "url": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
-      "image": "https://media.wired.com/photos/6ac4301373c1ba905b24e9bd/191:100/w_1280,c_limit/science_openai_mathematicians_weird.jpg",
-      "source": "Wired",
-      "language": "en",
-      "que_paso": "OpenAI convened a group of mathematicians to decide how to disclose a surge of AI‑generated solutions to long‑standing problems, and it has announced an imminent bulk release of those results on GitHub despite objections from the academic community. The company’s approach has sparked criticism that it is prioritizing publicity over established scientific publishing norms.",
-      "datos": [
-        "Around 40 mathematicians attended the August meeting with OpenAI representatives.",
-        "OpenAI’s internal model, begun training on August 28, claims to have solved the Navier‑Stokes Millennium Prize problem and more than 100 other open problems.",
-        "The firm plans to dump hundreds of mathematical results to GitHub on an upcoming Tuesday, according to insiders.",
-        "OpenAI has generated tens of thousands of mathematical solutions this year, according to company sources.",
-        "In September, NYU professor Tristan Buckmaster accused OpenAI of front‑running his collaborative work with Anthropic employee Levent Alpöge, involving a million‑dollar Millennium Prize problem."
-      ],
-      "conclusion": "The episode highlights the urgent need for clear policies on AI‑driven research disclosures, as unchecked releases could undermine scholarly credit and the integrity of mathematical publishing."
-    },
-    {
-      "title": "Pere Navarro, director de la DGT: \"Hay gente que dice que no se gasta 40 euros en la baliza V-16 por ser una iniciativa de Sánchez\"",
-      "url": "https://www.xataka.com/movilidad/pere-navarro-director-dgt-hay-gente-que-dice-que-no-se-gasta-40-euros-baliza-v-16-ser-iniciativa-sanchez",
-      "image": "https://i.blogs.es/1bab5f/chatgpt-image-6-oct-2026-18_38_47/840_560.png",
-      "source": "Xataka",
+      "title": "Tropas eritreas se adentran en la región etíope de Tigray y elevan el temor a una guerra abierta",
+      "url": "https://elpais.com/internacional/2026-10-07/tropas-eritreas-se-adentran-en-la-region-etiope-de-tigray-y-elevan-el-temor-a-una-guerra-abierta.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/VRHALILDRJIJPKXYCTR6SC3MYA.jpg?auth=5dda40e92904311ae41a077f2f7f04dde8599a3e639ce49e0b0c1c5b5633ca5e",
+      "source": "El País",
       "language": "es",
-      "que_paso": "Han pasado 278 días desde que la DGT obligó la instalación de la baliza V‑16 conectada en casos de avería o accidente en carreteras, pero la adopción entre los conductores es muy baja y la propia agencia reconoce dificultades en su implantación.",
+      "que_paso": "Tras la ruptura de relaciones diplomáticas entre Eritrea y Etiopía, unidades militares eritreas cruzaron la frontera y se desplazaron por la localidad de Adigrat, en la región de Tigray. La presencia de estos soldados ha intensificado los temores de que el conflicto entre ambos países se convierta en una guerra abierta.",
       "datos": [
-        "La obligatoriedad de la baliza V‑16 conectada entró en vigor el 1 de enero de 2026.",
-        "La multa por no llevar la baliza es de 800 euros.",
-        "Según Pere Navarro, la DGT no ha vendido ninguna baliza V‑16 conectada en los primeros 278 días.",
-        "Montserrat Estaca, jefa del Área de Telemática de la DGT, declaró en noviembre de 2025 que \"no lo hemos hecho bien\".",
-        "Las primeras multas se emitieron antes de que finalizara la primera semana de enero de 2026.",
-        "El coste de la baliza V‑16 conectada es de 40 euros, según los críticos."
+        "Decenas de soldados eritreas fueron avistados cruzando la localidad de Adigrat.",
+        "El avistamiento ocurrió días después de que Eritrea y Etiopía rompieran relaciones diplomáticas.",
+        "Varios testigos confirmaron la presencia de tropas en la zona.",
+        "Adigrat está situada en la región de Tigray, en el norte de Etiopía.",
+        "La ruptura de relaciones diplomáticas entre ambos países se produjo recientemente, sin especificar una fecha exacta."
       ],
-      "conclusion": "La escasa adopción y los costes de sanción indican que la medida podría requerir ajustes operativos y de comunicación para ser eficaz, de modo que la DGT evite gastos innecesarios y mejore la seguridad vial."
+      "conclusion": "El avance de tropas eritreas indica una posible escalada del conflicto, lo que podría desestabilizar la región y afectar la cadena de suministro y la seguridad operativa para empresas con presencia en el Cuerno de África."
     },
     {
-      "title": "Cada vez más personas en Brasil están convencidas de que Vinícius Jr. ha muerto y ahora le sustituye un doble",
-      "url": "https://www.xataka.com/magnet/cada-vez-personas-brasil-estan-convencidas-que-vinicius-jr-ha-muerto-ahora-le-sustituye-doble",
-      "image": "https://i.blogs.es/433999/55365258553_c648f9eaa1_k/840_560.jpeg",
-      "source": "Xataka",
-      "language": "es",
-      "que_paso": "Tras la final de la Copa del Mundo a finales de julio, surgió en Brasil una teoría conspirativa que afirma que el futbolista Vinícius Júnior ha sido reemplazado por un doble o clon, y que el supuesto original habría desaparecido bajo supuestos planes de la CIA o la familia Rothschild. La idea se ha difundido en X y TikTok, donde usuarios comparan fotos recientes con imágenes anteriores y señalan cambios físicos y de voz. La narrativa incluye referencias a tatuajes que habrían desaparecido y a un posible asesinato o abducción extraterrestre.",
-      "datos": [
-        "La teoría comenzó a circular en redes sociales brasileñas a finales de julio de 2026, justo después de la Copa del Mundo.",
-        "Los usuarios afirman haber observado cambios físicos en Vinícius Jr. durante los últimos dos meses y medio, como la desaparición de tatuajes en el muslo y un torso menos musculoso.",
-        "En la publicación se incluye un enlace a un tweet con la etiqueta \"Vinicius Jr 2025 // Vinicius Jr 2026\" (https://t.co/3ChkE8JV1v).",
-        "Los conspiracionistas citan a la CIA y a la familia Rothschild como posibles responsables del supuesto reemplazo.",
-        "No existen declaraciones oficiales del jugador, del Real Madrid ni de la federación brasileña que confirmen la teoría."
-      ],
-      "conclusion": "El caso ilustra la rapidez con que desinformación sensacionalista puede propagarse en plataformas digitales, lo que obliga a los gestores de operaciones y a los constructores de IA a filtrar y validar datos antes de tomarlos como reales."
-    },
-    {
-      "title": "Los mejores chollos en auriculares durante la Fiesta de Ofertas Prime de Amazon",
-      "url": "https://www.xataka.com/seleccion/mejores-chollos-auriculares-durante-fiesta-ofertas-prime-amazon",
-      "image": "https://i.blogs.es/db5763/auriculares-fiesta-de-ofertas-prime-amazon/840_560.jpeg",
-      "source": "Xataka",
-      "language": "es",
-      "que_paso": "Durante la Fiesta de Ofertas Prime de Amazon, se lanzaron descuentos exclusivos para miembros Prime en varios modelos de auriculares, desde opciones económicas hasta gamas premium, con precios reducidos por tiempo limitado. Los descuentos están disponibles solo para suscriptores Prime, aunque se puede acceder mediante una prueba gratuita de 30 días. La oferta incluye tanto auriculares intrauditivos como de diadema, con distintas características de batería, resistencia y cancelación de ruido.",
-      "datos": [
-        "Anker P20i: 22 % de descuento, precio 17,99 €, 30 h de autonomía y certificación IPX5",
-        "Baseus Bass BC2: precio habitual ~50 €, 30 % de descuento, ahora 34,99 €, descuento válido hasta mañana",
-        "CMF Headphone Pro: 50 % de descuento, pasa de 99 € a 49,99 €, batería de 100 h (50 h con ANC)",
-        "Sony modelo con cancelación de ruido: 69 € frente a 89 €, hasta 40 h de autonomía (30 h con ANC) y conexión multipunto",
-        "Beats Studio Pro: PVP 299,95 €, precio 189,05 €, ahorro de más de 100 €, batería de 40 h y Audio Espacial adaptativo"
-      ],
-      "conclusion": "Aprovechar estas rebajas permite equipar al equipo con auriculares de alta calidad a un coste reducido, mejorando la concentración y la calidad de las comunicaciones en entornos de trabajo remoto."
-    },
-    {
-      "title": "In Race With U.S., China Struggles to Recruit Foreign A.I. Researchers",
-      "url": "https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html",
-      "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05sci-china-ai-researchers-01-gfjc/05sci-china-ai-researchers-01-gfjc-mediumSquareAt3X.jpg",
+      "title": "Jonathan the Giant Tortoise Is 194 Years Old. He Just Had His Genome Sequenced.",
+      "url": "https://www.nytimes.com/2026/10/07/science/jonathan-giant-tortoise-genome-aging.html",
+      "image": "https://static01.nyt.com/images/2026/10/07/multimedia/07SCI-TORTOISE-GENOME-02-lgvw/07SCI-TORTOISE-GENOME-02-lgvw-mediumSquareAt3X.jpg",
       "source": "NYT Science",
       "language": "en",
-      "que_paso": "China is actively trying to attract foreign artificial‑intelligence researchers, but the effort has so far failed to persuade overseas scientists to relocate, even as its domestic AI sector continues to expand rapidly. The government’s recruitment drive pits Beijing against the United States in the global talent competition, highlighting the difficulty of drawing talent despite generous incentives.",
+      "que_paso": "Researchers have completed the first full genome sequencing of Jonathan, a 194‑year‑old Galápagos giant tortoise living on St. Helena, aiming to uncover genetic factors linked to extreme longevity. The project was led by a team of evolutionary biologists and genomics experts who hope the data will inform aging research across species.",
       "datos": [
-        "China’s artificial‑intelligence sector is described as booming.",
-        "Local researchers have good reason to remain in China.",
-        "The Chinese government has launched a push to recruit overseas AI scientists.",
-        "The recruitment drive has not succeeded in attracting foreign researchers.",
-        "The effort is part of a broader race with the United States for AI leadership."
+        "Jonathan is 194 years old (born circa 1832).",
+        "He is a Galápagos giant tortoise (Chelonoidis niger).",
+        "He resides on the island of St. Helena in the South Atlantic.",
+        "The genome sequencing was performed in 2026 by an international consortium of scientists.",
+        "This is the first complete genome ever sequenced for a land animal of this age.",
+        "Researchers will compare his DNA to younger tortoises to identify longevity‑associated genes."
       ],
-      "conclusion": "The inability to secure foreign AI talent could slow China’s ambition to match U.S. capabilities, indicating that incentives alone may be insufficient."
+      "conclusion": "Understanding Jonathan’s genome could reveal genetic mechanisms of long lifespan, potentially guiding biomedical strategies for human aging."
     },
     {
-      "title": "Is regulation enough to stop AI systems killing us all? | Letters",
-      "url": "https://www.theguardian.com/technology/2026/oct/06/is-regulation-enough-to-stop-ai-systems-killing-us-all",
-      "image": "https://i.guim.co.uk/img/media/df4adbb7305624629e237841d72a92370f690e09/606_0_6034_4830/master/6034.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5c0b983a1eaa74e6fa4587ed9f451c17",
-      "source": "The Guardian AI",
-      "language": "en",
-      "que_paso": "Martyn Thomas, a Fellow and emeritus professor of IT at Gresham College, wrote a letter questioning whether independent oversight and regulation can reliably prevent catastrophic outcomes from frontier AI systems. He cites the recent withdrawal of an OpenAI model on 28 September after internal safety tests failed and argues that existing safety‑case standards for critical systems require extremely low accident probabilities that are difficult to demonstrate for AI.",
-      "datos": [
-        "OpenAI cancelled the release of a new model on 28 September 2026 after internal testing flagged safety failures.",
-        "International safety standards for critical software require a safety case showing at least 99% confidence that a fatal accident will not occur more often than once per 1,000 years.",
-        "Martyn Thomas is a Fellow and emeritus professor of IT at Gresham College.",
-        "Frontier AI developers have claimed their systems could potentially kill all of humanity but have not produced detailed risk analyses or safety cases.",
-        "No concrete regulatory framework has been presented that explains how regulators would assess AI safety to the required probability thresholds."
-      ],
-      "conclusion": "Without verifiable safety cases, regulators cannot ensure AI systems meet the ultra‑low risk levels required for other safety‑critical domains, meaning reliance on oversight alone may be insufficient for preventing existential threats."
-    },
-    {
-      "title": "Los estudiantes mantienen la presión sobre el Gobierno con nuevas y masivas protestas en todo el país",
-      "url": "https://www.europapress.es/internacional/noticia-estudiantes-mantienen-presion-gobierno-frances-nuevas-multidudinarias-protestas-todo-pais-20261006184137.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261006184137_1200_v2.jpg",
-      "source": "Europa Press Tecnología",
+      "title": "Las imágenes de la vida de Maricarmen y su lucha por evitar los desahucios",
+      "url": "https://elpais.com/videos/2026-10-07/las-imagenes-de-la-vida-de-maricarmen-y-su-lucha-por-evitar-los-desahucios.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/IITBL6KXSFBBBINBCWSYVBEAW4.jpg?auth=442c03937ec9f9a9ce140a261e56ca81a61509780dc80db398d13d17f5fdf612&width=1200",
+      "source": "El País",
       "language": "es",
-      "que_paso": "La policía detuvo a casi 500 personas durante protestas estudiantiles masivas en todo el país. El presidente Emmanuel Macron y su gabinete se reunieron de emergencia tras la suspensión nacional de clases.",
+      "que_paso": "Maricarmen, una mujer de 87 años, fue desalojada de su vivienda el 23 de septiembre de 2026 y, tras permanecer ingresada en el Hospital Gregorio Marañón, falleció antes del 8 de octubre de 2026. El caso muestra la rápida progresión de su situación desde el desahucio hasta el fallecimiento en el mismo mes.",
       "datos": [
-        "Casi 500 personas fueron detenidas por la Policía el 7 de octubre de 2026.",
-        "El presidente Emmanuel Macron convocó una reunión de emergencia de su gabinete el mismo día.",
-        "Las protestas estudiantiles se extendieron a más de 20 ciudades de Francia.",
-        "El Ministerio de Educación anunció la suspensión de clases a nivel nacional el 6 de octubre de 2026.",
-        "Los manifestantes exigían la revocación de la reforma educativa propuesta por el gobierno."
+        "Maricarmen, mujer de 87 años",
+        "Desahucio ocurrido el 23 de septiembre de 2026",
+        "Ingresada en el Hospital Gregorio Marañón desde el desahucio",
+        "Falleció en dicho hospital antes del 8 de octubre de 2026",
+        "El desahucio tuvo lugar en Madrid"
       ],
-      "conclusion": "El episodio muestra una escalada del descontento estudiantil que podría obligar al gobierno a reconsiderar la reforma educativa y a adoptar medidas de seguridad más estrictas."
+      "conclusion": "El episodio subraya la urgencia de proteger a personas mayores frente a desalojos, pues la falta de apoyo inmediato puede derivar en graves consecuencias de salud."
     },
     {
-      "title": "El PP usa una queja por presunto acoso machista para forzar el desalojo de la acampada por la vivienda en Palma",
-      "url": "https://www.eldiario.es/illes-balears/sociedad/pp-esgrime-queja-presunto-acoso-machista-forzar-desalojo-acampada-vivienda-palma_1_13566951.html",
-      "image": "https://static.eldiario.es/clip/b69f85e6-20fc-4ce0-b23f-acac31329aaa_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "title": "El premio a mejor chollo en móviles durante la Fiesta de Ofertas Prime se lo lleva el Google Pixel 11 Pro con estas configuraciones",
+      "url": "https://www.xataka.com/seleccion/premio-a-mejor-chollo-moviles-durante-fiesta-ofertas-prime-se-lleva-google-pixel-11-pro-estas-configuraciones",
+      "image": "https://i.blogs.es/894c72/google-pixel-11-pro/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "Durante la Fiesta de Ofertas Prime, el Google Pixel 11 Pro se convirtió en el móvil con mayor rebaja, superando incluso a las ofertas de MediaMarkt y posicionándose como la mejor compra antes del Black Friday.",
+      "datos": [
+        "El precio histórico mínimo del Pixel 11 Pro está por debajo de 1.000 €, tras una rebaja respecto al anterior de 1.035 €",
+        "Los usuarios con cuenta Prime Student reciben un descuento adicional de 100 €",
+        "El dispositivo tiene una pantalla OLED LTPO de 6,3 pulgadas",
+        "Incluye un zoom digital de 120× y un telefoto de 5×",
+        "Google garantiza actualizaciones de software durante siete años",
+        "El modelo incorpora funciones de inteligencia artificial para la fotografía computacional"
+      ],
+      "conclusion": "Es una oportunidad de adquirir un móvil premium con IA integrada y soporte prolongado a un precio reducido, lo que puede optimizar la productividad y reducir costes de renovación de dispositivos."
+    },
+    {
+      "title": "A Public Health-Minded Senator Asks: What Comes After Trump and Kennedy?",
+      "url": "https://www.nytimes.com/2026/10/07/us/politics/patty-murray-public-health.html",
+      "image": "https://static01.nyt.com/images/2026/10/07/multimedia/07dc-murray-health-bqfj/07dc-murray-health-bqfj-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "Senator Patty Murray, the former chair of the Senate health committee, announced she is assembling a panel of experts to study how to protect the CDC from political meddling, a move prompted by concerns over recent interference. The effort is being launched as part of broader attempts to safeguard public‑health institutions after the Trump era and ongoing political pressures.",
+      "datos": [
+        "Senator Patty Murray, a Democrat from Washington, is the former chair of the Senate Health, Education, Labor and Pensions Committee.",
+        "Murray announced the creation of a panel of public‑health experts to examine ways to insulate the CDC from political influence.",
+        "The initiative was disclosed in a statement released on October 8, 2026.",
+        "The CDC has been cited in recent reports as having faced political pressure during the Trump administration.",
+        "Murray’s effort follows bipartisan calls in 2025 for reforms to protect public‑health agencies."
+      ],
+      "conclusion": "Ensuring the CDC’s independence can improve the reliability of health responses and reduce operational disruptions caused by political agendas."
+    },
+    {
+      "title": "Dolor y rabia en la despedida a Maricarmen, símbolo de la lucha por la vivienda: “No toleramos ni un desahucio más”",
+      "url": "https://www.eldiario.es/politica/cientos-personas-marchan-congreso-muerte-maricarmen-no-toleramos-desahucio_1_13570760.html",
+      "image": "https://static.eldiario.es/clip/97eb51a3-e613-4087-b743-568e68469805_facebook-aspect-ratio-1200-675_default_0_x721y823.jpg",
       "source": "elDiario.es",
       "language": "es",
-      "que_paso": "El alcalde de Palma, Jaime Martínez (PP), incorporó denuncias de presuntos comportamientos machistas dentro de la acampada por la vivienda como argumento para exigir su desalojo, mientras los colectivos Acampada per l'Habitatge y Flama acusan al gobierno local de instrumentalizar el feminismo para impulsar una decisión ya tomada.",
+      "que_paso": "Maricarmen, una anciana de 87 años que había sido desahuciada por una empresa especuladora, falleció el miércoles y su muerte desencadenó una protesta frente al Congreso de los Diputados. El Sindicato de Inquilinas y activistas como Aza y Gema movilizaron a centenares de personas para exigir el fin de los desahucios y denunciar el papel del capital en la crisis de vivienda.",
       "datos": [
-        "Jaime Martínez, alcalde de Palma (PP), presentó la queja por supuestos comportamientos machistas dentro de la acampada.",
-        "El Consistorio, apoyado por Vox, solicitó a la Delegación del Gobierno en Baleares que intervenga para desalojar la acampada \"sin más demora\".",
-        "Flama publicó en Instagram una nota anunciando su retirada de la organización de la acampada tras detectar actitudes sexistas y acoso sexual.",
-        "Flama advirtió sobre la presencia de menores de edad en la acampada y declaró que su protección es una prioridad absoluta.",
-        "Los colectivos afirman que el Ayuntamiento ya había pedido el desalojo antes de conocer los hechos denunciados.",
-        "La nota de Flama y el comunicado del Consistorio fueron difundidos el martes."
+        "Maricarmen murió el miércoles tras ser desahuciada por una empresa especuladora",
+        "Vivía en el barrio del Retiro desde hace siete décadas",
+        "La asamblea de Sol, núcleo de la protesta, está activa desde el 26 de septiembre",
+        "Centenares de manifestantes se reunieron frente al Congreso alrededor de las 20:30 h",
+        "Se realizó un minuto de silencio sobre las 21:30 h",
+        "Gema, una manifestante de 30 años, habló durante la concentración"
       ],
-      "conclusion": "Esta maniobra revela cómo se pueden usar denuncias de género para legitimar decisiones políticas preexistentes, lo que implica la necesidad de evaluar críticamente los argumentos oficiales antes de actuar."
+      "conclusion": "El episodio subraya la urgencia de abordar la crisis de vivienda como un problema social y no meramente de mercado, y muestra que la organización de base puede presionar para cambios regulatorios."
     },
     {
-      "title": "El PP pide a la Junta Electoral que sancione a Sánchez por \"utilizar\" la Moncloa para \"dar un mitin del PSOE\"",
-      "url": "https://www.europapress.es/nacional/noticia-pp-pide-junta-electoral-sancione-sanchez-utilizar-moncloa-dar-mitin-psoe-20261006183024.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261006183024_1200.jpg",
-      "source": "Europa Press Ciencia",
-      "language": "es",
-      "que_paso": "El Partido Popular ha solicitado a la Junta Electoral que imponga una sanción a Pedro Sánchez por presuntamente usar la residencia oficial de la Moncloa como escenario de un mitin del PSOE; Sánchez, por su parte, compareció ante los medios después de que el Consejo de Ministros aprobara dos reales decretos de vivienda.",
+      "title": "Rubio Urges Europe to Awaken From ‘Slumber’ and Uphold Western Dominance",
+      "url": "https://www.nytimes.com/2026/10/07/world/europe/rubio-greece-defense-immigration.html",
+      "image": "https://static01.nyt.com/images/2026/10/07/multimedia/07greece-rubio-lcvk/07greece-rubio-lcvk-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "During a visit to Greece, U.S. Secretary of State Marco Rubio delivered a speech urging European countries to revive a historic mindset of exploration and conquest, arguing it is necessary for the West to stay globally dominant.",
       "datos": [
-        "El PP presentó una petición formal a la Junta Electoral contra el presidente del Gobierno",
-        "La acusación se centra en el uso de la Moncloa para un acto del PSOE",
-        "Pedro Sánchez compareció ante los medios tras la aprobación de los decretos",
-        "El Consejo de Ministros aprobó dos reales decretos de vivienda"
+        "Marco Rubio, serving as U.S. Secretary of State, made the remarks in Greece",
+        "The speech called for Western nations to adopt an “earlier ethos of exploration and conquest”",
+        "Rubio claimed this mindset is required for the West to remain “at the head of the world”",
+        "The comments were made on 2026-10-08",
+        "Rubio addressed European policymakers and audiences during the visit",
+        "No specific policy proposals or quantitative targets were provided"
       ],
-      "conclusion": "La polémica puede generar una intervención de la Junta Electoral y afecta la percepción de la neutralidad institucional, lo que es relevante para la gestión política y operativa del gobierno."
+      "conclusion": "The warning signals a push for a more assertive Western foreign policy, suggesting European leaders may face pressure to adopt a more expansionist narrative."
     },
     {
-      "title": "Puigdemont celebra la amnistía pero dice que \"hoy no se soluciona nada\" del conflicto político",
-      "url": "https://www.europapress.es/catalunya/noticia-puigdemont-celebra-amnistia-dice-hoy-no-soluciona-nada-conflicto-politico-20261006181919.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261006181919_1200_v3.jpg",
-      "source": "Europa Press Ciencia",
+      "title": "Dejad a la gente morir en sus pisos",
+      "url": "https://elpais.com/espana/2026-10-07/dejad-a-la-gente-morir-en-sus-pisos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/J4PJ3T7NMRGKDIBFGQESXRURG4.jpg?auth=bbe36980ca0e5f90dae43f196cc3ed4d82847780c2bf01a32bd1550ed0999380&width=1200",
+      "source": "El País",
       "language": "es",
-      "que_paso": "Carles Puigdemont, expresidente de la Generalitat y líder de Junts, ha aplaudido la aprobación de la Ley de Amnistía por el Tribunal Constitucional, pero ha subrayado que el conflicto político entre Cataluña y el resto de España sigue sin resolverse. El pronunciamiento se produce en medio de la larga disputa sobre la independencia catalana.",
+      "que_paso": "Maricarmen Abascal, una anciana de 87 años que vivía en el mismo piso durante 70 años, fue desalojada y falleció poco después. El desahucio se realizó en camilla y desencadenó una fuerte polémica sobre la política de vivienda en España, involucrando a partidos como el PP y Vox. El caso puso de relieve la tensión entre fondos inmobiliarios y los derechos de los inquilinos vulnerables.",
       "datos": [
-        "Carles Puigdemont es expresidente de la Generalitat de Cataluña",
-        "Puigdemont es líder del partido Junts",
-        "El Tribunal Constitucional ha avalado la Ley de Amnistía",
-        "Puigdemont declaró que \"hoy no se soluciona nada\" del conflicto político"
+        "Maricarmen Abascal tenía 87 años y vivía en el piso desde hace 70 años",
+        "El desalojo se efectuó en camilla, sin uso de la fuerza física",
+        "El propietario del edificio posee alrededor de 150 pisos en la zona",
+        "Partidos políticos PP y Vox fueron citados en el debate sobre la política de vivienda tras el caso",
+        "El artículo cita la frase de la fallecida: “Luchad por lo que es vuestro”",
+        "El caso se vinculó a la polémica “bomba política de Sol” en el Congreso"
       ],
-      "conclusion": "El aval judicial no elimina la disputa política, por lo que será necesario seguir negociando para alcanzar una solución duradera."
+      "conclusion": "El episodio evidencia la falta de protección legal para inquilinos mayores y muestra los riesgos reputacionales y operacionales de la especulación inmobiliaria; es una señal para que los gestores revisen sus políticas de alquiler y prioricen la sostenibilidad social."
+    },
+    {
+      "title": "Maricarmen: cuando una historia personal se convierte en memoria colectiva",
+      "url": "https://www.eldiario.es/opinion/zona-critica/maricarmen-historia-personal-convierte-memoria-colectiva_129_13570749.html",
+      "image": "https://static.eldiario.es/clip/62258b5e-f22b-4b06-8bf4-819f82fb37ad_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "que_paso": "Maricarmen fue desalojada el 23 de septiembre, lo que la convirtió en la cara visible de la crisis de la vivienda en España. Su caso personal pasó a simbolizar un problema estructural que afecta a toda la sociedad, más allá de la intimidad familiar.",
+      "datos": [
+        "Maricarmen es la persona cuyo desahucio se menciona en el artículo",
+        "El desahucio ocurrió el 23 de septiembre de 2026",
+        "El episodio la transformó en el rostro de la crisis de la vivienda",
+        "El texto señala que la crisis lleva tiempo acumulando cifras, informes y discursos sin lograr una imagen condensada"
+      ],
+      "conclusion": "El caso muestra cómo una historia individual puede evidenciar la magnitud de un problema estructural, subrayando la urgencia de políticas efectivas de vivienda."
+    },
+    {
+      "title": "Fears of a Plague Outbreak in Russia: What to Know",
+      "url": "https://www.nytimes.com/2026/10/07/world/europe/russia-plague-fears-what-to-know.html",
+      "image": "https://static01.nyt.com/images/2026/10/07/multimedia/07int-russia-plague-wtk-1-wcgm/07int-russia-plague-wtk-1-wcgm-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "A female researcher at a Russian laboratory that studies plague died, prompting media speculation about a possible outbreak. Russian officials have provided no details about the incident, while independent experts have assessed that the likelihood of the disease spreading to the public is low. The story highlights concerns about laboratory safety and transparency in infectious‑disease research.",
+      "datos": [
+        "The deceased was a woman employed at a Russian plague‑research laboratory",
+        "Russian authorities have not released an official statement regarding the death",
+        "Public health experts have publicly stated that the risk of contagion is limited",
+        "No quarantine or emergency response measures have been announced by Russian health agencies",
+        "The incident was reported in early October 2026"
+      ],
+      "conclusion": "The episode underscores the need for robust bio‑security protocols and clear communication from authorities to prevent unwarranted panic and ensure operational continuity."
+    },
+    {
+      "title": "Recordemos a Maricarmen como se merece",
+      "url": "https://www.eldiario.es/opinion/zona-critica/recordemos-maricarmen-merece_129_13570713.html",
+      "image": "https://static.eldiario.es/clip/b78867b2-61cc-45d6-852f-2a88f8312b7b_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "que_paso": "Maricarmen falleció y el texto la culpa a ella misma, mientras varios autores anónimos la acusan de merecer su muerte y llaman a seguir atacándola, citando una frase de Rubalcaba sobre los entierros en España.",
+      "datos": [
+        "Maricarmen ha muerto según el artículo",
+        "Rubalcaba es citado diciendo que en España se entierra muy bien, pero no tanto",
+        "El texto menciona a \"ilustrado\" y \"coloso intelectual\" como posibles críticos",
+        "El país mencionado es España",
+        "No se indican fechas, cifras ni fuentes oficiales en el artículo"
+      ],
+      "conclusion": "El mensaje muestra una retórica agresiva que puede influir en la percepción pública y advierte sobre la necesidad de separar opinión de hechos al gestionar crisis."
+    },
+    {
+      "title": "El Sindicato de Inquilinas llama a la huelga general por la vivienda “para que no haya una Maricarmen más”",
+      "url": "https://elpais.com/economia/2026-10-07/el-sindicato-de-inquilinas-llama-a-la-huelga-general-por-la-vivienda-para-que-no-haya-una-maricarmen-mas.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/MJRKFEIZFROKFEKI5TRA7ZBD6U.jpg?auth=03223616de6981c6a159103b164ebc345ed9fd54402d9adf848b88f3bb274da2&width=1200",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "El Sindicato de Inquilinas anunció una huelga general para el 11 de noviembre, tras la muerte de Maricarmen, una mujer de 87 años desalojada, y la falta de respuesta del Congreso a los decretos de vivienda. La convocatoria se realizó en el Ateneo La Maliciosa de Madrid, con la participación de varios sindicatos y activistas, y cuenta con el respaldo de los principales sindicatos nacionales.",
+      "datos": [
+        "La rueda de prensa tuvo lugar alrededor de las 21:00 horas del miércoles en el Ateneo La Maliciosa de Madrid.",
+        "Maricarmen, de 87 años, fue desalojada y falleció, convirtiéndose en símbolo de la crisis de vivienda.",
+        "El paro está programado para el 11 de noviembre, dos días antes del inicio de la campaña electoral del 29 de noviembre.",
+        "Los sindicatos que respaldan la huelga incluyen CGT, Solidaridad Obrera, CO.BAS, CC OO, UGT, LAB, ELA, CIG y CUT.",
+        "Los sindicatos CSIF, USO y Fetico han manifestado su rechazo a la huelga."
+      ],
+      "conclusion": "La medida busca presionar al gobierno para que actúe contra los desahucios y la especulación inmobiliaria, demostrando que la movilización sindical puede influir en la agenda política justo antes de las elecciones."
+    },
+    {
+      "title": "Muere un un cirujano plástico tras recibir disparos en una clínica de Marbella",
+      "url": "https://elpais.com/espana/2026-10-07/muere-un-hombre-tras-recibir-varios-disparos-en-marbella.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/DNQ4ZYSSH5HX5M63TCSWRGFEVI.jpg?auth=221d1e36bf827c6346a70b659256d8ae145fed2553af32aa835fccb6bf9bd011&width=1200",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Un hombre encapuchado disparó varias veces a la cabeza al cirujano plástico Alexander Aslani dentro de la clínica estética Cirumed en la urbanización Real Panorama de Marbella, y la víctima falleció pese a la atención de los sanitarios. La policía llegó al lugar, pero el agresor escapó en una moto y aún no hay detenidos.",
+      "datos": [
+        "El asesinato ocurrió el miércoles a las 17:30 en la clínica Cirumed, ubicada en la urbanización Real Panorama de Marbella (Málaga, 173.420 habitantes).",
+        "La víctima fue el cirujano plástico Alexander Aslani, de 57 años, fundador de la clínica.",
+        "El agresor, vestido de negro y con la cara oculta por una capucha, disparó varias veces a la cabeza y huyó en una moto.",
+        "La Policía Nacional abrió la investigación bajo el Grupo de Homicidios y, hasta el momento, no se ha detenido a nadie.",
+        "La hipótesis inicial de vínculo con el crimen organizado ha sido descartada; se baraja que el sicario actuó por encargo de un cliente."
+      ],
+      "conclusion": "El hecho evidencia un aumento de la violencia armada en la zona y la vulnerabilidad de profesionales de alto perfil, lo que obliga a reforzar la seguridad en establecimientos privados."
+    },
+    {
+      "title": "Espresso, café de filtro y Cold Brew en una sola máquina: esta cafetera Ninja mini es un chollo hoy",
+      "url": "https://www.xataka.com/seleccion/espresso-cafe-filtro-cold-brew-sola-maquina-esta-cafetera-ninja-mini-chollo-hoy",
+      "image": "https://i.blogs.es/eea62d/cafetera-ninja-luxe-mini/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "Amazon está cerrando la Fiesta de Ofertas Prime y, antes de la medianoche, ofrece la cafetera Ninja Luxe Café Mini con un descuento del 28 %. El aparato combina extracción de espresso, café de filtro y Cold Brew en un solo equipo compacto, y solo pueden comprarlo usuarios Prime o quienes activen la prueba gratuita de 30 días.",
+      "datos": [
+        "Precio recomendado: 499,99 euros",
+        "Precio con descuento: 359,99 euros (28 % de rebaja)",
+        "Oferta válida hasta la medianoche del día de la publicación",
+        "Disponible exclusivamente para clientes Prime o mediante prueba gratuita de 30 días",
+        "Incluye molinillo cónico ajustable y espumador automático de leche",
+        "Sistema de extracción 3 en 1 que adapta presión, temperatura y tiempo según la bebida"
+      ],
+      "conclusion": "La promoción permite adquirir una máquina superautomática con múltiples funciones a un precio significativamente reducido, lo que puede optimizar el espacio y la productividad en una oficina o hogar sin comprometer la calidad del café."
+    },
+    {
+      "title": "La forma más económica de llevar WiFi 6 a cualquier habitación es este amplificador Mercusys rebajado hoy",
+      "url": "https://www.xataka.com/seleccion/forma-economica-llevar-wifi-6-a-cualquier-habitacion-este-amplificador-mercusys-rebajado-hoy",
+      "image": "https://i.blogs.es/2106c5/repetidor-mercusys/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "El extensor Mercusys ME1500X, compatible con Wi‑Fi 6, se ha puesto a la venta en la Fiesta de Ofertas Prime de Amazon a 25,49 €, dirigido a usuarios que necesitan mejorar la cobertura en habitaciones alejadas del router sin cambiar de operador.",
+      "datos": [
+        "Precio de 25,49 € en la oferta Prime",
+        "Velocidad máxima de 1.201 Mbps en la banda de 5 GHz y 200 Mbps en 2,4 GHz",
+        "Puerto Ethernet RJ45 Gigabit de 1.000 Mbps",
+        "Soporta EasyMesh para crear una red Mesh con un solo SSID",
+        "Incluye modo Punto de Acceso (AP) para conexión por cable",
+        "No recomendado para viviendas superiores a 150 m², donde conviene un sistema Mesh de varios nodos"
+      ],
+      "conclusion": "Esta solución barata permite eliminar zonas muertas en casas medianas, pero su alcance limitado la hace inadecuada para grandes superficies, por lo que el lector debe evaluar el tamaño de su vivienda antes de comprar."
+    },
+    {
+      "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Intelligent-UI.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "source": "The Verge",
+      "language": "en",
+      "que_paso": "OpenAI has introduced an Intelligent UI feature that accompanies the rollout of GPT‑6, allowing ChatGPT to embed interactive visuals such as diagrams, charts, forms, and buttons directly within its replies. The update, available to all users, expands the model’s capabilities to generate in‑line tools like calculators or games while also improving web‑search responsiveness and safety resistance.",
+      "datos": [
+        "The Intelligent UI feature is rolling out to all ChatGPT users alongside GPT‑6.",
+        "OpenAI released Sol and Luna versions of GPT‑6 for ChatGPT.",
+        "The update enables in‑line generation of diagrams, charts, forms, and tappable buttons.",
+        "Examples shown include a seven‑speed bicycle diagram with interactive part‑highlight buttons and a Mahjong tutorial with scrollable tile visuals.",
+        "OpenAI states GPT‑6 provides faster partial answers during web searches and shows stronger resistance to safety‑bypass attempts."
+      ],
+      "conclusion": "This integration lets operations teams embed actionable tools directly in conversations, cutting the need for separate applications and accelerating decision‑making."
+    },
+    {
+      "title": "Texas Plans Execution After Botched Lethal Injection in Tennessee",
+      "url": "https://www.nytimes.com/2026/10/07/us/texas-execution-lethal-injection.html",
+      "image": "https://static01.nyt.com/images/2026/10/07/multimedia/07nat-texas-execution-1-vblc/07nat-texas-execution-1-vblc-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "Texas announced it will move ahead with an execution shortly after Tennessee experienced a failed lethal‑injection attempt, prompting legal scrutiny. Jamaal Howard’s attorneys are demanding details about the drug used in that botched execution, arguing it could affect the upcoming Texas case.",
+      "datos": [
+        "Texas announced an execution will proceed following Tennessee's botched lethal injection",
+        "The Tennessee execution attempt occurred last week, in early October 2026",
+        "Jamaal Howard is a Texas death‑row inmate whose lawyers are seeking information about the lethal‑injection drug",
+        "The drug in question is the same medication used in Tennessee's failed execution",
+        "Tennessee officials described the recent execution as \"botched\" and it sparked public controversy"
+      ],
+      "conclusion": "The situation underscores heightened legal challenges to lethal‑injection protocols and suggests Texas may face similar scrutiny, impacting how future executions are administered."
+    },
+    {
+      "title": "Carrefour tiene la solución perfecta para no pasar frío en casa este invierno (ni calor en verano): un aire acondicionado sin obras",
+      "url": "https://www.xataka.com/seleccion/carrefour-tiene-solucion-perfecta-para-no-pasar-frio-casa-este-invierno-calor-verano-aire-acondicionado-obras",
+      "image": "https://i.blogs.es/f40982/carrefour/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "Carrefour ha puesto a la venta un aire acondicionado portátil con bomba de calor que se instala sin obras y funciona tanto para enfriar como para calentar la vivienda. El dispositivo está pensado para usuarios que viven en pisos de alquiler o que no pueden modificar la estructura de sus ventanas. Incluye conectividad Wi‑Fi y control mediante asistentes de voz.",
+      "datos": [
+        "Precio de venta: 399 euros con envío gratuito a domicilio.",
+        "Capacidad frigorífica: 3 520 frigorías.",
+        "Potencia calorífica: 3 300 W.",
+        "Acondiciona estancias de hasta 35 m².",
+        "Conectividad Wi‑Fi compatible con Google Assistant y Alexa.",
+        "Incluye kit completo de sellado y tubo corrugado para instalación en ventana sin necesidad de técnicos."
+      ],
+      "conclusion": "Esta solución permite climatizar espacios sin incurrir en obras, lo que reduce costes y tiempos de adaptación, especialmente útil para alquileres y operaciones que requieren flexibilidad."
+    },
+    {
+      "title": "Mujeres desnudas para promocionar una empresa de almejas en una feria de Vigo",
+      "url": "https://elpais.com/espana/2026-10-07/mujeres-desnudas-para-promocionar-una-empresa-de-almejas-en-una-feria-de-vigo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/QKQXRI2RYRPB7OLSUB2HA3CZS4.jpg?auth=5bf01bf5decdc806733d4221ee52dfdfd9f6f2d463adfb706fcbbd43a5be3ec8&width=1200",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "La empresa italiana La Selvaggia presentó su stand en la feria internacional Conxemar de productos del mar congelados en Vigo, usando imágenes de mujeres desnudas y un eslogan para promocionar sus almejas, lo que generó polémica en redes y medios locales.",
+      "datos": [
+        "La Selvaggia anunció su participación en Conxemar el 18 de septiembre de 2026",
+        "Conxemar celebra su 27ª edición y se celebra de martes a viernes en Vigo",
+        "En Instagram la firma publicó una foto de una modelo desnuda sobre redes de pescar y anunció un calendario “de contenido salvaje” para 2027",
+        "El stand muestra el eslogan “no todas las almejas son iguales” y folletos con la misma imagen",
+        "Tras la inauguración, la empresa difundió una foto de una empleada con un mono azul ajustado con el texto “Siempre lista para darte la bienvenida al puesto”"
+      ],
+      "conclusion": "El uso de imágenes sexualizadas como herramienta de marketing en un sector tradicional como el de los mariscos puede dañar la reputación de la empresa y distraer la atención del producto, lo que sugiere que la estrategia publicitaria necesita alinearse con valores de respeto y profesionalismo para evitar controversias."
+    },
+    {
+      "title": "Russia Says It Found No ‘Emergency’ in Plague Lab",
+      "url": "https://www.nytimes.com/2026/10/07/world/europe/russia-plague-us-trump-state-department.html",
+      "image": "https://static01.nyt.com/images/2026/10/07/multimedia/07int-russia-plague-tmqh/07int-russia-plague-tmqh-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "Russian officials reported that an investigation into the death of a laboratory worker found no emergency situation, noting the worker had been vaccinated against plague. At the same time, U.S. authorities pressed for additional data on the incident.",
+      "datos": [
+        "The deceased was a lab employee at a Russian plague research facility",
+        "Russian health officials declared there was no emergency following the death",
+        "The worker had received a plague vaccine prior to the incident",
+        "U.S. officials publicly requested more data on the case"
+      ],
+      "conclusion": "The finding eases immediate public health concerns but the U.S. demand for data underscores ongoing biosecurity scrutiny and the need for transparent reporting."
+    },
+    {
+      "title": "Jaguar sí apuesta por los eléctricos de lujo: lanza el Type 01 desde 153.000 euros",
+      "url": "https://www.eldiario.es/motor/novedades/jaguar-si-apuesta-electricos-lujo-lanza-type-01-153-000-euros_1_13570320.html",
+      "image": "https://static.eldiario.es/clip/d73231dc-6654-48e3-bd43-4b0e143a50fd_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "que_paso": "Jaguar, bajo la propiedad de Tata Motors, presentó en Nueva York el Type 01, un GT eléctrico de cuatro puertas que marcará la transición de la marca a una única línea totalmente eléctrica. La producción comenzará en 2027 en Solihull, mientras que los componentes eléctricos se fabricarán en Wolverhampton y los paneles de carrocería en Halewood. Con este modelo, Jaguar se diferencia de sus rivales de lujo que aún mantienen motores de combustión o retrasan sus versiones eléctricas.",
+      "datos": [
+        "Precio de partida: 130.000 libras (£), equivalentes a 153.000 euros al tipo de cambio actual.",
+        "Batería utilizable de 118 kWh con arquitectura eléctrica de 850 V.",
+        "Autonomía EPA estimada de 644 km y autonomía en carretera de hasta 515 km.",
+        "Carga rápida de hasta 350 kW, recuperando 321 km de autonomía en 13 minutos.",
+        "Potencia máxima de 1.030 CV y 1.365 Nm de par, 0‑100 km/h en 3,2 s.",
+        "Producción prevista para 2027 en la planta de Solihull; unidades de propulsión en Wolverhampton y paneles de carrocería en Halewood, Merseyside."
+      ],
+      "conclusion": "El Type 01 posiciona a Jaguar como la única marca de JLR totalmente eléctrica, apuntando al segmento más exclusivo del mercado de lujo y reforzando su cadena de suministro británica, lo que implica oportunidades y retos operativos para la gestión de producción y la adopción de tecnologías de carga ultra‑rápida."
+    },
+    {
+      "title": "Lleva 12 años intentando recuperar 8.000 bitcoin de la basura, ahora su plan es crear otra criptomoneda",
+      "url": "https://www.xataka.com/criptomonedas/lleva-12-anos-intentando-recuperar-8-000-bitcoin-basura-ahora-su-plan-crear-otra-criptomoneda",
+      "image": "https://i.blogs.es/ecf3ce/vertedero-bitcoin-portada/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "James Howells, quien perdió en 2013 un disco duro con la clave de 8.000 bitcoin, abandonó tras doce años de intentos y de batallas judiciales contra el ayuntamiento de Newport, y anunció que crear una nueva criptomoneda, Ceiniog Coin, sería su nuevo proyecto para darle un uso simbólico a la fortuna inaccesible. El plan consiste en emitir 800.000 millones de tokens que representen cada satoshi de los bitcoins enterrados, aunque el lanzamiento previsto para finales de 2025 aún no se ha materializado.",
+      "datos": [
+        "En 2013 Howells tiró a la basura un disco duro que contenía la clave de 8.000 bitcoin, equivalentes a casi 600 millones de euros a la cotización actual.",
+        "El vertedero donde se encuentra el disco duro está en Newport, cerca de Cardiff, y contiene aproximadamente 350.000 toneladas de residuos.",
+        "La justicia británica desestimó sus demandas contra el ayuntamiento en enero de 2025 y confirmó la decisión en marzo de 2025, citando la Ley de Control de la Contaminación de 1974.",
+        "El plazo de prescripción de seis años expiró en 2019, pero Howells inició acciones legales solo en 2024.",
+        "Howells anunció en X la creación de Ceiniog Coin con 800.000 millones de tokens INI, uno por cada satoshi de los 8.000 bitcoin perdidos.",
+        "Aunque existen tokens llamados Ceiniog Coin en Solana y Ethereum, sus características difieren de las anunciadas por Howells y aún no se ha lanzado el proyecto previsto para finales de 2025."
+      ],
+      "conclusion": "El caso subraya los riesgos de perder claves de criptomonedas y las limitaciones legales para intentar recuperarlas, mientras que la propuesta de una nueva moneda muestra cómo los afectados pueden intentar capitalizar pérdidas mediante iniciativas simbólicas."
+    },
+    {
+      "title": "La tortuga ‘Jonathan’ tiene 194 años y en sus genes se esconden los secretos de la longevidad",
+      "url": "https://elpais.com/ciencia/2026-10-07/la-tortuga-jonathan-tiene-194-anos-y-en-sus-genes-se-esconden-los-secretos-de-la-longevidad.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/BMOK7O6A75D53DFQUDMDURWRK4.jpeg?auth=47040b503734abd1994e8763f6cffdc301e8c912e8e18ef453d491a99c788640",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Se ha revelado que la tortuga terrestre conocida como Jonathan, con 194 años, posee una combinación única de variantes genéticas que le permiten un envejecimiento más eficaz, según el estudio publicado.",
+      "datos": [
+        "Jonathan tiene 194 años",
+        "Es el animal terrestre más longevo registrado",
+        "Su genoma contiene una combinación de variantes genéticas específicas",
+        "Estas variantes están asociadas a un envejecimiento más eficaz"
+      ],
+      "conclusion": "El hallazgo sugiere que los mecanismos genéticos de longevidad pueden estudiarse en especies extremas, ofreciendo pistas para investigaciones sobre envejecimiento y salud humana."
+    },
+    {
+      "title": "Los Reyes invitan a Palacio a representantes de la sociedad civil de Ceuta y Melilla en la recepción del 12 de octubre",
+      "url": "https://elpais.com/espana/2026-10-07/los-reyes-invitan-a-palacio-a-representantes-de-la-sociedad-civil-de-ceuta-y-melilla-en-la-recepcion-del-12-de-octubre.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/WZQSNDN74VFZFFVPFC2IKOTO3Y.jpg?auth=6dc8bd41e474ab795735f92ef125ab4461a75df01eaf481a1ad1048f748c989e&width=1200",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Los Reyes acudirán a la recepción del 12 de octubre en el Palacio Real acompañados de representantes de la sociedad civil de Ceuta y Melilla, y continuarán su agenda con visitas oficiales a ambas ciudades los días 13 y 14, donde tratarán la crisis migratoria y la seguridad fronteriza. La iniciativa se produce tras la llegada de más de 80.000 personas por la frontera del Tarajal a finales de julio y en un contexto electoral anticipado para el 29 de noviembre.",
+      "datos": [
+        "Los Reyes invitarán a representantes de la sociedad civil de Ceuta y Melilla a la recepción del 12 de octubre en el Palacio Real",
+        "Más de 80.000 personas cruzaron la frontera del Tarajal en Ceuta los 30 y 31 de julio",
+        "La agenda real incluye visitas a Ceuta y Melilla los 13 y 14 de octubre",
+        "Felipe VI llevó el tema de la defensa de fronteras a Finlandia, donde el primer ministro Alexander Stubb reconoció la presión sobre España",
+        "El presidente Pedro Sánchez adelantó las elecciones al 29 de noviembre",
+        "Alrededor del 40% de la población de Ceuta y Melilla profesa el Islam"
+      ],
+      "conclusion": "La presencia de la Casa Real subraya la urgencia de abordar la crisis migratoria antes de las elecciones, lo que podría influir en futuras políticas de seguridad fronteriza y relaciones con Marruecos."
+    },
+    {
+      "title": "The New ChatGPT Is More Show Than Tell",
+      "url": "https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/",
+      "image": "https://media.wired.com/photos/6ac65e502270cfac88fdd69c/191:100/w_1280,c_limit/Intelligent%20UI.png",
+      "source": "Wired",
+      "language": "en",
+      "que_paso": "OpenAI rolled out an \"Intelligent UI\" for ChatGPT that adds interactive visual components—such as diagrams, sliders and seat‑map explorers—to its answers. The feature, built on the new GPT‑6 model, is being released to paid users immediately and to free users the following day, following similar generative UI moves by Google. This marks a shift toward more multimodal, user‑customized chatbot experiences.",
+      "datos": [
+        "OpenAI announced the Intelligent UI update on Wednesday, October 7, 2026.",
+        "The new UI is powered by the GPT‑6 model, which is available to paid users on October 8, 2026 and to free users on October 9, 2026.",
+        "Aarush Selvan, product manager at OpenAI, said a design team evaluates when visual elements add value.",
+        "The rollout targets over one billion ChatGPT users.",
+        "Google introduced a similar \"generative UI\" for Search earlier in 2026.",
+        "The Intelligent UI can generate interactive diagrams, calculators with sliders, and seat‑map explorers."
+      ],
+      "conclusion": "The update demonstrates a concrete move toward multimodal AI interfaces, giving users richer, actionable visual data and signaling that future chatbot design will prioritize interactive, context‑specific outputs."
+    },
+    {
+      "title": "From Iran to the U.K., Trump Is Being Forced Into Retreat",
+      "url": "https://www.nytimes.com/2026/10/07/us/politics/trump-iran-retreat.html",
+      "image": "https://static01.nyt.com/images/2026/10/07/multimedia/07dc-prexy-retreat-jkvw/07dc-prexy-retreat-jkvw-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "A conflict that was launched to display U.S. military reach has instead undermined that goal, leading former President Donald Trump to pull back his diplomatic and political initiatives in Iran and the United Kingdom. The reversal reflects the war’s unintended consequences for American influence.",
+      "datos": [
+        "Donald Trump, former U.S. president",
+        "Iran, the Middle‑East nation cited as a theater of the conflict",
+        "United Kingdom, the European country mentioned in the retreat",
+        "The war was intended to demonstrate the reach of American power",
+        "The outcome forced a retreat of Trump’s stance"
+      ],
+      "conclusion": "The episode shows that aggressive power projection can backfire, warning policymakers that strategic overreach may erode influence and demand rapid course corrections."
+    },
+    {
+      "title": "Save Over $600 on Last-Minute Prime Day Mattress and Bedding Deals (2026)",
+      "url": "https://www.wired.com/story/best-prime-day-mattress-deals-10-07-2026/",
+      "image": "https://media.wired.com/photos/6ac41618ef1ec7f74e8fe249/191:100/w_1280,c_limit/Amazon%20Prime%20Day%20Top%20Art%20102026%20Prime%20Day%20Mattress%20Deals%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
+      "source": "Wired",
+      "language": "en",
+      "que_paso": "Amazon's Prime Big Deal Days are concluding tonight (Oct 8, 2026), and the retailer is promoting last‑minute discounts on mattresses, sheets and sleep accessories. The article lists several WIRED‑tested brands—Helix, Nolah, Bbhugme, Slumber Cloud, Blueair, Turtl and Snooz—and highlights a 35 % off mattress and over‑50 % off cooling sheets as the top savings. These offers are presented as a way to save more than $600 compared with regular prices, with free fast Prime shipping for queen‑size items.",
+      "datos": [
+        "Prime Big Deal Days end on October 8, 2026 (tonight)",
+        "The article was updated at 2 p.m. ET on October 7, 2026 with new picks from Helix, Nolah, Bbhugme, Slumber Cloud, Blueair, Turtl, and Snooz",
+        "A featured mattress is offered at a 35 % discount, the lowest price until the holiday season",
+        "Cooling sheets are discounted by more than 50 %",
+        "Savings on mattresses and bedding can exceed $600 compared with regular prices",
+        "All listed mattress and sheet prices refer to queen‑size models"
+      ],
+      "conclusion": "The steep, time‑limited discounts provide a cost‑effective way to upgrade employee or personal sleep environments, freeing operational budget for other priorities; they also show Amazon leveraging high‑margin home goods to boost Prime Day revenue."
+    },
+    {
+      "title": "Llega a Lidl el viernes 9 de octubre (por 9,99 euros) el reloj radiocontrolado con termómetro ideal para cocinas y baños",
+      "url": "https://www.xataka.com/seleccion/llega-a-lidl-viernes-9-octubre-9-99-euros-reloj-radiocontrolado-termometro-ideal-para-cocinas-banos",
+      "image": "https://i.blogs.es/59a3ed/novedad-lidl-reloj-automatico/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "Lidl comenzó a vender a partir del viernes 9 de octubre relojes radiocontrolados que ajustan automáticamente el horario de verano/invierno, dirigidos a cocinas y baños. Estos dispositivos sustituyen la necesidad de retrasar la hora manualmente en la madrugada del 24 al 25 de octubre.",
+      "datos": [
+        "Precio de venta en Lidl: 9,99 €.",
+        "Fecha de inicio de venta: viernes 9 de octubre de 2026.",
+        "Disponibles tres modelos: dos analógicos con pantalla de temperatura y uno digital con hora, fecha, día, temperatura y humedad.",
+        "Cada unidad incluye cuatro ventosas para fijación en azulejos.",
+        "Amazon ofrece modelos similares a aproximadamente 25 €."
+      ],
+      "conclusion": "El reloj elimina el ajuste manual del cambio de horario y ofrece información ambiental, lo que ahorra tiempo y reduce errores en entornos húmedos como cocinas y baños."
+    },
+    {
+      "title": "Cosecha de oro del ciclismo joven español en los Europeos contrarreloj",
+      "url": "https://elpais.com/deportes/ciclismo/2026-10-07/cosecha-de-oro-del-ciclismo-joven-espanol-en-los-europeos-contrarreloj.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/D35VMO353JFCNIG3Q55L7DCORA.JPG?auth=00cbb66e136e68b51338af13ef1580b82878c46c830c547de4435470fa007a74",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Alejandra Neira, Benjamín Noval y Héctor Álvarez, todos españoles, ganaron los títulos continentales en la prueba contrarreloj de los Campeonatos Europeos celebrados en Ljubljana, cada uno en su categoría (junior femenino, junior masculino y sub‑23 masculino).",
+      "datos": [
+        "Alejandra Neira se proclamó campeona junior femenina en contrarreloj",
+        "Benjamín Noval se proclamó campeón junior masculino en contrarreloj",
+        "Héctor Álvarez se proclamó campeón sub‑23 masculino en contrarreloj",
+        "Los tres ciclistas compitieron representando a España en los Europeos de ciclismo contrarreloj en Ljubljana"
+      ],
+      "conclusion": "Este triple oro evidencia la solidez del programa de desarrollo del ciclismo joven en España y sugiere un futuro prometedor para la élite nacional."
     }
   ]
 }
