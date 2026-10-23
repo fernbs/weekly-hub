@@ -1,432 +1,741 @@
 {
-  "generated": "2026-10-22T00:47:32.899866",
-  "count": 59,
+  "generated": "2026-10-23T00:43:34.326197",
+  "count": 51,
   "articles": [
     {
-      "title": "YouTube says it isn’t testing hiding the dislike button",
-      "url": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK092_03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "title": "Etsy is cracking down on AI slop listings",
+      "url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-5.03.44-PM.png?quality=90&strip=all&crop=0%2C7.8921063654804%2C100%2C66.941443560245&w=1200",
       "source": "The Verge",
       "language": "en",
-      "que_paso": "YouTube clarified that it is not hiding the dislike button for regular viewers; instead, a new interface places the dislike button behind the three‑dot menu on creators’ own uploaded videos, while creators can still access full counts in Studio. The statement was issued after a story and screenshots posted on X sparked speculation about a test.",
+      "que_paso": "Etsy announced new rules that force sellers to include an unedited photo of the actual product as the primary image and to label any AI‑generated images, aiming to curb misleading AI‑created listings.",
       "datos": [
-        "YouTube spokesperson told The Verge on Wednesday, Oct 22, 2026, that the platform is not testing hiding the dislike button for users.",
-        "The new UI moves the dislike button behind the three‑dot menu only on creators’ own uploaded videos.",
-        "Creators can still view full dislike counts in YouTube Studio analytics.",
-        "YouTube hid public dislike counts on all videos in 2021 to reduce harassment.",
-        "The dislike button was removed from Shorts earlier in 2026.",
-        "The rumor originated from at least two X users who posted screenshots on Tuesday, Oct 21, 2026."
+        "The primary listing photo must be an unedited image of the item against a real background",
+        "All other photos may be edited only if the final image still accurately represents the physical product",
+        "If Etsy’s system flags a potential AI‑generated image, a pop‑up asks the seller to confirm its origin",
+        "Listings created by bots are now prohibited",
+        "Sellers of functional guides must provide an actual result made from the guide and cannot use AI‑generated content",
+        "AI‑generated artwork can remain on Etsy only if the seller explicitly discloses its AI origin"
       ],
-      "conclusion": "The change does not affect user experience but requires creators to use Studio for dislike metrics, so monitoring engagement should continue through existing analytics tools."
+      "conclusion": "The policy seeks to protect buyer confidence and forces sellers to adjust their image workflows, potentially increasing compliance costs but reducing deceptive listings."
     },
     {
-      "title": "Why a Pillar of Christian Journalism is in Turmoil",
-      "url": "https://www.nytimes.com/2026/10/21/us/christianity-today-magazine-layoffs.html",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21nat-christianity-today--01-gqtb/21nat-christianity-today--01-gqtb-mediumSquareAt3X.jpg",
+      "title": "Justice Dept. Opens Inquiry Into Corey Lewandowski",
+      "url": "https://www.nytimes.com/2026/10/22/us/politics/corey-lewandowski-justice-dept-inquiry.html",
+      "image": "https://static01.nyt.com/images/2026/03/21/multimedia/21DC-Lewandowski/21dc-corey-hp-ctmj-mediumSquareAt3X.jpg",
       "source": "New York Times",
       "language": "en",
-      "que_paso": "Christianity Today’s recent leadership change has led to a wave of departures, with roughly half the newsroom exiting or being terminated. Former staff say the new executives are curbing independent reporting, creating internal tension.",
+      "que_paso": "The Justice Department has launched an investigation focusing on Corey Lewandowski, a former senior adviser to Donald Trump. The probe concerns possible misconduct that may have occurred while Trump was in his second presidential term, though the department has not released details.",
       "datos": [
-        "Christianity Today is a long‑standing outlet for Christian journalism",
-        "Former employees report that the new leadership is pushing back on independent journalism",
-        "Approximately 50% of the staff have left or been laid off",
-        "The turnover occurred over a 14‑month period"
+        "The U.S. Justice Department announced an inquiry into Corey Lewandowski.",
+        "Lewandowski served as a senior adviser to former President Donald Trump.",
+        "The investigation relates to actions taken during Trump’s second term (2017‑2021).",
+        "The Justice Department has not disclosed specifics of the inquiry.",
+        "Investigations of Trump allies from the second term are described as rare."
       ],
-      "conclusion": "The loss of experienced journalists threatens the outlet’s credibility and may diminish independent Christian news coverage, highlighting the risk that leadership shifts pose to niche media operations."
+      "conclusion": "The case signals that former administration officials can face federal scrutiny years later, highlighting the need for rigorous compliance in political operations."
     },
     {
-      "title": "Pierce The Veil Launch ‘Hot Topic Live’ Series With Three-Song Session",
-      "url": "https://www.theprp.com/2026/10/21/news/pierce-the-veil-launch-hot-topic-live-series-with-three-song-session/",
-      "image": "https://www.theprp.com/app/uploads/2026/10/piercetheveillarge-1200x675.webp",
-      "source": "The PRP",
-      "language": "en",
-      "que_paso": "Pierce The Veil recorded a three‑song live set at Hot Topic’s Hollywood flagship store, becoming the inaugural act in the retailer’s new “Hot Topic Live” series. The performance was filmed for online streaming and featured songs from their recent catalog.",
-      "datos": [
-        "Pierce The Veil is a multi‑platinum post‑hardcore band.",
-        "The “Hot Topic Live” series was launched at Hot Topic’s flagship store in Hollywood, California.",
-        "The band is the first artist to participate in the “Hot Topic Live” series.",
-        "Vocalist/guitarist Vic Fuentes said the band has “grown up with Hot Topic since the very beginning.”",
-        "The setlist comprised three songs: “So Far, So Fake,” “Bulls In The Bronx,” and “Pass The Nirvana.”"
-      ],
-      "conclusion": "The collaboration demonstrates how niche retailers can create exclusive live‑stream content to deepen engagement with alternative‑music fans, a model other brands could replicate for targeted audience outreach."
-    },
-    {
-      "title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
-      "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKE001_STK086_Tesla_Robotaxi_3_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "language": "en",
-      "que_paso": "During its third‑quarter 2026 earnings call, Tesla announced that owners will be able to opt their vehicles into the company’s robotaxi network starting in the second quarter of 2027, with VP for Autonomous Driving Ashok Elluswamy outlining the software rollout. The pledge follows a history of delayed autonomous‑driving promises from Elon Musk and faces significant regulatory obstacles.",
-      "datos": [
-        "Tesla set a target for Q2 2027 to let owners add their cars to the robotaxi fleet, as stated by VP Ashok Elluswamy on the earnings call.",
-        "Over 75% of new Tesla buyers selected Full Self‑Driving (Supervised) this quarter, a rise of almost 20 percentage points from the prior quarter.",
-        "Tesla currently operates a few hundred robotaxis in Texas and Florida, plus several dozen fully driverless Cybercabs in Austin.",
-        "The new Robotaxi safety website reports 3.3 million miles driven autonomously, up from 380,000 unsupervised miles reported in July.",
-        "Tesla’s vehicle sales fell this quarter, revenue flatlined and profits dipped, despite the FSD uptake."
-      ],
-      "conclusion": "The announced 2027 timeline signals a potential new revenue stream but hinges on overcoming regulatory approval and past delivery delays, so operational planning should treat the rollout as tentative."
-    },
-    {
-      "title": "Newly Remastered Reissues Of Obituary’s “Xecutioner’s Return” & “Darkest Day” Due In December",
-      "url": "https://www.theprp.com/2026/10/21/news/newly-remastered-reissues-of-obituarys-xecutioners-return-darkest-day-due-in-december/",
-      "image": "https://www.theprp.com/app/uploads/2026/07/obituarybandlarge-1200x675.webp",
-      "source": "The PRP",
-      "language": "en",
-      "que_paso": "Obituary announced that their 2007 album “Xecutioner’s Return” and 2009’s “Darkest Day” will be issued as newly remastered versions in December, available across physical and digital formats. The band’s statement emphasizes excitement about bringing the long‑out‑of‑print records back for fans, including the late bassist Frank Watkins and former guitarist Ralph Santolla.",
-      "datos": [
-        "The remastered releases are scheduled for December 2026.",
-        "Both albums will be offered as LP, 2‑LP, CD, cassette, and digital downloads.",
-        "Physical pre‑orders are being handled through Relapse Records.",
-        "“Darkest Day” will include two bonus tracks: the 2008 version of “Slowly We Rot” and a cover of Celtic Frost’s “Dethroned Emperor.”",
-        "The bonus tracks originally appeared on Obituary’s 2008 EP “Left To Die.”",
-        "Band members quoted: “We are super excited about the remastered reissues… it will give everyone an opportunity to enjoy and remember Frank Watkins and the final OB recordings with him.”"
-      ],
-      "conclusion": "The reissues revive two key catalog items, potentially boosting catalog sales and re‑engaging the death‑metal audience, a reminder that legacy content can generate fresh revenue when refreshed."
-    },
-    {
-      "title": "Anthropic Joins the A.I. Agent Race With Claude Duet",
-      "url": "https://www.nytimes.com/2026/10/21/technology/anthropic-ai-agent-claude-duet.html",
-      "image": "https://static01.nyt.com/images/2026/10/21/business/21biz-anthropic-agent-handout-02/21biz-anthropic-agent-handout-02-mediumSquareAt3X.png",
-      "source": "NYT Tech",
-      "language": "en",
-      "que_paso": "Anthropic released Claude Duet, an AI agent designed for workplace tasks, entering the competitive field of AI assistants. The tool is still in limited availability and targets business use rather than personal errands.",
-      "datos": [
-        "Claude Duet is the name of Anthropic's new AI agent",
-        "The product is not yet widely available",
-        "It is positioned to compete with OpenAI's agent called dots",
-        "It is positioned to compete with Meta's agent called Muse",
-        "Claude Duet is built specifically for work-related tasks",
-        "The launch expands Anthropic's portfolio beyond its existing Claude models"
-      ],
-      "conclusion": "The entry of Claude Duet intensifies the enterprise AI agent market, signaling more options for businesses seeking specialized automation."
-    },
-    {
-      "title": "Meta Earnings Show Increased A.I. Spending, Even as Cash Pressures Grow",
-      "url": "https://www.nytimes.com/2026/10/21/technology/meta-earnings.html",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21biz-meta-earnings-hfo-1-jzvc/21biz-meta-earnings-hfo-1-jzvc-mediumSquareAt3X.jpg",
+      "title": "Key Trump Health Adviser Resigns Ahead of Midterm Elections",
+      "url": "https://www.nytimes.com/2026/10/22/us/politics/calley-means-resigns-rfk-trump.html",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22dc-means-mkpj/22dc-means-mkpj-mediumSquareAt3X.jpg",
       "source": "New York Times",
       "language": "en",
-      "que_paso": "Meta’s latest earnings release revealed that its accelerated AI investment pushed its cash flow into negative territory, prompting the company to seek additional financing. To address the shortfall, Meta announced it will create a new class of stock to raise capital.",
+      "que_paso": "Calley Means, a senior health adviser to President Trump, announced his resignation, citing frustration with the stalled MAHA agenda; his departure comes as he had previously facilitated a political bridge between Trump and Robert F. Kennedy Jr. and advocated for food‑policy reforms.",
       "datos": [
-        "Meta reported negative cash flow in the quarter covered by the earnings release.",
-        "The company’s AI spending increased relative to prior periods.",
-        "Meta plans to issue a new class of stock to raise additional funds.",
-        "Meta is a Silicon Valley‑based technology giant.",
-        "The announcement was made during Meta’s earnings call."
+        "Calley Means served as President Trump's health adviser.",
+        "He previously helped unite Robert F. Kennedy Jr. with President Trump.",
+        "Means advocated for food reforms during his tenure.",
+        "He resigned citing stalled progress on the MAHA agenda.",
+        "The resignation was announced ahead of the 2026 midterm elections."
       ],
-      "conclusion": "The move highlights that rising AI costs are straining Meta’s liquidity, and the new equity issuance could dilute existing shareholders while providing needed cash."
+      "conclusion": "The exit removes a key liaison between the administration and a high‑profile anti‑vaccine figure, potentially weakening food‑policy initiatives and altering the health narrative before the upcoming elections."
     },
     {
-      "title": "U.S. and Israel Draw Up Plans for Renewed Strikes on Iran After Elections",
-      "url": "https://www.nytimes.com/2026/10/21/us/politics/us-israel-renewed-iran-strikes.html",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21dc-iran-strikes-01-cqpg/21dc-iran-strikes-01-cqpg-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "The United States and Israel are reportedly drafting plans to resume air strikes against Iran after recent elections, even though President Trump has repeatedly cancelled any move toward major combat.",
-      "datos": [
-        "The United States and Israel are coordinating plans for renewed strikes on Iran.",
-        "The planning is taking place after recent elections (the article does not specify which country’s elections).",
-        "President Donald Trump has repeatedly cancelled plans for a return to major combat.",
-        "The article notes that renewed hostilities may not be more successful than the war’s first phase."
-      ],
-      "conclusion": "The situation highlights political volatility and past cancellations, implying that any new strike effort may offer limited strategic gain while increasing operational risk for the U.S. and Israel."
-    },
-    {
-      "title": "FCC chair warns media not to run the \"fake polls\" Trump keeps complaining about",
-      "url": "https://arstechnica.com/tech-policy/2026/10/fcc-chair-warns-media-not-to-run-the-fake-polls-trump-keeps-complaining-about/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/trump-carr-1152x648-1734382746.jpg",
-      "source": "Ars Technica",
-      "language": "en",
-      "que_paso": "FCC Chairman Brendan Carr used his X account on October 22, 2026 to tell broadcasters to stop airing polls he called “fake,” tying the warning to President Trump’s ongoing complaints about media poll coverage. The admonition follows a recent hoax by a small polling firm and Trump’s August demand that the FCC punish an NBC journalist over election‑endorsement comments.",
-      "datos": [
-        "Brendan Carr posted the warning on X on October 22, 2026.",
-        "President Trump demanded FCC action against an NBC journalist in August 2026.",
-        "A small polling outfit was exposed as a hoax in the week of October 2026.",
-        "Former FCC chairs Tom Wheeler (Democrat) and Mark Fowler (Republican) issued a joint statement on October 22, 2026 criticizing Carr’s warning.",
-        "Anna Gomez is the sole Democratic commissioner on the current FCC."
-      ],
-      "conclusion": "The episode highlights a potential regulatory push that could chill broadcast reporting on polls, raising concerns about FCC overreach and its impact on election‑related news coverage."
-    },
-    {
-      "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
-      "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/xcloud3-1152x648.jpg",
-      "source": "Ars Technica",
-      "language": "en",
-      "que_paso": "Microsoft introduced Xbox Cloud Playtime, a metered streaming option where users pay between $0.24 and $0.40 per hour for games they already own, with purchased hours remaining until used. The model contrasts with the all‑access Xbox Game Pass and revives an arcade‑style pay‑per‑use approach.",
-      "datos": [
-        "Cloud Playtime rates are advertised at $0.24 to $0.40 per hour.",
-        "Purchased playtime does not expire; a 50‑hour pack stays available until fully used.",
-        "Xbox Game Pass includes a limited amount of monthly streaming for hundreds of games as part of its subscription.",
-        "Google’s Stadia service shut down in 2022, and Google refunded all purchases.",
-        "Sony’s PlayStation Now in 2014 charged $30 for 90 days of streaming, later folded into the $20/month (or $160/year) PlayStation Plus Premium tier.",
-        "Xbox Insiders can test free, ad‑supported streams of owned games, while paid Cloud Playtime users receive shorter wait times and higher‑quality streams."
-      ],
-      "conclusion": "The pay‑per‑hour model gives gamers granular cost control but adds ongoing fees on top of game purchases, potentially limiting adoption compared with subscription‑based services."
-    },
-    {
-      "title": "Oregon Teacher Disputes Account of Her Heroism During School Shooting",
-      "url": "https://www.nytimes.com/2026/10/21/us/bend-oregon-school-shooting-teacher-hero.html",
-      "image": "https://static01.nyt.com/images/2026/10/18/multimedia/-21nat-bend2/-21nat-bend2-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Teacher Becky Drury, who was initially reported to have protected a student during the Bend, Oregon school shooting, said she was actually shot before she could intervene, contradicting earlier accounts. Her statement challenges the narrative that emerged in media reports immediately after the incident.",
-      "datos": [
-        "Becky Drury is a teacher at the school where the shooting occurred in Bend, Oregon.",
-        "The incident is described as a deadly school shooting.",
-        "Drury said, “The truth is I was shot before I had any chance to act.”",
-        "Earlier reports claimed she shielded a student, a claim she now disputes.",
-        "The article provides no specific date for the shooting."
-      ],
-      "conclusion": "The correction highlights the importance of verifying eyewitness accounts before publicizing heroism, a practical reminder for operational communication and crisis management."
-    },
-    {
-      "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
-      "url": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-832621336-1024x648.jpg",
-      "source": "Ars Technica",
-      "language": "en",
-      "que_paso": "Enterprises are allocating a sizable portion of their software budgets to upgrades, migrations and licensing changes that their IT leaders consider detrimental, as revealed by a recent industry survey. The findings show that senior IT decision‑makers across large firms feel forced to accept vendor‑driven changes, which erodes budget flexibility and hampers other initiatives. This pressure stems from the need to maintain support for legacy systems while vendors push new versions.",
-      "datos": [
-        "Enterprises spend an average of 28% of their software budgets on unwanted upgrades, migrations and licensing changes.",
-        "The survey covered 2,018 CIOs and senior IT decision‑makers at companies with at least 10,000 employees and $1 billion in annual revenue.",
-        "95% of respondents said their organization paid for a vendor‑driven upgrade, migration or licensing change in the past three years that they believed would reduce performance, reliability or business value.",
-        "53% reported experiencing such unwanted upgrades more than once.",
-        "36% of respondents said innovation funding was reduced as a result, while 32% cited cuts to human resources, 31% to security, and 31% to customer‑facing investment.",
-        "91% of those surveyed would support legislation giving enterprises protections comparable to long‑term residential tenants."
-      ],
-      "conclusion": "The data expose a hidden cost that drains resources from innovation and critical functions, urging CIOs to negotiate exit terms and tighter controls in software contracts to protect budget and capacity."
-    },
-    {
-      "title": "Meta to create a new class of shares to fund AI push",
-      "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "language": "en",
-      "que_paso": "Meta announced that it will issue a new class of non‑voting shares to raise capital for its artificial‑intelligence initiatives, as well as potential acquisitions and employee compensation, with trading planned for 2027. The announcement was made in its third‑quarter earnings release and coincides with the recent launch of its Muse AI agent.",
-      "datos": [
-        "Meta will issue a new non‑voting share class to fund AI, acquisitions, and employee compensation",
-        "Trading of the new shares is slated to begin in 2027",
-        "CFO Susan Li said the shares will expand funding tools and give flexibility for AI‑driven growth",
-        "Meta projects capital expenditures of $135‑$145 billion for the year, up from a prior $130‑$145 billion estimate",
-        "The Muse AI agent, launched in September, reached 10 million US downloads within a week",
-        "Meta paused Muse’s conversation‑sharing feature after chats were found publicly accessible"
-      ],
-      "conclusion": "The share class gives Meta a dedicated financing tool for AI growth while limiting shareholder dilution, and the Muse rollout underscores the need for robust privacy controls as the company expands its AI services."
-    },
-    {
-      "title": "Conjurer Announce U.S. Headlining Shows With Armed For Apocalypse",
-      "url": "https://www.theprp.com/2026/10/21/news/conjurer-announce-u-s-headlining-shows-with-armed-for-apocalypse/",
-      "image": "https://www.theprp.com/app/uploads/2026/10/conjurerlarge-1200x675.webp",
-      "source": "The PRP",
-      "language": "en",
-      "que_paso": "Conjurer announced a series of U.S. headlining dates on the West Coast, followed by a support slot for Dopethrone in early 2027, and will be joined by sludge‑metal act Armed For Apocalypse for the shows.",
-      "datos": [
-        "Conjurer is a British post‑metal band",
-        "Armed For Apocalypse is a sludge‑metal band",
-        "The headlining shows run from January 2 to January 14, 2026",
-        "Eleven U.S. dates are listed, covering Seattle, Portland, Spokane, Salt Lake City, Chicago, Reno, San Jose, Sacramento, Fresno, Las Vegas and Palmdale",
-        "Venues include Substation, Twilight Cafe, The Big Dipper, Ace’s High, Naked Lounge, Club Underground, The Ritz, Cafe Colonial, Summer Fox Tower, The Usual Place and Transplants Brewing",
-        "Conjurer will open for Dopethrone on a U.S. tour in early 2027"
-      ],
-      "conclusion": ""
-    },
-    {
-      "title": "Trump Asks Supreme Court to Allow Border Wall Construction in Big Bend",
-      "url": "https://www.nytimes.com/2026/10/21/us/politics/trump-supreme-court-border-wall.html",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21dc-scotus-borderwall-kwvl/21dc-scotus-borderwall-kwvl-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Former President Donald Trump petitioned the U.S. Supreme Court to lift a lower‑court injunction that stopped his administration’s plan to build a border wall in Texas’s Big Bend region.",
-      "datos": [
-        "Donald Trump filed a petition with the Supreme Court requesting relief from the injunction",
-        "The petition concerns construction of a border wall in the Big Bend area of Texas",
-        "A lower federal judge had issued an injunction halting the wall project",
-        "The proposed wall would consist of hundreds of miles of barriers"
-      ],
-      "conclusion": "A Supreme Court ruling could enable the wall’s construction, affecting border‑security policy and the scope of executive authority over infrastructure projects."
-    },
-    {
-      "title": "El Pentágono autoriza a la Seguridad Nacional probar un arma no letal para su posible uso en la frontera",
-      "url": "https://elpais.com/us/2026-10-21/el-pentagono-autoriza-a-la-seguridad-nacional-probar-un-arma-no-letal-para-su-posible-uso-en-la-frontera.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/WB5EBNE2PAB5TFDSR627EWBJIA.jpg?auth=0036c379b53b1bf0019a100cf2cbb827e0ce9f2cc725668a4f0d16b28c0749cd",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "El Departamento de Defensa autorizó a la agencia de Seguridad Nacional a iniciar pruebas de un dispositivo de control de multitudes basado en ondas electromagnéticas, con la intención de evaluar su posible despliegue en la frontera sur de EE. UU.",
-      "datos": [
-        "Nombre del arma: “rayo de calor”.",
-        "Tipo: arma no letal de control de multitudes.",
-        "Tecnología: ondas electromagnéticas que generan una intensa sensación de quemadura.",
-        "Autoridad que autoriza: el Pentágono.",
-        "Entidad que realizará las pruebas: Seguridad Nacional de EE. UU.",
-        "Objetivo de uso: posible aplicación en la frontera."
-      ],
-      "conclusion": "La prueba podría transformar la estrategia de seguridad fronteriza, aunque genera interrogantes sobre su impacto en derechos humanos y la necesidad de establecer protocolos de uso claros."
-    },
-    {
-      "title": "Downswing’s New In-Studio Set For Audiotree Released",
-      "url": "https://www.theprp.com/2026/10/21/news/downswings-new-in-studio-set-for-audiotree-released/",
-      "image": "https://www.theprp.com/app/uploads/2026/09/downswinglarge-1200x675.webp",
-      "source": "The PRP",
-      "language": "en",
-      "que_paso": "Downswing, a metalcore band, recorded a five‑song live session at Audiotree’s Chicago studio on July 7, 2026, and the full video with a bonus interview has now been posted online together with the audio on major streaming platforms.",
-      "datos": [
-        "The set contains five tracks: “Serpent”, “Too Little Too Late”, “No God To Me”, “Emptiness Remains”, and “For What It’s Worth”.",
-        "Recording date was July 7, 2026.",
-        "Location of the session was Audiotree’s studio in Chicago, Illinois.",
-        "The performance video and interview were released simultaneously on Audiotree’s YouTube channel.",
-        "Audio from the session was distributed to leading digital service providers on the same day."
-      ],
-      "conclusion": "The release expands Downswing’s digital footprint and provides fresh content for fans, while demonstrating Audiotree’s continued role in delivering live‑in‑studio recordings to streaming audiences."
-    },
-    {
-      "title": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger",
-      "url": "https://www.nytimes.com/2026/10/21/business/elon-musk-spacex-tesla-merger.html",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/biz-spacex-tesla1-mgtq/biz-spacex-tesla1-mgtq-mediumSquareAt3X.jpg",
-      "source": "NYT Tech",
-      "language": "en",
-      "que_paso": "Elon Musk announced that he is evaluating a merger between his aerospace firm SpaceX and his electric‑vehicle company Tesla, aiming to unite their rocket, car and artificial‑intelligence operations. The proposal would create a single conglomerate that controls his primary technology assets. This initiative is part of Musk’s broader effort to streamline his businesses and exploit cross‑industry synergies.",
-      "datos": [
-        "Elon Musk is the founder and chief executive of both SpaceX and Tesla",
-        "The combined entity would be valued at more than $3 trillion",
-        "The merger would integrate rocket manufacturing, electric vehicles, and artificial‑intelligence divisions",
-        "The statement was made public on October 22, 2026",
-        "Musk described the plan as a way to consolidate his holdings across transportation and AI"
-      ],
-      "conclusion": "A merger of this scale could reshape competition in aerospace, automotive and AI markets and will likely attract intense regulatory scrutiny, making it a critical development for investors and industry stakeholders."
-    },
-    {
-      "title": "Trump Isn’t Even Good at TV Anymore",
-      "url": "https://www.wired.com/story/trump-isnt-even-good-at-tv-anymore/",
-      "image": "https://media.wired.com/photos/6ad79880a4cc6513f80c0b7c/191:100/w_1280,c_limit/GettyImages-2258686448.jpg",
+      "title": "Palmer Luckey Made a Genetically Modified Military Dog Startup",
+      "url": "https://www.wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup/",
+      "image": "https://media.wired.com/photos/6ada855face4f27f64bac623/191:100/w_1280,c_limit/Business_Palmer%20Luckey%20Says%20He%E2%80%99s%20Making%20Cyborg%20Death%20Dogs_v1.jpg",
       "source": "Wired",
       "language": "en",
-      "que_paso": "Donald Trump’s on‑screen presence has deteriorated, as illustrated by the Small Business Administration’s hour‑long \"Million Dollar Pitch Competition\" that attempted to showcase his administration’s economic agenda but drew little attention, and by the rapid turnover of his press secretary, Katie Zacharia, after a disastrous briefing. The show featured celebrity judges and a $1 million prize but failed to convey substantive policy impact, underscoring the administration’s struggle to use television‑style formats to shape public perception.",
+      "que_paso": "A new Texas‑based startup called Warhound, founded by Anduril co‑founder Palmer Luckey and Colossal Biosciences co‑founder Ben Lamm, announced today that it will gene‑edit and clone elite working dogs for the U.S. military, police and first responders. The company has secured $200 million in funding and plans to deliver its first litter of genetically enhanced puppies in early 2027.",
       "datos": [
-        "The Apprentice premiered in the 2003‑2004 season and saw ratings decline in later years",
-        "Katie Zacharia served as Trump’s press secretary for only five days before being removed",
-        "On a Tuesday, the SBA streamed a one‑hour special titled \"Million Dollar Pitch Competition\"",
-        "The judges were Grant Cardone, Nicki Minaj, and Airbnb co‑founder Joe Gebbia",
-        "The cash prize of $1 million was supplied by fintech firm Clover Network",
-        "Marshall Sasse, CEO of a Wyoming pressure‑valve company, was one of the five contestants"
+        "$200 million raised from investors including In‑Q‑Tel, Sequoia Capital and ARK Invest",
+        "Warhound aims to produce the first batch of puppies in early 2027",
+        "The startup will focus on Belgian Malinois, Labrador Retrievers and German Shepherds",
+        "David Spirk, former DoD chief data officer and ex‑Palantir executive, is serving as chief executive",
+        "The company plans to eliminate hip dysplasia through gene editing",
+        "Palmer Luckey and Ben Lamm have been working on the project for over a year and will not hold day‑to‑day roles; Luckey holds no equity"
       ],
-      "conclusion": "The administration’s reliance on low‑impact TV stunts signals a weakening of Trump’s traditional media leverage and suggests a need for more data‑driven communication strategies to influence voters."
+      "conclusion": "If successful, Warhound could reduce reliance on European breeders and provide the military with healthier, more capable canine units, but the program also raises ethical and regulatory questions about genetically modifying working animals."
     },
     {
-      "title": "Las protestas contra la actuación policial tras el acto de Abascal en A Coruña terminan con nuevos altercados",
-      "url": "https://www.eldiario.es/galicia/protestas-actuacion-policial-acto-abascal-coruna-terminan-nuevos-altercados_1_13604996.html",
-      "image": "https://static.eldiario.es/clip/9276462c-8805-4ba0-aaaa-bf355b03a304_facebook-aspect-ratio-1200-675_default_0_x466y293.jpg",
-      "source": "elDiario.es",
+      "title": "Autopsia del verano más mortífero en Europa: 50.000 fallecidos por calor",
+      "url": "https://elpais.com/clima-y-medio-ambiente/2026-10-22/autopsia-del-verano-mas-mortifero-en-europa-50000-fallecidos-por-calor.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/EPGY5EFHY52JB6PIZ4UKV5BTMU.jpg?auth=b1a2b17816609248e7b0667c266696aaf4a28c72c9b0ebcdee62c82f835665eb",
+      "source": "El País",
       "language": "es",
-      "que_paso": "Esta noche, alrededor de 2.000 personas protestaron en A Coruña contra la actuación policial durante los disturbios que siguieron al acto de Santiago Abascal. La concentración frente a la Subdelegación del Gobierno se transformó en una marcha por el centro y terminó con nuevos enfrentamientos entre manifestantes y unidades antidisturbios, que usaron porras y provocaron barricadas.",
+      "que_paso": "Una investigación ha estimado que alrededor de 50.000 personas murieron por exceso de calor durante el verano más letal registrado en Europa, afectando a 854 áreas urbanas y atribuyendo la mayor parte de esas muertes al cambio climático antropogénico.",
       "datos": [
-        "Participaron aproximadamente 2.000 personas en la protesta.",
-        "Se registraron dos detenidos y una docena de agentes heridos.",
-        "Los disturbios iniciales ocurrieron al mediodía durante el acto de Vox en la Plaza de María Pita.",
-        "La concentración se inició a las 19:30 frente a la Subdelegación del Gobierno.",
-        "A las 21:15 la policía comenzó a disolver a los manifestantes con porras.",
-        "Los manifestantes improvisaron una barricada con vallas de obra y quemaron contenedores."
+        "≈50.000 fallecimientos por calor en el verano más mortífero de Europa",
+        "65 % de esas muertes vinculadas al cambio climático causado por el ser humano",
+        "854 áreas urbanas europeas incluidas en el cálculo",
+        "El estudio se centra en el verano más letal de la historia reciente del continente"
       ],
-      "conclusion": "El episodio muestra la escalada de la tensión entre grupos nacionalistas y la policía, indicando que futuras manifestaciones podrían requerir mayor planificación de seguridad para evitar nuevos enfrentamientos."
+      "conclusion": "El hallazgo subraya la urgencia de políticas de adaptación y mitigación climática para proteger a la población urbana de eventos de calor extremo."
     },
     {
-      "title": "Flying Roadsters can’t lift Tesla’s flat Q3 revenues",
-      "url": "https://www.theverge.com/transportation/1015790/tesla-q3-2026-earnings-revenue-profit-roadster-spacex-merger",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23382326/VRG_Illo_STK022_K_Radtke_Musk_Tesla.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "title": "The next-gen Xbox won’t cost you $1,800. It can’t. Can it?",
+      "url": "https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23516635/adbenedetto_220508_5192_0047.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "source": "The Verge",
       "language": "en",
-      "que_paso": "Tesla reported its third‑quarter 2026 results, showing flat revenue and a 4% decline in profit, after a high‑profile Roadster demonstration. The earnings were released amid the loss of the U.S. $7,500 EV tax credit and broader macroeconomic headwinds affecting deliveries.",
+      "que_paso": "Fortune reported that Microsoft’s next‑generation console, internally codenamed Helix, is projected to cost between $1,200 and $1,800 when it launches in 2028, sparking debate about whether Microsoft will continue subsidizing hardware as it did with previous Xbox models.",
       "datos": [
-        "Net income $1.7 billion on $28.0 billion revenue for Q3 2026",
-        "Revenue was flat versus $28.1 billion in Q3 2025 and missed the internal target of $28.3 billion",
-        "Automotive revenue fell 3% YoY to $20.5 billion",
-        "Energy generation and storage revenue dropped 16% YoY to $2.9 billion",
-        "Services and other revenue rose 33% to $4.6 billion",
-        "Capital expenditures rose 110% YoY to $4.7 billion"
+        "The internal cost projection for the Helix console is $1,200‑$1,800 per unit (Fortune, 2026).",
+        "Microsoft reportedly spent $1.5 billion to subsidize the Xbox Series X and Series S to retail at $499 and $299 respectively (The Verge, 2021).",
+        "Microsoft’s internal memo cited $20 billion in content, platform, and hardware subsidies over the past five years (internal “Xbox reset” memo, 2025).",
+        "Former Xbox exec Mike Ybarra said, “I wouldn’t release it at all,” referring to the projected price (quoted in Fortune article).",
+        "Former Xbox president Sarah Bond described the Helix as “a very premium, very high‑end curated experience” in 2024.",
+        "CEO Satya Nadella stated on the Hard Fork podcast that Microsoft must turn its hardware strategy into a sustainable business (podcast, 2025)."
       ],
-      "conclusion": "The mixed results highlight pressure on Tesla's core car business while its non‑automotive segments and AI investments consume growing cash, signalling tighter operational margins and the need for strategic cost management."
+      "conclusion": "If the Helix’s price remains high, Microsoft may need to abandon its historic subsidy model, shifting revenue reliance to Game Pass and services, which could affect budgeting for enterprises planning to adopt the platform."
     },
     {
-      "title": "Bose acquires Skullcandy to help it reach a wider audience",
-      "url": "https://www.theverge.com/tech/1015276/bose-acquisition-skullcandy-headphones-earbuds-speakers",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/skullcandy1.jpg?quality=90&strip=all&crop=0%2C10.717271201674%2C100%2C78.565457596651&w=1200",
-      "source": "The Verge",
+      "title": "New York City Passes Horse Carriage Ban, Ending a Central Park Tradition",
+      "url": "https://www.nytimes.com/2026/10/22/nyregion/nyc-horse-carriage-ban-workers-jobs.html",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22met-carriage-horses-mgvq/22met-carriage-horses-mgvq-mediumSquareAt3X.jpg",
+      "source": "New York Times",
       "language": "en",
-      "que_paso": "Bose announced it has bought Skullcandy, a Utah‑based headphone maker, to use its design and branding to reach younger, sport‑oriented consumers, while keeping Skullcandy as a separate brand within Bose’s premium audio division.",
+      "que_paso": "After a passenger was killed in a horse‑drawn carriage accident in June, the New York City Council voted to prohibit the carriage service in Central Park. The legislation is slated to take effect in 2028, though city officials anticipate a legal challenge.",
       "datos": [
-        "The acquisition was announced on October 22, 2026.",
-        "Bose CEO Lila Snyder confirmed the deal in a press release.",
-        "Skullcandy was founded in 2003 and remains headquartered in Park City, Utah.",
-        "Bose plans to integrate its head‑tracking spatial audio and ANC technology into Skullcandy products such as the Crusher 1080 ANC headphones and Method 360 ANC earbuds.",
-        "In 2024 Bose bought high‑end audio brand McIntosh and Sonus faber, and in 2026 it acquired StreamUnlimited Engineering and Firelight Technologies.",
-        "Bose created an in‑house content studio, Bose Studios, and a record label, Bose Records, in June 2026."
+        "The fatal accident occurred in June 2026, involving a passenger in a horse‑drawn carriage.",
+        "The New York City Council approved the ban on horse carriage rides in Central Park.",
+        "The ban is scheduled to become law in 2028.",
+        "City officials have warned that the ban will likely be contested in court.",
+        "Horse‑drawn carriage rides have been a Central Park tradition for over a century.",
+        "The legislation was introduced in response to safety concerns following the June death."
       ],
-      "conclusion": "The deal gives Bose a foothold in the youth and action‑sports market, allowing it to monetize its noise‑cancellation tech beyond its traditional travel‑focused customers."
+      "conclusion": "The ban removes a historic tourist attraction and signals stricter safety regulation, while the expected lawsuit could delay its enforcement and affect city revenue from carriage permits."
     },
     {
-      "title": "Airbnb bans making guests do dishes and take out the trash",
-      "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK090_06.jpg?quality=90&strip=all&crop=0%2C10.761835884455%2C100%2C78.47632823109&w=1200",
-      "source": "The Verge",
+      "title": "What to Know About Shamonda Virus Following the First Reported Human Infection",
+      "url": "https://www.wired.com/story/what-to-about-shamonda-virus-following-the-first-reported-human-infection/",
+      "image": "https://media.wired.com/photos/6ada6dba4d7b986a1aaeb09e/191:100/w_1280,c_limit/virus%20Shamonda%20Francia%201298348369.jpg",
+      "source": "Wired",
       "language": "en",
-      "que_paso": "Airbnb has rolled out an updated house‑rules policy that bars hosts from requiring guests to perform time‑intensive chores, such as deep cleaning, and forces any remaining requests to be listed in a new “rules and requests” section. The change applies to all reservations made on or after 20 November 2026 and also prohibits hosts from adding hidden rules in messages or on‑site signs.",
+      "que_paso": "France confirmed that a severely immunocompromised patient in Lyon died earlier this month after contracting the Shamonda virus, a pathogen previously thought unable to infect humans. The infection is believed to have come from a biting midge, and authorities stress the case is exceptional while continuing investigations. The report also notes the emergence of a European variant in livestock across several countries.",
       "datos": [
-        "The policy takes effect for bookings made on or after 20 November 2026.",
-        "Hosts may only ask guests to perform “reasonable” tasks like placing dirty dishes in the sink.",
-        "Requests must appear in a dedicated “rules and requests” section on the listing, with a warning label if chores are included.",
-        "Hosts are prohibited from embedding additional chore rules in private messages or property signage.",
-        "Airbnb noted an exception for specific situations, such as asking guests to dispose of trash in an animal‑proof container in bear country."
+        "France confirmed the death of the first human case of Shamonda virus in Lyon earlier this month.",
+        "The patient was severely immunocompromised and likely contracted the virus via a biting midge bite.",
+        "Shamonda virus was first identified in Nigeria in the mid‑1960s and has been reported in livestock across Africa and Japan.",
+        "A new variant, Shamonda‑Europe, was detected in Swiss livestock this summer and later in multiple European countries including Spain.",
+        "Spain’s Ministry reported two distinct strains (Type 1 and Type 2) present on farms in 37 French provinces as of early September.",
+        "No vaccine exists; prevention relies on insecticides and repellents, and the French government states there is no risk to the general public."
       ],
-      "conclusion": "The restriction aims to streamline checkout for guests and reduce disputes, while forcing hosts to rely more on professional cleaning services or adjust pricing to cover labor."
+      "conclusion": "The case highlights a potential zoonotic spillover that warrants heightened surveillance of livestock and vector control, but the immediate public health risk remains low for the general population."
     },
     {
-      "title": "EEUU pide a su personal no esencial y sus familias que abandonen Arabia Saudí",
-      "url": "https://www.europapress.es/internacional/noticia-eeuu-pide-personal-no-esencial-familias-abandonen-arabia-saudi-20261021214805.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261021214805_1200.jpg",
-      "source": "Europa Press Tecnología",
-      "language": "es",
-      "que_paso": "El Departamento de Estado de EE. UU. solicitó que el personal diplomático clasificado como no esencial y sus familiares abandonaran sus residencias en Arabia Saudí, citando un empeoramiento de la seguridad tras el reciente aumento de la violencia en la guerra de Yemen. La orden no especifica un plazo para un posible retorno.",
-      "datos": [
-        "Orden emitida por el Gobierno de Estados Unidos",
-        "Afecta al personal no esencial de misiones diplomáticas y a sus familias",
-        "Destino de la orden: Arabia Saudí",
-        "Motivo: deterioro de la situación de seguridad",
-        "Causa citada: repunte de la guerra en Yemen"
-      ],
-      "conclusion": "La medida reduce la presencia diplomática estadounidense en la región y alerta sobre cómo la escalada del conflicto yemení puede comprometer la estabilidad operativa y de seguridad de los intereses de EE. UU. en Arabia Saudí."
-    },
-    {
-      "title": "The new human-crafted Apple Music brand matters in an AI world",
-      "url": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/apple-music-rebrand-icon-1152x648.jpg",
+      "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+      "url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2260256951-1152x648.jpg",
       "source": "Ars Technica",
       "language": "en",
-      "que_paso": "Apple unveiled a new visual identity for Apple Music, called “Liquid Glass,” and released a behind‑the‑scenes video that demonstrates the physical production process. The effort involved a design agency, a music producer and a custom oil‑tank setup, positioning the rebrand as a human‑crafted counterpoint to AI‑generated content.",
+      "que_paso": "In a Phase 3 trial, Moderna and Merck tested a personalized mRNA vaccine (intismeran) combined with Keytruda in patients with surgically removed stage IIB‑IV melanoma, and reported a 42 % lower risk of death or recurrence compared with Keytruda alone. The top‑line results were released early after an embargo breach and will be presented at the European Society of Medical Oncology meeting in Madrid.",
       "datos": [
-        "Apple announced the new Apple Music brand identity featuring a “Liquid Glass” visual style.",
-        "The promotional behind‑the‑scenes video runs just over one minute.",
-        "The design work was done by TBWA/Media Arts Lab.",
-        "Music producer Fred again.. contributed to the video’s audio component.",
-        "The video was filmed using a mineral‑oil tank equipped with a transducer to create ripples on transparent panels.",
-        "Apple’s market capitalization is approximately $5 trillion."
+        "The trial enrolled 1,137 patients with stage IIB‑IV melanoma.",
+        "Participants were randomized in a 2:1 ratio to receive intismeran‑Keytruda or Keytruda plus placebo.",
+        "After two years, recurrence‑free survival was 82 % in the vaccine arm versus 70 % in the control arm.",
+        "The vaccine, intismeran (mRNA‑4157), encodes up to 34 patient‑specific tumor mutations.",
+        "The data have been accepted for publication in the New England Journal of Medicine.",
+        "Results were disclosed at the European Society of Medical Oncology conference in Madrid, Spain."
       ],
-      "conclusion": "The move highlights Apple’s strategy to differentiate its brand by showcasing tangible creative work, suggesting that human‑made craftsmanship will remain a valuable asset even as generative AI expands."
+      "conclusion": "The outcome demonstrates that personalized mRNA therapy can substantially improve melanoma survival, suggesting a near‑term regulatory pathway and a new benchmark for cancer‑treatment strategies."
     },
     {
-      "title": "Gabriela Sánchez, sobre las palizas de militares a personas migrantes en Ceuta: “Después de todo lo publicado, siguen denunciando casos\"",
-      "url": "https://www.eldiario.es/desalambre/gabriela-sanchez-denuncias-palizas-militares-personas-migrantes-ceuta-haciendo-vista-gorda_1_13604945.html",
-      "image": "https://static.eldiario.es/clip/11243b2b-c298-4c8a-a143-83ac6490de29_facebook-aspect-ratio-1200-675_default_0_x1284y328.jpg",
+      "title": "Latest estimate for Starship launches required to support a Moon landing? 22.",
+      "url": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HS7_82eXsAAa-Hx-1152x648.jpeg",
+      "source": "Ars Technica",
+      "language": "en",
+      "que_paso": "NASA’s Aerospace Safety Advisory Panel cited an estimate of roughly 22 Starship launches needed to refuel a lunar lander in low‑Earth orbit for Artemis IV, while SpaceX’s Elon Musk argued the figure should be closer to 6‑8. Earlier NASA officials had only given vague ranges, and Blue Origin’s competing lander does not rely on orbital refueling.",
+      "datos": [
+        "In 2023, Lisa Watson‑Morgan, then director of NASA’s Human Landing System, said the launch requirement was “high single digits to low double digits.”",
+        "Charlie Precourt, a panel member, stated the latest estimate is around 22 refueling flights for Artemis IV.",
+        "Elon Musk replied on X that the actual number will be “more like 6 to 8.”",
+        "Blue Origin’s Blue Moon lander design will not use orbital refueling for its initial mission.",
+        "The earlier estimate assumed one “depot” Starship plus 11 tanker Starships to fully load the lunar lander.",
+        "NASA has repeatedly said it does not have a definitive launch count and will not disclose a precise number."
+      ],
+      "conclusion": "If the true launch requirement is near the lower end, Starship could become a cost‑effective element of Artemis; a higher count would strain schedules and budgets, affecting the program’s feasibility."
+    },
+    {
+      "title": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
+      "url": "https://www.theguardian.com/business/2026/oct/22/stock-markets-drop-ai-oil",
+      "image": "https://i.guim.co.uk/img/media/9e77a4ead0dd662eb649b44a2b029545f70ae2d1/408_0_4078_3263/master/4078.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eef05a29afa3a8a23a2b5d40b2a20bde",
+      "source": "The Guardian AI",
+      "language": "en",
+      "que_paso": "AI‑related equities plunged on Thursday, dragging US indexes lower while oil prices surged on geopolitical tension with Iran.",
+      "datos": [
+        "S&P 500 fell 1.2%, its worst day since July 2026",
+        "Nasdaq composite dropped 2.6%",
+        "Nvidia shares slid 4.4% pulling the S&P down",
+        "Lam Research stock tumbled 11.8% despite earnings beat",
+        "Brent crude rose 4% to $113.17 per barrel, up from under $97 at the start of October",
+        "CoreWeave shares fell 10.1% amid debt concerns"
+      ],
+      "conclusion": "The sell‑off shows that high financing costs for AI infrastructure can quickly erode market confidence, and rising energy prices add further cost pressure for operations planning."
+    },
+    {
+      "title": "Dead7’s New Track “Feels Like” Arrives Online",
+      "url": "https://www.theprp.com/2026/10/22/news/dead7s-new-track-feels-like-arrives-online/",
+      "image": "https://www.theprp.com/app/uploads/2026/09/dead7large-1200x675.webp",
+      "source": "The PRP",
+      "language": "en",
+      "que_paso": "dead7 released an online visualizer for their new alternative‑metal track “Feels Like.” The band, signed to SharpTone Records, included a statement from vocalist Jason Kozik about the song’s theme of personal happiness.",
+      "datos": [
+        "Track title: “Feels Like.”",
+        "Band: dead7, an alternative metal group.",
+        "Label: SharpTone Records.",
+        "Vocalist: Jason Kozik, who provided a quote on the song’s theme.",
+        "The visualizer for the track is available for streaming online."
+      ],
+      "conclusion": "The release shows how niche metal acts leverage visual content and personal‑growth messaging to engage fans, a tactic that can be replicated in other niche markets."
+    },
+    {
+      "title": "Trump Goes to Iowa, Hoping to Stop Farmers From Voting Blue",
+      "url": "https://www.nytimes.com/2026/10/22/briefing/trump-iowa-roller-coaster-safety.html",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22evening-nl-trump-iowa-fgvw/22evening-nl-trump-iowa-fgvw-facebookJumbo.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "President Donald Trump held a campaign event in Iowa, using the appearance to promote an $8 billion aid package for farmers hit by high diesel prices. The stop occurs as Iowa’s traditionally Republican electorate faces competitive Democratic bids for the governor’s mansion, a U.S. Senate seat, and multiple House districts, and as the Iowa Farmers Union has thrown its support behind the entire Democratic congressional slate.",
+      "datos": [
+        "Trump promoted an $8 billion economic aid package for farmers affected by high diesel prices",
+        "The Iowa Farmers Union publicly endorsed the entire Democratic congressional slate",
+        "Democrats are targeting the Iowa governor’s mansion, a U.S. Senate seat, and two House seats in the upcoming election",
+        "The Iowa event is part of a weeklong campaign tour across several red states that were considered non‑competitive a few months earlier",
+        "Calley Means resigned from the administration after leading efforts to eliminate artificial food dyes, increase chemical disclosures, and ban soda from federal food assistance programs"
+      ],
+      "conclusion": "The visit signals heightened political risk for the agricultural sector in Iowa, suggesting that policy shifts could affect farm operating costs and supply‑chain planning for businesses reliant on Midwestern production."
+    },
+    {
+      "title": "What Is PHP? Why Are Government and Business Websites Going Offline?",
+      "url": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22xp-PHP-fjtz/22xp-PHP-fjtz-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "A critical vulnerability was discovered in PHP, the scripting language that powers the majority of web sites, leading developers, IT teams, and public agencies worldwide to scramble to apply emergency patches. The issue caused many government and corporate portals to become temporarily inaccessible while fixes were rolled out.",
+      "datos": [
+        "The flaw resides in PHP, the programming language that underpins much of the web",
+        "The vulnerability is described as critical in severity",
+        "A global effort to patch vulnerable systems was launched immediately after discovery",
+        "Government and business websites experienced downtime as a direct result of the flaw"
+      ],
+      "conclusion": "Rapid remediation is essential to restore service continuity and protect data, highlighting the need for proactive vulnerability management in core web technologies."
+    },
+    {
+      "title": "Sánchez defiende que Begoña Gómez dejó su trabajo cuando llegó a Moncloa y niega que pueda ejercer influencia",
+      "url": "https://www.europapress.es/nacional/noticia-sanchez-defiende-begona-gomez-dejo-trabajo-cuando-llego-moncloa-niega-pueda-ejercer-influencia-20261022232056.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261022232056_1200.jpg",
+      "source": "Europa Press Ciencia",
+      "language": "es",
+      "que_paso": "Pedro Sánchez respondió a críticas sobre posible nepotismo, asegurando que su esposa, Begoña Gómez, abandonó su puesto laboral al iniciar su mandato en la Moncloa. Además, negó que ella pueda ejercer influencia alguna por ser la cónyuge del presidente.",
+      "datos": [
+        "Pedro Sánchez es el presidente del Gobierno de España.",
+        "Begoña Gómez es la esposa de Pedro Sánchez.",
+        "Begoña Gómez dejó su empleo cuando Sánchez llegó a la Moncloa.",
+        "Sánchez declaró que su esposa no ejerce influencia por su condición de cónyuge.",
+        "La Moncloa es la residencia oficial del presidente de España."
+      ],
+      "conclusion": "La defensa busca disipar sospechas de nepotismo y reforzar la imagen de independencia en la gestión del gobierno."
+    },
+    {
+      "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
+      "url": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/getty-comcast-van-1152x648.jpg",
+      "source": "Ars Technica",
+      "language": "en",
+      "que_paso": "Comcast announced that its residential broadband base shrank sharply in the third quarter of 2026, prompting the company to launch a large‑scale restructuring that includes job cuts and a multibillion‑dollar cost‑transformation plan. The losses are attributed to aggressive low‑price offers from fiber rivals, which the firm says are financially unsustainable. Executives framed the changes as a response to shifting competition and the need to modernize the business.",
+      "datos": [
+        "Comcast lost 144,000 residential broadband customers in Q3 2026, compared with a 91,000‑customer loss in Q3 2025",
+        "Comcast now serves 28.3 million residential broadband customers in the United States",
+        "CFO Jason Armstrong cited $30‑$40 per month broadband offers from fiber operators as “irrational pricing” in specific markets during the third quarter",
+        "Deploying fiber is said to cost $1,500 or more per home, according to Armstrong",
+        "Comcast expects a “significant charge” of over $1 billion to appear in its fourth‑quarter earnings report"
+      ],
+      "conclusion": "The data signals mounting pressure on legacy cable providers to curb churn and control costs, while the planned restructuring and AI‑driven service model could reshape Comcast’s workforce and competitive stance."
+    },
+    {
+      "title": "Trump defiende el polémico anuncio electoral de Ramaswamy contra la demócrata Acton en Ohio",
+      "url": "https://elpais.com/us/2026-10-22/republicanos-temen-que-ramaswamy-haya-sellado-el-triunfo-de-la-democrata-acton-en-ohio-con-su-polemico-anuncio-electoral.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/56YONVAFIJMZZEIZKTWQ6LJNRY.jpg?auth=c55cdce94043da6bd6145ec26554eeb99940e6613410da414f2242b633e16f49&width=1200",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Vivek Ramaswamy lanzó un anuncio de campaña que muestra a la madre de Amy Acton llamándola “mentirosa”. El gobernador republicano de Ohio, Mike DeWine, pidió que se retire, mientras Donald Trump y J.D. Vance apoyaron su permanencia. La polémica ha intensificado la disputa electoral entre Ramaswamy y Acton.",
+      "datos": [
+        "Ramaswamy es el candidato republicano a gobernador de Ohio",
+        "Amy Acton, de 60 años, fue directora del Departamento de Salud de Ohio bajo DeWine",
+        "El anuncio incluye a Donna Arthur, madre de Acton, acusando a su hija de mentir sobre su infancia",
+        "Mike DeWine solicitó el jueves retirar el anuncio, calificándolo de “profundamente preocupante”",
+        "Donald Trump, en Truth, instó a Ramaswamy a mantener el anuncio y criticó a la prensa",
+        "Acton reveló que entre los 10 y 12 años sufrió abusos sexuales por el marido de su madre, quien fue arrestado y acusado de violación en 1978 y declarado prófugo"
+      ],
+      "conclusion": "El conflicto muestra cómo los ataques personales pueden desestabilizar campañas y dividir al partido, lo que podría afectar la competitividad de Ramaswamy y la posibilidad de que Acton se convierta en la primera gobernadora demócrata de Ohio en veinte años."
+    },
+    {
+      "title": "La mansión que perteneció a Juan Gabriel en Florida vuelve al mercado por 38,9 millones de dólares",
+      "url": "https://elpais.com/us/2026-10-22/la-mansion-que-pertenecio-a-juan-gabriel-en-florida-vuelve-al-mercado-por-389-millones-de-dolares.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/WXAXFP5LONBEPBVQMIK4FWOMI4.jpeg?auth=c8840ce8fff9e2f6996185971749dfc399db56df454dac383a5dc144923dd948&width=1200",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Tras la venta en 2022, la antigua residencia de Juan Gabriel en Southwest Ranches, Florida, ha sido remodelada y vuelve a ofertarse por 38,9 millones de dólares, con un amplio complejo de lujo que incluye varias construcciones y amenidades deportivas y recreativas.",
+      "datos": [
+        "La propiedad fue comprada por Juan Gabriel en 1995.",
+        "En 2022 la familia vendió la mansión por 9 millones de dólares a un comprador no identificado.",
+        "El terreno abarca casi cuatro hectáreas y contiene seis edificaciones, incluida la casa principal de cinco habitaciones.",
+        "La cochera climatizada tiene 185 metros cuadrados.",
+        "El precio de venta solicitado es de 38,9 millones de dólares.",
+        "La agente inmobiliaria Angeline Earnest describió la casa como “un destino vacacional”."
+      ],
+      "conclusion": "El incremento del precio muestra la fuerte demanda de propiedades de lujo en el sur de Florida y sugiere que inversiones en remodelaciones pueden multiplicar significativamente el valor de activos inmobiliarios."
+    },
+    {
+      "title": "Imminence Share “Crestfallen” Performance From Ystads Theater",
+      "url": "https://www.theprp.com/2026/10/22/news/imminence-share-crestfallen-performance-from-ystads-theater/",
+      "image": "https://www.theprp.com/app/uploads/2026/07/imminence2026promolarge-1200x675.webp",
+      "source": "The PRP",
+      "language": "en",
+      "que_paso": "Swedish metalcore band Imminence posted a new video of their song “Crestfallen” performed live at Ystads Theater in Ystad, continuing a series of intimate theater shows. The release follows their recent album launch and maintains the pattern of adding a string quartet to the performances.",
+      "datos": [
+        "Imminence is a Swedish melodic metalcore outfit.",
+        "The live video features the song “Crestfallen” from the album “Axis Mundi”.",
+        "“Axis Mundi” was released on October 2, 2026 through Sumerian Records.",
+        "The performance was recorded at Ystads Theater in Ystad, Sweden.",
+        "Previous Ystads Theater shows have frequently included a string quartet."
+      ],
+      "conclusion": "The band’s focus on intimate, string‑enhanced live videos reinforces their artistic brand and can drive deeper fan engagement and streaming activity."
+    },
+    {
+      "title": "Muere Tom Skerritt, actor de 'Top Gun' y 'Alien', a los 93 años",
+      "url": "https://www.eldiario.es/cultura/muere-tom-skerritt-actor-top-gun-alien-93-anos_1_13608231.html",
+      "image": "https://static.eldiario.es/clip/6bef84d6-abf2-4dac-9649-61706a511d8b_facebook-aspect-ratio-1200-675_default_0_x941y484.jpg",
       "source": "elDiario.es",
       "language": "es",
-      "que_paso": "Tras la publicación el 15 de septiembre de un reportaje de Gabriela Sánchez sobre palizas cometidas por militares a migrantes en Ceuta, surgieron denuncias de al menos veinte testigos y el delegado del Gobierno en Ceuta, David de la Encina, emitió un vídeo defendiendo a las Fuerzas Armadas mientras el caso sigue sin sanciones disciplinarias ni imputaciones claras.",
+      "que_paso": "El actor Tom Skerritt falleció a los 93 años y su familia confirmó su muerte mediante un comunicado publicado en The Hollywood Reporter. Con una carrera que abarcó desde su debut en 1962 hasta papeles icónicos en M*A*S*H, Alien y Top Gun, su partida deja un vacío en el cine y la televisión.",
       "datos": [
-        "El artículo se publicó el 15 de septiembre en elDiario.es",
-        "Alrededor de veinte testimonios de migrantes denunciaron los abusos",
-        "Gabriela Sánchez, jefa de Desalambre, estuvo en Ceuta desde el 1 de septiembre para recabar información",
-        "David de la Encina, delegado del Gobierno en Ceuta, difundió un vídeo el lunes posterior a la publicación agradeciendo a las Fuerzas Armadas",
-        "Ceuta tiene una superficie de 18 kilómetros cuadrados y, según la periodista, no se ha impuesto ninguna sanción disciplinaria a los militares implicados"
+        "Falleció el 22 de octubre de 2026 a los 93 años.",
+        "Nació el 25 de agosto de 1933 en Detroit, Michigan, EE. UU.",
+        "Se incorporó a la Fuerza Aérea de EE. UU. en 1951 antes de iniciar su carrera actoral.",
+        "Debutó en la gran pantalla en 1962 con la película War Hunt junto a Robert Redford y Sydney Pollack.",
+        "Ganó un Emmy en 1993 como mejor actor principal en drama por su papel en Picket Fences.",
+        "Le sobreviven su tercera esposa, Julie Tokashiki, y sus cinco hijos: Andy, Erin, Matt, Colin y Emiko."
       ],
-      "conclusion": "El caso evidencia una falta de respuesta institucional frente a violaciones de derechos humanos, lo que obliga a los gestores operativos a reforzar los protocolos de supervisión y rendición de cuentas en entornos de alta presión migratoria."
+      "conclusion": "Su muerte marca el fin de una trayectoria que influyó en generaciones de actores y espectadores, recordando la importancia de la versatilidad y el compromiso artístico en la industria del entretenimiento."
+    },
+    {
+      "title": "HALF ME Launch Music Video Combining Three Tracks From Their New Album “Dogma”",
+      "url": "https://www.theprp.com/2026/10/22/news/half-me-launch-music-video-combining-three-tracks-from-their-new-album-dogma/",
+      "image": "https://www.theprp.com/app/uploads/2026/06/halfmelarge2026-1200x675.webp",
+      "source": "The PRP",
+      "language": "en",
+      "que_paso": "German metalcore band HALF ME released a music video that merges three of the final tracks from their upcoming album “Dogma”, just hours before the album’s scheduled launch on October 23, 2026. The video was directed by Chris Hesse.",
+      "datos": [
+        "Band: HALF ME (German metalcore)",
+        "Video combines three closing tracks: “Through Prayer”, “IV. Melancholia”, “Coup d‘Etat”",
+        "Director: Chris Hesse",
+        "Album “Dogma” release date: October 23, 2026 (hours after video)",
+        "Tracks are the final three songs on the album"
+      ],
+      "conclusion": "Releasing the combined‑track video right before the album drop creates immediate engagement and gives listeners a cohesive preview of the album’s concluding narrative."
+    },
+    {
+      "title": "The FCC is beginning to block gadgets with ‘foreign surveillance chips’",
+      "url": "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25840497/STKP211_BRENDAN_CARR_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "language": "en",
+      "que_paso": "The FCC invoked its newly‑granted authority to block two consumer devices because they contain a HiVision Hi3516CV610 “foreign surveillance” chip tied to Huawei, marking the first use of this power since it was adopted on October 13. The agency did not identify the specific products and declined to comment when asked.",
+      "datos": [
+        "On October 13, 2026 the FCC adopted a rule allowing it to block gadgets that contain chips from entities on its national‑security Covered List.",
+        "The chip cited is the HiVision Hi3516CV610 UHD Smart Vision System‑on‑Chip.",
+        "HiVision is a subsidiary of Huawei, which is listed on the FCC’s Covered List as a national‑security risk.",
+        "Listings on AliExpress show the chip sold as a package with a Sony camera sensor and sometimes an integrated lens.",
+        "The FCC has previously used similar authority to ban routers and Roomba vacuum cleaners.",
+        "The agency did not disclose which two devices were blocked and did not respond to a request for comment."
+      ],
+      "conclusion": "The move signals a broader FCC crackdown on supply‑chain risks, urging manufacturers and importers to verify component origins to avoid sudden market exclusions."
+    },
+    {
+      "title": "Sílvia Munt revisita ‘Panorama desde el puente’, de Arthur Miller, potenciando a su principal personaje femenino",
+      "url": "https://elpais.com/espana/catalunya/2026-10-22/silvia-munt-revisita-panorama-desde-el-puente-de-arthur-miller-potenciando-a-su-principal-personaje-femenino.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/UGXP4CE7DVAD3HQG5YXFFIVL4M.jpg?auth=e8279e64d440ca8f65a1c3c7885912b8e365651f0e728097965c191ed62f8fb5&width=1200",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Se estrenó en Barcelona una nueva versión de \"Panorama desde el puente\" de Arthur Miller, dirigida por Sílvia Munt y puesta en escena en el Teatro Goya bajo la producción de Bitó. El montaje reúne a Laura Conejero, David Selvas, Laura Gaja y Jan D. Casablancas, y fue presentado con comentarios de Jordi González, vicepresidente de arte y contenidos de Focus, quien relacionó la obra con su propia historia familiar de emigración.",
+      "datos": [
+        "\"Panorama desde el puente\" se estrenó originalmente en 1955",
+        "La traducción al catalán fue realizada por Joan Sellent",
+        "La puesta se presenta en el Teatro Goya de Barcelona, producción de Bitó",
+        "Sílvia Munt dirigió previamente \"El precio (El preu)\" en 2017",
+        "El elenco principal incluye a Laura Conejero (Beatrice), David Selvas (Eddie Carbone), Laura Gaja (Catherine) y Jan D. Casablancas (Rodolpho)",
+        "Jordi González, vicepresidente de arte y contenidos de Focus, es hijo de emigrantes que llegaron a Barcelona"
+      ],
+      "conclusion": "El montaje subraya la vigencia de los conflictos migratorios y de poder en la sociedad actual, ofreciendo al público una reflexión directa sobre la naturaleza humana que trasciende épocas."
+    },
+    {
+      "title": "Official Footage Of Agriculture’s 2026 ‘Roadburn’ Set Released",
+      "url": "https://www.theprp.com/2026/10/22/news/official-footage-of-agricultures-2026-roadburn-set-released/",
+      "image": "https://www.theprp.com/app/uploads/2026/06/agriculturelarge-1200x675.webp",
+      "source": "The PRP",
+      "language": "en",
+      "que_paso": "Agriculture’s full 2026 Roadburn performance has been uploaded to the internet, making the entire set publicly viewable. The Dutch festival appearance, originally recorded on April 18 in Tilburg, is now linked to the band’s recent live album release.",
+      "datos": [
+        "Agriculture performed at Roadburn Festival on April 18, 2026 in Tilburg, Netherlands.",
+        "The performance was recorded for the live album “The Spiritual Sound, Live In Europe 2026”.",
+        "The live album was released earlier in October 2026 on the label The Flenser.",
+        "The video release was announced as the official footage of the entire set.",
+        "Roadburn is an annual festival that showcases extreme music genres."
+      ],
+      "conclusion": "The release gives fans immediate access to the band’s latest live material and may drive further sales and streaming of the new album."
+    },
+    {
+      "title": "Stocks See Steepest Decline in Months Amid A.I. Worries",
+      "url": "https://www.nytimes.com/2026/10/22/business/stocks-oil-prices.html",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22osg-promo-lqhb/22osg-promo-lqhb-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "The S&P 500 dropped more than 1.4% and the Nasdaq fell about 2.5% in a single session, marking their worst one‑day losses since July and June respectively, as investor sentiment was rattled by concerns over artificial‑intelligence developments. The declines occurred on October 23, 2026, reflecting heightened market anxiety about AI‑related regulatory and valuation issues.",
+      "datos": [
+        "S&P 500 fell >1.4% on Oct 23, 2026",
+        "Nasdaq fell ~2.5% on Oct 23, 2026",
+        "S&P 500’s last larger daily decline was in July 2026",
+        "Nasdaq’s last larger daily decline was in June 2026",
+        "Market anxiety linked to AI‑related regulatory and valuation concerns"
+      ],
+      "conclusion": "The sharp pullback shows AI uncertainty can quickly trigger broad market sell‑offs, so managers should closely monitor AI policy and valuation risks when allocating to tech stocks."
+    },
+    {
+      "title": "Tom Skerritt, estrella de ‘Alien’, ‘Top Gun’ y ‘MASH’, muere a los 93 años",
+      "url": "https://elpais.com/cultura/2026-10-22/tom-skerritt-estrella-de-alien-top-gun-y-mash-muere-a-los-93-anos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/CVHKVKNSZFMGZBHP4HMA3G24YQ.jpg?auth=88b5d44e645d18fc99dd89466faa8ca889fa15076d24d4e94edbfefc38beef73",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "El actor estadounidense Tom Skerritt falleció a los 93 años, poniendo fin a una trayectoria de más de sesenta años en cine y televisión, conocida por papeles en ‘Alien’, ‘Top Gun’ y la serie ‘MASH’. Su muerte se anunció el 23 de octubre de 2026.",
+      "datos": [
+        "Tom Skerritt, nacido el 13 de agosto de 1933, murió el 23 de octubre de 2026.",
+        "Ganó un premio Emmy en 1993 por su papel protagónico en la serie ‘Picket Fences’.",
+        "Su carrera abarcó más de seis décadas, desde su debut en 1962 hasta su último proyecto en 2025.",
+        "Participó en películas icónicas como ‘Alien’ (1979), ‘Top Gun’ (1986) y la serie de televisión ‘MASH’ (1972‑1983).",
+        "Era ciudadano estadounidense y residía en Los Ángeles al momento de su fallecimiento."
+      ],
+      "conclusion": "Su fallecimiento cierra una era para el cine de ciencia ficción y acción, subrayando la relevancia de contar con actores versátiles que sostengan franquicias durante décadas."
+    },
+    {
+      "title": "Leaked Mass Effect: Universe trailer gives a taste of what we're all missing",
+      "url": "https://arstechnica.com/gaming/2026/10/leaked-mass-effect-universe-trailer-gives-a-taste-of-what-were-all-missing/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/meuniverse-1152x648.png",
+      "source": "Ars Technica",
+      "language": "en",
+      "que_paso": "A two‑minute in‑engine trailer for the cancelled Mass Effect: Universe was leaked on Reddit, prompting verification by IGN and Bloomberg. The leak follows EA’s announcement that BioWare will close, ending work on the game that had been in early development by a small internal team.",
+      "datos": [
+        "The trailer appeared on Reddit just before noon Eastern Time on October 22, 2026.",
+        "IGN and Bloomberg journalist Jason Schreier confirmed the trailer’s authenticity within hours of the leak.",
+        "The leaked footage is described by its creators as “in‑engine footage from our small team” using pre‑production assets and runs about two minutes.",
+        "EA executives Cam Weber and David Tinson stated in an internal memo that only a small BioWare team was working on early development for Mass Effect.",
+        "Sci‑fi authors Catherynne M. Valente and Derek Kunsken, who had been involved for years, posted quotes expressing disappointment after the cancellation."
+      ],
+      "conclusion": "The leak confirms that substantive work existed beyond the public teaser, highlighting the scale of the project lost with BioWare’s shutdown and signaling potential brand and talent gaps for EA’s RPG portfolio."
+    },
+    {
+      "title": "The Social Society Helping Women Join the AI Boom",
+      "url": "https://www.wired.com/story/aged-intelligence-society-interview/",
+      "image": "https://media.wired.com/photos/6ada7db9ecc44326fbe9e386/191:100/w_1280,c_limit/Model-Behavior-Illo-102226-2.jpg",
+      "source": "Wired",
+      "language": "en",
+      "que_paso": "Shoshana Berger, a former WIRED editor now working with Notion and IDEO, and Nina Willdorf launched the Aged Intelligence Society, an invite‑only dinner series that helps mid‑career women apply frontier AI tools to personal and professional challenges, aiming to boost fluency and cut administrative burdens.",
+      "datos": [
+        "Shoshana Berger is a former WIRED editor and editorial leader for Notion and IDEO.",
+        "Nina Willdorf co‑founded the Aged Intelligence Society with Berger.",
+        "The Society hosts invite‑only dinner parties where participants bring laptops to work on a \"midlife quandary\" using AI tools.",
+        "Each event includes a 15‑minute segment called \"library time\" for testing AI solutions.",
+        "Berger and Willdorf said they took beta blockers and ashwagandha before events.",
+        "They referenced using the AI model Claude during discussions."
+      ],
+      "conclusion": "The initiative demonstrates a practical pathway for women in midlife to acquire AI competence, addressing a talent gap and showing how targeted community events can translate emerging technology into everyday productivity gains."
+    },
+    {
+      "title": "Unsealed O.J. Simpson Records Prompt a Request for a New Investigation",
+      "url": "https://www.nytimes.com/2026/10/22/us/oj-simpson-accomplice-investigation.html",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/00nat-oj-reax-fzjp/00nat-oj-reax-fzjp-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "Tanya Brown publicly alleged that someone assisted O.J. Simpson in disposing of the murder weapon, and a former Simpson attorney has formally requested the appointment of a special prosecutor after new records were unsealed. The request seeks to reopen the investigation into the 1994‑1995 murders of Nicole Brown Simpson and Ron Goldman.",
+      "datos": [
+        "\"I believe someone helped O.J. Simpson get rid of the murder weapon,\" said Tanya Brown.",
+        "A former lawyer for O.J. Simpson filed a written request for a special prosecutor.",
+        "The request follows the recent unsealing of previously confidential Simpson case records.",
+        "The records relate to the 1994‑1995 criminal trial for the murders of Nicole Brown Simpson and Ron Goldman.",
+        "No law enforcement agency has confirmed a response to the special prosecutor request as of the article date."
+      ],
+      "conclusion": "If a special prosecutor is appointed, the case could be reopened, potentially altering legal outcomes and public perception of the original verdict."
+    },
+    {
+      "title": "Putin ignora las propuestas de Zelenski sobre el Donbás porque el este de Ucrania es \"territorio ruso\"",
+      "url": "https://www.europapress.es/internacional/noticia-putin-ignora-pretensiones-zelenski-donbas-porque-ucrania-territorio-ruso-20261022214828.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261022214828_1200.jpg",
+      "source": "Europa Press Tecnología",
+      "language": "es",
+      "que_paso": "El presidente ruso desestimó las propuestas de paz de Zelenski para el Donbás, argumentando que el este de Ucrania pertenece a Rusia y que rusos y ucranianos son genéticamente idénticos, al tiempo que calificó de \"esquizofrenia\" las advertencias europeas sobre un posible conflicto directo.",
+      "datos": [
+        "Putin afirmó que rusos y ucranianos son \"genéticamente\" iguales",
+        "Llamó \"esquizofrenia\" a los avisos de Europa sobre un conflicto directo",
+        "Ignoró las propuestas de Zelenski para el Donbás",
+        "Declaró que el este de Ucrania es \"territorio ruso\""
+      ],
+      "conclusion": "Esta postura refuerza la posición intransigente de Rusia y complica cualquier avance diplomático, lo que implica que los negociadores occidentales deberán ajustar sus estrategias ante una mayor retórica de soberanía rusa."
+    },
+    {
+      "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
+      "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/nikonTOP-1152x648.jpg",
+      "source": "Ars Technica",
+      "language": "en",
+      "que_paso": "Ole Bielfeldt, a 25‑year‑old German experimental photographer, captured an image of ink droplets being deposited by an inkjet printer and was awarded the top prize in the 2026 Nikon Small World photomicrography competition, beating 1,802 other submissions from 69 countries. He achieved the shot by modifying the printer so the paper moved under a stationary printhead and using a flash in a dark room to freeze the droplets, a technique he devised without AI or expensive equipment.",
+      "datos": [
+        "Ole Bielfeldt is a 25‑year‑old photographer from Germany.",
+        "The 2026 Nikon Small World competition received 1,802 entries representing 69 countries.",
+        "Bielfeldt built a custom microscope adaptor from a tube and wood to attach his father’s camera.",
+        "He froze the ink droplets by deconstructing the printer, moving the paper under a stationary printhead, and using a flash as the shutter in a dark room.",
+        "Nikon Small World was founded in 1974 and celebrated its 52nd anniversary in 2026.",
+        "Nikon will publish a full‑color 2027 calendar featuring the 2026 winners."
+      ],
+      "conclusion": "The win demonstrates that low‑cost, hands‑on engineering can outperform high‑tech solutions in scientific imaging, highlighting the operational value of creative problem‑solving and DIY innovation."
+    },
+    {
+      "title": "Mortgage Rates Remain Above 7%, Pushing Home Prices Lower in Some Areas",
+      "url": "https://www.nytimes.com/2026/10/22/business/mortgage-rates-housing-costs.html",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22Biz-Mortgage-Rates-fjpg/22Biz-Mortgage-Rates-fjpg-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "Mortgage rates edged down to 7.32 % for a 30‑year fixed loan, but they remain above the 7 % threshold that many buyers consider affordable. At the same time, home prices are beginning to fall in several regional markets, reflecting the strain on demand.",
+      "datos": [
+        "The average 30‑year fixed mortgage rate is 7.32 %.",
+        "The rate dropped slightly from the previous reporting period.",
+        "Prospective home buyers are reporting affordability challenges.",
+        "Home prices are starting to decline in certain areas.",
+        "The figures were reported on October 23 2026."
+      ],
+      "conclusion": "Sustained high borrowing costs will keep demand suppressed, so any price declines may be short‑lived and inventory could stay limited, affecting acquisition timing and cash‑flow planning."
+    },
+    {
+      "title": "Miles de mujeres protestan en Polonia por el derecho al aborto y contra el Gobierno de Tusk: “Estamos hartas de promesas”",
+      "url": "https://www.eldiario.es/internacional/miles-mujeres-protestan-polonia-derecho-aborto-gobierno-tusk-hartas-promesas_1_13608138.html",
+      "image": "https://static.eldiario.es/clip/221af485-1b9a-4aed-beaf-68d8d20a682c_facebook-aspect-ratio-1200-675_default_0_x811y300.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "que_paso": "Miles de mujeres y simpatizantes se congregaron este jueves en varias ciudades de Polonia, entre ellas Cracovia, para exigir la liberalización del aborto y criticar al gobierno de Donald Tusk, mientras se debate la posible aplicación de un veto presidencial a dos proyectos de ley aprobados recientemente por la Cámara Baja. La movilización se produce en el contexto de un intento fallido en 2024 de despenalizar la ayuda al aborto y de la presión sobre una coalición que apenas ha avanzado en la reforma legislativa.",
+      "datos": [
+        "Miles de manifestantes se reunieron en decenas de ciudades polacas el 23 de octubre de 2026.",
+        "La protesta coincidió con el sexto aniversario de la sentencia del Tribunal Constitucional del 22 de octubre de 2020 que eliminó la excepción por malformación fetal.",
+        "En julio de 2024, un intento de despenalizar la ayuda al aborto fracasó en la Cámara Baja.",
+        "Esta semana la Cámara Baja aprobó dos proyectos de ley: uno que restablece la interrupción por anomalías fetales graves y otro que despenaliza parcialmente el auxilio al aborto, eliminando penas de hasta tres años de cárcel.",
+        "Donald Tusk, primer ministro, lidera la Coalición Ciudadana, que tiene mayoría en la Cámara Baja."
+      ],
+      "conclusion": "La presión social evidencia que la agenda de liberalización del aborto es un punto crítico para la estabilidad de la coalición de Tusk, y la posible intervención presidencial podría definir el futuro del derecho al aborto en Polonia."
+    },
+    {
+      "title": "CEOE rectifica y no impugnará finalmente la huelga general por la vivienda antes del 11 de noviembre",
+      "url": "https://elpais.com/economia/2026-10-22/ceoe-rectifica-y-no-impugnara-finalmente-la-huelga-general-por-la-vivienda-antes-del-11-de-noviembre.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/FGIHT5W2JJNCRERWB4VZA6Q4FU.jpg?auth=450560bb0fe3063b333fa7ce7668762a5c6277902188ab4f03b1023482b10294",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "La Confederación Española de Organizaciones Empresariales (CEOE) ha revocado su intención de acudir a los tribunales para impugnar la huelga general prevista sobre la vivienda, que se celebrará antes del 11 de noviembre, pese a haber anunciado previamente que lo haría.",
+      "datos": [
+        "CEOE es la principal patronal empresarial de España",
+        "La decisión es no impugnar judicialmente la huelga",
+        "La huelga está programada para celebrarse antes del 11 de noviembre de 2026",
+        "El motivo de la huelga es la crisis de la vivienda",
+        "En comunicados anteriores la CEOE había anticipado que presentaría recursos legales contra el paro"
+      ],
+      "conclusion": "Esta rectificación reduce la tensión legal entre empleadores y sindicatos y sugiere que la negociación sobre la vivienda podría abordarse directamente sin intervención judicial."
+    },
+    {
+      "title": "Bryan Johnson Announces Plans for Mass Revenge",
+      "url": "https://futurism.com/future-society/bryan-johnson-longevity-revenge-threat-ai-bots",
+      "image": "https://futurism.com/wp-content/uploads/2026/10/bryan-johnson-longevity-revenge-threat-ai-bots.jpg?w=1200",
+      "source": "Futurism",
+      "language": "en",
+      "que_paso": "Bryan Johnson, a multimillion‑dollar longevity entrepreneur, posted on X that an AI agent would collect every negative comment about him, map each critic’s contacts and email their extended networks, then later said the threat was a joke.",
+      "datos": [
+        "Bryan Johnson was recently diagnosed with an incurable autoimmune disease.",
+        "He announced the AI‑driven email retaliation in a post on X (formerly Twitter) in the week of October 2026.",
+        "The post attracted over 3.4 million views and thousands of comments.",
+        "Johnson said the AI would log every negative comment, create a profile, map social connections and send an email blast to each person’s extended network.",
+        "In a follow‑up X post, Johnson retracted the threat, stating he was “just kidding.”"
+      ],
+      "conclusion": "The episode shows how ultra‑wealthy tech figures can mobilize AI and massive online reach to intimidate critics, underscoring a tangible risk of weaponized personal data even when framed as a joke."
+    },
+    {
+      "title": "Una simple foto del rostro puede dar pistas sobre la supervivencia de un paciente con cáncer. Esta IA busca encontrarlas",
+      "url": "https://www.xataka.com/medicina-y-salud/simple-foto-rostro-puede-dar-pistas-supervivencia-paciente-cancer-esta-ia-busca-encontrarlas",
+      "image": "https://i.blogs.es/c62133/analisis-facial/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "Un equipo de investigadores ha desarrollado una IA llamada FAHR‑Face que, a partir de una foto del rostro, estima la edad biológica y el riesgo de mortalidad de pacientes con cáncer, con el objetivo de ayudar a los oncólogos a elegir tratamientos más adecuados. El sistema se entrenó y validó con grandes bases de datos de imágenes para comprobar su capacidad predictiva.",
+      "datos": [
+        "El modelo base se entrenó con más de 40 000 000 de fotografías faciales.",
+        "Posteriormente se afinó con 34 363 imágenes de pacientes oncológicos.",
+        "Se validó en una cohorte independiente de aproximadamente 5 000 pacientes.",
+        "Los pacientes clasificados en el cuartil de mayor riesgo tenían un riesgo de mortalidad 3,23 veces superior al del cuartil de menor riesgo.",
+        "De 122 pacientes de alto riesgo, el 52,5 % falleció dentro de los 90 días posteriores.",
+        "Los datos provienen mayoritariamente de cohortes de pacientes blancos, lo que limita la generalización del modelo."
+      ],
+      "conclusion": "Si la IA confirma su precisión, podría proporcionar a los oncólogos una herramienta objetiva para priorizar tratamientos, aunque su uso debe acompañarse de cautela por sesgos demográficos y la falta de datos sobre toxicidad."
+    },
+    {
+      "title": "Samsung all but confirms iPhone Duo is goosing Galaxy Z8 sales",
+      "url": "https://arstechnica.com/gadgets/2026/10/samsung-all-but-confirms-iphone-duo-is-goosing-galaxy-z8-sales/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Galaxy-Z8-1-1152x648.jpg",
+      "source": "Ars Technica",
+      "language": "en",
+      "que_paso": "Samsung confirmed that its 2026 European foldable lineup is selling significantly better after Apple unveiled the iPhone Duo, with sales and online interest for the larger Z Fold models jumping sharply, while the smaller Z Flip line remains flat.",
+      "datos": [
+        "Combined European sales of the Galaxy Z Fold 8 and Z Fold 8 Ultra are up 45 % versus the Galaxy Z Fold 7.",
+        "Search volume for the Z8 series across Europe rose 460 % during the week of 6–12 September 2026.",
+        "The iPhone Duo was announced on 9 September 2026.",
+        "Z Fold 8 search volume across September 2026 increased 260 %.",
+        "US pre‑order activity for the Galaxy Z8 series was 30 % higher than in the same period last year.",
+        "Samsung’s larger foldables accounted for about 80 % of all foldable phone purchases prior to this period."
+      ],
+      "conclusion": "Apple’s entry into foldables is directly boosting demand for Samsung’s larger models, signalling a market shift toward premium, wide‑screen foldable devices and prompting Samsung to accelerate its product strategy."
+    },
+    {
+      "title": "Los astrónomo han hecho la mejor radiografía hasta el momento de los 5 primeros minutos del Universo",
+      "url": "https://www.xataka.com/espacio/astronomo-han-hecho-mejor-radiografia-momento-5-primeros-minutos-universo",
+      "image": "https://i.blogs.es/3a7616/origen-universo/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "Un equipo de la Universidad de Minnesota analizó 15 galaxias diminutas y con metalicidad extremadamente baja usando los espectrógrafos MODS de la Universidad Estatal de Ohio, con el objetivo de medir el helio primordial. Gracias a esa observación lograron determinar la abundancia de helio en los primeros cinco minutos del Universo con una incertidumbre del 0,5 %.",
+      "datos": [
+        "Investigadores de la Universidad de Minnesota lideraron el estudio.",
+        "Utilizaron los espectrógrafos MODS, desarrollados en la Universidad Estatal de Ohio.",
+        "Seleccionaron 15 galaxias pequeñas con metalicidad muy baja.",
+        "Detectaron 10 líneas espectrales de helio y 15 de hidrógeno.",
+        "Obtuvieron una medida de helio primordial del 25 % con una incertidumbre del 0,5 %."
+      ],
+      "conclusion": "Esta precisión reduce significativamente la incertidumbre en la nucleosíntesis del Big Bang, ofreciendo a los modelos cosmológicos datos más fiables para validar teorías sobre los primeros minutos del Universo."
+    },
+    {
+      "title": "La prefectura de París prolonga hasta el lunes el toque de queda en zonas del centro de la capital",
+      "url": "https://www.europapress.es/internacional/noticia-prefectura-paris-prolonga-lunes-toque-queda-zonas-centro-capital-20261022201926.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261022201926_1200.jpg",
+      "source": "Europa Press Tecnología",
+      "language": "es",
+      "que_paso": "La Prefectura de Policía de París decidió extender el toque de queda vigente en áreas centrales, de modo que permanecerá en vigor hasta la mañana del lunes, manteniendo el horario nocturno habitual. La decisión se tomó sin especificar causas adicionales.",
+      "datos": [
+        "La autoridad emisora es la Prefectura de Policía de París",
+        "El toque de queda se extiende hasta el lunes por la mañana",
+        "El horario del toque de queda es de 23:00 a 06:00 horas",
+        "La medida afecta a zonas del centro de la capital francesa"
+      ],
+      "conclusion": "Esta extensión prolonga las restricciones de movilidad nocturna en el corazón de París, obligando a ajustar la planificación operativa y de seguridad para los próximos días."
+    },
+    {
+      "title": "Why Many Voters Are Unhappy With the Economy",
+      "url": "https://www.nytimes.com/video/business/100000011216716/why-many-voters-are-unhappy-with-the-economy.html",
+      "image": "",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "As the upcoming midterm elections draw near, voters are expressing significant dissatisfaction with the state of the economy. Chief economic correspondent Ben Casselman is reporting on the specific economic issues that are driving this frustration.",
+      "datos": [
+        "Midterm elections are approaching",
+        "The economy is a top concern for voters",
+        "Ben Casselman is the chief economic correspondent",
+        "The article aims to describe which economic aspects frustrate voters",
+        "The article is titled \"Why Many Voters Are Unhappy With the Economy\""
+      ],
+      "conclusion": "Voter anxiety about the economy could sway the midterm results, so candidates and policymakers need to address economic grievances promptly."
+    },
+    {
+      "title": "EE UU desmantela un negocio millonario de fraude matrimonial: 40.000 dólares por una pareja y la promesa de una ‘green card’",
+      "url": "https://elpais.com/us/migracion/2026-10-22/ee-uu-desmantela-un-negocio-millonario-de-fraude-matrimonial-40000-dolares-por-una-pareja-y-la-promesa-de-una-green-card.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/MDW7HT342FG5JCCSFVI7TFZIBA.jpg?auth=74bd4c1617503f44241f8b616318e3b36daba4f138de2e983178116758a669cb",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "El Departamento de Justicia de EE. UU. desmanteló una organización que vendía matrimonios falsos a extranjeros, cobrando 40.000 dólares por pareja y facilitando entre 18 y 20 uniones al año, bajo la promesa de obtener una tarjeta verde. La operación se cerró tras una investigación federal que reveló el esquema de fraude matrimonial.",
+      "datos": [
+        "El negocio cobraba 40.000 dólares a cada pareja.",
+        "Se celebraron entre 18 y 20 matrimonios falsos al año.",
+        "Los ingresos totales estimados fueron alrededor de seis millones de dólares.",
+        "La operación fue investigada y cerrada por el Departamento de Justicia de EE. UU.",
+        "El objetivo era ofrecer la ‘green card’ mediante matrimonios fraudulentos."
+      ],
+      "conclusion": "El caso muestra la vulnerabilidad de los procesos de inmigración a esquemas lucrativos y subraya la necesidad de sistemas de detección automatizada para prevenir fraudes similares."
+    },
+    {
+      "title": "El thriller de espías que tiene un 100% de críticas positivas en Rotten Tomatoes ya tiene su sexta temporada completa en Apple TV+",
+      "url": "https://www.xataka.com/streaming/thriller-espias-que-conquista-a-critica-tiene-su-sexta-temporada-completa-apple-tv",
+      "image": "https://i.blogs.es/440ec2/slow_horses_photo_060501.jpg.photo_modal_show_home_large/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "La sexta temporada de la serie de espionaje 'Slow Horses' concluyó en Apple TV+ y recibió una valoración perfecta en Rotten Tomatoes. La trama sigue a agentes descartados del MI5 que, pese a sus errores, siguen involucrados en misiones críticas para la seguridad nacional. La producción anunció la confirmación de dos temporadas adicionales tras el cliffhanger final.",
+      "datos": [
+        "100 % de críticas positivas en Rotten Tomatoes",
+        "Media del 98 % en Rotten Tomatoes",
+        "Puntuación de 8,4 en IMDB",
+        "Emisión de la sexta temporada iniciada el 16 de septiembre de 2026",
+        "Emisión del sexto episodio el 21 de octubre de 2026",
+        "Se confirmaron dos temporadas más después de la sexta"
+      ],
+      "conclusion": "El éxito crítico sugiere que la serie se ha convertido en un referente de calidad en el género, lo que justifica la inversión en nuevas temporadas y la atención de audiencias exigentes."
+    },
+    {
+      "title": "Un terremoto de magnitud 7 sacude el Tíbet",
+      "url": "https://elpais.com/internacional/2026-10-22/un-terremoto-de-magnitud-7-sacude-el-tibet.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/RVVR2UBEIZDXRPNZXP5EAIPTJQ.jpg?auth=bb078a58a79b246d063bb785ee6adee19dbfa5d52fc09572a607d63e56677068",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Un sismo de magnitud 7 golpeó una zona montañosa del Tíbet, provocando heridos y daños en viviendas. Además, se registra como el temblor más fuerte desde enero de 2024 en esa región.",
+      "datos": [
+        "Magnitud del sismo: 7",
+        "Registrado como el temblor más potente desde enero 2024 en la zona",
+        "Causó heridos en la población local",
+        "Dejó daños estructurales en viviendas",
+        "Ocurrió en una región montañosa del Tíbet"
+      ],
+      "conclusion": "El evento muestra la vulnerabilidad de infraestructuras en áreas remotas, lo que obliga a reforzar planes de contingencia y logística para operaciones en zonas sísmicamente activas."
+    },
+    {
+      "title": "Trump acusa a Irán de encarecer el petróleo para dañar las aspiraciones republicanas en las legislativas",
+      "url": "https://www.europapress.es/internacional/noticia-trump-acusa-iran-encarecer-petroleo-danar-aspiraciones-republicanas-legislativas-20261022193913.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261022193913_1200.jpg",
+      "source": "Europa Press Tecnología",
+      "language": "es",
+      "que_paso": "Donald Trump declaró que Irán estaría inflando el precio del crudo para perjudicar al Partido Republicano de cara a las elecciones legislativas del 3 de noviembre, señalando la manipulación del mercado como estrategia electoral.",
+      "datos": [
+        "La acusación se realizó el jueves 23 de octubre de 2026.",
+        "Trump es el presidente de Estados Unidos según el artículo.",
+        "Irán es señalado como responsable del aumento del precio del petróleo.",
+        "Las elecciones legislativas están programadas para el 3 de noviembre de 2026.",
+        "El precio del petróleo ha subido, aunque el artículo no indica cifras exactas."
+      ],
+      "conclusion": "Si la acusación es cierta, la manipulación del precio del petróleo podría influir en la percepción pública y afectar los resultados electorales, obligando a los partidos a considerar la seguridad energética como factor estratégico."
+    },
+    {
+      "title": "Los agentes de IA ya se mueven por cuentas bancarias y algunas entidades de EEUU se preparan para lo peor",
+      "url": "https://www.xataka.com/robotica-e-ia/agentes-ia-se-mueven-cuentas-bancarias-algunas-entidades-eeuu-se-preparan-para-peor",
+      "image": "https://i.blogs.es/2e0f4b/bancos-en-alerta-por-agentes-de-ia-en-cuentas/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "Los clientes están autorizando a agentes de inteligencia artificial a usar sus credenciales para operar en sus cuentas bancarias, y los principales bancos de EE.UU. están empezando a bloquear o restringir ese tipo de acceso. JPMorgan, Morgan Stanley, Bank of America, Citi y Wells Fargo han anunciado medidas para limitar la interacción de agentes externos con sus plataformas, mientras que la industria debate cómo identificar si una acción proviene de un humano o de una IA.",
+      "datos": [
+        "JPMorgan afirma que bloquea, cuando puede, servicios que funcionan mediante intercambio de credenciales considerado inseguro",
+        "Morgan Stanley ha empezado a bloquear agentes de terceros según Axios",
+        "Bank of America y Citi también están imponiendo restricciones al acceso de agentes de IA",
+        "Wells Fargo incorporó cláusulas sobre agentes de IA en sus condiciones que entrarán en vigor el 24 de noviembre",
+        "Los agentes pueden ejecutar compras o mover fondos, lo que genera riesgo de acciones financieras reales si interpretan mal una instrucción",
+        "Los bancos indican que sus sistemas no siempre pueden distinguir la actividad humana de la ejecutada por una herramienta de IA"
+      ],
+      "conclusion": "Esto obliga a las entidades financieras a replantear sus controles de acceso y a desarrollar protocolos de \"día después\" para mitigar riesgos de transacciones no autorizadas y de responsabilidad legal."
     },
     {
       "title": "Trump Ties Disaster Aid to Votes as Midterm Fight Heats Up",
@@ -434,536 +743,98 @@
       "image": "https://static01.nyt.com/images/2026/10/21/multimedia/00cli-disaster-politics-01-btvg/00cli-disaster-politics-01-btvg-mediumSquareAt3X.jpg",
       "source": "NYT Science",
       "language": "en",
-      "que_paso": "President Donald Trump and Vice President JD Vance used recent campaign rallies to suggest that FEMA disaster relief could be linked to political support, targeting states currently dealing with natural disasters. The tactic emerges as the 2026 midterm elections approach, adding a partisan dimension to federal aid distribution.",
+      "que_paso": "President Trump and Vice President JD Vance used campaign rallies to promise FEMA disaster assistance to states that have recently suffered natural catastrophes. The overt connection between federal aid and electoral support comes as the 2026 midterm elections intensify.",
       "datos": [
-        "President Donald Trump is the incumbent U.S. President",
-        "Vice President JD Vance is the incumbent U.S. Vice President",
-        "They referenced FEMA disaster relief funds during campaign rallies",
-        "The statements were made in the weeks leading up to the November 2026 midterm elections",
-        "The article was published on October 22, 2026",
-        "No specific dollar amount for the aid was disclosed"
+        "President Trump is mentioned as offering FEMA money",
+        "Vice President JD Vance is mentioned alongside Trump",
+        "FEMA money is being dangled to disaster‑struck states",
+        "The offers were made during recent campaign rallies",
+        "The actions are occurring as the midterm election fight intensifies"
       ],
-      "conclusion": "The move politicizes emergency assistance, indicating that operations managers should prepare for possible conditional funding and consider nonpartisan contingency plans."
+      "conclusion": "Linking disaster aid to electoral support risks politicizing emergency relief and could influence voter behavior in the upcoming midterms."
     },
     {
-      "title": "BORE Hit The Studio For Their Sophomore Album",
-      "url": "https://www.theprp.com/2026/10/21/news/bore-hit-the-studio-for-their-sophomore-album/",
-      "image": "https://www.theprp.com/app/uploads/2026/07/boreband2026-1200x675.webp",
-      "source": "The PRP",
+      "title": "The Guardian view on AI safety: the push for global regulation must advance | Editorial",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/22/the-guardian-view-on-ai-safety-the-push-for-global-regulation-must-advance",
+      "image": "https://i.guim.co.uk/img/media/7b2ac9acb1cb8d1678d58a8d278df37914456a10/542_0_5417_4335/master/5417.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=b7937bed0d1430eb03bc3576db36e911",
+      "source": "The Guardian AI",
       "language": "en",
-      "que_paso": "Mathcore band BORE began tracking their second album, following their signing to the relaunched Ferret Music label earlier this year. The band announced the start of recording on October 20 via social media, and the label plans a deluxe reissue of their debut album “Feral” on November 6.",
+      "que_paso": "On Thursday, global tech groups rushed to patch critical PHP vulnerabilities that could let attackers seize servers, a flaw uncovered with AI assistance but also exploitable by AI tools. The episode coincided with two AI‑driven cyber‑attacks this year—one on an Australian health department site and another on Hugging Face—prompting UK AI minister Kanishka Narayan to warn of an imminent UK breach, while the US administration under Donald Trump continues to reject international AI regulation.",
       "datos": [
-        "BORE is a mathcore group.",
-        "Ferret Music relaunched and announced BORE as one of its first signings earlier in 2026.",
-        "Tracking for BORE’s sophomore album started on October 20, 2026.",
-        "Ferret Music will release a deluxe version of BORE’s album “Feral” on November 6, 2026.",
-        "The deluxe edition will include various bonus tracks."
+        "The PHP flaws were publicly disclosed on Thursday, prompting immediate offline precautions on several websites.",
+        "Amazon reported detecting an exploitation attempt before the PHP vulnerability was made public.",
+        "OpenAI’s models were linked to two hacks in 2026: a breach of an Australian health department website and a swarm of AI bots targeting Hugging Face.",
+        "Kanishka Narayan, UK AI minister, warned that a similar cyber‑attack on the UK is \"likely, if not inevitable\".",
+        "Andy Burnham announced that AI will be the top agenda item during the UK’s G20 presidency in the first half of 2027.",
+        "President Donald Trump publicly dismissed calls for international AI regulation, stating \"Whoever wins AI, wins.\""
       ],
-      "conclusion": "The new recording signals BORE’s upcoming release cycle and shows Ferret Music’s strategy to revitalize its catalog with both fresh material and expanded editions, which could boost the band’s market presence."
+      "conclusion": "The convergence of AI‑enabled security flaws and political resistance to regulation heightens operational risk, underscoring the need for robust, independent cyber safeguards and proactive compliance planning."
     },
     {
-      "title": "El Vaticano anuncia que el tumor del Papa estaba localizado y no necesita ninguna terapia posterior",
-      "url": "https://elpais.com/internacional/2026-10-21/el-vaticano-anuncia-que-el-tumor-del-papa-estaba-localizado-y-no-necesita-ninguna-terapia-posterior.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/3WHD6FBXOJFGHJPJTMDSKOBMOI.jpg?auth=ae1b1cccd1bedc1169f848102692d6586a05c5a485e83b5fe867cf0f1d3c8345&width=1200",
-      "source": "El País",
+      "title": "La cotización del gas natural en Europa rompe nuevos máximos desde finales de 2022",
+      "url": "https://www.eldiario.es/economia/cotizacion-gas-natural-europa-rompe-nuevos-maximos-finales-2022_1_13607866.html",
+      "image": "https://static.eldiario.es/clip/c3e6d659-44bc-46fa-b63c-e9c90315346d_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "source": "elDiario.es",
       "language": "es",
-      "que_paso": "El Papa Francisco se sometió a una cirugía para extirpar un tumor pulmonar y, tras los análisis histológicos, la Santa Sede confirmó que el cáncer está localizado y no requiere tratamientos adicionales. La operación, realizada por el cirujano Stefano Margaritora, siguió a la decisión anunciada el 11 de octubre y culminó con el alta hospitalaria el 19 de octubre, disipando la incertidumbre que había mantenido a la Iglesia en vilo durante diez días.",
+      "que_paso": "El precio del gas natural TTF en el mercado holandés superó los 91 euros/MWh, alcanzando su nivel más alto desde diciembre de 2022, y provocó una caída de más del 2% en el Ibex español. La subida se produce en medio de la crisis energética derivada de la invasión rusa a Ucrania y el aumento de tensiones en Oriente Medio, que elevan la preocupación por el suministro invernal.",
       "datos": [
-        "El Papa anunció la operación el 11 de octubre de 2026",
-        "Fue dado de alta del Hospital Gemelli el sábado 19 de octubre de 2026",
-        "El tumor fue identificado como un adenocarcinoma pulmonar localizado",
-        "La evaluación oncológica concluyó que no es necesaria ninguna terapia adicional",
-        "El viaje pastoral a Uruguay, Argentina y Perú está programado del 6 al 17 de noviembre de 2026"
+        "A las 15:18 h (13:18 GMT) el TTF cotizó 91,416 €/MWh, un repunte del 4,8 % respecto al cierre del miércoles",
+        "A las 18:30 h (16:30 GMT) el precio era 90,885 €/MWh, un avance del 4,46 %",
+        "En la jornada el Ibex español perdió más del 2 % de su valor",
+        "En el acumulado del año el precio del gas natural en Europa subió más del 220 %",
+        "Desde el estallido del conflicto en Oriente Medio la revalorización supera el 185 %",
+        "Los inventarios europeos están alrededor del 75 % de su capacidad, considerado excepcionalmente bajo para esta época del año"
       ],
-      "conclusion": "La ausencia de tratamientos complementarios permite que el pontificado mantenga su agenda sin interrupciones y que el viaje a América del Sur se realice según lo previsto, garantizando continuidad operativa y presencia institucional."
+      "conclusion": "Este nivel de precios eleva los costos operativos y la vulnerabilidad ante interrupciones de suministro, lo que obliga a los gestores a reforzar estrategias de cobertura y diversificación energética."
     },
     {
-      "title": "Soilwork Share New Single “Night Whispers & Shining Lights”",
-      "url": "https://www.theprp.com/2026/10/21/news/soilwork-share-new-single-night-whispers-shining-lights/",
-      "image": "https://www.theprp.com/app/uploads/2026/10/soilworklarge2026-1200x675.webp",
-      "source": "The PRP",
-      "language": "en",
-      "que_paso": "Swedish melodic death‑metal band Soilwork released a new single called “Night Whispers & Shining Lights” as part of their 30‑year anniversary celebrations, and announced they will be the direct support act for Amon Amarth on a European tour with Orbit Culture as the opener.",
-      "datos": [
-        "The single was released in October 2026.",
-        "Soilwork is marking its 30th anniversary, having formed in 1996.",
-        "The tour includes dates such as 23 Oct 2026 in Gothenburg (Scandinavium), 24 Oct 2026 in Stockholm (Hovet), and 14 Nov 2026 in Madrid (Vistalegre).",
-        "Soilwork will perform as direct support for Amon Amarth, with Orbit Culture opening each show.",
-        "The itinerary covers 15 European cities across Sweden, Finland, Estonia, Poland, Germany, Hungary, Austria, Czech Republic, Italy, Switzerland, Spain and Portugal."
-      ],
-      "conclusion": "The release leverages a milestone to deliver fresh material and keep fans engaged, while the extensive tour provides a high‑visibility platform to promote the new track and sustain Soilwork’s relevance in the metal scene."
-    },
-    {
-      "title": "El iPhone Duo de 2.300 euros desata una fiebre inédita por los plegables: se agota y acumula tres meses de espera",
-      "url": "https://elpais.com/tecnologia/2026-10-21/el-iphone-duo-de-2300-euros-desata-una-fiebre-inedita-por-los-plegables-se-agota-y-acumula-tres-meses-de-espera.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/F4RND5QHWFARPGKRPWH7OOQ34E.jpg?auth=2f96e7bd351cdaff32a4824a5ead667b6322c0d1a6716fc3b16923e51e5f9c1e",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Apple lanzó el iPhone Duo, un smartphone plegable de 2.300 €, que empezó a venderse el viernes en sus tiendas oficiales y provocó colas extensas y una lista de espera de tres meses.",
-      "datos": [
-        "Precio de venta: 2.300 euros",
-        "Modelo: iPhone Duo",
-        "Fecha de inicio de ventas: viernes 23 de octubre de 2026",
-        "Apple reserva parte del stock para la presentación presencial",
-        "Se estima una espera de tres meses para conseguir una unidad",
-        "Se anticipan largas colas en las tiendas oficiales"
-      ],
-      "conclusion": "El entusiasmo demuestra que los usuarios están dispuestos a pagar precios premium por dispositivos plegables, lo que sugiere oportunidades de inversión en la cadena de suministro y servicios de soporte de alta gama."
-    },
-    {
-      "title": "Cornell Case Highlights Shifting Federal Title IX Enforcement",
-      "url": "https://www.nytimes.com/2026/10/21/us/politics/title-ix-trump-administration-cornell.html",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21dc-title-nine-01-wcmg/21dc-title-nine-01-wcmg-mediumSquareAt3X.jpg",
+      "title": "A Young Family in Niagara, N.Y., and a Backyard Full of Radioactive Waste",
+      "url": "https://www.nytimes.com/2026/10/22/nyregion/niagara-new-york-radioactive-waste.html",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22met-niagara-radiation-TOP/22met-niagara-radiation-TOP-mediumSquareAt3X.jpg",
       "source": "New York Times",
       "language": "en",
-      "que_paso": "A legal dispute involving Cornell University has brought national attention to how federal Title IX enforcement has changed as successive administrations applied different ideological approaches, highlighting the politicization of campus sex‑discrimination policy.",
+      "que_paso": "A young family that moved to a suburban property near a creek in Niagara, New York, discovered that their backyard contained radioactive waste. When the contamination was reported, officials in hazmat suits arrived to assess and secure the site.",
       "datos": [
-        "Cornell University is the institution at the center of the case.",
-        "The case concerns Title IX, the federal law that bans sex discrimination in education.",
-        "Interpretations of Title IX have varied under the administrations of President Barack Obama and President Donald Trump.",
-        "The U.S. Department of Education’s Office for Civil Rights is the agency that enforces Title IX."
+        "The incident is located in Niagara, New York.",
+        "The occupants are a young family.",
+        "The waste found in the backyard is radioactive.",
+        "The property is adjacent to a creek.",
+        "Officials arrived wearing hazmat suits.",
+        "The situation is compared to the historic Love Canal disaster."
       ],
-      "conclusion": "The shifting enforcement signals that universities must stay agile in compliance and operational planning, as changes in political leadership can directly affect policy requirements and risk exposure."
+      "conclusion": "The case shows that legacy environmental hazards can still surface in new residential areas, emphasizing the importance of rigorous site investigations before development."
     },
     {
-      "title": "America Mints a New National Park, Elevating an Arizonan ‘Sky Island’",
-      "url": "https://www.nytimes.com/2026/10/21/travel/new-national-park-chiricahua.html",
-      "image": "https://static01.nyt.com/images/2026/10/21/realestate/21TRAV-CHIRICAHUA-NATIONAL-PARK/21TRAV-CHIRICAHUA-NATIONAL-PARK-mediumSquareAt3X.jpg",
-      "source": "NYT Science",
+      "title": "PHP: Pretty Huge Problem with the internet – The Latest",
+      "url": "https://www.theguardian.com/news/audio/2026/oct/22/php-pretty-huge-problem-with-the-internet-the-latest",
+      "image": "https://i.guim.co.uk/img/media/eeb6791579970ff0968225bdfad79e92811c575b/334_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ac5a23263ccfa1111498b573d6cdd172",
+      "source": "The Guardian AI",
       "language": "en",
-      "que_paso": "The federal government officially redesignated the Chiricahua National Monument as a national park, expanding its protection status. Lawmakers from both parties and the National Park Service played key roles in the approval.",
+      "que_paso": "A critical vulnerability in the PHP programming language has caused widespread website outages worldwide. Governments, businesses, and cybersecurity firms are racing to patch the flaw while hackers launch attacks to steal data and seize control of servers.",
       "datos": [
-        "It is the 64th national park in the United States.",
-        "The park is located in southeast Arizona.",
-        "The area was previously designated as Chiricahua National Monument.",
-        "Its designation followed years of bipartisan legislative effort.",
-        "The region is classified as a 'Sky Island' ecosystem."
+        "Websites around the world have been taken offline due to the PHP flaw.",
+        "Governments and businesses are scrambling to fix the vulnerability.",
+        "Cybersecurity companies report millions of attack attempts since the issue was disclosed.",
+        "The vulnerability could allow hackers to steal data, take control of web servers, and disrupt services.",
+        "Michael Safi interviewed global technology reporter Aisha Down in a YouTube video."
       ],
-      "conclusion": "Adding a new park strengthens protection of the unique Sky Island habitats and is likely to increase tourism and economic activity in the surrounding area."
+      "conclusion": "The PHP flaw jeopardizes the stability of a large portion of the internet, making rapid remediation essential to protect data and maintain service continuity."
     },
     {
-      "title": "Científicos convierten plástico en miles de millones de nanodiamantes mediante potentes disparos láser",
-      "url": "https://www.xataka.com/materiales/cientificos-convierten-plastico-miles-millones-nanodiamantes-mediante-potentes-disparos-laser",
-      "image": "https://i.blogs.es/3086ca/botella-diamante/840_560.jpeg",
-      "source": "Xataka",
-      "language": "es",
-      "que_paso": "Un equipo del Helmholtz‑Zentrum Dresden‑Rossendorf y la Universidad de Rostock disparó pulsos láser contra una lámina de PET de 100 µm, logrando que el carbono se transformara en nanodiamantes que pudieron ser capturados y analizados intactos. Este es el primer método que demuestra la supervivencia de los nanodiamantes al volver a condiciones normales de presión y temperatura.",
-      "datos": [
-        "Los experimentos se realizaron en la instalación Extreme Light Infrastructure (ELI) cerca de Praga, donde el láser dispara unas tres veces por minuto.",
-        "Cada pulso láser generó aproximadamente diez billones (10 × 10¹²) de nanodiamantes.",
-        "Los nanodiamantes obtenidos tenían un diámetro medio de tres nanómetros y contenían cerca de 3 000 átomos de carbono cada uno.",
-        "Se necesitaron alrededor de 100 disparos para recolectar unos pocos cientos de microgramos de material.",
-        "Las partículas fueron expulsadas a más de diez kilómetros por segundo y se capturaron usando un gel iónico blando soluble en agua.",
-        "Según el equipo, el método láser produce nanodiamantes con mayor pureza, menor tamaño y distribución de tamaños más estrecha que los fabricados con explosivos."
-      ],
-      "conclusion": "Este proceso ofrece una vía más limpia y controlada para producir nanodiamantes, lo que podría sustituir a los métodos explosivos y mejorar aplicaciones industriales y de sensores cuánticos."
-    },
-    {
-      "title": "Multa histórica para Meta: pagará 25.000 millones de dólares en Nuevo México por las malas prácticas de Facebook",
-      "url": "https://elpais.com/us/2026-10-21/multa-historica-para-meta-debera-pagar-25000-millones-de-dolares-en-nuevo-mexico.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/JJ73DYGMCBEKDBNNACJD2MZE54.jpg?auth=db50aefd8710c24532fd3ff729128910c2503915b94ecbba8d756e42e5f57826&width=1200",
+      "title": "El coqueteo de Trump con Putin incomoda a los candidatos republicanos en la recta final de las ‘midterms’",
+      "url": "https://elpais.com/us/2026-10-22/el-coqueteo-de-trump-con-putin-incomoda-a-los-candidatos-republicanos-en-la-recta-final-de-las-midterms.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/CRXHMVLCDVD47K3CHTTSDKYMP4.jpg?auth=cff8dbec099b5fdd838577be9db8d20799f05bef0c79a0eecc12e02789b27ceb",
       "source": "El País",
       "language": "es",
-      "que_paso": "Un juez de Nuevo México condenó a Meta a pagar una multa récord tras que un jurado determinara que la empresa engañó a usuarios de Facebook sobre la moderación de contenidos y sus políticas de privacidad. El proceso, liderado por el fiscal general del estado, Raúl Torrez, se basó en miles de infracciones y en la venta de datos de millones de usuarios a Cambridge Analytica. Meta ha anunciado su intención de apelar la sentencia.",
+      "que_paso": "Donald Trump respaldó al enviado especial que calificó a Vladimir Putin de “humanitario” y anunció la eliminación de sanciones a Moscú con el objetivo de abaratar el diésel, lo que ha generado incomodidad entre varios candidatos republicanos mientras se acercan las elecciones de medio término.",
       "datos": [
-        "La multa asciende a 25.000 millones de dólares (más de 22.000 millones de euros).",
-        "El jurado constató 43 millones de violaciones de protección al consumidor.",
-        "Cada infracción se sancionó con 5.000 dólares, totalizando la multa de 25.000 millones.",
-        "Se reveló que los datos de 87.000.000 de usuarios fueron vendidos a Cambridge Analytica.",
-        "El juez que dictó la sentencia es Francis Mathew.",
-        "El fiscal general Raúl Torrez indicó que el dinero financiará un fondo estatal para la educación."
+        "Donald Trump, presidente de EE. UU., apoyó al enviado especial que describió a Putin como “humanitario”.",
+        "El presidente anunció la retirada de sanciones a Rusia para intentar reducir el precio del diésel en EE. UU..",
+        "La medida se produce en la recta final de la campaña para las elecciones de medio término de noviembre de 2026.",
+        "Varios candidatos republicanos expresaron su molestia por el acercamiento de Trump a Putin.",
+        "El objetivo declarado de levantar las sanciones es abaratar el diésel para consumidores e industria."
       ],
-      "conclusion": "La decisión evidencia un endurecimiento regulatorio que obliga a las plataformas a revisar sus prácticas de privacidad y moderación, y el enorme fondo educativo muestra cómo los estados pueden canalizar sanciones para beneficios públicos."
-    },
-    {
-      "title": "Why Did Polymarket Think It Was a Good Idea to Allow Bets on the Fates of the Cornell 7?",
-      "url": "https://futurism.com/future-society/polymarket-cornell-7",
-      "image": "https://futurism.com/wp-content/uploads/2026/10/polymarket-cornell-7.jpg?w=1200",
-      "source": "Futurism",
-      "language": "en",
-      "que_paso": "Polymarket hosted a prediction market titled “Any of the Cornell 7 charged with a felony sex crime?” starting on September 30, 2026, allowing users to wager on the outcome of a civil rape lawsuit involving seven Cornell fraternity members. After women’s‑rights groups and Front Office Sports highlighted the bet, the platform removed it following a public outcry.",
-      "datos": [
-        "The market opened on September 30, 2026 and remained active for nearly three weeks.",
-        "The market’s title was “Any of the Cornell 7 charged with a felony sex crime?”.",
-        "A civil suit was filed in September 2026 by a former Cornell student alleging drugging and gang‑rape by the seven students.",
-        "Polymarket responded to media inquiries with a boilerplate statement and later said it would “respectfully decline comment at this time.”",
-        "The bet was taken down after Front Office Sports published a story about it.",
-        "Polymarket has previously removed markets on topics such as a potential nuclear weapon detonation before next year."
-      ],
-      "conclusion": "The episode illustrates how prediction markets can generate reputational risk when applied to sensitive legal cases, prompting operators to reconsider content policies and the practical limits of crowd‑sourced insight."
-    },
-    {
-      "title": "Report: Musk ordered Starlink slowdown in Ukraine, then blamed it on Trump",
-      "url": "https://arstechnica.com/tech-policy/2026/10/report-says-musk-not-trump-ordered-starlink-throttling-that-blindsided-ukraine/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/starlink-ukraine-1152x648-1792605015.jpg",
-      "source": "Ars Technica",
-      "language": "en",
-      "que_paso": "Elon Musk personally ordered a speed cap on the military‑grade Starshield service used by Ukraine, limiting drone communications to 160 kph, which disrupted offensive and interceptor drones during Ukraine’s air assault. The decision followed conversations with President Trump and White House officials and was publicly denied by both Musk and Trump.",
-      "datos": [
-        "The speed cap cut connections when a terminal moved faster than 160 kph (100 mph).",
-        "Musk posted on October 14, 2026, stating that Starshield systems are owned by the US government and any limits are decided by the US military and POTUS.",
-        "Trump told reporters on October 16, 2026, that he did not order the slowdown.",
-        "The restriction was imposed early Thursday, October 15, 2026.",
-        "The Wall Street Journal report describing the decision was published on October 22, 2026."
-      ],
-      "conclusion": "The unilateral speed restriction reduced the effectiveness of Ukraine’s drone operations, illustrating that private control over critical communications can directly affect battlefield performance and that dependence on such services entails strategic vulnerability."
-    },
-    {
-      "title": "Vermont: qué ver y visitar en el lugar por excelencia del otoño en Estados Unidos",
-      "url": "https://www.eldiario.es/viajes/vermont-que-ver-lugar-excelencia-otono-estados-unidos-pm_1_13605035.html",
-      "image": "https://static.eldiario.es/clip/7b139cff-45c7-483d-b993-ff34a588a7ad_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "que_paso": "El artículo describe las principales localidades y atractivos de Vermont para la temporada de otoño, enfocándose en el fenómeno del \"leaf peeping\" y la oferta cultural de pueblos como Grafton, Woodstock y Stowe. Señala que la región combina paisajes rurales, arquitectura histórica y actividades recreativas, y menciona la influencia histórica de Samuel de Champlain.",
-      "datos": [
-        "Vermont limita al norte con Canadá y forma parte de la región de Nueva Inglaterra.",
-        "El nombre \"Vermont\" proviene del francés \"mont vert\" y fue asignado por el explorador Samuel de Champlain en 1609.",
-        "Montpelier, la capital del estado, alberga la State House, un edificio del siglo XIX con una cúpula dorada.",
-        "El pueblo de Brandon cuenta con más de 243 lugares catalogados como históricos.",
-        "Stowe alberga la estación de esquí del Monte Mansfield, conocida por sus actividades culturales y deportivas."
-      ],
-      "conclusion": "Para quien busca combinar turismo de naturaleza con experiencias culturales, Vermont ofrece una ruta de otoño bien definida que puede incorporarse a planes de viaje o eventos corporativos, aprovechando su infraestructura histórica y recreativa."
-    },
-    {
-      "title": "Cómo saber si una web está afectada por la vulnerabilidad de PHP con la herramienta que OpenAI ha publicado",
-      "url": "https://www.xataka.com/seguridad/como-saber-web-esta-afectada-vulnerabilidad-php-herramienta-que-openai-ha-publicado",
-      "image": "https://i.blogs.es/6fe9ad/herramienta-de-openai-para-verificar-php-codex/840_560.jpeg",
-      "source": "Xataka",
-      "language": "es",
-      "que_paso": "OpenAI lanzó dos skills para Codex que permiten comprobar la versión de PHP que una web expone, ya sea mediante una URL pública o con acceso directo al servidor. La iniciativa surge después de que se detectaran dos vulnerabilidades críticas en PHP, lo que ha llevado a administradores de varios países a revisar y actualizar sus servidores con urgencia.",
-      "datos": [
-        "Se detectaron dos vulnerabilidades críticas en PHP que obligaron a revisiones urgentes de servidores",
-        "OpenAI publicó las skills phpcheck‑url y phpcheck‑server para el entorno Codex",
-        "La skill phpcheck‑url funciona con una URL pública y realiza una petición HEAD para obtener la versión de PHP",
-        "La skill phpcheck‑server requiere acceso al servidor y verifica la instalación real de PHP",
-        "La instalación de las skills se realiza copiando un comando que clona el repositorio oficial de OpenAI en GitHub",
-        "En la prueba del artículo se utilizó el dominio Expasy.org como ejemplo de URL a analizar"
-      ],
-      "conclusion": "El checker permite a los responsables de operaciones validar rápidamente si sus sitios están expuestos a versiones vulnerables de PHP sin necesidad de instalar herramientas pesadas, facilitando una respuesta inmediata ante la amenaza."
-    },
-    {
-      "title": "GM Aims to Bring ‘Eyes-Off’ Driving to AI-Powered Cars Within 2 Years",
-      "url": "https://www.nytimes.com/2026/10/21/business/gm-ai-electric-vehicles-china.html",
-      "image": "https://static01.nyt.com/images/2026/10/21/upshot/21biz-gm/21biz-gm-mediumSquareAt3X.jpg",
-      "source": "NYT Tech",
-      "language": "en",
-      "que_paso": "General Motors announced that it will develop fully hands‑free, “eyes‑off” driving capabilities for its AI‑powered vehicles within the next two years, and is actively recruiting artificial‑intelligence expertise to accelerate the program. The move is a response to rapid model rollouts by Chinese automakers that are outpacing traditional manufacturers.",
-      "datos": [
-        "Target timeline: GM aims to launch eyes‑off driving functionality by 2028.",
-        "GM is partnering with external AI firms to supplement its internal development.",
-        "Chinese automakers are introducing new vehicle models at a pace described as “very quickly” by GM executives.",
-        "The initiative focuses on AI‑powered cars, indicating a shift toward higher levels of vehicle autonomy."
-      ],
-      "conclusion": "Accelerating hands‑free driving will force GM’s operations to integrate AI talent and adjust supply chains, while signaling that autonomous features will become a near‑term market differentiator."
-    },
-    {
-      "title": "Sánchez advierte de que si Feijóo y Abascal ganan las elecciones harán lo mismo que Milei en Argentina",
-      "url": "https://www.europapress.es/nacional/noticia-sanchez-advierte-si-gobiernan-feijoo-abascal-haran-mismo-milei-argentina-20261021201653.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261021201653_1200.jpg",
-      "source": "Europa Press Ciencia",
-      "language": "es",
-      "que_paso": "Pedro Sánchez, presidente y candidato del PSOE, advirtió que una victoria del PP y Vox el 29 de noviembre podría llevar a España a adoptar medidas similares a las del presidente argentino Javier Milei. La declaración se realizó este miércoles en medio de la campaña electoral, señalando una comparación con la gestión en Argentina.",
-      "datos": [
-        "Pedro Sánchez es presidente del Gobierno y candidato del PSOE a las elecciones generales.",
-        "El voto está programado para el 29 de noviembre de 2026.",
-        "Los partidos que podrían ganar son el Partido Popular (PP) y Vox.",
-        "Javier Milei es presidente de Argentina y ha implementado políticas controvertidas que Sánchez menciona.",
-        "La advertencia se hizo pública el miércoles 22 de octubre de 2026."
-      ],
-      "conclusion": "El mensaje busca presentar al bloque PP‑Vox como una amenaza de radicalismo, lo que podría influir en la decisión de los votantes indecisos y orientar la campaña del PSOE hacia la seguridad institucional."
-    },
-    {
-      "title": "Ayuso insiste en el fantasma del fraude electoral con la ley de nietos en su reunión a puerta cerrada con Milei",
-      "url": "https://www.eldiario.es/madrid/ayuso-insiste-fantasma-fraude-electoral-ley-nietos-reunion-puerta-cerrada-milei_1_13604729.html",
-      "image": "https://static.eldiario.es/clip/139ca669-97e3-4fb9-880b-1900315ddb01_facebook-aspect-ratio-1200-675_default_0_x1048y401.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "que_paso": "Isabel Díaz Ayuso recibió al presidente argentino Javier Milei en una reunión a puerta cerrada en las instalaciones del Canal de Isabel II en Madrid, donde intercambiaron opiniones sobre la ley de nietos y acusaciones de fraude electoral. El encuentro, que duró aproximadamente dos horas, concluyó con invitaciones mutuas para futuros viajes oficiales.",
-      "datos": [
-        "El encuentro tuvo lugar el miércoles y fue comunicado por la Comunidad de Madrid mediante un comunicado oficial",
-        "La reunión duró unas dos horas según el comunicado",
-        "Ayuso invitó a Milei a la XXX Cumbre Iberoamericana que se celebrará a principios de noviembre en Madrid",
-        "Milei recibió una invitación para que Ayuso vuelva a visitar Argentina",
-        "El Tribunal Constitucional rechazó el miércoles la solicitud del Defensor del Pueblo de reactivar el voto de 160 000 personas nacionalizadas bajo la ley de nietos, manteniéndose la suspensión del Supremo desde principios de septiembre"
-      ],
-      "conclusion": "El acercamiento refuerza la alianza entre Madrid y la presidencia argentina, lo que podría influir en la agenda electoral española y en la discusión sobre la ampliación del sufragio bajo la ley de nietos antes de la cumbre iberoamericana."
-    },
-    {
-      "title": "Meta, condenada a pagar 25.000 millones de dólares por engañar a los usuarios de Facebook en materia de privacidad",
-      "url": "https://www.eldiario.es/tecnologia/meta-condenada-pagar-25-000-millones-enganar-usuarios-facebook-materia-privacidad_1_13604776.html",
-      "image": "https://static.eldiario.es/clip/9b6ff24c-1dd2-4084-aada-582a8d41e032_facebook-aspect-ratio-1200-675_default_0_x1213y647.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "que_paso": "Un juez federal de Nuevo México ordenó a Meta pagar 25.000 millones de dólares después de que un jurado lo declarara responsable de engañar a los usuarios de Facebook sobre la privacidad y la moderación de contenidos, basándose en el escándalo de Cambridge Analytica. La sentencia se produce tras una demanda estatal que buscaba sancionar a la empresa por violar leyes de protección al consumidor, sin que Meta haya llegado a un acuerdo con el estado.",
-      "datos": [
-        "El juez Francis Mathew dictó la multa de 25.000 millones de dólares a Meta.",
-        "El jurado halló a Meta responsable de más de 43 millones de infracciones de la ley de protección al consumidor de Nuevo México.",
-        "Cambridge Analytica recopiló datos de aproximadamente 87 millones de perfiles de Facebook para anuncios políticos en 2016.",
-        "El fiscal general de Nuevo México, Raúl Torrez, solicitó entre 35.000 y 40.000 millones de dólares en daños.",
-        "Los abogados de Meta argumentaron que la indemnización no debería superar los 3.400 millones de dólares."
-      ],
-      "conclusion": "La decisión muestra que los estados pueden imponer sanciones multimillonarias a gigantes tecnológicos por prácticas de privacidad engañosas, lo que obliga a Meta y a otras empresas a revisar sus políticas de datos para evitar riesgos financieros y regulatorios."
-    },
-    {
-      "title": "PSOE y Adelante amenazan al Parlamento andaluz con ir al Constitucional si avala la reforma que da a PP y Vox el control de la Cámara de Cuentas",
-      "url": "https://www.eldiario.es/andalucia/psoe-adelante-amenazan-parlamento-andaluz-constitucional-si-avala-reforma-da-pp-vox-control-camara-cuentas_1_13602387.html",
-      "image": "https://static.eldiario.es/clip/666fa579-301f-4a4f-8c86-3a5562f16a31_facebook-aspect-ratio-1200-675_default_0_x1064y345.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "que_paso": "El bloque de gobierno formado por PP y Vox ha impulsado una reforma exprés de la Ley de la Cámara de Cuentas de Andalucía para modificar la composición del órgano de control y asegurar su mayoría. Los partidos de izquierda, encabezados por PSOE y Adelante Andalucía, han anunciado que recurrirán al Tribunal Constitucional si la reforma se aprueba, denunciando un proceso antidemocrático y una vulneración del derecho de representación.",
-      "datos": [
-        "PP y Vox poseen una mayoría de tres quintos en el Parlamento andaluz",
-        "La Ley de la Cámara de Cuentas tiene 38 años de vigencia",
-        "El escrito presentado por el PSOE tiene 18 páginas",
-        "La reforma propone suprimir un párrafo de un solo artículo de la ley",
-        "La presidenta del Parlamento es Ana Mestre, del PP",
-        "Los grupos de izquierda (PSOE, Adelante Andalucía y Por Andalucía) han presentado escritos a la Mesa del Parlamento y a la presidencia de la Cámara de Cuentas"
-      ],
-      "conclusion": "Si la reforma se mantiene, el control de la Cámara de Cuentas pasará al bloque progresista, lo que podría debilitar la supervisión independiente de la gestión pública y sentar un precedente de uso de la urgencia legislativa para alterar equilibrios institucionales."
-    },
-    {
-      "title": "Hay tanta basura en órbita que los científicos proponen algo: que cada satélite pague una fianza de 200.000 dólares",
-      "url": "https://www.xataka.com/espacio/hay-tanta-basura-orbita-que-cientificos-proponen-algo-que-cada-satelite-pague-fianza-200-000-dolares",
-      "image": "https://i.blogs.es/763a58/basura-espacial/840_560.jpeg",
-      "source": "Xataka",
-      "language": "es",
-      "que_paso": "Un equipo de investigadores de la Universidad de Colorado Boulder y el University College London ha presentado una propuesta para obligar a los operadores de satélites a pagar una fianza de 200.000 dólares antes del lanzamiento, que se devolvería con intereses si el satélite se desorbita al final de su vida útil. La medida busca crear un fondo que financie la retirada de basura espacial y podría adoptarse mediante normativa nacional sin necesidad de acuerdos internacionales.",
-      "datos": [
-        "La fianza propuesta asciende a 200.000 dólares por satélite.",
-        "Los autores del estudio son investigadores de la Universidad de Colorado Boulder y del University College London.",
-        "La propuesta se detalla en un artículo publicado en Nature Communications.",
-        "Si solo el 20 % de los lanzamientos mundiales adoptara la medida, los satélites abandonados se reducirían en un 18 %.",
-        "En 2025 la administración Trump anunció una revisión de las garantías similares aprobadas bajo Biden en EE. UU.",
-        "EE. UU es el país que más satélites lanza, con SpaceX como el principal operador."
-      ],
-      "conclusion": "Si se implementa, la fianza trasladaría el costo de la limpieza del espacio a los propios lanzadores, incentivando la desorbitación responsable y reduciendo el riesgo de colisiones en cadena."
-    },
-    {
-      "title": "Does opting out of smart TV tracking work? Research finds “suspicious” traffic.",
-      "url": "https://arstechnica.com/gadgets/2026/10/does-opting-out-of-smart-tv-tracking-work-research-finds-suspicious-traffic/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2226225055-1152x648.jpg",
-      "source": "Ars Technica",
-      "language": "en",
-      "que_paso": "Researchers from Northeastern University examined eight smart‑TV operating systems on twelve devices from ten manufacturers and discovered that disabling the built‑in tracking setting does not stop automatic content recognition data from being transmitted to external servers.",
-      "datos": [
-        "The study covered OSes that represent roughly 95 % of U.S. smart‑TV market share.",
-        "A total of 5,943 controlled experiments were run.",
-        "Samsung Tizen, Vizio SmartCast and Roku OS TVs continued sending ACR traffic after opt‑out.",
-        "Roku OS devices only sent data when using The Roku Channel app, as disclosed in Roku’s terms of service.",
-        "The researchers identified ACR endpoints for each OS using Wi‑Fi control scripts and Mon(IoT)r/SPHERE infrastructure.",
-        "Ten manufacturers were represented, including Amazon, Hisense, LG, Roku, Samsung, Sony, Supersonic, TCL, Vizio and Westinghouse."
-      ],
-      "conclusion": "Opt‑out settings on most major smart TVs are ineffective, meaning users’ viewing habits can still be harvested; organizations should reassess privacy controls and regulators may need to enforce stricter transparency."
-    },
-    {
-      "title": "Francesco Colonnese deja la vicepresidencia de Omoda y Jaecoo en España",
-      "url": "https://www.eldiario.es/motor/protagonistas/francesco-colonnese-deja-vicepresidencia-omoda-jaecoo-espana_1_13604692.html",
-      "image": "https://static.eldiario.es/clip/ef956103-0984-4366-879c-c8d34d252d2f_facebook-aspect-ratio-1200-675_default_0_x891y122.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "que_paso": "Francesco Colonnese abandonará a finales de octubre su cargo de vicepresidente de Omoda y Jaecoo en España, siendo sustituido interinamente por el actual CEO Andrew Li. Su salida coincide con la fase de expansión de las marcas chinas en el mercado español, donde han registrado un fuerte aumento de matriculaciones. Además, Colonnese se incorporará a la dirección de Hyundai en Italia.",
-      "datos": [
-        "Colonnese dejó la vicepresidencia a finales de octubre de 2026.",
-        "Andrew Li asumirá interinamente las funciones de vicepresidente hasta que se nombre un nuevo directivo.",
-        "Omoda y Jaecoo matricularon 4.010 turismos en España en septiembre de 2026, superando a MG y acercándose a BYD.",
-        "Entre enero y septiembre de 2026, las dos marcas acumularon 29.475 matriculaciones, frente a 16.226 del mismo periodo de 2025, lo que representa un crecimiento del 81,6 %.",
-        "El mercado español de turismos creció un 6,7 % en los primeros nueve meses de 2026, alcanzando 912.059 unidades."
-      ],
-      "conclusion": "El cambio de liderazgo refuerza la estrategia de Chery en Europa mientras la rápida expansión de Omoda y Jaecoo muestra la creciente competitividad de los fabricantes chinos en España."
-    },
-    {
-      "title": "Un vídeo muestra a militares en Ceuta pegando tortazos a un migrante aparentemente menor: \"No entendéis la libertad, solo la humillación\"",
-      "url": "https://www.eldiario.es/desalambre/video-muestra-militares-ceuta-pegando-tortazos-migrante-aparentemente-menor-no-entendeis-libertad-humillacion_1_13603387.html",
-      "image": "https://static.eldiario.es/clip/d77a2dc6-a76b-4765-b73f-ba3bba6dc951_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "que_paso": "Durante la noche del lunes al martes, cinco soldados del Grupo de Regulares de Ceuta nº 54 despertaron a varios migrantes que dormían en la barriada del Mixto, cerca de las Murallas Meriníes, y uno de ellos, un joven marroquí que parecía menor, recibió tres bofetadas tras un intercambio de palabras en dariya.",
-      "datos": [
-        "Los hechos se registraron en la barriada del Mixto, Ceuta, junto a las Murallas Meriníes.",
-        "Participaron cinco efectivos del Grupo de Regulares de Ceuta número 54.",
-        "El agresor habló en dialecto dariya y pronunció expresiones como “Me voy a cagar en tu madre”.",
-        "El video fue difundido por vecinos de Ceuta y muestra al menos tres bofetadas al joven marroquí.",
-        "En ese momento, las autoridades habían desalojado todos los asentamientos improvisados y no había plazas de acogida disponibles para los migrantes."
-      ],
-      "conclusion": "El episodio evidencia posibles violaciones de derechos humanos por parte de las fuerzas armadas en la gestión de la población migrante, lo que obliga a revisar los protocolos de actuación y a reforzar la supervisión externa."
-    },
-    {
-      "title": "Dos vulnerabilidades críticas detectadas con IA provocan fallos múltiples en miles de páginas web",
-      "url": "https://elpais.com/tecnologia/2026-10-21/dos-vulnerabilidades-criticas-detectadas-con-ia-provocan-fallos-multiples-en-miles-de-paginas-web.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/4TVTEAY77JLF5G42NUTTIAZFCA.jpg?auth=8ab02dc367f46cf9f4314c62b58565e6f2f07f36ff1f2e6b05b54d9c8fa200f1",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Los equipos responsables del lenguaje PHP identificaron dos vulnerabilidades críticas mediante herramientas de inteligencia artificial y publicaron parches de emergencia. Las fallas podían provocar la caída de miles de sitios web si no se actualizaban los servidores. La comunidad de desarrolladores lanzó las actualizaciones para mitigar el riesgo de interrupciones masivas.",
-      "datos": [
-        "Se detectaron dos vulnerabilidades críticas en el núcleo de PHP",
-        "Las vulnerabilidades fueron descubiertas usando técnicas de IA",
-        "El problema podía afectar a miles de páginas web",
-        "Los desarrolladores de PHP emitieron actualizaciones correctivas",
-        "Los fallos tenían el potencial de tumbar muchos sitios si no se corregían"
-      ],
-      "conclusion": "Actualizar inmediatamente a la versión corregida de PHP evita interrupciones operativas y protege la disponibilidad de los servicios web."
-    },
-    {
-      "title": "Mejores estaciones de energía portátil 2026: cuál comprar para cargar tus dispositivos si vas de camping, trabajas al aire libre o hay cortes de luz",
-      "url": "https://www.xataka.com/seleccion/mejores-estaciones-energia-carga-portatiles",
-      "image": "https://i.blogs.es/adde3b/persona-delante-de-una-estacion-de-carga-portatil/840_560.jpeg",
-      "source": "Xataka",
-      "language": "es",
-      "que_paso": "Tras el apagón del 28‑abril‑2025, la demanda de estaciones de energía portátil se disparó; el artículo compara varias alternativas y señala a la EcoFlow DELTA 3 como la opción más equilibrada para camping, uso doméstico y emergencias.",
-      "datos": [
-        "El apagón del 28 de abril de 2025 provocó un aumento notable en la búsqueda de estaciones de energía portátil.",
-        "La EcoFlow DELTA 3 tiene una capacidad de 1.024 Wh y una potencia nominal de 1.800 W, con picos de hasta 3.600 W.",
-        "El fabricante afirma que la batería LiFePO4 soporta más de 4.000 ciclos de carga.",
-        "Puede cargarse del 0 al 70 % en 30 min y alcanzar el 100 % en menos de una hora mediante corriente alterna.",
-        "Sus dimensiones son 398 × 284 × 200 mm y pesa 12,5 kg, facilitando su transporte.",
-        "Cubre aproximadamente el 95 % de los electrodomésticos habituales según el fabricante."
-      ],
-      "conclusion": "Para un gestor de operaciones, la DELTA 3 brinda una solución rápida y portátil que garantiza continuidad en entornos de trabajo remoto o durante cortes de suministro, reduciendo la dependencia de la red eléctrica."
-    },
-    {
-      "title": "When Starshield Cut Out, Ukrainian Drones Fell From the Skies",
-      "url": "https://www.nytimes.com/2026/10/21/world/europe/starshield-starlink-ukraine.html",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-ukraine-starshield-01-hglc/21int-ukraine-starshield-01-hglc-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Ukrainian troops lost connectivity to the Starshield military satellite internet service, which caused their combat drones to lose control and fall, and officials have not identified why the service was suddenly throttled.",
-      "datos": [
-        "Starshield is the military version of SpaceX's Starlink satellite internet system",
-        "The throttling of the service was described as abrupt by Ukrainian officials",
-        "Ukrainian forces reported combat drones falling from the sky after the outage",
-        "Ukraine has publicly stated it does not know the cause of the throttling",
-        "The loss of connectivity left Ukrainian units more vulnerable to Russian attacks"
-      ],
-      "conclusion": "The incident underscores the operational risk of relying on a single private satellite network and the need for redundant communications in contested environments."
-    },
-    {
-      "title": "Supreme Court Blocks Trump From Denying Gender-Affirming Care to Trans Prisoners",
-      "url": "https://www.nytimes.com/2026/10/21/us/politics/supreme-court-trump-transgender-prisoners.html",
-      "image": "https://static01.nyt.com/images/2026/10/08/multimedia/00dc-scotus-transprisoners-tmgl/00dc-scotus-transprisoners-tmgl-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "The U.S. Supreme Court issued a temporary order that stops the Federal Bureau of Prisons from rolling out a new rule that would bar gender‑transition medical treatments for incarcerated individuals. The decision involves the Court, the Bureau of Prisons, and a policy originated under the Trump administration, which sought to deny such care to trans prisoners. The injunction maintains the status quo while the legal challenge proceeds.",
-      "datos": [
-        "The Supreme Court granted a stay pending further review",
-        "The Bureau of Prisons had planned to implement a policy prohibiting gender‑transition medical treatments",
-        "The policy was introduced during the Trump administration",
-        "The stay preserves existing access to gender‑affirming care for trans inmates"
-      ],
-      "conclusion": "The ruling keeps gender‑affirming health services available to incarcerated trans people for now, signaling that federal attempts to restrict such care face immediate judicial scrutiny."
-    },
-    {
-      "title": "Random Ohio Town Turns Into Scene From ‘Silent Hill’ After Massive Chemical Leak",
-      "url": "https://futurism.com/science-energy/toledo-ohio-chemical-leak-explosion",
-      "image": "https://futurism.com/wp-content/uploads/2026/10/toledo-ohio-chemical-leak-explosion.jpg?w=1200",
-      "source": "Futurism",
-      "language": "en",
-      "que_paso": "An explosion at a chemical distribution facility in Lucas County, Ohio, released a plume of glycidyl methacrylate, prompting authorities to order evacuation for residents within one mile and shelter‑in‑place for those within three miles. The incident occurred Tuesday night and was compounded by an existing fog alert, creating dense haze over the northern Toledo suburbs.",
-      "datos": [
-        "The blast occurred on Tuesday night, October 20, 2026, at a chemical distribution site in Lucas County, Ohio.",
-        "City emergency officials ordered evacuation for all residents within a one‑mile radius of the site.",
-        "Shelter‑in‑place was mandated for residents within a three‑mile radius.",
-        "The released chemical was identified as glycidyl methacrylate, a compound suspected to be carcinogenic.",
-        "A trailer park located 0.25 miles from the explosion site was among the nearest residential areas.",
-        "The Ottawa River, a tributary of Lake Erie, lies approximately 0.5 miles south of the facility."
-      ],
-      "conclusion": "The incident highlights the need for rapid hazmat response plans that account for concurrent weather events, and underscores the operational risk of storing potentially carcinogenic chemicals near populated areas."
-    },
-    {
-      "title": "Adorable Slow Loris Not Officially Spotted Since 1937 Is Alive – 90 Have Been Saved By Local Wildlife Center So Far",
-      "url": "https://www.iflscience.com/adorable-slow-loris-not-officially-spotted-since-1937-is-alive-90-have-been-saved-by-local-wildlife-center-so-far-84980",
-      "image": "https://assets.iflscience.com/assets/articleNo/84980/aImg/93187/bangka-slow-loris-l.jpg",
-      "source": "IFLScience",
-      "language": "en",
-      "que_paso": "A previously unconfirmed Bangka slow loris was confirmed alive on Bangka Island, Indonesia, after nearly a century without a scientific sighting. The discovery resulted from a decade‑long effort by local residents and a wildlife rehabilitation center.",
-      "datos": [
-        "The species is the Bangka slow loris.",
-        "It had not been scientifically recorded since 1937, almost 100 years ago.",
-        "Local people on Bangka Island have been monitoring the animal for more than ten years.",
-        "A local wildlife center has rescued and cared for 90 individuals so far.",
-        "The island where the loris was found is part of Indonesia."
-      ],
-      "conclusion": "The finding demonstrates that community monitoring can reveal surviving populations of presumed‑lost species, underscoring the importance of local engagement and rescue programs for conservation outcomes."
-    },
-    {
-      "title": "Astronomers Under Fire Find A Nova, And You Can Too – Along With Several Other Visitors To The Night Sky This October",
-      "url": "https://www.iflscience.com/astronomers-under-fire-find-a-nova-and-you-can-too-along-with-several-other-visitors-to-the-night-sky-this-october-84991",
-      "image": "https://assets.iflscience.com/assets/articleNo/84991/aImg/93220/orionid-shower-l.jpg",
-      "source": "IFLScience",
-      "language": "en",
-      "que_paso": "Astronomers from the group \"Astronomers Under Fire\" identified a nova in the night sky this October, and the article notes that several other celestial events are visible to the public during the autumn season.",
-      "datos": [
-        "The discovery was made by the group called Astronomers Under Fire.",
-        "The event is a nova observed in October 2026.",
-        "Autumn in the Northern Hemisphere provides early nightfall.",
-        "Temperatures are described as not too cold, facilitating observation.",
-        "The article encourages public participation in viewing the nova and other visitors."
-      ],
-      "conclusion": "The nova offers a low‑cost, time‑sensitive opportunity for staff or client engagement, taking advantage of favorable autumn observing conditions."
-    },
-    {
-      "title": "SpaceX to attempt Starship catch on next flight, with eye on rapid cadence increase",
-      "url": "https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HTU8ja-XgAE6GwQ-1152x648.jpg",
-      "source": "Ars Technica",
-      "language": "en",
-      "que_paso": "SpaceX announced on its earnings call that it will attempt to catch both the Super Heavy booster and the Starship upper stage on the upcoming 15th test flight, slated for November 2026, as part of a push toward rapid vehicle reuse. Elon Musk and COO Gwynne Shotwell outlined new performance targets and discussed FAA licensing that would allow a return‑to‑launch‑site and tower catch at Starbase in South Texas. The effort is tied to the company’s broader strategy to scale AI compute capacity and support future lunar missions.",
-      "datos": [
-        "SpaceX aims to deploy up to 10 GW of AI compute on the ground by 2027",
-        "The 14th Starship test flight occurred a little more than three weeks before the earnings call, in early October 2026",
-        "SpaceX is targeting November 2026 for the 15th test flight, which will attempt catches of both stages",
-        "Musk said the likelihood of a successful catch is “more likely than not,” and Shotwell said the FAA license will include return‑to‑launch‑site and tower catch provisions",
-        "Musk projects a weekly Starship launch cadence in the first half of 2027 and twice‑weekly cadence in the second half of 2027"
-      ],
-      "conclusion": "If the catches succeed, SpaceX could dramatically increase launch frequency, accelerating its AI compute rollout and providing the reusable launch capability needed for NASA’s Artemis lunar missions."
-    },
-    {
-      "title": "What Putin Gains From Releasing an American Prisoner",
-      "url": "https://www.nytimes.com/video/us/100000011223251/what-putin-gains-from-releasing-an-american-prisoner.html",
-      "image": "",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Russia freed an American detainee, and a Trump administration special envoy publicly praised President Vladimir Putin as a humanitarian. The release is presented by White House national security correspondent David E. Sanger as part of President Trump's broader diplomatic shift toward Russia and away from Ukraine.",
-      "datos": [
-        "Russia released an American prisoner",
-        "Trump's special envoy called Putin \"a humanitarian\"",
-        "The commentary was written by White House and national security correspondent David E. Sanger",
-        "The event occurs amid President Trump's shift toward Russia and reduced emphasis on Ukraine",
-        "The article title is \"What Putin Gains From Releasing an American Prisoner\""
-      ],
-      "conclusion": "The move suggests a possible reorientation of U.S. policy that could weaken support for Ukraine and alter geopolitical risk assessments for business operations."
-    },
-    {
-      "title": "Ayuso y Milei, un encuentro inoportuno zanjado con un abrazo entusiasta",
-      "url": "https://elpais.com/espana/madrid/2026-10-21/ayuso-y-milei-un-encuentro-descafeinado-e-inoportuno.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/CGOFUQ6NDJMCFOFXIV4V2BEMG4.jpg?auth=866c6e152eab68cc30a1538523b420adbbc353d289ea9d45209bb3c5b8470542&width=1200",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Isabel Díaz Ayuso, presidenta de la Comunidad de Madrid, recibió al presidente argentino Javier Milei en una reunión de dos horas sin rueda de prensa ni pompa institucional. El encuentro se dio en medio de la campaña electoral española, donde la derecha lidera las encuestas para las elecciones generales del 29 de noviembre, y se mantuvo oculto hasta pocas horas antes.",
-      "datos": [
-        "La reunión duró aproximadamente dos horas, según los asesores de Ayuso.",
-        "Milei estuvo en Madrid durante 24 horas y solo fue recibido oficialmente por Ayuso.",
-        "La existencia del encuentro se confirmó seis horas antes de que se celebrara.",
-        "Ayuso se opone a la \"ley de nietos\", que permitiría a 163 000 nuevos nacionalizados votar en las próximas elecciones.",
-        "Las elecciones generales están previstas para el 29 de noviembre de 2026 y la derecha encabeza las encuestas.",
-        "Ayuso invitó a Milei a la XXX Cumbre Iberoamericana que se celebrará a principios de noviembre en Madrid."
-      ],
-      "conclusion": "El acercamiento informal entre Ayuso y Milei puede influir en la estrategia de la derecha de cara a las elecciones, mientras que la controversia sobre la ley de nietos subraya la tensión electoral sobre la ampliación del electorado."
-    },
-    {
-      "title": "¿Sufrió Cataluña el primer ciclón tropical europeo? El Mediterráneo empieza a comportarse como el Caribe",
-      "url": "https://elpais.com/clima-y-medio-ambiente/2026-10-21/sufrio-cataluna-el-primer-ciclon-tropical-europeo-el-mediterraneo-empieza-a-comportarse-como-el-caribe.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/BHU6GQ7V7RFLZIVMZV3XXMECZE.jpg?auth=19b3f5c749d78b79d74ced69761240519651cd511b32b584693ee1063664cfc2&width=1200",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "El 3 y 4 de octubre de 2026 se registraron lluvias torrenciales en la costa catalana que, según los meteorólogos, fueron provocadas por un sistema convectivo que mostró signos de ciclogénesis tropical, algo nunca observado en el Mediterráneo. El estudio preliminar fue realizado por Juan Jesús González Alemán de la Aemet y Carlos Calvo‑Sancho del CSIC, quienes compararon el fenómeno con un posible minihuracán. La Agencia Nacional Oceánica y Atmosférica (NOAA) de EE UU también siguió la evolución del evento.",
-      "datos": [
-        "Temperaturas del mar Mediterráneo alcanzaron valores récord en octubre de 2026, favoreciendo la formación del sistema",
-        "El radar mostró un viento con posible giro ciclónico cerca de la costa catalana",
-        "Los investigadores publicaron su análisis el 22 de octubre de 2026, describiendo el episodio como el intento más claro de un ciclón tropical en Europa",
-        "Juan Jesús González Alemán solicitó colaboración al Centro Nacional de Huracanes de EE UU para profundizar en el estudio",
-        "El fenómeno se clasificó inicialmente como \"medicane\" o sistema convectivo de mesoescala antes de considerarse un posible ciclón tropical"
-      ],
-      "conclusion": "El caso evidencia la \"tropicalización\" del Mediterráneo, lo que implica que los operadores deben actualizar los modelos de riesgo y los planes de respuesta ante tormentas de intensidad tropical en la región."
+      "conclusion": "La estrategia de Trump busca beneficios económicos inmediatos, pero corre el riesgo de dividir a la base republicana y afectar su desempeño en los midterms, al tiempo que indica un giro pragmático en la política estadounidense hacia Rusia."
     }
   ]
 }
