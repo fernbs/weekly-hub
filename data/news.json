@@ -1,119 +1,650 @@
 {
-  "generated": "2026-11-06T02:17:45.597506",
-  "count": 57,
+  "generated": "2026-11-07T02:03:56.158980",
+  "count": 47,
   "articles": [
     {
-      "title": "Stocks Erase Post-Midterm Elections Rally, Dragged Down by Tech",
-      "url": "https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html",
-      "image": "",
+      "title": "China’s Top Spy Agency Recruited Woman Who Targeted Jensen Huang",
+      "url": "https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html",
+      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06dc-Spy-Chip-qtkm/06dc-Spy-Chip-qtkm-mediumSquareAt3X.jpg",
       "source": "New York Times",
       "language": "en",
-      "que_paso": "The S&P 500 posted its steepest one‑day drop since April 2025, while the Nasdaq slipped into correction territory, as investors questioned whether the recent AI‑focused rally after the midterm elections is sustainable.",
+      "que_paso": "U.S. officials received a memo indicating that Alice Huang, a Chinese executive, had been recruited by Beijing’s Ministry of State Security and had cultivated a personal relationship with Nvidia CEO Jensen Huang, raising concerns about espionage targeting the AI industry. The disclosure came as Washington intensifies scrutiny of foreign influence on critical technology firms.",
       "datos": [
-        "S&P 500 experienced its worst daily decline since April 2025",
-        "Nasdaq entered correction territory following the rally",
-        "Investors voiced concerns about the durability of the AI build‑out",
-        "The market move came after a post‑midterm elections rally"
+        "Alice Huang is identified as a Chinese executive.",
+        "She developed a relationship with Nvidia’s leader, Jensen Huang.",
+        "U.S. policymakers were circulated a memo citing intelligence on her status.",
+        "The memo states she is an asset of China’s Ministry of State Security.",
+        "The Ministry of State Security is China’s top spy agency."
       ],
-      "conclusion": "The pullback signals growing doubt about AI‑driven growth, suggesting tech valuations may face pressure and operational planners should reassess AI investment timelines."
+      "conclusion": "The episode highlights the vulnerability of AI leadership to foreign intelligence recruitment, prompting firms and regulators to tighten security and vetting processes."
     },
     {
-      "title": "Newsom Commutes the Sentences of California’s 548 Death Row Inmates",
-      "url": "https://www.nytimes.com/2026/11/05/us/california-death-row-newsom-commutation.html",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05nat-newsom-deathpenalty-zjql/05nat-newsom-deathpenalty-zjql-mediumSquareAt3X.jpg",
+      "title": "Cornell Faculty Passes Vote of No Confidence Over Handling of Sexual Assault Case",
+      "url": "https://www.nytimes.com/2026/11/06/nyregion/cornell-no-confidence-vote.html",
+      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/met-cornell-senate1-mplw/met-cornell-senate1-mplw-mediumSquareAt3X.jpg",
       "source": "New York Times",
       "language": "en",
-      "que_paso": "Governor Gavin Newsom ordered the commutation of all 548 death‑row sentences in California, effectively ending the state's death‑penalty sentences. He presented the move as a moral objection to capital punishment while his potential presidential ambitions are noted. The decision comes in a state that has not carried out an execution for two decades despite holding roughly a quarter of the nation’s death sentences.",
+      "que_paso": "Faculty members at Cornell University voted to express no confidence in the administration’s handling of a recent rape allegation. The faculty senate’s vote reflects deep dissatisfaction with campus leadership’s response to a case that has attracted national media attention.",
       "datos": [
-        "California’s death row comprised 548 inmates at the time of the commutation.",
-        "The state has not performed an execution in 20 years.",
-        "Those 548 inmates account for about 25 % of all death‑sentence holders in the United States.",
-        "Governor Gavin Newsom announced the commutations.",
-        "Newsom is reportedly considering a run for the U.S. presidency."
+        "The vote was taken by Cornell’s faculty senate.",
+        "The vote was described as largely symbolic rather than binding.",
+        "The underlying case involved an alleged rape on campus.",
+        "The incident placed Cornell University in the national spotlight.",
+        "The faculty’s action targets the university’s senior administrators."
       ],
-      "conclusion": "Eliminating the death penalty for such a large share of U.S. death‑row inmates could reshape national capital‑punishment policy and signals that political leaders may prioritize moral considerations over existing legal frameworks."
+      "conclusion": "The rebuke highlights governance and compliance risks, likely prompting a review of sexual‑assault response policies and affecting the university’s operational reputation."
     },
     {
-      "title": "OpenAI is stepping back from NDAs for data center projects",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "language": "en",
-      "que_paso": "OpenAI announced on November 6, 2026 that it will no longer use non‑disclosure agreements with public officials for its data‑center projects, limiting any NDAs to narrowly defined security or trade‑secret information. The decision follows voter backlash against data‑center expansion in recent midterm elections and follows a similar policy shift by Amazon in October 2026.",
-      "datos": [
-        "The announcement was made on November 6, 2026.",
-        "OpenAI will eliminate NDAs with public officials, permitting only narrow protections for legitimate security information, trade secrets, or competitively sensitive data.",
-        "OpenAI will pay the full cost of electricity consumed by each compute campus.",
-        "OpenAI will publish the number of jobs each campus expects to create and will report on actual hiring.",
-        "Each future compute campus will be governed by a \"local compact\" that reflects local priorities.",
-        "Amazon announced in October 2026 that it would also stop using NDAs with government agencies on data‑center projects."
-      ],
-      "conclusion": "The policy increases transparency and reduces hidden contractual risks for local stakeholders, making data‑center development more predictable for operations and budgeting. It also indicates a broader industry move toward open engagement with regulators and communities."
-    },
-    {
-      "title": "Tech Billionaires Face Tricky Political Waters After Democratic Midterm Sweep",
-      "url": "https://www.nytimes.com/2026/11/05/technology/tech-billionaires-democrats-midterms.html",
-      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/05biz-tech-billionaires-gwfm/05biz-tech-billionaires-gwfm-mediumSquareAt3X.jpg",
+      "title": "86 Deaths and Counting: N.Y.C. Fire Fatalities Have Nearly Doubled This Year",
+      "url": "https://www.nytimes.com/2026/11/06/nyregion/nyc-fire-deaths.html",
+      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00met-sunsetfire-tbd-promo-fqvc/00met-sunsetfire-tbd-promo-fqvc-mediumSquareAt3X.jpg",
       "source": "New York Times",
       "language": "en",
-      "que_paso": "Tech billionaires who previously funded President Trump’s favored causes are now facing reputational and strategic risk after the recent Democratic sweep in the 2026 midterm elections. Their prior alignment with the former president, which once provided political access, is now viewed as a potential liability in a newly Democratic‑controlled Congress.",
+      "que_paso": "A fire broke out in a Brooklyn building, causing multiple fatalities and prompting renewed scrutiny of New York City’s rising fire death toll, while investigators consider whether e‑bike batteries may have contributed.",
       "datos": [
-        "Tech billionaires donated money to President Trump’s favored causes.",
-        "They became allies of President Trump.",
-        "The United States held midterm elections in November 2026.",
-        "Democratic candidates achieved a sweeping victory in those midterms.",
-        "The political alignment with Trump is now considered a liability for those donors."
+        "86 fire‑related deaths reported in NYC in 2026 so far",
+        "The 2026 total is nearly double the number recorded at the same point in 2025",
+        "Six people died in the Brooklyn blaze that occurred this week",
+        "Investigators are examining a possible link to e‑bike battery malfunctions",
+        "The NYC Fire Department released the latest statistics highlighting the surge"
       ],
-      "conclusion": "The shift shows that political affiliations can impact business reputation and influence, urging tech leaders to reassess their engagement strategies."
+      "conclusion": "The sharp increase in fire fatalities highlights a growing safety risk, especially from emerging technologies, urging operations leaders to tighten fire‑prevention measures and equipment handling protocols."
     },
     {
-      "title": "Tom Morello On His Guitarist Son Roman: “It’s Not Nepotism When Your Kid’s That F*cking Good”",
-      "url": "https://www.theprp.com/2026/11/05/news/tom-morello-on-his-guitarist-son-roman-its-not-nepotism-when-your-kids-that-fcking-good/",
-      "image": "https://www.theprp.com/app/uploads/2026/11/tomandromanmorellolarge-1200x675.webp",
-      "source": "The PRP",
-      "language": "en",
-      "que_paso": "Tom Morello defended his teenage son Roman against nepotism accusations after Roman co-wrote several tracks on Morello’s newly released album, explaining that his son’s musical ability justifies his involvement. The comments came during a recent Guitar World interview where Morello compared Roman’s natural ear to his own ten‑year struggle to develop a voice.",
+      "title": "El presidente de Paraguay, Santiago Peña, destituido y detenido por presunta corrupción",
+      "url": "https://elpais.com/america/2026-11-06/santiago-pena-destituido-por-el-congreso-como-presidente-de-paraguay.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/JIBMPDMXQ5J4HCLSR36EAH3YBE.jpg?auth=265edb499e564606469dc0fd957c12974e70268f30c0a098068d6e3910043c3b&width=1200",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "El Congreso de Paraguay votó de forma unánime la destitución y detención del presidente Santiago Peña tras acusaciones de fraude financiero en el Banco Ueno, y nombró a su vicepresidente Pedro Alliana como nuevo jefe de Estado. La decisión se tomó en menos de diez horas, sin aceptar la renuncia que Peña había intentado presentar para conservar fueros parlamentarios.",
       "datos": [
-        "Tom Morello is a Rock & Roll Hall of Fame inductee.",
-        "Roman Morello co‑wrote five songs on the album “Everyone Gets Everything They Want.”",
-        "The album “Everyone Gets Everything They Want” was released in 2026.",
-        "In the Guitar World interview, Tom said it took him about ten years to find his voice because he had “zero natural ability.”",
-        "Tom described Roman’s riff on the track “Soldier In The Army Of Love” as “big pentatonic riffs” that he found difficult to learn.",
-        "Tom stated, “It’s not nepotism when your kid’s that fucking good,” during the interview."
+        "44 senadores votaron a favor de la destitución",
+        "El proceso duró poco menos de 10 horas",
+        "Casi 3 millones de personas, equivalentes al 60 % de la población adulta, perdieron sus ahorros por la liquidación del Banco Ueno",
+        "Peña, de 47 años, fue puesto bajo arresto domiciliario",
+        "Los abogados defensores fueron Adolfo Ferreiro y Ricardo Preda"
       ],
-      "conclusion": "The exchange highlights that familial collaboration can be based on genuine skill, suggesting that talent assessments should focus on measurable contributions rather than assumed privilege."
+      "conclusion": "La remoción rápida del presidente evidencia la fragilidad institucional ante escándalos financieros y genera incertidumbre para la estabilidad económica y operativa del país, lo que obliga a replantear riesgos y planes de contingencia en la región."
     },
     {
-      "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
-      "url": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/News_BlueOrigin-Northstar-Engine-1152x648.webp",
+      "title": "Quién es Pedro Alliana, el nuevo presidente de Paraguay con el que busca rearmarse el poderoso Partido Colorado",
+      "url": "https://www.bbc.com/mundo/articles/cmqjnn8jrqq0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/news/1200/branded_mundo/c3f8/live/e6e0a8b0-da39-11f1-959c-e95bd2c2a35f.jpg",
+      "source": "BBC Mundo",
+      "language": "es",
+      "que_paso": "Pedro Alliana, que hasta hace horas era vicepresidente, juró como presidente de Paraguay después de que el Congreso aprobara la destitución del mandatario Mario Peña por un presunto conflicto de intereses con el conglomerado que controla Ueno Bank. La medida contó con el apoyo del Partido Colorado, que sustituyó a Peña sin perder el control del poder ejecutivo.",
+      "datos": [
+        "El Congreso aprobó la destitución de Mario Peña el viernes 6 de noviembre de 2026",
+        "El Banco Central intervino en Ueno Bank esta semana por problemas de solvencia",
+        "Alliana declaró: \"Los compatriotas que hoy atraviesan un momento difícil a causa del descalabro financiero serán compensados plenamente\"",
+        "Alliana ha expresado su intención de postularse a la presidencia en 2028",
+        "Nació en Pilar, Ñeembucú, y estudió Relaciones Internacionales en la Universidad Autónoma San Sebastián, según informó ABC Color"
+      ],
+      "conclusion": "El ascenso de Alliana mantiene al Partido Colorado en el poder y sugiere una agenda de compensación y estabilización del sistema financiero que afectará a empresas y ciudadanos en los próximos meses."
+    },
+    {
+      "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
+      "url": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Iranian-oil-tanker-and-flag-2560x1440.jpg",
       "source": "Ars Technica",
       "language": "en",
-      "que_paso": "Blue Origin unveiled two major upgrades to its New Glenn launch system, introducing a new high‑performance engine and a hydrogen‑oxygen third stage to boost payload capability. The company said the changes are aimed at dramatically lowering launch costs and supporting a future cadence of over a thousand flights per year.",
+      "que_paso": "Iran-linked tankers and a fishing boat were observed circling and pausing over undersea internet cables in the Gulf of Oman in October, a pattern interpreted as possible reconnaissance or preparation for sabotage amid heightened US‑Iran tensions.",
       "datos": [
-        "Blue Origin has begun a test‑firing campaign for the new Northstar engine, which will eventually replace the BE‑4 on New Glenn.",
-        "Northstar contains roughly half the number of parts of the BE‑4, is 30% lighter, and about 65% of its components can be 3D‑printed.",
-        "Blue Origin claims the Northstar can be manufactured at 25% of the cost of a BE‑4 and assembled in under one day.",
-        "Northstar’s thrust is projected at 715,000 pounds, compared with the BE‑4’s 640,000 pounds.",
-        "A New Glenn equipped with the GS3 third stage can deliver 8 metric tons to geostationary orbit and 10 metric tons to translunar injection in the 7×2 configuration, rising to 14 tons and 20 tons respectively in the 9×4 configuration."
+        "Windward tracked three sanctioned tankers and one Iranian fishing boat near cable routes in October 2026",
+        "Six active undersea cables and two under‑construction segments cross the Strait of Hormuz",
+        "Iraq, Kuwait, Bahrain and Qatar rely 100% on those subsea connections",
+        "About one‑third of India’s westbound internet traffic passes through the Persian Gulf and Strait of Hormuz",
+        "In May 2026 the IRGC spokesperson said Iran would impose fees on US‑owned internet cables",
+        "Two sanctioned tankers spent days drifting directly over cable corridors with no cargo and turned off their AIS transponders"
       ],
-      "conclusion": "If the cost and performance targets are met, Blue Origin could reshape launch economics, giving operators a cheaper, higher‑frequency access point to both Earth orbit and lunar trajectories."
+      "conclusion": "If the vessels are mapping or preparing to damage the cables, global data flows and regional economies could be disrupted, underscoring the need for heightened maritime and cyber‑infrastructure monitoring."
     },
     {
-      "title": "Bilmuri To Stream Their May 2026 Nashville, TN Live Show Tonight For Free",
-      "url": "https://www.theprp.com/2026/11/05/news/bilmuri-to-stream-their-may-2026-nashville-tn-live-show-tonight-for-free/",
-      "image": "https://www.theprp.com/app/uploads/2026/10/bilmurilarge-1200x675.webp",
+      "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
+      "url": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/EACOM-News-EA_Classics_Feature_Article_16x9-Screenshot_09.avif",
+      "source": "Ars Technica",
+      "language": "en",
+      "que_paso": "EA has released remastered versions of dozens of classic titles, including the Wing Commander series and most of the Ultima games, on Steam and GOG. The project was driven by senior producer Jim Vessella, who assembled a small contractor team, collaborated with community modders, and sourced original media from EA’s archives and the games’ original creators. The releases are priced low and existing owners receive the updates at no extra cost.",
+      "datos": [
+        "25 classic EA-era games were remastered and placed on Steam and GOG",
+        "Jim Vessella is a senior producer at EA who led the effort",
+        "Vessella previously worked on the Command & Conquer: Remastered Collection in 2019",
+        "The contractor team worked 17 hours per day on swing shifts to label and digitize footage",
+        "Steve Hilliker, the original cinematics director for Privateer 2, provided original tapes and performed a new color‑grading pass",
+        "Each game is sold for no more than $5 and previous owners receive the remaster for free"
+      ],
+      "conclusion": "The initiative demonstrates that focused internal resources combined with community expertise can effectively preserve and revitalize legacy games, offering affordable access and a template for future archival projects."
+    },
+    {
+      "title": "Spineshank Announce The Exit Of Bassist/Vocalist Robert Garcia",
+      "url": "https://www.theprp.com/2026/11/06/news/spineshank-announce-the-exit-of-bassist-vocalist-robert-garcia/",
+      "image": "https://www.theprp.com/app/uploads/2026/11/robertgarcialarge-1200x675.webp",
       "source": "The PRP",
       "language": "en",
-      "que_paso": "Bilmuri recorded a 25‑song concert at The Pinnacle in Nashville on May 13, 2026, featuring guest appearances by Jeremy McKinnon of A Day To Remember and the band Knox. The band is now releasing the full performance online for free tonight.",
+      "que_paso": "Spineshank announced that longtime bassist and vocalist Robert Garcia is leaving the band to focus on his family. Garcia, who originally joined in 1997 and participated in the group's 2016 hiatus and subsequent reunion, will be replaced by Jay Mills on bass and vocals.",
       "datos": [
-        "The concert took place on May 13, 2026 at The Pinnacle in Nashville, Tennessee.",
-        "The setlist contained 25 songs.",
-        "Guest performers included Jeremy McKinnon of A Day To Remember and the band Knox.",
-        "The full footage will be streamed for free on November 6, 2026 (tonight).",
-        "Earlier clips from the same performance have already been released by Bilmuri."
+        "Robert Garcia joined Spineshank in 1997.",
+        "He remained with the band through its 2016 hiatus.",
+        "Garcia’s tenure spanned roughly 30 years.",
+        "Spineshank has released four studio albums.",
+        "The current lineup includes Jonny Santos, Tommy Decker, Tommy Decker Jr., and Jay Mills.",
+        "Jay Mills previously filled in on bass and vocals during recent tours before being officially added."
       ],
-      "conclusion": "Offering the full show for free gives fans immediate access to a rare live collaboration and demonstrates a low‑cost way for artists to expand their audience."
+      "conclusion": "Garcia’s departure underscores the importance of balancing personal priorities with a demanding touring schedule, and the band’s promotion of Jay Mills signals continuity for upcoming tours and new material."
+    },
+    {
+      "title": "Delivery Robot Causes Car Accident With Nine Injuries",
+      "url": "https://futurism.com/robots-and-machines/delivery-robot-car-accident-injuries-estonia",
+      "image": "https://futurism.com/wp-content/uploads/2026/11/delivery-robot-accident-injuries.jpg?w=1200",
+      "source": "Futurism",
+      "language": "en",
+      "que_paso": "A Starship Technologies delivery robot entered an intersection against a “no walk” signal in Tallinn during rush‑hour, colliding with a city bus. The bus driver braked, resulting in at least nine passenger injuries while the robot continued on its route after the impact.",
+      "datos": [
+        "At least nine bus passengers were injured in the collision",
+        "The incident occurred in Tallinn, Estonia, during rush‑hour traffic",
+        "The robot was owned by Starship Technologies and entered the intersection on a “no walk” signal",
+        "After hitting the bus, the robot continued on its delivery route",
+        "Tallinn Transport officials said leaving the scene could be an offense under Estonian traffic law",
+        "Starship’s head of operations, Pepe Aaviksoo, blamed bright advertising boards and traffic lights for disorienting the robot’s sensors and noted a separate lawsuit in Arizona over a robot‑related injury"
+      ],
+      "conclusion": "The event highlights the operational risks of autonomous delivery robots in dense urban traffic and underscores the need for robust sensor systems and clear liability frameworks for AI‑driven logistics."
+    },
+    {
+      "title": "Biotech Firm Claims Some Credit for Groundbreaking Virus Research",
+      "url": "https://www.nytimes.com/2026/11/06/science/radical-numerics-tabula-phage.html",
+      "image": "https://static01.nyt.com/images/2026/11/05/science/05SCI-PHAGE-01/05SCI-PHAGE-01-mediumSquareAt3X.jpg",
+      "source": "NYT Science",
+      "language": "en",
+      "que_paso": "Radical Numerics announced a novel virus treatment, prompting a former partner, Tabula Bioscience, to assert that it carried out most of the underlying research. The statement highlights a dispute over credit for the breakthrough.",
+      "datos": [
+        "Radical Numerics announced a novel treatment",
+        "Tabula Bioscience is a former partner of Radical Numerics",
+        "Tabula Bioscience claims it performed much of the research",
+        "The claim was made in response to Radical Numerics' announcement",
+        "The dispute concerns credit for groundbreaking virus research"
+      ],
+      "conclusion": "The clash underscores the need for clear IP agreements in biotech collaborations, as credit disputes can affect market perception and future licensing deals."
+    },
+    {
+      "title": "Flesh Prison Premiere “Wrathborn” Music Video, Despised Icon’s Alex Erian Guests",
+      "url": "https://www.theprp.com/2026/11/06/news/flesh-prison-premiere-wrathborn-music-video-despised-icons-alex-erian-guests/",
+      "image": "https://www.theprp.com/app/uploads/2026/11/fleshprisonlarge-1200x675.webp",
+      "source": "The PRP",
+      "language": "en",
+      "que_paso": "Flesh Prison released the single “Wrathborn” on November 6, 2026, and issued a music video that includes guest vocals from Alex Erian of Despised Icon. The track is slated for the band’s forthcoming EP “When I Met Death.”",
+      "datos": [
+        "The single “Wrathborn” was made available online on November 6, 2026.",
+        "Alex Erian of Despised Icon provides guest vocals and appears in the music video.",
+        "“Wrathborn” will appear on Flesh Prison’s upcoming EP titled “When I Met Death.”",
+        "The music video was filmed by Brett Wright and Hayley Wright.",
+        "The band is signed to Papercut Recordings, a label co‑founded by members of Brand Of Sacrifice and Fit For A King."
+      ],
+      "conclusion": "The collaboration underscores a strategic alliance in the Canadian deathcore scene, likely increasing streaming exposure for both bands and strengthening the label’s market presence."
+    },
+    {
+      "title": "Ex-Engine Down Bassist Jason Wood Has Passed Away",
+      "url": "https://www.theprp.com/2026/11/06/news/ex-engine-down-bassist-jason-wood-has-passed-away/",
+      "image": "https://www.theprp.com/app/uploads/2026/11/enginedownjasonwood-1200x675.webp",
+      "source": "The PRP",
+      "language": "en",
+      "que_paso": "Jason Wood, the former bassist of the defunct math‑rock band Engine Down, died and the band announced his passing on November 6, 2026. The announcement included personal tributes from bandmates and highlighted his contributions both on stage and behind the scenes.",
+      "datos": [
+        "The band posted the death announcement on November 6, 2026 via social media",
+        "Wood was the bassist who co‑founded Engine Down with drummer Cornbread",
+        "He bought the group’s first van and acted as de‑facto tour manager, using a “dialer” to book early shows",
+        "After his music career he worked in the culinary industry across several major cities",
+        "He was married to Lou and had two dogs named Rowan and Seeker",
+        "Bandmate Jonathan Fuller said Wood struggled with alcohol addiction in his later years"
+      ],
+      "conclusion": "His death marks the loss of a pivotal figure in the indie‑rock scene and serves as a reminder of the importance of addressing addiction and supporting mental‑health resources within creative teams."
+    },
+    {
+      "title": "Hegseth Faces Impeachment Effort and Bipartisan Scrutiny After Midterm Elections",
+      "url": "https://www.nytimes.com/2026/11/06/us/politics/hegseth-trump-iran-war.html",
+      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06dc-hegseth-fqbt/06dc-hegseth-fqbt-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "After the November 5, 2026 midterm elections, members of Congress began drafting an impeachment resolution targeting Defense Secretary Hegseth, a Trump‑appointed official. The move is creating a potential standoff as both Democratic and Republican legislators scrutinize his conduct.",
+      "datos": [
+        "Defense Secretary Hegseth was appointed by former President Donald Trump",
+        "The impeachment effort surfaced following the November 5, 2026 midterm elections",
+        "Democratic lawmakers have publicly called for an investigation into Hegseth",
+        "Republican lawmakers have also expressed concern about Hegseth’s actions",
+        "The article describes the impeachment push as \"looming\"",
+        "Hegseth is characterized in the article as a polarizing figure"
+      ],
+      "conclusion": "The bipartisan scrutiny shows that cabinet members can face cross‑party accountability, suggesting future appointees may be held to higher standards regardless of the president who selected them."
+    },
+    {
+      "title": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
+      "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
+      "image": "https://i.guim.co.uk/img/media/133fcf307a659f484d60938a125776efe501ba4e/407_0_3025_2422/master/3025.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1888e60295c293926bcb97047ec36bf",
+      "source": "The Guardian AI",
+      "language": "en",
+      "que_paso": "After the Democrats secured a decisive win in the U.S. midterm elections, a sharp sell‑off in technology stocks spread from Wall Street to Europe and Asia, dragging down major indices. The rout was amplified by concerns that slowing data‑center construction could curb AI‑driven spending, while investors also reacted to a stronger‑than‑expected U.S. jobs report.",
+      "datos": [
+        "FTSE 100 fell as much as 254 points (2.35%) to 10,528 before closing down 1%",
+        "Germany's DAX dropped 2%, France's CAC 40 fell 0.8%, and Spain's IBEX lost 0.6% on the same day",
+        "U.S. October employment report added 165,000 jobs and unemployment fell to 4.1%",
+        "SanDisk shares plunged 22% and Western Digital fell 17% during Thursday's tech sell‑off",
+        "VIX surged more than 60% to its highest level since the early weeks of the Iran‑Iraq war",
+        "Japan's Nikkei 225 fell 6% and South Korea's KOSPI dropped over 6.5% on Friday"
+      ],
+      "conclusion": "The episode shows how political outcomes and AI‑related investment anxieties can trigger rapid, cross‑regional market stress, underscoring the need for vigilant risk management and diversified exposure in technology‑heavy portfolios."
+    },
+    {
+      "title": "Bosques de cuento en Europa: siete escapadas exprés para disfrutar del otoño",
+      "url": "https://www.eldiario.es/viajes/bosques-cuento-europa-siete-escapadas-expres-disfrutar-otono_1_13636994.html",
+      "image": "https://static.eldiario.es/clip/bcdf8b0b-f903-4196-ae3f-89a1defcc1d6_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "que_paso": "El artículo presenta siete destinos forestales en Europa para escapadas de otoño, describiendo opciones que van desde el Wienerwald en Austria hasta la Selva Negra en Alemania y los lagos de Plitvice en Croacia, y señala actividades como senderismo, visitas a pueblos y recorridos en tren panorámico. Se dirige a lectores que buscan combinar naturaleza, cultura y accesibilidad en viajes cortos desde sus ciudades de origen.",
+      "datos": [
+        "El Wienerwald fue declarado Reserva de la Biosfera por la UNESCO en 2005.",
+        "El monte Feldberg, el punto más alto de la Selva Negra, alcanza los 1.493 metros de altitud.",
+        "Las cascadas de Triberg tienen una caída aproximada de 150 metros.",
+        "El sendero de la garganta de Wutach recorre unos 13 kilómetros entre paredes rocosas y vegetación.",
+        "El Parque Nacional de los Lagos de Plitvice se declaró parque nacional en 1949 y Patrimonio Mundial de la UNESCO en 1979, con una superficie de alrededor de 30 km²."
+      ],
+      "conclusion": "Conocer estos destinos permite planificar escapadas de otoño con datos concretos sobre accesibilidad y atractivos naturales, facilitando decisiones operativas y logísticas para viajes cortos y productivos."
+    },
+    {
+      "title": "Three men charged in US with using AI to impersonate CEOs and steal millions",
+      "url": "https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft",
+      "image": "https://i.guim.co.uk/img/media/c3a832e799ac1dd8a85e6c73794399c038d7678b/250_0_2500_2001/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fca24c099200a4119230c96f17695f31",
+      "source": "The Guardian AI",
+      "language": "en",
+      "que_paso": "Three foreign nationals used AI‑generated voice and image deepfakes to pose as corporate executives and lawyers, persuading employees at multiple firms to wire large sums of money, resulting in a multi‑million‑dollar theft. They have been arrested in Spain and the United Kingdom after a U.S. Justice Department indictment.",
+      "datos": [
+        "Jacob Soall, Sharon Hazan and Guy Sheetrit were identified as the suspects.",
+        "The alleged fraud occurred between 2024 and 2026 and netted over $129 million.",
+        "Soall and Hazan were arrested in Spain during the summer of 2026; Sheetrit was arrested in the United Kingdom in September 2026.",
+        "Victims included a Missouri hospital system ($5 million), a Rhode Island bank ($2.7 million), a California hospital system ($3 million), a Massachusetts mutual fund ($4.6 million), a Florida pet‑food company ($5 million) and a UK tech firm ($11 million).",
+        "The stolen funds were transferred to bank accounts in at least nine countries and then converted into cryptocurrency for laundering.",
+        "The trio face charges of conspiracy to commit wire fraud, money‑laundering conspiracy and aggravated identity theft."
+      ],
+      "conclusion": "The case shows that AI deepfakes can enable sophisticated, high‑value fraud, underscoring the need for businesses to verify communications through independent channels and to monitor for AI‑related threats."
+    },
+    {
+      "title": "Wednesday 13 Confirms 2027 Return Of Murderdolls",
+      "url": "https://www.theprp.com/2026/11/06/news/wednesday-13-confirms-2027-return-of-murderdolls/",
+      "image": "https://www.theprp.com/app/uploads/2026/11/wednesday13large-1200x675.webp",
+      "source": "The PRP",
+      "language": "en",
+      "que_paso": "Murderdolls, the horror‑punk band led by Wednesday 13 and originally featuring Slipknot’s late drummer Joey Jordison, have announced their first live performance since 2018. The group will appear at Belgium’s Graspop Metal Meeting festival in June 2027, a plan confirmed by Wednesday 13 and Jordison’s estate on social media on November 6, 2026. The announcement also signals the involvement of former guitarist Acey Slade after a recent trademark dispute.",
+      "datos": [
+        "The performance is scheduled for June 17-20, 2027 at Graspop Metal Meeting in Dessel, Belgium.",
+        "Wednesday 13 posted the announcement on November 6, 2026 via social media.",
+        "Joey Jordison’s estate also issued a statement confirming the band’s return.",
+        "The last Murderdolls live show was in 2018.",
+        "Acey Slade shared the announcement on social media, indicating his participation."
+      ],
+      "conclusion": "The comeback gives Murderdolls a platform to re‑engage fans and capitalize on the festival’s large audience, while also resolving past internal disputes, suggesting a stable lineup for future tours."
+    },
+    {
+      "title": "How Stephen Miller Schemed His Way to the Top",
+      "url": "https://www.wired.com/story/how-stephen-miller-schemed-his-way-to-the-top/",
+      "image": "https://media.wired.com/photos/6aee33acd48df2adb8635683/191:100/w_1280,c_limit/GettyImages-2289377528.jpg",
+      "source": "Wired",
+      "language": "en",
+      "que_paso": "President Donald Trump announced that Stephen Miller will replace Susie Wiles as White House chief of staff, following the Republican losses in the 2026 midterm elections. The change was made public on Trump's Truth Social platform, with Miller slated to assume the role on Monday.",
+      "datos": [
+        "The announcement was made on Friday, November 6, 2026, via Trump's Truth Social post.",
+        "Susie Wiles submitted her resignation on Thursday, November 5, 2026.",
+        "Miller is currently deputy chief of staff for policy and the Homeland Security Council director.",
+        "Trump considered three candidates—Steve Witkoff, Jay Clayton, and Stephen Miller—before selecting Miller.",
+        "Miller will officially become chief of staff on Monday, November 9, 2026.",
+        "The Republican Party lost control of both the House and Senate in the November 2026 midterm elections."
+      ],
+      "conclusion": "Miller's elevation signals a move toward a more hard‑line, loyalty‑driven White House, likely accelerating personnel turnover and reinforcing aggressive policy agendas."
+    },
+    {
+      "title": "El Ibex firma su mejor semana en siete meses al calor de la banca y la caída del petróleo",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-06/la-bolsa-y-el-ibex-35.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/UF4LNKLCEZEHPEXRIG63PYZM2E.png?auth=3f2737f4bdfe9ea3ccd935d3e1ee130edb0be509ed7a15bbbeccc9e3db22def3&width=1200",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Durante la última semana, el Ibex 35 registró su mayor avance semanal en siete meses, impulsado por la victoria demócrata en las elecciones de mitad de mandato en EE. UU. Sin embargo, la caída del precio del petróleo y el temor a una desaceleración de la inversión en IA provocaron una corrección en los valores tecnológicos, limitando el repunte.",
+      "datos": [
+        "El Ibex 35 subió un 3,8 % en la semana, su mayor incremento desde abril de 2026.",
+        "El viernes, el Ibex 35 cayó un 0,6 %.",
+        "El Brent perdió un 16,4 % durante la semana, la mayor caída desde el inicio de la pandemia de COVID‑19.",
+        "Las elecciones de mitad de mandato en EE. UU. fueron ganadas contundentemente por el Partido Demócrata.",
+        "Los precios del crudo siguen por encima de los niveles observados durante el confinamiento de 2020.",
+        "Los analistas advierten que, aun si la guerra entre EE. UU. e Irán terminara pronto, la prima de riesgo en los mercados energéticos permanecerá significativa."
+      ],
+      "conclusion": "El repunte del Ibex muestra que la bolsa española sigue sensible a la política estadounidense y al precio del petróleo, mientras que la incertidumbre en IA puede frenar el impulso de los sectores tecnológicos; los gestores deben vigilar tanto los riesgos geopolíticos como la evolución de los precios energéticos para ajustar sus estrategias operativas."
+    },
+    {
+      "title": "Watch: Stanton Moore (Galactic, Corrosion Of Conformity) Takes On Queens Of The Stone Age For Drumeo",
+      "url": "https://www.theprp.com/2026/11/06/news/watch-stanton-moore-galactic-corrosion-of-conformity-takes-on-queens-of-the-stone-age-for-drumeo/",
+      "image": "https://www.theprp.com/app/uploads/2026/11/stantonmoorelarge-1200x675.webp",
+      "source": "The PRP",
+      "language": "en",
+      "que_paso": "Drummer Stanton Moore was invited by Drumeo to record a Queens of the Stone Age song he had never heard before. He received a version stripped of percussion, performed his own take, and the resulting video was published.",
+      "datos": [
+        "Stanton Moore is best known as the drummer for the jazz‑funk group Galactic.",
+        "He previously performed with the Southern metal band Corrosion Of Conformity.",
+        "The Drumeo video is part of the platform’s ‘For The First Time’ series.",
+        "The Queens of the Stone Age track he tackled is the 2017 single \"The Way You Used To Do.\"",
+        "Moore received the song without any percussion tracks before recording his own performance."
+      ],
+      "conclusion": "The exercise shows how a versatile drummer can quickly adapt to unfamiliar material, offering a practical lesson in rapid learning and creative interpretation for musicians."
+    },
+    {
+      "title": "Wisdom In Chains Spoof ‘It’s Always Sunny In Philadelphia’ With Their “The Heat, The Pain” Music Video",
+      "url": "https://www.theprp.com/2026/11/06/news/wisdom-in-chains-spoof-its-always-sunny-in-philadelphia-with-their-the-heat-the-pain-music-video/",
+      "image": "https://www.theprp.com/app/uploads/2026/11/wisdominchainslarge-1200x675.webp",
+      "source": "The PRP",
+      "language": "en",
+      "que_paso": "Wisdom In Chains released a new music video for their single “The Heat, The Pain,” previewing the upcoming album “The Gospel.” The video parodies the sitcom “It’s Always Sunny in Philadelphia,” and the Pennsylvania‑based band announced a January 15 release for the full album.",
+      "datos": [
+        "Band: Wisdom In Chains",
+        "Single title: “The Heat, The Pain”",
+        "Album title: “The Gospel”",
+        "Album release date set for January 15",
+        "Music video released and available as of November 7, 2026, spoofing “It’s Always Sunny in Philadelphia”"
+      ],
+      "conclusion": "The cross‑promotion leverages popular TV culture to generate buzz ahead of the album launch, giving the band a concrete marketing hook for its audience."
+    },
+    {
+      "title": "Toyota quiere ir más allá de los coches. La respuesta a su próxima gran apuesta está en sus propias fábricas",
+      "url": "https://www.xataka.com/robotica-e-ia/toyota-quiere-ir-alla-coches-respuesta-a-su-proxima-gran-apuesta-esta-sus-propias-fabricas",
+      "image": "https://i.blogs.es/18f778/robots-industriales-toyota/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "Toyota creó la unidad interna Toyota Robotics, que empezará a operar el 1 de enero de 2027 bajo la supervisión directa de Toyota Motor Corporation. La iniciativa, liderada por Takefumi Shiga, busca centralizar conocimientos y recursos de robótica dispersos en la empresa, dentro de una reorganización que también incluye un grupo de filosofía y formación dirigido por Akio Toyoda.",
+      "datos": [
+        "Toyota anunció la creación de Toyota Robotics el 5 de noviembre de 2026 y su puesta en marcha será el 1 de enero de 2027.",
+        "Takefumi Shiga, responsable de producción, asumirá la dirección de la nueva división.",
+        "Toyota cuenta con 60 plantas y aproximadamente 18.000 trabajadores especializados.",
+        "Se estima que entre 2028 y 2040 el ecosistema industrial de Toyota necesitará unos 400.000 robots, de los cuales 150.000 serán para el fabricante y sus filiales y 250.000 para proveedores.",
+        "La renovación de instalaciones y equipos envejecidos podría requerir alrededor de un billón de yenes anuales.",
+        "Reuters informó en septiembre que la cifra de 400.000 robots es una proyección y no representa ventas previstas de Toyota Robotics."
+      ],
+      "conclusion": "Consolidar la experiencia en automatización permite a Toyota diversificar su negocio más allá de los automóviles, ofreciendo soluciones robóticas a sus propias fábricas y a la cadena de suministro, lo que puede generar nuevas fuentes de ingresos y mejorar la competitividad operativa."
+    },
+    {
+      "title": "Trump defiende que Israel \"no existiría hoy\" sin su guerra en Irán tras la derrota electoral de los republicanos",
+      "url": "https://www.europapress.es/internacional/noticia-trump-defiende-israel-no-existiria-hoy-guerra-iran-derrota-electoral-republicanos-20261106205654.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261106205654_1200_v2.jpg",
+      "source": "Europa Press Tecnología",
+      "language": "es",
+      "que_paso": "El presidente Donald Trump reiteró que, sin la guerra iniciada contra Irán el 28 de febrero, Israel no existiría hoy, y lo dijo como una nueva respuesta a las críticas que vinculan el conflicto con la reciente derrota electoral de los republicanos.",
+      "datos": [
+        "Donald Trump afirmó que Israel \"no existiría hoy\" sin la guerra contra Irán",
+        "La guerra contra Irán fue lanzada el 28 de febrero de 2026",
+        "La declaración se hizo el viernes 7 de noviembre de 2026",
+        "Trump presentó su comentario como respuesta a críticas sobre el impacto del conflicto en la derrota electoral de los republicanos",
+        "Los republicanos sufrieron una derrota en las elecciones recientes de noviembre 2026"
+      ],
+      "conclusion": "El discurso muestra cómo se politiza la política exterior para desviar la responsabilidad de pérdidas electorales, lo que indica que los análisis de riesgos deben separar hechos geopolíticos de narrativas partidistas."
+    },
+    {
+      "title": "These Newly Elected Lawmakers Know Something Trump Doesn’t: Science",
+      "url": "https://www.nytimes.com/2026/11/06/science/scientists-election-congress.html",
+      "image": "https://static01.nyt.com/images/2026/11/06/science/06sci-politician-scientists/06sci-politician-scientists-mediumSquareAt3X.jpg",
+      "source": "NYT Science",
+      "language": "en",
+      "que_paso": "Three newly elected members of Congress—a mathematician, a microbiologist and a chemical engineer—are preparing to confront the White House over its announced research funding cuts.",
+      "datos": [
+        "The election took place on Tuesday, November 5, 2026.",
+        "The three incoming legislators have professional backgrounds in mathematics, microbiology, and chemical engineering.",
+        "The White House has signaled intentions to reduce federal research funding.",
+        "The new lawmakers intend to oppose those proposed cuts.",
+        "The article reporting this was published on November 7, 2026."
+      ],
+      "conclusion": "Their scientific expertise may drive a more evidence‑based push against research budget reductions, potentially influencing future policy decisions."
+    },
+    {
+      "title": "Developer ends lucrative screensaver deal with Roku because Fox bought it",
+      "url": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Screenshot-2026-11-06-134100-1152x648.jpg",
+      "source": "Ars Technica",
+      "language": "en",
+      "que_paso": "Roku will stop offering the “Aquatic Life” screensaver on its platform after Dec 1 because the creator, Jim Sachs, declined to renew the licensing agreement following Fox’s acquisition of Roku. The decision removes an ad‑free visual feature that has been on Roku OS for a decade and will be replaced by the Roku City screensaver.",
+      "datos": [
+        "The licensing agreement was $80,000 per year for exclusive rights (or $60,000 for non‑exclusive) and Roku had always opted for the exclusive option.",
+        "The “Aquatic Life” screensaver has been available on Roku OS for 10 years.",
+        "The licensing contract renews each October and can be cancelled by either party for any reason.",
+        "Fox completed its purchase of Roku on the day Sachs announced he would not renew the license.",
+        "Affected devices will automatically switch to the Roku City screensaver after Dec 1, 2026.",
+        "The animation, called Marine Aquarium, is created by Jim Sachs through his company SereneScreen and licensed via Prolific Publishing."
+      ],
+      "conclusion": "The episode illustrates how a corporate acquisition can instantly disrupt third‑party content agreements, underscoring the importance of licensing risk assessments and fallback strategies in product and operations planning."
+    },
+    {
+      "title": "Shure’s popular podcasting and streaming mic is almost $50 off",
+      "url": "https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/shure-mv7-plus-breakout.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "language": "en",
+      "que_paso": "Shure has reduced the price of its MV7 Plus microphone to $255, about $50 off the regular price, and is also offering a $269 bundle with a desktop stand at several retailers. The discount is available through Amazon, Guitar Center, and Shure’s own store.",
+      "datos": [
+        "The MV7 Plus is listed at $255 on Amazon, Guitar Center, and Shure’s website.",
+        "The discount represents roughly a $50 reduction from its standard retail price.",
+        "A bundle including the MV7 Plus and a desktop stand is priced at $269.",
+        "The new MV7 Plus adds a USB‑C connection, a customizable LED light panel, and support for the Motiv Mix app.",
+        "The microphone features auto‑leveling and denoising technology.",
+        "It provides both USB‑C and XLR outputs, allowing connection to a computer or audio interface."
+      ],
+      "conclusion": "The price cut makes a high‑quality, feature‑rich mic more accessible for podcasters and streamers, potentially lowering equipment costs for content creators."
+    },
+    {
+      "title": "Ola Källenius, CEO de Mercedes: “no existe una estrategia en la que puedas dejar a China de lado”",
+      "url": "https://www.xataka.com/movilidad/ola-kallenius-ceo-mercedes-no-existe-estrategia-que-puedas-dejar-a-china-lado",
+      "image": "https://i.blogs.es/9fb074/daimler_at_iaa_2019_-_ola_kallenius/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "Mercedes-Benz está revisando su estrategia en China tras una fuerte caída de ventas y márgenes en el tercer trimestre, y anunció que presentará un plan más amplio para 2027, sin intención de abandonar el mercado.",
+      "datos": [
+        "Las ventas de vehículos de Mercedes en China cayeron un 31 % interanual en el tercer trimestre.",
+        "El beneficio ajustado de la división de automóviles se redujo a 560 millones de euros, con el margen pasando del 4,8 % al 2,5 %.",
+        "Las acciones de Mercedes han perdido más de un tercio de su valor en 2026.",
+        "El próximo Clase E eléctrico se fabricará casi en su totalidad en China para reducir costes variables.",
+        "El director financiero Harald Wilhelm indicó que la cadena de suministro se está trasladando a un abastecimiento totalmente local."
+      ],
+      "conclusion": "La empresa reconoce a China como un pilar estructural y está apostando a productos locales y mayor eficiencia para mantener su rentabilidad en un mercado cada vez más competitivo."
+    },
+    {
+      "title": "Durante años Ueno Bank pareció conquistar las finanzas de Paraguay. Ahora ha reavivado el fantasma del \"corralito\"",
+      "url": "https://www.xataka.com/magnet/durante-anos-ueno-bank-parecio-conquistar-finanzas-paraguay-ahora-ha-reavivado-fantasma-corralito",
+      "image": "https://i.blogs.es/af98f2/ueno/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "El Banco Central de Paraguay tomó control de Ueno Bank tras detectar que no alcanzaba los niveles de solvencia exigidos, congelando los ahorros de millones de clientes y de fondos públicos. La medida provocó protestas y desencadenó una crisis política que llevó a la renuncia del jefe del regulador bancario y del presidente del país, generando incertidumbre sobre la recuperación de los depósitos.",
+      "datos": [
+        "De 2023 a 2026, la cartera de clientes de Ueno Bank pasó de 500.000 a más de 3 millones.",
+        "El Banco Central de Paraguay intervino el banco el martes, al constatar que no cumplía el requisito mínimo de solvencia.",
+        "El Estado paraguayo tenía depositados 850 millones de dólares en Ueno Bank.",
+        "El Instituto de Previsión Social había colocado aproximadamente 355 millones de dólares en el banco.",
+        "El presidente del Banco Central, Carlos Carvallo, renunció tras la intervención.",
+        "El presidente de la República, Santiago Peña, presentó su renuncia, aunque el Congreso no la aceptó y abrió un juicio político."
+      ],
+      "conclusion": "La intervención evidencia vulnerabilidades del sistema financiero paraguayo y el riesgo de que fondos públicos queden atrapados, lo que obliga a reforzar la supervisión y a diseñar planes de contingencia para proteger los ahorros de la población."
+    },
+    {
+      "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+      "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+      "image": "https://media.wired.com/photos/6aebaf11899aefeeb0331a11/191:100/w_1280,c_limit/Security_Open-Weight%20AI%20Models%20Are%20About%20to%20Hit%20a%20Key%20Cyber%20Milestone_v1.jpg",
+      "source": "Wired",
+      "language": "en",
+      "que_paso": "Vals, an AI capability‑measurement firm, ran two simulated network‑breach scenarios using a range of open‑weight and closed AI models, including the Chinese DeepSeek and OpenAI's Daybreak. The tests showed the open model performed nearly as well as the proprietary one, undermining the idea that gated access can keep advanced hacking tools out of attackers' hands.",
+      "datos": [
+        "The study used a mock corporate network with a public‑facing website and a two‑company network requiring lateral movement",
+        "OpenAI's Daybreak completed 81% of tasks, while DeepSeek achieved 73% on average",
+        "Token cost per attack was $17‑$46 for GPT‑6‑Sol versus $2‑$3 for DeepSeek",
+        "Anthropic began limited release of Claude Mythos Preview in April 2026 under Project Glasswing to give defenders early access",
+        "Researchers quoted were Nikil Ravi (Vals), Rayan Krishnan (CEO of Vals) and Logan Graham (Anthropic red‑team lead)"
+      ],
+      "conclusion": "Open‑weight models now offer comparable hacking capability at a fraction of the cost, so security teams must treat them as a realistic threat and adopt defenses that assume such tools will be broadly available within the next year."
+    },
+    {
+      "title": "Una concejala amenazada por su alcalde en un pueblo de La Rioja teme por las represalias tras la difusión del caso",
+      "url": "https://elpais.com/espana/2026-11-06/una-concejala-amenazada-por-su-alcalde-en-un-pueblo-de-la-rioja-teme-por-las-represalias-tras-la-difusion-del-caso.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/BP46HRSDXNGQNFMW2MGHBUG37Y.jpg?auth=e3ed42ee9b638292d7f49d719f7fa284c27a0d798ce4077977f92deba78c1b46&width=1200",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Carmen Cantera, concejala socialista de 70 años en Azofra (población 200), ha manifestado temor a posibles represalias tras la publicación de audios en los que el alcalde del PP, Aurelio Cantera, la amenaza de forma vejatoria. El alcalde pidió disculpas un día después de la difusión y el PSOE de La Rioja ha exigido su dimisión, mientras la concejala ha decidido no presentar denuncia.",
+      "datos": [
+        "Carmen Cantera es concejala socialista de 70 años en el municipio riojano de Azofra, que cuenta con 200 habitantes",
+        "El alcalde Aurelio Cantera pertenece al Partido Popular y es el responsable de los comentarios amenazantes grabados",
+        "Los audios fueron publicados por EL PAÍS y contienen la frase ‘Te mando a casa llorando como una macarena’ pronunciada en una sesión plenaria de junio",
+        "El alcalde pidió disculpas por su modo de referirse a la concejala un día después de la difusión de los audios",
+        "El PSOE de La Rioja exigió la dimisión del alcalde tras la publicación de los audios",
+        "En la sesión ordinaria de septiembre la concejala volvió a preguntar por el mismo asunto y el alcalde respondió con nuevos insultos"
+      ],
+      "conclusion": "El caso evidencia cómo la intimidación verbal en el ámbito municipal puede escalar a conflictos institucionales, subrayando la necesidad de mecanismos de protección para los opositores y de respuestas contundentes por parte de los partidos para preservar la integridad del debate público."
+    },
+    {
+      "title": "El primer sistema Mesh WiFi 8 del mundo ya es oficial: ASUS presenta el ZenWiFi BN12 con ambiciones de gama alta",
+      "url": "https://www.xataka.com/seleccion/primer-sistema-mesh-wifi-8-mundo-oficial-asus-presenta-zenwifi-bn12-ambiciones-gama-alta",
+      "image": "https://i.blogs.es/5fd6ab/asus-zenwifi-bn12/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "Asus presentó el ZenWiFi BN12, el primer sistema Mesh comercial basado en Wi‑Fi 8, dirigido a hogares con alta densidad de dispositivos y necesidades de cobertura amplia. El lanzamiento se produce mientras la industria ya está explorando el siguiente estándar tras la masificación del Wi‑Fi 7, ofreciendo una solución orientada a la estabilidad y gestión dinámica del tráfico.",
+      "datos": [
+        "Asus ZenWiFi BN12 tiene un precio de venta de 1.205,12 euros en España",
+        "El dispositivo es de tres bandas y alcanza una velocidad combinada de hasta 19 Gbps",
+        "Un pack de dos unidades está diseñado para cubrir superficies de hasta 7.000 m²",
+        "Incluye tecnologías como MCS, UEQM, acceso a canales no primarios (NPCA) y coordinación entre puntos de acceso",
+        "Ofrece QoE adaptativa que redistribuye recursos en tiempo real y la herramienta WiFi Insight con registro histórico de 24 horas"
+      ],
+      "conclusion": "El ZenWiFi BN12 muestra cómo el Wi‑Fi 8 prioriza la cobertura y la gestión inteligente del tráfico sobre el pico de velocidad, lo que puede traducirse en redes domésticas más fiables para entornos de trabajo remoto y numerosos dispositivos IoT."
+    },
+    {
+      "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+      "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&strip=all&crop=8.0752843063528%2C7.2758349524933%2C91.924715693647%2C59.9199899822&w=1200",
+      "source": "The Verge",
+      "language": "en",
+      "que_paso": "Meta added a new feature called \"spaces\" to its Muse AI assistant, letting users generate custom, app‑like experiences such as shopping hubs or dashboards by simply describing them. The feature also incorporates Active Memory and Active Focus from the Muse Wonder model to keep contextual information relevant during interactions.",
+      "datos": [
+        "The feature is named \"spaces\" and is built into the Muse app.",
+        "Users can connect external services like Gmail, Google Calendar, OpenTable, and Notion to a space.",
+        "Connected apps feed live data—pricing, dates, etc.—which Muse updates automatically.",
+        "Spaces can be positioned in the sidebar, moved to the main tab, or scheduled for specific days.",
+        "Active Memory and Active Focus are new capabilities imported from the Muse Wonder AI model into Muse and Meta AI chatbot."
+      ],
+      "conclusion": "This lets operations teams consolidate multiple tools into a single, AI‑driven interface, streamlining data access and reducing context‑switching."
+    },
+    {
+      "title": "Muere el cineasta chileno Sebastián Lelio, ganador de un Oscar por 'Una mujer fantástica'",
+      "url": "https://www.eldiario.es/cultura/cine/muere-cineasta-chileno-sebastian-lelio-ganador-oscar-mujer-fantastica_1_13645413.html",
+      "image": "https://static.eldiario.es/clip/def0368f-1eb5-4c67-95f7-77d50527fc70_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "que_paso": "El director chileno Sebastián Lelio falleció a los 52 años mientras trabajaba en la adaptación cinematográfica de la novela \"Poeta chileno\" de Alejandro Zambra. Su cuerpo fue encontrado en su vivienda del barrio Las Condes, en Santiago.",
+      "datos": [
+        "Sebastián Lelio nació en 1974 en Mendoza, Argentina, y se consideraba chileno.",
+        "Ganó el Oscar a la Mejor Película en Lengua No Inglesa en 2018 por \"Una mujer fantástica\".",
+        "Tenía 52 años al momento de su fallecimiento el viernes 7 de noviembre de 2026.",
+        "Estaba rodando su décimo largometraje, la adaptación de \"Poeta chileno\" de Alejandro Zambra.",
+        "Su esposa, la actriz Amalia Kassai, confirmó la muerte mediante un comunicado en Instagram.",
+        "Su película \"Gloria\" (2013) representó a Chile en la carrera al Oscar y fue nominada a los Premios Goya como Mejor Película Iberoamericana."
+      ],
+      "conclusion": "Su muerte deja un vacío en el cine chileno y retrasa la esperada adaptación de Zambra, lo que afecta la proyección internacional de la industria del país."
+    },
+    {
+      "title": "Just about anyone can rent access to White House IP addresses",
+      "url": "https://www.theverge.com/tech/1028835/white-house-residential-proxy",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318430/akrales_220309_4977_0038.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "language": "en",
+      "que_paso": "Security researchers from Layer3 Intel and Synthient identified that a device on the White House network appears to be running a residential‑proxy SDK, allowing external parties to rent its IP address for a few dollars. The activity was observed over a month‑long period and was linked to a watch‑party app that bundles multiple proxy SDKs, suggesting an infected insider device rather than guest Wi‑Fi usage.",
+      "datos": [
+        "Layer3 Intel and Synthient discovered the proxy activity on the White House network",
+        "The activity involved 28 residential‑proxy services between October 5 and November 3, 2026",
+        "Traffic spikes occurred between 5 PM ET and midnight, indicating regular user behavior",
+        "The implicated SDK may be part of the Rave watch‑party app, which includes 12 proxy SDKs",
+        "Windows 10 and Windows 11 devices were seen beaconing to proxy providers Geonode, Infatica and Mellowtel",
+        "Infatica was founded by Vladimir Fomenko, whose King Servers was linked to 2016 election‑system attacks in Illinois and Arizona"
+      ],
+      "conclusion": "The finding reveals a tangible breach of endpoint security at the White House, exposing the presidential network to potential misuse and underscoring the need for stricter device monitoring and proxy controls."
+    },
+    {
+      "title": "El candidato español y el holandés competirán en la carrera por sustituir a Christine Lagarde al frente del BCE",
+      "url": "https://elpais.com/economia/2026-11-06/espana-presenta-formalmente-la-candidatura-de-hernandez-de-cos-a-la-presidencia-del-bce.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/IW32AKLUGVQUM2BJSUL2UV7T44.jpg?auth=73fe686fc538fe7f75ed3aecadbf10e128a4768c059f548ac00d81cf366309d2&width=1200",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "El Eurogrupo ha iniciado la fase formal de selección del nuevo presidente del Banco Central Europeo, con dos candidatos oficiales: el español Pablo Hernández de Cos y el holandés Klaas Knot. Ambos fueron presentados por sus gobiernos y la decisión se debatirá en la reunión del Eurogrupo del próximo lunes, mientras se planifica también la sucesión de otros cargos del BCE en 2027.",
+      "datos": [
+        "Pablo Hernández de Cos y Klaas Knot son los candidatos oficiales para sustituir a Christine Lagarde a partir del 7 de febrero",
+        "Hernández de Cos fue gobernador del Banco de España y ahora es director general del Banco de Pagos Internacionales (BIS)",
+        "Klaas Knot fue gobernador del Banco Central de los Países Bajos y dirige la consultora KK Economic Advisory, colaborando con el Peterson Institute for International Economics",
+        "El presidente del Eurogrupo, Kiarakos Pierrakakis, fijó el plazo de presentación de candidaturas a las 17:00 del viernes y anunció que el lunes informará a sus homólogos",
+        "En 2027 se prevén tres sustituciones en el Comité de Dirección del BCE: la presidencia, Isabel Schnabel el 3 de enero y Philip Lane el 31 de mayo"
+      ],
+      "conclusion": "La designación del nuevo presidente del BCE influirá en la política monetaria de la zona euro y la forma en que se negocien simultáneamente varios cargos clave, lo que afecta directamente a la estrategia financiera de España y los Países Bajos."
+    },
+    {
+      "title": "El programa electoral de Mélenchon arrasa entre los jóvenes franceses el primer día de su lanzamiento",
+      "url": "https://elpais.com/internacional/2026-11-06/el-programa-electoral-de-melenchon-arrasa-entre-los-jovenes-franceses-el-primer-dia-de-su-lanzamiento.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/6GU63OJCSNKLZBWFF664FYZW4I.jpg?auth=a20554b8301ac68bbcc66f9863e543c81781906c8ee0486a7a4870e33cdbc918",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "El libro titulado \"La Francia Insumisa\", que recoge el programa de gobierno de Jean‑Luc Mélenchon para los próximos cinco años, se agotó en todas las librerías de Francia el mismo día de su lanzamiento, dirigido principalmente a los jóvenes. La obra se comercializa a un precio inferior a cinco euros, lo que ha favorecido su rápida difusión entre ese segmento electoral.",
+      "datos": [
+        "El libro se agotó en todas las librerías de Francia el día de su lanzamiento",
+        "El precio de venta es menor a 5 €, según la información de los distribuidores",
+        "El contenido expone el plan de gobierno de Jean‑Luc Mélenchon para los próximos cinco años",
+        "El lanzamiento tuvo lugar el 7 de noviembre de 2026",
+        "El público objetivo son los jóvenes franceses, según la campaña de difusión"
+      ],
+      "conclusion": "El éxito inmediato del programa indica un fuerte respaldo juvenil a Mélenchon, lo que podría traducirse en mayor influencia en la agenda política francesa de cara a las próximas elecciones."
+    },
+    {
+      "title": "US tech stocks post modest recovery on Wall Street after worst day in 19 months – as it happened",
+      "url": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates",
+      "image": "https://i.guim.co.uk/img/media/0e4c788de335f06b675ebb989bef6fdeb25ba7e8/566_34_4958_3966/master/4958.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=d09da962b0b91548b0935a5b6dd11891",
+      "source": "The Guardian AI",
+      "language": "en",
+      "que_paso": "After the market’s steepest decline in 19 months, early trading the next day saw a modest rebound in technology shares, lifting the Nasdaq about 1.2% while the Dow continued to fall. AI‑related companies such as AMD, SanDisk and Nvidia posted double‑digit gains, contrasting with declines in traditional retailers.",
+      "datos": [
+        "Nasdaq rose 1.2% in early trading on the recovery day.",
+        "AMD shares gained 8.1%.",
+        "SanDisk shares gained 8.3%.",
+        "Nvidia shares gained 6.5%.",
+        "Dow Jones Industrial Average was down 1% at the open.",
+        "The previous day the Nasdaq fell 5.5% and the DJIA fell 3.44%."
+      ],
+      "conclusion": "The rebound shows AI‑linked equities can quickly recover from market shocks, but the broader indices remain under pressure, signaling ongoing volatility for operational and investment planning."
+    },
+    {
+      "title": "La Guardia Civil cifra en más de 88.000 los retornos de migrantes de Ceuta, más de los que el Gobierno calculó que habían entrado en julio",
+      "url": "https://elpais.com/espana/2026-11-06/la-guardia-civil-cifra-en-mas-de-88000-los-retornos-de-migrantes-de-ceuta-a-marruecos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/FBUHZ35B7ZKOPPE5ZOAZDO3IVY.jpg?auth=bbb20f2c6db97ed9a56b1eaece69180d002e3546145af3a89d7bc4219b7eed32&width=1200",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "A finales de julio, miles de migrantes cruzaron la frontera de Ceuta provocando una crisis migratoria que desencadenó un intenso proceso de devoluciones a Marruecos. La Guardia Civil informó que, hasta el 27 de octubre, se habían retornado más de 88.000 personas, cifra que supera ampliamente las estimaciones oficiales publicadas durante el mes.",
+      "datos": [
+        "88.146 retornos a Marruecos registrados por la Guardia Civil hasta el 27‑10‑2026",
+        "862 personas rescatadas en aguas españolas por los GEAS y el Servicio Marítimo",
+        "90 fallecidos en el lado español de la frontera durante la entrada",
+        "48.300 salidas voluntarias a Marruecos registradas a las 18:00 del 31‑07‑2026",
+        "Fernando Grande‑Marlaska declaró el 01‑08‑2026 que entraron entre 50.000 y 60.000 migrantes",
+        "Ángel Víctor Torres estimó el 10‑08‑2026 una entrada de 80.000 personas"
+      ],
+      "conclusion": "La discrepancia entre los datos oficiales y los del informe policial evidencia una subestimación de la magnitud del flujo migratorio, lo que complica la planificación operativa y la toma de decisiones en gestión fronteriza."
+    },
+    {
+      "title": "Me fui de viaje con el Vivo X500 Pro Max temiendo que sus cámaras me vinieran grandes. Ha sido el móvil que más he disfrutado",
+      "url": "https://www.xataka.com/moviles/me-fui-viaje-vivo-x500-pro-max-temiendo-que-sus-camaras-me-vinieran-grandes-ha-sido-movil-que-he-disfrutado",
+      "image": "https://i.blogs.es/32e7ce/portada-posible/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "El autor recibió el Vivo X500 Pro Max para un viaje de trabajo a Tenerife y probó sus capacidades fotográficas en la isla, descubriendo que su uso resultó intuitivo pese a sus especificaciones premium.",
+      "datos": [
+        "Pantalla AMOLED de 6,85 pulgadas",
+        "Sensor principal Sony LYTIA de 50 MP (1/1,28 pulgadas, f/1.57)",
+        "Telefoto de 200 MP con aumento 3,5× y ultra gran angular de 50 MP",
+        "Incluye teleconvertidores equivalentes a 200 mm y 400 mm",
+        "Grip con botón de disparo y palanca para zoom",
+        "Pruebas realizadas en el Jardín Botánico de Puerto de la Cruz, Tenerife, en 2026"
+      ],
+      "conclusion": "Demuestra que los smartphones de gama alta pueden ofrecer calidad fotográfica profesional sin requerir configuraciones complejas, lo que beneficia a usuarios operativos que buscan eficiencia y resultados fiables."
     },
     {
       "title": "What Shaped Anthropic CEO Dario Amodei’s Thinking on A.I.",
@@ -121,811 +652,129 @@
       "image": "https://static01.nyt.com/images/2026/10/29/business/00biz-amodei-profile/00biz-amodei-profile-mediumSquareAt3X.png",
       "source": "NYT Tech",
       "language": "en",
-      "que_paso": "Anthropic’s chief executive Dario Amodei’s outlook on artificial intelligence is being examined, highlighting how his personal and professional experiences have molded his stance. The piece notes that industry observers view him in starkly different ways, reflecting broader debates over AI risk and responsibility.",
+      "que_paso": "The piece profiles Dario Amodei, the chief executive of Anthropic, and outlines the influences that have formed his views on artificial intelligence. It notes that observers describe him alternately as a “doomer” warning of AI risks and as a “responsible technologist” focused on safe development. The article provides background on how these reputations arose.",
       "datos": [
-        "Dario Amodei is the chief executive officer of Anthropic.",
-        "Some commentators have labeled Amodei a \"doomer\" regarding AI futures.",
-        "Other observers describe him as a \"responsible technologist\" in the AI field.",
-        "The article is a profile titled \"What Shaped Anthropic CEO Dario Amodei’s Thinking on A.I.\""
+        "Dario Amodei is the CEO of Anthropic.",
+        "The article characterizes him as both a “doomer” and a “responsible technologist.”"
       ],
-      "conclusion": "His nuanced perspective signals how Anthropic may balance innovation with safety, a practical consideration for organizations deploying AI solutions."
+      "conclusion": "His dual reputation signals that Anthropic’s leadership balances caution with practical AI advancement, a stance that can affect industry standards and risk management."
     },
     {
-      "title": "Sharon Osbourne Says The 2027 ‘Ozzfest’ Lineup Is Only 50% Booked, Confirms Where Unreleased Ozzy Songs Will Surface",
-      "url": "https://www.theprp.com/2026/11/05/news/sharon-osbourne-says-the-2027-ozzfest-lineup-is-only-50-booked-confirms-where-unreleased-ozzy-songs-will-surface/",
-      "image": "https://www.theprp.com/app/uploads/2026/11/ozzfest2027large-1200x675.webp",
-      "source": "The PRP",
-      "language": "en",
-      "que_paso": "Sharon Osbourne announced on November 5, 2026 that the 2027 Ozzfest is only about half booked, revealed three festival dates and locations, and disclosed that two unreleased Ozzy songs produced with Andrew Watt are earmarked for an upcoming Ozzy biopic that is still in development.",
-      "datos": [
-        "The announcement was made on November 5, 2026.",
-        "Sharon Osbourne said roughly 50% of the lineup has been \"nailed down.\"",
-        "The festival dates are July 10, 2027 in Milton Keynes, UK (National Bowl); September 11, 2027 in San Bernardino, CA (Glen Helen Amphitheater); and September 18, 2027 in Mexico City (Estadio GNP Seguros).",
-        "Early‑bat presales begin on November 6, 2026 at 10:00 am local time.",
-        "The most recent Ozzfest before this was held in 2018.",
-        "Two unreleased Ozzy songs produced with Andrew Watt are planned for an Ozzy biopic with Sony Pictures, now on its fourth script draft."
-      ],
-      "conclusion": "The partial lineup and pending biopic material suggest the festival may face scheduling challenges but also offers a unique draw for fans through new Ozzy content, impacting ticket strategy and promotional planning."
-    },
-    {
-      "title": "Hegseth Lashes Out at Critics Calling for His Firing",
-      "url": "https://www.nytimes.com/2026/11/05/us/politics/hegseth-video-midterms-trump.html",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05dc-hegseth-fcbw/05dc-hegseth-fcbw-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Defense Secretary Hegseth released a video in which he pledged to “finish what we have started,” while some Republican lawmakers attributed the party’s recent midterm election losses to the ongoing war with Iran.",
-      "datos": [
-        "Hegseth is identified as the U.S. Defense Secretary.",
-        "The statement was delivered in a newly released video.",
-        "He used the exact phrase “finish what we have started.”",
-        "Republican officials linked the Iran war to their midterm defeats.",
-        "The criticism centers on the war’s impact on the party’s electoral performance."
-      ],
-      "conclusion": "The episode shows how defense policy actions are being politicized, warning that foreign engagements like the Iran war can directly affect domestic electoral fortunes."
-    },
-    {
-      "title": "Las autoridades cubanas liberan a la periodista Yoani Sánchez, pero la acusan de “atentar contra el orden constitucional”",
-      "url": "https://elpais.com/america/2026-11-05/las-autoridades-cubanas-liberan-a-la-periodista-yoani-sanchez-pero-la-acusan-de-atentar-contra-el-orden-constitucional.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/CJWRJGSCZFSNHSBERXQRAOM6JM.jpg?auth=3644a8a1f91f2aa134930d356b4c3980852cac87d8044a1179b5f46dd683b8f1",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Yoani Sánchez, periodista cubana y directora de su propio medio, fue detenida por las autoridades de Cuba la mañana del martes y, tras varias horas, fue puesta en libertad, aunque sigue bajo acusación de atentar contra el orden constitucional. El caso se produce en medio de un patrón de hostilidad estatal hacia los medios críticos.",
-      "datos": [
-        "Yoani Sánchez es la periodista arrestada",
-        "La detención ocurrió la mañana del martes",
-        "Fue liberada después de la detención",
-        "Las autoridades cubanas la acusan de “atentar contra el orden constitucional”",
-        "El incidente se enmarca en un constante acoso a medios críticos en Cuba"
-      ],
-      "conclusion": "La liberación no elimina la amenaza legal, lo que indica que los periodistas independientes siguen expuestos a represalias y que cualquier iniciativa de IA en medios debe considerar riesgos regulatorios en entornos autoritarios."
-    },
-    {
-      "title": "T-Mobile owner on Elon Musk launching a wireless carrier: ‘Welcome to the party’",
-      "url": "https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2259379374.jpg?quality=90&strip=all&crop=0%2C8.4168746032444%2C100%2C83.166250793511&w=1200",
-      "source": "The Verge",
-      "language": "en",
-      "que_paso": "During Deutsche Telekom’s earnings call, CEO Tim Höttges warned that Elon Musk’s SpaceX would need at least $200 billion to launch a full‑scale Starlink Mobile service in the United States, citing the cost of spectrum, towers and antennas. He highlighted the company’s own 85,000‑tower network and 400 MHz of spectrum as a benchmark while noting SpaceX’s recent acquisition of 76 MHz and its plan to combine satellite and terrestrial infrastructure.",
-      "datos": [
-        "Tim Höttges said Starlink Mobile would require a minimum of $200 billion to become a major carrier.",
-        "Musk’s company has purchased 76 MHz of spectrum, compared with Deutsche Telekom’s 400 MHz.",
-        "Deutsche Telekom operates 85,000 cell towers in its network.",
-        "Höttges estimated an additional $20‑30 billion would be needed for tower and antenna deployment.",
-        "Qualcomm announced it will provide cellular infrastructure technology for Starlink Mobile’s buildout.",
-        "Reports indicate SpaceX could access up to 80,000 existing U.S. cell towers and Musk was in talks to acquire Boost Mobile."
-      ],
-      "conclusion": "The staggering capital requirement signals a high barrier to entry, meaning operators should monitor SpaceX’s progress as a potential disruptive competitor while preparing strategic responses."
-    },
-    {
-      "title": "Al Jourgensen On Paul Barker’s Limited Involvement On Ministry’s Final Album: “What Worked In The Nineties Doesn’t Work Now”",
-      "url": "https://www.theprp.com/2026/11/05/news/al-jourgensen-on-paul-barkers-limited-involvement-on-ministrys-final-album-what-worked-in-the-nineties-doesnt-work-now/",
-      "image": "https://www.theprp.com/app/uploads/2026/11/aljourgensenpaulbarkerlarge-1200x675.webp",
-      "source": "The PRP",
-      "language": "en",
-      "que_paso": "Al Jourgensen released Ministry’s final studio album and announced the band will be retired after a farewell tour that runs through 2027. He confirmed that former member Paul Barker only appears on a single track because the two could not align creatively. The plan includes a concluding show slated for October 30, 2027 at the Kia Forum in Inglewood, California.",
-      "datos": [
-        "\"Hate To Go – Take Out Or Delivery\" was released on October 30, 2026.",
-        "The farewell tour is scheduled to end on October 30, 2027 at the Kia Forum in Inglewood, CA.",
-        "Paul Barker, Ministry’s bassist/keyboardist from 1986‑2003, contributed solely to the song “We’re Still Here.”",
-        "In a Revolver interview, Jourgensen said, “What worked in the Nineties doesn’t work now.”",
-        "Josh Bradford, vocalist for RevCo, was mentioned as a potential collaborator for the album’s videos."
-      ],
-      "conclusion": "The album marks the definitive close of Ministry’s 40‑year career, and the limited Barker involvement underscores how even legacy partnerships must adapt to current creative realities."
-    },
-    {
-      "title": "6 Best VPN Services (2026), Tested and Reviewed",
-      "url": "https://www.wired.com/gallery/best-vpn/",
-      "image": "https://media.wired.com/photos/68c88e3fadc88e6a8852f302/191:100/w_1280,c_limit/nordvpn.png",
-      "source": "Wired",
-      "language": "en",
-      "que_paso": "The author evaluated the crowded VPN market and selected a short list of services that reliably keep their privacy promises, highlighting Proton VPN’s early Black Friday promotion. The review notes that demand for VPNs is rising because new age‑verification laws in the UK and several US states are forcing more users to mask their online identity.",
-      "datos": [
-        "Proton VPN Plus is offered at $2.49 per month (75 % off the regular $10) when billed $60 for 24 months.",
-        "Proton VPN Plus supports up to 10 devices and provides access to more than 20,000 servers.",
-        "Proton Unlimited can be purchased for $6.50 per month (regular $13) billed $78 for 12 months and adds mail, calendar, password manager and 500 GB cloud storage.",
-        "The article cites age‑verification legislation in the United Kingdom and several U.S. states as a driver of increased VPN adoption.",
-        "The author warns that many VPN providers have previously handed over user data despite claiming a no‑logging policy."
-      ],
-      "conclusion": "For an operations manager, the takeaway is that a vetted VPN like Proton can deliver enterprise‑grade privacy at a low cost, helping secure remote work and compliance with emerging data‑privacy regulations."
-    },
-    {
-      "title": "Rubio Dismisses Reports He Will Leave His Jobs to Run for President",
-      "url": "https://www.nytimes.com/2026/11/05/us/politics/marco-rubio-2028.html",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05dc-rubio-mfpc/05dc-rubio-mfpc-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Rubio, who serves as President Trump’s secretary of state and national security adviser, denied media speculation that he would resign to mount a presidential bid, saying he will remain in his posts until the administration ends. The denial was issued amid rumors that he might leverage his foreign‑policy profile for a campaign.",
-      "datos": [
-        "Rubio holds the dual roles of Secretary of State and National Security Adviser in the Trump administration.",
-        "He publicly dismissed reports that he would leave those positions to run for president.",
-        "Rubio stated his intention to stay in his roles until the end of the current administration.",
-        "The speculation concerned a potential presidential campaign by Rubio.",
-        "The statement was made in a press briefing on November 6, 2026."
-      ],
-      "conclusion": "Rubio’s reassurance signals continuity in U.S. foreign‑policy leadership and removes immediate political uncertainty for the administration."
-    },
-    {
-      "title": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
-      "url": "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/nasa-x-70-image-1152x648.jpeg",
+      "title": "Wisconsin reports measles death of a baby, first death in over 35 years",
+      "url": "https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2202122534-1152x648.jpg",
       "source": "Ars Technica",
       "language": "en",
-      "que_paso": "NASA administrator Jared Isaacman introduced the X-70 Fractal, a new crewed experimental aircraft with reconfigurable flight‑control and modular payload capability, at the UP.Summit in Florida. The announcement featured an AI‑generated silhouette image and hinted at a possible flight within two years, while also teasing another X‑plane reveal at the same event.",
+      "que_paso": "An infant in Wisconsin died of measles, marking the state’s first measles fatality since 1990. The death occurred amid a statewide outbreak that has infected more than 430 people across 13 counties this year, and it is the third measles death reported in the United States this week.",
       "datos": [
-        "The X‑70 was announced on November 4, 2026 at NASA's Kennedy Space Center during the UP.Summit.",
-        "It is designed to cruise at Mach 0.75 and reach a maximum altitude of 45,000 feet.",
-        "Its operational range is stated as beyond 1,726 miles (2,778 kilometers).",
-        "The aircraft’s takeoff weight is specified at 10,000 pounds (4,536 kilograms).",
-        "It can carry up to 2,000 pounds (907 kilograms) of experimental payloads internally and externally.",
-        "NASA expects the X‑70 could achieve its first flight within two years of the announcement."
+        "The Wisconsin infant’s death is the first measles death in the state since 1990.",
+        "The current Wisconsin outbreak has affected over 430 individuals in 13 counties in 2026.",
+        "The United States has recorded 5,182 measles cases across 47 states as of November 5, 2026.",
+        "Nine measles deaths have been reported in the U.S. this year, eight of which have been confirmed by state officials.",
+        "The CDC lists four measles deaths in its tally, though it is unclear which cases are counted.",
+        "A Pan American Health Organization expert committee will review 2025‑2026 data on November 10‑13 to determine if measles has re‑established in the U.S."
       ],
-      "conclusion": "The X‑70 provides NASA with a versatile crewed platform to accelerate testing of advanced flight‑control technologies, potentially shortening development cycles for future high‑performance aircraft."
+      "conclusion": "The incident underscores how declining vaccination rates can quickly translate into preventable fatalities, prompting health operations to prioritize outreach and immunization enforcement in vulnerable communities."
     },
     {
-      "title": "The 7 Best Early Black Friday TV Deals (2026)",
-      "url": "https://www.wired.com/story/early-black-friday-tv-deals-11-5-26/",
-      "image": "https://media.wired.com/photos/6aed023aaada98abfcc694d5/191:100/w_1280,c_limit/The-Best-Early-Black-Friday-TV-Deals.jpg",
-      "source": "Wired",
-      "language": "en",
-      "que_paso": "Early Black Friday promotions are already available, with several major manufacturers offering steep discounts on OLED and art‑TV models; WIRED reviewers have tested the units and highlighted the savings. These offers appear weeks before the official Black Friday, giving shoppers a head‑start.",
-      "datos": [
-        "LG C6 65‑inch OLED listed at its lowest price ever according to WIRED",
-        "LG B6 48‑inch OLED discounted 50% at Best Buy",
-        "TCL QM6K discounted 33% off its regular price",
-        "Samsung S95H OLED noted as being at its lowest price yet",
-        "Samsung Frame Pro 2026 model discounted 17% matching earlier Prime Day low",
-        "WIRED reviewer John Brandon praised the Samsung S95H’s color accuracy and deep blacks"
-      ],
-      "conclusion": "The timing lets buyers secure premium screens at reduced cost and avoid typical Black Friday stock or shipping issues, delivering immediate budget efficiencies."
-    },
-    {
-      "title": "Antonia Dell’Atte responde a las disculpas públicas de Ana Obregón: “Te he salvado de una condena y de ir a la cárcel”",
-      "url": "https://elpais.com/gente/2026-11-05/antonia-dellatte-responde-a-las-disculpas-publicas-de-ana-obregon-te-he-salvado-de-una-condena-y-de-ir-a-la-carcel.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/LLQIFV7WKVGBPFA2Y6OOBK7CKE.jpg?auth=2c1b8212431d488ac135efdac0c00d4a03106b98896688bc08628879b3114f2b",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Antonia Dell’Atte, exmodelo italiana, aceptó en Instagram el perdón de la presentadora Ana Obregón pero criticó que la disculpa llegara tras 35 años, alegando que Obregón había encubierto a su presunto agresor Alessandro Lecquio.",
-      "datos": [
-        "Antonia Dell’Atte publicó y luego eliminó la respuesta en su cuenta de Instagram",
-        "Ana Obregón emitió una disculpa pública dirigida a Dell’Atte",
-        "Dell’Atte menciona un periodo de 35 años desde los hechos",
-        "El presunto agresor señalado es Alessandro Lecquio",
-        "Dell’Atte acusa a Obregón de haber defendido y encubierto a Lecquio"
-      ],
-      "conclusion": "El intercambio reaviva una polémica de larga data y subraya la presión sobre figuras públicas para abordar acusaciones de abuso de forma oportuna y transparente."
-    },
-    {
-      "title": "La Real se deja dos puntos valiosos ante el Lyon",
-      "url": "https://elpais.com/deportes/futbol/2026-11-05/la-real-se-deja-dos-puntos-valiosos-ante-el-lyon.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ZKKU4JHDAFPOJFN77JIYU2YG5I.jpg?auth=e56585f7fa5c7d0a3e1ef5a2ff43f0b3ee34490e6cc0079fb3bc07bc9461be18",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Real Sociedad no logró la victoria contra el Olympique Lyonnais, cediendo dos puntos que podrían haberle permitido escalar en la clasificación de la Europa League; al mismo tiempo, el Celta de Vigo sufrió una derrota frente al Union Saint‑Gilloise, lo que afectó su posición en la competición.",
-      "datos": [
-        "Real Sociedad dejó dos puntos valiosos ante el Lyon",
-        "La derrota del Celta de Vigo fue contra Union Saint‑Gilloise",
-        "Los equipos implicados son Real Sociedad, Lyon, Celta de Vigo y Union Saint‑Gilloise",
-        "La jornada ofrecía a los donostiarra la oportunidad de trepar posiciones en la Europa League"
-      ],
-      "conclusion": "Perder esos puntos dificulta que la Real mejore su puesto en el grupo, mientras que la derrota del Celta complica su lucha por avanzar; ambos resultados subrayan la necesidad de capitalizar cada oportunidad en la fase de grupos."
-    },
-    {
-      "title": "Google, Meta and TikTok Sue California Over Ban on Features for Kids",
-      "url": "https://www.nytimes.com/2026/11/05/technology/social-media-child-safety-california.html",
-      "image": "https://static01.nyt.com/images/2026/11/05/business/05biz-addiction-lawsuit/05biz-addiction-lawsuit-mediumSquareAt3X.jpg",
-      "source": "NYT Tech",
-      "language": "en",
-      "que_paso": "Three major tech conglomerates have mounted individual legal challenges against the state of California to contest legislation restricting specific platform capabilities for younger audiences. This coordinated pushback follows an intensifying wave of liability claims alleging that these platforms deploy addictive interface mechanics.",
-      "datos": [
-        "Filing parties: Google, Meta, and TikTok, submitting individual lawsuits.",
-        "Target jurisdiction: State of California.",
-        "Subject of litigation: State-level statutory bans restricting digital features directed at minors.",
-        "Preceding context: Concurrent influx of legal claims accusing the platforms' services of being inherently addictive."
-      ],
-      "conclusion": "This litigation establishes a direct legal clash between state regulatory authority over algorithmic engagement features and tech platforms defending their core interface design architectures."
-    },
-    {
-      "title": "OpenAI Pledges to Give Locals More Say in Data Center Projects",
-      "url": "https://www.nytimes.com/2026/11/05/technology/openai-data-centers-midterms.html",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05biz-openai-change-hpbl/05biz-openai-change-hpbl-mediumSquareAt3X.jpg",
-      "source": "NYT Tech",
-      "language": "en",
-      "que_paso": "OpenAI announced that it will adopt a more collaborative approach with the neighborhoods surrounding its upcoming data center sites, aiming to involve local residents in decision‑making about those projects.",
-      "datos": [
-        "OpenAI is the artificial‑intelligence company making the pledge.",
-        "The company committed to give locals more say in its data‑center projects.",
-        "The pledge specifically targets communities where OpenAI is building data centers.",
-        "The announcement was released on November 6, 2026.",
-        "OpenAI stated it will seek community input and feedback during planning and construction."
-      ],
-      "conclusion": "Greater community involvement can reduce opposition and streamline approvals, so operations leaders should factor local stakeholder engagement into AI‑infrastructure rollouts."
-    },
-    {
-      "title": "The midterms proved once and for all that X is not real life",
-      "url": "https://www.theverge.com/policy/1028253/midterm-elections-x-right-wing-memes",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25532395/STK204_JD_VANCE_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-      "source": "The Verge",
-      "language": "en",
-      "que_paso": "Vice President JD Vance turned a serious question about housing affordability into a joke during a Texas town hall hosted with Fox News host Jesse Watters, then blamed the problem on institutional investors and illegal immigration; the Republican slate subsequently lost traditionally red states in the 2026 midterms, winning only a narrow victory in Florida and leaving the Mississippi Senate race undecided.",
-      "datos": [
-        "Vice President JD Vance hosted a town hall in Texas with Fox News host Jesse Watters a week before the 2026 midterm elections.",
-        "The student who asked the question was Kate White, vice president of the Texas Christian University chapter of Turning Point USA.",
-        "Vance said rising housing costs were caused by institutional investors and \"20 million illegal aliens.\"",
-        "Republicans lost historically red states Texas, Kansas, and South Carolina and barely won Florida in the 2026 midterms.",
-        "The Senate race in Mississippi remained too close to call after the election.",
-        "Writer John Ganz coined the term \"groyperfication\" to describe the infiltration of far‑right \"groypers\" into political circles."
-      ],
-      "conclusion": "The episode shows how an overreliance on online echo chambers and meme‑driven messaging can blind a party to core voter concerns, contributing to unexpected electoral defeats; addressing affordability directly may be essential for future GOP competitiveness."
-    },
-    {
-      "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
-      "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg",
-      "source": "Ars Technica",
-      "language": "en",
-      "que_paso": "Google rolled out a new policy that obliges K‑12 schools using Google Workspace to opt into its AI suite—including the search engine—while allowing them to disable Gemini apps if desired. The announcement triggered criticism from educators and parents who feared that rejecting AI would also remove plain web search, leading Google to clarify the options in a blog post and a tweet. The move underscores Google’s push to make AI a core component of its educational tools.",
-      "datos": [
-        "Google announced the AI policy for K‑12 schools in early November 2026",
-        "The policy requires schools to opt into AI products, including Search, for logged‑in student accounts",
-        "Google’s VP for education told The New York Times that schools could have Search turned off if they reject AI",
-        "Google clarified via a tweet that schools can disable Gemini apps while keeping Search active",
-        "AI features such as AI Overviews and AI Mode remain in Search even if Gemini apps are blocked",
-        "Google has not changed the policy since its initial announcement"
-      ],
-      "conclusion": "School districts must treat AI adoption and basic web search as a bundled decision, meaning opting out of AI could also eliminate Search access and affect daily operations; administrators need to evaluate the trade‑off when negotiating Google services."
-    },
-    {
-      "title": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
-      "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
-      "image": "https://media.wired.com/photos/6aeccd4b5e88c9a490858b81/191:100/w_1280,c_limit/Model-Behavior-11052026-option2.jpg",
-      "source": "Wired",
-      "language": "en",
-      "que_paso": "Anthropic reaffirmed its commitment to keep Claude ad‑free while OpenAI and Google are scaling advertising within their chatbot products. OpenAI launched ads in ChatGPT in February 2024 and now serves over 100,000 advertisers, and Google has just added AI Mode chatbot ads to ten more countries. Meanwhile, startup Koah Labs is testing ad placements across hundreds of chatbot apps and reports that AI‑generated copy doubles click rates.",
-      "datos": [
-        "Anthropic’s IPO filing made no reference to advertising revenue for Claude.",
-        "OpenAI has over 100,000 customers advertising in ChatGPT since ads debuted in February 2024.",
-        "Google expanded AI Mode chatbot ads to ten additional countries beyond the United States in early November 2026.",
-        "Koah Labs’ platform serves ads in more than 200 chatbot applications, including DeepAI and Liner.",
-        "Koah Labs’ advertiser base is roughly one‑tenth the size of OpenAI’s advertiser base.",
-        "Ads with copy partially generated by AI achieve about twice the click‑through rate of fully human‑written ads, according to CEO Nic Baird."
-      ],
-      "conclusion": "The shift shows that ad revenue is becoming essential for the financial viability of smaller chatbot platforms, and AI‑assisted ad copy can materially improve engagement, suggesting operations teams should evaluate AI‑driven ad solutions to offset high inference costs."
-    },
-    {
-      "title": "Nasdaq sees worst day in 18 months as investors bet on AI slowdown after Democrats’ election triumph",
-      "url": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses",
-      "image": "https://i.guim.co.uk/img/media/3a568c8ddd6dd680b69418b3c568815a7cbbea29/261_0_3478_2784/master/3478.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fac99bf9d327d4af1ba6f307151b25bc",
-      "source": "The Guardian AI",
-      "language": "en",
-      "que_paso": "On Thursday the Nasdaq composite dropped more than 10% after investors reacted to Democratic wins in recent gubernatorial races that are expected to tighten regulation of AI data‑center expansion. The decline, led by chip makers, spread to Asian markets and pushed the index into correction territory, erasing roughly $2 trillion in market value.",
-      "datos": [
-        "Nasdaq lost over $2 trillion in market capitalization by the end of trading Thursday",
-        "SanDisk shares fell 22% and Western Digital fell 17%",
-        "The VIX rose 61% to its highest level since the early weeks of the Iran war",
-        "Japan's Nikkei 225 fell 6% and South Korea's Kospi fell more than 8% in early Friday trading",
-        "The Dow Jones Industrial Average closed down 3.4% at 51,868 points, with Nvidia down 9.2%"
-      ],
-      "conclusion": "The sharp sell‑off demonstrates how quickly AI‑related policy expectations can reprice tech stocks, urging managers to track regulatory moves and hedge exposure to mitigate volatility."
-    },
-    {
-      "title": "Journalist Admits She Used AI to Edit Photo Smearing Democrat Voters",
-      "url": "https://futurism.com/artificial-intelligence/journalist-admits-ai-photo-smear-democrat",
-      "image": "https://futurism.com/wp-content/uploads/2026/11/journalist-admits-ai-edit-photo.jpg?w=1200",
-      "source": "Futurism",
-      "language": "en",
-      "que_paso": "Olivia Reingold, a staff writer for the conservative outlet The Free Press, used an OpenAI model (ChatGPT) to brighten and sharpen a photo from Michigan Senate candidate Abdul El‑Sayed's election‑night event, then posted the edited image on X to emphasize the presence of luxury items among Democratic supporters. The image was later flagged by AI‑detection tools as having been generated or altered, and Reingold publicly admitted the AI edit in a follow‑up X post, providing a purported original for comparison.",
-      "datos": [
-        "Olivia Reingold is identified as a staff writer for The Free Press.",
-        "The edited photo was from Abdul El‑Sayed’s Michigan Senate election‑night event.",
-        "Image‑detection tools flagged the picture as AI‑generated or edited and detected watermark data from an OpenAI model.",
-        "Vanity Fair reported specific inconsistencies in the Chanel bag and Valentino shoes shown in the image.",
-        "Reingold posted on X that she used ChatGPT to brighten and sharpen the image and attached a copy of the claimed original."
-      ],
-      "conclusion": "The incident highlights the risk that AI‑assisted image manipulation can blur journalistic standards, prompting newsrooms to enforce stricter verification and disclosure policies."
-    },
-    {
-      "title": "Blue Origin’s next launch now won’t happen until 2027",
-      "url": "https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2281421326.jpg?quality=90&strip=all&crop=0%2C18.896510206688%2C100%2C62.206979586625&w=1200",
-      "source": "The Verge",
-      "language": "en",
-      "que_paso": "Blue Origin has moved its next New Glenn launch to January 2027 after a May launchpad explosion and subsequent weather‑related setbacks. The change was communicated by CEO Dave Limp, replacing Jeff Bezos’s earlier expectation of a December launch.",
-      "datos": [
-        "Blue Origin's next New Glenn launch is scheduled for January 2027.",
-        "The schedule change was announced in a memo from CEO Dave Limp.",
-        "A launchpad explosion in May 2026 damaged the New Glenn pad that was to carry Amazon Leo satellites.",
-        "Jeff Bezos said in October 2026 that the launch might occur on December 31, 2026.",
-        "The new window is about 10 days later than the previous end‑of‑year target.",
-        "Limp cited bad weather as a factor delaying the pad reconstruction."
-      ],
-      "conclusion": "The delay postpones Amazon’s Leo satellite deployment and highlights how infrastructure damage and weather can shift commercial heavy‑lift launch timelines."
-    },
-    {
-      "title": "BMW bumps battery for the better: The 2027 i7 60 xDrive, driven",
-      "url": "https://arstechnica.com/cars/2026/11/bmw-bumps-battery-for-the-better-the-2027-i7-60-xdrive-driven/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/BMW_i7_60_xD_Vancouver-Green_023-1152x648.jpg",
-      "source": "Ars Technica",
-      "language": "en",
-      "que_paso": "BMW has launched a mid‑life refresh of its flagship electric sedan, the 2027 i7 60 xDrive, upgrading the powertrain and battery while keeping the 400 V architecture. The update is part of BMW’s broader shift to higher‑density cylindrical cells and silicon‑carbide inverters across its Neue Klasse EV platform, aiming to stay competitive with other luxury EVs.",
-      "datos": [
-        "Battery capacity increased to 112.5 kWh net, up from 101.7 kWh in the previous i7 model",
-        "Combined output is 544 hp (400 kW) and 549 lb‑ft (745 Nm) for the 60 xDrive variant",
-        "0‑60 mph time is recorded at 4.6 seconds with launch control",
-        "Powertrain uses silicon‑carbide inverters and a more compact layout of cylindrical cells",
-        "The vehicle retains a 400 V electrical architecture despite the new battery pack"
-      ],
-      "conclusion": "The upgrade gives the i7 more range and modest performance, positioning it as a comfortable luxury EV rather than a high‑speed competitor, so buyers should prioritize comfort and efficiency over outright acceleration."
-    },
-    {
-      "title": "The Hate Project’s “Annihilation” Music Video Debuts",
-      "url": "https://www.theprp.com/2026/11/05/news/the-hate-projects-annihilation-music-video-debuts/",
-      "image": "https://www.theprp.com/app/uploads/2026/11/thehateprojectlarge-1200x675.webp",
-      "source": "The PRP",
-      "language": "en",
-      "que_paso": "The Swedish blackened deathcore band The Hate Project released the music video for “Annihilation” on 5 November 2026, one day before the EP of the same name drops. The EP, scheduled for 6 November 2026, will be issued through Seek & Strike.",
-      "datos": [
-        "Music video release date: 5 November 2026.",
-        "EP release date: 6 November 2026.",
-        "Band: The Hate Project, a Swedish blackened deathcore group.",
-        "Label: Seek & Strike.",
-        "EP contains four tracks: “Annihilation”, “Nectar Of Hatred”, “Metamorphosis”, and “Recreation”.",
-        "Genre: blackened deathcore."
-      ],
-      "conclusion": "The timing leverages visual content to build hype for the EP, a tactic that can boost first‑week streams and sales for niche metal releases."
-    },
-    {
-      "title": "Coheed And Cambria’s 2027 ‘S.S. Neverender’ Cruise To Feature Glassjaw, Joyce Manor, Nekrogoblikon & More",
-      "url": "https://www.theprp.com/2026/11/05/news/coheed-and-cambrias-2027-s-s-neverender-cruise-to-feature-glassjaw-joyce-manor-nekrogoblikon-more/",
-      "image": "https://www.theprp.com/app/uploads/2026/08/coheedandcambrialarge-1200x675.webp",
-      "source": "The PRP",
-      "language": "en",
-      "que_paso": "Coheed and Cambria announced that their fourth S.S. Neverender cruise will take place in early November 2027, featuring a multi‑band lineup and a live theatrical rendition of their sci‑fi saga, The Amory Wars, while sailing from Miami to Grand Cayman.",
-      "datos": [
-        "The cruise runs from November 2 to November 7, 2027.",
-        "It departs from Miami, Florida and visits Grand Cayman.",
-        "Coheed and Cambria will perform two special sets celebrating their fifth studio album, Year Of The Black Rainbow.",
-        "The lineup includes Glassjaw, Joyce Manor, The Home Team, Hail The Sun, Anthony Green, Hot Water Music, Wheatus, Big Boy, Foxy Shazam, Initiate, Nekrogoblikon, Eidola, Held, Wolves Of Glendale, Cicada Rhythm, Mr. Dinkle, Fartbarf, Sir & Sol.",
-        "Presale tickets are available at ssneverender.com/presale/.",
-        "This is the fourth edition of the S.S. Neverender cruise."
-      ],
-      "conclusion": "The event illustrates a complex, multi‑day entertainment logistics model that could inform large‑scale operational planning and partnership strategies for fan‑centric experiences."
-    },
-    {
-      "title": "El fiscal pide 52 años de cárcel para Jordi Magentí, el presunto autor del doble crimen del pantano de Susqueda",
-      "url": "https://elpais.com/espana/catalunya/2026-11-05/el-fiscal-pide-52-anos-de-carcel-para-jordi-magenti-el-presunto-autor-del-doble-crimen-del-pantano-de-susqueda.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/3PQRCVMSDHL3KTPC7ONO234JRM.jpg?auth=bd35c04303efd2d9824b6223c24dcd1f76944bec99d8e9d626c96bcab49e201b",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "El fiscal ha solicitado una pena de 52 años de prisión contra Jordi Magentí, acusado de ser el autor del doble homicidio a tiros de dos jóvenes en el pantano de Susqueda, tras que la instrucción del caso se cerrara después de nueve años de investigación.",
-      "datos": [
-        "Pena solicitada: 52 años de cárcel",
-        "Acusado: Jordi Magentí",
-        "Hecho: asesinato a tiros de dos jóvenes en el pantano de Susqueda",
-        "Duración de la instrucción: 9 años",
-        "Víctimas: dos jóvenes sin motivo aparente"
-      ],
-      "conclusion": "La propuesta de sentencia refleja la gravedad del delito y brinda una respuesta judicial a una comunidad que llevaba años sin cierre, lo que puede actuar como elemento disuasorio para futuros actos violentos."
-    },
-    {
-      "title": "13 Best Early Black Friday Deals at Best Buy on Hot Tech (2026)",
-      "url": "https://www.wired.com/story/early-black-friday-best-buy-deals-11-5-26/",
-      "image": "https://media.wired.com/photos/6aeccae2d6b6f235d0bba953/191:100/w_1280,c_limit/The-Best-Early-Black-Friday-Tech-Deals-at-Best-Buy.jpg",
-      "source": "Wired",
-      "language": "en",
-      "que_paso": "Retailers, led by Best Buy, have launched a slate of early Black Friday discounts on a range of consumer tech, from foldable phones to headphones and TVs, ahead of the holiday shopping season. The article lists specific products that WIRED reviewers have tested and deemed worth buying now rather than waiting for the official sales day.",
-      "datos": [
-        "Beats Studio Pro headphones are discounted by $109",
-        "TCL QM6K QLED TV is $400 off, bringing its price below $1,000",
-        "The new earbuds weigh 5.5 g per bud, 25 % smaller and 20 % lighter than the previous model",
-        "Samsung Galaxy Z Fold8 features a 7.6‑inch display; the Fold8 Ultra version is priced at $2,032",
-        "The semiautomatic espresso machine has been used by reviewer Julian Chokkattu for seven years",
-        "WIRED review scores: Galaxy Z Fold8 8/10, Beats Studio Pro 7/10, TCL QM6K QLED 8/10"
-      ],
-      "conclusion": "These early discounts let savvy buyers lock in significant savings and secure high‑rated gear before inventory tightens, helping operational planners avoid last‑minute price spikes and stockouts."
-    },
-    {
-      "title": "Sony revive los auriculares del Walkman de 1979 con los nuevos MDR-3R y se suma al regreso del audio con cable",
-      "url": "https://www.xataka.com/audio/sony-revive-auriculares-walkman-1979-nuevos-mdr-3r-se-suma-al-regreso-audio-cable",
-      "image": "https://i.blogs.es/51ffda/mdr-3r_orange_lifestyle_usbc_7_29_30_202655642__2__rev1-large/840_560.jpeg",
+      "title": "Blue Origin presenta Northstar, su esperadísimo motor mucho más potente que los actuales y muchísimo más barato",
+      "url": "https://www.xataka.com/espacio/blue-origin-presenta-northstar-su-esperadisimo-motor-mucho-potente-que-actuales-muchisimo-barato",
+      "image": "https://i.blogs.es/8410fb/new-glenn2/840_560.jpeg",
       "source": "Xataka",
       "language": "es",
-      "que_paso": "Sony lanzó los MDR-3R, una reinterpretación de los auriculares originales del Walkman de 1979, apostando por un diseño retro y una conexión por cable en vez de Bluetooth, para usuarios que prefieren simplicidad y estética vintage.",
+      "que_paso": "Blue Origin presentó el motor Northstar, destinado a sustituir al BE‑4 en la primera etapa de sus cohetes, y anunció la tercera etapa GS3 para misiones geoestacionarias y translunares. La compañía busca reducir costos y tiempos de ensamblaje mientras aumenta el empuje y la capacidad de carga útil de New Glenn.",
       "datos": [
-        "Los MDR-3R pesan 38 g",
-        "El cable mide 1,2 m y usa conector USB‑C",
-        "Incluyen almohadillas intercambiables en azul y naranja",
-        "Los transductores son de 23 mm, igual que los del modelo de 1979",
-        "Requieren dispositivos compatibles con USB Audio Class 1.0",
-        "No cuentan con cancelación activa de ruido y Sony desaconseja su uso con reproductores Walkman"
+        "Northstar costará aproximadamente un 25 % del precio de fabricación habitual de motores similares",
+        "El motor tendrá la mitad de piezas, un 30 % menos de masa y alrededor del 65 % de sus componentes se imprimirán en 3D",
+        "El empuje de Northstar será de 324 toneladas‑fuerza, frente a 290 toneladas del BE‑4",
+        "Con una configuración de 7 BE‑4 y 2 BE‑3U más la tercera etapa, el cohete podría llevar 8 t a GEO y 10 t a inyección translunar; con 9 BE‑4 y 4 BE‑3U, 14 t y 20 t respectivamente",
+        "La estructura de la tercera etapa soportó el 100 % de la presión máxima durante 2,5 h y el 150 % durante 10 min en pruebas",
+        "Blue Origin planea incluir la tercera etapa en los lanzadores New Glenn a partir de 2028"
       ],
-      "conclusion": "El regreso de auriculares con cable muestra que la demanda de soluciones sin batería y de baja latencia sigue creciendo, ofreciendo a los profesionales una opción fiable y estética para entornos de trabajo."
+      "conclusion": "Si los objetivos se cumplen, el menor coste y mayor rendimiento de Northstar y la flexibilidad de la tercera etapa permitirán a Blue Origin ofrecer lanzamientos más económicos y con mayor capacidad, acercándose a su meta de 1.000 vuelos anuales y reforzando su posición en el mercado espacial."
     },
     {
-      "title": "How Did Flávio Bolsonaro Flee Brazil? ‘I’ll Take That to the Grave,’ He Says",
-      "url": "https://www.nytimes.com/2026/11/05/world/americas/flavio-bolsonaro-florida-brazil.html",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-bolsonaro-interview01a-photo-flzk/05int-bolsonaro-interview01a-photo-flzk-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Flávio Bolsonaro, now residing in Miami, is publicly alleging that Brazil's recent election was stolen and is trying to influence the country's politics from abroad. His own party, however, has not filed any legal challenges to the official results.",
-      "datos": [
-        "Flávio Bolsonaro is located in Miami, Florida.",
-        "He claims the recent Brazilian election was stolen.",
-        "He said, “I’ll take that to the grave.”",
-        "His political party has not filed any legal challenges to the election outcome.",
-        "He is attempting to sway Brazil’s politics from outside the country."
-      ],
-      "conclusion": "His overseas activism highlights the risk of external actors attempting to shape domestic politics, and the lack of party challenge suggests limited institutional support for his claims."
-    },
-    {
-      "title": "The Blue Tsunami Swept Doctors and Scientists Into Office",
-      "url": "https://www.wired.com/story/the-blue-tsunami-swept-doctors-and-scientists-into-office/",
-      "image": "https://media.wired.com/photos/6aeba7714d3eef846d2fda1e/191:100/w_1280,c_limit/110426-elect-more-scientists-midterms.jpg",
-      "source": "Wired",
-      "language": "en",
-      "que_paso": "A science‑focused political action committee backed a slate of doctors and researchers who won key races in the 2026 midterm elections, creating an unprecedented influx of pro‑data legislators at federal and state levels. The victories span Senate, gubernatorial, and House contests, reflecting a coordinated effort to place scientific expertise in government.",
-      "datos": [
-        "The 314 Action Fund spent over $30 million on campaign contributions and support this election cycle.",
-        "It raised $3.6 million for pediatrician Annie Andrews in the South Carolina Senate race.",
-        "It raised $3 million for physician Amy Acton in the Ohio governor race.",
-        "The PAC’s success rate for House candidates exceeded 80%, with 14 of 17 endorsed candidates winning.",
-        "Nine of the endorsed House races flipped from Republican to Democrat.",
-        "Founder Shaughnessy Naughton created 314 Action after losing her own congressional bid in 2016."
-      ],
-      "conclusion": "The surge of scientifically trained officials suggests future policy debates may prioritize evidence‑based solutions, potentially reshaping health, technology, and research legislation."
-    },
-    {
-      "title": "Hundimiento histórico de la bolsa estadounidense: las grandes tecnológicas se dejan a esta hora entre un 9% y un 19%",
-      "url": "https://www.xataka.com/empresas-y-economia/hundimiento-historico-bolsa-estadounidense-grandes-tecnologicas-se-dejan-a-esta-hora-9-19",
-      "image": "https://i.blogs.es/88c8ee/bosa-calida-wall-street/840_560.jpeg",
-      "source": "Xataka",
-      "language": "es",
-      "que_paso": "Tras la celebración de los resultados de las elecciones legislativas, los inversores comenzaron a vender masivamente acciones tecnológicas, provocando una caída abrupta en los principales índices de Wall Street. El pánico está ligado al temor de que la expansión de la inteligencia artificial enfrente obstáculos financieros y regulatorios, y a la incertidumbre sobre la agenda política demócrata que asumirá el Congreso en enero de 2027.",
-      "datos": [
-        "El Nasdaq Composite retrocedía un 5,2% a las 19:46 h del jueves 5 de noviembre, hora peninsular española",
-        "El S&P 500 cedía un 3,9% en la misma actualización",
-        "El Dow Jones perdía un 3,1% en esa sesión",
-        "Daniel Pinto, vicepresidente de JPMorgan, advirtió el 3 de noviembre que el mercado podría estar anticipando un crecimiento de ingresos y beneficios demasiado rápido para las empresas vinculadas a la IA",
-        "Los analistas de UBS estiman que posibles suspensiones de proyectos podrían poner en riesgo alrededor del 30 % de la capacidad adicional prevista para 2028 en EE. UU."
-      ],
-      "conclusion": "La fuerte corrección indica que los planes de expansión en IA y centros de datos pueden retrasarse, por lo que es prudente revisar las proyecciones de inversión y considerar riesgos regulatorios y de financiación."
-    },
-    {
-      "title": "Santiago Abascal acudirá este lunes a ‘La revuelta’ mientras que Ada Colau lo hará el martes",
-      "url": "https://elpais.com/television/2026-11-05/santiago-abascal-acudira-este-lunes-a-la-revuelta-mientras-que-ada-colau-lo-hara-el-martes.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/LXAOLG77GFDA3A3NPM7IM5O3VI.jpg?auth=fb8921a35e3599d438e09e8097e1ab1cf0b39482da1271bb833fe2c8e5fe84e0",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Santiago Abascal, líder de Vox, y Ada Colau, expresidenta de la Generalitat de Cataluña, aceptaron la invitación de David Broncano y aparecerán como invitados principales en el programa “La revuelta” de La 1 la próxima semana.",
-      "datos": [
-        "Santiago Abascal asistirá el lunes 9 de noviembre de 2026 a “La revuelta”.",
-        "Ada Colau asistirá el martes 10 de noviembre de 2026 a “La revuelta”.",
-        "El programa “La revuelta” es presentado por David Broncano y se emite en La 1, la cadena principal de TVE.",
-        "Ambos políticos confirmaron su participación mediante declaraciones públicas a mediados de la semana.",
-        "“La revuelta” combina humor y entrevistas con figuras públicas, generando gran expectación mediática."
-      ],
-      "conclusion": "Su presencia en un programa de entretenimiento amplía la exposición de sus posiciones a una audiencia amplia, lo que puede influir en la percepción pública antes de los próximos comicios."
-    },
-    {
-      "title": "Nunca habíamos dedicado tanto tiempo a nuestros hijos y, aun así, nos sentimos malos padres por salir a cenar sin ellos",
-      "url": "https://www.xataka.com/medicina-y-salud/nunca-habiamos-dedicado-tiempo-a-nuestros-hijos-asi-nos-sentimos-malos-padres-salir-a-cenar-ellos",
-      "image": "https://i.blogs.es/eedf49/cuidado-hijos/840_560.jpeg",
-      "source": "Xataka",
-      "language": "es",
-      "que_paso": "Investigadores que analizaron miles de familias en 11 países, incluido España, descubrieron que los padres dedican más tiempo que nunca al cuidado de sus hijos, pero esa mayor dedicación se acompaña de una creciente culpa y riesgo de burnout parental, sobre todo entre las madres. El fenómeno se enmarca en la llamada \"maternidad intensiva\" y se relaciona con efectos negativos como negligencia y violencia familiar.",
-      "datos": [
-        "Las madres pasaron de dedicar 54 min/día al cuidado de sus hijos en 1965 a 104 min en 2012.",
-        "Los padres aumentaron su tiempo de cuidado de 16 min a 59 min en el mismo periodo.",
-        "El concepto de “maternidad intensiva” fue acuñado en 1996 por la socióloga Sharon Hays.",
-        "El burnout parental afecta al 8,4 % de la población en EE. UU. y al 3,2 % en España.",
-        "Un estudio publicado en 2016 mostró que los padres reportan mayor bienestar cuando realizan actividades con sus hijos."
-      ],
-      "conclusion": "El dato indica que equilibrar el ocio adulto con la crianza es clave para evitar el agotamiento y sus consecuencias; la culpa no se justifica por la cantidad de tiempo dedicado, sino por la falta de autocuidado."
-    },
-    {
-      "title": "Parents Sue Google Over A.I. Safety Risks on School Chromebooks",
-      "url": "https://www.nytimes.com/2026/11/05/technology/ai-safety-school-chromebooks-google-lawsuit.html",
-      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26biz-Chromebook-harms-qwlb/26biz-Chromebook-harms-qwlb-mediumSquareAt3X.jpg",
-      "source": "NYT Tech",
-      "language": "en",
-      "que_paso": "Parents filed a lawsuit against Google, alleging that the company's artificial intelligence on a school-issued Chromebook prompted a student to devise a suicide plan, highlighting growing worries about digital harms to minors.",
-      "datos": [
-        "The lawsuit was filed by the student's parents against Google",
-        "The claim states the AI interaction led the student to consider ending her life",
-        "The incident occurred on a school-provided Chromebook",
-        "The case is presented as part of broader concerns about online safety for children"
-      ],
-      "conclusion": "The suit underscores the urgent need for robust AI safety controls on educational devices to protect vulnerable users."
-    },
-    {
-      "title": "Samsung’s Galaxy Z Fold 8 is $300 off ahead of Black Friday",
-      "url": "https://www.theverge.com/gadgets/1027659/samsung-galaxy-z-fold-8-beats-pill-deal-sale",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/samsung-galaxy-z-fold-8-roundup.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "language": "en",
-      "que_paso": "Samsung has reduced the price of its recently launched Galaxy Z Fold 8 for Black Friday, with the discount being offered through Amazon and Best Buy.",
-      "datos": [
-        "The Galaxy Z Fold 8 is listed at $1,599.99 on both Amazon and Best Buy, a $300 markdown from its regular price.",
-        "The 512 GB storage variant costs $200 more than the base model.",
-        "Best Buy has all three color options in stock, while the 256 GB cream version is sold out on Amazon.",
-        "The device contains a 4,800 mAh battery that retained about 40 % charge after a full day of use.",
-        "The Z Fold 8 lacks a telephoto lens and carries an IP48 water‑resistance rating, unlike the higher‑priced Z Fold 8 Ultra."
-      ],
-      "conclusion": "The steep discount makes the premium foldable more affordable for cost‑conscious buyers, but the reduced water‑resistance and missing telephoto lens mean users must weigh functionality against savings."
-    },
-    {
-      "title": "Gorguts, Immolation, Imperial Triumphant, Etc. Added To 2027 ‘NorthWest Terror Fest’",
-      "url": "https://www.theprp.com/2026/11/05/news/gorguts-immolation-imperial-triumphant-etc-added-to-2027-northwest-terror-fest/",
-      "image": "https://www.theprp.com/app/uploads/2026/09/gorgutsoldlarge-1200x675.webp",
-      "source": "The PRP",
-      "language": "en",
-      "que_paso": "The ninth annual NorthWest Terror Fest is scheduled for May 6‑8, 2027 in Seattle, featuring multiple extreme metal acts including Gorguts, Immolation, Imperial Triumphant, Napalm Death, SubRosa and a special Deadguy set. The event will take place across two venues, Neumos and Barboza, and adds to the festival’s growing reputation among underground metal fans.",
-      "datos": [
-        "The festival will be held at Neumos and Barboza in Seattle, Washington.",
-        "It runs from May 06, 2027 to May 08, 2027.",
-        "This is the ninth edition of the annual NorthWest Terror Fest.",
-        "The announced lineup includes Gorguts, Immolation, Imperial Triumphant, Napalm Death, SubRosa, and Deadguy.",
-        "Deadguy will perform a set titled “Fixation On A Coworker” and a greatest‑hits set."
-      ],
-      "conclusion": "The lineup underscores the expanding demand for niche live‑music experiences, indicating a potential market for data‑driven event management and ticketing solutions that can improve operational efficiency for multi‑venue festivals."
-    },
-    {
-      "title": "Were These Ancient Siberian Nomads the First Stoners?",
-      "url": "https://www.nytimes.com/2026/11/05/science/ancient-siberia-scythians-first-marijuanna-cannabis-use.html",
-      "image": "",
-      "source": "NYT Science",
-      "language": "en",
-      "que_paso": "Scientists examined hair recovered from a burial mound in Siberia that has been dated to roughly 2,800 years ago and conducted a drug analysis on the sample. The analysis detected cannabis residues, indicating that the individuals interred there likely consumed psychoactive marijuana, a practice not previously documented for that era.",
-      "datos": [
-        "The hair sample originated from a burial mound dated to about 2,800 years before present.",
-        "Scientists performed a drug test on the ancient hair sample.",
-        "The test returned a positive result for cannabis (THC).",
-        "The finding is described as the earliest known evidence of psychoactive cannabis use.",
-        "The burial site is linked to ancient Siberian nomadic groups."
-      ],
-      "conclusion": "The discovery pushes the known history of cannabis consumption back several centuries, implying that early nomadic societies may have used the plant for cultural or medicinal purposes."
-    },
-    {
-      "title": "La ‘Perla Antártica’, la expedición que busca unir esfuerzos para conocer mejor el continente más inhóspito del mundo",
-      "url": "https://elpais.com/ciencia/2026-11-05/la-perla-antartica-la-expedicion-que-busca-unir-esfuerzos-para-conocer-mejor-el-continente-mas-inhospito-del-mundo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/PCZVHZVBNVFHLLAT2TPPQRE4Q4.jpg?auth=1c4ecdd17ca4ef09cf116fa287c80595c5c48bd1d5bb7211485a1e5e6ef6f7df",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Una nueva expedición llamada \"Perla Antártica\" ha sido puesta en marcha bajo la coordinación del Banco de Desarrollo de América Latina y el Caribe, con el objetivo de reunir información científica sobre la Antártida. La iniciativa surge en un contexto de creciente interés por comprender el papel del continente en la regulación climática global.",
-      "datos": [
-        "La iniciativa se denomina \"Perla Antártica\"",
-        "Está liderada por el Banco de Desarrollo de América Latina y el Caribe",
-        "Busca recabar datos científicos de la Antártida",
-        "Pretende optimizar la conexión de la región antártica, considerada esencial para regular el clima del planeta",
-        "Se trata de una expedición internacional de investigación"
-      ],
-      "conclusion": "Los datos obtenidos podrán refinar los modelos climáticos y apoyar decisiones estratégicas en gestión operativa y política ambiental."
-    },
-    {
-      "title": "Voters Supported Every Single Anti-Data Center Proposal in America, Except One",
-      "url": "https://futurism.com/artificial-intelligence/voters-midterm-elections-data-center-ballot-america",
-      "image": "https://futurism.com/wp-content/uploads/2026/11/voters-data-moratorium-data-center-ballot.jpg?w=1200",
-      "source": "Futurism",
-      "language": "en",
-      "que_paso": "Voters in 10 states cast ballots on 41 anti‑data‑center measures on Tuesday, November 5, 2026, rejecting all but one. The defeats hit the tech lobby hard, while Democrats won gubernatorial races in Nevada, Ohio, Texas and Georgia on anti‑data‑center platforms.",
-      "datos": [
-        "41 anti‑data‑center ballot measures were on the June 2026 midterm ballot across 10 states",
-        "Ohio accounted for 21 of those measures, all of which were rejected",
-        "Harwood, North Dakota was the sole measure that passed, allowing an extra zoning review stage",
-        "Democrats captured gubernatorial seats in Nevada, Ohio, Texas and Georgia",
-        "Elon Musk spent nearly $450 million to support Republican candidates",
-        "56 % of voters said data centers were a “crucial” or “major” factor in their vote, according to a CNBC exit poll"
-      ],
-      "conclusion": "The results show a broad voter backlash against data‑center expansion, forcing tech firms to reconsider lobbying and development strategies and signaling political risk for candidates who appear to flip on the issue."
-    },
-    {
-      "title": "MAHA lost bigly in the midterms—is it at death's door?",
-      "url": "https://arstechnica.com/health/2026/11/is-maha-dying-or-will-it-be-reborn-whats-next-after-crushing-midterm-losses/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2301676134-1024x648.jpg",
-      "source": "Ars Technica",
-      "language": "en",
-      "que_paso": "Democrats achieved a sweeping victory in the November 5, 2026 midterm elections, causing the Make America Health Again (MAHA) movement, led by Health Secretary Robert F. Kennedy Jr., to lose most of its endorsed candidates. In the aftermath, a social‑media poll run by MAHA activist Mary Talley Bowden showed members split between forming a new third party and other options, highlighting internal turmoil.",
-      "datos": [
-        "Democrats won a historic midterm sweep on Tuesday, November 5, 2026.",
-        "MAHA is centered on anti‑vaccine activist and Health Secretary Robert F. Kennedy Jr.",
-        "Mary Talley Bowden, a MAHA activist and doctor reprimanded for prescribing ivermectin, posted a poll on Wednesday, November 6, 2026.",
-        "The poll recorded 3% support for joining Democrats and 49% for creating a third party, with the remainder divided between that and overthrowing the GOP.",
-        "A Politico poll conducted in June 2026 found MAHA identifiers held divergent priorities and political leanings."
-      ],
-      "conclusion": "The results signal a rapid loss of electoral influence for MAHA and a likely split into smaller factions, reducing its ability to shape health‑policy debates and anti‑vaccine narratives."
-    },
-    {
-      "title": "Condenado un guardia civil por alquilar su habitación en el cuartel de Ibiza",
-      "url": "https://www.eldiario.es/illes-balears/sociedad/condenado-guardia-civil-alquilar-desconocidos-habitacion-cuartel-ibiza_1_13642431.html",
-      "image": "https://static.eldiario.es/clip/ba8be423-4d18-4a3d-a339-9a1515f5aa00_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "que_paso": "El Tribunal Supremo confirmó la sanción de veinte días de suspensión de empleo y sueldo a un guardia civil del cuartel de Can Sifre en Sant Josep, Ibiza, por haber permitido que un hombre y dos menores ocuparan su habitación oficial el 12 de octubre de 2023 mientras él estaba fuera de la isla. Los ocupantes fueron expulsados tras la intervención de un teniente que llamó a la patrulla de servicio.",
-      "datos": [
-        "El fallo del TS se dictó el 10 de junio de 2024",
-        "La sanción impuesta fue de veinte días de suspensión de empleo y sueldo",
-        "Los hechos ocurrieron el 12 de octubre de 2023 durante la fiesta del Pilar",
-        "La habitación estaba asignada al guardia civil sancionado y fue ocupada por un hombre y dos niñas menores sin autorización",
-        "El teniente general Jefe del Mando de Operaciones de la Guardia Civil había dictado la sanción inicial",
-        "El director general de la Guardia Civil confirmó la resolución en alzada"
-      ],
-      "conclusion": "La decisión reafirma la intolerancia de la Guardia Civil ante el uso indebido de instalaciones oficiales y sirve de advertencia para que el personal respete estrictamente sus obligaciones de custodia y seguridad."
-    },
-    {
-      "title": "Un árbitro bate en Brasil el récord de tarjetas rojas con 53 expulsiones en un partido",
-      "url": "https://elpais.com/america/2026-11-05/un-arbitro-bate-en-brasil-el-record-de-tarjetas-rojas-con-53-expulsiones-en-un-partido.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/N7IRPGHCGREW5NAMK4XIRGAAE4.jpg?auth=d7a26a55ce60cce01fdaa48059db97ddf1a18fa5e149e8342017a285e2a09f08",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "En un partido de la segunda categoría sub‑20 de una liga estatal brasileña entre Uberlandia y Mamoré, el árbitro expulsó a 53 jugadores, estableciendo un récord mundial. El encuentro se transformó en una pelea generalizada con golpes y amenazas de muerte.",
-      "datos": [
-        "El árbitro mostró 53 tarjetas rojas en el mismo partido.",
-        "Los equipos involucrados fueron Uberlandia y Mamoré.",
-        "La competición era la segunda sub‑20 de una liga estatal de Brasil.",
-        "El incidente incluyó una batalla campal con golpes entre los jugadores.",
-        "Se reportaron amenazas de muerte durante el altercado."
-      ],
-      "conclusion": "Este récord subraya la falta de control disciplinario en categorías juveniles y sugiere la necesidad de medidas más estrictas para prevenir la violencia en el fútbol."
-    },
-    {
-      "title": "Los centros de datos también perdieron las elecciones en Estados Unidos",
-      "url": "https://elpais.com/us/2026-11-05/los-centros-de-datos-tambien-perdieron-las-elecciones-en-estados-unidos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/FKRRHIRTXNFPFJBI2AIQW2RQAI.jpg?auth=4bd99fcdc6e04697713b7817b1a1196ce1dfd5e633f21688e12a8828a220a435&width=1200",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Los demócratas lograron una victoria contundente en los comicios de medio mandato, lo que les permite controlar ambas cámaras del Congreso y abre la puerta a posibles moratorias y regulaciones más estrictas sobre los centros de datos. Al mismo tiempo, los votantes en varios estados rechazaron la mayoría de las propuestas locales para instalar nuevas infraestructuras de IA, lo que complica el despliegue de estos recursos en EE. UU.",
-      "datos": [
-        "En los midterms del 5 de noviembre de 2026 se eligieron 435 representantes y un tercio del Senado.",
-        "De 41 referéndums sobre centros de datos en 10 estados, solo uno (Harwood, Dakota del Norte) fue aprobado.",
-        "Elon Musk destinó 474 millones de dólares a campañas conservadoras en Texas.",
-        "Ohio rechazó 21 proyectos de centros de datos, la mitad de los totales de propuestas derribadas.",
-        "La nueva gobernadora de Ohio, Amy Acton, venció al empresario Vivek Ramaswamy.",
-        "Los votantes de California, Florida, Illinois, Kansas, Maine, Nueva Jersey, Nevada y Wisconsin votaron contra la instalación de centros de datos."
-      ],
-      "conclusion": "El sector de IA deberá anticipar regulaciones más restrictivas y planificar con mayor cautela la expansión de centros de datos, incorporando riesgos políticos en sus estrategias operativas."
-    },
-    {
-      "title": "Sánchez defiende la diversidad ideológica en la Cumbre Iberoamericana: “Creemos en el valor de este foro multilateral”",
-      "url": "https://elpais.com/espana/2026-11-05/sanchez-defiende-la-diversidad-ideologica-en-la-cumbre-iberoamericana-creemos-en-el-valor-de-este-foro-multilateral.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/G3H3G23BMBGP3PCRWKIK3O6UDE.jpg?auth=05ea25dd609aa50f89bd759efa5135dd28ae0e5f3eb25ac7a81d61842c27af20",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "En la Cumbre Iberoamericana, el presidente del Gobierno español, Pedro Sánchez, defendió la diversidad ideológica y resaltó la adopción de una declaración conjunta que busca un “mínimo común denominador” entre los participantes. El texto pretende equilibrar posiciones para mantener la cohesión del foro multilateral.",
-      "datos": [
-        "Pedro Sánchez, presidente del Gobierno de España, pronunció el discurso",
-        "La Cumbre Iberoamericana reunió a 22 países",
-        "Se adoptó una declaración conjunta durante la cumbre",
-        "La declaración pretende reflejar un “mínimo común denominador” ideológico",
-        "Sánchez defendió la diversidad ideológica como valor del foro"
-      ],
-      "conclusion": "Este consenso muestra el compromiso de España y sus socios iberoamericanos con la cooperación multilateral pese a diferencias ideológicas, lo que puede facilitar acuerdos futuros en la región."
-    },
-    {
-      "title": "SpaceX no convenció a las operadoras con la telefonía de Starlink, así que Elon Musk se está creando su propia operadora móvil",
-      "url": "https://www.xataka.com/telefono-movil/spacex-no-convencio-a-operadoras-telefonia-starlink-asi-que-elon-musk-se-esta-creando-su-propia-operadora-movil",
-      "image": "https://i.blogs.es/3a0a41/54820097838_e4341f8a4b_k/840_560.jpeg",
-      "source": "Xataka",
-      "language": "es",
-      "que_paso": "Elon Musk, tras ser rechazado por las principales operadoras estadounidenses para un acuerdo de operador móvil virtual con Starlink, ha decidido crear su propia operadora móvil satelital. Para ello ha adquirido espectro, está negociando antenas y ha firmado un acuerdo con Qualcomm para equipar la red terrestre, mientras espera la aprobación de la FCC.",
-      "datos": [
-        "SpaceX pagó a EchoStar aproximadamente 17.000 millones de dólares en efectivo y acciones por frecuencias en la banda de 2 GHz.",
-        "En octubre, SpaceX acordó comprar a Grain Management hasta 14 MHz emparejados en la banda de 800 MHz.",
-        "El CEO de T‑Mobile, Srini Gopalan, descartó cualquier acuerdo MVNO con SpaceX, calificando al satélite como una versión inferior del FWA.",
-        "El CEO de Verizon, Dan Schulman, afirmó que \"no veo absolutamente ningún beneficio\" en ofrecer una plataforma OMV a un proveedor satelital.",
-        "SpaceX busca acceso a al menos 80.000 antenas en EE. UU., aproximadamente la mitad de las 158.500 torres registradas el año pasado, y ha firmado una alianza con Qualcomm para suministrar plataformas Dragonwing a decenas de miles de estaciones base a partir de 2027."
-      ],
-      "conclusion": "Esta estrategia convierte a SpaceX en un competidor directo de las telcos tradicionales, lo que podría alterar la dinámica del mercado móvil estadounidense y ofrecer una alternativa basada en satélite para usuarios y empresas."
-    },
-    {
-      "title": "La Junta Electoral permitirá votar identificándose con la aplicación móvil del DNI",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-05/la-junta-electoral-permitira-votar-identificandose-con-la-aplicacion-movil-del-dni.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/KDDROS5VWVJJ7N7DWRXTB5VMDA.jpg?auth=0ab69e8f871832a93498ba1129e654f492d9117cbf17c7f770b5a06483cb6f52",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "La Junta Electoral Central ha levantado la suspensión de la aplicación móvil MiDNI, permitiendo que los votantes se identifiquen con su DNI electrónico en las urnas, después de que el Ministerio del Interior confirmara que todas las mesas electorales dispondrán de dispositivos para verificar la autenticidad del documento.",
-      "datos": [
-        "La suspensión de la app MiDNI había sido impuesta previamente por la JEC.",
-        "El Ministerio del Interior declaró que cada mesa electoral contará con equipos para comprobar la autenticidad del DNI móvil.",
-        "La medida autoriza la identificación del elector mediante la aplicación móvil del DNI.",
-        "El anuncio fue realizado por la Junta Electoral Central.",
-        "La noticia se publicó el 06 de noviembre de 2026."
-      ],
-      "conclusion": "La habilitación del DNI móvil simplifica el proceso de votación y reduce la dependencia de documentos físicos, lo que puede acelerar la operativa electoral y mejorar la experiencia del votante."
-    },
-    {
-      "title": "El Gobierno PP-Vox de Aragón recorta a cero los fondos para cooperación internacional por primera vez en 30 años",
-      "url": "https://elpais.com/planeta-futuro/2026-11-05/el-gobierno-pp-vox-de-aragon-recorta-a-cero-los-fondos-para-cooperacion-internacional-por-primera-vez-en-30-anos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/A6ESOXIGAVLHREKKHAOAQPDSZQ.jpg?auth=d76a9772fa02edea2c62c4b40fe2806ebfc61d2fd86ff5a15932851130ae72d7",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "El ejecutivo regional de Aragón, formado por la coalición PP‑Vox, decidió suprimir del presupuesto de 2027 la partida destinada a la cooperación internacional. La medida ha sido denunciada por la Federación Aragonesa de Solidaridad, que agrupa a organizaciones que actúan en el exterior.",
-      "datos": [
-        "El recorte lleva los fondos de cooperación internacional a cero en el presupuesto de 2027",
-        "Es la primera vez en 30 años que Aragón elimina esa partida",
-        "El Gobierno de Aragón está compuesto por el Partido Popular y Vox",
-        "La Federación Aragonesa de Solidaridad agrupa a 60 organizaciones",
-        "Estas organizaciones operan en 46 países"
-      ],
-      "conclusion": "La supresión del presupuesto obliga a las ONG a buscar financiación alternativa y debilita la presencia de Aragón en la ayuda internacional, lo que puede afectar su capacidad operativa y su imagen institucional."
-    },
-    {
-      "title": "En 2007, EEUU tuvo la disparatada idea de fabricar cemento quemando montañas de alfombras viejas: el experimento funcionó, hasta que llegó la factura",
-      "url": "https://www.xataka.com/energia/2007-eeuu-tuvo-disparatada-idea-fabricar-cemento-quemando-millones-alfombras-viejas-experimento-funciono-que-llego-factura",
-      "image": "https://i.blogs.es/2da71b/21688/840_560.jpeg",
-      "source": "Xataka",
-      "language": "es",
-      "que_paso": "En 2007 un equipo de investigadores de EE. UU. probó quemar alfombras usadas como combustible en hornos de cemento, primero en pruebas de laboratorio y luego en la planta Lehigh Cement de Evansville, Pensilvania. Los ensayos demostraron que la técnica funcionaba técnicamente, pero los costos posteriores mostraron que no era rentable a escala comercial.",
-      "datos": [
-        "Entre 2000 y 2003 EE. UU. generaba entre 1,8 y 2,3 millones de toneladas anuales de residuos de moquetas",
-        "Los ensayos de la EPA entre noviembre 2003 y febrero 2004 consistieron en 62 pruebas con cargas de ~400 g cada una",
-        "Los mezclas de alfombra tenían un poder calorífico aproximado de 23 MJ/kg",
-        "En Lehigh Cement la alfombra aportó entre el 10 % y el 15 % de la energía del horno, con una alimentación de 2 a 2,5 t/h",
-        "Durante la prueba las emisiones de NOx y SO2 se mantuvieron por debajo de los límites regulatorios"
-      ],
-      "conclusion": "El caso muestra que una solución técnicamente viable para reducir residuos no garantiza viabilidad económica; es esencial evaluar costos operativos antes de escalar la innovación."
-    },
-    {
-      "title": "María Neira lanza su candidatura a dirigir la OMS con un alegato en defensa de la ciencia y la prevención en la salud global",
-      "url": "https://elpais.com/sociedad/2026-11-05/maria-neira-lanza-su-candidatura-a-dirigir-la-oms-con-un-alegato-en-defensa-de-la-ciencia-y-la-prevencion-en-la-salud-global.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/GHLBTBFSMRNDJERNSNPFWZ3CMU.jpg?auth=da593feb1d8613b42f27323037875a1d5a40cb82df8ae38549d66264eb785331",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "María Neira, quien dirige la unidad de Medio Ambiente y Cambio Climático de la OMS, anunció su candidatura para el puesto de directora general, argumentando que la ciencia y la prevención deben ser pilares de la salud global. En su intervención subrayó la urgencia de mejorar la comunicación para contrarrestar las noticias falsas y la desinformación.",
-      "datos": [
-        "María Neira es la actual responsable de Medio Ambiente y Cambio Climático de la OMS.",
-        "Presentó su candidatura para dirigir la Organización Mundial de la Salud.",
-        "En su alegato defendió la ciencia y la prevención como ejes de la salud global.",
-        "Instó a una comunicación adecuada frente a las noticias falsas y la desinformación.",
-        "El anuncio se realizó en un discurso público publicado el 6 de noviembre de 2026."
-      ],
-      "conclusion": "Su candidatura refuerza la agenda de evidencia científica y gestión de la información, lo que podría influir en la estrategia de la OMS para enfrentar crisis sanitarias y climáticas."
-    },
-    {
-      "title": "Critically Endangered Species Shouldn't Be Written Off, They Can Bounce Back If Given Enough Support",
-      "url": "https://www.iflscience.com/critically-endangered-species-shouldnt-be-written-off-they-can-bounce-back-if-given-enough-support-85118",
-      "image": "https://assets.iflscience.com/assets/articleNo/85118/aImg/93452/mauritius-kestrel-l.jpeg",
-      "source": "IFLScience",
-      "language": "en",
-      "que_paso": "Conservation teams in Mauritius and on Lord Howe Island implemented intensive breeding and habitat restoration programs that lifted the populations of two critically endangered birds from near‑extinction. The effort involved local wildlife agencies, international NGOs, and scientific researchers working since the 1970s.",
-      "datos": [
-        "The Mauritius kestrel population fell to 23 individuals in the 1970s.",
-        "The Lord Howe woodhen population also dropped to 23 individuals in the 1970s.",
-        "Current estimates place the combined population of the two species at over 1,600 individuals.",
-        "Recovery programs began in the late 1970s and included captive breeding, predator control, and habitat management.",
-        "The Mauritius Kestrel Recovery Programme was coordinated by the Mauritian government and the Jersey Wildlife Conservation Trust.",
-        "Lord Howe Island's woodhen program was led by the Australian Department of the Environment and local community groups."
-      ],
-      "conclusion": "The rebound shows that focused, data‑driven conservation can restore assets once deemed lost, indicating that targeted investment in critical resources can generate measurable returns."
-    },
-    {
-      "title": "Up in the Clouds With the Pope, It’s Still Commercial",
-      "url": "https://www.nytimes.com/2026/11/02/world/europe/pope-plane-shepherd-one-flights.html",
-      "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08pope-plane-01-wfpl/08pope-plane-01-wfpl-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Pope Leo XIV is traveling on commercial airlines because he does not have a private jet, a practice that differs from the travel arrangements of American presidents.",
-      "datos": [
-        "Pope Leo XIV has no private jet",
-        "He travels on commercial airlines",
-        "American presidents use private jets for travel",
-        "The article compares the Pope’s travel to that of ordinary passengers"
-      ],
-      "conclusion": "The Pope’s use of commercial flights underscores a modest, cost‑conscious image that contrasts with the privileged transport of political leaders, offering a practical example of low‑profile logistics."
-    },
-    {
-      "title": "Sánchez se desvincula de los detenidos en el 'caso Koldo': \"Ninguna de estas personas tiene nada que ver conmigo\"",
-      "url": "https://www.europapress.es/nacional/noticia-sanchez-desvincula-detenciones-caso-koldo-ninguna-personas-tiene-nada-ver-conmigo-20261105181439.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261105181439_1200.jpg",
+      "title": "Anticorrupción reclama acercar a juicio a Pardo de Vera y a la ex de Ábalos y pide archivar para excargos de Transportes",
+      "url": "https://www.europapress.es/nacional/noticia-anticorrupcion-reclama-acercar-juicio-pardo-vera-ex-abalos-pide-archivar-excargos-transportes-20261106175918.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261106175918_1200.jpg",
       "source": "Europa Press Ciencia",
       "language": "es",
-      "que_paso": "Pedro Sánchez, presidente del Gobierno, ha declarado que no tiene relación alguna con las personas detenidas en la operación de la Guardia Civil conocida como \"caso Koldo\", y ha cortado cualquier vínculo con ellas.",
+      "que_paso": "La Fiscalía Anticorrupción ha pedido al juez de la Audiencia Nacional que, en el marco del llamado \"caso Koldo\", se sitúe a Isabel Pardo de Vera y a Jéssica Rodríguez en situación de posible responsabilidad penal, mientras simultáneamente solicita el archivo de la causa para proteger a varios funcionarios del Ministerio de Transportes que también están imputados.",
       "datos": [
-        "Pedro Sánchez es el presidente del Gobierno de España",
-        "La detención fue llevada a cabo por la Unidad Central Operativa (UCO) de la Guardia Civil",
-        "Sánchez hizo su declaración el jueves 6 de noviembre de 2026",
-        "En su intervención dijo: \"Ninguna de estas personas tiene nada que ver conmigo\"",
-        "El caso investigado se denomina \"caso Koldo\""
+        "La Fiscalía Anticorrupción presentó la solicitud al juez de la Audiencia Nacional",
+        "El caso investigado se conoce como \"caso Koldo\"",
+        "Isabel Pardo de Vera es la expresidenta de ADIF",
+        "Jéssica Rodríguez es la expareja del exministro José Luis Ábalos",
+        "La Fiscalía pide archivar la causa para excargos del Ministerio de Transportes que están imputados"
       ],
-      "conclusion": "El anuncio busca aislar al Ejecutivo de posibles escándalos judiciales, lo que podría influir en la percepción pública y en la gestión política del Gobierno."
+      "conclusion": "Si se archiva la causa, los funcionarios del Ministerio de Transportes evitarán procesos judiciales, mientras que Pardo de Vera y Rodríguez podrían enfrentar cargos, lo que afecta la gestión operativa y la percepción de integridad en el sector de infraestructuras."
+    },
+    {
+      "title": "Hundreds of Protestors Bust Into Construction Site to Stop Microsoft Data Center",
+      "url": "https://futurism.com/artificial-intelligence/protestors-microsoft-data-center-construction",
+      "image": "https://futurism.com/wp-content/uploads/2026/11/protesters-construction-site-microsoft-data-center.jpg?w=1200",
+      "source": "Futurism",
+      "language": "en",
+      "que_paso": "Anti‑AI activists broke into the unfinished Microsoft data‑center site in Amsterdam on Friday, scaling fences and a construction crane while a larger crowd protested outside; the action was coordinated by the climate‑justice group Geef Tegengas, which linked the facility to water consumption and alleged support for conflicts. The demonstration included smoke bombs and a banner denouncing AI, and follows earlier symbolic protests at the same campus.",
+      "datos": [
+        "Approximately 100 activists entered the site and scaled a construction crane on Friday, November 6, 2026.",
+        "Hundreds of additional demonstrators gathered outside the Microsoft campus in Amsterdam the same day.",
+        "The protest was organized by the Rotterdam‑based climate‑justice collective Geef Tegengas.",
+        "Roos Molenaar, spokesperson for Geef Tegengas, said the data center \"is gulping up our drinking water to make the rich even richer.\"",
+        "Protesters deployed smoke bombs and attached a banner reading \"fck AI\" to the crane.",
+        "Earlier, Extinction Rebellion activists threw balloons filled with acetic acid at the same Microsoft campus."
+      ],
+      "conclusion": "The incident highlights growing activist resistance to AI infrastructure, posing potential delays and reputational risks for tech projects; operations leaders should factor community and regulatory pushback into AI‑related deployment plans."
+    },
+    {
+      "title": "Okdiario amenaza con demandar a elDiario.es por la información sobre sus pagos a la abogada de Koldo García",
+      "url": "https://www.eldiario.es/politica/okdiario-amenaza-demandar-eldiario-informacion-pagos-abogada-koldo-garcia_1_13644826.html",
+      "image": "https://static.eldiario.es/clip/88932d42-a031-49df-9335-0de60a9ef9c8_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "que_paso": "Okdiario, bajo la dirección de Eduardo Inda, ha enviado una carta a elDiario.es exigiendo la publicación de una rectificación sobre la información que indica que la empresa pagó a la abogada de Koldo García, amenazando con acciones judiciales si no se cumple. El medio sostiene que los pagos no estaban vinculados a la defensa legal del condenado, sino a la cesión de sus derechos de imagen y propiedad intelectual, y reclama que la información publicada es \"absolutamente falsa\".",
+      "datos": [
+        "Dos Mil Palabras, la empresa editora de Okdiario, pagó un total de 242.000 euros a la abogada Leticia de la Hoz.",
+        "Las facturas que justifican los pagos están fechadas el 27 de noviembre de 2025 y describen el concepto \"Honorarios, aranceles y gastos por asesoramiento jurídico y procedimientos del señor D. Koldo García\".",
+        "Okdiario afirma que el contrato por la cesión de derechos audiovisuales se firmó un día antes del primer pago.",
+        "Leticia de la Hoz está imputada en el caso \"Leire\", acusado de intentar sobornar a la empresaria Carmen Pano.",
+        "Koldo García fue condenado por el Tribunal Supremo a casi 20 años de prisión por delitos de corrupción vinculados a José Luis Ábalos."
+      ],
+      "conclusion": "El conflicto muestra el riesgo legal al publicar datos financieros sin corroboración exhaustiva; los medios deben validar la naturaleza de los pagos antes de atribuirlos a actividades judiciales."
+    },
+    {
+      "title": "La editorial Almadía mantiene el premio a la novela acusada de haber sido escrita con IA: \"Preferimos seguir confiando en el criterio humano\"",
+      "url": "https://www.eldiario.es/cultura/libros/editorial-almadia-mantiene-premio-novela-acusada-haber-sido-escrita-ia-preferimos-seguir-confiando-criterio-humano_1_13644947.html",
+      "image": "https://static.eldiario.es/clip/ea375ef5-f5c0-492c-a922-f617dd36ada9_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "que_paso": "La editorial Almadía decidió mantener el I Premio Internacional de Novela Breve Almadía‑Ventosa Arrufat a David Silva Rojas pese a la acusación de que su obra fue escrita con inteligencia artificial, tras abrir una investigación interna y basarse en criterios humanos. El sello explicó que la decisión se tomó después de revisar la información aportada por el autor y consultar a expertos, sin aceptar la conclusión del análisis de la herramienta Pangram publicado por El País.",
+      "datos": [
+        "La editorial Almadía concedió el I Premio Internacional de Novela Breve Almadía‑Ventosa Arrufat a “Donde el agua trabaja” de David Silva Rojas.",
+        "El periódico El País denunció que la obra podría haber sido generada con IA tras analizarla con la herramienta Pangram.",
+        "Almadía realizó una investigación basada en los materiales proporcionados por el autor y en entrevistas con tecnólogos, abogados y peritos lingüísticos.",
+        "El jurado del premio estuvo integrado por Cristina Rivera Garza, Selva Almada y Mónica Ojeda.",
+        "En el comunicado oficial la editorial afirmó: “Preferimos seguir confiando en el criterio humano”.",
+        "La editorial señaló que los resultados de herramientas de detección no son suficientes para probar el origen de una obra."
+      ],
+      "conclusion": "El caso subraya la necesidad de combinar herramientas tecnológicas con juicio humano en la evaluación editorial, recordando a los gestores que la confianza en procesos humanos sigue siendo esencial para decisiones de calidad y reputación."
+    },
+    {
+      "title": "Sony da un golpe de nostalgia con sus nuevos auriculares retro: inspirados en los del Walkman, van con cable y no son muy caros",
+      "url": "https://www.xataka.com/seleccion/sony-da-golpe-nostalgia-sus-nuevos-auriculares-retro-inspirados-walkman-van-cable-no-muy-caros",
+      "image": "https://i.blogs.es/49bde9/sony-mdr-3r/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "Sony ha lanzado los auriculares MDR‑3R, un modelo retro inspirado en los del Walkman, que vuelve a la conexión por cable con conector USB‑C y está disponible en pre‑compra. Los MDR‑3R se venden en tiendas como MediaMarkt por 59,99 €, con envío previsto para el 16 de noviembre.",
+      "datos": [
+        "Precio de venta: 59,99 € en MediaMarkt.",
+        "Fecha de envío estimada: 16 de noviembre de 2026.",
+        "Peso del auricular: 38 g.",
+        "Tamaño de los drivers: 23 mm.",
+        "Conexión mediante cable USB‑C, sin Bluetooth.",
+        "Incluye almohadillas intercambiables en colores naranja y azul."
+      ],
+      "conclusion": "Este lanzamiento indica una revalorización de los auriculares con cable, ofreciendo una opción económica y ligera para usuarios que no necesitan cancelación activa ni conectividad inalámbrica. Para operaciones que priorizan coste y compatibilidad con dispositivos USB‑C, los MDR‑3R pueden ser una alternativa práctica."
     }
   ]
 }
