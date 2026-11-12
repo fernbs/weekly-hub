@@ -1,836 +1,900 @@
 {
-  "generated": "2026-11-11T02:09:54.510636",
-  "count": 51,
+  "generated": "2026-11-12T03:09:34.310218",
+  "count": 55,
   "articles": [
     {
-      "title": "ICE Deportation Flight Carrying Iranians Turns Back and Lands in Arizona",
-      "url": "https://www.nytimes.com/2026/11/10/world/asia/ice-deportation-flight-iran-mesa.html",
-      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-iran-1-bqkj/10int-iran-1-bqkj-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "An ICE deportation aircraft carrying Iranian nationals aborted its planned route and returned to land in Arizona, rather than proceeding to its intended stopover in Pakistan. The passengers were to be transferred onward to Iran, according to their attorneys.",
-      "datos": [
-        "The flight was operated by U.S. Immigration and Customs Enforcement (ICE).",
-        "The aircraft carried Iranian immigrants slated for deportation.",
-        "The plane was scheduled to fly from the United States to Pakistan before a subsequent transfer to Iran.",
-        "The aircraft diverted and landed in Arizona instead of continuing to Pakistan.",
-        "Lawyers representing the detainees confirmed the intended Pakistan‑to‑Iran transfer plan."
-      ],
-      "conclusion": "The diversion highlights operational or legal hurdles in multi‑stage deportations, suggesting agencies may need to reassess routing and coordination to avoid delays or challenges."
-    },
-    {
-      "title": "La Cámara de Representantes da carpetazo al juicio político a Hegseth",
-      "url": "https://elpais.com/us/2026-11-10/la-camara-de-representantes-da-carpetazo-al-juicio-politico-a-hegseth.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/QH7KO64YKROCLJDFEYPOOCQJVY.jpg?auth=ad95dd9cf183862a71363ce9c40ae09268000f52407ca02226ae9eeeb2fd3bb6&width=1200",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "La Cámara de Representantes votó 211 contra 204 para remitir el juicio político contra el secretario de Defensa Pete Hegseth al comité de Asuntos Jurídicos, lo que equivale a archivarlo por la mayoría republicana. La decisión se dio tras la escasa asistencia de once demócratas y la única oposición republicana de Thomas Massie, mientras los republicanos nombraron a Jim Jordan como nuevo líder de la Cámara.",
-      "datos": [
-        "El voto fue 211 a 204 a favor de remitir la medida al comité",
-        "Thomas Massie fue el único republicano que se unió a 203 demócratas para rechazar la moción",
-        "Once legisladores demócratas estaban ausentes durante la votación",
-        "Jim Jordan fue elegido como nuevo líder de la bancada republicana en la Cámara",
-        "Sean Parnell, portavoz del Pentágono, calificó el resultado como una \"victoria total\" para Hegseth"
-      ],
-      "conclusion": "Hegseth permanece en su cargo, lo que refuerza la cohesión republicana y obliga a los demócratas a planear investigaciones en la próxima legislatura con mayoría en ambas cámaras."
-    },
-    {
-      "title": "Ballot Deadlines Pass in Mississippi Senate Race After Considerable Struggles",
-      "url": "https://www.nytimes.com/2026/11/10/us/elections/mississippi-ballots-election-laws.html",
-      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10nat-mississippi-senate-02-qtbf/10nat-mississippi-senate-02-qtbf-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Incumbent Republican Senator Cindy Hyde-Smith and Democratic challenger Scott Colom are locked in a close contest for Mississippi’s U.S. Senate seat. The campaign has drawn attention to how Mississippi’s strict election regulations are creating obstacles for voters as the filing deadlines have just closed.",
-      "datos": [
-        "Cindy Hyde-Smith is the incumbent Republican senator from Mississippi",
-        "Scott Colom is the Democratic challenger in the race",
-        "The contest is for the U.S. Senate seat representing Mississippi",
-        "Ballot filing deadlines have recently passed in Mississippi",
-        "Mississippi’s election laws are described as stringent, affecting voter access"
-      ],
-      "conclusion": "The voting hurdles created by the state’s strict rules could suppress turnout and sway the tight race, highlighting the practical importance of election‑law reforms for future elections."
-    },
-    {
-      "title": "Republicans Turn Back Effort to Impeach Hegseth",
-      "url": "https://www.nytimes.com/2026/11/10/us/politics/house-hegseth-impeachment-vote.html",
-      "image": "",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Republicans in Congress voted to set aside the articles of impeachment that had been filed against Defense Secretary Hegseth, preventing a formal rebuke and any chance of his removal. The decision followed internal discussions among GOP leaders who concluded that pursuing the impeachment would be politically costly.",
-      "datos": [
-        "The action was taken by members of the G.O.P.",
-        "The target of the impeachment effort was the Defense Secretary, identified as Hegseth.",
-        "The articles of impeachment were shelved rather than advanced to a vote.",
-        "The decision avoided a potential ouster of the Defense Secretary."
-      ],
-      "conclusion": "The move preserves continuity in the Pentagon’s leadership and signals that the GOP will prioritize stability over partisan investigations."
-    },
-    {
-      "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
-      "url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0073.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "language": "en",
-      "que_paso": "Microsoft announced that its Automatic Super Resolution (Auto SR) upscaling technology is now fully supported on the Xbox Ally X and Ally X20, including handheld use on battery power. The rollout also introduces a new Performance mode capable of higher frame rates and adds Auto HDR compatibility via upcoming Windows updates.",
-      "datos": [
-        "Auto SR is being rolled out to Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs as of November 11, 2026",
-        "The technology now works in handheld mode at 1080p, whereas April testing was docked‑only",
-        "Auto SR Performance mode can reach up to 120 fps, up from the previous 60‑75 fps limit",
-        "Auto HDR support and the Performance mode will be delivered through future Windows updates",
-        "Microsoft notes that handheld 1080p performance may be less optimal than other configurations"
-      ],
-      "conclusion": "The addition gives Microsoft a native AI upscaling solution comparable to Nvidia DLSS, improving visual fidelity and frame rates on portable Xbox devices and potentially expanding their market appeal."
-    },
-    {
-      "title": "Bessent Is Moved From D.C.-Area Home to Military Base Amid Iranian Threats",
-      "url": "https://www.nytimes.com/2026/11/10/us/politics/bessent-moved-base-iran-threats.html",
-      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-bessent-security-mkqb/10dc-bessent-security-mkqb-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Treasury Secretary Bessent was relocated from his residence near Washington, D.C. to a military installation after credible Iranian threats were reported. The move follows his leadership of a new economic pressure campaign against Tehran and makes him the latest former Trump official to take extra security measures.",
-      "datos": [
-        "Treasury Secretary Bessent",
-        "Moved from a D.C.-area home to a military base",
-        "Relocation prompted by Iranian threats",
-        "He is leading an economic pressure campaign against Iran",
-        "He is the latest former Trump official to leave his home over security concerns"
-      ],
-      "conclusion": "The relocation highlights the personal security risks faced by officials driving U.S. sanctions on Iran and suggests that Iranian retaliation may target individual policymakers."
-    },
-    {
-      "title": "Representative María Elvira Salazar Wins Re-Election in Florida",
-      "url": "https://www.nytimes.com/2026/11/10/us/politics/florida-house-27-salazar-rodriguez.html",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03hfo-pol-fl27-topart-01-gmqc/03hfo-pol-fl27-topart-01-gmqc-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Republican Representative María Elvira Salazar was re‑elected in Florida’s congressional race. During the campaign she aired a television ad accusing the White House of having “gone too far” on immigration. The ad reflected internal GOP concerns about losing Hispanic voters.",
-      "datos": [
-        "María Elvira Salazar is a Republican member of the U.S. House representing Florida.",
-        "She secured a second term in the November 2026 congressional election.",
-        "She released a campaign advertisement that said the White House had \"gone too far\" on immigration.",
-        "The ad was produced amid worries of a Hispanic voter backlash within the Republican Party."
-      ],
-      "conclusion": "Her victory suggests the GOP can retain Hispanic support even while criticizing the administration’s immigration stance, offering a practical cue for future campaign strategies."
-    },
-    {
-      "title": "Stung by Losses, G.O.P. Chooses Jordan and Thune as Leaders",
-      "url": "https://www.nytimes.com/2026/11/10/us/politics/republican-house-leader-scalise-jordan.html",
-      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10DC-REPUBLICANS-JORDAN-zgvb/10DC-REPUBLICANS-JORDAN-zgvb-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "After the 2026 midterm elections, which produced the GOP’s largest House loss in decades, House Republicans elected Rep. Jim Jordan as their new leader, while Senate Republicans re‑elected Sen. John Thune to continue heading the Senate Republican conference.",
-      "datos": [
-        "Rep. Jim Jordan was chosen as the new House Republican leader.",
-        "Sen. John Thune was re‑elected as the Senate Republican leader.",
-        "The leadership changes followed the 2026 midterm elections.",
-        "The House defeat was described as the GOP’s biggest loss in decades."
-      ],
-      "conclusion": "The shift signals a more aggressive GOP agenda in both chambers, which could accelerate legislative actions on AI, technology regulation, and business policy that the reader must monitor."
-    },
-    {
-      "title": "Inside NYC’s First Hip-Hop High School Where Students Freestyle Every Friday",
-      "url": "https://www.nytimes.com/2026/11/10/nyregion/bronx-school-hip-hop.html",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/00met-hiphophighschool-intro-01-jgwl/00met-hiphophighschool-intro-01-jgwl-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "A new high‑school program opened in the South Bronx that blends hip‑hop culture with a standard academic curriculum, and it includes a weekly freestyle session for students. The initiative is led by the NYC Department of Education and targets local youth who might be disengaged from traditional schooling.",
-      "datos": [
-        "The school is located in the South Bronx.",
-        "It is the first program of its kind in New York City.",
-        "It offers the same classes as any regular high school.",
-        "All classes are infused with hip‑hop culture.",
-        "Students freestyle every Friday."
-      ],
-      "conclusion": "The model demonstrates how culturally relevant pedagogy can be used to boost student engagement and could inform similar initiatives in other districts."
-    },
-    {
-      "title": "Promoter Of Trapt’s Recent Florida Show Comments On Chris Taylor Brown’s Clash With The Opening Bands",
-      "url": "https://www.theprp.com/2026/11/10/news/promoter-of-trapts-recent-florida-show-comments-on-chris-taylor-browns-clash-with-the-opening-bands/",
-      "image": "https://www.theprp.com/app/uploads/2026/06/trapttour-1200x675.webp",
-      "source": "The PRP",
-      "language": "en",
-      "que_paso": "On November 6, 2026, at the Guadalajara Night Club in Fort Pierce, Florida, Trapt’s headlining set led to the premature termination of opening acts Fear Of Infirmity and Dirty Crumbums. Their sets were cut short, equipment was unplugged, and Dirty Crumbums was ejected after fans chanted, prompting promoter Michael Weisneck to issue a public statement.",
-      "datos": [
-        "The show took place on Friday, November 6, 2026 at Guadalajara Night Club in Fort Pierce, FL.",
-        "Dirty Crumbums’ planned 30‑minute set was reduced to roughly 15 minutes before their microphones and instruments were cut off.",
-        "Trapt’s frontman Chris Taylor Brown ordered security to remove Dirty Crumbums from the venue.",
-        "Promoter Michael Weisneck said Trapt’s set was scheduled to start no later than 10:30 PM, with opening slots adjusted from 25 to 20 minutes.",
-        "All parties, including Trapt’s sound engineer and the band, were paid in full according to the promoter’s statement."
-      ],
-      "conclusion": "The incident highlights how rigid scheduling and poor communication can disrupt supporting acts and damage a tour’s reputation, underscoring the need for clear contracts and contingency plans for live events."
-    },
-    {
-      "title": "The US military seems to be getting nervous about the launch supply crunch",
-      "url": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/1793382176191-1152x648.jpg",
-      "source": "Ars Technica",
-      "language": "en",
-      "que_paso": "The Pentagon’s Office of Strategic Capital is injecting $150 million loans into two rival launch firms, Stoke Space and Rocket Lab, as SpaceX plans to retire its Falcon rockets and focus on Starship, prompting concerns about a future shortfall in U.S. launch capacity for national‑security payloads.",
-      "datos": [
-        "$150 million conditional loan to Stoke Space announced on October 26, 2026",
-        "$150 million loan to Rocket Lab announced on a Tuesday in early November 2026",
-        "OSC was created in 2022 to fund companies developing vital national‑security technologies",
-        "SpaceX will stop taking commercial Falcon 9 orders after 2028 and shift to Starship",
-        "Space Force launch contract with SpaceX permits Falcon 9/Heavy orders through 2029 and launches through 2033",
-        "Space Systems Command projects up to 249 medium‑to‑heavy‑lift launches by the early 2030s, more than double previous demand"
-      ],
-      "conclusion": "Diversifying launch providers reduces the risk of a capability gap as Falcon retires, ensuring the military retains assured access to space for its payloads."
-    },
-    {
-      "title": "Stanley Zabar Has Died. He Managed the Books, and the Slaw, at an N.Y.C. Landmark.",
-      "url": "https://www.nytimes.com/2026/11/10/obituaries/stanley-zabar-dead.html",
-      "image": "",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Stanley Zabar, the 94‑year‑old co‑manager of the iconic Zabar’s food emporium, has died. He had overseen the books and operations alongside his brother Saul and a partner, continuing the family’s legacy at the New York City landmark.",
-      "datos": [
-        "Stanley Zabar died at age 94.",
-        "He ran Zabar’s with his brother Saul and another partner.",
-        "Zabar’s is a family‑owned food emporium in New York City.",
-        "The store is widely regarded as a NYC landmark.",
-        "His death was reported on November 11, 2026."
-      ],
-      "conclusion": "His passing closes a chapter for a storied NYC institution, signalling potential leadership changes for the business."
-    },
-    {
-      "title": "Best Early Amazon Black Friday Deals (2026)",
-      "url": "https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/",
-      "image": "https://media.wired.com/photos/6af39cc2b435cf5927e355e7/191:100/w_1280,c_limit/Amazon%E2%80%99s-Black-Friday-Sale-Starts-Next-Week,-but-Deals-Are-Already-Live.jpg",
+      "title": "The Best Early Black Friday MacBook Air Deal: $200 Off",
+      "url": "https://www.wired.com/story/early-black-friday-macbook-air-deal/",
+      "image": "https://media.wired.com/photos/6af51c9e7a2daea6b751d279/191:100/w_1280,c_limit/Take-$200-Off-the-MacBook-Air-With-This-Early-Black-Friday-Deal.jpg",
       "source": "Wired",
       "language": "en",
-      "que_paso": "Amazon launched its 2026 Black Friday sales early, beginning on November 19, offering discounted tech and home items such as headphones, trackers, tablets and cameras, with product picks and ratings from WIRED reviewers. The rollout targets Prime members and shoppers looking to secure lower prices before the traditional post‑Thanksgiving sales period.",
+      "que_paso": "A retailer is offering the 13‑inch MacBook Air with an M5 chip, 16 GB RAM and 512 GB storage for $1,099, a $200 discount that mirrors a similar reduction on the 15‑inch model. The deal appears ahead of Black Friday and is the lowest price since Apple’s June 2026 price hike across its Mac line.",
       "datos": [
-        "Amazon's Black Friday deals start on November 19, 2026, earlier than the usual day after Thanksgiving",
-        "The XM6 over‑ear headphones received a WIRED rating of 9 out of 10",
-        "Amazon will continue software support for its Fire tablets for another four years",
-        "The pan‑tilt security camera’s regular price of $40 is being sold at a 50% discount",
-        "The AirTag four‑pack is listed at the lowest Amazon price, cheaper than buying directly from Apple"
+        "$200 discount applied to the 13‑inch MacBook Air, lowering the price to $1,099.",
+        "The 15‑inch MacBook Air is also $200 off, now priced at $1,299.",
+        "Apple raised prices across its entire Mac lineup in June 2026.",
+        "Amazon typically lists the 13‑inch model at $1,149, with the $1,099 price usually reserved for major sales events such as October 2026 Prime Day.",
+        "The M6 MacBook refresh is projected to arrive several months after the current deal, likely in early 2027.",
+        "Prices for MacBook Air models were lower in the first half of 2026, but have risen since the June hike."
       ],
-      "conclusion": "Early discounts let businesses acquire needed tech at reduced cost, but waiting until the official Black Friday may yield even deeper savings; note the extended support window for Fire tablets when planning device lifecycles."
+      "conclusion": "The timing lets buyers lock in a $200 saving before the next generation arrives, improving procurement cost efficiency for teams that don’t need the upcoming M6 performance boost."
     },
     {
-      "title": "How A.I. Just Blew Up a Key Tenet of Computer Science",
-      "url": "https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html",
-      "image": "",
-      "source": "NYT Science",
-      "language": "en",
-      "que_paso": "OpenAI announced a breakthrough that overturns a long‑standing computer‑science hypothesis that certain problems are provably hard to solve quickly. The claim was made in a November 11 2026 release and suggests that AI techniques may achieve efficiencies previously thought impossible.",
-      "datos": [
-        "OpenAI released the claim on 11 November 2026.",
-        "The hypothesis in question asserted that specific computational problems are inherently intractable for polynomial‑time algorithms.",
-        "OpenAI’s work reportedly demonstrates a method that solves such problems faster than the theoretical lower bound.",
-        "The announcement was made in a research brief titled ‘How A.I. Just Blew Up a Key Tenet of Computer Science’.",
-        "If validated, the result could enable new efficiencies across algorithm‑dependent industries."
-      ],
-      "conclusion": "If the breakthrough holds up, it could reshape algorithm design and operational planning, offering managers new avenues for efficiency gains."
-    },
-    {
-      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ring-Drone-1152x648.jpeg",
-      "source": "Ars Technica",
-      "language": "en",
-      "que_paso": "Amazon announced that its Ring brand will add two AI‑driven security devices—a mobile drone and a ground robot—targeting home and business users, with the products slated for rollout at the end of 2026 and early 2027. The move follows earlier privacy criticism of Ring’s fixed cameras and revives a limited‑edition flying cam from 2021.",
-      "datos": [
-        "Amazon posted the announcement on November 10, 2026.",
-        "The Ring Drone Cam is planned for a January 27, 2027 release, pending FCC authorization.",
-        "The drone’s starting price is $250, matching the 2021 Ring Always Home Cam.",
-        "The Rover security robot is priced at $1,000.",
-        "The drone offers 2K video, a 148‑degree field of view, 360‑degree rotation, and an 8‑minute flight time on a fully charged battery.",
-        "The drone’s performance may degrade on reflective, matte, or transparent surfaces."
-      ],
-      "conclusion": "The launch introduces autonomous patrol capabilities that could reshape physical security workflows, but the limited flight time and noted sensor blind spots mean operators must weigh practical coverage against new privacy and regulatory considerations."
-    },
-    {
-      "title": "El Valencia golea al Tavernes y se clasifica a la segunda ronda de la Copa",
-      "url": "https://elpais.com/deportes/futbol/2026-11-10/el-valencia-golea-al-tavernes-y-se-clasifica-a-la-segunda-ronda-de-la-copa.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/O6A7JYGWMFNGHPRM3QEMTPAITA.jpg?auth=27de3d9d69bcc54ae2e4ac23c5244a41d2c9d8d65901b4ba122269071f1281ec&width=1200",
+      "title": "Al menos dos muertos y varios heridos tras derrumbarse un edificio residencial en Brooklyn",
+      "url": "https://elpais.com/us/2026-11-11/se-derrumba-un-edificio-en-brooklyn-y-deja-personas-atrapadas-entre-los-escombros.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/EJLDMTHKU5O4LLMWKRT4LT4SXU.jpg?auth=42e574ee411033d8f8cfafba92805e6c02abe44ef44c6077f517e8f36867e230&width=1200",
       "source": "El País",
       "language": "es",
-      "que_paso": "El Valencia, como local en Mestalla, superó al UE Tavernes con una victoria de 6-0 en la Copa del Rey, asegurando su pase a la segunda ronda. El equipo mostró dominio desde el inicio, con un gol a los 34 segundos y una actuación colectiva que dejó clara la diferencia de categorías.",
+      "que_paso": "Un edificio de tres plantas colapsó en Flatbush, Brooklyn, tras caer sobre un hueco abierto por una obra vecina, dejando muertos, heridos y personas atrapadas bajo los escombros mientras los bomberos continúan el rescate.",
       "datos": [
-        "Valencia ganó 6-0 al UE Tavernes en la Copa del Rey",
-        "El partido se jugó en Mestalla porque el estadio de Tavernes no cumplía los requisitos",
-        "El primer gol llegó a los 34 segundos, anotado por Dani Raba",
-        "Los goleadores fueron Dani Raba, Hugo Duro, Luis Rioja, Harvey Elliott y Aimar Blázquez (dos)",
-        "Hugo Duro marcó al minuto 10",
-        "Aimar Blázquez anotó dos goles en la segunda mitad tras asistencias de Luis Rioja"
+        "Al menos dos personas fallecieron en el derrumbe",
+        "Diecisiete personas fueron trasladadas a hospitales, siete de ellas niños",
+        "Más de 200 vecinos se congregaron en la zona para observar y registrar el suceso",
+        "La comisionada de bomberos Lillian Bonsignore declaró que la operación de rescate será prolongada",
+        "Al menos tres personas fueron rescatadas con vida, entre ellas una mujer embarazada",
+        "Inspectores del Departamento de Edificios de Nueva York acudieron al lugar para evaluar la estabilidad de los edificios colindantes"
       ],
-      "conclusion": "El contundente triunfo evidencia la capacidad del Valencia para ejecutar planes de juego con rapidez y precisión, ofreciendo un modelo de gestión operativa eficaz bajo presión."
+      "conclusion": "El colapso evidencia riesgos de obras contiguas sin control y la necesidad de inspecciones estructurales preventivas para evitar tragedias similares."
     },
     {
-      "title": "Capstan, Fire From The Gods & Midwinter 2027 U.S. Tour Booked",
-      "url": "https://www.theprp.com/2026/11/10/news/capstan-fire-from-the-gods-midwinter-2027-u-s-tour-booked/",
-      "image": "https://www.theprp.com/app/uploads/2026/11/capstanlarge-1200x675.webp",
-      "source": "The PRP",
-      "language": "en",
-      "que_paso": "Capstan announced a U.S. tour for early 2027, with Fire From The Gods and Midwinter as supporting acts. The itinerary runs from late February into late March, covering 24 cities across the country.",
-      "datos": [
-        "Tour kickoff on February 17, 2027, at The Masquerade in Atlanta, GA",
-        "Final show scheduled for March 27, 2027, at Oscura in Bradenton, FL",
-        "Opening acts include Fire From The Gods (now featuring Myke Terry of Volumes) and Midwinter",
-        "Tickets go on sale Friday, November 13, 2026",
-        "The tour lists 24 dates spanning 11 states",
-        "The schedule moves from Mesa, AZ on February 22 to Albany, NY on March 13 before heading south again"
-      ],
-      "conclusion": "Such a dense, multi‑state itinerary highlights the need for precise operational planning and real‑time data integration to minimize costs and maximize attendance, offering a case study for AI‑driven tour management."
-    },
-    {
-      "title": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
-      "url": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/danielle-thumann-severs-fcc-1152x648-1794344603.jpg",
-      "source": "Ars Technica",
-      "language": "en",
-      "que_paso": "Senate Democrats rejected President Trump’s nominee Danielle Thumann Severs for an FCC commissioner seat during a Commerce Committee hearing and warned that, once Democrats control both chambers in 2027, they will launch investigations into Chairman Brendan Carr. They cited Carr’s alleged attacks on broadcasters and his proposal to scale back the $2 billion‑a‑year E‑Rate program as reasons for heightened oversight.",
-      "datos": [
-        "Senator Ed Markey (D‑MA) said the American people last week overwhelmingly rejected the MAGA agenda, referencing the 2026 election results",
-        "Senator Ben Ray Luján (D‑NM) predicted Chairman Carr will have only three to four months left before facing frequent congressional testimony",
-        "Democrats plan to use their 2027 majority to issue subpoenas and probe Carr’s actions",
-        "The E‑Rate program provides roughly $2 billion annually to connect schools and libraries to the Internet",
-        "Danielle Thumann Severs, an attorney and senior counsel to Carr, helped draft the FCC’s Notice of Proposed Rulemaking on E‑Rate"
-      ],
-      "conclusion": "With Democratic control slated for 2027, the FCC is likely to face stricter scrutiny of Carr’s policies and could see a reversal of proposed cuts to the E‑Rate program, affecting broadband funding for schools and libraries."
-    },
-    {
-      "title": "El Gobierno aprueba nuevos contratos con la industria militar por 11.860 millones",
-      "url": "https://elpais.com/economia/2026-11-10/el-gobierno-aprueba-nuevos-contratos-con-la-industria-militar-por-11860-millones.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/M65HW7YQ4VOPBP4GUMFIOHWPA4.jpg?auth=192524517a807e6c8122e44bb43feb28bbee484f72125e3f5bff39fd8c5fbdae&width=1200",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "El Gobierno aprobó una serie de 13 contratos militares por valor de 11.860,3 millones de euros, con el objetivo de mantener el gasto de defensa en el 2 % del PIB. Los acuerdos incluyen la compra de sistemas de defensa aérea, la modernización de submarinos S‑80 y varios proyectos de Navantia, entre ellos un buque de inteligencia y la actualización de buques de superficie.",
-      "datos": [
-        "El Gobierno aprobó 13 contratos por un valor total de 11.860,3 millones de euros.",
-        "Se lanzarán 15 Programas Especiales de Modernización (PEM) este año, sumando 94 programas militares en total.",
-        "La adquisición del sistema de defensa aérea tiene un coste de 3.396,7 millones de euros.",
-        "Navantia recibirá contratos por 4.641,1 millones de euros, incluido un buque de inteligencia de 591 millones con plazo de entrega de 74 meses.",
-        "La modernización del misil de crucero Taurus está presupuestada en 65 millones de euros y busca extender su operatividad más allá de 2040.",
-        "El objetivo declarado es mantener el gasto militar en el 2 % del PIB."
-      ],
-      "conclusion": "Estos contratos refuerzan la capacidad operativa de las Fuerzas Armadas y consolidan a Navantia como principal proveedor, pero también implican un compromiso presupuestario significativo para sostener el objetivo del 2 % del PIB en defensa."
-    },
-    {
-      "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
-      "url": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268600_oura_ring_5_AKrales_0104.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "language": "en",
-      "que_paso": "Oura disclosed during its quarterly earnings that it will purchase AI‑native primary‑care startup Counsel Health for $625 million. The acquisition adds Counsel’s chatbot, which links wearable‑derived biometric data to on‑demand physician consultations, to Oura’s platform and integrates its staff into Oura’s operations.",
-      "datos": [
-        "Acquisition price: $625 million",
-        "Counsel Health’s workforce of 70 employees will join Oura",
-        "Counsel’s on‑demand physician network currently includes about 50 doctors",
-        "The integration was announced in Oura’s quarterly earnings release",
-        "The combined offering will focus on preventative, acute, and specialty/chronic care (including reproductive and cardiometabolic health)",
-        "Counsel CEO Muthu Alagappan will become Oura’s chief clinical AI officer"
-      ],
-      "conclusion": "The deal gives Oura direct clinical capabilities, turning its wearables into a conduit for medical care and strengthening its position in the digital‑health market."
-    },
-    {
-      "title": "España es la España de Iyana Martín",
-      "url": "https://elpais.com/deportes/baloncesto/2026-11-10/espana-es-la-espana-de-iyana-martin.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ATUGNS2NMJADROULYCFZRIM2WQ.webp?auth=f2125188c44c4ea6dea699331bc237cd8e03fd03a9a93078401323e6e7d4b2d9&width=1200",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "España superó a la República Checa en un partido muy reñido y aseguró la primera victoria del grupo clasificatorio para el EuroBasket Women 2027, gracias al protagonismo de Iyana Martín. El triunfo se logró en Oviedo y abre la senda hacia los próximos encuentros contra Bulgaria y Croacia.",
-      "datos": [
-        "Iyana Martín anotó 18 puntos, capturó 4 rebotes y repartió 6 asistencias.",
-        "España venció a la República Checa 73-71.",
-        "El partido se jugó en el Palacio de los Deportes de Oviedo.",
-        "El quinteto titular fue Iyana Martín, Cazorla, Pueyo, Ginzo y Raquel Carrera.",
-        "El técnico de la selección, Méndez, activó la unidad B (Ayuso, Etxarri, Torrens, Araujo) en la primera pausa.",
-        "Con esta victoria, España avanza en un grupo que también incluye a Bulgaria y Croacia, de los cuales los dos primeros clasifican al EuroBasket 2027."
-      ],
-      "conclusion": "El desempeño de Iyana confirma su rol como líder de la nueva generación y coloca a España en una posición ventajosa para asegurar la clasificación al torneo continental."
-    },
-    {
-      "title": "What BlackBerries and Horseshoes Reveal About Our Presidents",
-      "url": "https://www.nytimes.com/2026/11/10/us/politics/presidential-library-artifacts-photo-book.html",
-      "image": "",
-      "source": "NYT Tech",
-      "language": "en",
-      "que_paso": "Photographer Peter Adams toured 15 presidential libraries and photographed singular objects he found there, using the items to illustrate personal traits of the presidents. The series highlights seemingly mundane artifacts—such as blackberries and horseshoes—to draw connections between the leaders’ private lives and their public personas.",
-      "datos": [
-        "Peter Adams is the photographer who conducted the project",
-        "He visited 15 presidential libraries",
-        "The objects photographed include blackberries and horseshoes",
-        "The purpose of the photographs is to offer insights about the presidents who occupied the White House"
-      ],
-      "conclusion": "The work demonstrates that small, personal artifacts can reveal leadership characteristics, suggesting that operational leaders can gain value by examining the tangible habits of historical figures."
-    },
-    {
-      "title": "Broncano rectifica y vuelve al humor en ‘La revuelta’: “Soy la única persona que ha decepcionado a la izquierda más que Rufián”",
-      "url": "https://elpais.com/television/2026-11-10/broncano-rectifica-y-vuelve-al-humor-en-la-revuelta-soy-la-persona-que-mas-ha-decepcionado-a-la-izquierda-despues-de-gabriel-rufian.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/EDA4K36YURHPVCOCVWSX5TDSXU.png?auth=da2e5fed3a36644fb9c1a029931373bf94bdc247bebf61834ef8e452167ce5ab&width=1200",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "David Broncano volvió al aire en La revuelta para reconocer que la entrevista con Santiago Abascal del lunes anterior le generó una fuerte polémica y pidió disculpas al público presente y al que no pudo asistir. Expuso que consideró haber decepcionado a la izquierda más que Gabriel Rufián y reconoció que no estuvo a la altura de lo que exige la televisión pública.",
-      "datos": [
-        "Broncóna dedicó los primeros 15 minutos del programa a explicar la polémica entrevista con Santiago Abascal",
-        "La emisión comenzó unos minutos después de las 22:00 horas y fue grabada por la tarde",
-        "El programa se grabó en el teatro Albéniz de Madrid con público asistente",
-        "Broncóna afirmó ser \"la única persona que ha decepcionado a la izquierda más que Gabriel Rufián\"",
-        "Declaró que la decisión de aceptar al público de Vox y continuar la entrevista fue suya y que RTVE no le presionó",
-        "En la entrevista del lunes, Abascal habló con aplomo y recibió aplausos del público"
-      ],
-      "conclusion": "El episodio subraya la tensión entre libertad editorial y expectativas de imparcialidad en la televisión pública, recordando a los gestores que la gestión de invitados políticos puede afectar la credibilidad del programa."
-    },
-    {
-      "title": "Who Is Alice Huang, the Woman in the Middle of Nvidia’s Spy Scandal?",
-      "url": "https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html",
-      "image": "https://static01.nyt.com/images/2026/11/09/business/00biz-alice-huang-nanjing/00biz-alice-huang-nanjing-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "A former Shanghai finance professional was identified as a Chinese intelligence asset who gained access to advanced AI chip technology through ties with major U.S. tech firms, triggering a high‑profile espionage investigation centered on Nvidia.",
-      "datos": [
-        "U.S. intelligence agencies classified Alice Huang as a Chinese asset",
-        "Huang previously worked in Shanghai's financial sector before moving to the United States",
-        "She later held roles with leading technology companies, including Nvidia",
-        "The investigation focuses on her procurement of essential AI chips for China"
-      ],
-      "conclusion": "The case highlights the vulnerability of AI supply chains to foreign espionage, urging firms to tighten security and vet personnel with cross‑border financial backgrounds."
-    },
-    {
-      "title": "Detenido otra vez el suegro de Enrique de Inglaterra por manipular su tobillera electrónica durante su arresto",
-      "url": "https://www.europapress.es/internacional/noticia-detenido-otra-vez-suegro-enrique-inglaterra-manipular-tobillera-electronica-arresto-20261110220742.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261110220742_1200.jpg",
+      "title": "Eisenkot exige a Netanyahu que no emprenda \"maniobras peligrosas\" ni ponga en riesgo la seguridad nacional",
+      "url": "https://www.europapress.es/internacional/noticia-eisenkot-exige-netanyahu-no-emprenda-maniobras-peligrosas-ponga-riesgo-seguridad-nacional-20261112025352.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261112025352_120.jpg",
       "source": "Europa Press Tecnología",
       "language": "es",
-      "que_paso": "Thomas Markle, suegro de Enrique de Inglaterra, fue detenido nuevamente por intentar manipular su dispositivo electrónico de localización. La detención ocurre tras su arresto la semana anterior en el marco de una investigación por posesión de pornografía infantil.",
+      "que_paso": "Gadi Eisenkot, designado para formar el nuevo Gobierno de Israel, remitió una carta formal a Benjamin Netanyahu, quien ejerce como primer ministro interino. En ella exigió máxima cautela y responsabilidad, advirtiendo que no se tomen decisiones de seguridad ni despliegues militares motivados por intereses externos o políticos durante la transición.",
       "datos": [
-        "Thomas Markle es el suegro de Enrique de Inglaterra",
-        "Fue detenido otra vez el martes",
-        "Llevaba una tobillera electrónica de localización",
-        "Manipuló el dispositivo durante el arresto",
-        "El arresto inicial ocurrió la semana pasada",
-        "La investigación se centra en posesión de pornografía infantil"
+        "Gadi Eisenkot es el candidato designado para formar el nuevo Gobierno de Israel.",
+        "Benjamin Netanyahu ocupa el cargo de primer ministro en funciones.",
+        "Eisenkot envió una carta formal a Netanyahu.",
+        "La carta exige “cautela y responsabilidad” en decisiones de seguridad.",
+        "Advierte contra el uso de las Fuerzas Armadas impulsado por “intereses ajenos” o políticos durante la transición."
       ],
-      "conclusion": "La reincidencia muestra que la manipulación de dispositivos de monitoreo es perseguida con rigor, lo que implica que cualquier intento de interferir con la tobillera puede resultar en nuevas detenciones y cargos adicionales."
+      "conclusion": "El llamado a la prudencia busca evitar que decisiones militares se politicen en un periodo de cambio, lo que podría preservar la estabilidad interna y la seguridad nacional mientras se consolida el nuevo gobierno."
     },
     {
-      "title": "Thomas Markle se corta la pulsera electrónica de vigilancia y la jueza decide meterlo en prisión sin fianza",
-      "url": "https://elpais.com/us/entretenimiento/2026-11-10/thomas-markle-se-corta-la-pulsera-electronica-de-vigilancia-y-el-fiscal-exige-que-ingrese-en-prision.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ZMSLCKVV7ZA37IWDHIHQJYUIRM.jpg?auth=ba4a29a32398a5a8d0db04570b40366756cfd84a744f35abff5169176ac3eafc",
-      "source": "El País",
+      "title": "Meloni asegura que \"no se ha hallado nada\" tras las amenazas de bomba a más de 6.000 escuelas italianas",
+      "url": "https://www.europapress.es/internacional/noticia-meloni-asegura-no-hallado-nada-amenazas-bomba-mas-6000-escuelas-italianas-20261112024409.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261112024409_120.jpg",
+      "source": "Europa Press Tecnología",
       "language": "es",
-      "que_paso": "Thomas Markle, padre de la duquesa de Sussex, fue detenido en Florida y, tras intentar quitarse la pulsera electrónica de monitoreo, la jueza ordenó su ingreso a prisión sin derecho a fianza. El caso está bajo la jurisdicción del fiscal de California, que había pedido la revocación de su libertad bajo fianza.",
+      "que_paso": "La primera ministra italiana, Giorgia Meloni, informó que las investigaciones no han encontrado indicios de explosivos tras recibir amenazas dirigidas a más de 6 000 centros educativos. Paralelamente, convocó a los dirigentes de la oposición a una reunión en la sede del Gobierno para subrayar que la seguridad es una responsabilidad compartida.",
       "datos": [
-        "Thomas Markle fue arrestado en Florida el viernes 6 de noviembre de 2026",
-        "Se le acusa de posesión de pornografía infantil",
-        "Llevaba una pulsera electrónica de vigilancia que se cortó",
-        "La jueza decidió mantenerlo en prisión sin posibilidad de fianza",
-        "El fiscal de California solicitó revocar la libertad bajo fianza",
-        "El proceso judicial se llevará a cabo en California"
+        "Más de 6 000 escuelas italianas recibieron amenazas de bomba.",
+        "El Ministerio del Interior abrió una investigación tras las amenazas.",
+        "Giorgia Meloni, presidenta del Consejo de Ministros, declaró que \"no se ha hallado nada\".",
+        "La reunión se celebró en la sede del Gobierno en Roma.",
+        "Los líderes de la oposición fueron invitados a participar en la sesión.",
+        "La declaración se realizó el 12 de noviembre de 2026."
       ],
-      "conclusion": "El incumplimiento de la vigilancia electrónica y la decisión de prisión sin fianza subrayan la gravedad de los cargos de pornografía infantil y la disposición de los tribunales a aplicar medidas restrictivas, lo que indica que los procesos legales internacionales pueden resultar en consecuencias severas y rápidas."
+      "conclusion": "El mensaje busca reforzar la cohesión institucional en materia de seguridad y tranquilizar a la ciudadanía ante la ausencia de pruebas, lo que implica que las escuelas pueden mantener sus actividades sin interrupciones."
     },
     {
-      "title": "Alina Habba Mildon Loses $50 Million Contract That Enraged Trump",
-      "url": "https://www.nytimes.com/2026/11/10/us/politics/alina-habba-fired-pardon.html",
-      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-habba-jvqt/10dc-habba-jvqt-mediumSquareAt3X.jpg",
+      "title": "ICE Officer Involved in Maine Shooting Expressed Hatred of Immigrants",
+      "url": "https://www.nytimes.com/2026/11/11/us/david-brouillette-ice-maine-shooting-anti-immigrant-hatred.html",
+      "image": "",
       "source": "New York Times",
       "language": "en",
-      "que_paso": "Alina Habba Mildon, who previously served as Donald Trump's lawyer, entered into a $50 million agreement with a family-owned business. The deal was finalized only weeks before Trump issued a presidential pardon to the family’s patriarch, and the contract was subsequently terminated, prompting Trump’s anger.",
+      "que_paso": "An ICE officer shot a Colombian-born driver during a traffic stop in Maine in July, and the incident is still being investigated. Emails released by The Times show the officer had previously expressed anti‑immigrant sentiments.",
       "datos": [
-        "Alina Habba Mildon was a former attorney for Donald Trump",
-        "The contract value was $50 million",
-        "The agreement was signed weeks before a presidential pardon was granted to the family patriarch",
-        "Donald Trump issued the pardon to the patriarch of the family company",
-        "The contract was later lost or cancelled, which upset Trump"
+        "The shooting occurred in Maine in July 2026.",
+        "The victim was a Colombian‑born motorist.",
+        "The shooter was an Immigration and Customs Enforcement (ICE) officer.",
+        "Emails obtained by The Times contain the officer’s statements denouncing noncitizens and referencing foreign bloodlines."
       ],
-      "conclusion": "The episode highlights the reputational risk and potential conflicts when legal allies engage in large deals tied to politically sensitive actions, underscoring the need for rigorous due diligence in such arrangements."
+      "conclusion": "The case raises concerns about bias influencing law‑enforcement actions and could affect public trust in immigration agencies."
     },
     {
-      "title": "Supergroup Gatta Morta (Melvins, Butthole Surfers, Etc.) Announce Their Debut Album “Immaculator”",
-      "url": "https://www.theprp.com/2026/11/10/news/supergroup-gatta-morta-melvins-butthole-surfers-etc-announce-their-debut-album-immaculator/",
-      "image": "https://www.theprp.com/app/uploads/2026/11/gattamortalarge-1200x675.webp",
+      "title": "El Partido Demócrata vence en la carrera al Senado por Misisipi tras 40 años de hegemonía republicana",
+      "url": "https://www.europapress.es/internacional/noticia-partido-democrata-vence-carrera-senado-misisipi-40-anos-hegemonia-republicana-20261112013651.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261112013651_1200.jpg",
+      "source": "Europa Press Tecnología",
+      "language": "es",
+      "que_paso": "Scott Colom, candidato demócrata, ganó la contienda por el escaño al Senado de EE. UU. en Mississippi, derrotando a la senadora republicana incumbente Cindy Hyde‑Smith en las elecciones de medio mandato del 3 de noviembre de 2026. El resultado se anunció con un margen estrecho, aunque la cifra exacta no se dio.",
+      "datos": [
+        "Scott Colom es el candidato del Partido Demócrata.",
+        "Cindy Hyde‑Smith era la senadora republicana saliente.",
+        "La victoria se anunció tras la proyección de CNN.",
+        "Las elecciones se celebraron el 3 de noviembre de 2026.",
+        "Este triunfo pone fin a 40 años de hegemonía republicana en el Senado de Mississippi."
+      ],
+      "conclusion": "El cambio rompe una racha de cuatro décadas y podría influir en la composición y agenda del Senado, ofreciendo a los demócratas una oportunidad de ampliar su presencia en el sur."
+    },
+    {
+      "title": "El VVD amenaza con romper el Gobierno tripartito neerlandés en oposición a una reforma fiscal",
+      "url": "https://www.europapress.es/internacional/noticia-vvd-amenaza-romper-gobierno-tripartito-neerlandes-oposicion-reforma-fiscal-20261112012813.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261112012813_120.jpg",
+      "source": "Europa Press Tecnología",
+      "language": "es",
+      "que_paso": "El gobierno neerlandés, que lleva nueve meses en el cargo, enfrenta este miércoles la posibilidad de colapsar porque la coalición tripartita liderada por el primer ministro Rob Jetten está en conflicto con el VVD tras la aprobación de una reforma fiscal que el partido considera inaceptable.",
+      "datos": [
+        "El gobierno está en minoría y está formado por una alianza de tres partidos",
+        "Rob Jetten es el primer ministro del país",
+        "El VVD, Partido Popular por la Libertad y la Democracia, es la segunda formación con más escaños en la coalición",
+        "La crisis surge nueve meses después de la elección que dio origen al gobierno",
+        "El desacuerdo se produce a raíz de una reforma fiscal aprobada recientemente",
+        "El anuncio de la posible ruptura se hizo el miércoles 12 de noviembre de 2026"
+      ],
+      "conclusion": "Si la coalición se rompe, el país podría entrar en una fase de inestabilidad política que retrasaría la implementación de la reforma fiscal y complicaría la gestión operativa del Estado."
+    },
+    {
+      "title": "Democrats Face Backlash After Missing Hegseth Impeachment Vote",
+      "url": "https://www.nytimes.com/2026/11/11/us/politics/democrats-backlash-missing-hegseth-impeachment-vote.html",
+      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11dc-democrats-zjvh/11dc-democrats-zjvh-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "Eleven Democrats failed to attend the impeachment vote, allowing Republicans to dismiss the charges against the defense secretary. The absenteeism provoked sharp criticism, coming just a week after the party secured sweeping election victories.",
+      "datos": [
+        "Eleven Democrats were absent from the vote",
+        "Republicans shelved the impeachment charges against the defense secretary",
+        "The vote drew sharp criticism from observers",
+        "The backlash occurred a week after Democrats won major elections",
+        "The impeachment was directed at the defense secretary"
+      ],
+      "conclusion": "The episode highlights how procedural lapses can undermine the party’s credibility on oversight, underscoring the need for strict attendance discipline on critical votes."
+    },
+    {
+      "title": "Facial recognition errors put ethnic minorities at risk of wrongful arrest, police watchdog warns",
+      "url": "https://www.theguardian.com/technology/2026/nov/12/facial-recognition-errors-put-ethnic-minorities-at-risk-of-wrongful-arrest-police-watchdog-warns",
+      "image": "https://i.guim.co.uk/img/media/eb252798031db61ecc0c7999fd67d3e7c47bc726/464_0_4640_3712/master/4640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9800d51d82b7778b758c85ff6322cdc0",
+      "source": "The Guardian AI",
+      "language": "en",
+      "que_paso": "His Majesty’s Inspectorate of Constabulary published a report warning that police officers have sometimes acted on retrospective facial‑recognition matches without sufficient verification, resulting in wrongful arrests, especially of ethnic‑minority individuals. The findings expose gaps in training, data‑quality controls and legal oversight as police chiefs push the technology forward while civil‑rights groups raise concerns.",
+      "datos": [
+        "The HMIC report was published on Wednesday, 2026-11-12, and examined only retrospective facial‑recognition (RFR) use.",
+        "Investigators occasionally treated RFR results as evidence rather than intelligence, according to the report.",
+        "The report identified algorithmic bias that makes false‑positive matches more likely for ethnic‑minority people.",
+        "Inspectors found that custody images that should have been deleted were retained in police databases.",
+        "The report noted the absence of a comprehensive statutory framework governing facial‑recognition technology in the UK."
+      ],
+      "conclusion": "Police forces must treat RFR outputs as intelligence, enforce stricter verification steps, and adopt clearer legal safeguards to prevent bias‑driven wrongful arrests and maintain public confidence."
+    },
+    {
+      "title": "Al menos un muerto y varios atrapados tras el derrumbe de un edificio en el distrito neoyorquino de Brooklyn",
+      "url": "https://www.europapress.es/internacional/noticia-menos-muerto-varios-atrapados-derrumbe-edificio-distrito-neoyorquino-brooklyn-20261112003739.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261112003739_1200.jpg",
+      "source": "Europa Press Tecnología",
+      "language": "es",
+      "que_paso": "Un edificio de tres plantas se vino abajo en el barrio de Flatbush, Brooklyn, provocando la muerte de al menos una persona, otra en estado crítico y dejando a varias personas atrapadas mientras los servicios de emergencia acudían al sitio.",
+      "datos": [
+        "El colapso tuvo lugar en Flatbush, distrito de Brooklyn, Nueva York.",
+        "El edificio afectado contaba con tres plantas.",
+        "Al menos una persona perdió la vida en el derrumbe.",
+        "Una segunda persona está en estado crítico tras el incidente.",
+        "Varias personas quedaron atrapadas bajo los escombros.",
+        "El suceso se informó el miércoles 12 de noviembre de 2026."
+      ],
+      "conclusion": "El accidente evidencia la urgencia de reforzar la inspección y el mantenimiento de edificaciones antiguas en zonas urbanas, y destaca la importancia de la capacidad de respuesta rápida de los equipos de rescate."
+    },
+    {
+      "title": "El discurso de Pablo Motos y “¿cuál es mi cámara?”: los momentos destacados de Feijóo en ‘El hormiguero’",
+      "url": "https://elpais.com/television/2026-11-11/el-discurso-de-pablo-motos-y-cual-es-mi-camara-los-momentos-destacados-de-feijoo-en-el-hormiguero.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/MJ57KON4KNFWNGEW7JKG7IWJHE.png?auth=af728f6a57db4d8c491bb43278aa3dd88a9d5719a4b30e6827280fd89cc170db&width=1200",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "El miércoles, el candidato del PP Alberto Núñez Feijóo concedió una entrevista en El Hormiguero (Antena 3) mientras Pedro Sánchez rechazó la invitación. Durante el programa, Feijóo respondió a preguntas de Pablo Motos sobre pensiones, la huelga general y presentó su compromiso de rendir cuentas en los primeros 100 días, recordando que llevaba un documento con 249 propuestas del PP.",
+      "datos": [
+        "Entrevista emitida el 12 de noviembre de 2026 en El Hormiguero (Antena 3).",
+        "Pedro Sánchez declinó la invitación al programa, según Pablo Motos.",
+        "Pablo Motos comentó que tiene “ocho” cámaras a su disposición.",
+        "Feijóo afirmó que las pensiones se actualizarían anualmente con el IPC.",
+        "Feijóo presentó un documento con 249 propuestas del PP.",
+        "Se comprometió a ser examinado en los primeros 100 días de mandato."
+      ],
+      "conclusion": "La aparición de Feijóo en un programa de entretenimiento refuerza su estrategia de visibilidad directa y su promesa de rendición de cuentas, mientras la ausencia de Sánchez subraya la creciente polarización mediática."
+    },
+    {
+      "title": "An 8-Year-Old Was Separated From Family and Taken by ICE at a Check-In",
+      "url": "https://www.nytimes.com/2026/11/11/us/ice-detains-8-year-old.html",
+      "image": "",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "An eight‑year‑old Haitian boy, who had been staying with his uncle after his father’s 2025 deportation, was taken by U.S. Immigration and Customs Enforcement during a routine check‑in and placed in a shelter, separating him from his family. The incident highlights ongoing enforcement actions affecting vulnerable migrant children.",
+      "datos": [
+        "The child is an 8‑year‑old (third‑grade) boy from Haiti.",
+        "He had been living with his uncle’s family since his father was deported in 2025.",
+        "U.S. Immigration and Customs Enforcement (ICE) removed him from a check‑in point and placed him in a detention shelter.",
+        "He was separated from his uncle’s household during the removal.",
+        "He was reported to have cried and begged to return home."
+      ],
+      "conclusion": "The case illustrates how immigration enforcement can abruptly disrupt the lives of already displaced children, signaling a need for stronger safeguards for family unity in policy and practice."
+    },
+    {
+      "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
+      "url": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/aux2-hero.jpg?quality=90&strip=all&crop=0%2C10.738824991648%2C100%2C78.522350016704&w=1200",
+      "source": "The Verge",
+      "language": "en",
+      "que_paso": "The Open Home Foundation’s commercial arm Nabu Casa released the Home Assistant Connect Aux‑2, a $69 multi‑function box that adds Bluetooth, serial and audio bridging to Home Assistant installations. The author tested it over a few days to monitor a garage fridge and activate in‑wall speakers, showing practical deployment.",
+      "datos": [
+        "Price is $69",
+        "Device size is comparable to a deck of cards",
+        "It includes 2.4 GHz Wi‑Fi, Bluetooth, Ethernet, USB‑A, USB‑C, digital/analog audio jack, Grove port and two RS‑232 serial ports",
+        "Serial integration was developed earlier this year (2026)",
+        "The author previously used Aqara temperature sensors with a now‑discontinued Zigbee dongle",
+        "Govee Bluetooth hygrometers need a Bluetooth proxy, which the Aux‑2 provides"
+      ],
+      "conclusion": "The Aux‑2 demonstrates that a low‑cost, open‑source hub can retrofit legacy equipment into a unified smart‑home platform, reducing hardware complexity and enabling reliable monitoring and audio integration for operational use."
+    },
+    {
+      "title": "A Diminished Justice Dept. Braces for Fresh Fights After Midterm Loss",
+      "url": "https://www.nytimes.com/2026/11/11/us/politics/doj-trump-blanche-trump-midterms.html",
+      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/00dc-justice-jbhl/00dc-justice-jbhl-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "After the recent midterm elections, the Justice Department lost political backing, prompting senior officials to resign and career staff to consider leaving, which raises doubts about its ability to pursue President Trump’s agenda. The situation reflects a broader dilemma about the department’s capacity to implement the president’s priorities in a weakened political environment.",
+      "datos": [
+        "The article references President Trump’s priorities as a guiding agenda for the Justice Department.",
+        "Career officials are reported to be eyeing exits from the department.",
+        "Senior department officials have resigned following the midterm loss.",
+        "The Justice Department is described as diminished after the midterm election outcome."
+      ],
+      "conclusion": "The department’s reduced staffing and political support could impede the execution of Trump‑aligned policies, signaling operational challenges for the agency moving forward."
+    },
+    {
+      "title": "United won’t let your AI agent book your flight",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&strip=all&crop=0%2C10.721800295556%2C100%2C78.556399408888&w=1200",
+      "source": "The Verge",
+      "language": "en",
+      "que_paso": "United Airlines announced it will block personal AI assistants from completing flight bookings, a policy explained by CEO Scott Kirby at a Tuesday event. The decision reflects growing industry concerns about privacy, regulatory compliance, and the risk of AI agents acting as unauthorized intermediaries, echoing similar blocks by eBay and major banks.",
+      "datos": [
+        "United announced it will not allow personal AI assistants to complete flight bookings, citing privacy and regulatory concerns.",
+        "United CEO Scott Kirby said at a Tuesday event, “I don’t want to create another middleman.”",
+        "The restriction applies to agents such as Meta’s Muse and OpenAI’s Dots, which can still display flight options but cannot finalize purchases.",
+        "eBay has also blocked AI agents from browsing its site, and several major banks have placed similar restrictions.",
+        "United indicated it may revisit the policy as third‑party AI agents advance and protections are established."
+      ],
+      "conclusion": "The restriction highlights that AI‑driven transaction capabilities will be subject to security and compliance checks, so businesses must build robust safeguards before allowing agents to act on customers’ behalf."
+    },
+    {
+      "title": "Make Them Suffer’s “Black Sheep” Music Video Premieres",
+      "url": "https://www.theprp.com/2026/11/11/news/make-them-suffers-black-sheep-music-video-premieres/",
+      "image": "https://www.theprp.com/app/uploads/2026/11/makethemsufferlarge-1200x675.webp",
       "source": "The PRP",
       "language": "en",
-      "que_paso": "Gatta Morta, a supergroup featuring members of the Melvins, Butthole Surfers and other acts, announced that their first full-length album, Immaculator, will be released on February 12 via Ipecac Recordings. The band, which debuted earlier this year with the EP Burn With Burn, revealed a ten‑track lineup and a music video for the opening song “Music For Furbies.”",
+      "que_paso": "The Australian metalcore band issued a visual accompaniment for a fresh track, addressing the challenges of touring and their evolving status in the industry.",
       "datos": [
-        "The album Immaculator is scheduled for release on February 12, 2027 (date announced in the article).",
-        "Ipecac Recordings is the label that will issue the album.",
-        "Band members include Buzz \"King Buzzo\" Osborne (guitar/vocals, Melvins), Clinton Jacob (guitar/vocals, Mr. Phylzzz), Jeff Pinkus (bass/vocals, Butthole Surfers/Melvins) and Coady Willis (drums/vocals, Big Business/Melvins).",
-        "The opening track “Music For Furbies” was written by Clinton Jacob, who said, “I brought ‘Music For Furbies’ in and everyone just ran with it.”",
-        "Osborne said the group wrote six songs in the first five days, exceeding the original goal of three songs."
+        "Make Them Suffer is an Australian metalcore group",
+        "The new single is titled \"Black Sheep\"",
+        "The music video was directed by Third Eye Visuals",
+        "Vocalist Sean Harmanis said the track examines the band's path to success and touring isolation",
+        "Harmanis described the song as a statement about being an outcast and recent recognition",
+        "The video has just been released for viewing"
       ],
-      "conclusion": "The rapid creation of a full album by seasoned musicians demonstrates a highly efficient collaborative model, suggesting the record could quickly gain traction in the alternative metal market."
+      "conclusion": "The release highlights how the band leverages visual media to reinforce their brand narrative and connect with fans during a period of growing visibility."
     },
     {
-      "title": "What Is Congress’s Plan to Speed Up Energy Permits?",
-      "url": "https://www.nytimes.com/2026/11/09/climate/congress-energy-permitting-reform-vote.html",
-      "image": "https://static01.nyt.com/images/2026/11/09/climate/09cli-permitting-bill/09cli-permitting-bill-mediumSquareAt3X.jpg",
+      "title": "Can We Just Take a Moment to Reflect on How Horrible It Is That Jensen Huang Cheated on His Wife Who Had Supported Him for So Many Decades as He Rose to Incredible Power and Fame?",
+      "url": "https://futurism.com/future-society/jensen-huang-cheated-wife-horrible",
+      "image": "https://futurism.com/wp-content/uploads/2026/11/horrible-jensen-huang-cheated-wife.jpg?w=1200",
+      "source": "Futurism",
+      "language": "en",
+      "que_paso": "Nvidia CEO Jensen Huang publicly admitted to an extramarital affair with Alice Huang, an executive at Singapore‑based cloud firm Megaspeed, while U.S. authorities allege she is a Chinese intelligence asset. The disclosure comes as Nvidia’s AI chip business, now valued in the trillions, faces heightened scrutiny over possible espionage and corporate governance concerns.",
+      "datos": [
+        "Jensen Huang co‑founded Nvidia at age 30 in 1993.",
+        "He and Lori Huang have been together for over 41 years and have two children, Spence and Madison.",
+        "Nvidia’s market valuation has risen to the trillions of dollars as its AI chips dominate the industry.",
+        "The alleged affair is with Alice Huang, an executive at Megaspeed, whom the U.S. government says is a Chinese intelligence asset.",
+        "Jensen Huang disclosed the affair in a letter to Nvidia employees, acknowledging the breach of trust."
+      ],
+      "conclusion": "The episode threatens Nvidia’s leadership credibility and raises security risks for its AI chip operations, potentially affecting investor confidence and prompting tighter oversight of corporate espionage safeguards."
+    },
+    {
+      "title": "Ladrones Premiere Their “Cali” Music Video",
+      "url": "https://www.theprp.com/2026/11/11/news/ladrones-premiere-their-cali-music-video/",
+      "image": "https://www.theprp.com/app/uploads/2026/06/ladroneslarge-1200x675.webp",
+      "source": "The PRP",
+      "language": "en",
+      "que_paso": "Ladrones released the online premiere of their new “Cali” music video on November 11, 2026, and simultaneously announced a U.S. headlining tour to promote their August‑released album “Arriba La L.” The tour kicks off in Dallas on November 13 and will cover more than a dozen cities across the Southwest and West Coast.",
+      "datos": [
+        "The “Cali” video premiered online on 11 November 2026.",
+        "It was directed by Abraham Recio.",
+        "Rise Records released Ladrones’ album “Arriba La L” in August 2026.",
+        "The U.S. tour begins in Dallas, Texas on 13 November 2026.",
+        "The tour schedule includes 15 dates, ending in Denver, Colorado on 3 December 2026."
+      ],
+      "conclusion": "The coordinated video launch and extensive U.S. tour signal Ladrones’ strategic push to expand their audience beyond Mexico, offering immediate promotional momentum for the new album."
+    },
+    {
+      "title": "La huelga general culmina con un seguimiento desigual y grandes protestas en la calle",
+      "url": "https://elpais.com/economia/2026-11-11/la-huelga-general-culmina-con-un-seguimiento-desigual-y-grandes-protestas-en-la-calle.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/PAJTWBTMAFFMBJPOWQX6HGSGBA.jpg?auth=b6ba1d572991d4229a322192967cf890722daad0db3008b7e3626bc8c4768ae7",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "El paro general llegó a su fin, pero la intensidad de la protesta varió entre los distintos sectores productivos y la respuesta política se mostró confrontacional.",
+      "datos": [
+        "La huelga mostró mayor visibilidad en la calle que en los centros de trabajo",
+        "Los sectores con mayor seguimiento fueron la industria, la automoción y los puertos",
+        "Se registraron decenas de detenidos durante las protestas",
+        "El Partido Popular se enfrenta duramente con las centrales sindicales"
+      ],
+      "conclusion": "El desbalance en la participación y la confrontación entre el PP y los sindicatos indican que las tensiones laborales seguirán influyendo en la operatividad de los sectores clave."
+    },
+    {
+      "title": "25 Years After the Anthrax Attacks, America Remains Vulnerable",
+      "url": "https://www.nytimes.com/2026/11/11/science/25-years-since-anthrax-attacks-vulnerability.html",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/11SCI-BIOSECURITY-25-YEARS-01-fbhl/11SCI-BIOSECURITY-25-YEARS-01-fbhl-mediumSquareAt3X.jpg",
       "source": "NYT Science",
       "language": "en",
-      "que_paso": "Congress introduced a broad legislative proposal that seeks to revamp key environmental statutes in order to accelerate the approval of energy projects. The measure is being debated within the Senate and House, with Democratic members split over its potential impact on environmental safeguards.",
+      "que_paso": "Mailed letters containing anthrax spores revealed weaknesses in U.S. biosecurity, and experts now say those same weaknesses have not been fully corrected.",
       "datos": [
-        "The legislation is characterized as a “sprawling bill”.",
-        "It proposes to overhaul major environmental laws.",
-        "Its stated purpose is to streamline the permitting process for energy projects.",
-        "The proposal has divided Democrats.",
-        "The bill is being considered by Congress."
+        "The anthrax letters were dispatched in 2001",
+        "The article marks the 25th anniversary of the attacks in 2026",
+        "The letters were filled with anthrax spores",
+        "Experts assert that many of the biosecurity issues identified then still exist"
       ],
-      "conclusion": "If passed, the bill could shorten permitting timelines, affecting project costs and schedules, while raising concerns about reduced environmental review."
+      "conclusion": "The persistence of these gaps means the United States remains exposed to bioterror threats, underscoring the need for renewed investment in biosecurity measures."
     },
     {
-      "title": "El Madrid reacciona en la Champions ante una situación límite con un triunfo ante el Paris FC",
-      "url": "https://elpais.com/deportes/futbol/2026-11-10/el-madrid-reacciona-en-la-champions-ante-una-situacion-limite-con-un-triunfo-ante-el-paris-fc.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/MQBRQ36O65EYPEBQ7LZF6BWTGY.jpg?auth=25e24a1a20b463f981f0dc41b431ec0abd398c3a2b4eb9b26b84b63f3e56eace",
+      "title": "Decenas de miles de personas claman por la vivienda bajo la lluvia en toda España",
+      "url": "https://elpais.com/espana/2026-11-11/decenas-de-miles-de-personas-claman-por-la-vivienda-bajo-la-lluvia-en-toda-espana.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/SPUAU3E63BB6DKOCFJM4VS7MSU.jpg?auth=ee5d7887c64dd72d960e4bed1ab78f4f0d3d0f280a29221d05390ea96aff9bb9&width=1200",
       "source": "El País",
       "language": "es",
-      "que_paso": "El equipo femenino del Madrid venció al Paris FC en la fase de grupos de la Champions League, remontando en la segunda mitad. Los goles de Caruso, Beerensteyn y Linda sellaron la victoria después de que el partido se desatase en el tramo final.",
+      "que_paso": "Decenas de miles de personas protestaron bajo la lluvia en toda España como epílogo de una huelga general centrada en la vivienda, con los mayores concentraciones en Madrid y Barcelona donde se produjeron altercados y saqueos. La movilización, liderada por el Sindicato de Inquilinas tras el desahucio de una anciana de 87 años, coincidió con dos borrascas y se dio a 18 días de la convocatoria electoral.",
       "datos": [
-        "Caruso marcó un gol",
-        "Beerensteyn anotó un gol",
-        "Linda anotó un gol",
-        "Laia López fue la portera titular",
-        "El rival fue Paris FC",
-        "Fue la primera victoria del Madrid en la competición"
+        "Según la Delegación del Gobierno asistieron 120.000 manifestantes y el Sindicato de Inquilinas estima hasta 750.000",
+        "Hasta 61 personas fueron detenidas según datos oficiales",
+        "En Barcelona se registraron saqueos, incendios y enfrentamientos con los Mossos d'Esquadra",
+        "La huelga general fue la primera en 14 años y comenzó el 23 de septiembre con el desahucio de una anciana de 87 años",
+        "El Sindicato de Inquilinas cuenta con más de 100 millones de euros de presupuesto y dos millones de afiliados, y sus cuotas de abonados pasaron de 4.000 a 10.000 tras el movimiento",
+        "Las borrascas Bruna y Charles provocaron lluvias intensas desde las 18:00, llenando de paraguas el recorrido entre Atocha y la Plaza de España"
       ],
-      "conclusion": "La remontada confirma la capacidad del Madrid para superar momentos críticos, lo que será decisivo para su clasificación en la fase de grupos."
+      "conclusion": "La protesta evidencia la creciente presión social sobre la política de vivienda y su capacidad de influir en la agenda electoral, lo que sugiere que los partidos deberán abordar urgentemente reformas de alquiler antes de las próximas elecciones."
     },
     {
-      "title": "Andalucía suspende las clases en el litoral de Cádiz y Huelva por el riesgo de fuertes lluvias y viento de la borrasca Charles",
-      "url": "https://www.eldiario.es/andalucia/andalucia-suspende-clases-litoral-cadiz-huelva-riesgo-fuertes-lluvias-viento-borrasca-charles_1_13653921.html",
-      "image": "https://static.eldiario.es/clip/09202d4e-2e0e-4f78-ab67-bec1714938b4_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "que_paso": "La Junta de Andalucía declaró emergencia operativa 1 del PERI ante la llegada de la borrasca Charles y, mediante el vicepresidente Antonio Sanz, ordenó la suspensión de la enseñanza presencial en los municipios costeros de Cádiz y Huelva. La medida responde a la revisión de la AEMET que elevó los vientos previstos a 120 km/h y al riesgo de inundaciones y vientos fuertes en la zona.",
-      "datos": [
-        "La fase de emergencia (SO1) entró en vigor a las 20:00 h del martes 11 de noviembre de 2026.",
-        "La AEMET aumentó la previsión de viento en la costa de 90 km/h a 120 km/h.",
-        "Se suspendió la actividad educativa presencial en 22 municipios del litoral gaditano y onubense, entre ellos Cádiz, Algeciras, Aljaraque y Huelva.",
-        "Los ayuntamientos con aviso naranja deben cerrar parques y jardines municipales y está prohibido cruzar badenes y cauces inundados.",
-        "La Agencia Pública de Puertos de Andalucía activó su Plan de Autoprotección en nivel 2 y movilizó personal para medidas preventivas."
-      ],
-      "conclusion": "La suspensión de clases y el cierre de espacios públicos evidencian la gravedad del temporal, obligando a operadores y gestores a activar protocolos de seguridad y a planificar contingencias para minimizar interrupciones en servicios esenciales."
-    },
-    {
-      "title": "The PlayStation Plus PC app is shutting down next month",
-      "url": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23426446/playstation_plus_logo_blog.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "language": "en",
-      "que_paso": "Sony announced that it will discontinue the PlayStation Plus cloud streaming application for Windows PCs. Internal usage data showed that fewer than 0.4% of PlayStation Plus Premium subscribers were using the PC client, prompting the shutdown. The move is framed as a reallocation of resources toward experiences with broader member demand.",
-      "datos": [
-        "Less than 0.4% of PlayStation Plus Premium members used the PC app.",
-        "The PC app provided cloud streaming of PlayStation games on Windows PCs.",
-        "Sony said the app will be unavailable after December 2026.",
-        "The announcement was issued by Sony Interactive Entertainment.",
-        "The decision applies specifically to the PlayStation Plus Premium tier.",
-        "\"With a very small number of eligible PlayStation Plus Premium members (less than 0.4%) using the PlayStation Plus app on PC, making this change allows us to focus on enhancing high-quality experiences that more of our members want to use.\""
-      ],
-      "conclusion": "The shutdown shows Sony’s focus on trimming low‑adoption services to invest in higher‑impact features, while PC gamers will need to seek alternative streaming solutions."
-    },
-    {
-      "title": "Nvidia Hires Wachtell Lipton to Investigate CEO Jensen Huang’s Affair With Chinese Executive",
-      "url": "https://www.nytimes.com/2026/11/10/business/nvidia-wachtell-lipton-jensen-huang.html",
-      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-Nvidia-Wachtell-01-tpgl/10biz-Nvidia-Wachtell-01-tpgl-mediumSquareAt3X.jpg",
+      "title": "After Hegseth Impeachment Vote Fails, Massie Vows More Tough Votes for GOP In His Final Days",
+      "url": "https://www.nytimes.com/2026/11/11/us/politics/massie-trump-difficult-republican-votes.html",
+      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11dc-massie-fkcm/11dc-massie-fkcm-mediumSquareAt3X.jpg",
       "source": "New York Times",
       "language": "en",
-      "que_paso": "Nvidia engaged the law firm Wachtell, Lipton, Rosen & Katz to conduct an internal investigation into CEO Jensen Huang after reports surfaced of a personal relationship with a Chinese executive, prompting concerns about potential conflicts of interest and security implications. The firm appointed partner Joon H. Kim, a former acting U.S. attorney, to lead the inquiry.",
+      "que_paso": "Representative Thomas Massie announced that, with only a short period remaining before his term ends, he will push fellow Republicans to support what he describes as “sanity” votes and to distance the party from former President Donald Trump, after the recent impeachment vote against former House Speaker Hegseth failed.",
       "datos": [
-        "Nvidia hired Wachtell, Lipton, Rosen & Katz for the investigation",
-        "The investigation is headed by partner Joon H. Kim",
-        "Joon H. Kim previously served as an acting U.S. attorney",
-        "The probe focuses on an alleged affair between CEO Jensen Huang and a Chinese executive",
-        "The article reporting this was published on November 11, 2026"
+        "The impeachment vote on former House Speaker Hegseth was defeated on November 10, 2026.",
+        "Thomas Massie, a Republican from Kentucky, made his statement on November 12, 2026.",
+        "Massie’s current term expires on January 3, 2027, marking his final days in Congress.",
+        "He called for “sanity” votes and a break with President Trump in his remarks."
       ],
-      "conclusion": "The inquiry could affect Nvidia's corporate governance and expose the company to regulatory scrutiny, making it essential for the operations manager to monitor any resulting policy or compliance changes."
+      "conclusion": "Massie’s stance highlights growing fractures within the GOP and suggests upcoming challenges for party unity as the 2026 midterms approach."
     },
     {
-      "title": "Despite Denial, Trump Was Told on Trip to China About Spying on Nvidia’s Jensen Huang",
-      "url": "https://www.nytimes.com/2026/11/10/us/politics/trump-china-trip-nvidia.html",
-      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-trump-huang-top-fthz/10dc-trump-huang-top-fthz-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Donald Trump was briefed that intelligence linked Nvidia CEO Jensen Huang to a woman suspected of being a Chinese spy just before Trump boarded Air Force One for a visit to Beijing. The warning came as the president prepared for a high‑level meeting with Chinese officials, highlighting concerns about potential espionage involving senior tech executives.",
-      "datos": [
-        "Jensen Huang is the chief executive officer of Nvidia.",
-        "The briefing occurred before Trump boarded Air Force One.",
-        "The flight's destination was Beijing, China.",
-        "U.S. intelligence indicated Huang had a relationship with a woman believed to be a Chinese spy.",
-        "The president involved was Donald Trump."
-      ],
-      "conclusion": "The incident underscores the risk that Chinese intelligence may target leading AI figures, prompting the U.S. to scrutinize tech executives during diplomatic trips and consider tighter security protocols."
-    },
-    {
-      "title": "Spain's Ministry for Children asks the AEPD to suspend TikTok following Maldita.es investigation",
-      "url": "https://maldita.es/investigaciones/20261110/ministry-aepd-interim-suspension-tiktok-maldita/",
-      "image": "https://files.maldita.es/uploads/portada-impacto-tiktok-aepd-6af36ca9da6a0.webp",
-      "source": "Maldita.es",
-      "language": "es",
-      "que_paso": "El Ministerio de Juventud e Infancia, encabezado por la ministra Sira Rego, solicitó a la AEPD que imponga una suspensión cautelar de TikTok en España tras una reunión con la ONG Maldita.es y con la propia plataforma, alegando fallos en la protección de menores.",
-      "datos": [
-        "La solicitud se presentó el 10 de noviembre de 2026.",
-        "TikTok había eliminado solo 5 de los 50 vídeos denunciados por Maldita.es.",
-        "El Ministerio invocó el artículo 66.1 del Reglamento General de Protección de Datos de la UE.",
-        "TikTok tiene su sede europea en Dublín, bajo la supervisión de la autoridad irlandesa.",
-        "La ministra Rego afirmó que, de haber dependido de ella, la suspensión habría sido efectiva desde el día anterior.",
-        "La AEPD puede adoptar medidas provisionales sin esperar a la autoridad irlandesa según el mecanismo excepcional del RGPD."
-      ],
-      "conclusion": "Esta medida subraya la presión regulatoria sobre plataformas digitales para reforzar la seguridad de menores y muestra que las autoridades españolas pueden actuar rápidamente sin depender de la supervisión irlandesa."
-    },
-    {
-      "title": "¿Qué se sabe de la supuesta espía que tuvo una relación con el CEO de Nvidia?",
-      "url": "https://elpais.com/us/2026-11-10/que-se-sabe-de-la-supuesta-espia-que-tuvo-una-relacion-con-el-ceo-de-nvidia.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/WOTSCQBIBRG5XOVFE4D45PY2YA.JPG?auth=07e5f46e4bbbaabc2f722e8f1269b7671c33bdd8ec49df37d45e4c8971d878a0&width=1200",
+      "title": "11 del 11 de la ONCE: comprobar los números premiados",
+      "url": "https://elpais.com/sorteos/2026-11-11/sorteo-11-del-11-de-la-once.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/7POTBX3C6BCZRJF5TNFWDOCZPE.png?auth=44881d08fcd9e2dddd0e64764c63ab8c78c33ba3ee04ecb3d415db83d952344e&width=1200",
       "source": "El País",
       "language": "es",
-      "que_paso": "Jensen Huang, CEO y fundador de Nvidia, admitió haber sido infiel a su esposa con Alice Huang. Las agencias de inteligencia de EE. UU. creen que Alice Huang trabajaba para China, lo que plantea una posible vulnerabilidad de seguridad para la compañía.",
+      "que_paso": "El miércoles 11 de noviembre de 2026 la ONCE realizó el Sorteo Extraordinario del 11/11, con boletos a 6 €, y destinó la recaudación a programas sociales para personas con discapacidad visual. El sorteo ofreció un premio principal de 11 millones de euros y una amplia gama de premios menores, convirtiéndose en una de las citas más esperadas del calendario de jugadores.",
       "datos": [
-        "Jensen Huang es CEO y fundador de Nvidia.",
-        "Jensen Huang reconoció públicamente su infidelidad a su esposa.",
-        "Alice Huang está vinculada a la supuesta relación con Jensen Huang.",
-        "Los servicios de inteligencia estadounidenses consideran que Alice Huang trabajaba para China.",
-        "El artículo se publicó en medios españoles el 11 de noviembre de 2026."
+        "El sorteo se celebró el 11 de noviembre de 2026.",
+        "El precio de cada cupón es de 6 euros.",
+        "El premio mayor es de 11 millones de euros.",
+        "Se otorgaron 11 premios de 1 millón de euros cada uno.",
+        "Se repartieron 119 premios de 50 000 euros, 1 309 premios de 2 000 euros, 1 080 premios de 1 200 euros, 10 800 premios de 120 euros y más de 1 080 000 reintegros de 6 euros.",
+        "El importe total distribuido supera los 40 millones de euros."
       ],
-      "conclusion": "El caso ilustra cómo la conducta personal de altos ejecutivos puede generar riesgos de espionaje y dañar la reputación corporativa, reforzando la necesidad de políticas de seguridad y gestión de riesgos en empresas tecnológicas."
+      "conclusion": "El enorme volumen de premios y la recaudación destinada a la causa social refuerzan la relevancia del sorteo tanto como motor de ingresos para la ONCE como incentivo para los jugadores que buscan un retorno económico y contribuir a la inclusión visual."
     },
     {
-      "title": "The US is winning the AI race. Jensen Huang could have blown it",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "language": "en",
-      "que_paso": "Nvidia CEO Jensen Huang disclosed that he had an affair with a woman believed to be a Chinese spy, a relationship that U.S. intelligence and President Donald Trump were reportedly aware of. The revelation has raised concerns that the breach could compromise the supply of Nvidia’s advanced AI chips, a critical bottleneck for U.S. AI development, and potentially erode America’s lead over China.",
-      "datos": [
-        "Nvidia is the undisputed leader in advanced AI chips, supplying companies such as Meta, Anthropic and OpenAI.",
-        "The United States has restricted sales of its most advanced AI chips to China to slow Chinese progress.",
-        "Emily Kilcrease, senior fellow at CNAS, warned that without the latest Nvidia chips China \\\"cannot close the gap with US frontier capabilities.\\\"",
-        "A black market for restricted Nvidia chips has emerged, offering China potential illicit access.",
-        "No public evidence has been presented that Huang directed restricted Nvidia chips to China."
-      ],
-      "conclusion": "If the alleged espionage leads to Chinese acquisition of Nvidia’s cutting‑edge chips, the United States could lose its AI hardware advantage within weeks, underscoring the need for tighter security and supply‑chain controls."
-    },
-    {
-      "title": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop",
-      "url": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Pixel-11-series-6-1152x648.jpg",
+      "title": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says",
+      "url": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/t-mobile-5g-1152x648-1794428350.jpg",
       "source": "Ars Technica",
       "language": "en",
-      "que_paso": "Google began rolling out the November Pixel Drop on November 11, 2026, adding a bundle of AI‑focused enhancements to its flagship phones. The update extends Gemini‑branded features such as personalized suggestions and app automation to the Pixel 10 series (excluding the Pixel 10a) and introduces new UI, widget, and wearable capabilities.",
+      "que_paso": "T-Mobile was found to have breached New York's Affordable Broadband Act by limiting data and throttling speeds on its low‑income home Internet service, prompting state officials to negotiate a settlement that forces the carrier to remove those restrictions and broaden plan availability.",
       "datos": [
-        "The rollout started on November 11, 2026 as part of the monthly Pixel Drop schedule.",
-        "AI‑powered icon theming now includes 10 new styles powered by the Nano Banana model.",
-        "Gemini features are expanded to the Pixel 10 lineup but do not cover the budget‑oriented Pixel 10a.",
-        "Create My Widget, announced in 2026, was shipped on Googlebooks a few weeks before the November update.",
-        "HiLight notification support is added for Google Messages on Pixel 11 devices.",
-        "Pixel Watch 3 and newer receive step‑by‑step workout guidance and automatic rep/weight logging."
+        "The plan limited users to 50 GB per month and reduced speeds to 600 Kbps after the cap was reached",
+        "The settlement obliges T-Mobile to eliminate the caps and expand the plans statewide within 120 days",
+        "Governor Kathy Hochul and Attorney General Letitia James announced the agreement on Monday, 11 November 2026",
+        "The Affordable Broadband Act mandates $15/month for at least 25 Mbps or $20/month for at least 200 Mbps for eligible households",
+        "A typical user would hit the 50 GB cap after roughly four days of usage",
+        "The plans were only offered to homes eligible for 5G Home Internet, excluding 4G‑only locations"
       ],
-      "conclusion": "The update pushes more AI automation into everyday tasks, potentially boosting productivity for power users, while the limited data sources for widgets and the exclusion of lower‑tier devices temper its overall impact."
+      "conclusion": "The case highlights the regulatory risk of imposing usage limits on subsidized broadband, underscoring that compliance with state affordability rules and broad geographic eligibility are essential to avoid costly settlements."
     },
     {
-      "title": "Google’s Pixel Tag tracker is now available",
-      "url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pixeltag2.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-      "source": "The Verge",
+      "title": "Quicksand’s Apple Music Sessions In-Studio Performances Released",
+      "url": "https://www.theprp.com/2026/11/11/news/quicksands-apple-music-sessions-in-studio-performances-released/",
+      "image": "https://www.theprp.com/app/uploads/2026/06/quicksandpromolarge-1200x675.webp",
+      "source": "The PRP",
       "language": "en",
-      "que_paso": "Google released its own Bluetooth/UWB tracker, the Pixel Tag, on November 11, 2026, positioning it against Apple’s AirTag 2. The device is sold directly by Google and integrates with the Find Hub app, which was renamed from the previous Find My Device service.",
+      "que_paso": "Quicksand’s live recordings from an Apple Music Session have been posted online, making the tracks “Get To It” and “Brown Gargantuan” available for streaming. The session was filmed earlier in the year during a chat with Zane Lowe, shortly after the band released its fifth album.",
       "datos": [
-        "Price: $29.99 for a single unit, $99.99 for a four‑pack.",
-        "Weight: 0.4 oz, slightly lighter than the AirTag 2.",
-        "Battery life: over one year on a CR2032 coin cell.",
-        "Durability: IP67 rating (dust‑proof and water‑resistant to shallow immersion).",
-        "Connectivity: supports Ultra Wideband (UWB) and Bluetooth 6.0 Channel Sounding.",
-        "Compatibility: requires Android 9+ devices with a UWB chip or Bluetooth 6.0 for precise locating."
+        "The Apple Music Session includes performances of “Get To It” and “Brown Gargantuan”.",
+        "The session was recorded earlier in 2026 as part of a conversation with Zane Lowe.",
+        "Quicksand’s fifth studio album, “Bring On The Psychics”, was released in July 2026.",
+        "The band has been touring in support of the new album.",
+        "Both tracks are now available on Apple Music."
       ],
-      "conclusion": "The launch gives Android users a native alternative to Apple’s tracker, potentially expanding Google’s hardware ecosystem and generating recurring revenue from accessories. Enterprises can leverage the UWB precision for asset tracking without relying on third‑party tags."
+      "conclusion": "The release gives fans immediate access to rare live versions, reinforcing promotion of the new album and upcoming tour dates."
     },
     {
-      "title": "Google is making Pixel HiLight slightly more useful",
-      "url": "https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Pixel-11-Pro-HiLight-using-HiLight-Studio-Rainbow.jpg?quality=90&strip=all&crop=0%2C10.730155461286%2C100%2C78.539689077427&w=1200",
-      "source": "The Verge",
+      "title": "New Vision’s “Still Losing” Music Video Debuts",
+      "url": "https://www.theprp.com/2026/11/11/news/new-visions-still-losing-music-video-debuts/",
+      "image": "https://www.theprp.com/app/uploads/2026/09/newvisionlarge-1200x675.webp",
+      "source": "The PRP",
       "language": "en",
-      "que_paso": "Google added a new notification mode to the HiLight on Pixel 11 Pro phones, causing it to flash when a Google Messages text arrives from a favorite contact, as part of the November 2026 Pixel Drop. The update is bundled with several other software rollouts, including a custom widget builder, expanded Gemini AI capabilities, workout guidance on Pixel Watch 3+, a Family Hub settings hub for newer Pixels, and the release of the Pixel Tag tracker.",
+      "que_paso": "New Vision released a Seth Jones‑directed music video for the song “Still Losing,” making it available for streaming and announcing a forthcoming album.",
       "datos": [
-        "The HiLight on Pixel 11 Pro will illuminate for Google Messages texts from favorite contacts, announced in the November 2026 Pixel Drop.",
-        "The “Create My Widget” feature is being rolled out to Pixel 11 and Pixel 10 devices.",
-        "Gemini Intelligence on Pixel 10 now includes the Rambler transcription tool and can place calls on behalf of users.",
-        "Pixel Watch Series 3 and newer will display step‑by‑step workout instructions.",
-        "Pixel 6A and later models gain a “Family Hub” section in Settings for consolidated family‑management controls.",
-        "The Pixel Tag item tracker, first announced in August 2026, is now generally available."
+        "The video was directed by Seth Jones.",
+        "The band New Vision is based in the Hudson Valley.",
+        "The upcoming album “Can’t Leave With Less” is scheduled for release on December 4, 2026 via Papercut Recordings.",
+        "Vocalist Nico Caro said the track is about “giving everything you’ve got for something or someone, but still coming up short.”",
+        "The music video is now available to stream on major platforms."
       ],
-      "conclusion": "The tweaks illustrate Google’s strategy of layering modest hardware enhancements with AI‑driven software across its ecosystem, giving operations‑focused users incremental productivity gains without relying on major device launches."
+      "conclusion": "The release builds momentum for the December album launch, giving fans a visual preview and reinforcing the band’s thematic focus on perseverance."
     },
     {
-      "title": "Democrats Preparing Crackdown on Prediction Markets",
-      "url": "https://futurism.com/future-society/democrats-regulation-crackdown-prediction-markets",
-      "image": "https://futurism.com/wp-content/uploads/2026/11/democrats-crackdown-prediction-markets.jpg?w=1200",
+      "title": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+      "url": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+      "image": "https://media.wired.com/photos/6af37240c46e83fb6f2598a7/191:100/w_1280,c_limit/AI-Lab-I-Trained-Simulated-Microduck-to-Dance-and-Do-Other-Fun-Things-Business.jpg",
+      "source": "Wired",
+      "language": "en",
+      "que_paso": "A developer used OpenAI’s GPT‑6 Sol together with Nvidia’s DGX Spark and the Isaac Sim environment to train a virtual version of Pollen Robotics’ Microduck to locate and interact with a Bengal cat, while researchers at UC Berkeley’s Ken Goldberg lab demonstrated that OpenAI’s Astra model could generate a complete 3D simulation of a real‑world robot scene in about an hour.",
+      "datos": [
+        "GPT‑6 Sol was employed to code and train the virtual Microduck in a few hours, a task that previously took weeks",
+        "OpenAI released the Astra model in September 2026, and Goldberg’s lab used it to produce a full 3D simulation within one hour",
+        "The hardware platform was an Nvidia DGX Spark personal computer equipped with a high‑performance AI chip",
+        "Isaac Sim software was used to feed instructions, monitor the virtual robot, and suggest training adjustments",
+        "The virtual robot was designed to dispense a treat from a 3D‑printed, head‑mounted storage chamber for the cat named Leona"
+      ],
+      "conclusion": "The rapid, low‑skill workflow shows that advanced language and simulation models can dramatically shorten robot development cycles, making pet‑care automation more feasible for small teams."
+    },
+    {
+      "title": "The US Government Just Issued a Stark Warning to Kalshi",
+      "url": "https://futurism.com/future-society/us-government-cftc-kalshi-prediction-market-regulation",
+      "image": "https://futurism.com/wp-content/uploads/2026/11/us-government-stark-warning-kalshi.jpg?w=1200",
       "source": "Futurism",
       "language": "en",
-      "que_paso": "Democrats are drafting legislation to restrict prediction‑market platforms, framing them as predatory gambling tools, and are moving forward as they regain control of Congress. The effort includes criticism from Rep. Maxine Waters and Sen. Jeff Merkley and targets firms linked to Donald Trump Jr, while a parallel AI‑regulation push is also under consideration.",
+      "que_paso": "The U.S. Commodity Futures Trading Commission has issued a formal warning to prediction‑market platform Kalshi, indicating that charges are imminent as part of an investigation into its experimental financial products. The probe focuses on dozens of event‑contract offerings that the firm allegedly launched without prior CFTC notification, and Kalshi says the issue relates to a procedural error with a small number of non‑live contracts.",
       "datos": [
-        "Rep. Maxine Waters described prediction markets as “predatory lending and predatory platforms.”",
-        "Sen. Jeff Merkley said “we need to rein in this gambling” as Democrats take back control of Congress.",
-        "Donald Trump Jr holds advisory board positions at Polymarket and Kalshi.",
-        "An anonymous former Wall Street regulator told Politico the regulatory regime could become “pretty intense.”",
-        "Politico reports Democrats are also preparing a similar crackdown on the AI industry.",
-        "The crackdown is presented as protecting consumers from predatory gambling companies."
+        "The CFTC warning was reported by Politico in early January 2026, shortly after Democrats took control of Congress.",
+        "Kalshi disclosed that the alleged procedural error involved the submission of a handful of contracts, many of which were not live.",
+        "Trading volume for a Los Angeles weather‑event contract on Kalshi this month reached $28,000.",
+        "During the Trump administration, prediction markets were allowed to self‑certify event contracts under the Commodity Exchange Act without CFTC approval.",
+        "A separate federal investigation into rival Polymarket uncovered a $10 million offshore fraud scheme."
       ],
-      "conclusion": "The pending legislation signals heightened regulatory risk for prediction‑market operators and AI firms, urging stakeholders to anticipate stricter compliance requirements and potential revenue impacts."
+      "conclusion": "The enforcement move signals a likely shift toward stricter CFTC oversight of prediction markets, meaning operators will need tighter compliance processes to avoid similar actions."
     },
     {
-      "title": "One of our favorite multi-filament 3D printers is $100 off",
-      "url": "https://www.theverge.com/gadgets/1030970/bambu-p2s-combo-3d-printer-deal-sale",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bambu-p2s.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-      "source": "The Verge",
-      "language": "en",
-      "que_paso": "Bambu Lab is offering a limited‑time discount on its P2S Combo 3D printer bundle, which includes the P2S printer and the AMS 2 Pro multi‑filament handler. The promotion runs until December 1 2026 and is available through Best Buy and Bambu Lab’s website. This follows rising interest in reliable multi‑color 3D printing for makers and small businesses.",
-      "datos": [
-        "The combo is priced at $649, representing a $100 reduction from the regular list price.",
-        "The discount is valid through December 1 2026.",
-        "The AMS 2 Pro normally costs $299 but is on sale for $229.",
-        "The P2S printer can operate up to four AMS 2 Pro units simultaneously.",
-        "The printer includes AI‑powered tools that detect printing problems and an enclosed filament handler that prevents moisture absorption."
-      ],
-      "conclusion": "The reduced price lowers the barrier to advanced multi‑filament 3D printing, enabling faster prototyping and more reliable production for operational teams."
-    },
-    {
-      "title": "The Path to a Democratic Supermajority",
-      "url": "https://www.nytimes.com/2026/11/10/opinion/ezra-klein-podcast-adam-jentleson.html",
-      "image": "https://static01.nyt.com/images/2026/11/10/opinion/10eks-jentleson-image01/10eks-jentleson-image01-mediumSquareAt3X.jpg",
+      "title": "Trump Hints at Immigration Deal, Then Reverses. He’s Done That Before.",
+      "url": "https://www.nytimes.com/2026/11/11/us/politics/trump-immigration-election-democrats-republicans.html",
+      "image": "https://static01.nyt.com/images/2025/11/20/multimedia/11dc-trump-immig/20DC-IMMIG-FINES-bzth-mediumSquareAt3X.jpg",
       "source": "New York Times",
       "language": "en",
-      "que_paso": "Adam Jentleson, president of the Searchlight Institute, argued that the Democratic Party could increase its electoral success by adopting unconventional or heterodox positions, positioning this view as a pathway toward achieving a supermajority in Congress.",
+      "que_paso": "President Donald Trump floated a new immigration agreement, then withdrew the proposal, prompting criticism that he ignored a chance for bipartisan progress on a historically contentious issue. The reversal came despite pressure from both Democrats and a subset of Republicans who were seeking consensus.",
       "datos": [
-        "Adam Jentleson is the president of the Searchlight Institute.",
-        "He said Democrats can win a whole lot more by embracing heterodoxy.",
-        "The article’s title is \"The Path to a Democratic Supermajority.\"",
-        "The comment is framed as a strategic recommendation for the Democratic Party.",
-        "The piece provides no quantitative data or polling figures."
+        "President Donald Trump initially hinted at an immigration deal before reversing his position.",
+        "Democratic leaders publicly said the reversal missed a bipartisan opportunity.",
+        "A number of Republican senators joined Democrats in criticizing the backtrack.",
+        "The immigration issue has historically plagued previous administrations.",
+        "The episode was noted as another instance of Trump changing course on policy proposals."
       ],
-      "conclusion": "The takeaway is that embracing non‑traditional policy approaches may be a practical lever for Democrats to secure a larger legislative margin, a point operations leaders should weigh when planning political engagement strategies."
+      "conclusion": "The flip‑flop stalls any near‑term immigration reform and signals that building cross‑party coalitions will remain difficult, limiting practical policy advances for the administration."
     },
     {
-      "title": "Los maquinistas dan aire a Transportes: aplazan el paro del jueves en Renfe tras paralizar este martes Cercanías y Rodalies",
-      "url": "https://elpais.com/economia/2026-11-10/renfe-advierte-de-un-fuerte-impacto-de-la-huelga-de-maquinistas-este-martes-en-cercanias-y-rodalies.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/QVLSE5BSZZCZDIPNVD3UNYF7OA.jpg?auth=fb7154a7ffc8cfd024b9f385e02269d9f8e0ad5a5718732ab17d7472b4f7a804",
+      "title": "‘Charles’ deja vientos de 148 kilómetros por hora, alumnos sin clase, vuelos cancelados y ríos en alerta",
+      "url": "https://elpais.com/espana/2026-11-11/charles-deja-vientos-de-148-kilometros-por-hora-alumnos-sin-clase-vuelos-cancelados-y-rios-en-alerta.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/PTEVVKCOWRJ2BCOSIPFEZTH5LY.jpg?auth=13f571430374432772a653e904612361d19e2284cc07c05e8171e34436250edc&width=1200",
       "source": "El País",
       "language": "es",
-      "que_paso": "Los maquinistas del sindicato Semaf iniciaron una huelga parcial el martes 23 de noviembre de 2026, paralizando los servicios de Cercanías y Rodalies. Tras negociaciones con el Ministerio de Transportes, decidieron posponer el paro que estaba previsto para el jueves, a la espera de compromisos gubernamentales sobre seguridad ferroviaria.",
+      "que_paso": "La borrasca Charles, que se ha unido a la ya activa Bruna, provocó vientos huracanados y lluvias intensas tanto en Canarias como en la península, generando incidentes en infraestructuras y servicios. El fenómeno desplazó su mayor intensidad al interior de la península a mediodía, elevando la alerta de inundaciones en el río Tormes.",
       "datos": [
-        "La huelga comenzó el martes 23 de noviembre de 2026",
-        "El sindicato implicado es Semaf, de maquinistas",
-        "Los servicios afectados fueron Cercanías y Rodalies",
-        "El paro programado para el jueves 24 de noviembre fue aplazado",
-        "El Gobierno anunció avances para reforzar la seguridad ferroviaria"
+        "Vientos de hasta 148 km/h registrados en Canarias y 147 km/h en Sierra Nevada",
+        "Más de 80 litros por metro cuadrado de lluvia acumulados en Ávila, Cáceres, Badajoz, Sevilla y Huelva",
+        "27 cancelaciones y 11 desvíos de vuelos en aeropuertos canarios según Aena",
+        "Suspensión de clases presenciales en Tenerife, La Palma y La Graciosa por decisión del Gobierno de Canarias",
+        "Caudal del río Tormes de 942,1 m³/s y nivel de 5,27 m en Puente del Congosto (Salamanca)",
+        "La borrasca Bruna multiplicó por 30 el caudal del Tormes en la estación de El Barco de Ávila"
       ],
-      "conclusion": "El aplazamiento del paro muestra la capacidad de presión del sindicato y subraya la necesidad de que el Gobierno cumpla sus compromisos de seguridad para evitar futuras interrupciones en el transporte ferroviario."
+      "conclusion": "Este episodio subraya la necesidad de planes de contingencia robustos para operaciones logísticas y de recursos humanos ante eventos meteorológicos extremos, ya que pueden interrumpir transporte, infraestructura y actividades críticas."
     },
     {
-      "title": "Los maquinistas mueven la huelga del día 12 al 23 para tener margen de negociación tras la aprobación del decreto en el Consejo de Ministros",
-      "url": "https://www.eldiario.es/economia/maquinistas-mueven-huelga-dia-12-23-margen-negociacion-aprobacion-decreto-consejo-ministros_1_13653720.html",
-      "image": "https://static.eldiario.es/clip/928a02fc-1908-4dbc-9253-8a01ece1780a_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
+      "title": "El papa León XIV regresa a Perú, el país que fue su casa y donde forjó su misión",
+      "url": "https://elpais.com/america/2026-11-11/el-papa-regresa-a-peru-el-pais-que-fue-su-casa-y-donde-forjo-su-mision.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/FNTQICLDFJDVRO3B6BJPTUK26I.jpg?auth=e6878817662156056f47de358aa4b74a22a4e684ac06049c3301002fd4b98a5f&width=1200",
+      "source": "El País",
       "language": "es",
-      "que_paso": "Semaf decidió posponer la huelga prevista para el 12 de noviembre y reprogramarla para el 23, aprovechando la aprobación por el Consejo de Ministros de un decreto de seguridad ferroviaria. La medida busca crear un margen de negociación con el Ejecutivo antes de que el texto sea publicado en el BOE y mientras mantiene la presión con otra convocatoria el 17 de noviembre.",
+      "que_paso": "El papa León XIV llegó a Lima y comenzará una visita de seis días por Perú, donde pasará por Chiclayo, Cuzco y Pucallpa, reuniéndose con comunidades indígenas y autoridades locales. La presidenta Keiko Fujimori lo recibió al aterrizar y ha calificado la visita como un bálsamo en medio de la polarización y la violencia del crimen organizado.",
       "datos": [
-        "El sindicato Semaf anunció el 11 de noviembre de 2026 el aplazamiento de la huelga del 12 al 23 de noviembre.",
-        "El Consejo de Ministros aprobó el Real Decreto‑ley de medidas urgentes para el refuerzo de la seguridad operacional en el transporte ferroviario y la protección social de los profesionales del sector.",
-        "El decreto entrará en vigor tras su publicación en el Boletín Oficial del Estado (BOE).",
-        "Semaf mantendrá una convocatoria de huelga el 17 de noviembre en todo el sector, además de la del 23 de noviembre.",
-        "El comunicado del sindicato afirma que es la primera vez que el Ejecutivo autoriza el decreto tras la presión de una huelga."
+        "León XIV pasó previamente veinte años como misionero y obispo en Perú, y se nacionalizó peruano.",
+        "Durante la gira ya ha visitado Uruguay y Argentina antes de llegar a Perú.",
+        "El 67 % de la población peruana se declara católica.",
+        "La visita está programada para durar seis días, cubriendo Chiclayo, Cuzco y Pucallpa.",
+        "Keiko Fujimori acaba de cumplir sus primeros 100 días de mandato.",
+        "Varias zonas del país están en estado de emergencia por lluvias asociadas al fenómeno del Niño."
       ],
-      "conclusion": "El aplazamiento brinda al sindicato un espacio de negociación para conseguir la publicación definitiva del decreto, lo que podría mejorar la seguridad operativa del ferrocarril y afectar la planificación de servicios en noviembre."
+      "conclusion": "La presencia del papa refuerza la influencia de la Iglesia en un país con alta afiliación católica y puede servir como apoyo político a la presidenta en un contexto de violencia y polarización."
     },
     {
-      "title": "The Company That Published Fake Journalists in Sports Illustrated is Collapsing Dramatically After Massive AI Rebrand",
-      "url": "https://futurism.com/artificial-intelligence/company-fake-journalists-sports-illustrated-collapsing-ai",
-      "image": "https://futurism.com/wp-content/uploads/2026/11/company-fake-sports-illustrated-ai-collapsed.jpg?w=1200",
-      "source": "Futurism",
-      "language": "en",
-      "que_paso": "Paradium.AI, the former Arena Group, disclosed a $3.6 million net loss for Q3 2026 and saw its share price tumble about 14% to roughly $0.077 after unveiling an aggressive AI‑centric rebrand and new tools. The company blamed the loss on a sharp drop in referral traffic, a $1.3 million reversal of a tax‑credit asset, and broader industry distribution challenges, even as it reported a 15% increase in article output using AI.",
-      "datos": [
-        "Net loss of $3.6 million in Q3 2026",
-        "Q3 2025 revenue was about 30% higher and generated a $6.9 million profit",
-        "Stock fell roughly 14% on the announcement, trading near $0.077",
-        "Company rebranded from The Arena Group to Paradium in August 2026",
-        "A $1.3 million employee retention tax credit was reversed and disallowed",
-        "AI tools enabled a 15% rise in article volume compared with Q2"
-      ],
-      "conclusion": "The results show that scaling content with AI does not offset losses from traffic and ad revenue declines, highlighting the need for robust distribution strategies alongside technology investments."
-    },
-    {
-      "title": "Man Sues Kalshi After Losing Over $300,000 Gambling on Platform",
-      "url": "https://futurism.com/future-society/man-sues-kalshi-losing-gambling",
-      "image": "https://futurism.com/wp-content/uploads/2026/11/man-sues-kalshi-losing-gambling.jpg?w=1200",
-      "source": "Futurism",
-      "language": "en",
-      "que_paso": "Scott Bright, a Bellevue resident, filed a lawsuit in Washington in September seeking $580,000 after losing about $308,000 betting on sports through prediction market platform Kalshi. Kalshi responded with a motion to dismiss on October 30, arguing its event contracts are regulated under the Commodity Exchange Act, while several state attorneys general label the platform an illegal online casino. The case emerges amid heightened political scrutiny of prediction markets following recent Democratic electoral gains.",
-      "datos": [
-        "Plaintiff Scott Bright lost $308,000 on hundreds of sports bets on Kalshi",
-        "Bright is suing for $580,000 in damages",
-        "Kalshi filed a motion to dismiss the suit on October 30, asserting compliance with the CEA and CFTC regulations",
-        "New York Attorney General Letitia James accused Kalshi of running an illegal gambling operation in late July 2026",
-        "Arkansas Attorney General Tim Griffin publicly condemned Kalshi’s wagering on Razorbacks games as prohibited under state law",
-        "Washington previously obtained a court order restricting Kalshi’s operations, which took effect after Bright’s losses"
-      ],
-      "conclusion": "The lawsuit tests whether prediction‑market contracts can be treated as regulated commodities or illegal gambling, a distinction that will shape future compliance and liability for platforms like Kalshi."
-    },
-    {
-      "title": "Primeros logros de la investigación de Maldita.es: TikTok restringe dos de los términos de búsqueda que mostraban contenido de abuso sexual infantil y empieza a borrar contenido",
-      "url": "https://maldita.es/investigaciones/20261110/tiktok-restringe-busquedas-abuso-sexual-infantil-maldita/",
-      "image": "https://files.maldita.es/uploads/portada-impacto-tiktok-buscador-6af34f7a23f39.webp",
-      "source": "Maldita.es",
+      "title": "El Black Friday se adelanta con la TCL C6K Pro: una tele Mini LED de gama alta con Google TV, de 55 a 85 pulgadas (y hasta 98 con la C6K)",
+      "url": "https://www.xataka.com/seleccion/black-friday-se-adelanta-tcl-c6k-pro-tele-mini-led-gama-alta-google-tv-55-a-85-pulgadas-98-c6k",
+      "image": "https://i.blogs.es/f01084/2-1-1-/840_560.jpeg",
+      "source": "Xataka",
       "language": "es",
-      "que_paso": "TikTok ha limitado en España la aparición de dos términos de búsqueda vinculados a contenido de abuso sexual infantil, tras la publicación de la investigación de Maldita.es y la presentación de una denuncia. La medida afecta a algunos usuarios y variantes de la plataforma, y ha provocado la eliminación de varios vídeos denunciados.",
+      "que_paso": "Con la llegada anticipada del Black Friday, TCL ha puesto a la venta su televisor premium C6K Pro, una pantalla Mini LED con tecnología QD‑MiniLED y sistema Google TV, disponible en varios tamaños y promocionada en MediaMarkt. La oferta se dirige a consumidores que buscan alta calidad de imagen para cine, deporte o videojuegos sin pagar precios de gama alta.",
       "datos": [
-        "Los términos restringidos son \"Pizza Seller\" (y sus variantes) y \"VGK\".",
-        "La restricción comenzó el 10 de noviembre de 2026, cuando la búsqueda dejó de devolver resultados y mostró un aviso de posible violación de normas.",
-        "El 9 de noviembre de 2026 ambas búsquedas todavía mostraban perfiles y vídeos con contenido abusivo.",
-        "Maldita.es había señalado al menos uno de esos términos en una investigación anterior, \"Depredadores de TikTok 2: un bufé libre para más de 1.300 pedófilos\", hace más de seis meses.",
-        "Maldita.es presentó una denuncia ante la Fiscalía de Criminalidad Informática de España y el Ministerio de Juventud e Infancia solicitó a la Fiscalía General del Estado que investigue la plataforma."
+        "El modelo de 55 pulgadas tiene un precio de 479 euros en MediaMarkt",
+        "El televisor está disponible en tamaños de 55, 65, 75 y 85 pulgadas (hasta 98 pulgadas con la versión C6K)",
+        "Utiliza tecnología QD‑MiniLED con retroiluminación de diodos miniaturizados y capa de quantum dots para mejorar contraste y reproducción de color",
+        "Incluye el sistema operativo Google TV y la función Gemini para búsqueda y recomendaciones de contenido",
+        "Para una distancia de visualización de 2,5‑3 metros se recomienda una pantalla de 75 pulgadas para una experiencia cinematográfica"
       ],
-      "conclusion": "La reacción rápida de TikTok muestra que la presión legal y mediática puede forzar cambios operativos en plataformas digitales, lo que implica que las organizaciones deben vigilar activamente el cumplimiento de normas de contenido para mitigar riesgos reputacionales y regulatorios."
+      "conclusion": "Esta oferta combina una tecnología de imagen avanzada con un precio competitivo, lo que permite a los usuarios mejorar su entorno de entretenimiento o trabajo visual sin una gran inversión, facilitando decisiones de compra basadas en datos concretos."
     },
     {
-      "title": "Fundación Maldita.es meets PP leader Alberto Núñez-Feijóo to present its investigation into child sexual abuse on TikTok",
-      "url": "https://maldita.es/investigaciones/20261110/feijoo-meeting-maldita-tiktok-investigation/",
-      "image": "https://files.maldita.es/uploads/portada-impacto-tiktok-feijoo-6af348fa0d292.webp",
-      "source": "Maldita.es",
+      "title": "Startup lanza modelo de IA que usa neuronas para hacer videos",
+      "url": "https://robotitus.com/startup-lanza-modelo-de-ia-que-usa-neuronas-para-hacer-videos/",
+      "image": "https://robotitus.com/wp-content/uploads/2026/11/Neuronas-chip.jpg",
+      "source": "Robotitus",
       "language": "es",
-      "que_paso": "El presidente del Partido Popular, Alberto Núñez Feijóo, se reunió el 10 de noviembre con la Fundación Maldita.es para revisar los resultados de su estudio sobre contenido sexual infantil en TikTok. La reunión se produce justo después de que el presidente del Gobierno, Pedro Sánchez, declarara su disposición a suspender la red si fuera necesario y el Ministerio de Juventud e Infancia solicitara a la Fiscalía una investigación.",
+      "que_paso": "El 30 de octubre, The Biological Computing Co. (TBC) presentó el modelo de IA Mischief 1, que emplea datos de actividad eléctrica de neuronas cultivadas para acelerar la generación de videos a partir de imágenes. El sistema funciona con software y hardware convencional, sin que los usuarios interactúen directamente con las neuronas, y ya está disponible en plataformas como fal y OpenRouter.",
       "datos": [
-        "La investigación de Maldita.es identificó 1.183 publicaciones con abuso sexual infantil en 35 días.",
-        "Esas publicaciones acumularon 48 millones de visualizaciones.",
-        "Se detectaron más de 20.000 perfiles de posibles depredadores, de los cuales más de 7.000 estaban en español.",
-        "De los 50 vídeos denunciados a TikTok, la plataforma eliminó solo 5.",
-        "Maldita.es presentó una denuncia contra TikTok ante la Fiscalía de Criminalidad Informática."
+        "TBC Mischief 1 está basado en el modelo Wan 2.2",
+        "La compañía afirma que genera videos hasta cinco veces más rápido que el modelo original",
+        "La adaptación representa menos del 0,1 % de los parámetros del modelo original",
+        "En investigaciones previas TBC utilizó una matriz de 4096 electrodos para registrar la actividad neuronal",
+        "El precio es 0,005 USD por segundo para videos de 480p y 0,01 USD por segundo para 720p"
       ],
-      "conclusion": "El escaso número de eliminaciones y la denuncia judicial subrayan la necesidad de una intervención regulatoria más firme para proteger a menores en plataformas digitales. Para los operadores, implica riesgos legales y de reputación si no se adoptan medidas de control más estrictas."
+      "conclusion": "Si la velocidad anunciada se confirma, los desarrolladores podrán producir contenido audiovisual a menor costo y con plazos más cortos, lo que podría acelerar prototipos y pruebas en proyectos de IA visual."
     },
     {
-      "title": "Pedro Sánchez on the Maldita.es investigation into TikTok: “If we have to suspend a social network, we will”",
-      "url": "https://maldita.es/investigaciones/20261110/politicians-react-maldita-tiktok-investigation/",
-      "image": "https://files.maldita.es/uploads/portada-impacto-tiktok-reacciones-6af348f980de4.webp",
-      "source": "Maldita.es",
+      "title": "Estas mochilitas para ratas podrían ayudar a encontrar sobrevivientes de terremotos",
+      "url": "https://robotitus.com/estas-mochilitas-para-ratas-podrian-ayudar-a-encontrar-sobrevivientes-de-terremotos/",
+      "image": "https://robotitus.com/wp-content/uploads/2026/11/Ratas.jpg",
+      "source": "Robotitus",
       "language": "es",
-      "que_paso": "El presidente Pedro Sánchez declaró el 9 de noviembre que está dispuesto a suspender TikTok en España tras la denuncia de Maldita.es sobre más de mil videos de abuso sexual infantil, y el Gobierno ha solicitado a la Fiscalía que investigue la plataforma.",
+      "que_paso": "APOPO ha equipado a ratas gigantes africanas con mochilas tecnológicas de menos de 100 g para que puedan adentrarse en edificios derrumbados y localizar sobrevivientes. El primer grupo de estos \"RescueRATs\" ya ha sido entrenado en Morogoro, Tanzania, y enviado a Turquía para pruebas operativas tras el terremoto de 2023.",
       "datos": [
-        "Maldita.es documentó más de 1.000 videos de abuso sexual infantil en TikTok.",
-        "La declaración de Sánchez se realizó el 9 de noviembre de 2026 en una entrevista con Javier Ruiz en La Séptima.",
-        "El Ministerio de Juventud e Infancia pidió a la Fiscalía General del Estado que investigue a TikTok el mismo día.",
-        "La ministra Sira Rego describió los hechos como \"gravísimos\" en un comunicado oficial.",
-        "El presidente del PP, Alberto Núñez Feijóo, se reunió con Maldita.es el 10 de noviembre para revisar la investigación."
+        "El prototipo inicial de la mochila se construyó en 2019.",
+        "La mochila actual pesa menos de 100 gramos y permite transmitir imágenes y sonido durante unos 35 minutos.",
+        "El primer grupo de RescueRATs fue trasladado a Turquía en junio de 2026 para pruebas de campo.",
+        "El terremoto de febrero 2023 en Turquía dejó más de 40 000 muertos.",
+        "El entrenamiento de los roedores se realiza en Morogoro, Tanzania.",
+        "APOPO está investigando SLAM como alternativa al GPS en entornos de escombros."
       ],
-      "conclusion": "Esta postura indica que el Gobierno podría usar medidas de suspensión para obligar a las plataformas a proteger a menores, lo que obliga a TikTok a reforzar sus controles de contenido en España."
+      "conclusion": "Estas ratas ofrecen una solución ágil y de bajo costo para buscar víctimas en espacios inaccesibles, complementando a humanos y robots en operaciones de rescate."
     },
     {
-      "title": "Steam Deck performance gets a reality check with Valve's new FPS data",
-      "url": "https://arstechnica.com/gaming/2026/11/steam-deck-performance-gets-a-reality-check-with-valves-new-fps-data/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_8144-scaled-1152x648-1794329069.jpg",
+      "title": "\"En el Vaticano hay una guerra entre dos bandos en la que los abusos sexuales se han convertido en un arma, y eso es suicida\"",
+      "url": "https://www.bbc.com/mundo/articles/cm75pk2zx53xo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/news/1200/branded_mundo/3855/live/328130d0-de0b-11f1-9bc2-bf52ab7d7138.jpg",
+      "source": "BBC Mundo",
+      "language": "es",
+      "que_paso": "El 8 de mayo de 2025 el cardenal estadounidense Robert Prevost fue anunciado como el Papa León XIV desde el balcón de la Basílica de San Pedro, y el periodista peruano Santiago Roncagliolo recibió el encargo de escribir una biografía que combina su propia historia con la del nuevo pontífice. Roncagliolo ha recorrido las regiones peruanas donde Prevost ejerció su labor pastoral y prepara la publicación del libro “El pastor y los lobos” justo antes de la visita oficial del Papa a Perú, programada del miércoles hasta el 16 de noviembre de 2026.",
+      "datos": [
+        "8 de mayo de 2025: anuncio del Papa León XIV (Robert Prevost) en la Basílica de San Pedro",
+        "Santiago Roncagliolo, periodista peruano, autor de “El pastor y los lobos”",
+        "Prevost sirvió como misionero en Perú y luego como obispo de Chiclayo",
+        "Hay Festival de Arequipa se celebró del 5 al 8 de noviembre de 2026",
+        "Visita oficial del Papa a Perú prevista del miércoles hasta el 16 de noviembre de 2026",
+        "1,400 millones de personas siguen al Papa según la reflexión del autor"
+      ],
+      "conclusion": "El libro revela cómo la trayectoria del Papa, marcada por la teología de la liberación y la experiencia en Perú, puede influir en la percepción global de la Iglesia, ofreciendo al lector una lección sobre el impacto de líderes carismáticos en grandes audiencias y la necesidad de comprender contextos locales al diseñar estrategias operativas."
+    },
+    {
+      "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/TSMC-Fab-18-1152x648.jpg",
       "source": "Ars Technica",
       "language": "en",
-      "que_paso": "Valve started publishing anonymized average frame‑rate data and histograms for both the Steam Deck and Steam Deck OLED on Steam Store pages, giving players a concrete performance reference that goes beyond the generic “Verified” badge and “Unsupported” labels.",
+      "que_paso": "TSMC's board approved a $1 billion investment, allocating $500 million to OpenAI preferred stock and $500 million to buy Anthropic shares at its anticipated IPO price, linking the chipmaker directly with two leading AI developers amid a broader AI financing trend.",
       "datos": [
-        "Valve announced the data sharing on November 10, 2026 after collecting opt‑in frame‑rate data since February 2026.",
-        "Cyberpunk 2077 shows average frame rates of 30–40 FPS on the Steam Deck, while Skyrim: Special Edition averages 50–60 FPS.",
-        "Assassin’s Creed Syndicate reaches an average of about 60 FPS on the Steam Deck OLED despite being listed as “Unsupported.”",
-        "Watch Dogs 2’s single‑player mode averages over 40 FPS on the Steam Deck, even though the game is marked “Unsupported” for multiplayer due to anti‑cheat issues.",
-        "In April 2026, JSON files in the Steam client hinted at a potential “Framerate Estimator” tool for users to predict performance on custom PC configurations."
+        "The investment totals $1 billion, split equally between OpenAI and Anthropic.",
+        "TSMC reported over $23 billion profit for the July‑September 2026 quarter, marking its sixth consecutive record quarter.",
+        "Nvidia has previously invested $30 billion in OpenAI and $10 billion in Anthropic.",
+        "TSMC manufactures the majority of Nvidia's AI data‑center chips and most of Apple’s custom silicon.",
+        "TSMC operates fabs in Taiwan, Japan, China, the United States (Arizona) and is building a new fab in Germany."
       ],
-      "conclusion": "The real‑world FPS data lets users and developers make informed decisions about game compatibility and performance expectations, reducing reliance on vague verification labels."
+      "conclusion": "The move deepens TSMC's financial stake in AI model providers, underscoring its confidence in sustained AI hardware demand while exposing it to potential valuation circularity risks."
+    },
+    {
+      "title": "La huelga deja al menos 75 detenidos y un millar de incidencias en toda España",
+      "url": "https://www.europapress.es/nacional/noticia-act3-huelga-deja-ya-mas-50-detenidos-919-incidencias-toda-espana-20261111190915.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261111190915_1200.jpg",
+      "source": "Europa Press Ciencia",
+      "language": "es",
+      "que_paso": "El 11 de noviembre, trabajadores y activistas de distintos sectores organizaron una huelga general para exigir mejoras en el acceso a la vivienda y en los salarios. La jornada se tornó violenta, con disturbios en Barcelona y Madrid que culminaron en decenas de detenciones y más de mil incidencias reportadas por las autoridades.",
+      "datos": [
+        "La huelga general se llevó a cabo el 11 de noviembre de 2026.",
+        "Se registraron al menos 75 detenciones en toda España.",
+        "Se contabilizaron 1.044 incidencias durante la jornada.",
+        "Las protestas se concentraron en Barcelona y Madrid.",
+        "El reclamo principal fue el acceso a la vivienda y la mejora salarial.",
+        "Sindicatos y partidos de izquierda criticaron la actuación policial contra los piquetes."
+      ],
+      "conclusion": "El elevado número de detenciones y la dispersión de incidencias evidencian riesgos operativos y de seguridad que las empresas deben integrar en sus planes de contingencia, mientras que la presión por vivienda y salarios sugiere posibles aumentos de costos laborales que requieren ajustes financieros."
+    },
+    {
+      "title": "U.S. Efforts to Tighten Blockade of Iran Rely on Reluctant Neighbors",
+      "url": "https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html",
+      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/00int-iran-blockade-01-fvqw/00int-iran-blockade-01-fvqw-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "The United States is moving to tighten economic pressure on Iran by proposing to seal the country’s overland crossing points. This initiative is encountering pushback from the nations that share those borders, which warn that cutting trade routes would damage their own economies. The approach is part of a broader U.S. effort to increase leverage over Tehran without resorting to military action.",
+      "datos": [
+        "Washington announced plans to close Iran's land borders as part of an intensified economic pressure campaign.",
+        "Iran is the target of the proposed border closures.",
+        "Neighboring states have expressed opposition, citing potential economic fallout.",
+        "The proposal focuses on overland crossing points rather than maritime routes."
+      ],
+      "conclusion": "If enacted, the border closures could disrupt regional supply chains and force neighboring governments to weigh U.S. pressure against their own economic stability."
+    },
+    {
+      "title": "Prisión provisional para el hermano de Orbán implicado en una supuesta trama de visados",
+      "url": "https://www.europapress.es/internacional/noticia-prision-provisional-hermano-orban-implicado-supuesta-trama-visados-20261111185916.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261111185916_1200.jpg",
+      "source": "Europa Press Tecnología",
+      "language": "es",
+      "que_paso": "Un tribunal húngaro ordenó la detención preventiva de Aron Orbán, hermano menor del expresidente Viktor Orbán, y de su pareja tras investigarse su presunta participación en una red de concesión de visados. La medida se produce en medio de una polémica sobre la gestión de permisos de residencia en Hungría y la posible implicación de miembros de la familia del exmandatario.",
+      "datos": [
+        "Aron Orbán es el hermano menor de Viktor Orbán",
+        "Viktor Orbán fue primer ministro de Hungría hasta 2023",
+        "El tribunal húngaro decretó prisión provisional para ambos acusados",
+        "La acusación se basa en una supuesta trama de concesión de visados",
+        "La pareja de Aron Orbán también está bajo custodia preventiva"
+      ],
+      "conclusion": "El caso indica que incluso los allegados al poder pueden enfrentar procesos judiciales, lo que podría afectar la percepción de impunidad en la política húngara y generar presión para reformas en la gestión de visados."
+    },
+    {
+      "title": "Móviles, electrodomésticos e incluso LEGOs: así son las mejores ofertas del 11-11 de Miravia",
+      "url": "https://www.xataka.com/seleccion/moviles-electrodomesticos-e-incluso-legos-asi-mejores-ofertas-11-11-miravia",
+      "image": "https://i.blogs.es/e6c946/miravia-auriculares-y-movil/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "Miravia ha lanzado su campaña de ofertas del 11‑11, ofreciendo descuentos muy agresivos en una selección de productos tecnológicos y de ocio hasta las 23:59 del día. La promoción incluye un smartphone, auriculares Bose, un set LEGO de Pokémon, el mando DualSense de PS5 y una freidora de aire de Cecotec, todos con cupones de descuento. La iniciativa se publica en Xataka y está sujeta a disponibilidad y a enlaces afiliados.",
+      "datos": [
+        "El móvil con procesador Snapdragon 6 Gen 3, 12 GB de RAM y 512 GB de almacenamiento se vende por 225,98 € con el cupón 30D1105.",
+        "Los auriculares Bose QuietComfort con cancelación activa de ruido y clasificación IPX4 cuestan 105,00 € usando el cupón 15D1105.",
+        "El set LEGO Pokémon de Rayquaza, de 1 083 piezas, tiene un precio de 87,49 € con el cupón 10D1110.",
+        "El mando DualSense de PlayStation 5 está disponible por 53,78 € con el cupón 10D1110.",
+        "La freidora de aire Cecotec de doble cesta, 9 L y 2 850 W, se oferta a 69,89 € con el cupón 10D1110.",
+        "Todas las ofertas son válidas hasta el 11‑11 a las 23:59 y pueden variar si el producto no está disponible."
+      ],
+      "conclusion": "Estas ofertas demuestran la intensidad de la competencia en el comercio electrónico durante el Singles' Day, ofreciendo a los compradores oportunidades de adquirir tecnología y ocio a precios reducidos, lo que puede influir en decisiones de compra corporativas y de consumo."
+    },
+    {
+      "title": "Rusia anuncia la desarticulación de una red de agentes que espiaban para Polonia",
+      "url": "https://www.europapress.es/internacional/noticia-rusia-anuncia-desarticulacion-red-agentes-espiaban-polonia-20261111184530.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261111184530_120.jpg",
+      "source": "Europa Press Tecnología",
+      "language": "es",
+      "que_paso": "El Servicio Federal de Seguridad (FSB) informó que desmanteló una célula de espionaje vinculada a la inteligencia polaca en la zona de Kaliningrado, capturando a dos individuos sospechosos de recopilar información para Varsovia. El FSB también señaló que la red había estado activa durante varios meses antes de ser descubierta.",
+      "datos": [
+        "El anuncio fue realizado por el FSB el 12 de noviembre de 2026",
+        "La operación se centró en la región de Kaliningrado, enclave ruso fronterizo con Polonia y Lituania",
+        "Los sospechosos fueron detenidos bajo cargos de espionaje a favor de la Inteligencia de Polonia",
+        "El número de agentes desarticulados se limitó a dos personas según el comunicado oficial"
+      ],
+      "conclusion": "Este caso evidencia una escalada de actividades de inteligencia entre Rusia y Polonia, lo que implica mayores riesgos de seguridad para operaciones transfronterizas y la necesidad de reforzar protocolos de protección de información."
+    },
+    {
+      "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
+      "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bigwalkdebate-1152x648.png",
+      "source": "Ars Technica",
+      "language": "en",
+      "que_paso": "House House, the studio behind the indie co‑op puzzle game Big Walk, publicly admitted using a large language model to fix a Unity engine bug after a group of Independent Games Festival jurors announced a stance against games that employ generative AI, sparking a debate about AI disclosure in indie development.",
+      "datos": [
+        "19 members of the 50‑plus‑member IGF jury released a signed statement on Monday refusing to vote for any game that uses generative AI",
+        "House House said the AI‑generated code accounts for well under 0.1% of Big Walk’s total codebase",
+        "The AI‑suggested fix was distilled into 10 lines of code that were added to the final game",
+        "The bug involved infinite‑length shadows in Unity that slowed the game in certain situations",
+        "Valve’s AI disclosure form for developers only addresses AI‑generated content, not efficiency gains from AI‑powered tools"
+      ],
+      "conclusion": "The incident shows that award bodies and platforms may soon enforce stricter AI‑usage transparency, so indie developers should proactively disclose any AI assistance to avoid reputational and eligibility risks."
+    },
+    {
+      "title": "PP y Vox arremeten contra la izquierda por su plante en el pleno de Presupuestos de Andalucía el día de la huelga",
+      "url": "https://elpais.com/espana/2026-11-11/pp-y-vox-arremeten-contra-la-izquierda-por-su-plante-en-el-pleno-de-presupuestos-de-andalucia-el-dia-de-la-huelga.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/OFRA3Z5T3VM7ZM66VU4SSQLMVY.jpg?auth=324b0161a5775b07c9092ce5f4bf918f745302752040b1507b11ba3bdf04149d&width=1200",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "En la sesión del Parlamento andaluz se aprobaron los primeros presupuestos pactados entre el PP y Vox mientras los partidos de izquierda (PSOE, Adelante Andalucía y Por Andalucía) se ausentaron en apoyo a la huelga general, lo que dejó el pleno sin voces opositoras y permitió que el gobierno hablara sin interrupciones.",
+      "datos": [
+        "12 de noviembre de 2026, fecha de la votación del presupuesto",
+        "41 escaños de la oposición quedaron vacíos en el pleno",
+        "Los partidos ausentes fueron PSOE, Adelante Andalucía y Por Andalucía",
+        "Juan Manuel Moreno, presidente de la Junta de Andalucía, abrió el debate con reproches a la oposición",
+        "Carolina España, consejera de Economía y Hacienda, calificó la ausencia de la izquierda como \"un fraude a la democracia\"",
+        "Javier Cortés, portavoz de Vox, describió al gobierno de Pedro Sánchez como \"el mafioso gobierno\""
+      ],
+      "conclusion": "La ausencia de la oposición permitió al PP‑Vox aprobar su proyecto sin resistencia, lo que plantea dudas sobre la representatividad del proceso legislativo y su impacto en la política fiscal de Andalucía."
+    },
+    {
+      "title": "La salida a bolsa de Anthropic se estaba desinflando. Ahora tiene más demanda institucional que SpaceX",
+      "url": "https://www.xataka.com/empresas-y-economia/salida-a-bolsa-anthropic-se-estaba-desinflando-ahora-tiene-demanda-institucional-que-spacex",
+      "image": "https://i.blogs.es/444707/amodei/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "Anthropic ha reducido la horquilla de precios de su IPO a 70‑78 dólares por acción, valorando la compañía entre 1,26 y 1,41 billones de dólares, y la demanda institucional supera a la que tenía SpaceX en su salida. Los bancos colocadores consideran subir el rango tras cubrir toda la oferta, y la compañía fijará el precio el 18 de noviembre para cotizar en Nasdaq el 19 bajo el ticker $ANT.",
+      "datos": [
+        "Rango de precios fijado: 70‑78 dólares por acción.",
+        "Valoración estimada: entre 1,26 y 1,41 billones de dólares.",
+        "Fecha límite para fijar el precio: 18 de noviembre de 2026; cotización prevista el 19 de noviembre en Nasdaq con el ticker $ANT.",
+        "Colocación privada de 26.000 millones de dólares proviene de AMD, Broadcom, Google, Micron, Microsoft, NVIDIA y TSMC, con NVIDIA aportando aproximadamente 10.000 millones.",
+        "Los empleados pueden vender hasta el 10 % de sus acciones el primer día, lo que representa hasta 25.000 millones de dólares, y el 20 % de la oferta se destinará a pequeños inversores."
+      ],
+      "conclusion": "La fuerte demanda institucional indica que Anthropic podría iniciar su cotización con una valoración sólida, pero la posibilidad de ventas masivas de empleados el primer día introduce volatilidad que los inversores deben vigilar."
+    },
+    {
+      "title": "Hackers roban 6.9 mil millones de dolares en criptomonedas",
+      "url": "https://robotitus.com/hackers-roban-6-9-mil-millones-de-dolares-en-criptomonedas/",
+      "image": "https://robotitus.com/wp-content/uploads/2026/11/Binance.jpg",
+      "source": "Robotitus",
+      "language": "es",
+      "que_paso": "Binance sufrió un ataque informático que resultó en el robo de varios miles de millones de dólares de sus billeteras calientes. Las investigaciones apuntan a un grupo de hackers vinculado al régimen norcoreano, mientras la empresa intenta congelar fondos y cubrir las pérdidas.",
+      "datos": [
+        "Los hackers extrajeron aproximadamente 6.360 millones de dólares de diez redes blockchain, según el análisis de TRM.",
+        "Binance dispone de más de 6.340 millones de dólares de fondos propios para compensar a los usuarios.",
+        "Cerca de 3.000 millones de dólares en criptomonedas fueron congelados por Binance y socios.",
+        "El mayor volumen de fondos fue transferido en menos de 20 minutos.",
+        "El presidente de EE. UU. confirmó que su gobierno está examinando una posible participación de Corea del Norte."
+      ],
+      "conclusion": "El incidente subraya la vulnerabilidad de las billeteras calientes y la necesidad de reforzar la seguridad en los exchanges, además de evidenciar el uso de cripto‑robos para financiar actividades estatales."
+    },
+    {
+      "title": "Silicon Valley Tech Allies Support Jensen Huang",
+      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-nvidia-support.html",
+      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-jensen-support-cmpv/10biz-jensen-support-cmpv-mediumSquareAt3X.jpg",
+      "source": "NYT Tech",
+      "language": "en",
+      "que_paso": "Elon Musk and several other Silicon Valley leaders publicly described Jensen Huang’s recent romantic involvement with a woman suspected of Chinese espionage as a personal mistake rather than a breach of corporate security. Their comments aim to separate the incident from broader security concerns at Nvidia.",
+      "datos": [
+        "Elon Musk publicly commented on Jensen Huang’s situation.",
+        "Other unnamed Silicon Valley figures echoed Musk’s view.",
+        "Jensen Huang is the chief executive of Nvidia.",
+        "The woman involved is alleged to be a Chinese intelligence operative.",
+        "The commentators framed the incident as a personal lapse, not a security failure."
+      ],
+      "conclusion": "By portraying the episode as a personal lapse, the narrative downplays potential espionage risks and may affect how investors and regulators evaluate Nvidia’s overall security posture."
+    },
+    {
+      "title": "‘Fight Harder,’ U.N. Chief António Guterres Implores, Rousing Climate Ambassadors at COP31",
+      "url": "https://www.nytimes.com/2026/11/11/climate/cop31-antonio-guterres-un.html",
+      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11CLI-COP-LEADERS-jvcq/11CLI-COP-LEADERS-jvcq-mediumSquareAt3X.jpg",
+      "source": "NYT Science",
+      "language": "en",
+      "que_paso": "UN Secretary‑General António Guterres addressed the delegates at COP31, urging them to “Fight Harder” on climate action. His remarks came as the conference experienced a noticeable decline in the number of attending heads of state, contrasting with previous summits.",
+      "datos": [
+        "António Guterres, Secretary‑General of the United Nations, delivered the opening remarks at COP31.",
+        "COP31 is the 31st Conference of the Parties to the UN Framework Convention on Climate Change, scheduled for November 2026.",
+        "The summit’s agenda centers on accelerating emissions reductions.",
+        "World‑leader attendance was reported as sharply lower than at prior COP meetings.",
+        "Guterres used the phrase “Fight Harder” in his speech to motivate stronger climate commitments."
+      ],
+      "conclusion": "The reduced presence of national leaders weakens political momentum for ambitious climate policies, making Guterres’s call for tougher action a critical reminder for operational planners to prioritize concrete emission‑cut initiatives."
+    },
+    {
+      "title": "Investigadores resuelven el misterio de las redes eléctricas",
+      "url": "https://robotitus.com/investigadores-resuelven-el-misterio-de-las-redes-electricas/",
+      "image": "https://robotitus.com/wp-content/uploads/2026/11/Redes-electricas.jpg",
+      "source": "Robotitus",
+      "language": "es",
+      "que_paso": "Un equipo de científicos de los centros de Jülich, Colonia y Karlsruhe analizó durante años las variaciones de frecuencia de la red eléctrica europea y descubrió que la caída periódica de 60 s se debía a las baterías de respaldo que realizan una verificación de carga cada minuto. Al instalar sensores en 80 puntos del Living Lab Energy Campus confirmaron que los picos de consumo coincidían con el inicio de esas comprobaciones. El hallazgo sugiere que la sincronización de miles de dispositivos puede generar pequeñas perturbaciones en la red.",
+      "datos": [
+        "Los investigadores instalaron equipos de medición en 80 puntos del Living Lab Energy Campus en Jülich.",
+        "El estudio fue publicado en la revista Nature Energy.",
+        "En Irlanda la intensidad de la señal periódica se cuadruplicó entre 2016 y 2021.",
+        "Las baterías de respaldo realizan una comprobación de su nivel de carga una vez por minuto, provocando picos de consumo.",
+        "El equipo de investigación incluyó científicos del centro de Jülich y de las universidades de Colonia y Karlsruhe."
+      ],
+      "conclusion": "El descubrimiento indica que la sincronización de verificaciones en sistemas de almacenamiento afecta la estabilidad y el desgaste de la infraestructura eléctrica, por lo que distribuir aleatoriamente esas comprobaciones puede reducir las fluctuaciones y prolongar la vida útil de las centrales."
+    },
+    {
+      "title": "Científicos experimentan con gusanos para saber si se pueden transferir los recuerdos",
+      "url": "https://robotitus.com/cientificos-experimentan-con-gusanos-para-saber-si-se-pueden-transferir-los-recuerdos/",
+      "image": "https://robotitus.com/wp-content/uploads/2026/11/Planarias.jpg",
+      "source": "Robotitus",
+      "language": "es",
+      "que_paso": "Investigadores de Harvard intentaron reproducir los experimentos de James McConnell sobre la transferencia de recuerdos en planarias y no lograron que los gusanos aprendieran a asociar luz con descargas eléctricas, lo que reaviva el debate sobre la naturaleza de la memoria. El fracaso llevó al equipo a cambiar de modelo y enfocarse en el nematodo Caenorhabditis elegans.",
+      "datos": [
+        "James McConnell, psicólogo estadounidense, inició los experimentos con planarias en la década de 1950.",
+        "Su método consistía en exponer a las planarias a luz mientras recibían pequeñas descargas eléctricas, observando una contracción al ver la luz.",
+        "McConnell afirmó que los fragmentos de planarias regenerados conservaban los recuerdos del entrenamiento y que la transferencia podía lograrse alimentando gusanos no entrenados con fragmentos entrenados.",
+        "El equipo de la Universidad de Harvard repitió los protocolos publicados en los años 50‑60 usando poblaciones actuales y ejemplares de los mismos lugares, sin lograr que aprendieran la asociación luz‑descarga.",
+        "Actualmente el grupo de Harvard está trabajando con Caenorhabditis elegans, un nematodo con 302 neuronas y capacidad de aprendizaje bien documentada."
+      ],
+      "conclusion": "El resultado subraya la dificultad de replicar la supuesta transferencia de memoria basada en ARN y sugiere que futuros estudios deben centrarse en modelos con sistemas nerviosos mejor caracterizados para obtener datos reproducibles."
+    },
+    {
+      "title": "Lidl trae a su tienda online la chimenea eléctrica con efectos de llama que tiene varias temperaturas y un diseño muy decorativo",
+      "url": "https://www.xataka.com/seleccion/lidl-trae-a-su-tienda-online-chimenea-electrica-efectos-llama-que-tiene-varias-temperaturas-diseno-muy-decorativo",
+      "image": "https://i.blogs.es/395bf7/lidl/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "Lidl incluyó en su catálogo semanal una chimenea eléctrica Silvercrest disponible exclusivamente en su tienda online, con una oferta de 107,99 € para el 16 de noviembre. El modelo incorpora temporizador, protección contra sobrecalentamiento y detección de ventanas abiertas.",
+      "datos": [
+        "La oferta se aplica el 16 de noviembre con un precio de 107,99 €",
+        "El precio habitual en la tienda online es 179,99 €",
+        "El producto solo se vende a través del canal online, no en tiendas físicas",
+        "En Amazon se ofrece la chimenea eléctrica Tresko por 109,79 € como alternativa",
+        "La chimenea Silvercrest dispone de cinco niveles de brillo, tres modos (confort, Eco, anticongelante) y rango de temperatura de 7‑35 °C"
+      ],
+      "conclusion": "Es una opción económica para calefacción y decoración navideña, pero hay que comprarla antes del 16 nov y considerar la limitación a la venta online."
+    },
+    {
+      "title": "The 22 Best Early Black Friday Deals: Our Ultimate Picks (2026)",
+      "url": "https://www.wired.com/story/best-black-friday-deals-11-11-2026/",
+      "image": "https://media.wired.com/photos/6aee6a4f4bc3f0945f84d9ea/191:100/w_1280,c_limit/early%20black%20friday%20deals.png",
+      "source": "Wired",
+      "language": "en",
+      "que_paso": "WIRED’s reviews team compiled a list of 22 early Black Friday discounts across gadgets, updating it on November 11, 2026, and highlighted which offers may still improve before the official Black Friday. The guide focuses on Apple, Sony, and multi‑device accessories and notes that some prices are expected to drop further.",
+      "datos": [
+        "The article was updated on November 11, 2026 to add new deals and remove discontinued ones.",
+        "Apple AirTag single‑tag price is the lowest seen, with a battery life of about one year.",
+        "AirPods Pro 3 are currently priced such that they may drop another $20 by Black Friday.",
+        "Apple AirPods Max 2 are advertised at $100 off their regular price.",
+        "Sony WH‑1000XM6 headphones have reached a price low that WIRED has not seen lower.",
+        "A 3‑in‑1 charger for iPhone, AirPods and Apple Watch is on sale at roughly 50 % off its original price."
+      ],
+      "conclusion": "For an operations manager, these early discounts indicate that waiting until Black Friday could secure additional savings, so using price‑tracking tools can help optimize procurement budgets."
+    },
+    {
+      "title": "What to know about this year’s UN climate talks",
+      "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP26314112526132.jpg?resize=1200,600",
+      "source": "MIT Tech Review",
+      "language": "en",
+      "que_paso": "COP31 opened in Antalya, Turkey on November 8, 2026 and will run until November 20, with Turkey and Australia co‑hosting the negotiations. The United States is absent after President Trump withdrew the country from the Paris Agreement and is exiting the UN climate framework. Delegates will focus on fossil‑fuel policy and climate‑finance commitments amid rising geopolitical tensions and recent climate‑related disasters.",
+      "datos": [
+        "COP31 began on 8 November 2026 in Antalya, Turkey and is scheduled to conclude on 20 November 2026.",
+        "The United States is not formally represented because President Trump withdrew the country from the Paris Agreement earlier in 2026 and is leaving the UNFCCC.",
+        "A UNEP report released in September 2026 warned that global warming is likely to exceed the 1.5 °C target within the next few years.",
+        "Rich nations contributed $136.7 billion in climate finance in 2024, according to the OECD, against a goal of $300 billion per year by 2035.",
+        "A glacier collapse in the Himalayas in early 2026 killed about 1,500 people, left over 5,000 missing, caused nearly $5 billion in damage, and prompted the UN loss‑and‑damages fund to pledge $20 million for Nepal."
+      ],
+      "conclusion": "The lack of US participation and the shortfall in pledged climate finance heighten the urgency for effective agreements, while the recent disaster underscores the immediate need for robust adaptation funding."
+    },
+    {
+      "title": "“Puede irse con su trasero no ciudadano a su país”: el agente del ICE que mató a un colombiano en Maine tenía un historial de comentarios racistas",
+      "url": "https://elpais.com/us/migracion/2026-11-11/puede-irse-con-su-trasero-no-ciudadano-a-su-pais-el-agente-del-ice-que-mato-a-un-colombiano-en-maine-tenia-un-historial-de-comentarios-racistas.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/KIOXJBDHVJFSFO7WC7FXK55B74.jpg?auth=3bc52b3b36bb1f86697568304e42e7d28961626030f904f1fc2e4f7f07ad8815&width=1200",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "El agente del ICE David Brouillette abrió fuego contra el coche de Johan Sebastián Durán Guerrero en Biddeford, Maine, el 13 de julio, creyendo erróneamente que era un objetivo buscado. Posteriormente se reveló que el agente había enviado correos racistas a su hermana y tenía antecedentes de violencia doméstica y problemas de salud mental.",
+      "datos": [
+        "El 13 de julio de 2026, David Brouillette disparó contra el automóvil de Johan Sebastián Durán Guerrero en Biddeford, Maine.",
+        "Johan Sebastián Durán Guerrero tenía 25 años, era padre de una niña y no era la persona buscada por el ICE.",
+        "Brouillette, de 37 años, se incorporó al ICE a finales de 2025 tras un proceso de verificación de antecedentes acelerado y un entrenamiento reducido.",
+        "En 2022, Brouillette envió a su hermana Elizabeth Emen un correo con expresiones racistas, diciendo “Puede irse con su trasero no ciudadano de vuelta a su país”.",
+        "Familiares del agente reportaron antecedentes de violencia machista contra dos exesposas y amenazas de cortar el cuello a una expareja.",
+        "La madre de Brouillette declaró a The New York Times que él era un hombre violento que no debía portar armas."
+      ],
+      "conclusion": "El caso evidencia graves fallas en la selección y supervisión de personal del ICE, lo que permite que prejuicios y conductas violentas se traduzcan en uso letal de la fuerza; es urgente reforzar los controles de antecedentes y la capacitación para evitar tragedias similares."
+    },
+    {
+      "title": "Doblete de descuentos en el Xiaomi 17T, un gama alta asequible con cámaras Leica y buen rendimiento",
+      "url": "https://www.xataka.com/seleccion/doblete-descuentos-xiaomi-17t-gama-alta-asequible-camaras-leica-buen-rendimiento",
+      "image": "https://i.blogs.es/2b4bad/xiaomi-17t/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "MediaMarkt ha lanzado una oferta de doble descuento para el Xiaomi 17T, situando su precio en 506,22 euros, antes de la temporada de Black Friday. El modelo destaca por su pantalla de 6,59 pulgadas, cámaras co‑desarrolladas con Leica y un procesador MediaTek Dimensity 8500 Ultra, orientado a usuarios que buscan alto rendimiento sin pagar precios premium.",
+      "datos": [
+        "Precio con descuento: 506,22 euros en MediaMarkt",
+        "Pantalla de 6,59 pulgadas con resolución 1,5K y tasa de refresco de 120 Hz",
+        "Procesador MediaTek Dimensity 8500 Ultra, menos potente que el del Xiaomi 17T Pro",
+        "Memoria RAM de 12 GB y almacenamiento interno de 256 GB",
+        "Batería de 6 500 mAh con carga rápida de 67 W",
+        "Cámaras firmadas por Leica"
+      ],
+      "conclusion": "El Xiaomi 17T ofrece un equilibrio entre especificaciones premium y precio accesible, lo que lo convierte en una opción práctica para profesionales que necesitan rendimiento y calidad fotográfica sin sobrecostos."
+    },
+    {
+      "title": "Fundación Maldita.es complaint prompts the Attorney General’s Office to open an investigation into child sexual abuse on TikTok",
+      "url": "https://maldita.es/investigaciones/20261111/prosecutor-investigation-tiktok-maldita-complaint/",
+      "image": "https://files.maldita.es/uploads/portada-impacto-tiktok-fiscalia-6af4967c66421.webp",
+      "source": "Maldita.es",
+      "language": "es",
+      "que_paso": "La Fiscalía General del Estado abrió una investigación sobre la difusión de abuso sexual infantil y corrupción de menores en la plataforma TikTok, tras la denuncia presentada por la Fundación Maldita.es. La fiscal general Teresa Peramato firmó el 11 de noviembre un decreto que asigna el caso a la fiscal de la Sala Coordinadora contra la Criminalidad Informática, Elvira Tejada.",
+      "datos": [
+        "11 de noviembre de 2026: la fiscal general Teresa Peramato firmó el decreto que abre la investigación",
+        "El caso fue asignado a la fiscal Elvira Tejada, responsable de la Sala Coordinadora contra la Criminalidad Informática",
+        "La Fundación Maldita.es entregó 1 terabyte de evidencia recopilada durante su investigación “TikTok, el hogar del pederasta”",
+        "Clara Jiménez Cruz, CEO de Maldita.es, declaró que la evidencia incluye la inacción de TikTok ante sus denuncias",
+        "La denuncia se presentó ante la Unidad de Criminalidad Informática de la Fiscalía General del Estado"
+      ],
+      "conclusion": "Esta acción obliga a TikTok a responder legalmente a las acusaciones de negligencia, lo que puede forzar cambios operativos y de cumplimiento para proteger a menores en la plataforma."
     }
   ]
 }
