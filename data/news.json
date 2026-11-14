@@ -1,894 +1,855 @@
 {
-  "generated": "2026-11-13T02:45:29.717648",
-  "count": 54,
+  "generated": "2026-11-14T02:24:23.750514",
+  "count": 52,
   "articles": [
     {
-      "title": "Outlook, Teams and More Microsoft Programs Disrupted by Outage",
-      "url": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
-      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12xp-outlook-wtfb/12xp-outlook-wtfb-mediumSquareAt3X.jpg",
+      "title": "Flight Canceled During the FAA Ground Stop? Here’s What to Do.",
+      "url": "https://www.nytimes.com/2026/11/13/us/ground-stop-flight-delays-cancellations-tips.html",
+      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13faa-groundstop-travelers-rights2-qwgh/13faa-groundstop-travelers-rights2-qwgh-facebookJumbo.jpg",
       "source": "New York Times",
       "language": "en",
-      "que_paso": "Microsoft experienced an unexpected outage that took several of its servers offline, causing Outlook, Teams and other services to become unavailable for users. The incident strained the remaining infrastructure and prompted the company to initiate recovery efforts.",
+      "que_paso": "An FAA‑mandated ground stop has led to widespread flight cancellations and delays, leaving travelers with limited airline assistance because the cause is an air‑traffic‑control outage rather than airline fault. Passengers must navigate rebooking, refunds, and possible overnight stays without guaranteed amenities.",
       "datos": [
-        "The outage affected Microsoft’s Outlook, Teams, and other programs.",
-        "Microsoft reported that some of its servers were unexpectedly unavailable.",
-        "The incident strained the remaining infrastructure.",
-        "Microsoft stated it was working to bring users back online.",
-        "The disruption was reported on November 13, 2026."
+        "Airlines must provide water and a snack within two hours of the start of a tarmac delay, unless safety or security issues intervene",
+        "Domestic flights have three hours to move the aircraft to a location where passengers can safely disembark",
+        "International flights have four hours for the same purpose",
+        "United Airlines, Delta Air Lines, and Alaska Airlines have issued waivers allowing travelers to change or cancel flights without incurring change fees or fare differences",
+        "Refunds are required for any canceled flight regardless of the reason, as well as for significantly delayed or changed flights if the passenger chooses not to travel",
+        "Travel industry analyst Jamie Larounis warned that the disruptions are likely to ripple into the weekend"
       ],
-      "conclusion": "The outage highlights the vulnerability of centralized cloud services and underscores the need for robust fallback plans in business operations."
+      "conclusion": "Travelers should immediately use airline apps or lower‑traffic hotlines to secure alternative seats, book accommodations promptly, and rely on their statutory refund rights, as airlines are not obligated to provide hotels or meals during ATC‑related cancellations."
     },
     {
-      "title": "Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew",
-      "url": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html",
-      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-commerce-nvidia-fzpt/12dc-commerce-nvidia-fzpt-mediumSquareAt3X.jpg",
-      "source": "NYT Tech",
-      "language": "en",
-      "que_paso": "Howard Lutnick, the U.S. Commerce Secretary, has adopted a softer stance toward Nvidia despite growing criticism that the agency is protecting the chipmaker. Critics argue that his department is allowing Nvidia to continue selling AI chips to firms such as Megaspeed, even as calls for stricter export controls intensify.",
-      "datos": [
-        "Howard Lutnick holds the position of U.S. Commerce Secretary",
-        "Nvidia is a leading manufacturer of AI processors",
-        "Megaspeed is a company receiving AI chips from Nvidia",
-        "Critics allege the Commerce Department is shielding Nvidia from tighter regulation",
-        "Calls for tougher controls on AI chip sales have increased recently"
-      ],
-      "conclusion": "The lenient approach could shape future AI export policy and affect security and competitive dynamics for firms relying on advanced chips."
-    },
-    {
-      "title": "‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return",
-      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
-      "image": "https://media.wired.com/photos/6af6533dc5d481da1362b330/191:100/w_1280,c_limit/Petition-Bring-Back-Jensen-Business-2299493060.jpg",
-      "source": "Wired",
-      "language": "en",
-      "que_paso": "Nvidia’s founder and long‑time CEO Jensen Huang resigned after multiple reports of extramarital affairs, prompting a wave of internal petitions from staff urging the board to reinstate him. Employees used a suggestion‑box post and a company‑wide email, generating over 1,600 comments and LinkedIn support, while the board appointed CFO Colette Kress as interim CEO and Harvey Jones as chair.",
-      "datos": [
-        "The internal suggestion‑box post received more than 1,600 comments.",
-        "Nvidia’s board announced Huang’s resignation on Thursday morning.",
-        "Jensen Huang, 63, founded Nvidia in 1993 and led it until his resignation.",
-        "Huang emailed employees on Sunday admitting he was “unfaithful to [his] wife.”",
-        "The board named CFO Colette Kress as interim CEO and former Synopsys CEO Harvey Jones as chair.",
-        "The scandal has cost Nvidia about $1 trillion in market value and triggered investigations by US lawmakers and the FBI."
-      ],
-      "conclusion": "The employee backlash underscores how leadership credibility can impact morale and shareholder confidence, especially as the controversy has already erased roughly $1 trillion in market value and attracted regulatory scrutiny."
-    },
-    {
-      "title": "Republican Setbacks Swell in the South With Stinging Loss in Mississippi",
-      "url": "https://www.nytimes.com/2026/11/12/us/politics/republican-defeats-south-mississippi-midterms.html",
-      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12pol-republicans-south-04-cjpt/12pol-republicans-south-04-cjpt-facebookJumbo.jpg",
+      "title": "Did the Redistricting Wars Backfire on Republicans? In a Word, No.",
+      "url": "https://www.nytimes.com/2026/11/13/upshot/gerrymanders-midterm-elections-republicans.html",
+      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/2026-11-05-midterm-simulations-index/2026-11-05-midterm-simulations-index-facebookJumbo-v4.jpg",
       "source": "New York Times",
       "language": "en",
-      "que_paso": "Republicans suffered a cascade of defeats across the Deep South in the latest midterm elections, losing key statewide offices and legislative seats. Democrat Scott Colom unseated incumbent Senator Cindy Hyde‑Smith in Mississippi, while Republicans also lost the Georgia governorship, a narrow Senate race in Louisiana, and multiple state‑house seats in Tennessee, Alabama, Arkansas and South Carolina.",
+      "que_paso": "In the summer of 2025 Republicans redrew congressional districts aiming to secure a House majority in the 2026 midterm elections. The resulting election saw Democrats win overwhelmingly, capturing many seats the GOP had targeted. Despite the loss of targeted districts, Republicans still netted an estimated four to seven additional seats overall, with North Carolina being the only state where the effort may have slightly backfired.",
       "datos": [
-        "Scott Colom became the first Democrat to win a Mississippi Senate seat in 44 years, defeating incumbent Cindy Hyde‑Smith.",
-        "The Louisiana Senate race was decided by a margin of less than 2 percentage points.",
-        "The Republican candidate for North Carolina’s Senate lost by nearly 20 points.",
-        "Ten state legislative seats in South Carolina flipped to Democrats.",
-        "Republicans lost the governor’s mansion in Georgia and state‑house majorities in Tennessee, Alabama and Arkansas."
+        "Republicans began redistricting in summer 2025",
+        "The target election was the 2026 midterm congressional races",
+        "Democrats won the election overwhelmingly, taking seats the GOP had aimed for",
+        "Preliminary analysis estimates Republicans gained between four and seven seats due to the new maps",
+        "North Carolina is identified as the sole state where the Republican redistricting may have backfired"
       ],
-      "conclusion": "The string of Southern losses signals that the GOP can no longer assume automatic dominance in the region, prompting a need to reassess strategy and voter outreach."
+      "conclusion": "The episode shows that aggressive redistricting can yield modest gains but does not guarantee control, highlighting the limited strategic value of map changes in a wave election environment."
     },
     {
-      "title": "Rescue Ends in Brooklyn After 8 Die in Building Collapse",
-      "url": "https://www.nytimes.com/2026/11/12/us/brooklyn-building-collapse-deaths.html",
-      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12met-collapse-print-01-plmq/12met-collapse-print-01-plmq-facebookJumbo.jpg",
+      "title": "All Accounted for After Tanker Crashes Into Docked New Orleans Riverboat",
+      "url": "https://www.nytimes.com/2026/11/13/us/new-orleans-cruise-ship-crash.html",
+      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13xp-new-orleans-ship-lpfg/13xp-new-orleans-ship-lpfg-facebookJumbo.jpg",
       "source": "New York Times",
       "language": "en",
-      "que_paso": "A three‑story apartment building at 1321 Flatbush Avenue in Brooklyn collapsed into a neighboring construction pit, killing eight people and injuring 18. City officials announced on Thursday that rescue efforts were ending after confirming no additional victims, and a city investigation into the adjacent excavation began.",
+      "que_paso": "A tanker collided with the docked riverboat American Heritage in New Orleans on Friday, capsizing the vessel and prompting a citywide rescue effort for the 197 people aboard.",
       "datos": [
-        "The building collapsed at about 4 p.m. on Wednesday, November 12, 2026.",
-        "Eight people died, including two child cousins and three construction workers.",
-        "Eighteen people were injured, four of whom were firefighters.",
-        "Approximately 250 rescue personnel were deployed, including units from New York City and New Rochelle, Westchester County.",
-        "The collapse triggered a city investigation into the excavation at 2625 Bedford Avenue.",
-        "First firefighters arrived within one minute of the collapse."
+        "The collision occurred on Friday, November 14, 2026, in New Orleans, Louisiana.",
+        "The riverboat American Heritage was carrying 197 passengers at the time of the impact.",
+        "Mayor Helena Moreno confirmed that all 197 passengers were accounted for after the incident.",
+        "32 passengers were treated at local hospitals, with one reported as having serious injuries.",
+        "Governor Jeff Landry described the incident as a \"literal miracle\" during the news conference.",
+        "U.S. Coast Guard Sector New Orleans commander Capt. Melanie A. Burnham praised first responders for their dedication and professionalism."
       ],
-      "conclusion": "The tragedy underscores the importance of stringent site‑monitoring and rapid multi‑agency response to mitigate operational risks and protect lives."
+      "conclusion": "The successful accounting of every passenger demonstrates the effectiveness of coordinated emergency response, underscoring the importance of preparedness in large‑scale operational incidents."
     },
     {
-      "title": "Xbox announces Wolfenstein 3",
-      "url": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ss_c195852422ed8e92ffa4d68ea4bfd34291823c3e.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "source": "The Verge",
-      "language": "en",
-      "que_paso": "Xbox CEO Asha Sharma posted a social‑media announcement confirming that MachineGames is developing the next Wolfenstein title, and shared a script photo. The reveal arrived just days after Bethesda announced the upcoming Elder Scrolls VI: Sentinel, highlighting a wave of first‑party announcements from Microsoft.",
-      "datos": [
-        "Xbox CEO Asha Sharma announced Wolfenstein 3 on November 13, 2026 via a post that included a script photo.",
-        "MachineGames confirmed the title is in production and shared a motion‑capture session image.",
-        "IGN reported that actors Brian Bloom and Debra Wilson will reprise their roles as BJ Blazkowicz and Grace Walker.",
-        "The previous mainline entry, Wolfenstein II: The New Colossus, launched in 2017.",
-        "The co‑op spinoff Wolfenstein: Youngblood debuted in 2019.",
-        "The announcement followed Bethesda’s confirmation of The Elder Scrolls VI: Sentinel."
-      ],
-      "conclusion": "The news signals Xbox’s commitment to expanding its portfolio of established franchises, implying upcoming development cycles and potential partnership opportunities for content and technology providers."
-    },
-    {
-      "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
-      "url": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/whoop-humans-launch-screenshots-trio-2.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "source": "The Verge",
-      "language": "en",
-      "que_paso": "Whoop introduced a new feature called Humans within its app, turning fitness tracker data into a story‑style feed that users can scroll through like Instagram Stories. The update lets members view friends’ run routes, pace, distance, and daily sleep, recovery and strain scores directly in the Community tab.",
-      "datos": [
-        "The platform is named \"Humans\" and is part of the Whoop app.",
-        "It presents friends’ fitness data in a Stories‑like format called \"Moments\".",
-        "A swipe up on a run post reveals a map with route, pace and distance.",
-        "The Community tab displays cards showing sleep, recovery and strain scores for each user.",
-        "Whoop markets the service as \"entirely human\" and claims it lacks AI‑generated content or bots."
-      ],
-      "conclusion": "For an operations leader, the Humans feed shows how real‑time biometric data can be leveraged for social engagement without AI curation, illustrating a transparent, data‑driven community model that could be adapted for internal wellness communication."
-    },
-    {
-      "title": "Microsoft Outlook is still down",
-      "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-12-at-2.01.16-PM.jpg?quality=90&strip=all&crop=0,17.193583031279,100,65.612833937441",
-      "source": "The Verge",
-      "language": "en",
-      "que_paso": "Microsoft 365 experienced a global outage on Thursday, affecting Outlook email access via web and apps and causing intermittent Teams disruptions. The problem was traced to elevated load on infrastructure across multiple regions, prompting Microsoft to shift traffic and reboot servers. By early evening the company reported partial restoration but gave no timeline for full recovery.",
-      "datos": [
-        "The outage began just before 1 PM ET on Thursday, November 13, 2026.",
-        "Outlook (web and app) was the primary service impacted, with limited issues reported for Teams.",
-        "Microsoft’s 365 Status account attributed the issue to “elevated load across multiple regions.”",
-        "Ben Hope, Microsoft communications director, confirmed the problem centered on Exchange Online and thanked customers for their patience.",
-        "Around 6 PM ET Microsoft announced that a portion of the affected servers had been returned to service and were stable.",
-        "No estimated time of full restoration was provided."
-      ],
-      "conclusion": "The incident highlights the operational risk of relying on a single cloud provider for critical communications, underscoring the need for contingency plans and real‑time monitoring of service health."
-    },
-    {
-      "title": "Holscher Wins Kansas Governor Race, Retaining Seat for Democrats",
-      "url": "https://www.nytimes.com/2026/11/12/us/kansas-governor-democrat-holscher-wins.html",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03midterms-hfo-kansas-governor-Holscher-pbjm/03midterms-hfo-kansas-governor-Holscher-pbjm-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "State Senator Cindy Holscher was elected governor of Kansas, defeating her Republican opponent. The win comes in a state that typically votes Republican in presidential contests but has a history of electing Democrats in off‑year races.",
-      "datos": [
-        "Cindy Holscher, a Kansas State Senator, won the gubernatorial election.",
-        "The election took place in Kansas, a state that consistently votes Republican in presidential elections.",
-        "Kansas voters have a pattern of electing Democrats in midterm elections.",
-        "Holser's victory retains the governorship for the Democratic Party."
-      ],
-      "conclusion": "The outcome suggests Kansas may be receptive to moderate policy shifts, which could influence the regulatory and business environment for technology and operations initiatives."
-    },
-    {
-      "title": "Y el marido de Begoña Gómez visitó a Manu Sánchez: perros al cuadrado (y en todas partes)",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-12/y-el-marido-de-begona-gomez-visito-a-manu-sanchez-perros-al-cuadrado-y-en-todas-partes.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/YIS467ALYVBGLLZNNXZ57RER64.jpg?auth=e81674e1fb381e6ad1b623123ed496875b1b2b6528ccf0935c87dccc74fb5a5c&width=1200",
+      "title": "Caos en los aeropuertos de EE UU por la suspensión de vuelos: “Nadie va a ir a ninguna parte”",
+      "url": "https://elpais.com/us/2026-11-14/caos-en-los-aeropuertos-de-ee-uu-por-la-suspension-de-vuelos-nadie-va-a-ir-a-ninguna-parte.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/VDD7EZS4ABIWTLJZX7OCYEXKNI.jpg?auth=8cc9b409afd09cf92060ce1352b6f6a42be6cfd6374e457fe8ef6f76ec978b66&width=1200",
       "source": "El País",
       "language": "es",
-      "que_paso": "El marido de Begoña Gómez se reunió este jueves con el presentador andaluz Manu Sánchez en el programa “El Perro Andaluz” de TVE, donde ambos intercambiaron comentarios sobre la campaña del PSOE y la situación política actual.",
+      "que_paso": "La FAA suspendió todos los vuelos en territorio estadounidense el viernes por la tarde por \"circunstancias extraordinarias y motivos de seguridad\", dejando varados a miles de pasajeros en aeropuertos como JFK, Ronald Reagan y Harry Reid. La medida se anunció después de las 17:00 hora del Este y afectó tanto a vuelos programados como a itinerarios de conexión, generando incertidumbre y largas esperas en las terminales.",
       "datos": [
-        "La visita tuvo lugar el jueves 13 de noviembre de 2026 en TVE",
-        "Participaron Manu Sánchez, el marido de Begoña Gómez y el presidente del Gobierno, Pedro Sánchez",
-        "Sánchez recordó haber conocido a su esposa en un bar de Madrid hace 20 años cuando era concejal",
-        "Declaró que se afilió al PSOE en 1993 inspirado por Felipe González",
-        "Mencionó que el ministro del Interior, Fernando Grande‑Marlaska, es su “ojito izquierdo” y elogió a Margarita Robles como su “ojito derecho”",
-        "Se mostró un vídeo de Isabel Díaz Ayuso elogiando el aspecto físico de Sánchez"
+        "La suspensión fue ordenada por la Agencia Federal de Aviación (FAA) bajo la justificación de seguridad y circunstancias extraordinarias",
+        "Más de 44.000 vuelos diarios transportan a más de 3 millones de pasajeros en EE UU, según la FAA",
+        "Hasta el momento se registran 4.301 vuelos domésticos cancelados, según Flightaware",
+        "La orden se emitió después de las 17:00 hora del Este y no afectó a los aviones que ya estaban en el aire",
+        "Un vuelo de Southwest que partía de Denver a San Diego logró aterrizar en Las Vegas, escapando a la suspensión"
       ],
-      "conclusion": "El episodio evidencia el uso de los medios televisivos como plataforma de autopromoción y reforzamiento de la imagen del PSOE, lo que puede influir en la percepción pública antes de la campaña electoral."
+      "conclusion": "El colapso muestra la exposición del sistema de aviación a interrupciones regulatorias masivas, lo que obliga a reforzar planes de contingencia y alternativas de transporte para minimizar el impacto operativo."
     },
     {
-      "title": "California Could Face 50-Foot Waves as Storms Slam Its Coast",
-      "url": "https://www.nytimes.com/2026/11/12/weather/california-storm-west-coast-rain.html",
-      "image": "https://static01.nyt.com/images/2024/01/30/us/2024-01-26-atmospheric-river-embed-index/2024-01-26-atmospheric-river-embed-index-mediumSquareAt3X-v799.jpeg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Meteorologists say two consecutive storm systems will hit California’s coast in the coming days, bringing the first widespread rain of the season and unusually high surf. The storms are expected to affect major ports and coastal infrastructure.",
-      "datos": [
-        "Back‑to‑back storm systems are forecast for the next few days",
-        "They will deliver the season’s first widespread rain across California",
-        "Wave heights are projected to reach up to 50 feet along the coast",
-        "The impacts are expected along the entire California shoreline"
-      ],
-      "conclusion": "The extreme surf and rain could disrupt coastal operations and require immediate safety and logistics planning."
-    },
-    {
-      "title": "Silicon Valley Is Still Defending Jensen Huang",
-      "url": "https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/",
-      "image": "https://media.wired.com/photos/6af5104da36e580e1eb299b6/191:100/w_1280,c_limit/Model-Behavior-Silicon-Valley-Waiting-for-Jensen-Scandal-to-Blow-Over-Business.jpg",
-      "source": "Wired",
-      "language": "en",
-      "que_paso": "Jensen Huang stepped down as Nvidia’s CEO after internal disclosures that he had romantic relationships with a senior employee and a woman identified as an alleged asset of China’s Ministry of State Security. The revelations shocked Nvidia’s roughly 60,000 staff, who had expected the founder to remain in charge, and led the board to order an investigation.",
-      "datos": [
-        "Nvidia’s board hired law firm Wachtell, Lipton, Rosen & Katz to conduct an internal probe",
-        "The New York Times reported the affair on Wednesday, November 11, 2026",
-        "Reuters disclosed a second alleged relationship on Thursday, November 12, 2026",
-        "President Donald Trump said on Tuesday, November 13, 2026, that the FBI is looking into the matter",
-        "China’s government officially denied that Alice Huang is a spy",
-        "Venture capitalist Antonio Gracias posted on X that one mistake does not erase Huang’s 30‑year leadership"
-      ],
-      "conclusion": "The episode highlights how personal conduct can trigger governance crises at AI‑critical firms, prompting board‑level scrutiny and potential regulatory attention."
-    },
-    {
-      "title": "Cómo el visionario de la IA Jensen Huang cayó en desgracia por sus malas decisiones amorosas",
-      "url": "https://www.bbc.com/mundo/articles/crgqx8yqgevjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/news/1200/branded_mundo/9e3f/live/f6e4e9b0-deda-11f1-a75a-dbf83836672c.jpg",
-      "source": "BBC Mundo",
-      "language": "es",
-      "que_paso": "Jensen Huang, cofundador y CEO de Nvidia, está siendo presionado por la junta tras rumores de una segunda aventura amorosa que habrían llevado a considerar su dimisión; la noticia se ha difundido principalmente a través de memes y comentarios de ejecutivos de Silicon Valley. La controversia surge mientras Nvidia sigue siendo esencial para la cadena de suministro de chips de IA.",
-      "datos": [
-        "Jensen Huang es cofundador y CEO de Nvidia, empresa líder en chips de IA.",
-        "La junta directiva habría contemplado su dimisión después de que surgieran rumores de una segunda aventura amorosa.",
-        "Stephen Witt, autor de la biografía de Huang, dijo a la BBC que Huang elogia a su mujer en términos muy elogiosos.",
-        "Huang recibió el Premio de la Reina a la Ingeniería en el Palacio de St. James en Londres el año pasado.",
-        "Se indica que Huang tiene aproximadamente 200 personas a su cargo directo.",
-        "Durante los confinamientos por el coronavirus, Huang transmitió en directo discursos desde su cocina, que luego se reveló había sido creada por inteligencia artificial."
-      ],
-      "conclusion": "El caso ilustra cómo la conducta personal de un líder puede desencadenar riesgos de gobernanza en una empresa clave para la IA, lo que obliga a los directivos a vigilar la reputación y la continuidad operativa."
-    },
-    {
-      "title": "Anticorrupción señala que el empresario Corvillo ayudó a canalizar pagos a Ábalos y su pareja",
-      "url": "https://elpais.com/espana/2026-11-12/anticorrupcion-senala-que-el-empresario-corvillo-ayudo-a-canalizar-pagos-a-abalos-y-su-pareja.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/QPHN6SNJCVNQJO7JIUZRJNX7IU.jpg?auth=76b69ac5f6b9c3fc4e0a78399ac682e0fcd88fde722f523122c45c0b1e8038ba&width=1200",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "La Fiscalía Anticorrupción solicitó al juez del caso Koldo la detención del empresario cristiano Corvillo, acusado de canalizar fondos al entorno del exministro de Transportes José Luis Ábalos y a su pareja Andrea de la Torre, en relación con la compra de una vivienda en Madrid. La investigación indica que los pagos se realizaron mediante una sociedad portuguesa y que Corvillo actuó como intermediario entre Ábalos y el comisionista Víctor de Aldama, mientras mantenía contactos con Pedro Sánchez en abril de 2023.",
-      "datos": [
-        "Cristian Corvillo, militante socialista de Córdoba, fue pedido en detención por la Fiscalía Anticorrupción",
-        "Andrea de la Torre fue detenida en una operación de la UCO la semana pasada",
-        "El piso en Madrid fue adquirido el 19 de abril de 2024 por 125.000 euros sin hipoteca, mediante cheques y transferencia",
-        "Se registró una transferencia de 65.000 euros a una cuenta del Santander con concepto \"préstamo\"",
-        "Dos días antes de la compra se emitió un cheque de 67.298 euros de la empresa portuguesa Esperança Colossal",
-        "El total documentado de pagos vinculados asciende a 245.498 euros"
-      ],
-      "conclusion": "El caso evidencia cómo empresarios pueden servir de canal para financiar a políticos y sus familiares, lo que plantea riesgos de corrupción y la necesidad de reforzar la vigilancia de los flujos financieros en la esfera pública."
-    },
-    {
-      "title": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/",
-      "image": "https://media.wired.com/photos/6af5ee2157e0a3ee177875cd/191:100/w_1280,c_limit/Uncanny-Valley-Jensen-Emergency-Pod.jpg",
-      "source": "Wired",
-      "language": "en",
-      "que_paso": "Nvidia cofounder and longtime CEO Jensen Huang stepped down after the board learned of personal misconduct involving a foreign intelligence contact and other internal relationships, prompting a sudden leadership shift. The board installed interim chief Colette Kress while competitors watch for strategic openings.",
-      "datos": [
-        "Jensen Huang officially resigned on November 13, 2026.",
-        "He admitted to an affair with an alleged Chinese intelligence asset who was selling a large volume of chips.",
-        "Reports cite at least two additional alleged affairs with Nvidia employees, including a direct report.",
-        "Nvidia’s board cited company policy prohibiting relationships with direct reports as justification for his departure.",
-        "Colette Kress was appointed interim CEO immediately after Huang’s resignation.",
-        "The resignation was announced during a special \"Uncanny Valley\" podcast episode released the same morning."
-      ],
-      "conclusion": "The abrupt leadership change could disrupt Nvidia’s AI roadmap and give rivals a chance to capture market share."
-    },
-    {
-      "title": "Al menos dos muertos por un nuevo ataque de Israel contra el sur de la Franja de Gaza",
-      "url": "https://www.europapress.es/internacional/noticia-menos-dos-muertos-nuevo-ataque-israel-contra-sur-franja-gaza-20261112231046.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261112231046_1200.jpg",
-      "source": "Europa Press Tecnología",
-      "language": "es",
-      "que_paso": "El ejército israelí ejecutó un ataque con dron en la zona sur de la Franja de Gaza, cerca de Jan Yunis, durante la madrugada del jueves. El bombardeo dejó al menos dos personas fallecidas y varias heridas, intensificando la escalada de violencia en el conflicto israelí‑palestino.",
-      "datos": [
-        "Al menos dos muertos fueron confirmados",
-        "Varias personas resultaron heridas",
-        "El ataque se realizó con un dron",
-        "El incidente ocurrió cerca de Jan Yunis, en el sur de la Franja de Gaza",
-        "Fue perpetrado por el Ejército de Israel",
-        "El ataque tuvo lugar el jueves 12 de noviembre de 2026"
-      ],
-      "conclusion": "El nuevo bombardeo muestra una escalada de la violencia en el sur de Gaza, lo que obliga a los gestores de operaciones a reforzar planes de contingencia y evaluar riesgos de seguridad en la región."
-    },
-    {
-      "title": "Netanyahu y Eisekot acuerdan \"mantenerse al corriente\" sobre la situación de seguridad de Israel",
-      "url": "https://www.europapress.es/internacional/noticia-netanyahu-eisekot-acuerdan-mantenerse-corriente-situacion-seguridad-israel-20261112224756.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261112224756_1200.jpg",
-      "source": "Europa Press Tecnología",
-      "language": "es",
-      "que_paso": "Benjamin Netanyahu, como primer ministro en funciones, se reunió con Gadi Eisenkot, encargado de formar el nuevo Ejecutivo, y acordaron intercambiar información sobre la seguridad de Israel; el encuentro tuvo lugar este jueves tras la presión de la oposición que pidió evitar maniobras peligrosas en medio del conflicto en Oriente Próximo.",
-      "datos": [
-        "Benjamin Netanyahu actúa como primer ministro interino de Israel",
-        "Gadi Eisenkot está a cargo de intentar ensamblar el nuevo Ejecutivo",
-        "Ambos acordaron “mantenerse al corriente” de la situación de seguridad",
-        "La reunión se celebró el jueves 13 de noviembre de 2026",
-        "La oposición reclamó a las autoridades que no emprendan “maniobras peligrosas”",
-        "El contexto es el conflicto en Oriente Próximo que afecta la seguridad nacional"
-      ],
-      "conclusion": "Esta coordinación indica una intención de presentar una respuesta unificada ante la escalada regional, lo que puede influir en decisiones operativas y en la percepción de estabilidad política interna."
-    },
-    {
-      "title": "‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation",
-      "url": "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "language": "en",
-      "que_paso": "Jensen Huang stepped down as Nvidia's CEO after reports surfaced of two personal affairs, one allegedly involving a Chinese intelligence operative, prompting a rapid board decision. Prominent tech figures and the U.S. president publicly defended him, labeling the resignation a mistake and a loss for the industry.",
-      "datos": [
-        "Nvidia announced Huang's resignation on the morning of November 13, 2026.",
-        "The New York Times reported on Friday, November 12, 2026, that Huang and a suspected Chinese spy were “close.”",
-        "Reuters later confirmed Huang also had an “intimate relationship” with another Nvidia employee.",
-        "Former President Donald Trump posted on Truth Social calling the resignation “a waste” and suggesting Tim Cook would replace him.",
-        "Elon Musk replied on X that hiring Huang would be “an honor.”",
-        "Tim Sweeney described Huang as “the visionary driver of the future of tech” in a pre‑resignation post."
-      ],
-      "conclusion": "The sudden leadership shift could disrupt Nvidia's AI and GPU strategy and highlights how personal conduct issues can trigger board actions, prompting other tech firms to tighten governance around executive behavior."
-    },
-    {
-      "title": "Betters Lovers Announce Their First Live Show Since Parting Ways With Greg Puciato",
-      "url": "https://www.theprp.com/2026/11/12/news/betters-lovers-announce-their-first-live-show-since-parting-ways-with-greg-puciato/",
-      "image": "https://www.theprp.com/app/uploads/2026/11/betterloverslarge-1200x675.webp",
-      "source": "The PRP",
-      "language": "en",
-      "que_paso": "Better Lovers confirmed they will perform at the 2027 Download Festival, marking their first live appearance since parting with vocalist Greg Puciato, and hinted that a new singer has been secured though the identity remains undisclosed. The announcement was made via a social‑media post on November 12, 2026.",
-      "datos": [
-        "The group is made up of former members of Every Time I Die and Fit For An Autopsy.",
-        "The announcement was posted on November 12, 2026.",
-        "Download Festival 2027 is scheduled for June 9‑13, 2027 at Castle Donington, United Kingdom.",
-        "Greg Puciato left Better Lovers in February 2026.",
-        "Josh Scogin publicly denied rumors he would join as vocalist in March 2026.",
-        "The band stated they intend to release a new studio album while searching for a new vocalist."
-      ],
-      "conclusion": "Securing a high‑profile festival slot demonstrates the band’s momentum and suggests a new vocalist will be unveiled soon, positioning Better Lovers for a potentially impactful album release in the coming year."
-    },
-    {
-      "title": "Farewell to Stanley Zabar, the ‘Mayor’ of the Upper West Side",
-      "url": "https://www.nytimes.com/2026/11/12/nyregion/stanley-zabar-upper-west-side.html",
-      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12met-stanleyzabar-01-wmzb/12met-stanleyzabar-01-wmzb-facebookJumbo.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Stanley Zabar, 94, died earlier this week and his funeral was held on Wednesday at Riverside Memorial Chapel. His death leaves his brother Eli, 83, as the sole surviving member of the Zabar brothers who built the iconic Upper West Side specialty‑food chain.",
-      "datos": [
-        "Stanley Zabar died at age 94 in early November 2026",
-        "His brother Saul Zabar died at age 97 in 2025",
-        "Eli Zabar, the remaining brother, is 83 years old",
-        "The funeral took place at Riverside Memorial Chapel in Manhattan",
-        "Stanley Zabar lived within two blocks of the original Zabar's store on the Upper West Side",
-        "Zabar's specialty food stores have been a fixture of Manhattan’s Upper West Side for over 80 years"
-      ],
-      "conclusion": "The passing of Stanley Zabar marks the end of the original family leadership of a landmark food institution, underscoring the need for succession planning to preserve brand heritage as founding generations retire."
-    },
-    {
-      "title": "Pete Hegseth, a Soldier’s Scolding and a Lesson at the Tomb of Unknowns",
-      "url": "https://www.nytimes.com/2026/11/12/us/politics/pete-hegseth-warrior-image.html",
-      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-tomb-jmqc/12dc-tomb-jmqc-facebookJumbo.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Pete Hegseth and his entourage were publicly reprimanded by a soldier at the Tomb of the Unknowns for being noisy on Veterans Day, and Hegseth later presented that soldier with a Joint Service Commendation Medal.",
-      "datos": [
-        "Pete Hegseth, the U.S. Defense Department secretary, was visiting the Tomb of the Unknowns on Veterans Day (Nov 11, 2026).",
-        "A soldier guarding the tomb publicly rebuked Hegseth, his wife, and his advisers for laughing and talking near the memorial.",
-        "The sentinel cited the Army regulation that all visitors must maintain silence and respect at all times.",
-        "On the following Thursday, Hegseth awarded the soldier a Joint Service Commendation Medal.",
-        "Hegseth posted on social media, saying, “We love soldiers. We love standards. Well done, Specialist.”"
-      ],
-      "conclusion": "The incident underscores that senior officials are not exempt from military protocol and that recognizing the soldier reinforces the importance of decorum at national memorials, a practical reminder for leaders to model respect."
-    },
-    {
-      "title": "The Oura Ring 4 is almost as good as the newer model, but $150 cheaper",
-      "url": "https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25665142/247314_Oura_Ring_4_AKrales_0105.jpg?quality=90&strip=all&crop=0%2C15.604857475276%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "language": "en",
-      "que_paso": "Oura is offering its previous‑generation Ring 4 at a reduced price, making it roughly $150 cheaper than the current Ring 5 while retaining the same sensor suite and software. Retailers such as Amazon, Best Buy and Target list the device for $249, a $100 cut from its original price, and a sizing kit is sold for $10 with a matching store credit.",
-      "datos": [
-        "$249 price for Oura Ring 4 at Amazon, Best Buy and Target (as low as $249).",
-        "$100 discount from the original retail price, first discount since July.",
-        "Available sizes range from size 8 to size 13, with most silver and black models in stock.",
-        "Best Buy offers an exclusive deep‑blue “midnight” color for $279.",
-        "A Ring 4 sizing kit costs $10 and includes $10 in store credit toward the ring.",
-        "Access to full features requires a subscription of $5.99 per month or $69.99 per year."
-      ],
-      "conclusion": "For an operations manager, the price cut makes the Ring 4 a cost‑effective option for health monitoring without sacrificing functionality, but the ongoing subscription should be factored into total ownership cost."
-    },
-    {
-      "title": "Bring Me The Horizon, Evanescence & Blink-182 To Headline 2027 ‘Download Festival",
-      "url": "https://www.theprp.com/2026/11/12/news/bring-me-the-horizon-evanescence-blink-182-to-headline-2027-download-festival/",
-      "image": "https://www.theprp.com/app/uploads/2026/11/downloadfestival2027-1200x675.webp",
-      "source": "The PRP",
-      "language": "en",
-      "que_paso": "The 2027 Download Festival lineup was unveiled, confirming more than a hundred performers and naming three headliners for the event in early June. The announcement also detailed the festival’s dates and venue in England.",
-      "datos": [
-        "Over 100 artists have been announced for the 2027 edition.",
-        "Headliners are Blink-182, Bring Me The Horizon, and Evanescence.",
-        "The festival will run from June 9 to June 13, 2027.",
-        "It will be held at Donington Park, Castle Donnington, England.",
-        "Presale tickets are available through downloadfestival.co.uk.",
-        "Better Lovers have not yet disclosed a replacement for vocalist Greg Puciato."
-      ],
-      "conclusion": "The extensive lineup and early scheduling signal significant logistical demands and commercial opportunities for suppliers and partners, making the event a key planning focus for operations teams."
-    },
-    {
-      "title": "Videoanálisis | Cuando se trata de Trump solo hay que hacerle caso a lo que hace, no a lo que dice",
-      "url": "https://elpais.com/us/2026-11-12/videoanalisis-cuando-se-trata-de-trump-solo-hay-que-hacerle-caso-a-lo-que-hace-no-a-lo-que-dice.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/WM2GVXLVGFGHLD6XIYEFDTTOEU.png?auth=adef5f5571ed3c785b1cb6ecf157dce623646155ce492e706fcc4b19bd91e8a6&width=1200",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Tras las elecciones de medio mandato, el presidente admitió que sus medidas migratorias habían sido excesivamente restrictivas y, al día siguiente, designó a Stephen Miller, conocido por su postura dura en inmigración, como jefe de Gabinete, reforzando la dirección del ejecutivo en ese tema.",
-      "datos": [
-        "El presidente Donald Trump declaró el 6 de noviembre de 2022 que sus políticas migratorias eran \"demasiado duras\".",
-        "El 7 de noviembre de 2022 nombró a Stephen Miller como jefe de Gabinete.",
-        "Stephen Miller había sido asesor principal de inmigración y director de política migratoria en la Casa Blanca desde 2017.",
-        "Miller es reconocido por impulsar la política de \"cero tolerancia\" y reducir los cupos de refugiados.",
-        "En esas elecciones los republicanos perdieron la mayoría en la Cámara de Representantes."
-      ],
-      "conclusion": "La designación de Miller indica que, pese a reconocer la dureza de las políticas, la administración seguirá persiguiendo una agenda migratoria restrictiva, lo que afectará la operatividad de las agencias de inmigración y la planificación estratégica del sector."
-    },
-    {
-      "title": "Abascal arranca la campaña con ataques a Pedro Sánchez y Begoña Gómez: \"Debería sentarse en el banquillo y está paseando a la señora\"",
-      "url": "https://www.eldiario.es/aragon/politica/abascal-arranca-campana-ataques-pedro-sanchez-begona-gomez-deberia-sentarse-banquillo-paseando-senora_1_13660090.html",
-      "image": "https://static.eldiario.es/clip/50446eb3-a998-442f-a3d7-f9d7c97da784_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "que_paso": "Santiago Abascal, presidente de Vox, abrió la campaña electoral en un mitin en el Palacio de Congresos de Huesca, donde lanzó duras críticas contra el presidente Pedro Sánchez y su esposa Begoña Gómez. Además, aprovechó el discurso para descalificar la huelga general convocada el miércoles por los principales sindicatos y presentar sus propuestas de liberalización del suelo y reemigración.",
-      "datos": [
-        "El mitin tuvo lugar el jueves 12 de noviembre de 2026 en Huesca, un día antes del arranque oficial de la campaña para las elecciones del 29 de noviembre.",
-        "La huelga general, declarada el miércoles 11 de noviembre, fue convocada por CCOO, UGT, CGT y el Sindicato de Inquilinas, siendo la primera con respaldo conjunto desde 2012.",
-        "Abascal calificó la huelga de \"sonoro fracaso\" y atribuyó su limitado seguimiento a la violencia de los piquetes en Cataluña y el País Vasco.",
-        "El motivo de la huelga fue la crisis de la vivienda y los salarios, intensificada tras el desahucio y fallecimiento de Maricarmen y el rechazo del Congreso a los decretos de vivienda del Gobierno.",
-        "Abascal propuso liberalizar el suelo, dar prioridad nacional a la vivienda pública y promover la \"reemigración\" de personas que, según él, \"no deberían estar\" en España."
-      ],
-      "conclusion": "El discurso de Abascal intensifica la polarización política y plantea cambios de política de vivienda que podrían afectar directamente a los costos operativos y de recursos humanos de las empresas en España."
-    },
-    {
-      "title": "Una campaña donde todos los políticos comparten una técnica: Decir la verdad, pero no del todo",
-      "url": "https://elpais.com/videos/2026-11-12/una-campana-donde-todos-los-politicos-comparten-una-tecnica-decir-la-verdad-pero-no-del-todo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/2LAWGLZLYRHVDAL4TITZPHKJRE.jpg?auth=ee0d57e84621249a237d169efd39e74af2c56aa67363c166fa12c86f4acd85b8&width=1200",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Se lanzó el programa \"Verdades a medias\", cuyo primer episodio revisa las declaraciones de los candidatos durante la precampaña sobre vivienda, migración y violencia de género, señalando que muchas de ellas son exageraciones o no se ajustan completamente a la realidad. El proyecto reúne a periodistas y analistas para contrastar esas afirmaciones con datos oficiales y así ofrecer al electorado una visión más precisa. La iniciativa forma parte de una campaña más amplia que busca mejorar la calidad del discurso político en España.",
-      "datos": [
-        "Formato llamado \"Verdades a medias\"",
-        "Primer episodio centrado en tres temáticas: vivienda, migración y violencia de género",
-        "Analiza declaraciones realizadas durante la precampaña de los candidatos",
-        "Identifica que las afirmaciones son exageraciones o no se ajustan totalmente a la realidad",
-        "Participan periodistas y analistas que contrastan con datos oficiales"
-      ],
-      "conclusion": "Este tipo de verificación obliga a los políticos a respaldar sus promesas con datos verificables y ayuda a los votantes a tomar decisiones informadas."
-    },
-    {
-      "title": "Nogueras erige a Junts como los únicos que priorizan a Catalunya: \"No nos apartaremos\"",
-      "url": "https://www.europapress.es/catalunya/noticia-nogueras-erige-junts-unicos-priorizan-catalunya-no-nos-apartaremos-20261112211949.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261112211949_1200.jpg",
-      "source": "Europa Press Ciencia",
-      "language": "es",
-      "que_paso": "Miriam Nogueras, candidata de Junts para las elecciones generales, declaró que su formación es la única que pone los intereses de Catalunya por encima de los bloques nacionales y se sitúa en el centro del espectro político. Aseguró que Junts no se alineará ni se apartará de esa posición durante la campaña.",
-      "datos": [
-        "Miriam Nogueras es la candidata de Junts a las elecciones generales de 2026.",
-        "Junts se presenta como la única formación que prioriza los intereses de Catalunya.",
-        "Según Nogueras, Junts no pertenece a ningún bloque español, a diferencia del PSOE y el PP.",
-        "La declaración incluye la frase exacta: \"Somos los del medio y no nos moveremos ni nos apartaremos\".",
-        "La afirmación se realizó en el contexto de la campaña electoral general de 2026."
-      ],
-      "conclusion": "Este posicionamiento busca diferenciar a Junts de los partidos tradicionales y podría captar el voto de catalanes que buscan una opción independiente y centrista, influyendo en la distribución de escaños en la región."
-    },
-    {
-      "title": "Maíllo llama a \"la remontada\" el 29N y destaca \"la valentía\" del Frente Amplio: \"Somos la izquierda que se arremanga\"",
-      "url": "https://www.europapress.es/andalucia/noticia-maillo-llama-remontada-29n-destaca-valentia-frente-amplio-somos-izquierda-arremanga-20261112210458.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261112210458_120.jpg",
-      "source": "Europa Press Ciencia",
-      "language": "es",
-      "que_paso": "Antonio Maíllo, coordinador federal de Izquierda Unida y portavoz de Por Andalucía, anunció su intención de lograr una gran recuperación electoral el 29 de noviembre, comparándola con la remontada de 2023, y subrayó la importancia del Frente Amplio para validar un gobierno progresista. Además, describió esas elecciones como las más abiertas de la historia y destacó la valentía del Frente Amplio como una izquierda que se arremanga.",
-      "datos": [
-        "Antonio Maíllo es coordinador federal de Izquierda Unida y portavoz de Por Andalucía",
-        "El Frente Amplio es calificado por Maíllo como \"relevante y diferenciador\"",
-        "Maíllo espera una \"remontada como la de 2023\" en las elecciones del 29 de noviembre de 2026",
-        "Define esas elecciones como \"las más abiertas de la historia\"",
-        "Afirma que el Frente Amplio \"somos la izquierda que se arremanga\""
-      ],
-      "conclusion": "El discurso de Maíllo muestra la estrategia de IU de usar al Frente Amplio como eje para consolidar una coalición progresista, lo que podría influir en la configuración del voto de izquierda en las próximas elecciones."
-    },
-    {
-      "title": "Aznar y Rajoy señalan el peligro del populismo y apelan a los \"mecanismos correctores\" de la democracia y la alternancia",
-      "url": "https://www.europapress.es/nacional/noticia-aznar-rajoy-senalan-peligro-populismo-apelan-mecanismos-correctores-democracia-alternancia-20261112210436.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261112210436_1200.jpg",
-      "source": "Europa Press Ciencia",
-      "language": "es",
-      "que_paso": "El pasado jueves, los expresidentes José María Aznar y Mariano Rajoy advirtieron que el populismo representa el principal riesgo para las democracias liberales y recordaron la importancia de la autorregulación institucional y la alternancia en el poder.",
-      "datos": [
-        "José María Aznar y Mariano Rajoy, expresidentes del Gobierno español, emitieron la declaración.",
-        "La advertencia se realizó el jueves 12 de noviembre de 2026.",
-        "Calificaron al populismo como el \"mayor enemigo\" de las democracias liberales.",
-        "Invocaron los \"mecanismos correctores\" de la democracia como garantía de libertad y estabilidad.",
-        "Destacaron la alternancia política como pilar fundamental del sistema democrático."
-      ],
-      "conclusion": "Para el lector, la alerta subraya que la estabilidad institucional depende de la capacidad de los partidos y organismos para autorregularse y de la rotación en el poder, lo que implica vigilar y reforzar esos mecanismos frente al auge populista."
-    },
-    {
-      "title": "Major Microsoft Outlook Outage Leaves People With Email Jobs Unable to Email",
-      "url": "https://www.wired.com/story/major-microsoft-outlook-outage-hits-365-customers-north-america/",
-      "image": "https://media.wired.com/photos/6af61a41cf6e4fa5fe151116/191:100/w_1280,c_limit/Security_Microsoft365_OutOfService_v1.jpg",
-      "source": "Wired",
-      "language": "en",
-      "que_paso": "On Thursday, Microsoft’s 365 suite suffered a widespread outage that prevented users across the Americas from accessing Exchange Online, Teams, SharePoint, Copilot 365 and Defender XDR after the company reported servers failing health checks and began redistributing traffic.",
-      "datos": [
-        "The outage was first announced at 10:40 am ET on Thursday via Microsoft’s 365 status page on X.",
-        "By just before 1 pm ET Microsoft confirmed issues accessing Exchange Online mailboxes through multiple connection methods in the Americas.",
-        "Downdetector began logging a spike in outage reports around 1:15 pm ET, with most complaints occurring around noon.",
-        "Microsoft paused all deployments and started moving traffic off the affected infrastructure in a status update posted just before 3 pm ET.",
-        "A Microsoft spokesperson told WIRED that the problem involved servers failing automated health checks, not a cyber‑attack.",
-        "The incident follows a July 2024 outage that impacted Azure services for several hours and cost companies millions in lost revenue."
-      ],
-      "conclusion": "The outage shows how a single cloud provider failure can halt email and collaboration tools for thousands of enterprises, highlighting the need for robust backup and multi‑cloud strategies to preserve operational continuity."
-    },
-    {
-      "title": "León XIV critica el machismo en Perú: “La violencia contra las mujeres hiere a toda la humanidad”",
-      "url": "https://elpais.com/america/2026-11-12/leon-xiv-critica-el-machismo-en-peru-la-violencia-contra-las-mujeres-hiere-a-toda-la-humanidad.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/MIOZVXRMCBC2BM7WEBRWPJEDFA.JPG?auth=c9abf6aa62a12a149bdcbdcf26327ad5969f6768ed4be8eb57bd543937f1bcae&width=1200",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "El Papa Francisco viajó a Lima y, frente a una gran multitud, denunció la persistencia del machismo en Perú, vinculando la violencia contra las mujeres con una amenaza a la dignidad humana y a la misión de la Iglesia. Además, subrayó la necesidad de mayor participación y visibilidad de las mujeres dentro de la estructura eclesial.",
-      "datos": [
-        "El discurso se pronunció ante aproximadamente 40.000 personas en la capital peruana.",
-        "Fue recibido por la presidenta Keiko Fujimori, quien celebró sus primeros 100 días de mandato.",
-        "Según el Instituto Nacional de Estadística, el 53 % de las mujeres peruanas declara haber sufrido violencia machista en su vida.",
-        "En lo que va del año 2026 se registraron 96 feminicidios en el país.",
-        "Durante el gobierno de Alberto Fujimori se esterilizó forzadamente a unas cuatro mil mujeres indígenas."
-      ],
-      "conclusion": "El mensaje del Papa resalta tensiones sociales que pueden afectar la estabilidad laboral y la reputación corporativa, indicando que las empresas deben reforzar políticas de igualdad y seguridad para sus equipos en contextos de alta violencia de género."
-    },
-    {
-      "title": "Feijóo promete desde Cataluña una \"auditoría del saqueo\" de Sánchez: \"Vengo a ofrecer un Gobierno que no robe\"",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-promete-cataluna-auditoria-saqueo-vengo-ofrecer-gobierno-no-robe-20261112205006.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261112205006_1200.jpg",
-      "source": "Europa Press Ciencia",
-      "language": "es",
-      "que_paso": "Alberto Núñez Feijóo inició su gira electoral en Badalona, Cataluña, anunciando que su gobierno realizará una auditoría del supuesto saqueo del anterior ejecutivo de Pedro Sánchez y prometiendo una gestión sin robos. Eligió la ciudad para presentar a Badalona como pieza clave en la reconstrucción y el cambio que propone su partido.",
-      "datos": [
-        "Feijóo comenzó la campaña en Badalona, Cataluña",
-        "Prometió una \"auditoría del saqueo\" del gobierno de Pedro Sánchez",
-        "Declaró que ofrecerá un gobierno que \"no robe\"",
-        "Aseguró que Badalona será \"protagonista en la reconstrucción\" y \"decisiva\" en el cambio",
-        "El anuncio se dio en el marco de la campaña electoral nacional del Partido Popular"
-      ],
-      "conclusion": "El mensaje busca captar el voto catalán señalando corrupción del rival y posicionando a Badalona como ejemplo de su propuesta, lo que podría influir en la competitividad del PP en la próxima elección."
-    },
-    {
-      "title": "Un cálculo alternativo del CIS preelectoral da la mayoría absoluta a PP y Vox aunque el PSOE sería primera fuerza",
-      "url": "https://www.eldiario.es/politica/calculo-alternativo-cis-preelectoral-da-mayoria-absoluta-pp-vox-psoe-seria-primera-fuerza_1_13659317.html",
-      "image": "https://static.eldiario.es/clip/7674d469-fba0-48d3-9d32-69c58dc65a6f_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "que_paso": "Ateneo del Dato publicó una estimación alternativa de los escaños basándose en los microdatos de la encuesta preelectoral del CIS, mostrando que la suma de PP y Vox podría alcanzar la mayoría absoluta aunque el PSOE seguiría siendo la primera fuerza. La proyección difiere de la horquilla oficial del CIS y sugiere un escenario de gobierno de coalición derecha para las elecciones del 29 de noviembre.",
-      "datos": [
-        "PP obtendría entre 103 y 117 escaños según Ateneo del Dato, frente a los 98‑106 del CIS",
-        "Vox alcanzaría entre 72 y 84 escaños, superando los 57‑65 del CIS y su récord de 52 escaños en 2019",
-        "La combinación PP‑Vox sumaría entre 175 escaños, suficiente para la mayoría absoluta (151 escaños)",
-        "El PSOE tendría entre 113 y 133 escaños en la estimación de Ateneo, por debajo de los 134‑143 del CIS",
-        "En 2023 el PP obtuvo 137 diputados, siendo el partido más votado bajo la dirección de Feijóo"
-      ],
-      "conclusion": "Este escenario indica que, pese a que el PSOE mantendría la posición de primera fuerza, la derecha podría gobernar, lo que implica posibles cambios en políticas económicas y regulatorias relevantes para la gestión operativa y estratégica."
-    },
-    {
-      "title": "Abascal carga contra el PSOE por la intervención de Begoña Gómez en el arranque de campaña: \"No tienen vergüenza\"",
-      "url": "https://www.europapress.es/nacional/noticia-abascal-carga-contra-psoe-intervencion-begona-gomez-arranque-campana-no-tienen-verguenza-20261112204214.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261112204214_120.jpg",
-      "source": "Europa Press Ciencia",
-      "language": "es",
-      "que_paso": "Santiago Abascal, líder de Vox, criticó este jueves la participación de Begoña Gómez, esposa del presidente Pedro Sánchez, en el mitin de apertura de la campaña electoral prevista para el 29 de noviembre. Abascal acusó al PSOE de falta de vergüenza por esa intervención, intensificando la disputa entre ambos partidos.",
-      "datos": [
-        "Santiago Abascal es el presidente de Vox.",
-        "Begoña Gómez es la esposa del presidente del Gobierno, Pedro Sánchez.",
-        "La intervención tuvo lugar en el mitin de arranque de la campaña para las elecciones del 29 de noviembre de 2026.",
-        "Abascal describió la actuación de Gómez como \"No tienen vergüenza\".",
-        "El hecho se produjo el jueves 13 de noviembre de 2026."
-      ],
-      "conclusion": "El recriminatorio de Vox evidencia una creciente confrontación entre los principales partidos, lo que podría afectar la imagen del PSOE y la dinámica de la campaña electoral antes del voto."
-    },
-    {
-      "title": "Avatar Land Zakk Wylde Cameo For Their New Christmas Track “Naughty List”",
-      "url": "https://www.theprp.com/2026/11/12/news/avatar-land-zakk-wylde-cameo-for-their-new-christmas-track-naughty-list/",
-      "image": "https://www.theprp.com/app/uploads/2026/07/avatarlarge-1200x675.webp",
-      "source": "The PRP",
-      "language": "en",
-      "que_paso": "Swedish metal band Avatar released a Christmas‑themed single called “Naughty List,” enlisting guitarist Zakk Wylde for a cameo appearance, and the accompanying video was directed by Johan Carlén. The track marks a seasonal departure from their usual releases and leverages Wylde’s reputation from Black Label Society and Ozzy Osbourne collaborations.",
-      "datos": [
-        "Avatar is a Swedish alternative metal group.",
-        "The song is titled “Naughty List.”",
-        "Zakk Wylde, known for Black Label Society, Pantera and Ozzy Osbourne, appears in the track’s video.",
-        "Johan Carlén directed the music video.",
-        "The release is positioned as a Christmas‑themed single."
-      ],
-      "conclusion": "The collaboration gives Avatar a high‑profile guest that could attract fans of classic metal, while the holiday theme provides a timely promotional hook for the season."
-    },
-    {
-      "title": "If You Bought Nvidia Stock One Year Ago, You Would Now Have Lost a Substantial Amount of Money",
-      "url": "https://futurism.com/artificial-intelligence/nvidia-stock-year-lost-money",
-      "image": "https://futurism.com/wp-content/uploads/2026/11/nvidia-stock-year-lost-money.jpg?w=1200",
-      "source": "Futurism",
-      "language": "en",
-      "que_paso": "Nvidia’s chief executive Jensen Huang resigned after revelations of two extramarital affairs, prompting the board to cut ties with him. The scandal triggered a >5% drop in Nvidia’s share price on Thursday and intensified concerns about the company’s leadership and potential regulatory scrutiny.",
-      "datos": [
-        "Nvidia’s shares fell more than 5% on Thursday following the announcement of Huang’s resignation.",
-        "The stock is down almost 30% over the past month and over 14% over the last 12 months.",
-        "CFO Colette Kress was appointed interim CEO after Huang’s departure.",
-        "Bernstein reduced its Nvidia price target from $400 to $200.",
-        "The New York Times reported Huang’s second affair involved Nvidia president of healthcare Kimberly Powell.",
-        "Elon Musk said hiring Huang would be an \"honor,\" after which SpaceX shares rose."
-      ],
-      "conclusion": "The leadership turmoil highlights operational risk for AI‑chip dependent businesses, urging investors and AI builders to diversify exposure and watch for possible regulatory actions."
-    },
-    {
-      "title": "Mejores pulseras de actividad 2026. Cuál comprar y cinco modelos recomendados",
-      "url": "https://www.xataka.com/seleccion/mejores-pulseras-actividad",
-      "image": "https://i.blogs.es/28ab10/google-fitbit-edge/840_560.jpeg",
-      "source": "Xataka",
-      "language": "es",
-      "que_paso": "El artículo revisa las pulseras de actividad disponibles en 2026 y señala a la Huawei Band 11 Pro como la opción más completa según el autor, frente a otras alternativas más baratas o más caras.",
-      "datos": [
-        "Huawei Band 11 Pro incluye pantalla AMOLED y GPS integrado",
-        "Autonomía declarada de hasta 21 días con uso intensivo",
-        "Huawei Health es la aplicación acompañante, considerada poco cómoda por el autor",
-        "Existe una pulsera más económica sin GPS y con autonomía similar",
-        "Una pulsera premium con pantalla cuadrada ofrece seguimiento de salud avanzado pero tiene autonomía limitada y precio alto"
-      ],
-      "conclusion": "Para un gestor que valora datos concretos, la Huawei Band 11 Pro ofrece la mejor relación calidad‑precio y suficiente duración para uso continuo, facilitando el seguimiento de actividad sin depender del móvil."
-    },
-    {
-      "title": "El Frente Amplio arranca la campaña apelando a la remontada: \"Si llegamos a un 10%, se les acaba la fiesta\"",
-      "url": "https://www.eldiario.es/politica/frente-amplio-arranca-campana-apelando-remontada-si-llegamos-10-les-acaba-fiesta_1_13659726.html",
-      "image": "https://static.eldiario.es/clip/665ee09e-0824-45c5-87b6-8963ba85d96e_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "que_paso": "El número uno del Frente Amplio en Madrid, Emilio Delgado, lanzó la campaña electoral en el parque Cerro del Tío Pío de Vallecas, anunciando que alcanzar entre el 10 % y el 11 % de los votos les permitiría pasar de 13 a 27 escaños y evitar que la derecha gobierne. La coalición busca convencer a los votantes de que esa barrera es la única forma de impedir que la extrema derecha llegue al poder.",
-      "datos": [
-        "El Frente Amplio estima estar alrededor del 8 % de los votos, lo que equivaldría a unos 13 escaños.",
-        "Con un 10 % de los votos proyectarían 22 escaños; con un 11 % alcanzarían 27 escaños.",
-        "El acto de arranque se celebró en el parque Cerro del Tío Pío, barrio de Vallecas, Madrid.",
-        "Participaron Ada Colau y los cuatro primeros puestos de la lista madrileña: Emilio Delgado, Tesh Sidi, Toni Valero y Verónica Martínez.",
-        "Delgado señaló que quedan dos semanas para superar la barrera del 10 % de votos."
-      ],
-      "conclusion": "Superar el 10 % es crucial para que el Frente Amplio pueda bloquear una posible mayoría de la derecha y ampliar su influencia parlamentaria, definiendo la estrategia de los próximos días."
-    },
-    {
-      "title": "Filth Is Eternal Reunited With Their Tour Van That Was Stolen Last Month, Arrests Made",
-      "url": "https://www.theprp.com/2026/11/12/news/filth-is-eternal-reunited-with-their-tour-van-that-was-stolen-last-month-arrests-made/",
-      "image": "https://www.theprp.com/app/uploads/2026/10/filthiseternallarge-1200x675.webp",
-      "source": "The PRP",
-      "language": "en",
-      "que_paso": "The band Filth Is Eternal reported that the 2002 touring van stolen in Seattle on Oct 29 has been recovered, and police have arrested suspects, as announced in an Instagram story on Nov 12. The recovery follows a social‑media plea for fans to watch for the vehicle.",
-      "datos": [
-        "The van is a 2002 model used for touring.",
-        "The theft was reported on October 29, 2026, in the Seattle, Washington area.",
-        "Filth Is Eternal posted an update on November 12, 2026, via Instagram Stories.",
-        "The band thanked fans for spreading the word about the missing van.",
-        "Police made arrests related to the theft (specific number of suspects not disclosed).",
-        "The van was recovered on or before November 12, 2026."
-      ],
-      "conclusion": "The case demonstrates how fan‑driven alerts and swift police action can quickly recover stolen assets, underscoring social media’s practical role for touring musicians."
-    },
-    {
-      "title": "Trump amenaza a México con duplicar aranceles si no detiene las caravanas de migrantes con destino a la frontera",
-      "url": "https://www.bbc.com/mundo/articles/cj62pglgdwreo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/news/1200/branded_mundo/1069/live/ecafa590-debf-11f1-8fb5-a771a656a227.jpg",
-      "source": "BBC Mundo",
-      "language": "es",
-      "que_paso": "El presidente de EE.UU., Donald Trump, anunció que duplicará los aranceles a productos mexicanos si México no frena las caravanas de migrantes que, según él, se dirigen a la frontera. La presidenta de México, Claudia Sheinbaum, respondió que las caravanas son pequeñas, que una ya tiene menos de cien personas y que la otra se formó en Honduras, y señaló que en los últimos dos años han llegado alrededor de diez caravanas por el sur. La amenaza se produce mientras se renegocian los términos del T‑MEC.",
-      "datos": [
-        "Trump emitió la amenaza el 13 de noviembre de 2026 mediante un mensaje en redes sociales",
-        "Sheinbaum indicó que la caravana de Arriaga, Chiapas, pasó de 500‑600 migrantes a menos de 100",
-        "Sheinbaum afirmó que en los últimos dos años han llegado cerca de diez caravanas o más por la frontera sur de México",
-        "Tras las elecciones de medio mandato, el Partido Demócrata obtuvo mayoría en el Congreso de EE.UU.",
-        "El secretario de Seguridad Nacional de EE.UU., Mark Wayne Mullin, publicó en redes que usarán todos los recursos para asegurar las fronteras"
-      ],
-      "conclusion": "La presión tarifaria de Trump introduce incertidumbre en las negociaciones del T‑MEC y podría afectar la cadena de suministro bilateral, obligando a México a reforzar sus políticas migratorias para evitar repercusiones económicas."
-    },
-    {
-      "title": "Ukraine says it can’t stop Russian strikes because Starshield is limited again",
-      "url": "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/zelenskyy-1152x648-1794506400.jpg",
+      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+      "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305018954-1024x648.jpg",
       "source": "Ars Technica",
       "language": "en",
-      "que_paso": "President Volodymyr Zelenskyy announced at the European Political Community summit in Ireland that the Starshield service on Ukrainian drones is again limited to a maximum speed of 161 km/h, which he says hampers Ukraine’s ability to intercept Russian Shahed drones. SpaceX denied any change to the service, while the U.S. government has not clarified the reason for the restriction.",
+      "que_paso": "SpaceX launched Starship on its 15th test flight from Starbase, Texas, on Friday, deploying 26 Starlink V3 satellites into orbit. The first‑stage booster aborted a planned landing, was diverted into the Gulf of Mexico and exploded, while the upper stage remains in orbit with a potential catch scheduled for Saturday.",
       "datos": [
-        "Zelenskyy said the speed limit is back at 161 km/h (100 mph) for Starshield on occupied Ukrainian territory, announced on 13 Nov 2026 at the 9th European Political Community Summit in Ireland.",
-        "SpaceX’s media relations department responded to Ars that the allegation is false and that there has been no change to Starshield.",
-        "Elon Musk previously stated that any decisions on Starshield restrictions are made by the U.S. government.",
-        "The Pentagon inspector general’s office declined a request from U.S. senators to investigate who ordered the speed restrictions.",
-        "The earlier speed restriction was lifted by 24 Oct 2026 after being first imposed about a month earlier.",
-        "Ukraine officials claim the speed limit prevents drone interceptors from catching Russian jet‑powered Shahed drones, leading to more civilian casualties."
+        "The launch took place on Friday, 14 November 2026, from Starbase, Texas.",
+        "It was Starship’s 15th test flight in more than three years.",
+        "26 Starlink V3 satellites were released about 40 minutes after liftoff, each with solar panels that extend to 60 m when fully deployed.",
+        "The first‑stage booster was commanded to divert into the Gulf of Mexico and exploded, observed from over 10 miles away.",
+        "If successful, the upper stage is slated to land at approximately 3:15 pm Central Time (21:15 UTC) on Saturday.",
+        "This was only the second time Starship has reached low‑Earth orbit."
       ],
-      "conclusion": "The reinstated speed cap reduces Ukraine’s drone‑defense capability, highlighting how U.S. policy decisions can directly affect frontline operations and civilian protection."
+      "conclusion": "The flight demonstrates Starship’s operational payload capability, but reusability is still unproven; a successful upper‑stage catch on Saturday would be a pivotal step toward rapid, low‑cost launch cycles for SpaceX."
     },
     {
-      "title": "Begoña Gómez entra de lleno en campaña e interviene por primera vez en un mitin del PSOE",
-      "url": "https://www.europapress.es/nacional/noticia-begona-gomez-entra-lleno-campana-interviene-primera-vez-mitin-psoe-20261112200930.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261112200930_1200.jpg",
-      "source": "Europa Press Ciencia",
+      "title": "Airports Fill Up With Stuck Families and Stranded Travelers",
+      "url": "https://www.nytimes.com/2026/11/13/us/airports-stranded-travelers.html",
+      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13faa-groundstop-scene-bmwq/13faa-groundstop-scene-bmwq-facebookJumbo-v2.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "On Friday afternoon the Federal Aviation Administration issued a rare nationwide ground stop, grounding flights at the United States' busiest airports. The shutdown left more than 1.5 million scheduled passengers stranded in terminals, including Chicago resident Frank Foto who risked missing a Saturday cruise from Miami.",
+      "datos": [
+        "The FAA announced the ground stop on Friday, November 13, 2026.",
+        "Cirium reported that over 1.5 million passengers were scheduled to board flights after the stop was issued.",
+        "The stop affected all major U.S. airports, causing terminals and baggage claim areas to overflow with stranded travelers.",
+        "Frank Foto, a 34‑year‑old from Chicago, faced missing a cruise departing Miami on Saturday, November 14, 2026, for his mother‑in‑law’s 60th birthday."
+      ],
+      "conclusion": "The event exposes how a single regulatory action can disrupt massive passenger flows, emphasizing the need for robust contingency plans and real‑time data integration in airline and travel operations."
+    },
+    {
+      "title": "Así se vació el cielo de Estados Unidos tras la suspensión de los vuelos",
+      "url": "https://elpais.com/us/2026-11-13/asi-se-vacio-el-cielo-de-estados-unidos-tras-la-suspension-de-los-vuelos.html",
+      "image": "",
+      "source": "El País",
       "language": "es",
-      "que_paso": "Begoña Gómez, esposa del presidente Pedro Sánchez, tomó la palabra en el mitin de arranque de la campaña electoral del PSOE en Sevilla, agradeciendo el respaldo de los militantes, sobre todo de las mujeres, y marcó su primera intervención en un acto del partido.",
+      "que_paso": "La Administración Federal de Aviación (FAA) emitió una orden de suspensión de todos los despegues en EE. UU. porque los centros de control de rutas presentaron una falla técnica, lo que paralizó el tráfico aéreo nacional. Esta medida afecta a todas las aerolíneas y a millones de pasajeros, generando interrupciones en la logística nacional.",
       "datos": [
-        "Begoña Gómez es la esposa del presidente del Gobierno, Pedro Sánchez",
-        "El discurso se realizó en el mitin de arranque de campaña del PSOE en Sevilla",
-        "La intervención tuvo lugar el jueves 12 de noviembre de 2026",
-        "Fue la primera vez que Begoña Gómez intervenía en un mitin del PSOE",
-        "Agradeció el apoyo recibido por los militantes socialistas, especialmente de las mujeres",
-        "La información fue publicada por Europa Press con sede en Sevilla/Madrid"
+        "Orden emitida por la FAA el 14‑nov‑2026",
+        "Falla en los centros de guía de rutas que gestionan la navegación de aviones",
+        "Es la tercera interrupción de este tipo en la historia de EE. UU.",
+        "Incidentes previos: el 11‑septiembre‑2001 y el apagón informático de 2023",
+        "No se reportaron accidentes durante la suspensión",
+        "Se espera reanudación tras la restauración de los sistemas de guía"
       ],
-      "conclusion": "Su presencia busca reforzar la movilización del electorado femenino y demostrar el compromiso directo de la familia del presidente con la campaña del PSOE."
+      "conclusion": "El cese total de vuelos muestra la vulnerabilidad de la infraestructura de control aéreo y obliga a planificar rutas alternativas y reservas de capacidad en la cadena de suministro."
     },
     {
-      "title": "Jensen Huang Resigns From Nvidia After Affairs",
-      "url": "https://www.nytimes.com/2026/11/12/technology/nvidia-jensen-huang.html",
-      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/00biz-jensen-huang-gzlb/00biz-jensen-huang-gzlb-mediumSquareAt3X-v2.jpg",
+      "title": "EEUU descarta la amenaza terrorista e insiste en un fallo de telecomunicaciones ante la suspensión de vuelos",
+      "url": "https://www.europapress.es/internacional/noticia-eeuu-descarta-amenaza-terrorista-insiste-fallo-telecomunicaciones-suspension-vuelos-20261114005402.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261114005402_1200.jpg",
+      "source": "Europa Press Tecnología",
+      "language": "es",
+      "que_paso": "El secretario de Seguridad Nacional, Markwayne Mullin, anunció que la paralización total de los vuelos en EE. UU. no responde a una amenaza terrorista. Señaló que la causa está relacionada con problemas de telecomunicaciones, aunque no especificó su origen.",
+      "datos": [
+        "Markwayne Mullin, Secretario de Seguridad Nacional de EE. UU., emitió la declaración el 14 de noviembre de 2026.",
+        "Se suspendieron todos los vuelos comerciales y privados en territorio estadounidense.",
+        "Mullin descartó que la suspensión estuviera motivada por una amenaza terrorista.",
+        "Atribuyó la interrupción a problemas de telecomunicaciones.",
+        "No se proporcionó información sobre el origen de los fallos de telecomunicaciones."
+      ],
+      "conclusion": "Esto indica que la operatividad aérea puede verse comprometida por fallas de infraestructura de comunicaciones, por lo que las empresas deben reforzar planes de contingencia y monitorear la resiliencia de sus sistemas."
+    },
+    {
+      "title": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers",
+      "url": "https://www.nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html",
+      "image": "https://static01.nyt.com/images/2026/09/03/business/00anthropic-knives-out/00anthropic-knives-out-facebookJumbo.jpg",
       "source": "NYT Tech",
       "language": "en",
-      "que_paso": "Jensen Huang, the long‑time chief executive of Nvidia, stepped down after investigations into his personal relationships. The resignation follows revelations of an alleged affair with a woman identified as a Chinese intelligence asset and a separate relationship with a company subordinate. Colette Kress, Nvidia’s CFO, was named to run the company on an interim basis.",
+      "que_paso": "Anthropic CEO Dario Amodei led his company to lobby the White House against releasing certain AI models, while rival firms Microsoft and Nvidia pushed for openness, drafting a joint letter in late July. After the draft circulated, dozens of firms quickly signed, and within a week another 200, including OpenAI, added their support, highlighting a sharp split in the industry over AI safety versus commercial opportunity.",
       "datos": [
-        "Jensen Huang resigned as CEO of Nvidia.",
-        "He was investigated for an affair with a woman alleged to be a Chinese spy.",
-        "He was also investigated for a relationship with a subordinate at Nvidia.",
-        "Nvidia’s chief financial officer, Colette Kress, was appointed interim CEO.",
-        "Nvidia is a leading designer of artificial‑intelligence chips."
+        "Dario Amodei is the chief executive of Anthropic.",
+        "Anthropic and OpenAI lobbied the White House to block development and wide sharing of specific AI models.",
+        "At the end of July, Microsoft CEO Satya Nadella and Nvidia CEO Jensen Huang exchanged email drafts of a letter urging that the models remain open.",
+        "Two dozen companies agreed to the letter before it became public.",
+        "Over the next week, 200 additional companies, including OpenAI, signed the letter.",
+        "Anthropic is preparing for what is expected to be one of the largest initial public offerings ever, scheduled for later this month."
       ],
-      "conclusion": "The abrupt leadership change could disrupt Nvidia’s AI‑chip roadmap and affect its market position, while an interim CFO may prioritize operational stability."
+      "conclusion": "The episode underscores a growing rift between safety‑focused lobbying and profit‑driven openness, and signals Anthropic's rising market clout as it approaches a major IPO."
     },
     {
-      "title": "Las zonas heladas de la Tierra han traspasado los umbrales seguros para la humanidad",
-      "url": "https://elpais.com/clima-y-medio-ambiente/2026-11-12/las-zonas-heladas-de-la-tierra-han-traspasado-los-umbrales-seguros-para-la-humanidad.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/PGDMDG7Q7VGEXF3ISKVJBKFWA4.jpg?auth=1b47fc8af27e97d75e211bee41ccf9fcf5ac7b1ad86953f5fffb8c7f0e345ce0&width=1200",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Un equipo interdisciplinario de más de 30 científicos de una docena de países, liderado por el Centro de Resiliencia de Estocolmo, publicó este jueves en Science un estudio que afirma que la degradación de la criosfera ha superado los límites seguros para la humanidad. El informe señala que este cruce de umbrales incrementa riesgos climáticos globales, como mayor calentamiento, elevación del nivel del mar e inundaciones y sequías catastróficas, y propone añadir la criosfera como un décimo límite planetario.",
-      "datos": [
-        "El estudio fue publicado el 13 de noviembre de 2026 en la revista Science",
-        "Participaron más de 30 científicos de aproximadamente 12 países, bajo la coordinación del Centro de Resiliencia de Estocolmo",
-        "Según el diagnóstico, la criosfera ha traspasado su \"espacio operativo seguro\" desde mediados del siglo XX",
-        "Actualmente se consideran sobrepasados 7 de los 9 límites planetarios definidos en 2009 por Rockström y Steffen",
-        "El trabajo propone incluir la criosfera como el décimo límite planetario para guiar decisiones políticas"
-      ],
-      "conclusion": "El hallazgo obliga a los responsables a integrar la protección de la criosfera en las políticas climáticas, pues su deterioro acelera efectos extremos que impactan a todas las regiones, no solo a las cercanas al hielo."
-    },
-    {
-      "title": "Jensen Huang’s $470 Billion Affair",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/",
-      "image": "https://media.wired.com/photos/6af4e95d91c3d23473376fc7/191:100/w_1280,c_limit/Uncanny-Valley-Jensen-Spy-Business.jpg",
-      "source": "Wired",
+      "title": "Howard Lutnick Has Got to Go",
+      "url": "https://www.nytimes.com/2026/11/13/opinion/jensen-huang-nvidia-howard-lutnick-commerce.html",
+      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13mcguire-bcjp/13mcguire-bcjp-facebookJumbo.jpg",
+      "source": "New York Times",
       "language": "en",
-      "que_paso": "Jensen Huang, Nvidia's chief executive, disclosed that he had an affair with businesswoman Alice Huang, whom U.S. intelligence says was recruited by China's Ministry of State Security, prompting Nvidia's board to open an investigation and sparking discussion about AI security and export controls; the episode also noted that Democrats swept the recent midterm elections, leading far‑right groups to claim the MAGA movement is dead.",
+      "que_paso": "Jensen Huang, Nvidia's chief executive, stepped down after admitting an affair with a woman alleged to be a Chinese intelligence asset, and shortly thereafter the U.S. Commerce Department under Secretary Howard Lutnick chose not to enforce newly‑imposed AI chip export controls, allowing large‑scale smuggling to continue. The decision created a pathway for billions of chips to reach China and Southeast Asian markets despite the Biden administration’s 2025 restrictions.",
       "datos": [
-        "Jensen Huang publicly admitted the affair on a WIRED Uncanny Valley podcast episode.",
-        "U.S. intelligence agencies have identified Alice Huang as recruited by China’s Ministry of State Security.",
-        "Nvidia’s board of directors has launched an internal investigation into the incident.",
-        "The New York Times reported weeks earlier that U.S. intelligence linked Alice Huang to Chinese espionage.",
-        "Democrats won a majority of contested seats in the latest U.S. midterm elections.",
-        "The podcast was hosted by Brian Barrett, Zoë Schiffer, and Leah Feiger, who examined implications for AI and chip export controls."
+        "Jensen Huang resigned on Thursday after acknowledging an extramarital relationship with an alleged Chinese spy.",
+        "Howard Lutnick assumed the role of Commerce Secretary in February 2025 and declined to enforce the January 2025 export controls on AI chips.",
+        "The January 2025 Biden administration export controls required export licenses for unvetted companies purchasing large AI chips.",
+        "Megaspeed allegedly smuggled about $7 billion worth of Nvidia chips into China.",
+        "Taiwanese customs data show that from 2025 to 2026 over $60 billion in AI chips were shipped to Singapore, Malaysia and Thailand."
       ],
-      "conclusion": "The revelation raises immediate security and governance concerns for Nvidia and the broader AI sector, while the political shift underscores how domestic upheaval can intersect with tech‑related controversies."
+      "conclusion": "The lapse in enforcement has weakened U.S. strategic control over critical AI hardware, highlighting the need for robust, accountable export‑control mechanisms to protect national security."
     },
     {
-      "title": "Un soldado reprende a Hegseth por reírse ante la Tumba del Soldado Desconocido y el jefe del Pentágono lo condecora después",
-      "url": "https://www.eldiario.es/internacional/soldado-reprende-hegseth-reirse-tumba-soldado-desconocido-jefe-pentagono-condecora-despues_1_13659856.html",
-      "image": "https://static.eldiario.es/clip/4e53c07c-ad50-45e3-b26e-2e99c61d3447_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "title": "Lauren Boebert Loses Re-election Bid in Colorado House Race to Eileen Laubacher",
+      "url": "https://www.nytimes.com/2026/11/09/us/lauren-boebert-colorado-house-election.html",
+      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03hfo-pol-boebert-loses-tjkf/03hfo-pol-boebert-loses-tjkf-facebookJumbo.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "Incumbent Republican Rep. Lauren Boebert was defeated in Colorado’s conservative congressional district by Democrat Eileen Laubacher, a retired Navy rear admiral, after a close vote count. Boebert had switched to this district a few years earlier when her previous seat became more competitive, but the shift was insufficient to retain her seat.",
+      "datos": [
+        "Eileen Laubacher led by more than 3,000 votes when the Associated Press called the race on Friday, November 8, 2026.",
+        "Democratic campaign ads in the district totaled over $7 million, according to media‑tracking firm AdImpact.",
+        "The ad‑spending ratio favored Democrats at more than 23 to 1 over Republicans.",
+        "Lauren Boebert had moved to the district after her former district grew more competitive.",
+        "Boebert posted a video on X saying, “Public service was never meant to be a lifetime career…”.",
+        "Laubacher is a retired Navy rear admiral and mother of five."
+      ],
+      "conclusion": "The loss shows Democrats can win in traditionally Republican Colorado districts, signaling a shift that could reshape GOP campaign strategies and resource allocation in similar swing areas."
+    },
+    {
+      "title": "Microsoft’s Global Outage and Fixes: What We Know",
+      "url": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
+      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13xp-microsoftWWK-1-lfcv/13xp-microsoftWWK-1-lfcv-facebookJumbo.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "On Thursday around noon Eastern time, Microsoft’s core services—including Outlook, Teams, and Copilot—experienced a worldwide failure that spread to over 70 countries, interrupting communications for schools, government agencies, and businesses. The company’s Redmond‑based team reported recovery progress on Friday and said the cause was a technical issue, not a cyber attack, and that a concurrent FAA ground stop was unrelated.",
+      "datos": [
+        "Outage began at approximately 12:00 PM ET on Thursday, November 13 2026.",
+        "Downdetector reported the disruption impacted users in more than 70 countries and territories.",
+        "Microsoft said the incident affected “millions of users,” though no exact count was provided.",
+        "In its Friday statement, Microsoft confirmed there was “no indication this is the result of malicious or cyber activity.”",
+        "The company described the root cause as “a technical issue not related to cyber or A.I. agents.”",
+        "Microsoft noted that the FAA’s nationwide ground stop later Friday afternoon was not linked to the outage."
+      ],
+      "conclusion": "For operations teams, the outage highlights the risk of relying on a single cloud provider for critical communications and the need for contingency plans that can be activated quickly when large‑scale service failures occur."
+    },
+    {
+      "title": "Meet Eileen Laubacher, the Navy Veteran Who Beat Lauren Boebert",
+      "url": "https://www.nytimes.com/2026/11/13/us/elections/eileen-laubacher-defeated-lauren-boebert.html",
+      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10nat-laubacher-boebert-vhmj/10nat-laubacher-boebert-vhmj-facebookJumbo.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "Eileen Laubacher, a Navy veteran and former Republican running as a Democrat, defeated incumbent Lauren Boebert in Colorado’s most Republican‑leaning congressional district after a grassroots tour of rural towns. The Associated Press announced her victory on Friday, and she began her orientation with other new House members the following Monday.",
+      "datos": [
+        "Laubacher drove approximately 40,000 miles in her campaign car across eastern Colorado’s ranching towns and rural hospitals.",
+        "She is a retired Navy rear admiral and a mother of five.",
+        "The race was in Colorado’s 3rd congressional district, the state’s most Republican‑leaning district.",
+        "The Associated Press declared Laubacher the winner on Friday, November 8, 2026.",
+        "She began a House orientation on Monday, November 11, 2026, in Washington.",
+        "Her campaign platform included cutting costs, ending former President Trump’s tariffs, and reducing middle‑class taxes."
+      ],
+      "conclusion": "Her win demonstrates that intensive, on‑the‑ground outreach can overturn entrenched partisan strongholds, offering a practical lesson that direct engagement and clear policy proposals can shift voter behavior even in traditionally hostile districts."
+    },
+    {
+      "title": "Mucho más que un castillo: siete pueblos españoles que nacieron al amparo de una fortaleza",
+      "url": "https://www.eldiario.es/viajes/castillo-siete-pueblos-espanoles-nacieron-amparo-fortaleza_1_13655918.html",
+      "image": "https://static.eldiario.es/clip/da878ff7-704c-42bb-bec3-e9ed0943606c_facebook-aspect-ratio-1200-675_default_0.jpg",
       "source": "elDiario.es",
       "language": "es",
-      "que_paso": "El secretario de Guerra, Pete Hegseth, fue reprendido por el especialista Thomas Iglesias después de que una carcajada surgiera mientras se tomaban fotos en la Tumba del Soldado Desconocido tras la ceremonia del Día de los Veteranos. Para reparar la situación, Hegseth entregó al soldado la Medalla de Encomienda Conjunta de las Fuerzas Armadas en una visita al Pentágono.",
+      "que_paso": "El artículo describe cómo, en la época medieval, la construcción de castillos en distintas regiones de España dio origen a poblaciones que se desarrollaron alrededor o dentro de sus murallas, formando los núcleos urbanos actuales. Se analizan siete municipios cuyo nacimiento está directamente relacionado con la presencia de una fortaleza, ilustrando el papel estratégico de estos edificios en la configuración del territorio.",
       "datos": [
-        "El incidente ocurrió el 11 de noviembre de 2026 en el Cementerio Nacional de Arlington.",
-        "Thomas Iglesias recibió la Medalla de Encomienda Conjunta de las Fuerzas Armadas por su cumplimiento de funciones en la tumba.",
-        "La ceremonia contó con la presencia del presidente Donald Trump y el vicepresidente JD Vance.",
-        "Desde 1948 la tumba es custodiada 24 horas al día por el 3.º Regimiento de Infantería, conocido como La Vieja Guardia.",
-        "Un intento de destitución contra Hegseth liderado por el congresista Thomas Massie fracasó en la votación del martes anterior al incidente."
+        "Los castillos medievales controlaban territorio, defendían a la población y vigilaban caminos y fronteras.",
+        "Alrededor de los castillos surgieron casas, calles y barrios que formaron núcleos urbanos.",
+        "En algunos casos, las viviendas se construyeron dentro de las murallas del castillo.",
+        "El artículo menciona siete pueblos españoles cuyo origen está ligado a una fortaleza."
       ],
-      "conclusion": "El gesto de premiar al soldado subraya la sensibilidad política y militar en torno a símbolos de honor, mientras que la reciente amenaza de destitución indica una creciente presión legislativa sobre la cúpula del Departamento de Defensa."
+      "conclusion": "Este análisis muestra que una infraestructura estratégica puede ser el motor del crecimiento de comunidades, una lección útil para diseñar sistemas operativos y plataformas de IA que requieran una base sólida y controlada para escalar eficientemente."
     },
     {
-      "title": "Colau pide dar la vuelta a los sondeos y avisa a Sánchez: \"El futuro Gobierno será contra la especulación o no será\"",
-      "url": "https://www.europapress.es/nacional/noticia-colau-pide-dar-vuelta-sondeos-avisa-sanchez-futuro-gobierno-sera-contra-especulacion-no-sera-20261112195439.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261112195439_1200_v2.jpg",
-      "source": "Europa Press Ciencia",
+      "title": "EEUU suspende todos sus vuelos de salida por \"motivos de seguridad\"",
+      "url": "https://www.europapress.es/internacional/noticia-eeuu-suspende-todos-vuelos-salida-motivos-seguridad-20261113224537.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261113224537_1200.jpg",
+      "source": "Europa Press Tecnología",
       "language": "es",
-      "que_paso": "Ada Colau, alcaldesa de Barcelona, pidió revertir la tendencia de los sondeos y advirtió al presidente Pedro Sánchez que el próximo Gobierno deberá oponerse a la especulación para poder existir. Reconoció que la campaña electoral será difícil y solicitó una movilización masiva para que el Frente Amplio se convierta en el eje del bloque de izquierdas en la próxima contienda política.",
+      "que_paso": "El gobierno de EE. UU. ordenó la paralización total de los vuelos de salida desde todos sus aeropuertos, indicando que la medida responde a circunstancias extraordinarias y a motivos de seguridad, y estableció que los aviones deben permanecer en tierra hasta que se emita una nueva autorización.",
       "datos": [
-        "Ada Colau es la alcaldesa de Barcelona",
-        "Pedro Sánchez es el presidente del Gobierno de España",
-        "Frente Amplio es una coalición de izquierdas que busca consolidarse como factor clave",
-        "La declaración se realizó en Madrid el 12 de noviembre de 2026",
-        "La información proviene de Europa Press",
-        "Cita textual: \"El futuro Gobierno será contra la especulación o no será\""
+        "La suspensión se anunció el viernes 14 de noviembre de 2026.",
+        "Afecta a todos los aeropuertos del territorio estadounidense.",
+        "La autoridad citó \"circunstancias extraordinarias y motivos de seguridad\" como causa.",
+        "Los vuelos de salida deberán permanecer en tierra hasta nuevo aviso."
       ],
-      "conclusion": "El mensaje de Colau intensifica la presión sobre Sánchez para adoptar una agenda anti‑especulación y refuerza la estrategia de un bloque izquierdista unido, lo que podría influir en la agenda política y electoral próxima."
+      "conclusion": "Esta interrupción masiva afecta la cadena de suministro y la movilidad empresarial, por lo que los operadores deben reprogramar itinerarios y vigilar comunicados oficiales para mitigar interrupciones."
     },
     {
-      "title": "Survivalist’s “House Of Hate” Music Video Debuts Just Ahead Of Their New EP",
-      "url": "https://www.theprp.com/2026/11/12/news/survivalists-house-of-hate-music-video-debuts-just-ahead-of-their-new-ep/",
-      "image": "https://www.theprp.com/app/uploads/2026/10/survivalistlarge-1200x675.webp",
+      "title": "Nuclear Assault Have Come To A Definitive End: “There Will Be No Reunions, No Farewell Tours, No Future Live Performances, And No New Studio Recordings”",
+      "url": "https://www.theprp.com/2026/11/13/news/nuclear-assault-have-come-to-a-definitive-end-there-will-be-no-reunions-no-farewell-tours-no-future-live-performances-and-no-new-studio-recordings/",
+      "image": "https://www.theprp.com/app/uploads/2026/11/nuclearassaultlarge-1200x675.webp",
       "source": "The PRP",
       "language": "en",
-      "que_paso": "Survivalist, a metal band, has released a new music video for the track \"House Of Hate\" just before the launch of their upcoming EP \"Four Nails\". The video was posted on Theprp.com and the EP is scheduled to drop on November 13, 2026, the day after the article was published.",
+      "que_paso": "Nuclear Assault, a veteran thrash metal band, issued a formal statement on November 12, 2026 declaring that the group is permanently disbanded. The announcement was made by the four members and confirms the cessation of any future performances, recordings, or reunions, ending a career that spanned over four decades.",
       "datos": [
-        "Artist: Survivalist",
-        "Music video title: \"House Of Hate\"",
-        "EP title: \"Four Nails\"",
-        "EP release date: November 13, 2026",
-        "Video premiered on Theprp.com"
+        "The announcement was released on November 12, 2026.",
+        "The band said there will be no reunions, farewell tours, future live performances, or new studio recordings.",
+        "The statement was signed by Dan Lilker, John Connelly, Anthony Bramante, and Glenn Evan.",
+        "Nuclear Assault has been active for more than 40 years, originating from New York City clubs.",
+        "Their existing catalog will remain available through remastered releases and videos."
       ],
-      "conclusion": "The timing demonstrates a coordinated release strategy that leverages visual content to boost anticipation and likely streaming performance for the EP."
+      "conclusion": "The definitive closure eliminates any prospect of new material or tours, so stakeholders should focus on leveraging the existing catalog and legacy for future engagement."
     },
     {
-      "title": "Una caída de Microsoft 365 tumba el correo corporativo a usuarios de todo el mundo",
-      "url": "https://elpais.com/tecnologia/2026-11-12/una-caida-de-microsoft-365-tumba-el-correo-corporativo-a-usuarios-de-todo-el-mundo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/QLIEKZ7RWJK4BJX54VVLUJOSWU.jpg?auth=96ed0d5954e3bd3f562decb98f8799d61b36a71f92413da1391ee1b27439769c&width=1200",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Microsoft confirmó que una sobrecarga en su infraestructura provocó una caída global de los servicios de Microsoft 365, impidiendo el acceso a Exchange Online y a Copilot para usuarios de cualquier región. La compañía comunicó la incidencia a través de X y abrió dos tickets de seguimiento.",
-      "datos": [
-        "La caída fue anunciada en la tarde del 13 de noviembre de 2026 desde España.",
-        "Microsoft informó que la incidencia afecta a Exchange Online y al servicio Copilot.",
-        "Inicialmente se indicó que el problema estaba limitado a América, pero luego se amplió a usuarios de cualquier región.",
-        "Se crearon dos incidencias internas: EX1550543 y MO1550821, visibles solo para administradores en el centro de administración.",
-        "Microsoft no proporcionó una cifra de usuarios afectados ni una hora estimada de restablecimiento."
-      ],
-      "conclusion": "La interrupción muestra la vulnerabilidad de depender de servicios en la nube críticos y la necesidad de planes de contingencia para la continuidad operativa."
-    },
-    {
-      "title": "Jensen Huang was a busted flush at Nvidia – he had to go | Nils Pratley",
-      "url": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/12/jensen-huang-was-a-busted-flush-at-nvidia-he-had-to-go",
-      "image": "https://i.guim.co.uk/img/media/66294c0dc06bc9275cba93a84e6baed88521c2d7/125_0_4666_3734/master/4666.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=5c5275cd0e88ecae5e5f6eb6f124ab77",
-      "source": "The Guardian AI",
-      "language": "en",
-      "que_paso": "Nvidia’s board is moving to replace CEO Jensen Huang after his admission of an extramarital affair with a woman identified by U.S. officials as a Chinese spy linked to a Singapore firm accused of smuggling Nvidia chips, raising national‑security concerns and eroding his lobbying influence.",
-      "datos": [
-        "Jensen Huang is co‑founder and chief executive officer of Nvidia.",
-        "The woman involved is the Chinese boss of a Singapore‑based firm suspected of smuggling Nvidia chips into China and is regarded by U.S. officials as a spy.",
-        "Democratic senators have asked the administration to preserve all documents and communications related to Nvidia’s advanced AI chip sales to China.",
-        "Colette Kress, Nvidia’s chief financial officer, will serve as interim chief executive.",
-        "The affair and related concerns were made public in the first week of November 2026.",
-        "The board cited over‑reliance on a single individual as a governance risk."
-      ],
-      "conclusion": "The episode shows that personal misconduct can become a strategic liability in a geopolitically sensitive sector, prompting tighter U.S. scrutiny of AI chip exports and forcing Nvidia to reinforce its governance and leadership structure."
-    },
-    {
-      "title": "Haywire To Perform In A Cornfield At 2027 ‘Hinterland’ Festival In Iowa",
-      "url": "https://www.theprp.com/2026/11/12/news/haywire-to-perform-in-a-cornfield-at-2027-hinterland-festival-in-iowa/",
-      "image": "https://www.theprp.com/app/uploads/2026/09/haywirelivepromo2026-1200x675.webp",
-      "source": "The PRP",
-      "language": "en",
-      "que_paso": "A Boston hardcore punk band has been added to the lineup of a multi‑genre summer festival in Iowa, where they will perform outdoors in a cornfield alongside pop, indie and bluegrass acts.",
-      "datos": [
-        "Haywire signed to perform at the Hinterland festival in St. Charles, Iowa.",
-        "The festival runs from July 30 to August 1, 2027 at Roaming Hills.",
-        "Haywire is the only hardcore punk act on the bill.",
-        "Headliners include Slayyyter, Phoebe Bridgers, and Billy Strings.",
-        "Billy Strings is known for bluegrass and also identifies as a metalhead."
-      ],
-      "conclusion": "The inclusion of a hardcore act with mainstream and folk artists illustrates a programming strategy that can broaden audience appeal and create cross‑genre buzz for event operators."
-    },
-    {
-      "title": "Natalia Castro-Picón, ensayista: \"La imaginación apocalíptica puede funcionar como impulso revolucionario\"",
-      "url": "https://www.eldiario.es/illes-balears/cultura/natalia-castro-picon-ensayista-imaginacion-apocaliptica-todavia-hoy-funcionar-impulso-revolucionario_1_13659899.html",
-      "image": "https://static.eldiario.es/clip/5db73b62-f21e-452b-bfc7-184e5758b059_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "que_paso": "Natalia Castro-Picón, profesora de la Universidad de Princeton y ganadora del Premio Anamagrama de Ensayo 2025, participará en el festival de cine documental MajorDocs en Palma del 9 al 14 de noviembre, presentando una charla el 12 de noviembre sobre cómo la imaginación apocalíptica puede servir como motor revolucionario. Su intervención, titulada “Reclamar lo imposible. Poéticas de la esperanza frente al realismo capitalista”, busca revalorizar el papel del documental y del pensamiento apocalíptico en la transformación social en un contexto de guerras y crisis climáticas.",
-      "datos": [
-        "Natalia Castro-Picón es profesora en la Universidad de Princeton",
-        "Su ensayo \"La fiesta del fin del mundo\" ganó el Premio Anamagrama de Ensayo en 2025",
-        "MajorDocs se celebra en Palma del 9 al 14 de noviembre de 2026 bajo el lema \"Un mundo en llamas\"",
-        "La charla de Castro-Picón está programada para el 12 de noviembre y se titula \"Reclamar lo imposible. Poéticas de la esperanza frente al realismo capitalista\"",
-        "En su discurso cita la consigna del Mayo francés de 1968: \"Seamos realistas, pidamos lo imposible\""
-      ],
-      "conclusion": "El planteamiento de Castro-Picón muestra que reinterpretar narrativas apocalípticas puede generar ideas disruptivas útiles para la gestión y la innovación empresarial, ofreciendo una herramienta conceptual para enfrentar crisis y repensar modelos de crecimiento."
-    },
-    {
-      "title": "Más allá del debate sobre su éxito, el 11N deja una pregunta: para qué sirve realmente una huelga general en 2026",
-      "url": "https://www.xataka.com/magnet/alla-debate-su-exito-11n-deja-pregunta-realmente-efectivas-huelgas-generales-2026",
-      "image": "https://i.blogs.es/e1d2f4/55648806375_897125c345_o---copia/840_560.jpeg",
-      "source": "Xataka",
-      "language": "es",
-      "que_paso": "El 11 de noviembre se llevó a cabo una huelga general en España, la primera convocatoria nacional de gran escala en 14 años y en plena campaña preelectoral, motivada por la crisis de la vivienda, y generó enfrentamientos entre sindicatos y la patronal mientras se debatía su éxito.",
-      "datos": [
-        "Fue la primera gran convocatoria nacional en 14 años",
-        "Los sindicatos estimaron un respaldo regional entre el 41 % y el 75 %",
-        "La CEOE la calificó de fracaso con apenas un 5 % de apoyo, el mínimo histórico",
-        "Se registraron decenas de detenidos en disturbios en Barcelona y Madrid",
-        "El sector terciario representa más del 65 % del PIB español",
-        "Alrededor de 3,2 millones de españoles realizan teletrabajo de forma ocasional"
-      ],
-      "conclusion": "El contraste entre la percepción sindical y la de la patronal muestra la dificultad de medir la efectividad de una huelga en una economía dominada por servicios, lo que obliga a replantear los indicadores de impacto laboral y económico."
-    },
-    {
-      "title": "En Video: el momento del rescate con vida de un adolescente en Australia que estuvo 6 días perdido en un bosque",
-      "url": "https://www.bbc.com/mundo/articles/c60md00vxkj2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/news/1200/branded_mundo/c8eb/live/75ecf8a0-deb4-11f1-8fb5-a771a656a227.png",
+      "title": "Cómo el escándalo sexual del gigante tecnológico Nvidia está salpicando a la Casa Blanca",
+      "url": "https://www.bbc.com/mundo/articles/cve87dj13r0do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/news/1200/branded_mundo/282b/live/98c2a940-df83-11f1-b844-3146c4983677.jpg",
       "source": "BBC Mundo",
       "language": "es",
-      "que_paso": "Un adolescente de 17 años desapareció mientras acampaba en una zona de matorrales a 180 km al este de Melbourne y, tras seis días sin ser localizado, fue hallado con vida por equipos de rescate. La familia lo recibió sin heridas graves y fue trasladado al hospital para una revisión.",
+      "que_paso": "El exdirector de Nvidia, Jensen Huang, fue vinculado a una supuesta relación sentimental con Alice Huang, exejecutiva de Megaspeed en Singapur, lo que ha levantado sospechas de espionaje chino y ha reavivado el debate sobre la efectividad de las restricciones de exportación de chips a China. La revelación ha puesto bajo presión al Departamento de Comercio de EE.UU. y a la junta directiva de Nvidia para esclarecer posibles filtraciones de tecnología sensible.",
       "datos": [
-        "William, de 17 años, desapareció el viernes pasado mientras acampaba con un amigo en una zona boscosa a 180 km al este de Melbourne.",
-        "Fue encontrado el jueves por la mañana, tras estar perdido durante seis días.",
-        "Las temperaturas nocturnas fueron extremadamente bajas, lo que generó preocupación entre las autoridades.",
-        "Los rescatistas le entregaron una dona y una botella de agua antes de llevarlo al hospital.",
-        "Su madre, Elizabeth Barkley, declaró que sólo tenía \"unos pocos rasguños\" y que estaba en buena forma.",
-        "El inspector interino de la policía de Victoria, Jason Benbow, comentó que no siempre se encuentran con vida a estos casos."
+        "Jensen Huang se reunió con el presidente Donald Trump en varias ocasiones, viajó con él al Reino Unido y lo acompañó en el Air Force One a China en mayo de 2026",
+        "Washington impuso restricciones a la exportación de chips avanzados de Nvidia a China a partir de 2022",
+        "Trump autorizó la reanudación de la venta de ciertos chips de Nvidia a China en 2025 a cambio de un porcentaje de los ingresos",
+        "Alice Huang, exejecutiva de Megaspeed, es sospechada por la inteligencia estadounidense de tener vínculos con la inteligencia china",
+        "Howard Lutnick, secretario de Comercio de EE.UU., recibió un memorándum clasificado sobre la posible desviación de chips a China",
+        "Tan Yong Pong (James Tan), CEO de Megaspeed, declaró que la empresa coopera con inspecciones del Departamento de Comercio"
       ],
-      "conclusion": "El rescate muestra la capacidad de respuesta de los servicios de emergencia en entornos remotos y subraya la necesidad de prepararse adecuadamente para condiciones climáticas extremas al acampar."
+      "conclusion": "El caso evidencia vulnerabilidades en el control de exportaciones de tecnología crítica y podría forzar a EE.UU. a endurecer sus políticas para proteger la ventaja competitiva en IA."
+    },
+    {
+      "title": "Inside Microsoft’s Rush to Get Back Online After a Global Outage",
+      "url": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html",
+      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13biz-microsoft-down-ptmz/13biz-microsoft-down-ptmz-facebookJumbo.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "Late Thursday night a global outage knocked out Microsoft Outlook and other services, forcing hundreds of engineers and senior executives, including Scott Guthrie, to hold an emergency video conference to coordinate recovery; the problem was linked to a recent network upgrade that disabled servers, and the company restored services gradually through Friday.",
+      "datos": [
+        "The outage began late on Thursday, November 13, 2026, and persisted into Friday morning.",
+        "Hundreds of Microsoft engineers and top executives participated in an emergency video conference, with senior executive Scott Guthrie leading the discussion.",
+        "Affected customers included hospitals, schools, businesses, and Congressional offices in Washington.",
+        "Microsoft identified a recent network upgrade that shut down several servers as the root cause.",
+        "The company issued at least two public apologies by Friday morning.",
+        "Microsoft’s statement said services were restored gradually, validating stability at each stage to avoid a “stampeding herd.”"
+      ],
+      "conclusion": "The incident underscores the operational risk of relying on a single provider for critical communication tools and the importance of rigorous change‑management and fallback plans for enterprises."
+    },
+    {
+      "title": "What the choice between Chuck Schumer and Chris Van Hollen for Senate leader is all about | Bernie Sanders",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/13/chuck-schumer-chris-van-hollen-senate-leader",
+      "image": "https://i.guim.co.uk/img/media/ac0ddd7ad657bd5a2e35035d09809eebce24312a/2410_459_3590_2871/master/3590.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=072fed3b3c030dec6d83cc7453fa5490",
+      "source": "The Guardian AI",
+      "language": "en",
+      "que_paso": "The Democratic caucus in the U.S. Senate is set to vote on its next leader, with incumbent Majority Leader Chuck Schumer facing a challenge from Senator Chris Van Hollen. Bernie Sanders frames the contest as a decision between preserving the current donor‑driven hierarchy and moving toward a grassroots, policy‑focused party direction.",
+      "datos": [
+        "Chuck Schumer is the incumbent Senate Majority Leader (Democrat) as of 2026",
+        "Chris Van Hollen is a Democratic Senator from Maryland and a candidate for Senate Democratic leader",
+        "Bernie Sanders, Senator from Vermont, is the ranking member of the Senate Health, Education, Labor and Pensions Committee",
+        "The article states that 60% of Americans live paycheck to paycheck",
+        "The article claims the United States has the highest rate of childhood poverty among major countries",
+        "The article notes the U.S. is the only major country without guaranteed universal healthcare as a human right"
+      ],
+      "conclusion": "The leader chosen will steer the Senate’s priorities on campaign finance, AI oversight, health care and other systemic issues, directly influencing how the Democratic Party tackles inequality and policy reform."
+    },
+    {
+      "title": "El Comité de Disciplina sanciona con 12 partidos a Owono por la entrada que costó la vida a Jesús de Miguel",
+      "url": "https://www.eldiario.es/canariasahora/Deportes/futbol/sancion-12-partidos-portero-andorra-jesus-owono_1_13663399.html",
+      "image": "https://static.eldiario.es/clip/5eea890d-dbac-4596-a39b-bde6e48cac5b_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "que_paso": "El Comité de Disciplina de la RFEF impuso una suspensión de doce partidos al portero andorrano Jesús Owono tras una entrada con la pierna en alto que dejó gravemente herido al delantero del Tenerife, Jesús de Miguel, quien falleció al día siguiente. El hecho ocurrió en el partido de LaLiga Hypermotion jugado el 2 de noviembre en Tenerife, que fue abandonado en el minuto 108 para atender al lesionado.",
+      "datos": [
+        "El partido se disputó el 2 de noviembre de 2026 en el estadio Heliodoro Rodríguez López de Tenerife.",
+        "Jesús Owono recibió una sanción de doce partidos de suspensión según el artículo 102 del Código Disciplinario de la RFEF.",
+        "Jesús de Miguel falleció el 3 de noviembre de 2026 en el Hospital Universitario de Nuestra Señora de la Candelaria.",
+        "El choque ocurrió en el minuto 96 del encuentro y el partido se suspendió definitivamente en el minuto 108.",
+        "Efe Akman fue sancionado con un partido por acumulación de amonestaciones y Lautaro de León con un partido por doble amonestación.",
+        "El entrenador asistente Antonio José Sánchez recibió también una suspensión de un partido por protestar al árbitro."
+      ],
+      "conclusion": "La decisión subraya la intolerancia de la federación ante conductas peligrosas y obliga a los clubes a reforzar la prevención de lesiones graves, recordando que la seguridad de los jugadores es prioritaria sobre la competitividad."
+    },
+    {
+      "title": "Nvidia Scandal Unleashes a Flood of AI-Generated Memes",
+      "url": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html",
+      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-nvidia-memes-1-hwzb/12int-nvidia-memes-1-hwzb-facebookJumbo-v2.jpg",
+      "source": "NYT Tech",
+      "language": "en",
+      "que_paso": "Jensen Huang stepped down as Nvidia’s CEO after a series of cheating scandals, prompting a wave of AI‑generated memes that remix his image across music videos, Bollywood films, sitcoms and concert footage. The memes, created by AI enthusiasts, quickly spread online, turning the personal controversy into a viral cultural phenomenon.",
+      "datos": [
+        "Jensen Huang resigned on Thursday, November 12, 2026.",
+        "He is 63 years old.",
+        "Nvidia sold 178 sweaters featuring a pixel‑art likeness of Huang earlier in 2026.",
+        "The alleged affair involves a woman the U.S. government considers a Chinese spy.",
+        "Belgian software engineer Peter Dedene superimposed Huang’s image on a Coldplay kiss‑cam and gave a phone interview on Thursday."
+      ],
+      "conclusion": "The episode illustrates how readily AI tools can magnify executive misconduct into widespread brand damage, so operations leaders must anticipate and manage AI‑driven reputation risks."
+    },
+    {
+      "title": "Las memorias de Nacho Duato desencadenado: entre el novio que dejó por ver una película de Torrente y el lado duro de la vida",
+      "url": "https://elpais.com/cultura/2026-11-13/las-memorias-de-nacho-duato-desencadenado-entre-el-novio-que-dejo-por-ver-una-pelicula-de-torrente-y-el-lado-duro-de-la-vida.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/IA4LTERKOFD3DJP5FV4UGICE2M.jpg?auth=dc7e2db1cc55d8b4f6d2a615eaa986d43bcbbb7d7c336efdfd5bd69550649d48",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Nacho Duato, coreógrafo reconocido, inició la campaña de difusión de su nuevo libro en su ciudad natal, Valencia, junto a su amiga de la infancia y poeta Lupe Bohorques. La obra, “Habla como un hombre”, incluye una anécdota sobre la ruptura con su novio, quien la dejó para ver una película de Torrente, mostrando el lado más duro de su vida.",
+      "datos": [
+        "Nacho Duato es el autor principal del libro “Habla como un hombre”.",
+        "El libro fue escrito en colaboración con Lupe Bohorques, amiga de la infancia y poeta.",
+        "La promoción del libro comenzó en Valencia, ciudad natal de Duato.",
+        "El título del libro es “Habla como un hombre”.",
+        "En la obra se relata que su novio la abandonó para ver una película de la saga Torrente."
+      ],
+      "conclusion": "La incursión de Duato en la escritura personal amplía su presencia mediática y demuestra cómo una narrativa íntima puede reforzar la conexión con el público, una estrategia útil para cualquier líder que busque diversificar su marca personal."
+    },
+    {
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "language": "en",
+      "que_paso": "OpenAI has launched ChatGPT Wallet, allowing its Dots agents to make purchases on a user’s behalf after the user adds a payment card, but each transaction must be approved with a biometric check before checkout. The feature is limited to retailers that do not block AI agents, and OpenAI plans to let users set spending limits and pre‑approve purchase categories in the future.",
+      "datos": [
+        "ChatGPT Wallet requires a biometric security check (Face ID or fingerprint) for every purchase, according to OpenAI’s support page.",
+        "Payments are processed using a token that replaces the user’s credit‑card details, similar to Apple Pay or Google Wallet.",
+        "OpenAI intends to let users delegate purchases by setting spending limits, approved categories, or time‑based parameters.",
+        "Amazon blocked Meta’s Muse agents earlier in 2026, illustrating retailer resistance to AI‑driven transactions.",
+        "OpenAI states that websites must ensure agents are not blocked and that payment‑risk systems recognize legitimate agent purchases."
+      ],
+      "conclusion": "The wallet could streamline procurement for operations teams, but it adds security and compliance layers that require careful policy and risk‑management review before delegating purchases to AI agents."
+    },
+    {
+      "title": "Atlas Premiere Their New Single “Sex Magic Eclipse”",
+      "url": "https://www.theprp.com/2026/11/13/news/atlas-premiere-their-new-single-sex-magic-eclipse/",
+      "image": "https://www.theprp.com/app/uploads/2026/11/atlasbandlarge2026-1200x675.webp",
+      "source": "The PRP",
+      "language": "en",
+      "que_paso": "Finnish Northcore band Atlas released a new single titled “Sex Magic Eclipse” with a visualizer/lyric video produced by Riivata Visuals, following their February album “Sunder.” The release continues the group’s output after the full‑length album earlier this year.",
+      "datos": [
+        "Band: Atlas, a Finnish Northcore outfit",
+        "Single title: “Sex Magic Eclipse”",
+        "Video created by Riivata Visuals as a visualizer/lyric video",
+        "Album “Sunder” released in February 2026",
+        "First new release after the February album"
+      ],
+      "conclusion": "The rollout illustrates how niche artists use visual content to keep audiences engaged between album cycles, a strategy that can be applied to product launches for sustained interest."
+    },
+    {
+      "title": "Euromillones: comprobar sorteo del viernes 13 de noviembre",
+      "url": "https://elpais.com/sorteos/2026-11-13/euromillones-sorteo-del-viernes-13-de-noviembre.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ID5WAPM3Z5AGLGB3W3WRCRYPMM.png?auth=75c0a03c3095d4043b00541b2f208478da89cfceaefc0cea3981b77f8e9d78f7&width=1200",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "El sorteo de Euromillones se celebra este viernes 13 de noviembre, manteniendo el bote garantizado tras la entrega del premio especial en el sorteo anterior. El juego sigue operando en varios países europeos y ofrece un premio adicional de un millón de euros a los boletos españoles que coincidan con el código de “El Millón”.",
+      "datos": [
+        "Bote garantizado de 17 millones de euros para el sorteo del viernes 13 de noviembre",
+        "El martes anterior se repartió el bote especial a un ganador de Valencia",
+        "El Euromillones se juega en España, Francia, Reino Unido, Austria, Bélgica, Irlanda, Luxemburgo, Portugal y Suiza",
+        "El juego se lanzó en 2004",
+        "Cada martes y viernes se sortea un premio de 1 millón de euros entre los boletos vendidos en territorio español",
+        "Los resultados se publican en la web de Loterías y Apuestas del Estado y también en EL PAÍS"
+      ],
+      "conclusion": "El bote garantizado y el premio diario de un millón refuerzan el atractivo del Euromillones, lo que puede traducirse en mayor venta de boletos y oportunidades de colaboración comercial en los mercados participantes."
+    },
+    {
+      "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
+      "url": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/cmf-by-nothing-speaker-s-breakout.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "language": "en",
+      "que_paso": "Nothing introduced a milk‑carton‑shaped Bluetooth speaker in October and is now promoting it with a deep discount ahead of Black Friday, selling it through Amazon and the company’s own store.",
+      "datos": [
+        "The CMF Speaker S is priced at $39, a $20 reduction from its original price",
+        "It launched in October 2026",
+        "The speaker offers up to 18 hours of playback on a single charge",
+        "It carries an IP68 rating for water and dust resistance",
+        "It uses a 45 mm driver with two passive radiators for low‑frequency response",
+        "Bluetooth version 6 is supported, with fast pairing via NFC and Google Fast Pair"
+      ],
+      "conclusion": "The aggressive pricing makes a uniquely designed, feature‑rich speaker affordable for office or personal use, highlighting Nothing’s strategy to capture early‑season demand."
+    },
+    {
+      "title": "Un petrolero hunde un ferry de pasajeros en el río Misisipi, de momento sin víctimas",
+      "url": "https://www.europapress.es/internacional/noticia-petrolero-hunde-ferry-mas-129-personas-bordo-rio-misisipi-20261113212318.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261113212318_1200.jpg",
+      "source": "Europa Press Tecnología",
+      "language": "es",
+      "que_paso": "El viernes 14 de noviembre de 2026 un petrolero colisionó con un ferry de pasajeros en el río Misisipi, justo a la altura del puerto de Nueva Orleans. El impacto provocó que el ferry se hundiera, aunque hasta el momento no se han registrado fallecidos.",
+      "datos": [
+        "Fecha del incidente: viernes 14 de noviembre de 2026",
+        "Lugar: río Misisipi, cerca del puerto de Nueva Orleans",
+        "Embarcaciones involucradas: un petrolero y un ferry de pasajeros",
+        "Resultado inmediato: el ferry quedó sumergido",
+        "Estado de víctimas: sin constancia de fallecidos hasta el momento"
+      ],
+      "conclusion": "El suceso evidencia riesgos de navegación en vías fluviales concurridas y obliga a revisar protocolos de seguridad y respuesta ante colisiones para minimizar pérdidas humanas y ambientales."
+    },
+    {
+      "title": "Why Jensen Huang Was Essential to Nvidia’s Rise",
+      "url": "https://www.nytimes.com/video/business/100000011275611/why-jensen-huang-was-essential-to-nvidias-rise.html",
+      "image": "https://static01.nyt.com/images/2026/11/15/arts/RV_Thumbnail-25/RV_Thumbnail-25--facebookJumbo.png?play-overlay",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "The article profiles Nvidia CEO Jensen Huang, describing his hands‑on leadership and the company's absence of a clear succession plan, as reported by technology journalist Tripp Mickle. It situates Huang’s influence within the broader growth of the artificial‑intelligence sector.",
+      "datos": [
+        "Jensen Huang had 60 direct reports at Nvidia.",
+        "Nvidia has no publicly announced succession plan for Huang.",
+        "The piece was written by Tripp Mickle, a technology reporter.",
+        "The article examines Huang’s central role in Nvidia and the AI industry.",
+        "The article title is \"Why Jensen Huang Was Essential to Nvidia’s Rise\"."
+      ],
+      "conclusion": "The concentration of authority and lack of succession planning highlight a governance risk for a company driving AI innovation, suggesting operators should monitor leadership continuity. Understanding this dynamic helps anticipate potential strategic shifts."
+    },
+    {
+      "title": "Coheed And Cambria’s Claudio Sanchez Announces His Upcoming Solo Debut",
+      "url": "https://www.theprp.com/2026/11/13/news/coheed-and-cambrias-claudio-sanchez-announces-his-upcoming-solo-debut/",
+      "image": "https://www.theprp.com/app/uploads/2026/11/claudiosanchezlarge-1200x675.webp",
+      "source": "The PRP",
+      "language": "en",
+      "que_paso": "Claudio Sanchez, the vocalist and guitarist of Coheed and Cambria, announced on November 13 that he will begin a solo career, stating he will release his first solo material after 25 years with the band. The announcement followed a series of social‑media teasers and did not include details about the release schedule or content.",
+      "datos": [
+        "Claudio Sanchez is the vocalist/guitarist of Coheed and Cambria",
+        "The announcement was made on November 13, 2026",
+        "Sanchez said, “After 25 years of Coheed, I’m finally going to release my first solo material… Here come the nerves…”.",
+        "He has been with Coheed for 25 years",
+        "No release date or tracklist has been disclosed yet",
+        "The announcement was preceded by a series of social‑media teasers"
+      ],
+      "conclusion": "Sanchez’s solo launch signals a new revenue stream and brand extension for the artist, and fans should watch for upcoming release details that could affect touring and merchandising plans."
+    },
+    {
+      "title": "In elephants, the resilience of communities has its limits",
+      "url": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2290156609-1024x648.jpg",
+      "source": "Ars Technica",
+      "language": "en",
+      "que_paso": "A twelve‑year study of Asian elephants in Sri Lanka’s Udawalawe National Park, led by behavioral ecologist Anastasia Madsen and senior author Shermin de Silva, showed that when elephant deaths consistently outnumbered new arrivals, the previously cohesive female social network broke apart into smaller, isolated groups. The researchers tracked the herd by identifying individual females from their distinctive ear markings while driving park roads three days a week.",
+      "datos": [
+        "The research spanned 2007 to 2018, covering 12 years of observations.",
+        "443 adult and subadult female elephants were individually identified during the study period.",
+        "Udawalawe National Park was established in the 1970s around a reservoir that initially created extensive grassland.",
+        "Invasive plant species such as lantana later overran parts of the park, creating thickets that elephants avoid due to lack of forage.",
+        "Shermin de Silva initiated the Udawalawe Elephant Research Project in 2006.",
+        "The team recorded observations on random routes about three days per week."
+      ],
+      "conclusion": "The findings reveal that elephant societies have a finite capacity for social resilience, highlighting the need for conservation strategies that ensure sufficient recruitment and maintain habitat quality to prevent social fragmentation."
+    },
+    {
+      "title": "Early Black Friday Mattress Deals: Get Up to 55% Off WIRED-Tested Favorites",
+      "url": "https://www.wired.com/story/best-early-black-friday-mattress-deals-11-13-2026/",
+      "image": "https://media.wired.com/photos/6af75ae25e4ca9026ac50b67/191:100/w_1280,c_limit/The-Best-Early-Black-Friday-Mattress-Deals-So-Far.jpg",
+      "source": "Wired",
+      "language": "en",
+      "que_paso": "Early Black Friday promotions are now live for several WIRED‑tested mattress brands, each offering distinct discount codes and percentages ahead of the main holiday weekend, with the offers updated on November 13, 2026. The deals target queen‑size models and require the codes at checkout before the November 29 deadline.",
+      "datos": [
+        "Helix provides 20% off site‑wide with promo code BF20, 25% off Luxe mattresses with LUXE25, and 30% off Elite mattresses with ELITE30, all valid through November 29",
+        "Birch offers a 25% site‑wide discount using promo code BF25, sale ending November 29",
+        "Bear Mattress gives 35% off site‑wide plus a free bundle of two pillows and a mattress protector with promo code BF35, valid until November 29",
+        "Nolah Mattress applies a 35% site‑wide discount with no promo code required, sale runs through November 29",
+        "The article was refreshed on November 13, 2026 to add new dates, promo codes, and deals from brands including Plank, Brooklyn Bedding, Bryte, DreamCloud, Wamsutta, Essentia, and Bearaby"
+      ],
+      "conclusion": "These early discounts let savvy buyers secure up to 55% off premium mattresses before Black Friday, but they must act before the November 29 cut‑off and apply the specific promo codes at checkout."
+    },
+    {
+      "title": "Wall Street Loses a Powerful Dealmaker After Nvidia’s CEO Is Ousted",
+      "url": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html",
+      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-Nvidia-Wall-Street-01-hmfk/12biz-Nvidia-Wall-Street-01-hmfk-facebookJumbo.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "Jensen Huang was abruptly removed as CEO of Nvidia, ending his role as the company's chief dealmaker. His departure raises concerns on Wall Street about the future pace of Nvidia’s massive AI‑related investments and the fees they generate for financial firms.",
+      "datos": [
+        "Jensen Huang was ousted from Nvidia this week (November 2026).",
+        "His deals pumped \"hundreds of billions of dollars\" into competitors, suppliers and customers.",
+        "Nvidia was spending or promising money at an unprecedented speed and magnitude until this week.",
+        "Michael Edwards, director of Forum Markets, said \"Nvidia is the central bank of A.I.\"",
+        "The Trump administration provided warm regulatory support for the AI chip industry."
+      ],
+      "conclusion": "Without Huang’s deal‑making engine, Nvidia’s investment tempo may slow, reducing the flow of high‑fee opportunities for banks and potentially tempering AI sector growth."
+    },
+    {
+      "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/donald-trump-jr-1152x648.jpg",
+      "source": "Ars Technica",
+      "language": "en",
+      "que_paso": "Donald Trump Jr. terminated his advisory position at prediction‑market platform Kalshi after his venture firm 1789 Capital made a large investment in Polymarket, Kalshi's rival. The separation was mutually agreed, with Kalshi citing a conflict‑of‑interest and optics problem stemming from the dual advisory roles.",
+      "datos": [
+        "Donald Trump Jr.'s firm 1789 Capital invested $300 million in Polymarket in August 2026, following a smaller investment in August 2025.",
+        "Trump Jr. received roughly $300,000 of Kalshi equity when he joined as a strategic adviser in early 2025.",
+        "Kalshi was valued at under $2 billion at the time of the equity grant, compared with a $22 billion valuation in a funding round reported last month.",
+        "Kalshi is reportedly negotiating a new funding round that could value the company at $65 billion.",
+        "Kalshi announced Trump Jr.'s advisory appointment on 13 January 2025, a week before Donald Trump's second inauguration.",
+        "CFTC has sued 11 states to block state regulation of prediction markets and filed briefs supporting Kalshi in related lawsuits."
+      ],
+      "conclusion": "The split highlights the importance of managing conflicts of interest as prediction‑market firms scale and attract massive capital, and it signals that regulatory and reputational scrutiny will increasingly shape governance decisions."
+    },
+    {
+      "title": "Sister June Carpenter, the Oldest Shaker, Has Died",
+      "url": "https://www.nytimes.com/2026/11/13/us/june-carpenter-dead.html",
+      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/00obit-carpenter-zqjl/00obit-carpenter-zqjl-facebookJumbo-v2.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "Sister June Carpenter, a librarian and one of the three remaining practicing Shakers, died on November 3, 2026, leaving the Sabbathday Lake community with only two active members. Her passing intensifies concerns about the survival of the last active Shaker group in the United States.",
+      "datos": [
+        "Sister June Carpenter died on November 3, 2026, at age 88.",
+        "At the time of her death she was one of three practicing members of the Sabbathday Lake Shaker Village.",
+        "The Shaker village is located in New Gloucester, Maine, and covers roughly 1,800 acres of farmland, woods, and wetlands.",
+        "After her death only two practicing Shakers remain: Brother Arnold Hadd, age 70, and Sister April Baxter, about 60 years old.",
+        "A 2006 Boston Globe story titled “The Last Man Standing” led Brother Wayne Smith to leave the community."
+      ],
+      "conclusion": "The loss underscores how close the Shaker tradition is to disappearing, urging stakeholders to prioritize preservation or documentation before the community vanishes."
+    },
+    {
+      "title": "Why the Nvidia scandal is far from over - The Latest",
+      "url": "https://www.theguardian.com/news/video/2026/nov/13/why-the-nvidia-scandal-is-far-from-over-the-latest",
+      "image": "https://i.guim.co.uk/img/media/efda49c642dc93a6160523af97a8890ea5f8d2b2/0_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=050b0aecbb03e96454b1a0542aeabc25",
+      "source": "The Guardian AI",
+      "language": "en",
+      "que_paso": "Jensen Huang stepped down as CEO of Nvidia amid allegations of personal misconduct involving a company executive and a woman identified as a potential Chinese intelligence asset. The resignation has triggered criticism of U.S. Commerce Secretary Howard Lutnick for perceived inaction, and the issue is being discussed in a Guardian interview with Lucy Hough and reporter Aisha Down.",
+      "datos": [
+        "Jensen Huang was the founder and chief executive of Nvidia before resigning.",
+        "The alleged misconduct involves an Nvidia executive and a woman described as a Chinese spy.",
+        "U.S. Commerce Secretary Howard Lutnick has been publicly criticized for not taking decisive steps.",
+        "Lucy Hough conducted the interview with Guardian technology reporter Aisha Down.",
+        "The article appears under the headline “Why the Nvidia scandal is far from over – The Latest”."
+      ],
+      "conclusion": "The episode underscores heightened regulatory and reputational risk for AI‑hardware firms, indicating that investors and policymakers will scrutinize corporate governance and national‑security ties more closely."
+    },
+    {
+      "title": "Here’s how you can save on your GTA VI preorder ahead of launch",
+      "url": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-27-at-4.13.31-PM.png?quality=90&strip=all&crop=0%2C3.3036486111791%2C100%2C93.392702777642&w=1200",
+      "source": "The Verge",
+      "language": "en",
+      "que_paso": "Rockstar is finalizing the launch of GTA VI, with preloading already available on both PlayStation and Xbox consoles. Buyers can reduce the price of the digital copy by acquiring discounted platform gift cards through Newegg using promotional coupon codes before the November 19 release.",
+      "datos": [
+        "The game unlocks at midnight local time on Friday, November 19, 2026.",
+        "A $75 Sony PlayStation gift card is sold for $69 on Newegg with coupon code BNWF2669.",
+        "Costco members can purchase four $25 Sony gift cards for $89.99.",
+        "A $90 Xbox Series S/X gift card is sold for $80 on Newegg with coupon code BNWF2662.",
+        "The standard edition of GTA VI is priced at $79.99.",
+        "The ultimate edition of GTA VI is priced at $99.99."
+      ],
+      "conclusion": "Using the discounted gift cards can shave a few dollars off the purchase, offering a modest cost saving for early adopters who want immediate access at launch."
+    },
+    {
+      "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+      "url": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
+      "image": "https://media.wired.com/photos/6af75c7bac6958eb8481a5e6/191:100/w_1280,c_limit/Security_MicrosoftBackOnline_v1.jpg",
+      "source": "Wired",
+      "language": "en",
+      "que_paso": "On Thursday, November 12, 2026, Microsoft 365 suffered a global outage that disabled Outlook, Teams, Copilot and other core services for tens of millions of users. The disruption began around noon Eastern Time in North America and rapidly spread to more than 70 countries, affecting businesses, governments and critical infrastructure.",
+      "datos": [
+        "The outage started at approximately 12:00 pm ET on Thursday, 12 Nov 2026.",
+        "Service disruption spanned over 70 countries and impacted tens of millions of Microsoft 365 users.",
+        "Microsoft ruled out a cyberattack and AI/agents, attributing the cause to a network capacity upgrade issue.",
+        "Microsoft extended the email delivery queue to 48 hours to process messages sent during the outage.",
+        "Governments from Japan to the United States, airlines, law‑enforcement agencies and hospitals reported operational disruptions.",
+        "Microsoft pledged to publish a full post‑incident report after the review."
+      ],
+      "conclusion": "The event underscores the operational risk of heavy reliance on a single cloud provider for essential communications, urging organizations to strengthen redundancy and incident‑response strategies."
+    },
+    {
+      "title": "Kingdom Of Giants’ “Past Life” Music Video Debuts Alongside Their New Album “Usurper”",
+      "url": "https://www.theprp.com/2026/11/13/news/kingdom-of-giants-past-life-music-video-debuts-alongside-their-new-album-usurper/",
+      "image": "https://www.theprp.com/app/uploads/2026/09/kingdomofgiants2026large-1200x675.webp",
+      "source": "The PRP",
+      "language": "en",
+      "que_paso": "Kingdom Of Giants released their fifth studio album Usurper on November 13, 2026, introducing JT Gutierrez as the new bassist and clean vocalist. Simultaneously they launched a music video for the closing track “Past Life,” directed by Orie McGinness, and announced a North‑American fall tour beginning the next day.",
+      "datos": [
+        "Album “Usurper” release date: November 13, 2026.",
+        "JT Gutierrez replaced Jonny Reeves on bass and clean vocals.",
+        "Music video for “Past Life” directed by Orie McGinness (formerly of Bad Omens, Poppy).",
+        "Fall tour kickoff on November 14, 2026 in Seattle, WA at Vera Project (song “Holy Wars” omitted).",
+        "Tour spans 26 dates across the United States and Canada, ending December 18, 2026 in Sacramento, CA."
+      ],
+      "conclusion": "The lineup change and coordinated album‑video release set the stage for a tightly scheduled tour, showing how a single product launch can drive a multi‑city operational rollout."
+    },
+    {
+      "title": "Muchos anuncios de GTA VI no muestran armas: no es que el juego se haya moderado, es que Rockstar sabe que muchos jugadores son menores",
+      "url": "https://www.xataka.com/videojuegos/muchos-anuncios-gta-vi-no-muestran-armas-no-que-juego-se-haya-moderado-que-rockstar-sabe-que-muchos-jugadores-menores",
+      "image": "https://i.blogs.es/dc13ff/jason_and_lucia_15.0m-_zb-mcy2zr/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "Rockstar ha lanzado una campaña publicitaria para GTA VI en la que, según la región y el medio, elimina deliberadamente armas de los carteles y anuncios. La medida se ha visto en ciudades como París, Nueva York, Times Square y Chicago, y también en un spot televisivo durante la NBA, todo a una semana del lanzamiento del juego.",
+      "datos": [
+        "El 18 de junio Rockstar mostró la portada oficial de GTA VI con la cuadrícula de viñetas",
+        "En París se colocó un cartel de 3.000 m² de Lucia y Jason en la fachada del Westfield CNIT",
+        "El 15 de octubre una pantalla LED en Times Square y un autobús en Chicago mostraron la imagen sin armas",
+        "El 20 de octubre NBC emitió el primer anuncio televisivo durante la noche inaugural de la NBA, con escenas de sexo pero sin armas",
+        "La ESRB puede imponer multas de hasta un millón de dólares a los editores que no respeten sus directrices",
+        "En la Séptima Avenida de Nueva York, calle 49, la lona mantiene la pistola y el fusil"
+      ],
+      "conclusion": "La censura selectiva busca evitar sanciones de la ESRB y adaptar el mensaje a audiencias específicas, lo que indica que la publicidad de videojuegos adultos será cada vez más personalizada por mercado."
+    },
+    {
+      "title": "Memoriam’s “At The Point Of No Return” Reflects On The Cost Of War",
+      "url": "https://www.theprp.com/2026/11/13/news/memoriams-at-the-point-of-no-return-reflects-on-the-cost-of-war/",
+      "image": "https://www.theprp.com/app/uploads/2026/10/memoriambandlarge-1200x675.webp",
+      "source": "The PRP",
+      "language": "en",
+      "que_paso": "British death‑metal band Memoriam released the online premiere of their new track “At The Point Of No Return,” which serves as a thematic preview for their announced final studio album “Endgame.” Vocalist Karl Willets explained that the song reflects his frustration with ongoing global conflicts and the personal toll of war, framing the release as a concluding statement for the group.",
+      "datos": [
+        "The track “At The Point Of No Return” premiered online on November 14, 2026.",
+        "Memoriam’s final album “Endgame” is scheduled for release on January 29, 2027, via Reaper Entertainment.",
+        "The band’s lineup includes former members of Bolt Thrower and Annihilator.",
+        "Vocalist Karl Willets is quoted saying the song “comes from a feeling that has become increasingly difficult to shake” regarding world conflict.",
+        "Memoriam announced that “Endgame” will be their last studio album."
+      ],
+      "conclusion": "The release signals both a creative endpoint for the band and a stark artistic commentary on the human cost of war, illustrating how leaders can use cultural outputs to highlight operational risks and moral considerations."
+    },
+    {
+      "title": "Los servicios de Microsoft retoman la normalidad tras una caída global de más de 18 horas",
+      "url": "https://elpais.com/tecnologia/2026-11-13/microsoft-no-logra-recuperar-sus-servicios-tras-una-caida-global-de-mas-de-12-horas.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ZRND26ZYLVG2BNXLGWZKZACKFE.jpg?auth=52341b528a79d52a89278fb8eac34afa25aa1b9a32d24935ff6031cc941a187c",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Microsoft experimentó una interrupción masiva de sus servicios, dejando fuera de línea Outlook, Teams y Copilot durante más de dieciocho horas. La compañía explicó que se trató de un problema técnico interno y negó la participación de ciberataques o agentes de IA. Tras restaurar los sistemas, emitió disculpas a los usuarios.",
+      "datos": [
+        "La interrupción duró más de 18 horas.",
+        "Los servicios afectados incluyeron Outlook, Teams y Copilot.",
+        "Microsoft atribuyó la causa a un \"problema técnico\" interno.",
+        "La empresa descartó la existencia de un ciberataque o de agentes de IA como origen del fallo.",
+        "No se reportaron incidencias reseñables en España durante la caída."
+      ],
+      "conclusion": "La caída evidencia la dependencia operativa de Microsoft y la necesidad de planes de contingencia; los usuarios en España deberían considerar medidas de respaldo para minimizar el impacto de futuras interrupciones."
+    },
+    {
+      "title": "Trump Signals New Strategy on Iran: A Waiting Game",
+      "url": "https://www.nytimes.com/2026/11/13/us/politics/trump-iran-strategy.html",
+      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-trump-vance-klmp/12dc-trump-vance-klmp-facebookJumbo.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "President Trump announced a shift toward declaring the Iran nuclear crisis resolved, abandoning previously discussed military options such as commando raids and bunker‑buster strikes. Secretary of State Marco Rubio, speaking at a G7 foreign‑minister meeting in Paris, said the United States will now rely on sanctions and economic pressure rather than combat operations.",
+      "datos": [
+        "President Trump said the US no longer needs a new nuclear agreement or missile‑limitation deal with Iran",
+        "The plan to seize roughly 970 pounds of uranium enriched to 60% purity has been dropped",
+        "Analysis of whether US bunker‑busters could reach the alleged Pickaxe Mountain centrifuge site was abandoned",
+        "Marco Rubio made the statement in Paris during a G7 foreign‑minister meeting",
+        "Rubio claimed the economic campaign against Iran is “working so well” that major combat operations are unnecessary"
+      ],
+      "conclusion": "The pivot to strategic patience signals a reliance on sanctions over direct military action, reshaping US‑Iran engagement and affecting operational planning for any future escalation."
+    },
+    {
+      "title": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
+      "url": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/keychron1.jpg?quality=90&strip=all&crop=0,10.696524668582,100,78.606950662836",
+      "source": "The Verge",
+      "language": "en",
+      "que_paso": "Keychron has launched the T1 HE, a wireless mouse that lets users fine‑tune the trackball’s position with two small dials on the underside, addressing variations in hand size. The design builds on the company’s earlier trackball offering and is now being sold directly through its website.",
+      "datos": [
+        "The T1 HE is priced at $59.99 and is offered in black, white, and translucent finishes.",
+        "Pre‑orders are open and shipping is slated to begin in early December 2026.",
+        "The mouse’s optical sensor can be set between 100 DPI and 2,400 DPI via a button or the Keychron Launcher software.",
+        "It houses a 600 mAh battery that provides up to 106 hours of use in Bluetooth mode and 98 hours with the 2.4 GHz receiver.",
+        "The trackball is a 34 mm ball positioned on the side, and the adjustment dials move it only a few millimeters in any direction."
+      ],
+      "conclusion": "The adjustable trackball lets users achieve a more ergonomic hand position, potentially reducing strain during long sessions, while the long battery life and flexible DPI settings add practical value for productivity and gaming."
+    },
+    {
+      "title": "El papa León XIV se reencuentra con su pueblo de Chiclayo",
+      "url": "https://elpais.com/america/2026-11-13/el-papa-leon-xiv-se-reencuentra-con-su-pueblo-de-chiclayo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/C67PI5JRQ5IADFFHY2Z37GZG2Y.jpg?auth=14997662eca00519db43562fbd76710db04d25da5cc322e2edf4e2abe4bb8cdf",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "El Papa León XIV volvió a Chiclayo para reunirse con la población local, marcando la fase más emotiva de su gira por Sudamérica.",
+      "datos": [
+        "Más de un millón de peruanos asistieron al reencuentro en Chiclayo.",
+        "León XIV había sido obispo de la diócesis de Chiclayo antes de su elección como Papa.",
+        "El evento se describió como la etapa más emocional del viaje papal por Sudamérica.",
+        "Chiclayo, ciudad del norte de Perú, fue el punto de encuentro durante la visita continental."
+      ],
+      "conclusion": "El encuentro refuerza la conexión entre la Iglesia y la sociedad peruana y evidencia el impacto de la gira papal en la cohesión regional."
+    },
+    {
+      "title": "If Gen Z are asked to go to war, it might not be in the way they expect | Brief letters",
+      "url": "https://www.theguardian.com/world/2026/nov/13/if-gen-z-are-asked-to-go-to-war-it-might-not-be-in-the-way-they-expect",
+      "image": "https://i.guim.co.uk/img/media/5302f817c9ffca31369c0ca5793631f39f9b326b/541_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6790a287b7a7efd2f1d18b7b7b5a6f52",
+      "source": "The Guardian AI",
+      "language": "en",
+      "que_paso": "The newspaper’s Brief letters section published a set of reader contributions covering several unrelated topics: a view that Gen Z is unlikely to volunteer for conventional war and might instead be drawn into a NATO conflict on Russia’s border; a report that Starbucks intends to add thousands of UK staff; a criticism of Netanyahu’s call for Israel to become a “super Sparta”; and nostalgic recollections about homemade itching powder and a comic‑book reference. The letters were submitted by individuals from various UK towns and dated in early November.",
+      "datos": [
+        "Jason Okundaye’s letter, dated 10 November, argues that Britain’s youth do not relish going to war and may be asked to fight for a NATO ally on Russia’s border.",
+        "Matthew J Smith cites Starbucks plans to hire 7,500 staff in a major UK expansion, referenced in a 9 November letter.",
+        "Philip Clarke references an editorial on 12 November stating that Netanyahu wants Israel to become a “super Sparta.”",
+        "Peter Brooker’s 12 November letter mentions collecting rosehip seeds to make itching powder.",
+        "Stephen Walkley, aged 77¾, recalls reading about “itchy” powder in the Beano comic at age 11, as noted in his 12 November submission.",
+        "The collection of letters appeared in the Brief letters column on 12 November 2026."
+      ],
+      "conclusion": "The pieces highlight generational reluctance toward traditional combat, a sizable retail hiring surge, and the influence of political rhetoric, underscoring the need for operations leaders to monitor workforce sentiment, talent pipelines, and public opinion when planning strategy."
+    },
+    {
+      "title": "La UE no logra elegir una única voz y enviará representantes de cinco países a las conversaciones de paz",
+      "url": "https://www.europapress.es/internacional/noticia-ue-no-logra-elegir-unico-representante-enviara-cinco-paises-conversaciones-paz-ucrania-20261113184102.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261113184102_120.jpg",
+      "source": "Europa Press Tecnología",
+      "language": "es",
+      "que_paso": "Los líderes de la UE no lograron acordar un portavoz único para las negociaciones de paz entre Ucrania y Rusia y, en su lugar, decidieron enviar un equipo conjunto de representantes de la propia UE y de cinco estados miembros. La falta de consenso refleja divisiones internas sobre la estrategia europea en el conflicto.",
+      "datos": [
+        "El anuncio se hizo el viernes 14 de noviembre de 2026.",
+        "No se designó una sola voz para las conversaciones patrocinadas por Estados Unidos.",
+        "El equipo europeo incluirá representantes de las instituciones de la UE y de Alemania, Francia, Reino Unido, Italia y Polonia.",
+        "Las negociaciones son entre Ucrania y Rusia y están auspiciadas por EE. UU.",
+        "La decisión implica que cinco países participarán directamente en lugar de un portavoz único."
+      ],
+      "conclusion": "Esta dispersión de la representación europea puede reducir la influencia de la UE en la mediación y obliga a coordinar posiciones entre varios estados para lograr un impacto efectivo."
+    },
+    {
+      "title": "US Prostate Cancer Guidelines Updated For First Time Since 2010. Here's What You Need to Know",
+      "url": "https://www.iflscience.com/us-prostate-cancer-guidelines-updated-for-first-time-since-2010-heres-what-you-need-to-know-85181",
+      "image": "https://assets.iflscience.com/assets/articleNo/85181/aImg/93562/consultation-l.jpg",
+      "source": "IFLScience",
+      "language": "en",
+      "que_paso": "The United States released its first revision of prostate‑cancer screening guidelines since 2010, setting a universal biennial testing schedule for men aged 50 and older and altering the start age and interval for groups deemed at higher risk.",
+      "datos": [
+        "The guidelines are the first update since the 2010 version",
+        "Men aged 50 + are advised to undergo prostate screening every two years",
+        "The schedule and starting age are changed for men classified as at‑risk",
+        "The recommendations apply to U.S. clinical practice"
+      ],
+      "conclusion": "The change standardizes screening for the majority while prompting targeted protocols for higher‑risk patients, enabling more efficient allocation of resources in health operations."
+    },
+    {
+      "title": "Las secadoras de Whirlpool estrenan Adaptive Dry: así es la función que aprende cómo te gusta la ropa tras cada ciclo",
+      "url": "https://www.xataka.com/seleccion/secadoras-whirlpool-estrenan-adaptive-dry-asi-funcion-que-aprende-como-te-gusta-ropa-cada-ciclo",
+      "image": "https://i.blogs.es/9499c0/adaptive-dry-1-/840_560.png",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "Whirlpool ha incorporado la función Adaptive Dry a sus secadoras conectadas, permitiendo que el aparato aprenda de las valoraciones del usuario tras cada uso y ajuste automáticamente parámetros como temperatura y tiempo. La herramienta se gestiona a través de la aplicación móvil HomeWhiz, cerrando el ciclo de retroalimentación sin que el cliente tenga que programar manualmente cada carga.",
+      "datos": [
+        "Whirlpool lanzó Adaptive Dry como una función de aprendizaje automático en sus secadoras conectadas",
+        "La función se integra con la app móvil HomeWhiz para recibir valoraciones del usuario",
+        "El modelo mencionado es una secadora Whirlpool de bomba de calor de 8 kg, referencia C WD 84M WBS SPT",
+        "Los usuarios pueden calificar tres variables clave del resultado de cada ciclo desde la app",
+        "Según Beko Europe, el 56 % de los usuarios prioriza eliminar manchas, el 25 % se preocupa por el deterioro de los tejidos y el 11 % por las arrugas generadas",
+        "Adaptive Dry recalcula y adapta temperatura, tiempo y movimientos en ciclos futuros basándose en esas valoraciones"
+      ],
+      "conclusion": "Esta incorporación muestra cómo la IA personaliza el funcionamiento de electrodomésticos, potencialmente mejorando la eficiencia y el cuidado de los tejidos, aunque su utilidad depende de la disposición del usuario a interactuar con la app."
+    },
+    {
+      "title": "Millions Of Baby Crabs Made An Epic “Twice-In-A-Decade” Return To Christmas Island Last Year: “It Is Literally Like The Floor Is Lava\"",
+      "url": "https://www.iflscience.com/millions-of-baby-crabs-made-an-epic-twice-in-a-decade-return-to-christmas-island-last-year-it-is-literally-like-the-floor-is-lava-85180",
+      "image": "https://assets.iflscience.com/assets/articleNo/85180/aImg/93560/baby-christmas-island-crabs-l.png",
+      "source": "IFLScience",
+      "language": "en",
+      "que_paso": "A new wildlife documentary released showing a massive migration of baby Christmas Island red crabs that occurred last year, marking the first such event in ten years. The film follows a crab named \"Frank\" as the larvae emerge and flood the island's forest floor.",
+      "datos": [
+        "Millions of baby crabs migrated on Christmas Island",
+        "The migration was the first of its kind in a decade",
+        "It took place during the 2025 breeding season (last year)",
+        "The event was captured in a newly released wildlife documentary",
+        "One observer described the scene as \"literally like the floor is lava\""
+      ],
+      "conclusion": "The unprecedented crab surge highlights the resilience of the island's ecosystem and underscores the value of documenting such events for conservation planning."
+    },
+    {
+      "title": "Stanford Scientists Intrigued by Method for Bringing Bleached Coral Back to Life",
+      "url": "https://futurism.com/science-energy/method-bringing-bleached-coral-back-life",
+      "image": "https://futurism.com/wp-content/uploads/2026/11/method-bringing-bleached-coral-back-life.jpg?quality=85&w=1200",
+      "source": "Futurism",
+      "language": "en",
+      "que_paso": "Stanford marine biologists led by Steve Palumbi discovered that bleached coral fragments can recover when they are placed in direct contact with healthy coral, a finding prompted by a lab accident. In a controlled test, the touching fragments regained color within weeks, suggesting a simple physical fusion method could aid reef restoration after bleaching events.",
+      "datos": [
+        "The experiment used ten bleached coral fragments; five were placed touching healthy fragments and five were kept a few millimeters apart.",
+        "The touching fragments regained color and survived after seven weeks, while the separated fragments died of starvation.",
+        "Microscopic analysis showed algae transferred to the bleached fragments within one week, proliferating at a rate about ten times faster than in natural conditions.",
+        "Almost 10 % of the world’s coral reefs have been lost over the past 30 years.",
+        "The findings were reported in a paper published in the journal Science Advances.",
+        "Researchers quoted include Stanford professor Steve Palumbi, PhD student Danny Collins, and coauthor Fiorenza Micheli."
+      ],
+      "conclusion": "The technique provides a rapid, low‑tech option to revive bleached corals after heatwaves, but it does not mitigate the underlying temperature rise, so it should be used as a targeted post‑event restoration tool."
+    },
+    {
+      "title": "La ciencia pone en duda que sea posible resucitar animales extintos como el mamut o el lobo terrible",
+      "url": "https://www.eldiario.es/spin/mundo-animal/ciencia-pone-duda-sea-posible-resucitar-animales-extintos-mamut-lobo-terrible-pm_1_13660958.html",
+      "image": "https://static.eldiario.es/clip/53af5aa6-3f76-455a-9a11-ed1dfe3f3243_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "que_paso": "Un artículo de opinión en Biology Letters, escrito por Andrew Davinack y Charlotte K. Daniels, critica la afirmación de Colossal Biosciences de haber 'resucitado' al lobo terrible mediante edición genética de lobos grises, argumentando que la identidad de especie depende de la continuidad poblacional y la historia evolutiva, no solo del genoma. Señalan que los animales creados poseen rasgos inferidos del depredador extinto, pero carecen de una reconstrucción completa de su linaje.",
+      "datos": [
+        "Los autores del artículo son Andrew Davinack y Charlotte K. Daniels y fue publicado en la revista Biology Letters.",
+        "El lobo terrible (Aenocyon dirus) se extinguió a finales del Pleistoceno y su linaje se separó del lobo gris (Canis lupus) hace aproximadamente 5,7 millones de años.",
+        "Colossal Biosciences introdujo 20 modificaciones distribuidas en 14 genes de células de lobo gris para producir los ejemplares.",
+        "Los animales resultantes fueron gestados en madres sustitutas mediante clonación, pero sin una reconstrucción completa del genoma del lobo terrible."
+      ],
+      "conclusion": "El análisis muestra que la edición de genes aislados no equivale a restaurar una especie extinta, lo que implica que proyectos de desextinción deben ser evaluados con cautela antes de destinar recursos operacionales."
+    },
+    {
+      "title": "Al menos 50 heridos en un ataque ruso sobre la provincia ucraniana de Zaporiyia",
+      "url": "https://www.europapress.es/internacional/noticia-menos-50-heridos-ataque-ruso-provincia-ucraniana-zaporiyia-20261113175838.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261113175838_1200.jpg",
+      "source": "Europa Press Tecnología",
+      "language": "es",
+      "que_paso": "Un ataque con artillería rusa golpeó un bloque de viviendas en el distrito de Kosmichni, provincia de Zaporiyia, dejando a cincuenta personas heridas, según informó el gobernador interino Mijailo Semikin. El incidente se produjo en medio de intensos combates en la región sur de Ucrania.",
+      "datos": [
+        "Número de heridos: 50",
+        "Gobernador interino de Zaporiyia: Mijailo Semikin",
+        "Ubicación del ataque: edificio residencial en el distrito de Kosmichni, provincia de Zaporiyia",
+        "Autor del ataque: fuerzas militares rusas",
+        "Fecha de la declaración: 14 de noviembre de 2026"
+      ],
+      "conclusion": "El ataque subraya la vulnerabilidad de la población civil en Zaporiyia y la necesidad de reforzar la protección de zonas residenciales en los conflictos."
     }
   ]
 }
