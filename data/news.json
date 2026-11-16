@@ -1,786 +1,86 @@
 {
-  "generated": "2026-11-15T01:59:46.658749",
-  "count": 50,
+  "generated": "2026-11-16T02:03:56.719901",
+  "count": 49,
   "articles": [
     {
-      "title": "Highlights From the Starship Landing",
-      "url": "https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch",
-      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14startship-live-promo-445-cgmp/14startship-live-promo-445-cgmp-facebookJumbo.jpg",
-      "source": "NYT Science",
+      "title": "The Joyful Nerdiness of a 66-Hour, Nonstop Reading of ‘The Power Broker’",
+      "url": "https://www.nytimes.com/2026/11/15/nyregion/power-broker-marathon-reading-robert-moses-caro.html",
+      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15met-power-broker-top-klht/15met-power-broker-top-klht-mediumSquareAt3X.jpg",
+      "source": "New York Times",
       "language": "en",
-      "que_paso": "SpaceX successfully returned the Starship upper stage to its South Texas launch site on Saturday, where it was captured by the tower’s two “chopstick” arms. The 15th test flight included a brief de‑orbit burn and a controlled atmospheric descent, while the Super Heavy booster aborted its own landing due to a guidance issue.",
+      "que_paso": "A group of New Yorkers organized a nonstop 66‑hour marathon to read Robert Caro’s biography “The Power Broker,” completing the 1,162‑page work over four days, with Caro himself reading the concluding sections.",
       "datos": [
-        "The Starship vehicle is approximately 170 feet (52 m) long.",
-        "It re‑entered the atmosphere traveling at over 17,000 mph (27,400 km/h) from an altitude of about 170 miles (274 km).",
-        "Flight 15 launched on Friday, November 13 2026, and was the 15th test flight of the Starship system.",
-        "During the flight, the upper stage deployed 26 next‑generation Starlink satellites.",
-        "SpaceX has previously captured the Super Heavy booster on three earlier test flights, but on Flight 15 the booster performed a simulated landing over the Gulf of Mexico after a guidance‑navigation fault."
+        "The book \"The Power Broker\" is 1,162 pages long.",
+        "The reading marathon lasted 66 hours, spanning four consecutive days.",
+        "Participants were New Yorkers who read continuously around the clock.",
+        "Author Robert Caro joined the event to read the final pages.",
+        "The event centered on the legacy of urban planner Robert Moses."
       ],
-      "conclusion": "The capture proves a critical step toward fully reusable rockets, promising lower launch costs and faster turnaround, and it clears the path for upcoming in‑orbit refueling and deep‑space missions."
+      "conclusion": "The marathon demonstrates how collective, immersive reading can revive public interest in urban‑policy history, and Caro’s personal participation highlights the impact of author involvement on audience engagement."
     },
     {
-      "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
-      "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304631389-1024x648.jpg",
+      "title": "Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows",
+      "url": "https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes",
+      "image": "https://i.guim.co.uk/img/media/290c54f9326fd6704518afe33633827e4920b4e8/255_0_1269_1015/master/1269.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a2409218b017c527425255b8d0940d9d",
+      "source": "The Guardian AI",
+      "language": "en",
+      "que_paso": "Research released by the Childlight Global Child Safety Institute shows a dramatic surge in AI‑generated child sexual abuse material, leading experts to label the issue a preventable public‑health emergency and urging governments and tech firms to intervene. The study examined reports submitted by tech companies to the U.S. National Center for Missing and Exploited Children and highlighted regional variations across East Asia, the Pacific, Latin America, the Caribbean, and North America.",
+      "datos": [
+        "The number of AI‑related child abuse reports grew from roughly 4,700 in 2023 to over 400,000 in 2025, an 8,400% increase.",
+        "The UK‑based Internet Watch Foundation assessed 6,310 AI‑generated illegal images in the first half of 2026, 40% more than the 4,500+ recorded the previous year.",
+        "Childlight estimates that more than 300 million children worldwide experience at least one form of technology‑facilitated sexual exploitation annually.",
+        "In the United States, reported cases of child sexual abuse material rose 63% between 2024 and 2025, compared with an 18% rise in Canada.",
+        "Prof. Debi Fry, global director of data at Childlight, warned that the rapid evolution of AI heightens the threat to children and called for urgent policy and detection measures."
+      ],
+      "conclusion": "The unprecedented rise in AI‑generated abuse material signals an escalating risk that requires immediate regulatory and technological safeguards to protect vulnerable children."
+    },
+    {
+      "title": "Research Stalls for a Year Into a Cancer That Kills Children in a Year",
+      "url": "https://www.nytimes.com/2026/11/15/well/research-stalls-for-a-year-into-a-cancer-that-kills-children-in-a-year.html",
+      "image": "https://static01.nyt.com/images/2026/10/28/us/00well-science-patient-promo/00well-science-patient-promo-mediumSquareAt3X.jpg",
+      "source": "NYT Science",
+      "language": "en",
+      "que_paso": "The Pediatric Brain Tumor Consortium, which had operated for 27 years, was abruptly closed by the government just before a five‑year‑old child, Ryleigh Schecter, received her diagnosis, halting ongoing research into a lethal pediatric brain cancer. The shutdown creates a year‑long gap in studies aimed at improving outcomes for children with this disease.",
+      "datos": [
+        "The Pediatric Brain Tumor Consortium operated for 27 years.",
+        "It was a government‑funded program focused on pediatric brain tumors.",
+        "The consortium was shut down just before the diagnosis of Ryleigh Schecter.",
+        "Ryleigh Schecter is a five‑year‑old patient diagnosed with the cancer.",
+        "The cancer is a brain tumor that can kill children within a year of diagnosis."
+      ],
+      "conclusion": "The interruption delays potential advances in treatment for deadly pediatric brain tumors, meaning patients like Ryleigh may face longer wait times for effective therapies."
+    },
+    {
+      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+      "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934-1152x648.jpg",
       "source": "Ars Technica",
       "language": "en",
-      "que_paso": "SpaceX successfully captured the Starship upper stage on the launch tower at Starbase, Texas, after it re‑entered and used three Raptor engines to flip to a vertical orientation, marking a key step toward rapid, fully reusable launch operations.",
+      "que_paso": "The United Launch Alliance Vulcan rocket, carrying Amazon's broadband satellite payload, failed shortly after liftoff, prompting an indefinite grounding while the company investigates a booster‑stage anomaly. The incident occurred during a mission that was meant to support Amazon's competition with SpaceX and ULA's contracts for U.S. national‑security launches.",
       "datos": [
-        "The capture occurred on a Saturday following a test flight that included practice runs into the Indian Ocean",
-        "Two tower arms each had a one‑foot protruding nub that engaged the rocket",
-        "SpaceX has five Starships in an advanced state of development at Starbase",
-        "The Starfactory can manufacture a Starship upper stage every three weeks",
-        "The facility stores components for an additional twelve Starships"
+        "The launch took place on Sunday at 12:40 pm EDT (17:40 UTC) from Cape Canaveral Space Force Station, Florida.",
+        "The rocket was carrying 40 Amazon Leo broadband satellites.",
+        "Amazon has booked 38 Vulcan launches to build its Leo network.",
+        "ULA reported the anomaly occurred about 10 minutes into flight, with the BE‑4 engines continuing to fire for at least 30 seconds beyond the planned shutdown at the five‑minute mark.",
+        "Each BE‑4 engine is rated for more than 500,000 pounds of thrust.",
+        "Vulcan is slated to launch roughly half of the U.S. military’s national‑security space missions in the coming years."
       ],
-      "conclusion": "The achievement shows that SpaceX is moving closer to routine, fast‑turnaround reuse of its massive launch vehicle, which could lower launch costs and increase flight cadence for commercial and government missions."
+      "conclusion": "The failure delays Amazon's broadband rollout and could hinder ULA's role in critical defense launches, underscoring the need for rapid root‑cause analysis to restore confidence and maintain competitive pressure on SpaceX."
     },
     {
-      "title": "SpaceX Makes History With Successful Rocket Catch in Texas",
-      "url": "https://www.nytimes.com/2026/11/14/science/spacex-starship-first-catch.html",
-      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14starship-header-01-vgzq/14starship-header-01-vgzq-mediumSquareAt3X.jpg",
+      "title": "Nvidia Fallout Looms Over Trump-Xi Meeting",
+      "url": "https://www.nytimes.com/2026/11/15/us/politics/nvidia-trump-huang-china-xi.html",
+      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15dc-trump-xi-01-bjgh/15dc-trump-xi-01-bjgh-mediumSquareAt3X.jpg",
       "source": "New York Times",
       "language": "en",
-      "que_paso": "SpaceX successfully recovered its Starship vehicle by landing it back at the launch site in Texas after an orbital flight. The maneuver marks a key step toward the company's goal of fully reusable rockets.",
+      "que_paso": "President Donald Trump told reporters he will not bring up U.S. intelligence that a Chinese spy targeted Nvidia CEO Jensen Huang when he meets Chinese President Xi Jinping, a meeting that is expected to address broader U.S.-China issues. The decision leaves the espionage allegation unaddressed at a high‑level diplomatic encounter.",
       "datos": [
-        "SpaceX's Starship spacecraft performed a return-to-launch-site landing in Texas.",
-        "The vehicle completed an orbital flight before the landing.",
-        "The landing site was the same location as the launch pad.",
-        "The event demonstrates progress toward fully reusable launch systems.",
-        "The operation took place in Texas, United States."
+        "President Donald Trump stated he does not plan to press the Chinese leader about the espionage finding",
+        "U.S. intelligence concluded a Chinese spy had targeted Nvidia founder and CEO Jensen Huang",
+        "The meeting involves President Trump and Chinese President Xi Jinping",
+        "Jensen Huang leads Nvidia, a dominant supplier of AI chips"
       ],
-      "conclusion": "The achievement shows that rapid, cost‑effective reuse of launch vehicles is becoming feasible, potentially lowering launch costs and increasing flight cadence for commercial and governmental users."
-    },
-    {
-      "title": "Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall.",
-      "url": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
-      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/BIZ-JENSEN-CRASH-1-01-ljmc/BIZ-JENSEN-CRASH-1-01-ljmc-mediumSquareAt3X-v2.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Nvidia founder and CEO Jensen Huang resigned after it was revealed he had hidden a more‑than‑year‑old personal relationship with a female customer, which he had previously described as purely business.",
-      "datos": [
-        "Jensen Huang is the founder and chief executive of Nvidia.",
-        "The concealed relationship involved a female customer of Nvidia.",
-        "The secret was kept for over one year before becoming public.",
-        "Huang’s resignation was directly linked to the revelation of the hidden relationship.",
-        "He had previously claimed the interaction was strictly business."
-      ],
-      "conclusion": "The episode underscores the operational risk executives face when personal matters intersect with business relationships, highlighting the need for transparent governance to protect leadership continuity."
-    },
-    {
-      "title": "Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System",
-      "url": "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html",
-      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13faa-groundstop-fiberoptics-hzkb/13faa-groundstop-fiberoptics-hzkb-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "The FAA’s air traffic control network experienced multiple recent failures, prompting a ground stop that disrupted flights. The agency is now pursuing upgrades to address the aging infrastructure.",
-      "datos": [
-        "Federal Aviation Administration (FAA) is the responsible agency",
-        "The air traffic control infrastructure is described as aging",
-        "Several disruptive failures occurred in recent months",
-        "Officials are seeking upgrades to the system",
-        "The headline references a ground stop event"
-      ],
-      "conclusion": "The incidents expose a critical reliability risk for airlines and logistics, underscoring the need for modernized, data‑driven traffic management solutions."
-    },
-    {
-      "title": "In the Rubble of a Fallen Building, He Rescued a 2-Year-Old",
-      "url": "https://www.nytimes.com/2026/11/14/nyregion/building-collapse-brooklyn-boy-rescue.html",
-      "image": "",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Construction worker Miguel Tigsilema was searching the rubble of a building that had collapsed in Brooklyn. While combing the debris he located a two‑year‑old boy and rescued him.",
-      "datos": [
-        "Miguel Tigsilema is a construction worker",
-        "The incident occurred in Brooklyn",
-        "A building collapse created the rubble",
-        "He rescued a two‑year‑old boy"
-      ],
-      "conclusion": "The rescue highlights the importance of having trained personnel on construction sites who can act quickly in emergencies, a practice that can be reinforced with robust safety protocols and AI‑driven incident monitoring. Integrating rapid‑response training can reduce casualties in future collapses."
-    },
-    {
-      "title": "“¡Enano!” o la historia de una agresión en Madrid",
-      "url": "https://elpais.com/espana/2026-11-14/enano-o-la-historia-de-una-agresion-en-madrid.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/57UIGHR7YZGDJLIVAC6GL6ACQY.jpg?auth=e157215c4303c7267ced3f70ac659f696e98b4a5e65a176fd613aa4ce7cd204e",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Un hombre de baja estatura fue derribado mientras caminaba y terminó con una fractura, en lo que las autoridades describen como un nuevo ataque de odio en Madrid.",
-      "datos": [
-        "La víctima era un hombre de pequeña estatura",
-        "Sufrió una fractura tras el incidente",
-        "Fue derribado mientras caminaba",
-        "El hecho se calificó como ataque de odio",
-        "Ocurrió en la ciudad de Madrid",
-        "Se menciona como parte de una \"nueva era de crueldad\""
-      ],
-      "conclusion": "El caso evidencia un aumento de la violencia motivada por odio en la capital, lo que obliga a reforzar la vigilancia y las políticas de prevención de crímenes de odio."
-    },
-    {
-      "title": "La historia de expolio de tierras que los comuneros de Catacaos quieren que escuche el Papa en Perú",
-      "url": "https://elpais.com/america/2026-11-14/la-historia-de-expolio-de-tierras-que-los-comuneros-de-catacaos-quieren-que-escuche-el-papa-en-peru.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/M2XTPLFVIBEJPGSWXJMJ25AMPE.JPG?auth=a473230172d2626f827c3a33c92a86f60f8074cef53a7029eac89194d21602b1",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Un grupo de alrededor de veinte campesinos del pueblo tallán de Catacaos se desplazó a Chiclayo para solicitar al Papa, al que se refieren como León XIV, que escuche su denuncia de expolio de tierras perpetrado por empresas vinculadas al Sodalicio, en medio de una disputa histórica sobre la propiedad de esas tierras.",
-      "datos": [
-        "≈20 campesinos del pueblo tallán de Catacaos viajaron a Chiclayo",
-        "El objetivo es que el Papa, llamado León XIV, escuche su caso",
-        "Denuncian a empresas vinculadas al Sodalicio",
-        "Se identifican como comuneros de Catacaos reclamando tierras históricas",
-        "La disputa se enmarca en un conflicto de larga data sobre la tenencia de tierras en la zona tallán",
-        "El artículo se publicó el 15 de noviembre de 2026"
-      ],
-      "conclusion": "El reclamo pone de relieve la persistencia de conflictos agrarios en Perú y la posible influencia de una audiencia papal para presionar a los actores empresariales involucrados."
-    },
-    {
-      "title": "After Relative Silence, Joe Rogan Said MAGA Has Lost the “Podcast Bros”",
-      "url": "https://www.nytimes.com/2026/11/14/style/after-relative-silence-joe-rogan-said-trumps-policies-have-lost-the-podcast-bros.html",
-      "image": "https://static01.nyt.com/images/2026/12/05/multimedia/05ST-MANOSPHERE-ELECTION-REAX-01-cqwl/05ST-MANOSPHERE-ELECTION-REAX-01-cqwl-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Joe Rogan, the nation’s leading podcaster, addressed the recent U.S. midterm election results, saying that the MAGA movement has lost the “Podcast Bros” audience. He made the comment days after declaring that politics is “gross.”",
-      "datos": [
-        "Joe Rogan is described as the nation’s top podcaster.",
-        "He said politics is “gross.”",
-        "He claimed MAGA has lost the “Podcast Bros” demographic.",
-        "His remarks came days after the U.S. midterm election results were announced."
-      ],
-      "conclusion": "The shift suggests that right‑wing political branding may be losing traction among influential digital‑media audiences, which could impact future sponsorship and content strategies."
-    },
-    {
-      "title": "Here’s the latest.",
-      "url": "https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch/heres-the-latest",
-      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14startship-live-promo-445-cgmp/14startship-live-promo-445-cgmp-facebookJumbo.jpg",
-      "source": "NYT Science",
-      "language": "en",
-      "que_paso": "SpaceX’s Starship upper stage completed its first‑orbit flight and was captured by the two “chopstick” arms on the launch tower at Starbase in South Texas on Saturday, after a brief engine burn nudged it out of a 170‑mile orbit. The 15th test flight also deployed 26 next‑generation Starlink satellites, while the Super Heavy booster aborted a planned landing and performed a simulated touchdown over the Gulf of Mexico.",
-      "datos": [
-        "The Starship vehicle is approximately 170 feet long.",
-        "It re‑entered the atmosphere traveling at over 17,000 mph from an altitude of 170 miles.",
-        "Flight 15 was the 15th Starship test flight and deployed 26 Starlink satellites.",
-        "SpaceX has previously caught the Super Heavy booster on three earlier test flights.",
-        "A full “double‑catch” of both stages has not yet been achieved."
-      ],
-      "conclusion": "The successful recovery of the upper stage proves a key step toward fully reusable rockets, promising faster turnaround and lower launch costs for future lunar, Martian, and commercial missions."
-    },
-    {
-      "title": "Macron advierte de que quien quieren reducir las aportaciones para Ucrania aspira a \"una paz injusta\"",
-      "url": "https://www.europapress.es/internacional/noticia-macron-advierte-quien-quieren-reducir-aportaciones-ucrania-aspira-paz-injusta-20261114221242.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261114221242_1200.jpg",
-      "source": "Europa Press Tecnología",
-      "language": "es",
-      "que_paso": "El presidente de Francia, Emmanuel Macron, declaró este sábado que cualquier intento de recortar la ayuda a Ucrania equivale a promover una “paz injusta” que dejaría al país y a Europa vulnerables. Su comentario surge en medio del debate europeo sobre la financiación y el apoyo militar a Ucrania tras varios años de conflicto con Rusia.",
-      "datos": [
-        "Emmanuel Macron, presidente de la República Francesa, emitió la advertencia.",
-        "La declaración se realizó el sábado, fecha en que se publicó la noticia.",
-        "Macron se refirió a la reducción de las aportaciones económicas y militares a Ucrania.",
-        "Calificó la posible reducción como una “paz injusta”.",
-        "Afirmó que una Ucrania permanentemente vulnerable implicaría vulnerabilidad para Europa."
-      ],
-      "conclusion": "El mensaje subraya la posición firme de Francia contra cualquier disminución del apoyo a Ucrania, advirtiendo que ello comprometería la seguridad europea y la estabilidad del continente."
-    },
-    {
-      "title": "Starship will play a big role in Artemis III.",
-      "url": "https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch/how-starship-will-play-a-big-role-in-artemis-iii",
-      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14starship-live-artemis-iii-topart-qpvc/14starship-live-artemis-iii-topart-qpvc-facebookJumbo.jpg",
-      "source": "NYT Science",
-      "language": "en",
-      "que_paso": "SpaceX successfully returned the upper‑stage Starship from orbit and captured it on the launch tower at Starbase in South Texas during the 15th test flight, after the vehicle deployed a batch of satellites. The Super Heavy booster, which had been caught on three earlier flights, experienced a guidance issue and performed a simulated landing over the Gulf of Mexico, so the planned “double‑catch” was not achieved.",
-      "datos": [
-        "Starship is approximately 170 feet (52 m) long.",
-        "The vehicle re‑entered at about 17,000 mph (27,400 km/h) from an altitude of 170 miles (274 km).",
-        "Flight 15 deployed 26 next‑generation Starlink satellites before the return maneuver.",
-        "The upper stage was captured between two mechanical “chopstick” arms on the launch tower at SpaceX’s Starbase in South Texas.",
-        "The Super Heavy booster performed a simulated landing over the Gulf of Mexico after a guidance and navigation control problem, having been successfully caught on three prior test flights.",
-        "SpaceX plans to launch the next Starship from a new pad at Kennedy Space Center and is building another pad at Cape Canaveral Space Force Station, with a large launch complex slated for Louisiana."
-      ],
-      "conclusion": "The successful capture of the upper stage demonstrates a critical step toward fully reusable launch systems, which could lower launch costs and accelerate the cadence needed for Artemis III and future deep‑space missions."
-    },
-    {
-      "title": "Tech Leaders Rally Behind Jensen Huang",
-      "url": "https://www.nytimes.com/2026/11/14/technology/silicon-valley-nvidia-jensen-huang.html",
-      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14biz-jensen-support-Huang-vpjh/14biz-jensen-support-Huang-vpjh-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Tech industry leaders publicly backed Nvidia CEO Jensen Huang, posting praise on social media and sending letters to the company's board, emphasizing his irreplaceable role.",
-      "datos": [
-        "Jensen Huang is the founder and CEO of Nvidia.",
-        "Multiple billionaire peers used social media to express support for Huang.",
-        "The same peers sent formal letters to Nvidia's board.",
-        "In their statements they described Huang as a singular leader who could not be replaced."
-      ],
-      "conclusion": "The unified endorsement may sway board deliberations and signals market confidence in Nvidia's strategic direction."
-    },
-    {
-      "title": "Italia multa a Meta con 805 millones por acceder a fotos, vídeos y metadatos almacenados en teléfonos móviles",
-      "url": "https://www.europapress.es/internacional/noticia-italia-multa-meta-805-millones-acceder-fotos-videos-metadatos-almacenados-telefonos-moviles-20261114211735.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261114211735_1200.jpg",
-      "source": "Europa Press Tecnología",
-      "language": "es",
-      "que_paso": "La autoridad de protección de datos de Italia impuso una sanción de 805 millones de euros a Meta Platforms Ireland Limited después de que se comprobara que la aplicación de Facebook para Android había extraído fotografías, vídeos y metadatos de teléfonos de usuarios italianos sin su consentimiento explícito ni la información requerida.",
-      "datos": [
-        "La multa asciende a 805 millones de euros.",
-        "La sanción fue dictada por la Autoridad Italiana de Protección de Datos.",
-        "La empresa multada es Meta Platforms Ireland Limited.",
-        "El acceso no autorizado se realizó a través de la aplicación de Facebook para Android.",
-        "Los datos afectados incluyen fotografías, vídeos y metadatos almacenados en dispositivos de usuarios italianos.",
-        "La autoridad señaló la ausencia de consentimiento específico e información adecuada."
-      ],
-      "conclusion": "Esta multa ejemplifica la creciente rigurosidad de la normativa de privacidad en Europa y obliga a las plataformas a revisar sus procesos de obtención de consentimiento para evitar sanciones similares."
-    },
-    {
-      "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
-      "url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IefaLy5uPLc-HD.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "source": "The Verge",
-      "language": "en",
-      "que_paso": "Roy Graham, Head of Story for Magic: The Gathering, announced that Netflix will launch an animated series titled Planeswalker in 2027, reviving a project originally teased in 2019 with the Russo brothers that was later abandoned. The series will follow the pyromancer Chandra Nalaar as she confronts an insidious force alongside other Planeswalkers, with each plane depicted in a distinct visual style.",
-      "datos": [
-        "Roy Graham is Head of Story at Magic: The Gathering.",
-        "The series is named Planeswalker and is scheduled for Netflix release in 2027.",
-        "The concept was first teased in 2019 with Joe and Anthony Russo attached.",
-        "Netflix announced in 2024 that it would rework the series from the ground up.",
-        "The show’s synopsis centers on Chandra Nalaar, described as a volatile pyromancer.",
-        "Each plane will be portrayed as a pocket universe with unique design, animation, and filmmaking style."
-      ],
-      "conclusion": "The launch signals Netflix’s continued investment in high‑budget gaming IPs and gives Magic: The Gathering a new global storytelling platform, which could boost the game's audience and related product sales."
-    },
-    {
-      "title": "España derrota a Bulgaria en una nueva exhibición de Iyana Martín",
-      "url": "https://elpais.com/deportes/baloncesto/2026-11-14/espana-derrota-a-bulgaria-en-una-nueva-exhibicion-de-iyana-martin.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/2Z2NOWFJ45NAXERRYALD565HZY.jpg?auth=df4df2f1d6eff1a407c50ea0a408e991e2f4a9d3f19b7d447cea7e52bd9cf840",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "España superó a Bulgaria en un partido de clasificación para el Eurobasket 2027, con una destacada actuación de la base asturiana Iyana Martín, que lideró al equipo conocido como ‘La Familia’.",
-      "datos": [
-        "Iyana Martín anotó 26 puntos",
-        "España venció a Bulgaria",
-        "Fue el segundo triunfo de España en la fase clasificatoria para el Eurobasket 2027",
-        "El equipo español se denomina ‘La Familia’"
-      ],
-      "conclusion": "La victoria consolida la posición de España en la clasificación y evidencia el valor de Iyana Martín como pieza clave, lo que sugiere un buen arranque de cara al Eurobasket 2027."
-    },
-    {
-      "title": "El PSOE cancela el acto de Sánchez y Lula da Silva en Madrid por una afonía del presidente brasileño",
-      "url": "https://www.europapress.es/nacional/noticia-psoe-cancela-acto-sanchez-lula-da-silva-madrid-afonia-presidente-brasileno-20261114194841.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261114194841_1200.jpg",
-      "source": "Europa Press Ciencia",
-      "language": "es",
-      "que_paso": "El partido socialista decidió anular el evento de campaña programado para el 16 de noviembre en Madrid, en el que Pedro Sánchez y el presidente brasileño Lula iban a comparecer, porque Lula sufrió una afonía. La visita institucional de Lula a la residencia oficial de Sánchez sigue en pie para ese mismo día.",
-      "datos": [
-        "Fecha prevista del acto: lunes 16 de noviembre de 2026.",
-        "Organizador: el Partido Socialista Obrero Español (PSOE).",
-        "Participantes confirmados: Pedro Sánchez, presidente del Gobierno español, y Luiz Inácio Lula da Silva, presidente de Brasil.",
-        "Motivo de la cancelación: afonía del presidente brasileño.",
-        "Fuentes de Moncloa confirmaron que la visita institucional de Lula a la Casa de Moncloa sigue programada para el 16 de noviembre.",
-        "El acto habría sido una cita de campaña electoral en Madrid."
-      ],
-      "conclusion": "La cancelación muestra la necesidad de planes de contingencia en eventos políticos de alto nivel, pero la visita institucional mantiene el vínculo diplomático entre España y Brasil."
-    },
-    {
-      "title": "Protestas por la vivienda en más de 30 ciudades de Portugal",
-      "url": "https://www.europapress.es/internacional/noticia-protestas-vivienda-mas-30-ciudades-portugal-20261114192917.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261114192917_1200.jpg",
-      "source": "Europa Press Tecnología",
-      "language": "es",
-      "que_paso": "El sábado se llevaron a cabo manifestaciones en 32 ciudades de Portugal organizadas por la plataforma Casa Para Vivir, que pide que el Parlamento elimine la reforma del Nuevo Régimen de Arrendamiento Urbano.",
-      "datos": [
-        "32 poblaciones fueron escenario de protestas el sábado",
-        "La convocatoria la realizó la plataforma Casa Para Vivir",
-        "Los manifestantes exigen la retirada del Nuevo Régimen de Arrendamiento Urbano",
-        "La reforma está actualmente en trámite en el Parlamento portugués"
-      ],
-      "conclusion": "La presión social busca frenar cambios legislativos que podrían encarecer el alquiler, lo que implica riesgos regulatorios para empresas y operadores del sector inmobiliario."
-    },
-    {
-      "title": "Cuando el desierto se queda corto: resulta que la sequía extrema amenaza la supervivencia del cactus",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/cuando-desierto-se-queda-corto-resulta-que-sequia-extrema-amenaza-supervivencia-cactus",
-      "image": "https://i.blogs.es/370ec2/lydia-venjohn-zs4dlmzosp8-unsplash/840_560.jpeg",
-      "source": "Xataka",
-      "language": "es",
-      "que_paso": "Un equipo de investigadores analizó 648.316 observaciones de cactus y simuló escenarios climáticos futuros, añadiendo la variable de sequías severas. El resultado muestra que la mayoría de las especies perderá la mayor parte de su zona climáticamente adecuada antes de que termine el siglo, lo que pone en duda su supuesta resistencia a la aridez.",
-      "datos": [
-        "El estudio recopiló 648.316 observaciones de cactus en todo el mundo",
-        "Al incluir sequías severas, el modelo describió mejor el 91 % de los casos actuales",
-        "Un análisis de 2015 señaló que casi un tercio de las especies de cactus estaban en peligro por actividades humanas y climáticas",
-        "El estudio estima que entre el 84 % y el 85 % de las especies perderían su hábitat adecuado para finales de siglo"
-      ],
-      "conclusion": "Esto indica que los modelos de conservación y de riesgos deben integrar eventos climáticos extremos, no solo promedios, para planificar estrategias efectivas."
-    },
-    {
-      "title": "Work to replace old copper wire led to the FAA’s ground stop",
-      "url": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304493507.jpg?quality=90&strip=all&crop=0%2C10.654918655606%2C100%2C78.690162688789&w=1200",
-      "source": "The Verge",
-      "language": "en",
-      "que_paso": "A routine maintenance project to replace aging copper wiring with fiber at a remote FAA facility caused a newly installed router to generate excessive connection attempts, overwhelming the air‑traffic‑control network and forcing the FAA to issue a nationwide ground stop on Friday, Nov. 13. The incident involved Transportation Secretary Sean Duffy, the FAA, and contractor L3Harris, which was responsible for the upgrade.",
-      "datos": [
-        "The ground stop occurred on Friday, Nov. 13, 2026, affecting thousands of flights nationwide.",
-        "Secretary Sean Duffy reported the new router generated over 1,000 connection attempts every 4 to 5 seconds.",
-        "L3Harris has completed more than 70% of the FAA’s planned conversion from legacy copper wires to fiber optic communications.",
-        "The FAA’s investigation cited possible faulty hardware, misconfiguration, or contractor incompetence as potential causes.",
-        "Congress has provided only a partial payment for the FAA’s air traffic control modernization program, according to Duffy."
-      ],
-      "conclusion": "The event shows that even routine infrastructure upgrades can destabilize critical air‑traffic systems, emphasizing the need for thorough testing and adequate funding; operators should maintain robust contingency plans for rapid recovery."
-    },
-    {
-      "title": "Ante el problema de las riadas, en parte de Valencia ya subvencionan hasta 500 euros por instalar barreras en la puerta de tu casa",
-      "url": "https://www.xataka.com/magnet/problema-riadas-parte-valencia-subvencionan-500-euros-instalar-barreras-puerta-tu-casa",
-      "image": "https://i.blogs.es/ff6e7f/portada/840_560.jpeg",
-      "source": "Xataka",
-      "language": "es",
-      "que_paso": "Tras la riada del 16 de septiembre que dejó 71 L/m² en media hora y reavivó el recuerdo de la dana de 2024, el Ayuntamiento de Valencia aprobó una ayuda económica para instalar barreras antiinundación en puertas de viviendas y locales en planta baja. La subvención cubre hasta el 70 % del coste, con un máximo de 500 euros por inmueble, y dispone de un presupuesto inicial de 50 000 euros. La convocatoria se abrirá por 15 días hábiles y priorizará a los propietarios que ya sufrieron daños el 16 de septiembre.",
-      "datos": [
-        "71 litros por metro cuadrado cayeron en media hora el 16 de septiembre en Torrent",
-        "Casi 97 litros totales de precipitación según AVAMET",
-        "El presupuesto inicial de la ayuda es de 50 000 euros, suficiente para aproximadamente 100 ayudas al máximo",
-        "La subvención cubre hasta el 70 % del coste, con un máximo de 500 euros por inmueble",
-        "Se gestionaron 478 incidentes en la provincia ese día, 45 de ellos en Torrent",
-        "La Generalitat ha destinado 5,8 millones de euros a obras en el barranco de la Horteta dentro de un plan de cerca de 10 millones en l’Horta Sud"
-      ],
-      "conclusion": "La medida permite a propietarios proteger rápidamente sus accesos contra futuras riadas, aunque su efectividad está limitada a situaciones específicas y no sustituye la necesidad de obras de infraestructura mayores."
-    },
-    {
-      "title": "Asere, corillo o chuchaqui: las palabras latinoamericanas que incorpora la nueva edición del Diccionario de la lengua española",
-      "url": "https://www.bbc.com/mundo/articles/crpdwq559d4qo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/news/1200/branded_mundo/5af8/live/bc9816d0-e077-11f1-9ec0-713bf094c3d1.jpg",
-      "source": "BBC Mundo",
-      "language": "es",
-      "que_paso": "La Real Academia Española, junto a la Asociación de Academias de la Lengua Española, lanzó la 24ª edición del Diccionario de la lengua española, una versión digital‑nativa que incorpora miles de voces latinoamericanas y actualiza la forma de señalar su origen geográfico. La publicación sustituye las marcas continentales por los países concretos y amplía significativamente el número de entradas y gentilicios.",
-      "datos": [
-        "La edición 24 es la primera \"nativo digital\" del diccionario y también tendrá versión impresa",
-        "Más de 6.000 nuevas entradas fueron añadidas",
-        "Se incorporaron 1.490 gentilicios y 1.570 voces de uso exclusivo en los distintos países hispanohablantes",
-        "Las acepciones con marcas de países americanos ascienden a 20.672 en total",
-        "La edición anterior data de 2014",
-        "Gonzalo Celorio, último ganador del Premio Cervantes, representó a la academia mexicana en la presentación"
-      ],
-      "conclusion": "Este nuevo diccionario reconoce la diversidad lingüística de América Latina, lo que mejora la precisión de herramientas de IA y brinda a los profesionales de operaciones y negocios datos más representativos del habla real."
-    },
-    {
-      "title": "‘Vans Warped Tour’ Facing Cancelations & Rescheduling From Yesterday’s Ground Stop, Hoobastank, The Used, Etc. Held In-Flight Live Performances",
-      "url": "https://www.theprp.com/2026/11/14/news/vans-warped-tour-facing-cancelations-rescheduling-from-yesterdays-ground-stop-hoobastank-the-used-etc-held-in-flight-live-performances/",
-      "image": "https://www.theprp.com/app/uploads/2026/11/hoobastankairplaneset-1200x675.webp",
-      "source": "The PRP",
-      "language": "en",
-      "que_paso": "A nationwide air‑traffic ground stop on November 13 prevented many artists from reaching the final Orlando dates of the Vans Warped Tour, forcing the festival to scramble for alternatives. Founder Kevin Lyman used social media on November 14 to explain that some performances would be delayed, some bands would travel by road, and a few artists gave surprise in‑flight shows to keep fans engaged.",
-      "datos": [
-        "The nationwide ground stop occurred on November 13, 2026.",
-        "Kevin Lyman has been in the music business for 47 years and has run the Warped Tour for 32 years.",
-        "Artists Hoobastank, Simple Plan, The Used, and LØLØ performed impromptu in‑flight sets for fans.",
-        "Some bands drove from Chicago and Houston to Orlando in vans to fulfill their slots.",
-        "The final Warped Tour stops are scheduled for the weekend of November 14‑15, 2026, in Orlando, Florida.",
-        "Lyman announced cancellations and rescheduling on November 14 via a social‑media video."
-      ],
-      "conclusion": "The incident underscores the importance of robust contingency logistics for live‑event operations, as travel disruptions can quickly cascade into schedule chaos. Organizers should embed flexible routing and backup performance plans to mitigate similar risks."
-    },
-    {
-      "title": "Por culpa de un viejo cable de cobre: qué se sabe de la suspensión de vuelos en EE.UU. más grande desde el 11S",
-      "url": "https://www.bbc.com/mundo/articles/c5n4e274kdlro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/news/1200/branded_mundo/17a7/live/f138f130-e012-11f1-b884-a9f52ca7a4b1.jpg",
-      "source": "BBC Mundo",
-      "language": "es",
-      "que_paso": "La FAA detuvo todos los despegues en territorio estadounidense el viernes debido a una falla de comunicación provocada por el reemplazo de un antiguo cable de cobre en los centros de control de tráfico aéreo, y reanudó el tráfico después de más de cuatro horas. Participaron el secretario de Transportes Sean Duffy y las aerolíneas principales, mientras que la interrupción afectó tanto vuelos nacionales como internacionales.",
-      "datos": [
-        "La suspensión comenzó a las 15:54 EST (20:54 GMT) y el espacio aéreo se reabrió a las 20:15 EST.",
-        "FlightAware registró más de 8.500 retrasos y cerca de 8.000 cancelaciones de vuelos el viernes.",
-        "En el momento del anuncio había más de 3.500 aviones en vuelo, algunos de los cuales fueron desviados.",
-        "La causa identificada fue el reemplazo de un viejo cable de cobre, según el secretario de Transportes Sean Duffy.",
-        "La interrupción afectó el tráfico proveniente de los 42 Estados miembros de Eurocontrol."
-      ],
-      "conclusion": "El incidente muestra la fragilidad de la infraestructura de control aéreo y la necesidad de planes de contingencia robustos para minimizar el impacto operativo; las aerolíneas deben estar preparadas para gestionar interrupciones prolongadas y comunicar rápidamente a los pasajeros."
-    },
-    {
-      "title": "Rockstar lleva 29 años satirizando Estados Unidos y tiene un problema con 'GTA VI': la realidad es ya completamente imparodiable",
-      "url": "https://www.xataka.com/videojuegos/rockstar-lleva-29-anos-satirizando-estados-unidos-tiene-problema-gta-vi-realidad-completamente-imparodiable",
-      "image": "https://i.blogs.es/03795e/vice_city_18/840_560.jpeg",
-      "source": "Xataka",
-      "language": "es",
-      "que_paso": "Un clip de quince segundos de \"GTA VI\" se difundió esta semana como si fuera un vídeo real de Miami, lo que llevó a revisar la trayectoria de Rockstar en la sátira de la cultura mediática estadounidense y a cuestionar si la realidad actual sigue siendo parodiable.",
-      "datos": [
-        "El clip tiene una duración de 15 segundos y se compartió en la primera semana de noviembre 2026.",
-        "Rockstar lleva 29 años satirizando EE. UU., desde el lanzamiento del primer GTA en 1997.",
-        "En 2012, Dan Houser declaró a The New York Times que la saga es \"una sátira de la cultura mediática estadounidense\".",
-        "El primer GTA fue creado por DMA Design y publicado por BMG Interactive en 1997, con una campaña publicitaria gestionada por la agencia de Max Clifford que provocó preguntas en la Cámara de los Lores del Reino Unido.",
-        "GTA III salió en 2001, 41 días después del 11‑S, y según Rockstar era \"un 1 % diferente\", con una única misión retirada."
-      ],
-      "conclusion": "El hecho de que un fragmento de un juego sea confundido con la vida real muestra que la línea entre la sátira y la realidad mediática se está difuminando, lo que obliga a los gestores a validar la información y a anticipar que futuras simulaciones, incluso impulsadas por IA, pueden ser percibidas como hechos."
-    },
-    {
-      "title": "Filipinas gana la primera edición de Eurovisión Asia",
-      "url": "https://elpais.com/television/2026-11-14/filipinas-gana-la-primera-edicion-de-eurovision-asia.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/KVXKEG47IFKDTGCTFHC3JGH4TM.jpg?auth=9599bcf397dfcf8afcd237aa250b7ca97d5bcad68dd62d9945129cced0e3b6ec",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "En la primera edición del concurso de canción inspirado en Eurovisión, celebrada en Bangkok, la cantante filipina Carmelle se impuso con su tema “Sobra‑Sobra”. El evento, organizado como prueba para llevar el formato a Asia y potencialmente a otros continentes, contó con participantes de varios países de la región.",
-      "datos": [
-        "La canción ganadora se titula “Sobra‑Sobra”.",
-        "La artista ganadora es la filipina Carmelle.",
-        "El concurso tuvo lugar el 14 de noviembre de 2026 en Bangkok, Tailandia.",
-        "Fue la primera edición del formato “Eurovisión Asia”.",
-        "El evento se presentó como un intento de exportar el modelo de Eurovisión a otros continentes."
-      ],
-      "conclusion": "El éxito del formato en Asia muestra la viabilidad de adaptar modelos de entretenimiento a nuevos mercados, lo que puede inspirar a empresas a replicar procesos probados en diferentes regiones."
-    },
-    {
-      "title": "Meta and TikTok Have Been Secretly Paying Millions of Dollars to Teens to Keep Their Experiences Out of Court",
-      "url": "https://futurism.com/health-medicine/meta-tiktok-secretly-paying-off-teens",
-      "image": "https://futurism.com/wp-content/uploads/2026/11/meta-tiktok-secretly-paying-off-teens.jpg?quality=85&w=1200",
-      "source": "Futurism",
-      "language": "en",
-      "que_paso": "Meta and TikTok reached secret settlements with teenage plaintiffs who claimed the platforms caused depression, anxiety, self‑harm and eating disorders, paying the youths millions to keep the cases out of court. The settlements occur amid a wave of broader litigation against major social‑media firms over alleged harms to minors.",
-      "datos": [
-        "Meta and TikTok settled with roughly a dozen teen plaintiffs, each settlement ranging from $2 million to $2.5 million",
-        "Meta paid two teens a combined $7 million to keep them silent",
-        "Bloomberg reports nearly 10,000 personal‑injury lawsuits pending against Meta, YouTube, Snapchat and TikTok in state and federal courts",
-        "More than 1,000 school districts have filed claims alleging harm to students from social‑media platforms",
-        "Bloomberg estimates the total potential liability for the companies could approach $400 billion",
-        "Trial attorney Mark Lanier, representing two teen plaintiffs, said the offers were “not insignificant” and called them “the first dominoes to fall”"
-      ],
-      "conclusion": "The disclosures highlight massive legal exposure for social‑media operators and underscore the need for robust compliance and risk‑management strategies when deploying AI‑driven engagement tools aimed at minors."
-    },
-    {
-      "title": "Millions Drink Coffee Every Day. Scientists Are Finally Learning What It Does To The Gut",
-      "url": "https://www.iflscience.com/millions-drink-coffee-every-day-scientists-are-finally-learning-what-it-does-to-the-gut-85192",
-      "image": "https://assets.iflscience.com/assets/articleNo/85192/aImg/93586/coffee-l.jpg",
-      "source": "IFLScience",
-      "language": "en",
-      "que_paso": "Researchers published a study examining the physiological effects of habitual coffee intake on the digestive system. The investigation found that regular coffee drinkers experience heightened intestinal muscle activity, alongside other alterations in gut function.",
-      "datos": [
-        "Millions of people drink coffee every day worldwide.",
-        "Scientists conducted a study linking regular coffee consumption to increased gut contractions.",
-        "The study reported several notable changes in gut physiology.",
-        "The research indicates coffee affects gut motility."
-      ],
-      "conclusion": "Knowing that coffee stimulates gut activity can help professionals manage energy levels and digestive comfort, supporting better daily performance."
-    },
-    {
-      "title": "Las Leónidas llegan a España: cuándo y cómo ver la lluvia de estrellas de noviembre que alcanzará su pico máximo la próxima semana",
-      "url": "https://www.eldiario.es/spin/leonidas-llegan-espana-ver-lluvia-estrellas-noviembre-alcanzara-pico-maximo-proxima-semana-pm_1_13664224.html",
-      "image": "https://static.eldiario.es/clip/c7a4a476-497e-49e1-9940-41f838a9eec5_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "que_paso": "La lluvia de meteoros Leónidas está activa y alcanzará su máximo el miércoles 18 de noviembre, alrededor de la 00:45 hora local en la península ibérica. La observación dependerá de la meteorología y de la fase creciente de la Luna, que reducirá la visibilidad de los meteoros más débiles.",
-      "datos": [
-        "La actividad máxima prevista es de aproximadamente 15 meteoros por hora bajo condiciones ideales",
-        "El período de actividad de las Leónidas abarca del 6 al 30 de noviembre",
-        "El pico se sitúa el 18 de noviembre a las 00:45 CET según el calendario de la Organización Internacional de Meteoros",
-        "La Luna estará en fase gibosa creciente durante la madrugada del 18, lo que aumentará la luminosidad del cielo",
-        "Las Leónidas provienen de partículas del cometa 55P/Tempel‑Tuttle",
-        "Se recomienda observar en lugares alejados de la contaminación lumínica y permanecer al menos 30 minutos en la oscuridad para que los ojos se adapten"
-      ],
-      "conclusion": "Aunque la actividad será moderada, observar el pico bajo un cielo oscuro ofrecerá la mejor oportunidad de ver alrededor de 15 meteoros por hora; planificar la salida después de la puesta de la Luna maximiza la visibilidad."
-    },
-    {
-      "title": "Creíamos que los gatos sagrados del Antiguo Egipto tenían una vida dorada, pero sus cráneos dicen otra cosa",
-      "url": "https://www.xataka.com/magnet/creiamos-que-gatos-sagrados-antiguo-egipto-tenian-vida-dorada-sus-craneos-dicen-otra-cosa",
-      "image": "https://i.blogs.es/982322/british_museum-_egypt_mummies_of_animals_-4423733728-/840_560.jpeg",
-      "source": "Xataka",
-      "language": "es",
-      "que_paso": "Un equipo belga‑italiano analizó los cráneos de gatos momificados hallados en el cementerio de Beni Hassan y descubrió que la mayoría presentaba problemas de salud y lesiones que sugieren maltrato, contrastando con la imagen de veneración que la cultura egipcia proyectaba sobre los felinos.",
-      "datos": [
-        "Se estudiaron 131 cráneos de gatos de Beni Hassan",
-        "81 cráneos (62 %) mostraron problemas de salud",
-        "14 cráneos presentaban lesiones, algunas compatibles con mordeduras de otros gatos y otras con cortes o fracturas atribuibles a intervención humana",
-        "El 86 % de los cráneos pertenecen a gatos adultos",
-        "El conjunto es la mayor colección conocida de cráneos de gatos momificados egipcios con procedencia documentada",
-        "Existen al menos 20 cementerios de gatos en Egipto; Beni Hassan era uno de los mayores, con fosas de diez a veinte animales de profundidad"
-      ],
-      "conclusion": ""
-    },
-    {
-      "title": "Judge Blasts Tesla as Fraudulent for Selling Junk Solar Panels That Never Worked",
-      "url": "https://futurism.com/science-energy/judge-blasts-tesla-fraud-solar-roof-panels",
-      "image": "https://futurism.com/wp-content/uploads/2026/11/judge-telsa-fraudulent-solar-panels.jpg?quality=85&w=1200",
-      "source": "Futurism",
-      "language": "en",
-      "que_paso": "Tesla’s Solar Roof installation for California homeowner Ambrose Conroy, contracted in 2020, devolved into a multi‑year dispute after the system failed and the roof was damaged. A judge has now ruled that Tesla sold the $82,000 rooftop solar system fraudulently, pushing the case toward trial.",
-      "datos": [
-        "Conroy signed a contract in 2020 for a 13.1 kW photovoltaic system from Tesla",
-        "By spring 2021 Conroy faced a $110,000 bill, about $30,000 above the original price",
-        "In April 2022 Tesla offered a $5,000 settlement after its technicians damaged the roof",
-        "The judge found Tesla acted fraudulently in selling the $82,000 system",
-        "The lawsuit alleges total damages of $2.5 million",
-        "Tesla was sanctioned twice for not producing internal documents, including communications involving director of model engineering Bobby Yang and possibly Elon Musk"
-      ],
-      "conclusion": "The decision underscores the legal and reputational exposure of Tesla’s residential solar venture and suggests tighter oversight and clearer accountability will be required for future installations."
-    },
-    {
-      "title": "Here are our favorite deals from REI’s giant Holiday Sale",
-      "url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/fenix8Pro3.jpg?quality=90&strip=all&crop=0%2C10.752556637471%2C100%2C78.494886725057&w=1200",
-      "source": "The Verge",
-      "language": "en",
-      "que_paso": "REI opened its annual Holiday Sale early, running through November 23, 2026, and offered steep markdowns on outdoor equipment and tech gadgets, including several Garmin smartwatches. The promotion targets REI members with a special code and highlights some of the lowest prices seen on these items before Black Friday.",
-      "datos": [
-        "The sale ends on November 23, 2026.",
-        "Promo code HOLIDAY2026 gives REI members 20% off one full-price item and an additional 20% off one REI Outlet item.",
-        "Garmin Forerunner 570 advertises up to 11 days of battery life.",
-        "EcoFlow Rapid Magnetic Power Bank provides 10,000 mAh capacity, 15 W wireless charging, and 65 W USB‑C output.",
-        "Soundcore Liberty 5 earbuds offer up to 48 hours of playback and an IP55 water‑dust rating.",
-        "Anker Nebula P1 projector delivers 650 ANSI lumens, projects images up to 180 inches, and its speakers run for 20 hours on a charge."
-      ],
-      "conclusion": "The early sale lets operations managers secure needed gear at reduced cost before the peak shopping period, improving budget efficiency and ensuring equipment availability for upcoming projects."
-    },
-    {
-      "title": "Brooklyn Building Collapse Tragedy Devastates Immigrant Families",
-      "url": "https://www.nytimes.com/2026/11/14/nyregion/building-collapse-brooklyn-immigrants.html",
-      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14met-building-immigrant-top-mzgw/14met-building-immigrant-top-mzgw-mediumSquareAt3X-v2.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "A multi‑story residential building on a Brooklyn street collapsed, trapping residents who were recent immigrants seeking work and housing. The disaster struck a community that had settled there as part of New York’s long‑standing immigrant influx.",
-      "datos": [
-        "Location: a street in Brooklyn, New York",
-        "Event type: structural collapse of a residential building",
-        "Primary victims: immigrant families living in the building",
-        "Article provides no casualty figures or dates",
-        "No official statements or investigation details are included in the report"
-      ],
-      "conclusion": "The incident underscores the operational risk of inadequate building safety in dense immigrant housing and the need for stricter inspection regimes."
-    },
-    {
-      "title": "Is The Covid-Era Aging Spike Seen In Teens' DNA Real, Or An Artifact?",
-      "url": "https://www.iflscience.com/is-the-covid-era-aging-spike-seen-in-teens-dna-real-or-an-artifact-85182",
-      "image": "https://assets.iflscience.com/assets/articleNo/85182/aImg/93575/teens-covid-l.jpg",
-      "source": "IFLScience",
-      "language": "en",
-      "que_paso": "Researchers analyzed DNA samples from adolescents to assess changes in biological age during the COVID‑19 pandemic, finding indications that their epigenetic clocks ran faster than before. The work was carried out by a team of scientists studying the pandemic’s physiological impact, and they note that the measurement tools may still need calibration.",
-      "datos": [
-        "The study examined epigenetic markers (DNA methylation) in teen participants",
-        "Results indicated a perceived acceleration of biological age during the COVID‑19 period",
-        "Authors state that current epigenetic clocks may require fine‑tuning for accurate interpretation",
-        "Data were collected from cohorts before and throughout the pandemic"
-      ],
-      "conclusion": "If teen biological aging was indeed hastened, it underscores a hidden health cost of the pandemic and highlights the need for more reliable aging biomarkers for operational health planning."
-    },
-    {
-      "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
-      "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25670862/Robotaxi_89.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "language": "en",
-      "que_paso": "Tesla announced that a limited group of customers can purchase its steering‑wheel‑free Cybercab for personal use, but only in cities where the company’s Robotaxi service is active. Buyers must also subscribe to a monthly autonomy service and cannot use the vehicle for commercial rides.",
-      "datos": [
-        "Base price of the Cybercab is $29,990.",
-        "A mandatory $299 per month autonomy subscription is required.",
-        "Tesla requires a $1,000 non‑refundable deposit to secure a December delivery window.",
-        "As of the article, 278 Cybercabs are operating, about 40 % of Tesla’s Robotaxi fleet.",
-        "Over a five‑year ownership period, the subscription adds $17,940, bringing total cost to roughly $47,600 before taxes, charging, and insurance.",
-        "Canceling the $299/month subscription disables the vehicle for public road use."
-      ],
-      "conclusion": "The high total cost and usage restrictions make the Cybercab unattractive for most private owners and limit its role in Tesla’s broader Robotaxi revenue strategy."
-    },
-    {
-      "title": "CyberGhost adelanta su Black Friday: una de las mejores VPN sale ahora por 2,19 euros al mes con cuatro meses de regalo",
-      "url": "https://www.xataka.com/seleccion/cyberghost-adelanta-su-black-friday-mejores-vpn-sale-ahora-2-19-euros-al-mes-cuatro-meses-regalo",
-      "image": "https://i.blogs.es/18254f/cyberghost-black-friday-portada/840_560.jpeg",
-      "source": "Xataka",
-      "language": "es",
-      "que_paso": "CyberGhost ha lanzado una oferta anticipada de Black Friday que permite suscribirse a su VPN por 2,19 euros al mes eligiendo el plan de dos años, añadiendo cuatro meses gratuitos. La promoción está dirigida a usuarios que buscan una solución de privacidad en línea a bajo coste, en un periodo en que normalmente se promocionan dispositivos electrónicos.",
-      "datos": [
-        "Descuento del 82 % sobre el precio habitual",
-        "Precio total de 61,32 euros por el plan de dos años",
-        "Se incluyen cuatro meses extra, alcanzando 28 meses de servicio",
-        "Permite conectar hasta siete dispositivos con una sola cuenta",
-        "Cuenta con servidores en más de 100 países",
-        "Garantía de reembolso completo durante 45 días"
-      ],
-      "conclusion": "La oferta brinda una protección de datos asequible para empresas y usuarios, facilitando la adopción de una VPN sin comprometer el presupuesto operativo."
-    },
-    {
-      "title": "Liam Pearson-Noseworthy, profesor de ciencias del deporte: “Levantar pesas despacio no es siempre lo mejor”",
-      "url": "https://www.xataka.com/medicina-y-salud/liam-pearson-noseworthy-profesor-ciencias-deporte-levantar-pesas-despacio-no-siempre-mejor",
-      "image": "https://i.blogs.es/29b203/levantar-peso-rapido/840_560.jpeg",
-      "source": "Xataka",
-      "language": "es",
-      "que_paso": "El profesor Liam Pearson‑Noseworthy de la Universidad Northumbria propone que los adultos mayores de 60 años realicen la fase concéntrica del levantamiento de pesas de forma rápida, para estimular la potencia muscular y mejorar su desempeño cotidiano, aunque la fuerza no aumente tanto.",
-      "datos": [
-        "Estudio italiano con 839 participantes mostró que una baja potencia en piernas duplica o triplica la probabilidad de movilidad limitada respecto a una baja fuerza.",
-        "Ensayo con 94 personas mayores encontró que quienes habían sufrido una caída en el último año presentaban menor potencia media pero no necesariamente menor fuerza.",
-        "Pearson‑Noseworthy es profesor de ciencias del deporte en la Universidad Northumbria y escribió el artículo para The Conversation.",
-        "Las fibras musculares rápidas (tipo II) se deterioran con la edad y son clave para movimientos rápidos como subir escaleras.",
-        "La recomendación práctica es bajar el peso lentamente y subirlo lo más rápido posible, usando una carga que permita mantener la técnica adecuada."
-      ],
-      "conclusion": "Incorporar repeticiones con fase concéntrica rápida en los programas de entrenamiento de empleados mayores puede preservar la potencia funcional y reducir el riesgo de caídas, mejorando la productividad y seguridad en el trabajo."
-    },
-    {
-      "title": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
-      "url": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/crkd1_d836b8.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-      "source": "The Verge",
-      "language": "en",
-      "que_paso": "CRKD introduced the Atom Plus, a 3.5‑inch portable gamepad that packs dual analog sticks, shoulder buttons, rumble and motion controls, and the reviewer tested it primarily with the Nintendo Switch 2 as a travel accessory. The device targets gamers who need a small controller for multiple platforms, but its compact size can be uncomfortable for users with larger hands.",
-      "datos": [
-        "Price: US $29.99 at launch.",
-        "Dimensions: approximately 3.5 inches wide, about 0.5 inch smaller than the 8BitDo Zero 2.",
-        "Thumbsticks use anti‑drift tunneling magnetoresistance (TMR) sensors.",
-        "Supports Bluetooth pairing with Switch, Switch 2, PC, Android, iOS and smart TVs via a home‑button plus D‑pad direction combo.",
-        "Shoulder buttons and triggers are digital microswitches, so the triggers lack analog input for racing games."
-      ],
-      "conclusion": "The Atom Plus demonstrates that high‑end sensor technology can be offered at a sub‑$30 price, providing a practical ultra‑portable, multi‑platform controller, though ergonomics may limit its appeal for larger‑handed users."
-    },
-    {
-      "title": "Microsoft’s Global Outage and Fixes: What We Know",
-      "url": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
-      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13xp-microsoftWWK-1-lfcv/13xp-microsoftWWK-1-lfcv-mediumSquareAt3X.jpg",
-      "source": "NYT Tech",
-      "language": "en",
-      "que_paso": "Microsoft suffered a worldwide outage of its email, messaging and other cloud services, which persisted for roughly 36 hours. The disruption impacted both corporate and consumer users, forcing many organizations to switch to backup communication channels. The incident highlights the extensive reliance on Microsoft’s integrated platform.",
-      "datos": [
-        "The outage lasted about 36 hours.",
-        "Email services (e.g., Outlook) were unavailable.",
-        "Messaging services (e.g., Teams) were unavailable.",
-        "Other Microsoft products experienced disruption.",
-        "Companies and services worldwide reported being hampered."
-      ],
-      "conclusion": "The event shows how critical Microsoft’s cloud suite is to global operations and why robust contingency plans are essential."
-    },
-    {
-      "title": "A gadget to make your dumb house smarter",
-      "url": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Installer-152.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "source": "The Verge",
-      "language": "en",
-      "que_paso": "The Verge’s Installer newsletter (issue 152) detailed the author’s hands‑on testing of Apple’s new foldable iPhone Duo, describing how he reorganised the home‑screen, added widgets and shortcuts, and removed the dock after a minimalist trial. He also highlighted specific apps such as TypeDraw with the Apple Pencil and shared his sentiment feedback from readers.",
-      "datos": [
-        "Installer No. 152 is the current edition referenced.",
-        "Reader sentiment on the iPhone Duo was reported as roughly 80 % positive, 5 % negative, and 15 % confused.",
-        "The device discussed is Apple’s iPhone Duo, a foldable phone released in 2026.",
-        "The author added a TypeDraw shortcut that works with the Apple Pencil.",
-        "The dock was completely removed from the home‑screen during the experiment."
-      ],
-      "conclusion": "The walkthrough offers concrete, reproducible steps for boosting productivity on a foldable phone, helping tech‑savvy operations leaders extract immediate efficiency gains from new hardware."
-    },
-    {
-      "title": "Beware the New AI-Fueled Ransomware Boom",
-      "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
-      "image": "https://media.wired.com/photos/6af88e4339637940f3ecc20a/191:100/w_1280,c_limit/image%20(76).png",
-      "source": "Wired",
-      "language": "en",
-      "que_paso": "Cybercriminals are increasingly integrating AI tools into ransomware campaigns, boosting the volume and sophistication of attacks worldwide. Researchers cite a surge in alleged incidents over the summer, with international groups leading the rise, while AI is primarily used for phishing and negotiation stages rather than fully autonomous ransomware deployment.",
-      "datos": [
-        "Nearly 3,000 alleged ransomware attacks were posted on leak sites during the summer",
-        "The summer spike represents a 20‑40% increase compared to the spring, according to some estimates",
-        "Around 111 ransomware groups claimed attacks between July and September, per Halcyon analysis",
-        "Cynthia Kaiser, former FBI cyber deputy director and current Halcyon research lead, attributes the rise to international activity and AI influence",
-        "Allan Liska of Recorded Future notes AI is being used to craft better phishing emails and aid negotiations, but groups remain largely human‑operated",
-        "In Japan, AI‑generated content has caused a drastic recent increase in successful scamming, a trend linked to ransomware initial‑access tactics"
-      ],
-      "conclusion": "The AI‑enhanced ransomware surge raises the threat level for enterprises, demanding stronger email defenses and monitoring of AI‑driven social engineering tactics."
-    },
-    {
-      "title": "Coca de verduras asadas con garbanzos, cómo preparar este plato tradicional mediterráneo rico en proteínas",
-      "url": "https://www.eldiario.es/consumoclaro/coca-verduras-asadas-garbanzos-preparar-plato-tradicional-mediterraneo-rico-proteinas_1_13650216.html",
-      "image": "https://static.eldiario.es/clip/0fe3c777-29ef-401a-a962-6fc629b0a796_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "que_paso": "El artículo describe la preparación de la coca de verduras asadas con garbanzos, un plato tradicional del Mediterráneo que combina una masa fina con verduras de temporada y legumbres, adaptado a dietas vegetarianas y veganas. Explica su origen como forma de aprovechar el calor del horno y de dar salida a los productos de temporada, y detalla el proceso de elaboración paso a paso.",
-      "datos": [
-        "100 g de garbanzos cocidos aportan entre 8 y 9 g de proteína",
-        "Una coca de 30 × 40 cm rinde para cuatro personas",
-        "Para la masa se usan 300 g de harina de fuerza, 160 ml de agua tibia, 60 ml de aceite de oliva virgen extra, 10 g de levadura fresca (o 3 g de levadura seca) y una cucharadita de sal",
-        "El reposo de la masa es de 45 min a 1 h a temperatura ambiente",
-        "El horno se precalienta a 200 °C antes de hornear la coca"
-      ],
-      "conclusion": "Este plato muestra cómo la cocina tradicional puede ofrecer una proteína vegetal completa y nutritiva con ingredientes simples, facilitando opciones saludables y sostenibles para la merienda o comida."
-    },
-    {
-      "title": "Sánchez reivindica \"la buena política\" frente a \"la mala educación\", la \"involución\" y la \"motosierra\" de PP y Vox",
-      "url": "https://www.europapress.es/nacional/noticia-sanchez-reivindica-buena-politica-frente-mala-educacion-involucion-motosierra-pp-vox-20261114134239.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261114134239_1200.jpg",
-      "source": "Europa Press Ciencia",
-      "language": "es",
-      "que_paso": "El presidente del Gobierno, Pedro Sánchez, criticó a los partidos PP y Vox por su postura sobre la educación, calificándola de \"mala educación\", \"involución\" y \"motosierra\". Señaló que espera que el líder del PP, Alberto Núñez Feijóo, apruebe la iniciativa de Educación por la Ciudadanía y reconozca la victoria del PSOE. Además, instó a los ciudadanos a movilizarse para alcanzar una participación del 75 % en la próxima votación.",
-      "datos": [
-        "Pedro Sánchez, presidente del Gobierno",
-        "Alberto Núñez Feijóo, líder del PP",
-        "Partidos implicados: PSOE, PP, Vox",
-        "Iniciativa propuesta: Educación por la Ciudadanía",
-        "Objetivo de participación ciudadana: 75 %"
-      ],
-      "conclusion": "El llamamiento evidencia la disputa política sobre la reforma educativa y la estrategia del PSOE para reforzar su posición mediante una alta participación electoral, lo que podría traducirse en una ventaja frente a la oposición."
-    },
-    {
-      "title": "España está dejando de beber todos los alcoholes que solía beber excepto uno: el tequila",
-      "url": "https://www.xataka.com/magnet/plena-crisis-alcohol-espana-esta-viviendo-fiebre-tequila-su-segundo-mayor-mercado-internacional",
-      "image": "https://i.blogs.es/2bd3de/francisco-galarza-hos80gyhota-unsplash/840_560.jpeg",
-      "source": "Xataka",
-      "language": "es",
-      "que_paso": "España ha dejado de consumir la mayoría de los alcoholes tradicionales y ha aumentado notablemente la importación de tequila, situándose como el segundo mayor comprador mundial después de EE. UU. El crecimiento se ha estabilizado recientemente, aunque la demanda muestra una ligera caída interanual, mientras que el interés del sector de hostelería sigue en alza.",
-      "datos": [
-        "España importó 6,7 millones de litros de tequila en lo que va de 2026.",
-        "En 2025 se importaron 7,1 millones de litros, un descenso del 7,5% respecto a 2024.",
-        "En 2019 la importación fue de 3,7 millones de litros.",
-        "En 2009 la importación fue de 3,1 millones de litros.",
-        "A comienzos del siglo la importación era inferior a un millón de litros, situando a España en el sexto puesto del ranking del CRT.",
-        "El Consejo Regulador del Tequila define 181 municipios en Jalisco, Michoacán, Guanajuato, Nayarit y Tamaulipas como zona de producción autorizada."
-      ],
-      "conclusion": "El auge del tequila convierte a España en un mercado clave para proveedores y distribuidores, lo que implica oportunidades de expansión logística y de productos premium, pese a una ligera desaceleración de la demanda reciente."
-    },
-    {
-      "title": "Los momentos de la historia que más alteraron la estatura de los humanos",
-      "url": "https://www.bbc.com/mundo/articles/cx4g1gnz1jmzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/news/1200/branded_mundo/d9fd/live/eee46610-c3c7-11f1-bc2e-018d645d8d21.png",
-      "source": "BBC Mundo",
-      "language": "es",
-      "que_paso": "El artículo explica que la estatura humana ha experimentado tanto aumentos recientes como retrocesos históricos, vinculando estos cambios a la nutrición, la salud y los modos de vida. Señala que, aunque hoy los adultos jóvenes son más altos que hace un siglo, la adopción de la agricultura hace miles de años provocó una disminución de la talla media.",
-      "datos": [
-        "Los adultos jóvenes de todo el mundo son, en promedio, 10 cm más altos que sus antepasados de hace 100 años (Our World in Data).",
-        "Un estudio de 2016 comparó a nacidos en 1896 y 1996 y encontró que las mujeres surcoreanas crecieron 20 cm y los hombres iraníes 17 cm.",
-        "Según los investigadores, entre el 80 % y el 90 % de la estatura está determinada por la genética.",
-        "Un estudio de 2022 estimó que las personas del Neolítico eran 2,8 cm más bajas de lo esperado respecto al período preneolítico.",
-        "El Dr. Aravinda Guntupalli, profesor titular de salud global en la Universidad de Aberdeen, atribuye el aumento reciente a mejoras en la dieta, vacunas y control de enfermedades."
-      ],
-      "conclusion": "La altura sirve como indicador práctico del nivel de vida y la efectividad de políticas de salud y nutrición, por lo que su seguimiento ayuda a detectar desigualdades y orientar intervenciones."
-    },
-    {
-      "title": "Winemakers are learning that conservation can be good for business",
-      "url": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/savineyard1-1152x640.jpg",
-      "source": "Ars Technica",
-      "language": "en",
-      "que_paso": "Researchers examined how vineyards in South Africa’s Western Cape are incorporating conservation measures to address escalating climate stress, interviewing growers, conservation practitioners and wine industry experts. They found many operators view soil and wildlife stewardship as essential to maintaining and improving business performance.",
-      "datos": [
-        "More than 500 vineyards are located in South Africa’s Western Cape.",
-        "The Western Cape produces approximately 90 % of South Africa’s wine.",
-        "Temperatures in the region have risen 1.5–2 times faster than the global average over the past 50 years.",
-        "Three consecutive years of severe drought occurred in the late 2010s, sharply reducing grape yields.",
-        "The researchers surveyed 107 vineyards, representing about 20 % of the region’s total vineyards.",
-        "The Integrated Production of Wine certification system was established in 1998 and now includes the majority of South African vineyards."
-      ],
-      "conclusion": "Adopting conservation practices can safeguard yields and enhance marketability, demonstrating that environmental stewardship is a practical risk‑mitigation and growth strategy for wine producers."
-    },
-    {
-      "title": "Madrid supera a Ámsterdam y ya es el cuarto aeropuerto con más pasajeros de Europa",
-      "url": "https://www.xataka.com/movilidad/madrid-ha-superado-a-amsterdam-cuarto-aeropuerto-pasajeros-europa",
-      "image": "https://i.blogs.es/053af4/john-oswald-1wxf0ctonte-unsplash/840_560.jpeg",
-      "source": "Xataka",
-      "language": "es",
-      "que_paso": "Madrid‑Barajas ha superado a Schiphol y se ha consolidado como el cuarto aeropuerto más transitado de Europa, gracias a un fuerte repunte de pasajeros y operaciones en 2026, mientras que el aeropuerto neerlandés muestra un estancamiento. El crecimiento se produce en un contexto de mayor actividad turística y de una competencia estrecha con Estambul, Heathrow y Charles de Gaulle.",
-      "datos": [
-        "53,386,054 pasajeros pasaron por Barajas entre enero y septiembre de 2026",
-        "El tráfico de Barajas es un 4,7 % superior al mismo periodo de 2025",
-        "Las operaciones comerciales en Barajas crecieron un 6 % respecto al año anterior",
-        "52,104,913 pasajeros transitaron por Schiphol en el mismo intervalo",
-        "Schiphol registró apenas un 0,1 % de crecimiento de pasajeros respecto a 2025",
-        "Las operaciones en Schiphol descendieron un 3,2 % en los primeros nueve meses de 2026"
-      ],
-      "conclusion": "El repunte de Barajas refleja el impulso del turismo internacional en España y posiciona a Madrid como un hub competitivo en Europa, lo que sugiere oportunidades para ampliar rutas y servicios operacionales."
-    },
-    {
-      "title": "US Prostate Cancer Guidelines Updated For First Time Since 2010. Here's What You Need to Know",
-      "url": "https://www.iflscience.com/us-prostate-cancer-guidelines-updated-for-first-time-since-2010-heres-what-you-need-to-know-85181",
-      "image": "https://assets.iflscience.com/assets/articleNo/85181/aImg/93562/consultation-l.jpg",
-      "source": "IFLScience",
-      "language": "en",
-      "que_paso": "The US Preventive Services Task Force released its first revision of prostate‑cancer screening recommendations since 2010, setting a universal biennial PSA test for men 50 and older and altering the age and interval for men classified as high‑risk.",
-      "datos": [
-        "Guidelines updated for the first time since 2010.",
-        "Men aged 50 and older are now advised to undergo PSA testing every two years.",
-        "Screening start age and interval are modified for men in at‑risk categories (e.g., African‑American men, those with family history).",
-        "The recommendations were issued by the US Preventive Services Task Force.",
-        "Article published on November 15, 2026."
-      ],
-      "conclusion": "The change will increase screening frequency for a broader population, potentially raising early‑detection rates and affecting clinic scheduling and resource allocation."
+      "conclusion": "By avoiding the issue, the U.S. may signal a willingness to overlook cyber‑espionage for diplomatic convenience, which could weaken deterrence against future intelligence threats to the AI sector."
     },
     {
       "title": "The Jensen Huang Scandal Has Shocked Even Scandal-Prone Silicon Valley",
@@ -788,30 +88,713 @@
       "image": "https://static01.nyt.com/images/2026/11/15/multimedia/14bizsun-huang-valley-03-lpmz/14bizsun-huang-valley-03-lpmz-mediumSquareAt3X.jpg",
       "source": "NYT Tech",
       "language": "en",
-      "que_paso": "Jensen Huang, the co‑founder and chief executive of Nvidia, announced his sudden resignation, catching the industry off guard. The abrupt exit has sparked a wave of commentary among Silicon Valley executives and investors about leadership conduct, a topic already sensitive in the region.",
+      "que_paso": "Jensen Huang left his role at Nvidia abruptly, catching industry observers off guard. The departure has prompted the broader tech community to question why highly successful executives sometimes make puzzling decisions.",
       "datos": [
-        "Jensen Huang is the co‑founder and CEO of Nvidia.",
-        "He announced his resignation without prior notice.",
-        "The departure was described in media as a scandal.",
-        "The tech community is actively debating why successful leaders sometimes act poorly."
+        "Jensen Huang is the CEO of Nvidia",
+        "His exit was described as abrupt",
+        "The reaction came from the tech community",
+        "The article frames the issue as a recurring pattern among successful men"
       ],
-      "conclusion": "The loss of Nvidia's top executive could unsettle the company's strategic direction and highlights the importance of robust succession planning in high‑growth tech firms."
+      "conclusion": "Such sudden leadership changes can destabilize operational plans, so building contingency processes is essential for maintaining continuity."
     },
     {
-      "title": "Aparece en un castro gallego una piedra de 2.000 años con un grabado cuyo significado sigue siendo un misterio",
-      "url": "https://www.xataka.com/magnet/aparece-castro-gallego-piedra-2-000-anos-grabado-cuyo-significado-sigue-siendo-misterio",
-      "image": "https://i.blogs.es/b10d71/xx/840_560.jpeg",
+      "title": "Flight Delays and Cancellations Persist as System Recovers From Ground Stop",
+      "url": "https://www.nytimes.com/2026/11/15/us/faa-groundstop-flights-status-delays-canceled.html",
+      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15nat-airport-delays1-ptqj/15nat-airport-delays1-ptqj-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "A maintenance upgrade to the air traffic communications system caused a ground stop on Friday, shutting down all air traffic for over four hours before operations began to recover. The outage disrupted airlines, passengers, and airport operations across the network. Controllers are now restoring normal service.",
+      "datos": [
+        "The shutdown lasted more than four hours.",
+        "It occurred on Friday, November 15, 2026.",
+        "The cause was a maintenance upgrade that crippled communications.",
+        "Air traffic operations are now returning to normal."
+      ],
+      "conclusion": "The incident shows how a single upgrade can halt nationwide air traffic, underscoring the need for fail‑safe procedures during system maintenance."
+    },
+    {
+      "title": "Activistas por la vivienda acampan en la plaza de Restauradores de Lisboa",
+      "url": "https://www.europapress.es/internacional/noticia-activistas-vivienda-acampan-plaza-restauradores-lisboa-20261115230436.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261115230436_1200.jpg",
+      "source": "Europa Press Tecnología",
+      "language": "es",
+      "que_paso": "El domingo 15 de noviembre el colectivo Movimiento Acampada decidió permanecer en la plaza de Restauradores, en el centro de Lisboa, tras haberla ocupado el sábado al terminar una manifestación. La permanencia está prevista hasta el sábado siguiente para presionar por el reconocimiento del derecho a la vivienda.",
+      "datos": [
+        "Movimiento Acampada es el grupo activista involucrado",
+        "La ocupación comenzó el sábado 14 de noviembre de 2026",
+        "La plaza ocupada es la de Restauradores, en el centro de Lisboa",
+        "La permanencia está acordada hasta el sábado 21 de noviembre de 2026",
+        "El objetivo declarado es reivindicar el derecho a la vivienda",
+        "La acción siguió a una manifestación que concluyó el sábado anterior"
+      ],
+      "conclusion": "La protesta subraya la urgencia de abordar la crisis de vivienda en ciudades europeas y demuestra cómo la ocupación de espacios públicos puede ejercer presión directa sobre las autoridades locales."
+    },
+    {
+      "title": "Saudi-Backed Forces Retreat in Yemen, Leaving Key Strait in Houthi Control",
+      "url": "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html",
+      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15int-yemen-retreat-1-bhfc/15int-yemen-retreat-1-bhfc-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "Saudi-backed forces withdrew from a strategically important strait in Yemen, allowing the Iran‑backed Houthis to take control. The retreat marks a setback for the Yemeni government and its Saudi ally in the ongoing civil war. Analysts note that the shift signals growing momentum for the Houthis.",
+      "datos": [
+        "Saudi-backed forces retreated from the key strait",
+        "The Iran‑backed Houthis now control that strait",
+        "The Yemeni government is allied with Saudi Arabia",
+        "Analysts say the war's momentum is tilting toward the Houthis"
+      ],
+      "conclusion": "Control of the strait enhances the Houthis' leverage over regional shipping routes and weakens Saudi influence in the conflict, indicating a potential realignment of power in Yemen."
+    },
+    {
+      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+      "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304790934.jpg?quality=90&strip=all&crop=0%2C12.589380284132%2C100%2C74.821239431736&w=1200",
+      "source": "The Verge",
+      "language": "en",
+      "que_paso": "United Launch Alliance's Vulcan rocket suffered an anomaly ten minutes after liftoff from Space Launch Complex 41, causing the vehicle to fail to place its payload into orbit. The mission was carrying 40 satellites for Amazon's Leo broadband constellation, which was intended to be the first of 38 launches Amazon has contracted with ULA. The incident marks ULA's first launch failure in two decades of operations.",
+      "datos": [
+        "The anomaly occurred 10 minutes into the flight",
+        "40 Amazon Leo satellites were lost",
+        "This was ULA's first mission failure in its 20‑year history",
+        "Amazon had contracted 38 Vulcan launches with ULA",
+        "The launch took place from Space Launch Complex 41"
+      ],
+      "conclusion": "The setback postpones Amazon's timeline to field a satellite internet network that can rival Starlink and raises reliability concerns for ULA ahead of the remaining contracted flights, prompting operators to reassess deployment schedules."
+    },
+    {
+      "title": "La coalición saudí anuncia la intercepción de dos drones hutíes en La Meca y uno más en Medina",
+      "url": "https://www.europapress.es/internacional/noticia-coalicion-saudi-anuncia-intercepcion-dos-drones-huties-meca-mas-medina-20261115220220.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261115220220_120.jpg",
+      "source": "Europa Press Tecnología",
+      "language": "es",
+      "que_paso": "La coalición militar internacional liderada por Arabia Saudí informó que sus fuerzas interceptaron tres drones en las cercanías de las ciudades sagradas de La Meca y Medina. Los dos primeros fueron abatidos sobre la zona de La Meca y el tercero sobre la zona de Medina, mientras que los rebeldes hutíes negaron haber lanzado los aparatos.",
+      "datos": [
+        "La coalición militar internacional para Yemen está encabezada por Arabia Saudí.",
+        "Se interceptaron dos drones en la región de La Meca y uno en la región de Medina.",
+        "El anuncio se realizó el domingo 16 de noviembre de 2026.",
+        "Los hutíes emitieron un comunicado desmintiendo la información sobre los ataques.",
+        "La Meca y Medina son los dos lugares más sagrados del islam."
+      ],
+      "conclusion": "El hecho evidencia la capacidad de la coalición para defender zonas estratégicas, pero la contradicción de los hutíes subraya la necesidad de basar decisiones operativas en datos confirmados."
+    },
+    {
+      "title": "El Sindicato de Inquilinas convierte la rabia en fiesta en Vistalegre: \"Los fondos son unas perras, pero nosotras más\"",
+      "url": "https://www.eldiario.es/madrid/somos/sindicato-inquilinas-convierte-rabia-fiesta-vistalegre-fondos-son-perras_1_13665994.html",
+      "image": "https://static.eldiario.es/clip/81e6139e-7fc5-4b5f-a82a-3b90ba99c6e9_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "que_paso": "El 15 de noviembre el Sindicato de Inquilinas e Inquilinos de Madrid organizó en el Palacio de Vistalegre una manifestación‑concierto que reunió a unos 8.000 personas para protestar contra la crisis del alquiler y los desahucios, combinando discursos, música y humor. El evento sirvió como punto de encuentro para activistas, artistas y representantes políticos que denunciaron la situación de los inquilinos en la capital.",
+      "datos": [
+        "La convocatoria tuvo lugar el domingo 15 de noviembre de 2026 en el Palacio de Vistalegre, Madrid.",
+        "Asistieron aproximadamente 8.000 personas, según los organizadores del acto.",
+        "El desahucio de Maricarmen, detonante de la movilización, se produjo el 23 de septiembre de 2026.",
+        "Participó la ministra de Vivienda, Isabel Rodríguez, quien propuso un “número de la esperanza” como medida frente al problema del alquiler.",
+        "El presidente de la Comunidad de Madrid, Isabel Díaz Ayuso, fue mencionado por el humorista Marc Biarnés durante la intervención.",
+        "La banda Toldos Verdes abrió el evento con un concierto y el público coreó “Madrid será la tumba del rentismo”."
+      ],
+      "conclusion": "La protesta evidencia la presión creciente sobre la política de vivienda en España y advierte que la movilización ciudadana puede forzar reformas concretas en el mercado de alquiler."
+    },
+    {
+      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&strip=all&crop=0%2C12.339110464558%2C100%2C75.321779070884&w=1200",
+      "source": "The Verge",
+      "language": "en",
+      "que_paso": "Nvidia is facing internal speculation as co‑founder Jensen Huang is reportedly considering a route to resume the chief executive position, a development that surfaced early on November 16, 2026 after the latest Stepback newsletter highlighted fresh updates.",
+      "datos": [
+        "Jensen Huang co‑founded Nvidia in 1993.",
+        "He served as Nvidia's CEO until stepping down in 2024.",
+        "The article reporting the rumor was published on November 16, 2026.",
+        "The Stepback newsletter released that morning referenced new developments regarding Huang.",
+        "Rumors indicate Huang is exploring a path back to the CEO role.",
+        "Nvidia has not issued an official comment on the speculation as of the article's publication."
+      ],
+      "conclusion": "A potential leadership shift could alter Nvidia's strategic direction and affect investor sentiment, making it a critical watch point for operations and AI strategy planning."
+    },
+    {
+      "title": "El presidente argelino advierte de que el país está \"inundado\" de droga y amenaza con atacar el \"origen\"",
+      "url": "https://www.europapress.es/internacional/noticia-presidente-argelino-advierte-pais-inundado-droga-amenaza-atacar-origen-20261115211155.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261115211155_120.jpg",
+      "source": "Europa Press Tecnología",
+      "language": "es",
+      "que_paso": "El presidente argelino Abdelmadjid Tebboune declaró este domingo que el país está saturado de narcóticos y anunció que las fuerzas de seguridad se dirigirán al punto de origen del tráfico, que según las autoridades se sitúa en Marruecos.",
+      "datos": [
+        "Declaración del presidente Abdelmadjid Tebboune el 16 de noviembre de 2026.",
+        "Identificación de Marruecos como origen del flujo de droga según la policía argelina.",
+        "Compromiso de atacar el origen del tráfico mediante operaciones de seguridad.",
+        "Contexto de tensiones diplomáticas entre Argelia y Marruecos relacionadas con la seguridad fronteriza.",
+        "Cita textual: “el país está ‘inundado’ de droga y atacaremos el ‘origen’”."
+      ],
+      "conclusion": "Esta postura intensifica la presión sobre Marruecos y sugiere una escalada de acciones de seguridad que podrían afectar la cooperación bilateral y la estabilidad regional."
+    },
+    {
+      "title": "Sánchez y Chelo García Cortés para las campanadas de La Séptima o ‘La Peter’ en ‘Fuera de Control’",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/sanchez-y-chelo-garcia-cortes-para-las-campanadas-de-la-septima-o-la-peter-en-fuera-de-control.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/55NSY5TQGFE5BO5IW5OUBLVM2Y.jpg?auth=f18f55479353141deb858df1586b3d4f759fa1b122a698551f1f1449e88acdae&width=1200",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Pedro Sánchez apareció este domingo en el programa \"Fuera de control\" de La Séptima, donde mantuvo una entrevista informal y personal, abordó la decisión de adelantar las elecciones y compartió anécdotas de su vida familiar y sentimental, sin entrar en temas de gestión gubernamental.",
+      "datos": [
+        "La entrevista se realizó el domingo 10 de noviembre de 2026 y fue la segunda aparición de Sánchez en siete días en el mismo programa\",\"Sánchez asistió al programa con una camisa rosa, similar a la que usó en el podcast \"La pija y la quinqui\"",
+        "Durante la charla, Sánchez explicó que adelantó las elecciones tras el desahucio de Maricarmen, describiéndolo como \"un antes y un después\"",
+        "Mencionó que su relación con Begoña Gómez comenzó a los 30 años, vivieron juntos tres meses después y tuvieron su primera hija tras un año y medio",
+        "Citando a Alba Carrillo, Sánchez afirmó que le propuso matrimonio en un restaurante asiático cuando llegó el postre"
+      ],
+      "conclusion": ""
+    },
+    {
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25545717/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "language": "en",
+      "que_paso": "Congress is moving to tighten export controls on advanced AI chips after a scandal linking Nvidia’s former CEO Jensen Huang to a suspected Chinese spy, prompting bipartisan calls for testimony and new legislation. Key leaders such as Senate Minority Leader Chuck Schumer and House Speaker Mike Johnson have publicly urged tighter limits on chip shipments to China.",
+      "datos": [
+        "Jensen Huang, former Nvidia CEO, was linked to a suspected Chinese spy in a scandal reported in 2026.",
+        "Senate Minority Leader Chuck Schumer demanded that Huang and the Trump administration answer to Congress.",
+        "Senate Banking Committee Chairman Tim Scott sent letters to Huang and Commerce Secretary Howard Lutnick requesting public testimony.",
+        "The Remote Access Security Act, introduced in the House in April 2025, has regained attention after being stalled in the Senate.",
+        "House Speaker Mike Johnson said there is a \"growing consensus in Congress on limiting chip exports to China\" (Reuters)."
+      ],
+      "conclusion": "Stricter export rules could curb China’s access to high‑performance AI hardware while reducing U.S. chip makers’ sales to that market, forcing companies to adapt supply chains and compliance processes."
+    },
+    {
+      "title": "Más de mil personas llegan a El Hierro este domingo por la ruta más mortífera y el Gobierno estatal anuncia más medidas",
+      "url": "https://www.eldiario.es/canariasahora/migraciones/mil-personas-llegan-hierro-domingo-ruta-mortifera-gobierno-estatal-anuncia-medidas_1_13666141.html",
+      "image": "https://static.eldiario.es/clip/8ec587db-38b9-4fe6-88b2-5126506f9198_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "que_paso": "El domingo llegaron a El Hierro siete cayucos con un total de 1.261 migrantes, mientras el ministro Ángel Víctor Torres estaba en la isla y anunció nuevas medidas ante el aumento de llegadas por la ruta más mortífera. Las embarcaciones fueron asistidas por varias guardamareas que desembarcaron a los pasajeros en los puertos de La Restinga y La Estaca.",
+      "datos": [
+        "1.261 personas desembarcaron en El Hierro en siete cayucos el domingo.",
+        "Desde el viernes, 29 cayucos han llegado a Canarias con 3.684 personas desembarcadas.",
+        "El primer cayuco arribó a las 2:35 en La Restinga con 79 personas, entre ellas cinco mujeres y tres menores de Senegal y Gambia.",
+        "El ministro Ángel Víctor Torres anunció que el martes se celebrará la Comisión Interministerial de Migraciones para actualizar las medidas.",
+        "La guardamar Calíope de Salvamento Marítimo será desplegada en los próximos días, sumando cinco guardamareas en Canarias.",
+        "El último cayuco llegó a las 17:18 en La Restinga con 212 personas, ocho mujeres y 18 menores varones."
+      ],
+      "conclusion": "El incremento de llegadas obliga a reforzar la presencia de guardamareas y a revisar las políticas migratorias, lo que implica mayores recursos y coordinación para gestionar la ruta más mortal. Para el lector, la lección es que la presión migratoria en Canarias sigue creciendo y requiere respuestas operativas inmediatas."
+    },
+    {
+      "title": "Here’s This Week’s Top Ten Stories On Theprp.com (November 15th, 2026)",
+      "url": "https://www.theprp.com/2026/11/15/news/heres-this-weeks-top-ten-stories-on-theprp-com-november-15th-2026/",
+      "image": "https://www.theprp.com/app/uploads/2025/09/theprptopstories-500x300.webp",
+      "source": "The PRP",
+      "language": "en",
+      "que_paso": "Theprp.com published a weekly roundup on November 15, 2026 listing its ten most‑viewed articles from the preceding seven days, noting the typical slowdown of traffic over the weekend and inviting readers to comment.",
+      "datos": [
+        "The post covers the week ending November 15, 2026.",
+        "It identifies ten stories as the most‑viewed during that period.",
+        "The article remarks that weekdays move rapidly while weekends are characteristically slower on the site.",
+        "The page explicitly asks readers to engage in discussion on the post."
+      ],
+      "conclusion": "The roundup provides a quick pulse on what content resonated with Theprp.com’s audience, helping managers spot emerging topics and allocate resources accordingly."
+    },
+    {
+      "title": "Tatooine no es tan descabellado: en un sistema con dos soles a 16 años luz es posible que existan planetas habitables",
+      "url": "https://www.xataka.com/espacio/otros-estudios-habian-encontrado-tatooine-vida-real-solo-este-apunta-a-planeta-masa-terrestre",
+      "image": "https://i.blogs.es/1e13b4/planeta-con-dos-soles/840_560.jpeg",
       "source": "Xataka",
       "language": "es",
-      "que_paso": "Durante la última jornada de la campaña arqueológica, el 17 de octubre, el equipo de Árbore Arqueoloxía dio la vuelta a un bloque de granito en el castro del Pico da Bandeira (monte Torroso, A Guarda, Pontevedra) y descubrió un trisquel y un petroglifo en su cara oculta. El hallazgo, comentado por el arqueólogo Benito Vilas y la directora Nerea Vilariño, plantea preguntas sobre su origen y función en la cultura castreña.",
+      "que_paso": "Un equipo internacional de científicos analizó el sistema binario 70 Ophiuchi, a 16 años luz de la Tierra, combinando un siglo de datos de velocidad radial de ocho instrumentos y simulando 2 000 planetas terrestres durante 10 millones de años. Las simulaciones mostraron que un planeta de masa terrestre puede mantener una órbita estable alrededor de la estrella principal sin ser expulsado por la compañera, aunque su detección supera la sensibilidad actual de los instrumentos.",
       "datos": [
-        "Bloque de granito de 25 cm de alto por 33 cm de ancho",
-        "Descubierto el 17 de octubre, último día de la campaña de excavación",
-        "Ubicado en el castro del Pico da Bandeira, monte Torroso, A Guarda, Pontevedra",
-        "El sitio estuvo ocupado entre los siglos I a.C. y I d.C., base para estimar una antigüedad aproximada de 2 000 años",
-        "Participaron la compañía Árbore Arqueoloxía, el arqueólogo Benito Vilas y la directora Nerea Vilariño"
+        "70 Ophiuchi está compuesto por dos enanas K y se encuentra a 16 años luz de la Tierra.",
+        "Se usaron datos de velocidad radial acumulados durante 100 años, medidos con ocho instrumentos diferentes.",
+        "La precisión alcanzada fue de 1 metro por segundo en variaciones de velocidad radial.",
+        "Se simularon 2 000 planetas de masa terrestre y se siguieron durante 10 millones de años.",
+        "No se detectaron señales de planetas gigantes (masa de Júpiter o superior) en el sistema.",
+        "Este año se anunciaron 27 candidatos a planetas circumbinarios en el universo."
       ],
-      "conclusion": "El objeto, único en Galicia, podría indicar una presencia humana anterior al periodo conocido del castro o revelar prácticas rituales desconocidas, lo que justifica una investigación detallada y una conservación cuidadosa."
+      "conclusion": "El hallazgo amplía la zona habitable a sistemas binarios, lo que implica que futuras misiones y algoritmos de detección deben incluir estrellas dobles como objetivos viables para buscar mundos potencialmente habitables."
+    },
+    {
+      "title": "Sean Duffy Offers New Details on How One Fix Spiraled Into Nationwide Ground Stop",
+      "url": "https://www.nytimes.com/2026/11/15/us/sean-duffy-ground-stop-trump-faa.html",
+      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15dc-duffy2-vqkm/15dc-duffy2-vqkm-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "U.S. Transportation Secretary Sean Duffy explained that a recent technical fix unexpectedly escalated into a nationwide air‑traffic ground stop, disrupting flights across the country. When pressed on Sunday about the likelihood of a repeat, he said he could not guarantee it would not happen again.",
+      "datos": [
+        "Sean Duffy, the U.S. Transportation Secretary, spoke on Sunday, November 15, 2026.",
+        "He was asked about the risk of a repeat air‑traffic meltdown.",
+        "The incident resulted in a nationwide ground stop affecting commercial flights.",
+        "Duffy said he could not guarantee that a similar event would not occur again."
+      ],
+      "conclusion": "The admission highlights lingering vulnerabilities in the air‑traffic system and signals the need for stronger safeguards to prevent future nationwide disruptions."
+    },
+    {
+      "title": "Llevamos años llamando \"superalimento al arándano, pero ya hemos encontrado un problema en muchos de los estudios que lo alaban",
+      "url": "https://www.xataka.com/medicina-y-salud/arandano-lleva-anos-acumulando-promesas-nuestra-salud-ciencia-empieza-a-separar-que-funciona-que-puro-marketing",
+      "image": "https://i.blogs.es/379abb/arandanos/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "El artículo expone que gran parte de la literatura que promociona al arándano como \"superalimento\" está sesgada porque muchos estudios fueron financiados por la propia industria del fruto, lo que genera resultados exagerados. Sin embargo, señala que existe evidencia concreta de que el consumo regular de arándanos mejora la función endotelial, basada en un ensayo clínico de 2019.",
+      "datos": [
+        "Marion Nestle documentó que la industria inyecta becas de entre 75.000 y 300.000 dólares para buscar beneficios de salud del arándano.",
+        "Los autores de los ensayos más grandes asesoran al comité del USHBC que reparte esas subvenciones.",
+        "El ensayo clínico publicado en 2019 reclutó a 115 personas con síndrome metabólico.",
+        "Los participantes consumieron aproximadamente 150 g de arándanos al día durante seis meses y mejoraron un marcador de salud endotelial.",
+        "Los investigadores proyectaron una reducción del 12‑15 % del riesgo de eventos cardiovasculares basada en esa mejora.",
+        "Rodríguez‑Mateos demostró en 2019 que las antocianinas purificadas reproducen el mismo efecto vasodilatador que el fruto entero."
+      ],
+      "conclusion": "Para la toma de decisiones operativas, es crucial distinguir entre datos respaldados por financiación independiente y los impulsados por intereses comerciales; el beneficio cardiovascular del arándano parece limitado y específico, por lo que su inclusión en estrategias de salud debe basarse en evidencia robusta y no en marketing."
+    },
+    {
+      "title": "Rosa María Payá reprocha al Gobierno español que \"haya ignorado el sufrimiento de Cuba\" y espera un cambio tras el 29N",
+      "url": "https://www.europapress.es/internacional/noticia-rosa-maria-paya-reprocha-gobierno-espanol-haya-ignorado-sufrimiento-cuba-espera-cambio-29n-20261115185435.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261115185435_1200.jpg",
+      "source": "Europa Press Tecnología",
+      "language": "es",
+      "que_paso": "Rosa María Payá, figura de la oposición cubana, criticó al Gobierno de España por no reconocer la situación humanitaria en Cuba y manifestó su expectativa de que las elecciones del 29 de noviembre produzcan un giro en la política española hacia la isla.",
+      "datos": [
+        "Rosa María Payá es hija del activista cubano Oswaldo Payá y lidera la oposición en la diáspora",
+        "El Gobierno español fue señalado por no abordar el sufrimiento cubano",
+        "Las elecciones generales en España están programadas para el 29 de noviembre de 2026",
+        "La declaración de Payá se realizó el 16 de noviembre de 2026",
+        "La crítica se centró en la frase \"ignorado el sufrimiento de Cuba\""
+      ],
+      "conclusion": "El pronunciamiento subraya la presión internacional que podría influir en la agenda política española tras las elecciones, potencialmente modificando la postura hacia Cuba."
+    },
+    {
+      "title": "Rory McIlroy conquista la Race to Dubai ante un gran Eugenio Chacarra",
+      "url": "https://elpais.com/deportes/2026-11-15/rory-mcilroy-conquista-la-race-to-dubai-ante-un-gran-eugenio-chacarra.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/Q56HHIOF4NB73IAW3MGPFFOP7U.jpg?auth=76956e433173f3b9a41eaec41e56db8394e178d9cf2f518df54c194cd89cdca1&width=1200",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Rory McIlroy superó a Eugenio Chacarra en la última jornada del DP World Tour Championship, asegurando la Race to Dubai 2026 por apenas una cabeza. El norirlandés consolidó su liderazgo tras una temporada completa, mientras que el madrileño quedó como subcampeón y obtuvo su tarjeta para el PGA Tour 2027.",
+      "datos": [
+        "Rory McIlroy terminó la Race to Dubai con 5.044 puntos, frente a los 4.919 de Eugenio Chacarra.",
+        "McIlroy obtuvo -10 en el DP World Tour Championship, cinco golpes detrás del ganador Tyrrell Hatton (-15) y dos por encima de Chacarra (-8).",
+        "Es la quinta Orden de Mérito consecutiva de McIlroy, igualando el récord de ocho títulos de Colin Montgomerie (1993‑2005).",
+        "Chacarra, con 26 años, asegura su plaza en el PGA Tour 2027, el primer español en la élite mundial desde la salida de Jon Rahm a LIV en 2023.",
+        "Jon Rahm terminó 19.º en Dubai, subiendo al sexto puesto en la Race to Dubai, pero no recibe tarjeta del PGA por sanción derivada de su última participación en LIV el 23 de agosto."
+      ],
+      "conclusion": "El triunfo reafirma la hegemonía de McIlroy en el circuito europeo, mientras que el ascenso de Chacarra abre una nueva oportunidad para la presencia española en el PGA Tour."
+    },
+    {
+      "title": "Rev3rent Vocalist Joshua Bailey Guard To Sit Out Current Tour For Mental Health Issues",
+      "url": "https://www.theprp.com/2026/11/15/news/rev3rent-vocalist-joshua-bailey-guard-to-sit-out-current-tour-for-mental-health-issues/",
+      "image": "https://www.theprp.com/app/uploads/2026/10/rev3rentlarge-1200x675.webp",
+      "source": "The PRP",
+      "language": "en",
+      "que_paso": "Joshua Bailey Guard, the teenage frontman of deathcore band Rev3rent, withdrew from the ongoing Slaughter To Prevail tour, citing personal mental‑health concerns. The band will continue the tour using substitute singers, with Guard planning to seek professional help and return after the tour ends.",
+      "datos": [
+        "Joshua Bailey Guard announced he will miss the rest of the Slaughter To Prevail tour for personal mental health reasons.",
+        "He said his friend Mike will fill in for him during the Canadian dates.",
+        "He said his friend Cory will fill in for the remaining shows after Canada.",
+        "Rev3rent’s debut album, \"She Let The World Run Rampant,\" was released through Atlantic Records imprint Deep Love Recordings."
+      ],
+      "conclusion": "The incident highlights the critical need for mental‑health resources for touring musicians and demonstrates why robust backup plans are essential for uninterrupted live operations."
+    },
+    {
+      "title": "The Guardian view on civil service reform: AI cannot conjure a capable state on its own | Editorial",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/15/the-guardian-view-on-civil-service-reform-ai-cannot-conjure-a-capable-state-on-its-own",
+      "image": "https://i.guim.co.uk/img/media/381f5b016eabf59928e51e4cbadea3a60ecabadc/68_0_3108_2486/master/3108.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=15f04e8984d3c216603d2fbe1a0e4565",
+      "source": "The Guardian AI",
+      "language": "en",
+      "que_paso": "UK Cabinet Secretary Antonia Romeo announced a sweeping overhaul of the civil service, proposing to shift powers, resources and accountability to regional and local governments to make Whitehall leaner and more strategic. The plan follows criticism of a reactive, risk‑averse culture and aims to address talent gaps and social selection in senior posts.",
+      "datos": [
+        "Antonia Romeo, the UK Cabinet Secretary, delivered the reform speech on a Tuesday in November 2026.",
+        "80% of civil servants already work outside London.",
+        "The UK civil service is ranked joint sixth internationally on a public‑administration performance measure.",
+        "A 2025 study by Oxford scholars Erzsébet Bukodi and John H. Goldthorpe with Nottingham’s Inga Steinberg found elite civil‑service access remains skewed toward advantaged backgrounds and that progress in widening access has reversed over the past 20 years.",
+        "Privately‑schooled Oxford graduates dominate top officials from privileged families, most of whom hold humanities degrees.",
+        "Kate Bingham, former vaccine taskforce chair, warned that too few scientists are being recruited to shift Whitehall’s skillset."
+      ],
+      "conclusion": "The reforms underscore that AI and technology cannot compensate for entrenched talent and diversity deficits, so practical steps must focus on targeted recruitment, training and inclusive promotion alongside digital upgrades."
+    },
+    {
+      "title": "El PSOE incluye en el programa electoral la semana laboral de 37 horas y media y empezar a negociar bajarla a 35",
+      "url": "https://www.europapress.es/nacional/noticia-psoe-incluye-programa-electoral-semana-laboral-37-horas-media-empezar-negociar-bajarla-35-20261115180445.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261115180445_120.jpg",
+      "source": "Europa Press Ciencia",
+      "language": "es",
+      "que_paso": "El Partido Socialista Obrero Español (PSOE) ha anunciado que su programa electoral contempla una nueva política de tiempo de trabajo, buscando acortar la jornada semanal y abrir la puerta a negociaciones para una mayor reducción. La iniciativa forma parte de su propuesta para las próximas elecciones generales.",
+      "datos": [
+        "El PSOE incluyó la reducción de la jornada laboral en su programa electoral oficial.",
+        "El programa propone una jornada de 37,5 horas semanales como punto de partida.",
+        "Se plantea fomentar la negociación colectiva para bajar la jornada a 35 horas semanales.",
+        "El documento del programa electoral se publicó el 16 de noviembre de 2026.",
+        "La medida forma parte del programa electoral del PSOE para las elecciones generales de 2026."
+      ],
+      "conclusion": "Si se aprueba, la reducción de la jornada obligará a las empresas a replantear la planificación de turnos y los costos laborales, por lo que los directivos deben preparar estrategias de adaptación y negociación con sus sindicatos."
+    },
+    {
+      "title": "EEUU mira al fondo del agua para montar sus centros de datos y los Grandes Lagos tienen todas las papeletas",
+      "url": "https://www.xataka.com/robotica-e-ia/eeuu-mira-al-fondo-agua-para-montar-sus-centros-datos-grandes-lagos-tienen-todas-papeletas",
+      "image": "https://i.blogs.es/e752ab/gemini_generated_image_aqf5vtaqf5vtaqf5/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "EE. UU está evaluando la instalación de centros de datos submarinos en los Grandes Lagos, con el respaldo de la administración y la EPA, pese a la oposición de comunidades locales y a las preocupaciones medioambientales sobre la calidad del agua y la fauna acuática.",
+      "datos": [
+        "Más de 30 millones de personas dependen del agua potable de los Grandes Lagos, según la EPA.",
+        "La EPA no ha recibido ninguna solicitud para construir un centro de datos submarino en los Grandes Lagos hasta la fecha.",
+        "Nueva York mantiene una moratoria estatal sobre centros de datos que expirará a mediados de 2027.",
+        "DeepGreen Holdings solicitó permisos iniciales para proyectos acuáticos en Maine y Alaska, que cubrirían 6,7 km², con 66 módulos de computación y 300 turbinas mareomotrices.",
+        "El 3 de noviembre la ciudadanía de Conneaut, Ohio, votó en contra de un centro de datos en el lago Erie.",
+        "Microsoft operó un datacenter experimental frente a Escocia entre 2018 y 2024, registrando un 87 % menos de fallos que un centro terrestre equivalente."
+      ],
+      "conclusion": "Si se aprueban, estos centros podrían comprometer la calidad del agua para decenas de millones de usuarios y evidencian la necesidad de marcos regulatorios más ágiles que acompañen la expansión de la infraestructura de IA."
+    },
+    {
+      "title": "Fanttik’s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday",
+      "url": "https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Fanttik-S1-Pro-Cordless-Electric-Screwdriver-Lifestyle-Image.jpg?quality=90&strip=all&crop=0,10.699249743617,100,78.601500512765",
+      "source": "The Verge",
+      "language": "en",
+      "que_paso": "Amazon is running a limited‑time Black Friday promotion that drops the Fanttik S1 Pro cordless electric screwdriver to $39.99, a $40 discount from its regular price. The tool, highlighted by The Verge, includes a built-in LED, 16 interchangeable hardened‑steel bits, three torque settings, a 2,000 mAh battery and USB‑C charging.",
+      "datos": [
+        "Current sale price is $39.99, representing a $40 discount",
+        "The screwdriver ships with 16 S2 hardened‑steel bits and a magnetic storage case",
+        "It offers three adjustable torque settings for delicate to heavy tasks",
+        "The 2,000 mAh rechargeable battery is rated for up to 340 screws per charge",
+        "The Verge’s commerce editor Brandon Widder called it his \"go‑to electric screwdriver\""
+      ],
+      "conclusion": "The steep discount makes a versatile, well‑reviewed tool affordable for quick household or workplace repairs, potentially improving operational efficiency for DIY‑oriented managers."
+    },
+    {
+      "title": "Apple’s first smart glasses are coming together",
+      "url": "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268640_RayBan_Meta_Gen2_AKrales_0038.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "language": "en",
+      "que_paso": "Apple is set to unveil its first Siri‑powered smart glasses at the June 2027 WWDC, a device that will not include augmented‑reality features. The N50 prototype will ship before the end of 2027 and relies on an iPhone for most functions, using Wi‑Fi and a new smartwatch‑based processor.",
+      "datos": [
+        "Announcement scheduled for June 2027 WWDC.",
+        "Prototype name is N50.",
+        "Device will lack augmented reality capabilities.",
+        "Shipments are expected to begin before the end of 2027.",
+        "Glasses include a MagSafe‑like charger described as flat, rectangular and about the size of a Tic Tac.",
+        "They run a pared‑down version of visionOS on a processor derived from older Apple smartwatch chips."
+      ],
+      "conclusion": "The launch signals Apple’s cautious entry into smart‑glasses, emphasizing iPhone integration and audio quality over full AR, which could shape market expectations and operational planning for related hardware ecosystems."
+    },
+    {
+      "title": "Estonia anuncia el cierre de su frontera con Rusia a partir del 1 de diciembre",
+      "url": "https://www.europapress.es/internacional/noticia-estonia-anuncia-cierre-frontera-rusia-partir-diciembre-20261115174828.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261115174828_120.jpg",
+      "source": "Europa Press Tecnología",
+      "language": "es",
+      "que_paso": "El gobierno estonio decidió cerrar su frontera con Rusia a partir del 1 de diciembre. El primer ministro Kristen Michal emitió la orden y delegó al ministro del Interior Igor Taro la organización de las medidas necesarias. La decisión es una respuesta al presunto intento de sabotaje contra la instalación militar estonia Threod, que Estonia atribuye a Moscú.",
+      "datos": [
+        "El cierre de la frontera será efectivo el 1 de diciembre de 2026",
+        "Kristen Michal es el primer ministro de Estonia",
+        "Igor Taro es el ministro del Interior de Estonia",
+        "El sabotaje presuntamente dirigido contra la instalación militar estonia denominada Threod",
+        "Estonia culpa a Moscú del intento de sabotaje"
+      ],
+      "conclusion": "El cierre fronterizo aumentará la presión sobre la logística y el comercio transfronterizo, y muestra una escalada de tensiones que obliga a las empresas a revisar sus planes de suministro y a los gestores a vigilar la evolución del conflicto."
+    },
+    {
+      "title": "El PSOE promete blindar 19.000 millones hasta 2030 para mantener la red ferroviaria e impulsar un Pacto de Estado",
+      "url": "https://www.europapress.es/nacional/noticia-psoe-promete-blindar-19000-millones-2030-mantener-red-ferroviaria-impulsar-pacto-estado-20261115164705.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261115164705_1200.jpg",
+      "source": "Europa Press Ciencia",
+      "language": "es",
+      "que_paso": "El PSOE, en su programa para las elecciones generales del 29 de noviembre, ha anunciado una inversión de 19.000 millones de euros entre 2026 y 2030 destinada a la conservación y mantenimiento de la red ferroviaria, y propone crear un Pacto de Estado que abarque seguridad ferroviaria, atención a víctimas y justicia tras los accidentes de Adamuz y Urda.",
+      "datos": [
+        "Inversión prevista: 19.000 millones de euros.",
+        "Periodo de la inversión: 2026‑2030.",
+        "Fecha de las elecciones generales: 29 de noviembre de 2026.",
+        "Objetivo: conservación y mantenimiento de la red ferroviaria.",
+        "Se propone un Pacto de Estado para la Seguridad Ferroviaria, Atención a las Víctimas y Justicia.",
+        "Los accidentes que motivan la medida son los de Adamuz y Urda."
+      ],
+      "conclusion": "Esta medida busca evitar nuevos siniestros y reducir costes de reparación a largo plazo, ofreciendo al sector ferroviario una financiación estable y un marco institucional para la gestión de incidentes."
+    },
+    {
+      "title": "Zverev, demasiado Zverev para un aguerrido Jódar",
+      "url": "https://elpais.com/deportes/tenis/2026-11-15/zverev-demasiado-zverev-para-jodar.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/6PUAYZKJ5VFTVCPWWL4W77U5HM.jpg?auth=316d5fbe4962562f6d1459564e6484ba65e982e984d12fc552ceae6f12dc33a2&width=1200",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Alexander Zverev derrotó a Rafa Jódar en la ronda de Turín, imponiéndose en dos sets idénticos de 6‑4 en una contienda de una hora y veintisiete minutos. Tras la victoria, Zverev, número uno del ranking, comentó que disfrutó el partido y busca mantener su buen nivel de cara a los próximos encuentros.",
+      "datos": [
+        "Resultado: Zverev ganó 6‑4, 6‑4.",
+        "Duración del partido: 1 hora 27 minutos.",
+        "Lugar del encuentro: torneo de Turín.",
+        "Rafa Jódar es madrileño.",
+        "Zverev es el número uno del ranking mundial.",
+        "Ausencias notables: Jannik Sinner y Carlos Alcaraz no participaron."
+      ],
+      "conclusion": "La victoria refuerza la posición de Zverev como favorito en los próximos torneos y muestra a Jódar que necesita ajustar su juego para competir con los líderes del circuito."
+    },
+    {
+      "title": "Tantos años buscando la energía oscura y unos científicos creen que la respuesta ya la había formulado Einstein",
+      "url": "https://www.xataka.com/espacio/anos-buscando-energia-oscura-estos-cientificos-sugieren-que-respuesta-estaba-ecuaciones-einstein-siempre",
+      "image": "https://i.blogs.es/4b1b7b/expansion-del-universo/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "Un equipo de la Universidad de California‑Davis y el University College London ha publicado un estudio que muestra que, usando solo la combinación de las ecuaciones de Einstein y de Euler, se puede reproducir la aceleración del universo sin invocar la energía oscura. Los autores describen el universo plano de Friedmann como un punto de reposo inestable que, al perturbarse la densidad y velocidad de la materia, genera la expansión acelerada.",
+      "datos": [
+        "Einstein introdujo la constante cosmológica en 1917 para obtener un universo estático.",
+        "Edwin Hubble demostró la expansión del universo en 1929, haciendo innecesaria la constante.",
+        "En 1998 se descubrió que la expansión del universo se acelera, reintroduciendo la energía oscura.",
+        "El modelo estándar Lambda‑CDM asigna aproximadamente el 70 % de la energía total del universo a la energía oscura.",
+        "El estudio fue realizado por investigadores de la Universidad de California‑Davis y el University College London.",
+        "Blake Temple, coautor del estudio, explicó la inestabilidad del modelo con la analogía del lápiz apoyado sobre su punta, según declaraciones recogidas por Science Daily."
+      ],
+      "conclusion": "Si la aceleración cósmica puede explicarse sin energía oscura, los modelos cosmológicos podrían simplificarse y orientar nuevas líneas de investigación que no dependan de componentes no observados."
+    },
+    {
+      "title": "Grim Simulation Shows What Earth Would Be Like if Life Never Existed",
+      "url": "https://futurism.com/science-energy/simulation-earth-without-life",
+      "image": "https://futurism.com/wp-content/uploads/2026/11/simulation-earth-life-never-existed.jpg?quality=85&w=1200",
+      "source": "Futurism",
+      "language": "en",
+      "que_paso": "Researchers at UC Riverside built a computer model that simulated Earth’s geochemical evolution over five billion years assuming no life ever arose. The model, incorporating 19 abiotic planetary properties, showed that the planet would retain liquid oceans and moderate temperatures but lack atmospheric oxygen. The findings were published in The Planetary Science Journal and highlighted as a tool for interpreting exoplanet atmospheres.",
+      "datos": [
+        "Lead author: Samantha Gilbert‑Janizek, astronomer at UC Riverside.",
+        "Model incorporated 19 non‑biological planetary properties.",
+        "Simulation covered Earth’s evolution for five billion years.",
+        "Result: atmospheric oxygen was absent in the lifeless scenario.",
+        "Cyanobacteria began oxygenating Earth’s atmosphere about three billion years ago."
+      ],
+      "conclusion": "The study provides a baseline for distinguishing abiotic from biotic atmospheric signatures on exoplanets, implying that oxygen detection remains a strong indicator of life despite habitability without it."
+    },
+    {
+      "title": "Is the AI job apocalypse finally here? The evidence suggests otherwise | John Quiggin",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/16/is-the-ai-job-apocalypse-finally-here-the-evidence-suggests-otherwise",
+      "image": "https://i.guim.co.uk/img/media/90b330e8a3a675d60169684e5857f5b61ae3ff3d/1500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=8141735be6d1c89e0624bb678fda89cc",
+      "source": "The Guardian AI",
+      "language": "en",
+      "que_paso": "The article examines recent layoffs announced by Australian firms NAB, Qantas, Canva and Atlassian that have been linked to artificial intelligence, but finds that AI is not the primary driver and that traditional business decisions such as off‑shoring and routine workforce adjustments are behind the cuts.",
+      "datos": [
+        "ChatGPT was launched in November 2022, and the piece is written four years later in 2026",
+        "NAB publicly denied that AI played any role in its recent job reductions",
+        "Since 2010 NAB has announced a mass‑sacking in most years, though total employment numbers have stayed roughly constant",
+        "Qantas plans to move 850 jobs to India as part of an off‑shoring strategy",
+        "Qantas has stated the outsourced roles will eventually be replaced by AI",
+        "Canva’s revenue model is based on monthly or annual SaaS subscriptions for graphics‑design software"
+      ],
+      "conclusion": "The takeaway is that AI hype has not yet produced measurable productivity gains or widespread job displacement; managers should scrutinize conventional cost‑cutting motives rather than assume AI is the cause."
+    },
+    {
+      "title": "La infanta Margarita, hermana del rey Juan Carlos, ingresada en la UCI por una infección",
+      "url": "https://elpais.com/gente/2026-11-15/la-infanta-margarita-hermana-del-rey-juan-carlos-ingresada-en-la-uci-por-una-infeccion.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ZZIOCA4RWFAOVDJEJUMKDRYTLM.jpg?auth=0e6d2937601292493628191b8cbe1179aefc80f68642ef3420bfb91b2f01a972&width=1200",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "La infanta Margarita de Borbón, hermana del rey Juan Carlos I, fue ingresada en la unidad de cuidados intensivos del Hospital Gregorio Marañón de Madrid por una infección. Durante su estancia recibió la visita de su hija María Zurita y de otros familiares cercanos, y los médicos comunicaron que su estado se mantiene estable y muestra mejoría.",
+      "datos": [
+        "Infanta Margarita de Borbón, 87 años, ingresó en la UCI del Hospital Gregorio Marañón de Madrid.",
+        "La visita de su hija María Zurita al hospital tuvo lugar el domingo 15 de noviembre de 2026.",
+        "La familia que la acompañó incluye a su esposo Carlos Zurita, su hijo Alfonso y su nieto Carlos.",
+        "Según la revista ¡Hola!, la infección está remitiendo y la infanta experimentó una pequeña mejoría en las últimas horas.",
+        "La infanta Margarita es presidenta de honor de UNICEF España, la Fundación ONCE y la Fundación Española del Corazón, y presidió la Federación Española de Hemofilia."
+      ],
+      "conclusion": "Su recuperación es relevante por su papel institucional y la atención que genera su figura, y la evolución favorable indica que, pese a su avanzada edad, la situación no se ha tornado crítica."
+    },
+    {
+      "title": "LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend",
+      "url": "https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/lg-oled-b6e-2026.png?quality=90&strip=all&crop=0%2C7.7520200950277%2C100%2C84.495959809945&w=1200",
+      "source": "The Verge",
+      "language": "en",
+      "que_paso": "LG's B6E OLED TV is being sold at Best Buy at up to 50% off during a doorbuster event, with the 55‑inch model priced at $699.99 and larger models also reduced, as of November 15, 2026. The promotion includes the 65‑inch and 77‑inch versions at similarly deep discounts.",
+      "datos": [
+        "The 55‑inch B6E is discounted 50% to $699.99, a $700 reduction.",
+        "The 65‑inch model is reduced to $999.99, a $900 discount.",
+        "The 77‑inch model is reduced to $1,499.99, a $1,200 discount.",
+        "The sale runs through November 15, 2026.",
+        "The B6E includes Dolby Vision, HDR10, Dolby Atmos, Apple AirPlay, Google Cast, a 120 Hz refresh rate, Nvidia G‑Sync and AMD FreeSync Premium, and four HDMI 2.1 ports.",
+        "It is powered by LG’s Alpha 8 Gen 3 AI processor."
+      ],
+      "conclusion": "The steep price cuts make OLED technology accessible for budget‑conscious gamers and home‑theater setups, allowing the reader to acquire high‑contrast, feature‑rich displays at a fraction of typical premium costs."
+    },
+    {
+      "title": "The Sony Aibo was a robot revolution dressed like a dog",
+      "url": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AIBO_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "language": "en",
+      "que_paso": "Sony designed the Aibo robot dog in the 1990s as a prototype pet for a future where robots live alongside people, but it never achieved mass-market success. The article revisits the product’s history and impact, with commentary from David Pierce, Victoria Song and Jennifer Pattison Tuohy on the Version History podcast.",
+      "datos": [
+        "Sony developed the Aibo robot dog in the 1990s",
+        "The Aibo was marketed as a family pet robot",
+        "The story is presented in a Version History episode featuring David Pierce, Victoria Song, and Jennifer Pattison Tuohy",
+        "The article states that Aibo was not a huge commercial hit despite its longevity",
+        "The episode explores why Aibo resonated with owners and what Sony got right or wrong about robots"
+      ],
+      "conclusion": "The Aibo case highlights the difficulty of turning advanced robotics into mainstream consumer products, offering a cautionary lesson for AI and robot developers about market fit and user adoption."
+    },
+    {
+      "title": "People Who Got Hormone Therapy as Teenagers End Up With a Lower Regret Rate Years Later Than Knee Replacement Surgery, Research Finds",
+      "url": "https://futurism.com/future-society/hormone-therapy-transgender-care-research",
+      "image": "https://futurism.com/wp-content/uploads/2026/11/hormone-therapy-lower-regret-rate.jpg?quality=85&w=1200",
+      "source": "Futurism",
+      "language": "en",
+      "que_paso": "A JAMA Pediatrics study tracked 372 transgender and gender‑diverse adolescents who began hormone replacement therapy around age 16 and surveyed them about five years later, finding the vast majority still view the treatment positively. The research was highlighted in the Washington Post as a direct response to political claims that many trans patients later regret transitioning.",
+      "datos": [
+        "The study followed 372 participants who started hormone therapy at an average age of 16 and were surveyed at an average age of 21.",
+        "97 % of respondents said hormone therapy was the right choice five years after starting treatment.",
+        "2.7 % reported regret, including seven individuals who said the treatment caused harm.",
+        "Knee replacement surgery has reported regret rates between 10 % and 20 %.",
+        "Hip replacement surgery shows regret rates of about 5 %.",
+        "Less than 0.1 % of U.S. youth undergo hormone replacement therapy."
+      ],
+      "conclusion": "The low regret rate suggests hormone therapy is a net benefit for trans youth and challenges policy arguments that emphasize widespread regret, indicating that gender‑affirming care can be pursued with confidence in its long‑term satisfaction."
+    },
+    {
+      "title": "Ábalos pide al juez anular el registro de su casa en Valencia por no estar presente",
+      "url": "https://www.eldiario.es/comunitat-valenciana/abalos-pide-juez-anular-registro-casa-valencia-no-presente_1_13665568.html",
+      "image": "https://static.eldiario.es/clip/8a935724-55c7-4956-8db3-5aaafd827e10_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "que_paso": "José Luis Ábalos, exministro de Transportes y actualmente detenido, ha presentado un incidente de nulidad ante la Audiencia Nacional para que el juez Ismael Moreno anule el registro de su vivienda en Valencia realizado el 5 de noviembre, argumentando que se vulneraron sus derechos al no estar presente. Además, solicita la devolución de los dispositivos electrónicos incautados y que no se analicen hasta que se resuelva el incidente.",
+      "datos": [
+        "El registro de la casa se efectuó el 5 de noviembre de 2026.",
+        "Durante el registro se incautaron once dispositivos electrónicos, incluido un ordenador en el dormitorio de un menor.",
+        "El domicilio ya había sido registrado en junio de 2025.",
+        "El abogado de Ábalos es Marino Turiel y la pareja detenida es Andrea de la Torre.",
+        "Ábalos lleva casi un año en prisión tras la condena del caso Koldo."
+      ],
+      "conclusion": "Si el registro se anula, las pruebas obtenidas podrían quedar sin efecto, lo que limitaría la capacidad de la investigación de presuntas irregularidades en contratos públicos y subrayará la importancia de respetar garantías procesales incluso en casos de alta relevancia política."
+    },
+    {
+      "title": "The Big Questions About Jeffrey Epstein: What The Times Has Learned",
+      "url": "https://www.nytimes.com/article/jeffrey-epstein-sex-abuse-times-investigations.html",
+      "image": "",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "Jeffrey Epstein, a convicted sexual predator, is the focus of a new investigation by The Times that has revealed previously hidden details about his activities. The newspaper’s reporting has triggered a worldwide debate about how wealth and influence can enable such abuse, and the story is being continuously updated as more information emerges.",
+      "datos": [
+        "Jeffrey Epstein is identified as a sexual predator in the article",
+        "The investigation is being conducted by The Times newspaper",
+        "The article’s title is \"The Big Questions About Jeffrey Epstein: What The Times Has Learned\"",
+        "The reporting has sparked an international reckoning over money, power and complicity",
+        "The article notes that it will be updated with new findings"
+      ],
+      "conclusion": "The briefing underscores that exposing the mechanisms behind Epstein’s network is essential for improving oversight of powerful individuals and preventing similar abuses in the future."
+    },
+    {
+      "title": "How Jensen Huang’s Secret Led to His Downfall at Nvidia",
+      "url": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
+      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/BIZ-JENSEN-CRASH-1-01-ljmc/BIZ-JENSEN-CRASH-1-01-ljmc-mediumSquareAt3X-v3.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "Jensen Huang, Nvidia’s founder‑CEO, concealed a personal relationship with a female client that he initially described as strictly business, and the disclosure forced him to resign from the company he started. The resignation came after the hidden relationship became public.",
+      "datos": [
+        "Jensen Huang is the founder and chief executive of Nvidia.",
+        "He described his interaction with a female customer as solely business.",
+        "The concealed relationship was later revealed, prompting his resignation.",
+        "His resignation ended his tenure at the company he created."
+      ],
+      "conclusion": "The incident highlights how personal misconduct can erode executive credibility and disrupt leadership stability at a major technology firm."
+    },
+    {
+      "title": "How the world’s fires changed while humanity hit pause",
+      "url": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2293683755-1024x648.jpg",
+      "source": "Ars Technica",
+      "language": "en",
+      "que_paso": "Researchers led by Jianghao Wang of the Chinese Academy of Sciences analyzed satellite and mobility data from the 2020 COVID‑19 lockdowns and found that the abrupt reduction in human movement corresponded with a measurable drop in average wildfire activity worldwide, contrasting with the severe 2019‑2020 Australian bushfires and the 2025 Los Angeles fires that occurred under normal activity levels. The study, published in Cell Reports Sustainability, treats the lockdown as a natural experiment to isolate human impact from weather factors.",
+      "datos": [
+        "The 2019‑2020 bushfires in southeastern Australia destroyed thousands of homes.",
+        "The 2025 Los Angeles wildfires spread across the city causing massive community damage.",
+        "Jianghao Wang’s team published their findings in Cell Reports Sustainability.",
+        "The 2020 COVID‑19 lockdowns produced an abrupt, large‑scale drop in human mobility across multiple countries.",
+        "Analysis of 2020 lockdown data showed a net reduction in average global fire activity compared to preceding years."
+      ],
+      "conclusion": "The findings demonstrate that reduced human activity can lower wildfire incidence, suggesting that targeted mobility or land‑use policies could be an effective tool for fire risk mitigation."
+    },
+    {
+      "title": "El efecto bouba/kiki, el extraordinario experimento psicológico que tiene los mismos resultados en casi todas las culturas",
+      "url": "https://www.bbc.com/mundo/articles/c35yn4xdxz5eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/news/1200/branded_mundo/f0a6/live/2ccec3b0-d874-11f1-93e1-3b657b665bcf.jpg",
+      "source": "BBC Mundo",
+      "language": "es",
+      "que_paso": "En 1924 el psicólogo georgiano Dimitri Uznadze realizó un experimento en su laboratorio de Tiflis donde pidió a diez sujetos que asignaran nombres inventados a seis dibujos abstractos mostrados brevemente, y descubrió una coincidencia sistemática entre la forma de los dibujos y los nombres elegidos, un hallazgo que fue retomado décadas después por la neurociencia para explorar la relación entre percepción sensorial y lenguaje.",
+      "datos": [
+        "El experimento de Uznadze involucró a diez participantes que observaron seis figuras durante cinco segundos cada una",
+        "Los sujetos asignaron las palabras inventadas \"bouba\" y \"kiki\" (originalmente \"takete\" y \"baluba\") a las figuras con una concordancia mayor que la esperada por azar",
+        "Wolfgang Köhler citó el hallazgo en su libro \"Gestalt Psychology\" publicado en 1929",
+        "En la segunda edición de 1949 del mismo libro, las palabras se modificaron a \"takete\" y \"maluma\"",
+        "En 2001, los neurocientíficos V. S. Ramachandran y Edward Hubbard de la Universidad de California en San Diego publicaron investigaciones que relacionan el efecto bouba/kiki con la sinestesia"
+      ],
+      "conclusion": "El efecto demuestra una asociación innata entre sonidos y formas que trasciende culturas, lo que sugiere pistas sobre los orígenes del lenguaje y ofrece un modelo útil para diseñar interfaces de IA que alineen símbolos visuales con etiquetas verbales de forma intuitiva."
+    },
+    {
+      "title": "Madrid ya está saturado, así que el mercado de la vivienda se está disparando ahora en Torrejón, Parla y Alcorcón",
+      "url": "https://www.xataka.com/magnet/mercado-vivienda-capitales-esta-rato-que-esta-acabando-plan-b-muchas-familias-comprar-periferia",
+      "image": "https://i.blogs.es/b76578/torrejon_de_ardoz-aire_-cropped-/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "El estudio de Tinsa by Accumin muestra que, ante la saturación del mercado central de Madrid, la demanda se ha desplazado a municipios periféricos como Torrejón, Parla y Alcorcón, impulsando al alza sus precios. Este fenómeno se refleja en un aumento del esfuerzo financiero que deben asumir las familias para comprar una vivienda, superando los niveles considerados razonables.",
+      "datos": [
+        "El indicador de esfuerzo familiar se sitúa en 36,9% en el último trimestre, frente al 35,7% del trimestre anterior",
+        "En Madrid el esfuerzo alcanza el 65,6% y en Barcelona el 64,1%",
+        "El valor medio de la vivienda crece a un ritmo interanual superior al 13%",
+        "El precio mediano de la vivienda en España es de 2.129 €/m², dos puntos porcentuales por encima del pico de 2007",
+        "Cristina Arias, directiva de Tinsa, señala que el mercado mantiene \"tasas de crecimiento robustas\" pese a una desaceleración"
+      ],
+      "conclusion": ""
+    },
+    {
+      "title": "The 4 Best Planners of 2027: Roterunner, Hobonichi, Cloth & Paper",
+      "url": "https://www.wired.com/story/best-paper-planners/",
+      "image": "https://media.wired.com/photos/6af7de304c1f7b55abfd9851/191:100/w_1280,c_limit/I%E2%80%99ve-Tested-Dozens-of-Planners.-These-Are-the-Best-Ones.jpg",
+      "source": "Wired",
+      "language": "en",
+      "que_paso": "A reviewer evaluated numerous 2027 planner models and published a guide naming the four top choices, emphasizing the Roterunner Purpose Planner’s flexibility and space. The article was refreshed in November 2026 after testing several upcoming designs, and it highlights how undated formats let users start at any point in the year.",
+      "datos": [
+        "The guide was updated in November 2026 to reflect 2027 planner availability",
+        "The Roterunner Purpose Planner is undated and covers six months",
+        "B5 size of the Roterunner costs $35; A5 size costs $28",
+        "The author is testing 2027 designs from Plum Paper, Laurel Denise, My PA Planner, Sterling Ink, and an undated Aura Estelle",
+        "Most planner manufacturers have released their 2027 designs as of early 2027",
+        "The Roterunner includes monthly and weekly spreads plus sections for meals, water intake, and gratitude"
+      ],
+      "conclusion": "An undated, multi‑size planner like Roterunner lets busy professionals maintain continuous organization without wasted pages, supporting consistent operational tracking and personal productivity."
+    },
+    {
+      "title": "Construido en mampostería en la Edad Media, este puente asturiano es considerado todo un ejemplo de ingeniería ancestral",
+      "url": "https://www.eldiario.es/spin/construido-mamposteria-edad-media-puente-asturiano-considerado-ejemplo-ingenieria-ancestral-pm_1_13665042.html",
+      "image": "https://static.eldiario.es/clip/6c90f3aa-cb00-4c3e-ab7f-d3ab33ece75b_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "que_paso": "El Puente de la Jaya, situado en Cabrales sobre el río Cares a 262 m de altitud, ha sido identificado como un referente de ingeniería medieval que sigue facilitando la movilidad entre los macizos del Parque Nacional de los Picos de Europa. Historiadores y arqueólogos discuten su origen, que podría remontarse a la época romana tras el 19 a.C. y a la tradición que lo vincula con Don Pelayo en 718, mientras que restauraciones medievales le dieron la forma actual.",
+      "datos": [
+        "Ubicación: Cabrales, cerca de Poncebos, a 262 m sobre el nivel del mar",
+        "Construcción con piedra caliza extraída de los Picos de Europa y arco apuntado gótico",
+        "Posible origen romano posterior al 19 a.C., asociado a vías de Agripa",
+        "Tradición popular lo relaciona con el paso de Don Pelayo en el año 718",
+        "Forma parte de la Ruta de la Reconquista, un sendero de más de 100 km entre Covadonga y Cosgaya",
+        "Fue la única vía de acceso peatonal a la aldea de Bulnes, el último pueblo español sin carretera"
+      ],
+      "conclusion": "El puente demuestra cómo la arquitectura ancestral puede integrarse al entorno montañoso y sigue siendo clave para la conectividad y el turismo de la zona, lo que subraya la necesidad de su conservación y estudio continuo."
+    },
+    {
+      "title": "Logitech Yeti 2 Review: An All-In-One Studio Setup",
+      "url": "https://www.wired.com/review/logitech-yeti-2/",
+      "image": "https://media.wired.com/photos/6af7df7e7f77ca3a14ead393/191:100/w_1280,c_limit/Review--Logitech-Yeti-2.jpg",
+      "source": "Wired",
+      "language": "en",
+      "que_paso": "Logitech introduced the Yeti 2 microphone, a successor to the 2009‑released Blue Yeti, adding an integrated screen and dial that let users adjust gain, EQ, and noise‑reduction directly on the device without opening software, positioning it as a more self‑contained studio tool for creators and professionals.",
+      "datos": [
+        "The original Blue Yeti microphone was released in 2009.",
+        "The Yeti 2 includes a built‑in screen and dial for on‑the‑fly adjustments without requiring software.",
+        "The screen can display a gain‑adjusted input volume graph, a volume histogram, and a directional pattern indicator.",
+        "The microphone provides a de‑noise function with four levels, five EQ presets, and a pattern customizer with eight default options.",
+        "It ships with a desk‑mounted stand that uses two rubber grommets and a felt panel to isolate vibrations from the desk."
+      ],
+      "conclusion": "The on‑mic controls reduce setup time and eliminate extra software steps, streamlining high‑quality audio capture for AI training, live streaming, or other operations that need reliable, low‑latency sound."
+    },
+    {
+      "title": "Nvidia se está planteando una decisión radical para dejar de depender de Samsung en la producción de memoria",
+      "url": "https://www.xataka.com/componentes/produccion-memoria-siendo-drama-nvidia-planea-dar-salto-para-no-depender-samsung-se-habria-pedido-a-tsmc",
+      "image": "https://i.blogs.es/b2b935/original/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "Nvidia está evaluando fabricar su propia memoria avanzada para no depender de Samsung y otros proveedores tradicionales. Para ello ha contactado a TSMC, que ya está trazando planes para producir RAM 3D bajo la dirección de su vicepresidente de empaquetado avanzado. La iniciativa surge en medio de una escasez de memoria que se espera dure hasta al menos 2028.",
+      "datos": [
+        "La escasez de memoria impulsada por la IA se prevé que se prolongue hasta al menos 2028.",
+        "Nvidia ha considerado producir su propia memoria avanzada, según una filtración de The Information.",
+        "TSMC habría empezado a planificar la fabricación de RAM 3D a petición de Nvidia.",
+        "El proyecto estaría liderado por Hsu Kuo‑chin, vicepresidente de empaquetado avanzado de TSMC y exdirectivo de Micron en Taiwán.",
+        "En 2024 TSMC se alió con SK Hynix para desarrollar la capa lógica base de futuros chips HBM.",
+        "Samsung aceptó mover la producción de la capa base de NVHBM a TSMC usando el proceso de 3 nm, manteniendo su producción de HBM estándar."
+      ],
+      "conclusion": "Si Nvidia logra producir su propia memoria con TSMC, podría mitigar la escasez y reducir costos, lo que reforzará su posición en el mercado de IA y presionará a los proveedores tradicionales."
     }
   ]
 }
