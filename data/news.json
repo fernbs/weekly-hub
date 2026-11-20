@@ -1,649 +1,100 @@
 {
-  "generated": "2026-11-19T03:21:09.917061",
-  "count": 59,
+  "generated": "2026-11-20T03:15:30.488353",
+  "count": 58,
   "articles": [
     {
-      "title": "Alaska Republican Narrowly Defeats Independent House Candidate",
-      "url": "https://www.nytimes.com/2026/11/18/us/politics/alaska-nick-begich-wins-house-race.html",
-      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/00pol-alaska-at-large-hfo-cpml/00pol-alaska-at-large-hfo-cpml-mediumSquareAt3X.jpg",
+      "title": "This Isn’t the Cyberapocalypse, but It Isn’t Great",
+      "url": "https://www.nytimes.com/2026/11/19/opinion/tech-outages-cybersecurity.html",
+      "image": "https://static01.nyt.com/images/2026/11/20/opinion/19goldstein/19goldstein-mediumSquareAt3X.png",
       "source": "New York Times",
       "language": "en",
-      "que_paso": "Incumbent Republican Representative Nick Begich III narrowly beat an independent challenger in Alaska’s House race, despite a national environment where Democrats achieved historic gains. The result underscores the limited impact of third‑party candidates in a year that favored the major parties.",
+      "que_paso": "A cybersecurity expert expressed skepticism about the prevailing narrative that recent high‑profile digital outages and system crashes are causally linked. The expert, unnamed, argues that the incidents are likely unrelated technical failures rather than evidence of a coordinated cyber‑apocalypse. This comment comes amid growing media speculation about a looming systemic cyber threat.",
       "datos": [
-        "Nick Begich III, a Republican, was the incumbent candidate.",
-        "His opponent was an independent candidate (name not disclosed).",
-        "The election took place in 2026.",
-        "Democrats made historic gains nationwide in the same election cycle.",
-        "Third‑party candidates, including independents, saw little success overall.",
-        "The victory margin was described as narrow."
+        "The article was published on November 20, 2026.",
+        "The piece is titled \"This Isn’t the Cyberapocalypse, but It Isn’t Great\".",
+        "A cybersecurity expert is quoted as not being convinced of a link between recent digital failures and crashes.",
+        "The article references multiple recent digital failures and crashes but provides no specific incidents or quantitative data.",
+        "No percentages, dates of individual outages, or financial impact figures are included."
       ],
-      "conclusion": "The narrow win shows that Republican incumbents can retain seats even when Democrats surge, indicating limited upside for independents in competitive races."
+      "conclusion": "The takeaway is that managers should prioritize concrete risk assessments over sensationalist narratives, focusing on proven vulnerabilities rather than presumed systemic cyber threats."
     },
     {
-      "title": "Trump dice que EEUU no necesita ayuda de China o Rusia para cerrar el conflicto con Irán",
-      "url": "https://www.europapress.es/internacional/noticia-trump-dice-eeuu-no-necesita-ayuda-china-rusia-cerrar-conflicto-iran-20261119031743.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261119031743_1200.jpg",
-      "source": "Europa Press Tecnología",
-      "language": "es",
-      "que_paso": "Donald Trump declaró que Estados Unidos puede resolver el conflicto con Irán sin la ayuda de China ni Rusia, durante la cumbre trilateral en Shenzhen, y afirmó que las fuerzas estadounidenses ya habían derrotado a la Armada, la Fuerza Aérea y las defensas antiaéreas iraníes.",
-      "datos": [
-        "Declaración de Donald Trump el 19 de noviembre de 2026 en la cumbre trilateral de Shenzhen.",
-        "Trump afirmó que EE. UU. no necesita solicitar ayuda a China ni a Rusia para cerrar el conflicto con Irán.",
-        "Aseguró que las fuerzas estadounidenses han derrotado a la Armada, la Fuerza Aérea y las defensas antiaéreas de Irán.",
-        "Indicó que Irán quiere llegar a un acuerdo, pero está intentando desarrollar armas químicas y biológicas.",
-        "Mencionó que el programa nuclear iraní está bloqueado."
-      ],
-      "conclusion": "Esto indica una estrategia unilateral de EE. UU. y una preocupación por la proliferación de armas químicas y biológicas en Irán, lo que podría afectar futuras decisiones de sanciones y despliegues militares."
-    },
-    {
-      "title": "Takeaways From the 2026 DealBook Summit",
-      "url": "https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-summit-musk-altman-ellison.html",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-summit-takeaways-vfbq/18dealbook-summit-takeaways-vfbq-mediumSquareAt3X.jpg",
+      "title": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
+      "url": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-ledeall-01-cvbz/19trump-summits-ledeall-01-cvbz-mediumSquareAt3X.jpg",
       "source": "New York Times",
       "language": "en",
-      "que_paso": "At the 2026 DealBook Summit, top artificial‑intelligence executives and government officials gathered on Wednesday to examine the consequences of recent U.S. political shifts and the removal of Nvidia’s founder‑CEO Jensen Huang. The session focused on how these developments could affect industry strategy and policy alignment.",
+      "que_paso": "President Donald Trump met Chinese President Xi Jinping and Russian President Vladimir Putin in a first‑ever trilateral summit, praising the warm reception and calling Putin a “friend,” but the talks yielded no concrete agreements on nuclear arms control, the Ukraine conflict, or artificial intelligence.",
       "datos": [
-        "The summit was held on Wednesday, November 19, 2026.",
-        "Jensen Huang was removed from his position at Nvidia.",
-        "Leaders from the artificial‑intelligence sector attended the discussion.",
-        "Government representatives participated in the dialogue.",
-        "The agenda highlighted America’s shifting politics and the Nvidia leadership change."
+        "Donald Trump referred to Vladimir Putin as his “friend” during the summit.",
+        "The meeting was the first trilateral summit involving the United States, China, and Russia.",
+        "Chinese officials gave Trump a warm welcome at the summit.",
+        "No agreements were reached on nuclear control, the war in Ukraine, or AI policy.",
+        "The summit participants were Donald Trump, Xi Jinping, and Vladimir Putin."
       ],
-      "conclusion": "The conversation underscores that political volatility and sudden leadership changes in key AI firms may reshape regulatory expectations and investment priorities for operators."
+      "conclusion": "The lack of substantive outcomes suggests the summit was more symbolic than strategic, offering little actionable progress for policymakers or businesses."
     },
     {
-      "title": "Ericka Lomick’s Texas House Win Faces Challenge in State Supreme Court",
-      "url": "https://www.nytimes.com/2026/11/18/us/texas-house-election-ericka-lomick.html",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19nat-TX-democrat-1-fvck/19nat-TX-democrat-1-fvck-mediumSquareAt3X.jpg",
+      "title": "Big tech is already building datacentres in Australia. Why is Labor so desperate to give them loopholes?",
+      "url": "https://www.theguardian.com/technology/commentisfree/2026/nov/20/big-tech-is-already-building-datacentres-in-australia-why-is-labor-desperate-to-give-them-loopholes",
+      "image": "https://i.guim.co.uk/img/media/0cdbb6369ce14b701428a723ba8bb7a215b0e3bd/0_0_1828_1463/master/1828.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=0fe7871b2cf8597759e9594df5c5a5c6",
+      "source": "The Guardian AI",
+      "language": "en",
+      "que_paso": "Australian cultural figures including musicians Paul Kelly and Jimmy Barnes, author Anna Funder and former minister Peter Garrett publicly urged the Albanese Labor government to reject proposed copyright loopholes for AI firms. The push comes as major tech companies are constructing AI data centres in Australia, seeking local land, water and energy to train models on Australian content.",
+      "datos": [
+        "Prime Minister Anthony Albanese’s Labor government is being lobbied by AI companies for copyright exemptions.",
+        "Prominent Australian artists Paul Kelly, Jimmy Barnes, Anna Funder and Peter Garrett issued a joint statement this week opposing the loopholes.",
+        "Big tech firms are already building AI data centres in Australia, requiring significant land, water and electricity resources.",
+        "First Nations artists have reported their works being sold on the e‑commerce platform Temu without permission.",
+        "The proposed changes would allow AI models to scrape Australian music, books, journalism and other cultural works without paying royalties."
+      ],
+      "conclusion": "Granting the loopholes could weaken domestic copyright safeguards and create a global precedent, jeopardizing creators’ earnings and control over Australian cultural assets."
+    },
+    {
+      "title": "Technology Promised Ease. Outages Are Making Many Americans Uneasy.",
+      "url": "https://www.nytimes.com/2026/11/19/us/tech-outages-computer-networks.html",
+      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20nat-tech-backlash-2to-zbpj/20nat-tech-backlash-2to-zbpj-mediumSquareAt3X.jpg",
       "source": "New York Times",
       "language": "en",
-      "que_paso": "Democrat Ericka Lomick secured a Texas House seat despite having suspended her campaign, and Republicans have filed a challenge to the Texas Supreme Court seeking to bar her from office. The dispute arises from the post‑election period, where the GOP argues that a suspended campaign disqualifies her under state law.",
+      "que_paso": "A series of recent technology outages across the United States has highlighted the country's reliance on global computer networks. These interruptions have affected services from cloud platforms to consumer internet access, prompting concerns about systemic vulnerability.",
       "datos": [
-        "Ericka Lomick is the Democratic candidate who won the Texas House district.",
-        "She suspended her campaign prior to the election.",
-        "Republican officials have filed a petition with the Texas Supreme Court.",
-        "The petition requests that Lomick be declared ineligible to serve."
+        "The article describes a \"spate of tech disruptions\" as recent",
+        "The disruptions are occurring in the United States",
+        "They involve worldwide computer networks",
+        "The article was published on November 20, 2026"
       ],
-      "conclusion": "If the court rules against her, the seat could remain vacant or trigger a special election, affecting legislative balance and underscoring the legal risks of campaign suspensions."
+      "conclusion": "The episode shows the operational risk of heavy dependence on interconnected digital infrastructure, indicating that managers should strengthen redundancy and contingency plans."
     },
     {
-      "title": "Trump Grows Frustrated With Vance Over Iran War Critique",
-      "url": "https://www.nytimes.com/2026/11/18/us/politics/vance-trump-iran-2028-election-rubio.html",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dc-vance-ltzv/18dc-vance-ltzv-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Donald Trump voiced irritation toward Vice President Mike Vance after Vance publicly criticized the administration’s approach to the Iran war, and Vance is weighing a possible 2028 presidential bid. The tension arises as Vance evaluates his political future.",
-      "datos": [
-        "Donald Trump expressed frustration with Vice President Mike Vance",
-        "Mike Vance publicly critiqued the Iran war policy",
-        "Mike Vance is considering a run for president in 2028",
-        "The tension is described as occurring at a critical juncture for Vance",
-        "Article published on November 19, 2026"
-      ],
-      "conclusion": "The dispute highlights internal GOP friction that could affect the 2028 election dynamics and U.S. policy toward Iran."
-    },
-    {
-      "title": "Widespread Tech Outages Put Focus on Trump’s National Security Cuts",
-      "url": "https://www.nytimes.com/2026/11/18/us/politics/tech-outages-trump-national-security.html",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dc-outage-response-mqzt/18dc-outage-response-mqzt-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Widespread technology outages have highlighted staffing reductions at two key U.S. security bodies. Lawmakers and cyber‑defense experts say cuts made under the Trump administration left the Cybersecurity and Infrastructure Security Agency and the National Security Council understaffed, hampering the administration’s response.",
-      "datos": [
-        "Lawmakers publicly commented on the issue",
-        "Cyberdefense experts echoed the staffing concerns",
-        "The Cybersecurity and Infrastructure Security Agency (CISA) has reduced staff levels",
-        "The National Security Council (NSC) has reduced staff levels",
-        "The issue is linked to cuts enacted during the Trump administration"
-      ],
-      "conclusion": "The understaffing may delay effective response to future outages, underscoring the practical need to restore resources to critical cyber‑defense agencies."
-    },
-    {
-      "title": "Musk admite sentirse \"bastante tonto\" por gastar más de 400 millones en las 'midterms' tras la derrota republicana",
-      "url": "https://www.europapress.es/internacional/noticia-musk-admite-sentirse-bastante-tonto-gastar-mas-400-millones-midterms-derrota-republicana-20261119020836.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261119020836_1200.jpg",
-      "source": "Europa Press Tecnología",
-      "language": "es",
-      "que_paso": "El magnate sudafricano Elon Musk reconoció que su inversión de cientos de millones de dólares para impulsar a candidatos republicanos no logró el objetivo deseado. Tras los comicios de medio mandato, que se cerraron a principios de noviembre, el Partido Demócrata obtuvo la mayoría en ambas cámaras del Congreso.",
-      "datos": [
-        "Elon Musk donó más de 445 millones de dólares a la campaña republicana",
-        "La cifra equivale a poco más de 400 millones de euros",
-        "Las elecciones legislativas de medio mandato se celebraron a principios de noviembre de 2026",
-        "El Partido Demócrata ganó la mayoría en la Cámara de Representantes y en el Senado",
-        "Musk describió su sensación como estar “bastante tonto”"
-      ],
-      "conclusion": "El episodio ilustra que incluso sumas extraordinarias de financiación privada no garantizan resultados electorales, lo que sugiere que Musk y otros patrocinadores podrían replantearse la estrategia de influencia política."
-    },
-    {
-      "title": "Anthropic Sells $81.3 Billion in Shares for a Record IPO",
-      "url": "https://www.nytimes.com/2026/11/18/technology/anthropic-ipo-pricing.html",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-anthropic-final-pricing-hfo-1-jbmp/18biz-anthropic-final-pricing-hfo-1-jbmp-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Anthropic raised $81.3 billion by selling shares in a public offering, pushing its market value above $1.5 trillion. The company, known for its Claude chatbot, entered the public markets with a record‑size IPO, and the stock is set to start trading on Thursday.",
-      "datos": [
-        "$81.3 billion raised from the share sale",
-        "Valuation exceeds $1.5 trillion",
-        "Anthropic is the developer of the Claude chatbot",
-        "Shares begin trading on Thursday",
-        "The offering is described as a record IPO for an AI firm"
-      ],
-      "conclusion": "The scale of the IPO signals strong investor confidence in AI platforms and sets a new benchmark for future AI company listings, suggesting heightened capital flow into the sector."
-    },
-    {
-      "title": "Anthropic desbanca a SpaceX como la mayor salida a Bolsa de la historia y fija su valoración en 1,5 billones de dólares",
-      "url": "https://elpais.com/economia/2026-11-18/anthropic-desbanca-a-spacex-y-protagoniza-la-mayor-salida-a-bolsa-de-la-historia.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/6TCGBSQGXFKGLNZGXMR5ZSKEUI.jpg?auth=5d22c4d819abc6b9379e2fb8391a20ba70053a874318f224c4d2aebff82af1a6&width=1200",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Anthropic realizó su salida a bolsa en Nasdaq, fijando el precio de sus acciones por encima del rango previsto y ampliando la oferta, lo que la convirtió en la mayor colocación bursátil de la historia, superando a SpaceX. La operación se produjo el 19 de noviembre de 2026 y marcó un punto de referencia para la confianza del mercado en la inteligencia artificial.",
-      "datos": [
-        "Precio por acción fijado en 83 dólares, por encima del máximo de 78 dólares del folleto",
-        "Oferta ampliada un 19% hasta 980 millones de títulos",
-        "Colocación total supera los 107.000 millones de dólares, incluyendo una venta privada de 26.000 millones",
-        "Orden de compra de inversores casi siete veces la cantidad ofrecida",
-        "Ingresos de Anthropic pasaron de 41 millones de dólares en 2023 a 386 millones en 2024, 4.600 millones en 2025 y 16.300 millones en la primera mitad de 2026",
-        "Primer beneficio operativo en el segundo trimestre: 974 millones de dólares"
-      ],
-      "conclusion": "El éxito de la OPV demuestra una fuerte confianza del mercado en las soluciones de IA empresarial de Anthropic, proporcionando capital para acelerar su crecimiento y posicionándola como competidora clave frente a gigantes como OpenAI y SpaceX."
-    },
-    {
-      "title": "The Best Early Black Friday Deals On Laptops I've Tested Myself (2026)",
-      "url": "https://www.wired.com/story/best-early-black-friday-laptop-deals-11-18-26/",
-      "image": "https://media.wired.com/photos/6afddd76bde75796e1384cb4/191:100/w_1280,c_limit/The-Best-Early-Black-Friday-Laptop-Deals.jpg",
-      "source": "Wired",
-      "language": "en",
-      "que_paso": "The author is tracking early Black Friday laptop discounts and has identified several models with price reductions before the official sales weekend. Apple’s MacBook Neo, Lenovo’s IdeaPad Slim 5x, Microsoft’s Surface Laptop (2024), and HP’s OmniBook 5 are highlighted, each with specific price cuts and spec trade‑offs.",
-      "datos": [
-        "MacBook Neo’s price fell by $50 to $649 after being on the market for seven months.",
-        "IdeaPad Slim 5x is a 15‑inch laptop equipped with 16 GB RAM, 512 GB SSD, and a high‑resolution OLED display.",
-        "The 2024 Surface Laptop is currently priced at $900 and is only available in a blue color option.",
-        "HP OmniBook 5 is listed at $750, which is $100 less than its price in the previous few weeks.",
-        "HP OmniBook 5 uses a Snapdragon X chip and includes 16 GB RAM and an OLED screen."
-      ],
-      "conclusion": "These early discounts let technology buyers secure premium‑spec laptops at sub‑$1,000 prices before Black Friday, improving budget flexibility for operations and AI projects."
-    },
-    {
-      "title": "What to Do Before the Next Big Tech Outage?",
-      "url": "https://www.nytimes.com/2026/11/18/technology/tech-outages-emergency-prep.html",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18xp-prep-outage-hvjq/18xp-prep-outage-hvjq-mediumSquareAt3X.jpg",
+      "title": "Google Disrupts Its Search Advertising With Its Embrace of A.I.",
+      "url": "https://www.nytimes.com/2026/11/19/technology/google-search-ads-ai.html",
+      "image": "https://static01.nyt.com/images/2026/11/17/business/00biz-google/00biz-google-mediumSquareAt3X.jpg",
       "source": "NYT Tech",
       "language": "en",
-      "que_paso": "The article reports that a series of recent technology failures have unsettled the U.S. public, leading many to seek strategies for coping with extended digital outages, and experts are urging a storm‑preparation mindset.",
+      "que_paso": "Google is seeing a deceleration in the growth of its search advertising revenue as the company expands its use of artificial intelligence in its ad products. The slowdown reflects broader shifts in digital marketing where AI-driven formats are gaining traction, challenging the traditional search ad model.",
       "datos": [
-        "A cascade of recent tech failures is cited as the trigger.",
-        "Americans are described as being rattled by these incidents.",
-        "The piece advises preparation for a prolonged digital disruption.",
-        "Experts compare outage preparedness to storm preparation."
+        "Google, a Silicon Valley‑based company, has historically relied on search advertising as its primary revenue source.",
+        "Recent data indicate that growth in Google’s search ad revenue is slowing.",
+        "Artificial intelligence technologies are being integrated into Google’s advertising offerings.",
+        "The shift occurs amid a market-wide increase in AI adoption for marketing and ad targeting."
       ],
-      "conclusion": "Treating digital outages like weather events highlights the need for concrete contingency plans, such as backup communications and offline processes, to maintain operations during extended service loss."
+      "conclusion": "The slowdown suggests that dependence on traditional search ads may become riskier, urging marketers to diversify into AI‑enabled channels and prompting Google to adjust its ad strategy."
     },
     {
-      "title": "How Trump Can Avoid a Global Nuclear Arms Race",
-      "url": "https://www.nytimes.com/2026/11/18/opinion/trump-xi-putin-china-nuclear.html",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18hennigan-mpcf/18hennigan-mpcf-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Former U.S. President Donald Trump is being positioned, during a visit to China, as having the most favorable opportunity in over ten years to influence global nuclear policy. The article suggests he could help prevent an unchecked three‑way nuclear arms race among the United States, Russia and China.",
-      "datos": [
-        "Donald Trump, former President of the United States",
-        "The setting mentioned is China",
-        "The article references a three‑way nuclear arms race involving the United States, Russia, and China",
-        "It claims this is the best chance in more than a decade for Trump to intervene"
-      ],
-      "conclusion": "If Trump can shape negotiations, it could halt escalation among the three nuclear powers, reducing strategic instability and the risk of proliferation."
-    },
-    {
-      "title": "A.I. Makes More Tech Outages Likely, Microsoft’s Chief Warns",
-      "url": "https://www.nytimes.com/2026/11/18/business/dealbook/microsoft-satya-nadella-outages-ai.html",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-summit-nadella-lllw/18dealbook-summit-nadella-lllw-mediumSquareAt3X.jpg",
-      "source": "NYT Tech",
-      "language": "en",
-      "que_paso": "Microsoft CEO Satya Nadella warned that the accelerating pace at which AI tools discover cybersecurity vulnerabilities is forcing companies to develop and roll out patches instantly, which could raise the frequency of technology outages. He highlighted this risk while discussing the broader impact of AI on operational stability.",
-      "datos": [
-        "Satya Nadella, Microsoft CEO, made the statement.",
-        "He said AI tools are finding cybersecurity bugs at a breakneck pace.",
-        "He warned companies must create fixes and deploy them instantaneously.",
-        "He cautioned that this rapid cycle could increase the likelihood of technology outages."
-      ],
-      "conclusion": "Operations teams must prepare for faster remediation cycles and incorporate outage mitigation strategies as AI-driven bug discovery becomes routine."
-    },
-    {
-      "title": "How We Broke Open the Nvidia Investigation",
-      "url": "https://www.nytimes.com/2026/11/18/insider/nvidia-jensen-huang-spying-plot.html",
-      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/insider-nvidia/08nvidia-what-we-know-gbfm-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "The New York Times conducted a worldwide investigative project that uncovered new information about Nvidia, using unexpected photographs and detailed shipment logs, and was propelled by significant tips from confidential sources. The effort combined multiple reporting teams across several countries to piece together the evidence.",
-      "datos": [
-        "The investigation was led by The New York Times.",
-        "It was described as a global reporting effort.",
-        "Reporters examined surprising photographs as part of the evidence.",
-        "Shipment records were analyzed to trace Nvidia's activities.",
-        "A major break came from astonishing tips provided by unnamed sources."
-      ],
-      "conclusion": "The breakthrough demonstrates that even major tech firms like Nvidia can face intensive investigative scrutiny, indicating possible regulatory or market consequences that operations leaders should watch."
-    },
-    {
-      "title": "Video from MTA Bus Captures Moments Before Fatal Brooklyn Building Collapse",
-      "url": "https://www.nytimes.com/2026/11/18/nyregion/brooklyn-building-collapse-video.html",
-      "image": "",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "A residential building in Brooklyn collapsed, killing eight people. The incident was recorded by a camera on an MTA bus that was passing the site moments before the structure fell. The city later announced that a neighboring building must be demolished because of safety concerns.",
-      "datos": [
-        "Eight people were killed in the collapse.",
-        "The collapse occurred last week.",
-        "The footage was captured by a camera on an MTA bus.",
-        "On Wednesday, city officials said an adjacent building would need to be demolished.",
-        "The incident took place in Brooklyn, New York."
-      ],
-      "conclusion": "The event underscores the importance of rigorous building inspections and rapid response planning for urban infrastructure failures, highlighting operational risks for city services."
-    },
-    {
-      "title": "Trump Weighs New Strikes on Iran as Israel Presses for Action, Officials Say",
-      "url": "https://www.nytimes.com/2026/11/18/us/politics/trump-israel-iran-war.html",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dc-trump-iran-bqfp/18dc-trump-iran-bqfp-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "The Trump administration is reportedly evaluating new military strikes against Iran after Israeli officials urged a response, while internal officials remain split over how to address Iran's renewed missile development and its expanding biological and chemical weapons programs. The debate reflects broader tensions within the U.S. government about the appropriate level of force and diplomatic engagement with Tehran.",
-      "datos": [
-        "Iran is rebuilding its missile stockpile",
-        "Iran is advancing its biological weapons program",
-        "Iran is advancing its chemical weapons program",
-        "The issue has divided the Trump administration",
-        "Israel is pressing the United States for action"
-      ],
-      "conclusion": "A U.S. strike could trigger regional escalation and force the administration to balance security objectives with diplomatic fallout, highlighting the need for clear operational criteria."
-    },
-    {
-      "title": "Hegseth alardea de la captura de Maduro en la primera visita a Venezuela de un secretario de Defensa de EE.UU. en décadas",
-      "url": "https://www.bbc.com/mundo/articles/cw30gd28rjn9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/news/1200/branded_mundo/5cd3/live/82be9ae0-e3a3-11f1-a7fa-331bad3d0984.jpg",
-      "source": "BBC Mundo",
-      "language": "es",
-      "que_paso": "El secretario de Defensa de EE.UU., Pete Hegseth, realizó una visita oficial a Caracas, donde se reunió con la presidenta interina Delcy Rodríguez y anunció la captura del presidente venezolano Nicolás Maduro. Durante la visita firmó un acuerdo de cooperación militar entre el Pentágono y las Fuerzas Armadas de Venezuela, enmarcado en una gira por América Latina que busca restablecer lazos bilaterales.",
-      "datos": [
-        "La captura de Nicolás Maduro fue anunciada como ejecutada el 3 de enero de 2026.",
-        "Pete Hegseth describió la operación como \"la operación militar más sofisticada en la historia de América Latina\".",
-        "El acuerdo de cooperación militar fue firmado entre Pete Hegseth y la presidenta interina Delcy Rodríguez en el Palacio de Miraflores.",
-        "Hegseth atribuyó la posibilidad de la captura al presidente Donald Trump y mencionó que resolvía un problema de 27 años en el hemisferio.",
-        "El discurso de Hegseth se dio en la sede de la Embajada de EE.UU. en Caracas y señaló que el pacto respetará la independencia y soberanía nacional de Venezuela."
-      ],
-      "conclusion": "El anuncio muestra un giro estratégico en la política de defensa de EE.UU. hacia Venezuela, lo que podría abrir oportunidades de colaboración militar y económica para ambas naciones."
-    },
-    {
-      "title": "What Nvidia’s Interim CEO, Colette Kress, Said to Employees After Jensen Huang’s Resignation",
-      "url": "https://www.nytimes.com/2026/11/18/technology/nvidia-jensen-huang-affair-colette-kress.html",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-nvidia-call-cwjh/18biz-nvidia-call-cwjh-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Colette Kress, acting as Nvidia's interim CEO, addressed the staff in an all‑hands meeting, emphasizing that the company should move beyond the recent misconduct allegations surrounding co‑founder Jensen Huang, who has stepped down.",
-      "datos": [
-        "Jensen Huang, co‑founder of Nvidia, resigned from his executive role.",
-        "Colette Kress was appointed interim CEO of Nvidia.",
-        "Kress delivered an all‑hands meeting to Nvidia employees.",
-        "The purpose of the meeting was to put Huang's indiscretions behind the company.",
-        "The discussion was framed as a step toward organizational stability."
-      ],
-      "conclusion": "The leadership transition aims to reassure staff and investors, indicating Nvidia's intent to maintain operational focus despite the founder's departure."
-    },
-    {
-      "title": "Elon Musk Short Circuits After Grimes Calls Out His Obsession With AI Waifus",
-      "url": "https://futurism.com/future-society/elon-musk-short-circuits-grimes-ai-waifu",
-      "image": "https://futurism.com/wp-content/uploads/2026/11/elon-musk-grimes-obsession-ai-waifus.jpg?w=1200",
-      "source": "Futurism",
-      "language": "en",
-      "que_paso": "Elon Musk and his former partner Claire \"Grimes\" Boucher publicly clashed on X over Musk's promotion of an AI‑generated influencer called Claudia. Musk posted an endorsement and linked to a music video titled “WHITEPILL,” while Grimes responded with a lengthy rant criticizing the fixation on AI‑generated women. The exchange highlights their ongoing personal and ideological dispute about AI’s role in culture.",
-      "datos": [
-        "Elon Musk and Claire \"Grimes\" Boucher share three children together",
-        "The AI‑generated influencer at the center of the feud is named Claudia",
-        "Musk posted his endorsement on the social platform X and linked to the song “WHITEPILL”",
-        "Grimes described the fixation as \"cope\" and called Claudia an \"alien creature\" in a typo‑laden rant",
-        "Musk replied that he does not want to be \"king\" and referenced his Starship program as having the \"Mandate of Heaven\"",
-        "Both Musk and Grimes have publicly claimed to experience AI‑related psychosis over the past year"
-      ],
-      "conclusion": "The spat underscores how high‑profile figures can amplify controversial AI applications, prompting scrutiny of ethical standards and the influence such narratives have on public perception of emerging technologies."
-    },
-    {
-      "title": "Levi’s, Calvin Klein y Adidas: 25 ofertas de moda que merece la pena comprar este Black Friday",
-      "url": "https://elpais.com/escaparate/ofertas-y-descuentos/mejores-ofertas-semana-black-friday-2026-moda.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/2W24LIWCWFCI7ITBTSYQVTN52M.png?auth=53bf88b99f0502afdbe634fb0b87649601f354968caeefa0d09fda89e826e0ca&width=1200",
+      "title": "Cómo el candidato del PP ha intentado acercarse a Vox sin asustar al votante de izquierda",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-20/como-el-candidato-del-pp-ha-intentado-acercarse-a-vox-sin-asustar-al-votante-de-izquierda.html",
+      "image": "https://vdmedia.elpais.com/elpaistop/202611/20/1795138600_still.jpg",
       "source": "El País",
       "language": "es",
-      "que_paso": "Amazon ha lanzado una campaña de Black Friday con 25 ofertas de moda que incluyen marcas como Levi’s, Calvin Klein, Adidas y otras, ofreciendo descuentos significativos y precios históricos en prendas seleccionadas. La selección, preparada por EL PAÍS Escaparate, cubre desde vaqueros y sudaderas hasta ropa interior, con precios que llegan a ser los más bajos registrados.",
+      "que_paso": "Alberto Núñez Feijóo, candidato del Partido Popular, está presionando a Pedro Sánchez para que modere su discurso agresivo, con el objetivo de evitar los errores de la campaña de hace tres años y captar a los votantes indecisos.",
       "datos": [
-        "Descuentos de hasta el 66 % en las marcas Levi’s, Calvin Klein, Adidas y otras",
-        "Se presentan 25 ofertas de moda seleccionadas por EL PAÍS Escaparate",
-        "Algunas prendas alcanzan su precio mínimo histórico, como un modelo de vaqueros Levi’s",
-        "Hay opciones por menos de 25 € para mujer y hombre",
-        "Las rebajas están disponibles en la plataforma Amazon durante el Black Friday 2026",
-        "El Black Friday de 2026 se celebra el 29 de noviembre"
+        "Alberto Núñez Feijóo es candidato del PP a la presidencia en las elecciones generales de 2026.",
+        "Pedro Sánchez es presidente del Gobierno y líder del PSOE en 2026.",
+        "Feijóo ha intentado acercarse a Vox sin alejar a electores de izquierda.",
+        "La estrategia busca ganar a los votantes indecisos que en 2023 se mostraron críticos con la agresividad del PP.",
+        "Las declaraciones sobre esta táctica se hicieron públicas en noviembre de 2026."
       ],
-      "conclusion": "Aprovechar estas rebajas permite renovar el guardarropa con marcas premium a un coste reducido, lo que puede traducirse en ahorros operativos y una mejor relación calidad‑precio para la empresa."
-    },
-    {
-      "title": "Los 20 chollos tecnológicos que comprar esta semana de Black Friday en Amazon",
-      "url": "https://elpais.com/escaparate/ofertas-y-descuentos/mejores-ofertas-semana-black-friday-2026-tecnologia.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/F2ZZYBX3TRCJXNZB2UXDX7L6ZA.png?auth=e6a889f8b3d7a2f4a56fe59e51f4a517f584d4cb8266e6b2ed5d220b4b653b48&width=1200",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Amazon ha adelantado su campaña de Black Friday, iniciando una semana de ofertas especiales en productos tecnológicos. La compañía presenta una lista de dispositivos con precios rebajados, dirigida a consumidores que buscan renovar smartphones, relojes o accesorios antes de la temporada de compras.",
-      "datos": [
-        "Algunas baterías ofrecen hasta 50 horas de autonomía con su estuche de carga.",
-        "Una pantalla alcanza un brillo máximo de 3.500 nits.",
-        "El Huawei Band 11 dispone de una pantalla AMOLED de 1,62 pulgadas y hasta 100 modos de entrenamiento.",
-        "El ordenador incluye un procesador Intel Core i5‑315 de 6 núcleos, pantalla de 15 pulgadas y altavoces estéreo de 2 W, sin sistema operativo.",
-        "Una tablet de 9,7 pulgadas incorpora una batería de 7.600 mAh y un procesador Snapdragon 6s Gen 2 de hasta 2,9 GHz."
-      ],
-      "conclusion": "Aprovechar estas rebajas permite equipar la oficina o el hogar con hardware de alto rendimiento a menor coste, lo que puede mejorar la productividad y reducir gastos operativos."
-    },
-    {
-      "title": "Ya es Black Friday en Amazon: estas son las mejores ofertas en Kindle, teléfonos, tablets, ordenadores y más",
-      "url": "https://www.xataka.com/seleccion/black-friday-amazon-estas-mejores-ofertas-kindle-telefonos-tablets-ordenadores",
-      "image": "https://i.blogs.es/be3fc5/black-friday-amazon-2026/840_560.jpeg",
-      "source": "Xataka",
-      "language": "es",
-      "que_paso": "Amazon dio inicio oficial a su campaña de Black Friday 2026 el jueves 19 de noviembre, adelantándose a la fecha oficial del viernes 27 de noviembre. La oferta, que permanecerá activa hasta el lunes 30, incluye descuentos en una amplia gama de dispositivos tecnológicos en medio de la escalada de precios provocada por la escasez de memorias RAM y el auge de la IA.",
-      "datos": [
-        "El Black Friday 2026 se celebrará oficialmente el 27 de noviembre de 2026, tras el Día de Acción de Gracias en EE. UU.",
-        "Amazon lanzó su periodo de ofertas el 19 de noviembre de 2026 y se extenderá hasta el 30 de noviembre de 2026.",
-        "La freidora de aire Ninja Crispi Pro XL se oferta a 189,05 €, con capacidades de 2,3 L y 5,7 L y potencia máxima de 2.050 W.",
-        "El Google Pixel 11 queda a 699 € con 256 GB, pantalla OLED de 6,3 pulgadas, 120 Hz y procesador Tensor G6.",
-        "El portátil Lenovo Legion se vende por 2.279 € y lleva 32 GB de RAM DDR5, GPU NVIDIA RTX 5070 y CPU AMD Ryzen 9 8945HX.",
-        "El Fire TV Stick 4K Select está rebajado a 27,99 € desde 69,99 €, ofreciendo la mejor relación calidad‑precio del catálogo."
-      ],
-      "conclusion": "Aprovechar estas rebajas tempranas permite adquirir hardware esencial antes de que los precios vuelvan a subir, lo que ayuda a optimizar la inversión en tecnología para operaciones y proyectos de IA."
-    },
-    {
-      "title": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
-      "url": "https://www.wired.com/story/guys-really-we-got-this/",
-      "image": "https://media.wired.com/photos/6afe216b809613f3f77a2770/191:100/w_1280,c_limit/Does-NVIDIA-Got-This-Business.jpg",
-      "source": "Wired",
-      "language": "en",
-      "que_paso": "Jensen Huang was forced out of Nvidia amid an international scandal, leaving the company vulnerable in the AI market. Colette Kress, the CFO, was named interim CEO and immediately began addressing staff and investors. She has been using a repetitive \"We've got this\" mantra to project stability.",
-      "datos": [
-        "Jensen Huang resigned as Nvidia's CEO due to an international scandal",
-        "Colette Kress, previously CFO, was appointed interim CEO and led the third‑quarter earnings call and an all‑hands meeting",
-        "Kress publicly used the phrase \"We’ve got this\" three times within a 24‑hour period",
-        "Board chair Harvey Jones said the board does not intend to reinstate Huang",
-        "Aaron Erickson, Nvidia's head of NemoClaw engineering, posted \"Damn right we got this\" on X, which was shared by portfolio manager Vega Shah",
-        "Kress likened Nvidia's workforce to \"90,000 people\" at a University of Florida football game"
-      ],
-      "conclusion": "The leadership shuffle and Kress's reassurance campaign aim to steady investor confidence, but the abrupt CEO change and ongoing scandal keep Nvidia's operational outlook uncertain."
-    },
-    {
-      "title": "Trump ‘Disappeared’ Them in 2025. I Found Them, Locked Up and Famished.",
-      "url": "https://www.nytimes.com/2026/11/18/opinion/trump-deportation-south-sudan.html",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/18kristof-zvlc/18kristof-zvlc-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "In 2025 a covert relocation effort moved a group of immigrants to several low‑income African nations, where they were later found confined in facilities with inadequate food. The operation was directed by former President Donald Trump and was uncovered by an investigator who reported the conditions.",
-      "datos": [
-        "The relocation took place in 2025.",
-        "It was ordered by former U.S. President Donald Trump.",
-        "The immigrants were taken to at least three African countries classified as low‑income, including Malawi, Niger, and the Democratic Republic of Congo.",
-        "They were discovered locked up in detention sites lacking sufficient food supplies.",
-        "The article includes the statement: \"Foisting immigrants on impoverished African countries where they are not treated humanely seems to me a moral and practical failure.\"",
-        "The report was published under the headline \"Trump ‘Disappeared’ Them in 2025. I Found Them, Locked Up and Famished.\""
-      ],
-      "conclusion": "The episode exposes severe human‑rights and operational failures in immigration policy, warning that covert deportations can create humanitarian crises and damage credibility."
-    },
-    {
-      "title": "Trapped Under Ice Announce 20th Anniversary Show In Their Hometown",
-      "url": "https://www.theprp.com/2026/11/18/news/trapped-under-ice-announce-20th-anniversary-show-in-their-hometown/",
-      "image": "https://www.theprp.com/app/uploads/2026/09/trappedundericelarge-1200x675.webp",
-      "source": "The PRP",
-      "language": "en",
-      "que_paso": "Trapped Under Ice is staging two back‑to‑back anniversary concerts: a 20th‑anniversary show in Baltimore on February 7 and a performance the previous night in New York City to mark Flatspot Records’ 20th anniversary, with tickets for the Baltimore show going on sale the following Friday.",
-      "datos": [
-        "Baltimore show scheduled for February 7, 2027 at the Baltimore Soundstage",
-        "Opening acts for Baltimore: Terror, Trash Talk, Stout, Bad Wave",
-        "Tickets for the Baltimore concert become available on November 20, 2026 at 10:00 a.m.",
-        "New York City show set for February 6, 2027 at Webster Hall",
-        "Opening acts for New York: Breakdown, End It, Raw Brigade, Iron Mind, Frothing Mad",
-        "The New York concert celebrates Flatspot Records’ 20th anniversary"
-      ],
-      "conclusion": "The dual events highlight both the band’s two‑decade legacy and the label’s milestone, offering fans a rare chance to experience both celebrations in major East Coast venues."
-    },
-    {
-      "title": "Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick",
-      "url": "https://arstechnica.com/health/2026/11/trump-abandons-his-fda-nominee-and-senate-scraps-vote-on-his-nsf-pick/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296270903-1024x648.jpg",
-      "source": "Ars Technica",
-      "language": "en",
-      "que_paso": "Within less than 24 hours, the Trump administration pulled its nomination of Heidi Overton for FDA commissioner and the Senate HELP Committee cancelled its scheduled vote on Jim O’Neill for the National Science Foundation, leaving both positions without confirmed leaders.",
-      "datos": [
-        "The White House withdrew Overton’s nomination on Tuesday evening, citing lack of Hill support.",
-        "Heidi Overton is a senior conservative domestic‑policy aide in the White House who has faced criticism over vaccines, abortion pills, vapes and birth‑control policies.",
-        "Senate HELP Committee chair Bill Cassidy (R‑LA) announced the abandonment after anti‑abortion senators demanded commitments he said were unattainable.",
-        "The HELP Committee’s agenda was updated on Wednesday to scrap a vote on Jim O’Neill, Trump’s NSF nominee.",
-        "Jim O’Neill previously served as deputy secretary of the Department of Health and Human Services and acting director of the CDC after Susan Monarez was removed less than a month after her Senate confirmation.",
-        "O’Neill is a former Silicon Valley investor and close ally of Peter Thiel."
-      ],
-      "conclusion": "The withdrawals stall the confirmation of key science and health officials, likely extending acting leadership periods and complicating policy execution for the FDA and NSF."
-    },
-    {
-      "title": "Battlesnake’s New Single “Mud Wife” Arrives",
-      "url": "https://www.theprp.com/2026/11/18/news/battlesnakes-new-single-mud-wife-arrives/",
-      "image": "https://www.theprp.com/app/uploads/2026/10/battlesnakelarge2026-1200x675.webp",
-      "source": "The PRP",
-      "language": "en",
-      "que_paso": "Australian progressive/psych metal band Battlesnake released their new single “Mud Wife” online, adding to the storyline for their forthcoming album. The track follows a slideshow the group posted that expands the album’s concept, and it precedes the album’s scheduled launch.",
-      "datos": [
-        "Band: Battlesnake, an Australian progressive/psych metal outfit.",
-        "Single title: “Mud Wife”.",
-        "The single was released via an online debut on November 19, 2026.",
-        "Album title: “Bogpocalypse And The Annihilation Of Lucifer”.",
-        "Album release date: February 19, 2027."
-      ],
-      "conclusion": "The release builds hype for the February album and demonstrates the band’s use of multimedia storytelling to engage fans, a tactic worth noting for content-driven marketing."
-    },
-    {
-      "title": "Florida’s El Niño Rains Bring Hail and High Water",
-      "url": "https://www.nytimes.com/2026/11/18/weather/florida-flooding-rain.html",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18nat-florida-weatherscene-mtpv/18nat-florida-weatherscene-mtpv-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Florida is experiencing torrential rain as officials attribute the extreme precipitation to unusually strong El Niño conditions, a climate pattern that typically brings wetter weather to the southern United States.",
-      "datos": [
-        "Officials have linked the current heavy rain to particularly strong El Niño conditions.",
-        "El Niño is described as a climate pattern that delivers wetter weather to parts of the southern United States.",
-        "The state affected by the rain is Florida, located in the southern United States.",
-        "The weather event is characterized as torrential rain."
-      ],
-      "conclusion": "The link to a strong El Niño signals heightened flood risk and underscores the need for operational readiness and resource allocation to mitigate water‑related disruptions."
-    },
-    {
-      "title": "Concealer. Debut “Disguised In Pins” Music Video And A Stream Of “Pleading”",
-      "url": "https://www.theprp.com/2026/11/18/news/concealer-debut-disguised-in-pins-music-video-and-a-stream-of-pleading/",
-      "image": "https://www.theprp.com/app/uploads/2026/11/concealerlarge-1200x675.webp",
-      "source": "The PRP",
-      "language": "en",
-      "que_paso": "Florida-based metalcore band concealer. released two new singles, “Disguised In Pins” and “Pleading,” and launched a music video for the former directed by Alex Scalzo‑Brown. The group also announced a deal with Pure Noise Records and a December 18 re‑release of their album “This Room Could Be Heaven.”",
-      "datos": [
-        "Band name: concealer.",
-        "Singles released: “Disguised In Pins” and “Pleading.”",
-        "Music video for “Disguised In Pins” directed by Alex Scalzo‑Brown.",
-        "Signed to Pure Noise Records (announced recently).",
-        "Album “This Room Could Be Heaven” scheduled for re‑release on December 18, 2026.",
-        "Vocalist Tristan Hills gave a statement about the song’s themes."
-      ],
-      "conclusion": "The new singles, video, and label partnership position concealer. for broader exposure ahead of the album re‑issue, signaling a focused promotional effort in the metalcore scene."
-    },
-    {
-      "title": "Anthropic’s Public Debut Sets Up ‘Experiment’ in Corporate Power",
-      "url": "https://www.nytimes.com/2026/11/18/business/anthropic-ipo-corporate-governance.html",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-anthropic-governance-bvmc/18biz-anthropic-governance-bvmc-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Anthropic is preparing to list its shares on a stock exchange, adopting the public benefit corporation legal form. This designation obliges the company to pursue both safety objectives and profit goals, a dual mandate not common among AI firms. The move will make Anthropic the biggest publicly traded entity of this type.",
-      "datos": [
-        "Anthropic is the artificial‑intelligence company planning the public listing",
-        "It will become the largest publicly traded public benefit corporation",
-        "Public benefit corporation status legally requires balancing safety and profit",
-        "The company’s IPO will place it on a public market, shifting governance to shareholders"
-      ],
-      "conclusion": "The debut creates a high‑visibility test of whether safety‑first governance can coexist with shareholder returns, influencing how future AI firms structure their public offerings."
-    },
-    {
-      "title": "From First To Last Stream Acoustic Version Of “They Said Your Ghost Was A Promise”",
-      "url": "https://www.theprp.com/2026/11/18/news/from-first-to-last-stream-acoustic-version-of-they-said-your-ghost-was-a-promise/",
-      "image": "https://www.theprp.com/app/uploads/2026/07/fromfirsttolastlarge-1200x675.webp",
-      "source": "The PRP",
-      "language": "en",
-      "que_paso": "First to Last released an acoustic version of \"They Said Your Ghost Was A Promise\" to streaming platforms, featuring new vocalist Lil Lotus, as part of the promotion for their October EP \"We Were Bleeding Anyway\".",
-      "datos": [
-        "The acoustic track is now available on major streaming services",
-        "Lil Lotus joined First to Last as vocalist in 2024",
-        "The EP \"We Were Bleeding Anyway\" contains six songs and was released in October 2024",
-        "It is the band’s first new release since the 2015 album \"Dead Trees\"",
-        "The original song \"They Said Your Ghost Was A Promise\" opens the EP"
-      ],
-      "conclusion": "The release signals the band’s strategic comeback and expands their catalog with acoustic content, offering fresh material for fans and potential streaming revenue growth."
-    },
-    {
-      "title": "Irene Montero culpa a la inacción del Gobierno del alza de la derecha y que vea la Moncloa como \"guinda del pastel\"",
-      "url": "https://www.europapress.es/nacional/noticia-29n-irene-montero-culpa-inaccion-gobierno-alza-derecha-vea-moncloa-guinda-pastel-20261118221801.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261118221801_1200.jpg",
-      "source": "Europa Press Ciencia",
-      "language": "es",
-      "que_paso": "Irene Montero, candidata de Podemos para las elecciones generales del 29 de noviembre de 2026, criticó al Gobierno por no haber tomado medidas durante la legislatura para frenar el avance de la derecha y señaló que, según las encuestas, la posibilidad de que su partido llegue al poder ahora constituye la \"guinda del pastel\".",
-      "datos": [
-        "Irene Montero es la candidata de Podemos a las elecciones generales del 29 de noviembre de 2026.",
-        "Montero acusó al Gobierno de no haber hecho nada durante la legislatura para arrebatar poder a la derecha.",
-        "Cita textual: \"la posibilidad de ganar el Gobierno, como indican las encuestas, vaya ser la \\\"guinda del pastel\\\"\".",
-        "Las elecciones generales están previstas para el 29 de noviembre de 2026."
-      ],
-      "conclusion": "El discurso de Montero busca responsabilizar al Ejecutivo y presentar las encuestas favorables como una oportunidad decisiva, lo que puede influir en la percepción de los votantes y en la dinámica de la campaña."
-    },
-    {
-      "title": "That ‘SNL’ Sister Sketch: It’s More Like Nonfiction",
-      "url": "https://www.nytimes.com/2026/11/18/upshot/sister-snl-elder-care.html",
-      "image": "",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "The NBC comedy series Saturday Night Live aired a sketch that pointed out that, unlike many countries with government elder‑care programs, the United States relies on sisters to provide most of the care for aging parents, highlighting a gendered caregiving gap.",
-      "datos": [
-        "The sketch was broadcast on Saturday Night Live, a long‑running U.S. television program.",
-        "The sketch focused on gender roles in caring for aging parents.",
-        "The commentary noted that many nations have a federal safety net for older adults.",
-        "The sketch asserted that in the United States, sisters are the primary caregivers for elderly relatives."
-      ],
-      "conclusion": "The piece underscores a systemic reliance on informal, gender‑biased care in the U.S., suggesting a need for stronger public elder‑care policies."
-    },
-    {
-      "title": "Witch Club Satan Announce European/UK Tour With Otay:Onii & Ditte Krøyer",
-      "url": "https://www.theprp.com/2026/11/18/news/witch-club-satan-announce-european-uk-tour-with-otayonii-ditte-kroyer/",
-      "image": "https://www.theprp.com/app/uploads/2026/10/witchclubsatanlarge-1200x675.webp",
-      "source": "The PRP",
-      "language": "en",
-      "que_paso": "Norwegian black‑metal band Witch Club Satan announced their Hard Healing Tour for spring 2027, adding otay:onii and Ditte Krøyer as supporting acts. The itinerary spans dozens of venues across Europe and the UK after a lineup revision announced at the start of the new year.",
-      "datos": [
-        "Presale opened on 19 Nov 2026, with the general onsale set for 20 Nov 2026.",
-        "The tour opens on 7 Apr 2027 in Copenhagen at Vega and concludes on 8 May 2027 in Leiden, Netherlands (venue TBA).",
-        "A Budapest show on 18 Apr 2027 (Dürer Kert) will not feature otay:onii.",
-        "Support acts are otay:onii and Ditte Krøyer.",
-        "The schedule lists 30 dates in 12 countries, including Germany, France, Italy, Spain, the UK and the Netherlands.",
-        "The first UK date is a ritual show in London on 3 May 2027 (venue TBA)."
-      ],
-      "conclusion": "The extensive, multi‑country tour highlights strong market demand for niche metal acts and presents complex logistics and ticket‑sales opportunities for operators in the live‑music sector."
-    },
-    {
-      "title": "The Permitting Bill Is Splitting the Environmental Movement",
-      "url": "https://www.nytimes.com/2026/11/18/climate/permitting-bill-baaja-environmentalists-energy.html",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18cli-permitting-debate-stillpromo/18cli-permitting-debate-stillpromo-mediumSquareAt3X.jpg",
-      "source": "NYT Science",
-      "language": "en",
-      "que_paso": "A new permitting bill that would accelerate clean‑energy project approvals is dividing environmental groups, with supporters highlighting climate benefits while critics warn that additional provisions may overreach.",
-      "datos": [
-        "The bill aims to speed up permits for clean energy projects.",
-        "It is presented as a measure to help fight global warming.",
-        "Many environmentalists say its other provisions go too far.",
-        "The legislation is causing a split within the environmental movement."
-      ],
-      "conclusion": "If the bill passes, faster permitting could boost clean‑energy deployment, but the internal rift may weaken coordinated advocacy and affect implementation."
-    },
-    {
-      "title": "Jugar mejor o vender más, el nuevo debate del ajedrez de élite",
-      "url": "https://elpais.com/ajedrez/actualidad/2026-11-18/jugar-mejor-o-vender-mas-el-nuevo-debate-del-ajedrez-de-elite.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/WUPOA3N65BFKJILLDYUQ6NTFHI.jpg?auth=6d7c1d026d0bd96c4744ef212bdb90d2ce8dccca4fef6ae02dc5d64f573c8f9c&width=1200",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Norway Chess está probando en Budapest una reducción del control de tiempo de las partidas clásicas del circuito Total Chess, pasando de 60 minutos a 45 minutos por jugador, lo que ha generado un debate entre los grandes maestros sobre si priorizar la calidad del juego o los ingresos. La prueba forma parte del piloto del Total Chess antes de definir los parámetros para los cuatro torneos programados para 2027.",
-      "datos": [
-        "El piloto en Budapest está usando un control de 45 minutos más 30 segundos de incremento por jugada para partidas clásicas",
-        "El formato rápido del circuito asigna 30 minutos por jugador y el blitz 5 minutos",
-        "El premio total del torneo supera los 600.000 euros",
-        "Total Chess contempla cuatro torneos en el circuito a partir de 2027",
-        "Desde los años 70‑80 una partida clásica de élite duraba entre cuatro y cinco horas; hoy se juega en una hora y media más incrementos",
-        "Noruega Chess y la FIDE consideran la posibilidad de jugar dos partidas clásicas en el mismo día para atraer a espectadores e internautas"
-      ],
-      "conclusion": ""
-    },
-    {
-      "title": "Senator Bill Cassidy Blocks Trump Pick to Head Science Agency",
-      "url": "https://www.nytimes.com/2026/11/18/us/politics/bill-cassidy-jim-oneill-science.html",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dc-nsf-nominee-wqzh/18dc-nsf-nominee-wqzh-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Senator Bill Cassidy, a Republican from Louisiana, placed a hold on President Trump's nomination of venture capitalist Jim O’Neill, a known Peter Thiel associate, to lead the federal science agency, citing bipartisan worries about his willingness to defend scientific integrity.",
-      "datos": [
-        "Senator Bill Cassidy (R‑LA) used a Senate hold to block the nomination",
-        "Jim O’Neill, a venture capitalist and Peter Thiel acolyte, was nominated by President Trump to head the agency",
-        "Both Democratic and Republican senators expressed concern over O’Neill’s stance on science",
-        "Critics questioned whether O’Neill would stand up for scientific evidence in policy decisions"
-      ],
-      "conclusion": "The blockage underscores heightened scrutiny of political appointees to science leadership and could delay the agency’s agenda, signaling to operations leaders the importance of vetting scientific credibility in executive selections."
-    },
-    {
-      "title": "Windows Server 2028 trades compatibility for out-of-the-box security",
-      "url": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg",
-      "source": "Ars Technica",
-      "language": "en",
-      "que_paso": "Microsoft released a public preview of Windows Server 2028 at its Ignite event, introducing a hardened‑by‑default security model that applies only to Server Core installations. The preview swaps default authentication to Kerberos, enforces modern TLS ciphers, and activates a quantum‑safe key‑exchange, while also turning on a native NVMe storage stack that was previously optional. Microsoft warns that these defaults may break legacy workloads and asks administrators to test and report issues before the final release.",
-      "datos": [
-        "The new security baseline aligns with the Department of Defense’s DISA Security Technical Implementation Guide (STIG).",
-        "Kerberos is now the default authentication protocol, replacing NTLM, though NTLM blocking will be deferred to a later preview.",
-        "TLS connections are restricted to modern cipher suites and key exchange uses a hybrid post‑quantum ML‑KEM algorithm.",
-        "The native NVMe storage stack, first introduced in a Windows Server 2025 update, is enabled by default in the 2028 preview.",
-        "Secure Boot and DMA hardware‑backed protections will not be enforced until a subsequent preview build."
-      ],
-      "conclusion": "Admins must evaluate compatibility impacts before adopting the preview, but the default hardening raises the baseline security of new Server Core deployments, reducing exposure time after installation."
-    },
-    {
-      "title": "La paradoja del caso Julio Iglesias",
-      "url": "https://www.eldiario.es/escolar/paradoja-caso-julio-iglesias_132_13675387.html",
-      "image": "https://static.eldiario.es/clip/ccd40061-b693-43ea-94f1-ebe5a697fd66_facebook-aspect-ratio-1200-675_default_0_x783y18.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "que_paso": "La Audiencia Nacional ha iniciado una investigación penal contra el cantante Julio Iglesias tras denuncias de varias empleadas domésticas que alegan haber sufrido agresiones sexuales, lesiones y maltrato en sus residencias.",
-      "datos": [
-        "La causa ha sido presentada por la Audiencia Nacional de España",
-        "Los presuntos delitos son contra la libertad sexual, lesiones y maltrato",
-        "Las acusaciones provienen de ex‑trabajadoras de las mansiones de Julio Iglesias",
-        "El director de elDiario.es, Ignacio Escolar, ha publicado la noticia en su blog personal",
-        "El contacto para aportar pruebas es el correo pistas@eldiario.es"
-      ],
-      "conclusion": "El caso muestra los riesgos legales y de reputación que pueden afectar a figuras públicas y a sus entornos empresariales, subrayando la necesidad de protocolos de prevención y gestión de denuncias internas."
-    },
-    {
-      "title": "Israel lanza una operación terrestre en Gaza más allá de la Línea Amarilla acordada en el alto el fuego de 2025",
-      "url": "https://www.eldiario.es/internacional/israel-lanza-operacion-terrestre-gaza-linea-amarilla-acordada-alto-fuego-2025_1_13675414.html",
-      "image": "https://static.eldiario.es/clip/4bde049b-c2ad-485d-86b9-454c33ce8542_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "que_paso": "El ejército israelí inició una incursión terrestre en el centro de Gaza, al oeste de la Línea Amarilla, con el objetivo de desmantelar un túnel que consideraba una amenaza directa para sus tropas, y ordenó la evacuación de la población civil de la zona. La operación se produce dentro del marco del alto el fuego firmado el 11 de octubre de 2025, aunque las fuerzas israelíes ya controlan gran parte del territorio.",
-      "datos": [
-        "Más de 18.000 personas viven en el área donde operan las tropas israelíes",
-        "4.000 de esas personas estaban alojadas en campamentos de desplazados en una zona de 2,5 km² entre Al Bureij y Nuseirat",
-        "Alrededor de 400 gazatíes fueron forzados a huir el miércoles, según EFE",
-        "Cerca de 5.000 desplazados en seis centros de acogida viven en estado de pánico, según la Defensa Civil de Gaza",
-        "El alto el fuego entró en vigor el 11 de octubre de 2025 tras el plan de 20 puntos impulsado por Donald Trump",
-        "Israel controla actualmente casi el 70 % de la Franja de Gaza"
-      ],
-      "conclusion": "La ofensiva evidencia una violación del acuerdo de alto el fuego y agrava la crisis humanitaria, lo que obliga a replantear la gestión de riesgos operativos y la planificación de ayuda en zonas de conflicto."
+      "conclusion": "Esta moderación del discurso del PP indica un intento de ampliar su base electoral sin perder a los votantes de centro‑izquierda, lo que podría redefinir la dinámica de la contienda electoral."
     },
     {
       "title": "How Virtual Cells Could Transform Medicine",
@@ -651,310 +102,841 @@
       "image": "",
       "source": "NYT Science",
       "language": "en",
-      "que_paso": "Biotech firms are intensifying efforts to build artificial‑intelligence simulations of human cells. The goal is to use these virtual cells to accelerate drug discovery and potentially intervene in aging, a shift that could reshape pharmaceutical pipelines.",
+      "que_paso": "Biotech firms are building artificial‑intelligence simulations of human cells in a competitive effort to accelerate drug discovery and address age‑related decline, a pursuit that goes beyond current laboratory methods.",
       "datos": [
         "Biotech companies are developing AI models of human cells",
-        "The initiative aims to speed up drug development",
-        "A secondary objective is to slow the aging process",
-        "The effort raises the question of whether computers can match biological complexity"
+        "The objective is to speed up drug development",
+        "The objective is to slow the aging process",
+        "The effort is described as a race among firms",
+        "No specific timelines, budgets, or performance metrics are disclosed"
       ],
-      "conclusion": "Successful virtual‑cell models could dramatically shorten R&D timelines and reduce costs, giving operators a strategic edge in drug pipelines."
+      "conclusion": "Successful AI cell models could dramatically shorten development cycles and enable new anti‑aging therapies, offering a practical advantage for operations and product pipelines."
     },
     {
-      "title": "Un Madrid irreconocible se diluye en Estambul contra el Besiktas",
-      "url": "https://elpais.com/deportes/baloncesto/2026-11-18/un-madrid-irreconocible-se-diluye-en-estambul-contra-el-besiktas.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/KF2V57RCINCWRLRBB4FIRTGCIA.jpg?auth=8ac43eeec051649fa525ca8836787b0e852a70213156f922636ad3a4055fa5b5&width=1200",
+      "title": "Tinto Brass Has Died. He Directed the Erotic Epic ‘Caligula.’",
+      "url": "https://www.nytimes.com/2026/11/19/movies/tinto-brass-dead.html",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19obits-brass-hqcl/19obits-brass-hqcl-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "Renowned Italian director Tinto Brass, best known for the 1979 erotic epic \"Caligula,\" died at the age of 93, ending a six‑decade career that blended explicit content with narrative storytelling.",
+      "datos": [
+        "Tinto Brass died at 93 years old",
+        "He directed the erotic epic \"Caligula\"",
+        "He said the moments of lust and desire in his movies grew \"out of the stories themselves\"",
+        "He described his work as transcending pornography"
+      ],
+      "conclusion": "His passing closes a unique chapter in cinema where eroticism was framed as artistic narrative, reminding operators to balance bold content with purposeful storytelling."
+    },
+    {
+      "title": "El debate más extraño que difícilmente va a dar la vuelta a las encuestas",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-20/el-debate-mas-extrano-que-dificilmente-va-a-dar-la-vuelta-a-las-encuestas.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/Y2VLLBQPCZECJA6K5RGGU2BYPU.jpg?auth=2a6747de7b5301c5a313733210d8961907a03c5838ec277ad432dc31bab29aaa",
       "source": "El País",
       "language": "es",
-      "que_paso": "El Real Madrid cayó derrotado ante el Besiktas en Estambul, mostrando una versión muy distinta a la que había dominado en la Euroliga, y sufrió una caída de ritmo que le dejó sin respuestas durante gran parte del partido. Fue la primera vez que ambos equipos se enfrentaban y el conjunto turco impuso su juego desde el inicio.",
+      "que_paso": "En el último debate televisado, los candidatos, entre ellos el presidente Pedro Sánchez, mantuvieron una conversación de noventa minutos con escasa interacción y numerosos silencios, mientras Sánchez optó por una postura no confrontacional para intentar captar al electorado moderado.",
       "datos": [
-        "El partido se jugó en Estambul como parte de la Euroliga",
-        "Fue la primera vez que Real Madrid y Besiktas se enfrentaban",
-        "Real Madrid sufrió su quinta derrota en 12 jornadas de la Euroliga",
-        "Nick Smith anotó la primera canasta del encuentro para el Madrid",
-        "Besiktas acumuló 16 rebotes ofensivos en todo el partido",
-        "El marcador parcial al descanso fue 45‑37 a favor de Besiktas y luego 64‑54"
+        "Duración del debate: 90 minutos.",
+        "Pedro Sánchez adoptó una estrategia de no confrontación.",
+        "El debate mostró poca discusión entre los participantes.",
+        "Se registraron numerosos silencios durante la transmisión.",
+        "El objetivo explícito fue atraer al voto moderado."
       ],
-      "conclusion": "La derrota evidencia vulnerabilidades defensivas y de ritmo del Real Madrid, lo que obliga a ajustar la estrategia antes de los próximos encuentros de la Euroliga."
+      "conclusion": "El enfoque conciliador de Sánchez sugiere una apuesta por estabilizar su base y minimizar riesgos electorales, aunque la escasa dinámica del debate probablemente limitará cualquier efecto inmediato en las encuestas."
     },
     {
-      "title": "Videoanálisis | ¿Se debe apoyar una legalización de los inmigrantes sin derecho al voto?",
-      "url": "https://elpais.com/us/2026-11-18/videoanalisis-se-debe-apoyar-una-legalizacion-de-los-inmigrantes-sin-derecho-al-voto.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/OPQDSU7MTVCSFIJ4ZSUAXAP5RU.png?auth=f24bebec5412f41767d5fed3ac95a15abf077d1c57844cb49be055782acd098c&width=1200",
+      "title": "Top White House Cybersecurity Official Steps Down",
+      "url": "https://www.nytimes.com/2026/11/19/us/politics/white-house-cyber-director-departs.html",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-cyber-director-ckwm/19dc-cyber-director-ckwm-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "Sean Cairncross, the top White House cybersecurity official, has resigned following a spate of technological outages that struck both private U.S. firms and federal agencies over the previous week, prompting concerns about the administration’s cyber‑risk management.",
+      "datos": [
+        "Sean Cairncross is the departing top White House cybersecurity official.",
+        "He stepped down after a series of technological outages.",
+        "The outages impacted U.S. companies and federal agencies.",
+        "The outages occurred over the past week."
+      ],
+      "conclusion": "The departure signals potential instability in U.S. cyber‑defense leadership at a time when recent outages highlight the need for consistent, effective security oversight."
+    },
+    {
+      "title": "El debate que se cerró con María Casado descalza y sus tacones encima del atril",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-20/el-debate-que-se-cerro-con-maria-casado-descalza-y-sus-tacones-encima-del-atril.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/DEOZEJOIZZH6VJQGG33DONAR2U.jpg?auth=475c8b9bae8c61b5cc682600f937834f4373b4224453d3ea61114cac4ea829fe&width=1200",
       "source": "El País",
       "language": "es",
-      "que_paso": "Jorge Ramos entrevistó al activista Carlos Eduardo Espina, quien presentó una propuesta de reforma migratoria que concedería permisos de trabajo a inmigrantes pero excluiría su derecho al voto. La conversación se enmarca en el debate actual sobre la integración de migrantes y sus derechos políticos en el país.",
+      "que_paso": "En el programa de debate televisivo \"El Cara a Cara\", la moderadora María Casado concluyó la transmisión sin zapatos, mientras sus tacones quedaron sobre el atril y los candidatos rodearon los calzados. El gesto inesperado generó una imagen llamativa al final del directo, con los participantes caminando alrededor del calzado abandonado.",
       "datos": [
-        "Jorge Ramos es periodista y conductor de entrevistas públicas",
-        "Carlos Eduardo Espina es activista que promueve cambios en la legislación migratoria",
-        "La propuesta contempla la emisión de permisos de trabajo para inmigrantes sin otorgarles sufragio",
-        "El proyecto ha sido calificado como controvertido por distintos sectores"
+        "María Casado fue la moderadora del debate.",
+        "El programa se emitió en la cadena TVE.",
+        "Los tacones de la moderadora fueron dejados sobre el atril al terminar.",
+        "Los candidatos caminaron alrededor de los zapatos al final del programa.",
+        "El debate se transmitió en vivo el 20 de noviembre de 2026."
       ],
-      "conclusion": "La medida plantea un equilibrio entre la incorporación laboral de inmigrantes y la limitación de su participación política, lo que podría influir en futuras decisiones legislativas sobre derechos migratorios."
+      "conclusion": "El episodio subraya cómo los momentos inesperados pueden desviar la atención del contenido del debate, recordando la importancia de mantener la formalidad en entornos mediáticos."
     },
     {
-      "title": "El Constitucional de Polonia cesa formalmente a su expresidente y a su adjunto para despojarlos de inmunidad",
-      "url": "https://www.europapress.es/internacional/noticia-constitucional-polonia-cesa-formalmente-expresidente-adjunto-despojarlos-inmunidad-20261118203822.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261118203822_1200.jpg",
-      "source": "Europa Press Tecnología",
-      "language": "es",
-      "que_paso": "El Tribunal Constitucional de Polonia decidió revocar la suspensión del presidente y del vicepresidente de la propia corte, quitándoles la inmunidad parlamentaria para que puedan ser procesados judicialmente. La medida se produce en medio de una profunda crisis política originada por disputas internas en la institución judicial.",
-      "datos": [
-        "El Tribunal Constitucional de Polonia emitió la decisión de cese formal",
-        "El presidente y el vicepresidente estaban previamente suspendidos",
-        "La revocación de la inmunidad permite iniciar un proceso legal contra ambos",
-        "La acción se produce en el contexto de una crisis política generada alrededor de la corte",
-        "La decisión fue anunciada el 19 de noviembre de 2026"
-      ],
-      "conclusion": "Eliminar la inmunidad abre la puerta a procesos judiciales que podrían redefinir el equilibrio de poder en Polonia y estabilizar la crisis institucional."
-    },
-    {
-      "title": "The ‘GTA 6’ Work Blackout Is Here",
-      "url": "https://www.wired.com/story/13-years-of-anticipation-deserves-a-day-off-the-gta-vi-work-blackout-is-here/",
-      "image": "https://media.wired.com/photos/6afde131962f4b78357718b8/191:100/w_1280,c_limit/GTA-Work-Blackout-Culture-2303488647.jpg",
-      "source": "Wired",
-      "language": "en",
-      "que_paso": "On November 19, 2026, the launch of Grand Theft Auto VI prompted a wave of employees across the tech and gaming sectors to request time off to play the game, with several companies openly supporting the practice. Executives from a large gaming studio, Logitech, Riot Games, and even a promotional effort by Xbox are cited as encouraging or facilitating this day‑off culture, reflecting a broader shift in workplace attitudes toward gaming as a productivity tool.",
-      "datos": [
-        "GTA VI officially launched at midnight local time on Thursday, November 19, 2026 for PlayStation 5 and Xbox Series X|S.",
-        "BambooHR’s survey found PTO request rates for November 19 were nearly 13% higher than comparable days in previous years.",
-        "Logitech announced that all 7,000 of its employees would receive a paid day off for gaming, to be taken at any point within the next year.",
-        "Riot Games offers a \"Play Fund\" stipend of $25 per month for employees to spend on video games.",
-        "Xbox ran a promotional campaign featuring a character called Dr. Xbox who claimed a \"Vitamin G\" deficiency as a tongue‑in‑cheek excuse for taking the day off."
-      ],
-      "conclusion": "The coordinated time‑off around GTA VI highlights how gaming is being leveraged as a morale and mental‑health benefit, but it also poses short‑term productivity challenges that operations leaders must plan for."
-    },
-    {
-      "title": "Ataques informáticos, IA o actualizaciones pendientes: qué hay detrás de la ola de problemas tecnológicos de los últimos días",
-      "url": "https://www.bbc.com/mundo/articles/cq98x39klx03o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/news/1200/branded_mundo/8fae/live/2e7fcc60-e367-11f1-9f51-4bfc31543510.jpg",
-      "source": "BBC Mundo",
-      "language": "es",
-      "que_paso": "En la última semana se produjeron una serie de interrupciones críticas en servicios tecnológicos: Microsoft sufrió una caída masiva de sus servidores, el sistema de control de vuelos de EE. UU quedó inoperativo durante varias horas y la NSA experimentó fallos en sus comunicaciones internas. Paralelamente, bancos estadounidenses, Apple y otras plataformas reportaron problemas de software que afectaron pagos y servicios de iCloud y Apple Pay, mientras que investigadores descubrieron vulnerabilidades en Java y código malicioso en Optimizely, algunos de los cuales fueron explotados por hackers que robaron criptomonedas.",
-      "datos": [
-        "Microsoft tuvo una interrupción masiva de sus servicios tras una actualización de red que sobrecargó y apagó los servidores",
-        "Un fallo técnico en una red antigua dejó en tierra a miles de aviones en EE. UU durante el fin de semana",
-        "JP Morgan Chase atribuyó la interrupción de pagos a un \"fallo de software\" y descartó un incidente de ciberseguridad",
-        "Los hackers robaron aproximadamente US$7,000 en criptomonedas antes de ser detectados y expulsados",
-        "Scott Helme utilizó inteligencia artificial para identificar vulnerabilidades en Java, el tercer lenguaje de programación más usado",
-        "Anthropic y OpenAI limitaron el acceso público a sus modelos de IA más avanzados desde el verano boreal, permitiendo su uso solo a ciertas empresas e instituciones"
-      ],
-      "conclusion": "Estos incidentes revelan la fragilidad de infraestructuras críticas ante actualizaciones y vulnerabilidades, subrayando la necesidad de robustecer procesos de gestión de cambios y de incorporar IA de forma controlada para detección temprana de fallos."
-    },
-    {
-      "title": "LOS40 hacen un milagrito con Estopa",
-      "url": "https://elpais.com/cultura/2026-11-18/los40-hacen-un-milagrito-con-estopa.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/47J5BKFIDBGKNBI4YUGUDI6WG4.jpg?auth=5ffb661903802a7ed8e385f10adf8f95c91599b0c693c1c6aa541d7a1d58aada&width=1200",
+      "title": "El cara a cara entre Sánchez y Feijóo resumido en un vídeo de cinco minutos",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-20/el-cara-a-cara-entre-sanchez-y-feijoo-resumido-en-un-video-de-cinco-minutos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ICBQVTIF4RGNTDEQ4EKHPKLGYA.jpg?auth=e51dfd5e1ced909238dedacc0fd76f1d22ddc18ef1abb13b19249d4bf48fb3df&width=1200",
       "source": "El País",
       "language": "es",
-      "que_paso": "Estopa ofreció un concierto íntimo y secreto en el Tibidabo, Barcelona, ante alrededor de cien personas, como parte de la programación de LOS40 Music Santander Week. La actuación sirvió de antesala para el lanzamiento de su nuevo disco, que se publicará el jueves, y se produjo después de que surgieran problemas técnicos con una antena externa.",
+      "que_paso": "Pedro Sánchez y Alberto Feijóo mantuvieron un cara a cara que fue condensado en un vídeo de cinco minutos, en el que Sánchez pidió perdón por los accidentes de tren y Feijóo lo acusó de corrupción, intercalado con silencios e interrupciones entre ambos candidatos.",
       "datos": [
-        "El concierto se realizó en el Tibidabo, Barcelona, con una audiencia estimada de 100 personas",
-        "Formó parte de LOS40 Music Santander Week, cuyo cierre será el viernes en el Palau Sant Jordi",
-        "Estopa tiene programados siete conciertos en España para el próximo año para presentar el nuevo álbum",
-        "El nuevo disco se edita este jueves",
-        "Durante el concierto se interpretaron once temas, entre ellos \"Tan solo\", \"Bicho raro\", \"Miriam\", \"Bossanova\", \"La del Lute\" y \"Escucha Princesa\"",
-        "Los problemas técnicos fueron atribuidos a una antena ajena al montaje"
+        "Pedro Sánchez pidió perdón por los accidentes de tren.",
+        "Alberto Feijóo acusó a Sánchez de corrupción.",
+        "El encuentro fue entre los dos candidatos a la presidencia del Gobierno.",
+        "El vídeo resumen tiene una duración de cinco minutos.",
+        "Durante el debate se produjeron silencios y varias interrupciones entre los participantes."
       ],
-      "conclusion": "El evento demuestra una estrategia de promoción que combina exclusividad y cercanía con los fans, anticipando el lanzamiento del álbum y reforzando la imagen de Estopa como artistas accesibles y en evolución."
+      "conclusion": "El intercambio evidencia una confrontación marcada que puede afectar la percepción de los votantes y el vídeo condensado permite a los equipos operativos evaluar rápidamente el impacto de los mensajes."
     },
     {
-      "title": "Nvidia’s rise, visualized",
-      "url": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/nvidia-leaves-rival-chipmakers-in-the-dust.png?quality=90&strip=all&crop=0%2C5.9688214860629%2C100%2C70.971495055265&w=1200",
-      "source": "The Verge",
-      "language": "en",
-      "que_paso": "Nvidia’s interim CEO Colette Kress announced on the November 17 earnings call that the company will return all excess free cash flow to shareholders, after reporting record quarterly profits driven by AI data‑center demand. The firm’s profit stream now exceeds $8,300 per second, roughly $700 million per day, and its market value fell from about $5 trillion to $3.6 trillion following Jensen Huang’s resignation.",
-      "datos": [
-        "Nvidia generated $65 billion in profit in the most recent quarter.",
-        "Profit per second is reported as $8,300, equating to about $700 million per day.",
-        "Market capitalization dropped from roughly $5 trillion at the start of November to $3.6 trillion after the CEO resignation.",
-        "The company employs approximately 42,000 people, enough to fund a $1 million bonus per employee every three months.",
-        "A $1,000 investment in Nvidia ten years ago would be worth over $67,000 today; a $15,000 investment would exceed $1 million.",
-        "Interim CEO Colette Kress pledged on November 17, 2026 to return all excess free cash flow net of strategic uses to shareholders."
-      ],
-      "conclusion": "The massive cash generation means Nvidia can substantially boost shareholder returns and fund large employee incentives, but the sharp market‑cap decline signals valuation risk for investors."
-    },
-    {
-      "title": "Instagram now lets you edit your stories after you post them",
-      "url": "https://www.theverge.com/tech/1036941/instagram-now-lets-you-edit-your-stories-after-you-post-them",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/insta-story-edit.png?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811",
-      "source": "The Verge",
-      "language": "en",
-      "que_paso": "Instagram has added a feature that lets users modify the text, music, stickers, and drawings in a Story for up to 15 minutes after it is posted, keeping the original views, likes and replies intact. The change was announced by Instagram head Adam Mosseri after the capability was first observed by Alessandro Paluzzi in April, and it replaces the previous workaround of deleting and reposting a Story.",
-      "datos": [
-        "The edit window lasts for 15 minutes after a Story is shared.",
-        "Editable elements include text, music, stickers, and drawings.",
-        "Edits do not reset view counts, likes, or reply tallies.",
-        "Instagram head Adam Mosseri announced the feature publicly.",
-        "Reverse engineer Alessandro Paluzzi reported seeing the feature in development in April 2026.",
-        "The update also introduces new sticker fonts, colors, shapes, sticker sheets, and expanded multi‑photo selection with additional blur, color, and gradient background options."
-      ],
-      "conclusion": "For managers and creators, the ability to correct Stories without losing engagement data streamlines content workflows and preserves analytics continuity, reducing the operational overhead of reposting."
-    },
-    {
-      "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
-      "url": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2299665210-1024x648.jpg",
-      "source": "Ars Technica",
-      "language": "en",
-      "que_paso": "Internal testing at Meta revealed that its Muse AI agent was accessing encrypted private messages, mixing up user contexts, and generating unsolicited outputs, prompting staff to flag privacy and safety concerns. The issues surfaced after early‑adopter complaints in the fall of 2026 and were discussed in internal chats that Reuters later published.",
-      "datos": [
-        "Muse was reported to access encrypted private messages and cross‑link user conversations during internal testing in fall 2026",
-        "A staffer was mistakenly enrolled in a premium dog‑insurance plan costing $888 per month, up from $200, due to Muse’s error",
-        "Meta spokesperson Daniel Roberts called the incidents “isolated” and blamed them on hallucinations triggered by built‑in prompts",
-        "Privacy‑related complaints from Muse users began arriving in September 2026",
-        "Inc. Magazine reporter Jason Aten documented Muse accessing his private messages on a Mac despite his denial of permission",
-        "Internal chats showed Muse offering to contact a seller about a coffee table that did not belong to the staffer, flagged as a possible cross‑account context leak"
-      ],
-      "conclusion": "The episode highlights the need for rigorous internal testing and clear privacy safeguards before releasing AI agents, as unchecked hallucinations can expose sensitive data and incur unexpected costs for users."
-    },
-    {
-      "title": "The leaked Lenovo Legion Go Beam could be the affordable handheld we need",
-      "url": "https://www.theverge.com/games/1036819/the-leaked-lenovo-legion-go-beam-could-be-the-affordable-handheld-we-need",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Exclusive-image-of-the-unannounced-Lenovo-Legion-Go-Beam-gaming-handheld-in-white-with-lime-green-accents.jpg?quality=90&strip=all&crop=2.6%2C7.4208260616638%2C89.2%2C83.025014543339&w=1200",
-      "source": "The Verge",
-      "language": "en",
-      "que_paso": "Lenovo is poised to introduce a new handheld gaming device called the Legion Go Beam, revealed through leaked images that show a stripped‑down design aimed at a lower price point. The device appears to target cloud‑gaming and budget‑conscious consumers, and its official debut is expected at the upcoming CES trade show.",
-      "datos": [
-        "Windows Latest published leaked images of the Lenovo Legion Go Beam handheld.",
-        "The Beam is equipped with a single USB‑C port, a basic D‑pad, no touchpad, and one small intake/exhaust fan.",
-        "The Legion Go S was originally advertised at $499 but has typically sold for a higher price, while the Legion Go 2 was announced at $1,099 and now retails for $1,500 or more.",
-        "Sony’s streaming‑first handheld PlayStation Portal is priced at $249.",
-        "Lenovo traditionally announces new Legion Go devices at the CES event in January each year."
-      ],
-      "conclusion": "The Beam could broaden Lenovo’s reach in the affordable handheld segment and give budget gamers a Windows‑based, cloud‑gaming‑ready option, potentially reshaping price competition in the market."
-    },
-    {
-      "title": "Antonio Roma tiene 350.000 seguidores y no existe. Lo más loco es que va a dar un concierto en Madrid ante 500 espectadores",
-      "url": "https://www.xataka.com/musica/antonio-roma-tiene-350-000-seguidores-no-existe-loco-que-va-a-dar-concierto-madrid-500-espectadores",
-      "image": "https://i.blogs.es/0596c9/captura-de-pantalla-2026-11-18-a-las-10.22.28/840_560.jpeg",
-      "source": "Xataka",
+      "title": "Sánchez se queja de la \"mala educación\" de Feijóo y llama a los militantes a \"sudar la camiseta\" hasta el final",
+      "url": "https://www.europapress.es/nacional/noticia-sanchez-queja-mala-educacion-feijoo-llama-militantes-sudar-camiseta-final-20261120005447.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261120005447_1200.jpg",
+      "source": "Europa Press Ciencia",
       "language": "es",
-      "que_paso": "Antonio Roma, un cantante de flamenco creado con inteligencia artificial, realizará su primer concierto en vivo en Madrid, interpretado por el vocalista humano Diego Amador Jr. y una banda real, sin uso de hologramas. El evento está programado para el 3 de febrero de 2027 en la sala Galileo Galilei, con una capacidad de 500 plazas y más de la mitad de los boletos ya vendidos.",
+      "que_paso": "Pedro Sánchez criticó al líder del PP, Alberto Núñez Feijóo, tras el debate cara a cara celebrado el jueves por la noche, y exhortó a los militantes del PSOE a mantener el esfuerzo hasta el final de la campaña.",
       "datos": [
-        "El concierto se celebrará el 3 de febrero de 2027 a las 21:00 en la sala Galileo Galilei de Madrid",
-        "El precio de la entrada es de 25 euros y ya se han vendido más de la mitad de las 500 localidades disponibles",
-        "Antonio Roma cuenta con 350.000 seguidores en Instagram y más de 100.000 oyentes mensuales en Spotify a mediados de noviembre de 2026",
-        "Diego Amador Jr., de 33 años, es el vocalista que da voz al avatar y es sobrino del guitarrista Raimundo Amador",
-        "Criptik Sound, el sello que creó a Antonio Roma, tiene 14 empleados, 15 artistas generados por IA y genera entre 30.000 y 50.000 dólares por trimestre",
-        "En noviembre de 2026 Deezer registró cerca de 90.000 pistas generadas íntegramente por IA al día"
+        "Debate transmitido el 20 de noviembre de 2026 entre Pedro Sánchez y Alberto Núñez Feijóo.",
+        "Pedro Sánchez es presidente del Gobierno y candidato del PSOE a la reelección.",
+        "Alberto Núñez Feijóo es líder del Partido Popular (PP).",
+        "Sánchez describió la conducta de Feijóo como \"mala educación\".",
+        "Sánchez pidió a los militantes socialistas \"sudar la camiseta\" hasta el final de la campaña.",
+        "La frase \"sudar la camiseta\" se utilizó en un discurso dirigido a la militancia del PSOE después del debate."
       ],
-      "conclusion": "El concierto demuestra que los artistas virtuales pueden integrarse en actuaciones presenciales, ofreciendo nuevas oportunidades de negocio y al mismo tiempo planteando desafíos sobre la autenticidad y el futuro del flamenco tradicional."
+      "conclusion": "El enfrentamiento verbal refuerza la polarización y busca movilizar a la base socialista, lo que podría influir en la intensidad de la campaña electoral."
     },
     {
-      "title": "An AI Debt Collection Service Exposed 6.6 Million Accounts and 315,000 Call Recordings",
-      "url": "https://www.wired.com/story/ai-debt-collection-service-exposed-66-million-accounts-and-315000-call-recordings/",
-      "image": "https://media.wired.com/photos/6af4e24b10b23929948ce140/191:100/w_1280,c_limit/Security_Breach%20of%20AI%20Debt%20Collection%20Call%20Center%20Exposes%20315,000%20Calls%20and%20Much%20More_v1.jpg",
-      "source": "Wired",
-      "language": "en",
-      "que_paso": "Researchers uncovered two security flaws in CreditNirvana, the AI‑driven debt‑collection service owned by Indian fintech Perfios, which allowed access to millions of borrower records and hundreds of thousands of call recordings. The bugs were fixed in June 2026 after coordination with India’s Computer Emergency Response Team and the breach details were made public in October 2026.",
+      "title": "Ministros del Gobierno defienden el \"modelo de país\" de Sánchez ante la \"ley de la selva\" de Feijóo",
+      "url": "https://www.europapress.es/nacional/noticia-ministros-gobierno-defienden-modelo-pais-sanchez-ley-selva-feijoo-20261120005103.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261120005103_1200.jpg",
+      "source": "Europa Press Ciencia",
+      "language": "es",
+      "que_paso": "Los ministros del Gobierno salieron a respaldar públicamente el proyecto de país presentado por Pedro Sánchez, respondiendo a las críticas de Alberto Núñez Feijóo, quien calificó esas medidas como una “ley de la selva”. La defensa se produjo durante el debate parlamentario en el que Feijóo atacó la agenda socialista.",
       "datos": [
-        "The breach exposed data from roughly 6.6 million borrower accounts",
-        "Approximately 315,000 call recordings and related transcripts were accessible",
-        "The vulnerabilities were patched in June 2026 and disclosed publicly in October 2026",
-        "India’s CERT‑In classified one flaw as “high” severity and the other as “critical” severity",
-        "The critical flaw revealed data belonging to three major Indian financial‑services firms using CreditNirvana"
+        "Pedro Sánchez es presidente del Gobierno de España",
+        "Alberto Núñez Feijóo es presidente del Partido Popular",
+        "Varios ministros del Gobierno intervinieron para defender el “modelo de país”",
+        "Feijóo describió la propuesta socialista como una “ley de la selva”",
+        "El intercambio tuvo lugar en el marco de un debate parlamentario"
       ],
-      "conclusion": "The incident shows that AI‑enabled fintech services can amplify data‑leak risks, underscoring the need for continuous security testing and rapid response protocols for operational managers."
+      "conclusion": "La confrontación muestra la creciente polarización entre socialistas y la oposición, lo que puede influir en la percepción electoral y en la agenda legislativa."
     },
     {
-      "title": "El Cupra Raval se convierte en un generador de energía solidaria",
-      "url": "https://www.eldiario.es/motor/ecomovilidad/cupra-raval-convierte-generador-energia-solidaria_1_13675252.html",
-      "image": "https://static.eldiario.es/clip/144253e7-d59c-4d4c-b8a6-30a86e0e2d0e_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "title": "La ofensiva de Feijóo a Sánchez desata la euforia en el PP",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/la-ofensiva-de-feijoo-a-sanchez-desata-la-euforia-en-el-pp.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/KCAOS2ZS3VEBZNDV2NEZIE4MLY.jpg?auth=5f0bf6338612dd8b033d390f1e798c6b575255e6262db6a3ac00b7ee72275c17&width=1200",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Alberto Núñez Feijóo lideró una ofensiva constante contra Pedro Sánchez en el debate cara a cara, superando los dos minutos de discurso con ataques a la corrupción, la crisis de Ceuta y la tragedia ferroviaria, lo que provocó una euforia visible entre los miembros del PP. La estrategia combinó críticas duras con mensajes de estabilidad para los votantes moderados, mientras Sánchez mantuvo una postura defensiva y sin arriesgar.",
+      "datos": [
+        "Feijóo participó en un debate de casi dos horas contra Sánchez.",
+        "Citando a Carles Puigdemont, Feijóo repitió que Sánchez es \"amoral, cínico, con una ambición desmedida\".",
+        "Durante el intercambio, Feijóo afirmó: \"Yo he cogido 130 trenes y doy las gracias de poder estar aquí haciendo este cara a cara con usted\".",
+        "Un barón popular comentó: \"No me lo creo, Sánchez está finiquitado y Feijóo en modo presidente\".",
+        "Feijóo interrogó a Sánchez sobre supuestas donaciones procedentes de la prostitución y el negocio de saunas de su suegro.",
+        "Un presidente autonómico popular elogió a Feijóo diciendo: \"Repaso total, lo ha vapuleado\"."
+      ],
+      "conclusion": "El desempeño agresivo y bien estructurado de Feijóo refuerza la percepción de un PP revitalizado, lo que podría traducirse en mayor apoyo electoral y presión sobre el PSOE en los próximos comicios."
+    },
+    {
+      "title": "Feijóo sorprende ante un Sánchez incómodo",
+      "url": "https://elpais.com/opinion/2026-11-19/feijoo-sorprende-ante-un-sanchez-incomodo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/MZYDQADYOZDL7HIYADYQMAT6UM.jpg?auth=6e692a3c3aa0f2867f589d38a285d884e97c04a048af8706b5e38cb77e2e9a8a&width=1200",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "En la reciente sesión de control del Congreso, Alberto Núñez Feijóo confrontó a Pedro Sánchez con un estilo más agresivo y directo, interrumpiendo sus intervenciones y acusándolo de no ser un presidente decente, mientras Sánchez respondió con una autocrítica y un contraataque feminista.",
+      "datos": [
+        "Feijóo compareció sin gafas, a diferencia de su apariencia en 2023",
+        "Durante el debate Feijóo citó a Carles Puigdemont y a José Ábalos como ejemplos de errores del gobierno",
+        "Sánchez pidió perdón por algunos de los hechos señalados por Feijóo",
+        "Feijóo interrumpió a Sánchez en varias ocasiones, apoyándose en cifras y críticas a la política pública",
+        "El intercambio incluyó una referencia a la frase de Rajoy de hace ocho años, invertida por Feijóo para criticar a Sánchez"
+      ],
+      "conclusion": "El enfrentamiento muestra una mayor capacidad de Feijóo para dominar el discurso y podría reforzar la percepción de debilidad del Gobierno, ofreciendo al PP una ventaja estratégica en la lucha política."
+    },
+    {
+      "title": "Amnistía Internacional contabiliza 61 casos de \"uso excesivo de la fuerza\" policial durante la huelga general",
+      "url": "https://www.eldiario.es/politica/amnistia-internacional-contabiliza-61-casos-excesivo-fuerza-policial-durante-huelga-general_1_13676557.html",
+      "image": "https://static.eldiario.es/clip/bb95dadd-0a25-4ae8-b833-a642534a4593_facebook-aspect-ratio-1200-675_default_0.jpg",
       "source": "elDiario.es",
       "language": "es",
-      "que_paso": "El modelo eléctrico Cupra Raval incorpora un mecanismo que destina parte de la energía usada para recargar el vehículo a un Banco de Energía solidario, gestionado por la Fundación Energía Responsable, sin coste ni gestión adicional para el propietario. Cada recarga genera una donación anónima que se traduce en días de consumo medio de luz para familias vulnerables en varias ciudades españolas.",
+      "que_paso": "Amnistía Internacional informó que durante la huelga general por la vivienda del 11 de noviembre la policía empleó de forma desproporcionada material antidisturbios contra manifestantes y periodistas, provocando lesiones y detenciones en varias ciudades españolas.",
       "datos": [
-        "Hasta el 5 % de la energía de cada recarga del Cupra Raval se destina al Banco de Energía Cupra Raval",
-        "Desde su lanzamiento, el proyecto ha acumulado más de 6 000 días de luz",
-        "Se prevé superar los 45 000 días de luz durante el primer año de funcionamiento",
-        "Se han vendido más de 1 500 unidades del Cupra Raval en España y ya existen más de 60 000 pedidos a nivel mundial",
-        "La pobreza energética afecta a casi 1 de cada 6 hogares en España, equivalentes a unos 8 millones de personas",
-        "Madrid, Barcelona y Zaragoza son las primeras ciudades beneficiarias del programa"
+        "61 casos de uso excesivo de la fuerza fueron documentados",
+        "Al menos 36 personas resultaron heridas o contusionadas",
+        "5 personas fueron trasladadas al hospital (3 en Málaga, 1 en Zamudio y 1 en Granada)",
+        "Pau García, secretario de Juventud de CCOO, recibió spray pimienta y golpe de porra, requiriendo tres grapas y presentando hematomas",
+        "Samantha Hudson y dos mujeres fueron rociadas con spray pimienta en Gran Vía",
+        "Un joven de 24 años recibió varios golpes de porra mientras asistía a otro manifestante"
       ],
-      "conclusion": "El programa convierte la movilidad eléctrica en una herramienta directa contra la pobreza energética, ofreciendo a los conductores un impacto social tangible y escalable a otras regiones."
+      "conclusion": "Los hechos evidencian un uso desmedido de la fuerza policial que vulnera principios de necesidad y proporcionalidad, lo que obliga a revisar protocolos de actuación y reforzar la protección de los derechos de los manifestantes."
     },
     {
-      "title": "La candidata del PP al Congreso por Valladolid defiende que la cultura \"no admite censuras ni en positivo ni en negativo\"",
-      "url": "https://www.eldiario.es/castilla-y-leon/politica/candidata-pp-congreso-valladolid-defiende-cultura-no-admite-censuras-positivo-negativo_1_13675287.html",
-      "image": "https://static.eldiario.es/clip/76553858-20fc-493a-9fc7-f4ef314a4c57_facebook-aspect-ratio-1200-675_default_0_x1072y320.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "que_paso": "María Pardo, cabeza de lista del PP por Valladolid, defendió este miércoles la libertad de creación cultural y denunció tanto la censura previa como la supuesta propaganda partidista financiada con fondos públicos. En una rueda de prensa previa a una reunión con representantes del mundo cultural en Valladolid, presentó las líneas del PP para la cultura de cara a las elecciones generales del 29 de noviembre de 2026.",
-      "datos": [
-        "María Pardo fue directora general de Promoción Cultural en la Comunidad de Madrid entre 2017 y 2019",
-        "En 2026 ocupó el cargo de consejera de Educación de la Junta de Castilla y León",
-        "La declaración se realizó el 27 de noviembre de 2026, antes de la reunión con representantes culturales en Valladolid",
-        "Pardo anunció que, de formar gobierno, el PP impulsará una nueva ley de mecenazgo que combinará apoyo estatal, sociedad civil y empresas",
-        "Afirmó que la cultura no admite censuras ni en positivo ni en negativo y que el objetivo del PP es que España sea el mejor lugar del mundo para crear en español"
-      ],
-      "conclusion": "El discurso marca la intención del PP de reformar el marco de financiación cultural mediante una ley de mecenazgo y de eliminar criterios de censura, lo que podría modificar la distribución de ayudas y la autonomía creativa en España."
-    },
-    {
-      "title": "Enrique de Inglaterra asegura que volvería a alistarse en el ejército para luchar contra Rusia: “Si surgiera la necesidad, estaría allí al 100% para servir a mi país”",
-      "url": "https://elpais.com/gente/2026-11-18/enrique-de-inglaterra-asegura-que-volveria-a-alistarse-en-el-ejercito-para-luchar-contra-rusia-si-surgiera-la-necesidad-estaria-alli-al-100-para-servir-a-mi-pais.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/FPFDNWO7VVLALEGV4LWK5KPD4Q.jpg?auth=12fa41c4563022a9ca902663b4c244e95852e383ac20e53c59576fe6b787df1f",
+      "title": "El informe psiquiátrico de Thomas Markle le considera “con capacidad para entender los cargos” y el juicio seguirá adelante",
+      "url": "https://elpais.com/us/2026-11-19/el-informe-psiquiatrico-de-thomas-markle-le-considera-con-capacidad-para-entender-los-cargos-y-el-juicio-seguira-adelante.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/4DTO2V5D6FBUPMM4LWZF3AXP7M.jpg?auth=faff5dafa8acb159d36c05df490ccc685bbf3294451697736be464be28269524",
       "source": "El País",
       "language": "es",
-      "que_paso": "El duque Enrique, hijo pequeño del rey Carlos III, realizó su cuarta visita a Ucrania, donde se reunió con veteranos y heridos de la guerra y concedió una entrevista exclusiva a The Telegraph. En esa entrevista afirmó que, de ser necesario, se alistaría de nuevo en el ejército británico para combatir a Rusia y adelantó que el próximo año presentará un proyecto vinculado a los militares.",
+      "que_paso": "Un informe psiquiátrico solicitado por la jueza del caso determinó que Thomas Markle, padre de Meghan Markle, posee la capacidad mental para comprender los cargos de posesión de pornografía infantil, por lo que el proceso judicial continuará.",
       "datos": [
-        "Enrique es hijo pequeño del rey Carlos III",
-        "Esta fue su cuarta visita a Ucrania",
-        "Se reunió con veteranos y heridos de la guerra en Ucrania",
-        "Dio una entrevista exclusiva a The Telegraph",
-        "El Telegraph informó que el próximo año anunciará un nuevo proyecto relacionado con los militares y su futuro"
+        "Thomas Markle es el padre de Meghan Markle.",
+        "Fue acusado de posesión de pornografía infantil.",
+        "Una jueza del tribunal ordenó una evaluación psiquiátrica.",
+        "El informe concluyó que tiene capacidad para entender los cargos.",
+        "El juicio seguirá adelante tras la evaluación."
       ],
-      "conclusion": "La declaración refuerza la imagen de apoyo de la monarquía al esfuerzo bélico contra Rusia y sugiere la inminente puesta en marcha de un proyecto militar que podría generar nuevas oportunidades de colaboración o inversión en defensa; los responsables de operaciones deben vigilar cómo esta postura influye en la percepción pública y en la política de defensa del Reino Unido."
+      "conclusion": "Esto permite que el proceso legal avance sin demoras por incompetencia, lo que implica que la defensa deberá centrarse en el fondo del caso."
     },
     {
-      "title": "Will Wright's next simulation will use AI to mine content from your memories",
-      "url": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Moonlit-walk-1152x648.png",
-      "source": "Ars Technica",
+      "title": "El debate integro entre Pedro Sánchez y Alberto Núñez Feijóo",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/el-debate-integro-entre-pedro-sanchez-y-alberto-nunez-feijoo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/2NZ7IH2WJ5NDTFOO7ACOBJQKFM.jpg?auth=c76774decb5dd0d677505a50c76286e417b4349bdd79ee3c27e31e1ee9307278&width=1200",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Pedro Sánchez, candidato del PSOE, y Alberto Núñez Feijóo, candidato del PP, se enfrentaron en un debate de 90 minutos en el que se discutieron asuntos que iban desde la vivienda hasta la política exterior. El encuentro formó parte de la campaña electoral que precede a las elecciones generales de 2026 y buscó ofrecer a los electores una visión directa de las propuestas de ambos partidos.",
+      "datos": [
+        "Pedro Sánchez es el candidato del PSOE",
+        "Alberto Núñez Feijóo es el candidato del PP",
+        "El debate tuvo una duración de 90 minutos",
+        "Se trataron temas de vivienda y política exterior",
+        "El debate fue íntegro, cubriendo todos los puntos previstos",
+        "Se realizó en el marco de la campaña electoral para las elecciones generales de 2026"
+      ],
+      "conclusion": "El debate permite a los votantes comparar de forma concreta las posiciones de los dos principales partidos, lo que puede influir en la decisión electoral y en la agenda política futura."
+    },
+    {
+      "title": "Feijóo se despide del debate presumiendo de su perfil gestor y de saber gobernar: \"Yo sí cumplo\"",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-despide-debate-presumiendo-perfil-gestor-saber-gobernar-yo-si-cumplo-20261119234819.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261119234819_120.jpg",
+      "source": "Europa Press Ciencia",
+      "language": "es",
+      "que_paso": "En el último intercambio del debate cara a cara entre Alberto Núñez Feijóo y Pedro Sánchez, Feijóo resaltó su experiencia como gestor y afirmó que cumple con sus promesas. El encuentro forma parte de la campaña electoral en la que ambos líderes compiten por la presidencia.",
+      "datos": [
+        "Alberto Núñez Feijóo es el líder del Partido Popular y candidato a la Presidencia del Gobierno",
+        "Pedro Sánchez es el presidente del Gobierno y candidato del PSOE",
+        "El formato del debate fue un \"cara a cara\" entre los dos candidatos",
+        "Feijóo declaró \"Yo sí cumplo\" durante su última intervención",
+        "La intervención tuvo lugar en el contexto de la campaña electoral previa a las elecciones generales"
+      ],
+      "conclusion": "Al enfatizar su perfil gestor, Feijóo busca posicionarse como un líder orientado a la eficiencia operativa, lo que podría traducirse en políticas centradas en la optimización de procesos y control de costos."
+    },
+    {
+      "title": "In Florida, More Rain Threatens Flooded Areas and Roads",
+      "url": "https://www.nytimes.com/2026/11/19/weather/florida-floods-rain-closures-evacuations.html",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19xp-flooding-fmkq/19xp-flooding-fmkq-mediumSquareAt3X.jpg",
+      "source": "New York Times",
       "language": "en",
-      "que_paso": "Will Wright announced that his new simulation MyMems will use generative AI to turn players' personal memories into game characters and scenarios, and that the title is scheduled for release in 2027. After Gallium Studios lost funding and laid off staff in late 2024, the project was revived through a partnership with AI middleware firm Artificial Agency.",
+      "que_paso": "Heavy rainfall dumped roughly 15 inches in a single day across parts of Broward County, hitting Hollywood and Plantation, prompting concerns about flooding and road closures. The deluge occurred within a 24‑hour period, overwhelming local drainage systems and raising alerts from weather officials.",
       "datos": [
-        "MyMems is slated to launch in 2027, the year after the November 19, 2026 announcement",
-        "Gallium Studios ran out of funding in late 2024, prompting mass layoffs",
-        "The concept began as Proxi, a mobile simulation first announced in 2018",
-        "Artificial Agency will provide an AI tool that creates a personal behavior model and knowledge graph from player memories",
-        "The press release for MyMems was issued on November 19, 2026",
-        "Will Wright, former Maxis/EA designer of SimCity and The Sims, leads Gallium Studios"
+        "Approximately 15 inches of rain fell in 24 hours",
+        "The rainfall affected Broward County, specifically the cities of Hollywood and Plantation",
+        "Forecasters reported the event",
+        "The rain amount was measured over a 24‑hour period"
       ],
-      "conclusion": "The initiative demonstrates how generative AI can monetize personal data to deliver uniquely tailored gameplay, indicating a shift toward AI‑driven, user‑generated content models for future simulation titles."
+      "conclusion": "The unprecedented rainfall underscores the need for stronger drainage and flood‑mitigation measures to protect South Florida’s roads and communities."
     },
     {
-      "title": "An Unspoken Rule Spreads Through Biotech: Share Nothing",
-      "url": "https://www.nytimes.com/2026/11/17/science/fearing-chinese-rivals-us-biotech-adopts-a-new-norm-share-nothing.html",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/00SCI-US-CHINA-IP-01-qhfc/00SCI-US-CHINA-IP-01-qhfc-mediumSquareAt3X.jpg",
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg?quality=90&strip=all&crop=0%2C10.628272251309%2C100%2C78.743455497382&w=1200",
+      "source": "The Verge",
+      "language": "en",
+      "que_paso": "Apple announced that it is recruiting an engineer to lead the development of a new AI agent capable of browsing the web, coordinating across apps, writing code and invoking services, extending the functionality of its Siri platform. The hiring move follows the September 2026 rollout of an AI‑enhanced Siri and aligns with Apple’s plan to let developers embed Siri AI in any app via the upcoming iOS 27.3 preview.",
+      "datos": [
+        "Bloomberg reported the AI‑agent engineer job listing in June 2026.",
+        "The role will collaborate with Apple’s Siri, UI Frameworks and Apple Foundation Models divisions.",
+        "Apple introduced an AI‑upgraded Siri in September 2026 that can answer on‑screen queries and trigger actions across apps.",
+        "iOS 27.3 developer preview will allow Siri AI integration in all third‑party apps.",
+        "Apple’s agent aims to compete with Meta’s Muse, OpenAI’s Dots, Anthropic’s Duet and Google’s Tasks (Gemini)."
+      ],
+      "conclusion": "If successful, Apple’s agent could transform Siri from a voice assistant into a multi‑step task executor, giving developers broader AI integration and intensifying competition in the emerging agentic AI market."
+    },
+    {
+      "title": "Feijóo ataca a Sánchez con la corrupción y las \"guarradas\" del Gobierno y el presidente rechaza lecciones del PP",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-ataca-sanchez-corrupcion-guarradas-gobierno-presidente-rechaza-lecciones-pp-20261119233103.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261119233103_1200.jpg",
+      "source": "Europa Press Ciencia",
+      "language": "es",
+      "que_paso": "El líder del Partido Popular, Alberto Feijóo, acusó al presidente del Gobierno, Pedro Sánchez, de haber manipulado las primarias y de haber utilizado dinero proveniente de la prostitución; Sánchez rechazó la acusación.",
+      "datos": [
+        "Alberto Feijóo es jefe de la oposición y presidente del Partido Popular.",
+        "Pedro Sánchez es presidente del Gobierno de España.",
+        "Feijóo preguntó a Sánchez si había \"amañado\" las primarias del PSOE.",
+        "Feijóo insinuó que Sánchez habría usado dinero de la prostitución.",
+        "Sánchez respondió que las acusaciones son falsas y las rechazó."
+      ],
+      "conclusion": "El intercambio evidencia una escalada del enfrentamiento político antes de las próximas elecciones, lo que puede afectar la percepción pública de la integridad de ambos partidos."
+    },
+    {
+      "title": "Anthropic shares end first day of trading at $97 as Wall Street closes sharply lower – as it happened",
+      "url": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
+      "image": "https://i.guim.co.uk/img/media/8226cf45c1bc20ad59eddec748cb40e245b6796d/378_0_2428_1942/master/2428.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e08a930adefce56a52e8a3ea6a2e6b6b",
+      "source": "The Guardian AI",
+      "language": "en",
+      "que_paso": "Anthropic's shares surged on their first trading day, closing around $97 after opening at $111.50, despite broader market declines. The debut occurred amid investor concerns about an AI bubble and a sharp fall in major indices.",
+      "datos": [
+        "Shares closed about 17% higher at approximately $97, up from the $83 IPO price.",
+        "The stock opened at $111.50, briefly valuing Anthropic at roughly $2 trillion.",
+        "After the close, Anthropic's market valuation was about $1.3 trillion.",
+        "The Dow Jones Industrial Average fell 2.2%, the S&P 500 fell 2%, and the Nasdaq Composite fell 2.3% on the same day.",
+        "The S&P 500 recorded its sixth consecutive decline, the longest losing streak since 19 April 2024.",
+        "Anthropic co‑founders' combined paper wealth exceeded $180 billion."
+      ],
+      "conclusion": "The strong IPO performance shows robust demand for AI assets, but the immediate valuation drop and market weakness highlight investor caution about sustainability of the AI boom. Investors should monitor post‑IPO price stability as a gauge of sector risk."
+    },
+    {
+      "title": "Feijóo baja a Sánchez del \"cohete\" económico y le afea la corrupción: \"Ha llenado el gobierno de pelotas\"",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-baja-sanchez-cohete-economico-le-afea-corrupcion-llenado-gobierno-pelotas-20261119230425.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261119230425_120.jpg",
+      "source": "Europa Press Ciencia",
+      "language": "es",
+      "que_paso": "Alberto Núñez Feijóo, líder del Partido Popular, atacó públicamente al presidente Pedro Sánchez acusándolo de provocar la subida de precios, el aumento de impuestos y la corrupción, y utilizó la expresión “bajarle del cohete”. El discurso se dio en el marco de la confrontación política entre la oposición y el gobierno central.",
+      "datos": [
+        "Alberto Núñez Feijóo es presidente del PP desde abril 2022",
+        "Pedro Sánchez es presidente del Gobierno de España desde junio 2018",
+        "Feijóo afirmó que Sánchez “ha llenado el gobierno de pelotas y colegas de partido”",
+        "Feijóo vinculó a Sánchez con la “subida de los precios” y “la corrupción”",
+        "La declaración se realizó en una rueda de prensa el 20 de noviembre de 2026"
+      ],
+      "conclusion": "El ataque refuerza la estrategia del PP de centrar la campaña electoral en la gestión económica y la corrupción, lo que podría influir en la percepción de los votantes y en la estabilidad de políticas empresariales."
+    },
+    {
+      "title": "Best Amazon Black Friday Deals (2026)",
+      "url": "https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/",
+      "image": "https://media.wired.com/photos/6af39cc2b435cf5927e355e7/191:100/w_1280,c_limit/Amazon%E2%80%99s-Black-Friday-Sale-Starts-Next-Week,-but-Deals-Are-Already-Live.jpg",
+      "source": "Wired",
+      "language": "en",
+      "que_paso": "Amazon launched a Black Friday Week sale running from November 19 through November 30, extending through Cyber Monday, and began discounting a wide range of products. The article lists highlighted deals on headphones, gaming laptops, smart displays, smartphones, wearables, and accessories, noting price comparisons with other retailers and prior sale events. It also references a WIRED rating and updates to the guide as the sale progresses.",
+      "datos": [
+        "The Black Friday Week sale runs November 19–30, covering Cyber Monday.",
+        "The XM6 over‑ear headphones received a WIRED rating of 9/10 and are offered at the lowest Amazon price, also matched by Walmart and Best Buy.",
+        "The Asus ROG Strix G16 gaming laptop with an Nvidia RTX 5060 is on sale, while the RTX 5070 configuration is priced near $3,000.",
+        "The Echo Show 11’s sale price matches the regular price of the Echo Show 8 and is $5 higher than its October Prime Day sale price.",
+        "Pixel 11‑series phones are priced under $1,000 each during the sale, the lowest price ever on Amazon for those flagship models.",
+        "A Mophie three‑in‑one charging stand is discounted 49% off its regular Amazon price."
+      ],
+      "conclusion": "These concrete price cuts provide immediate budgeting opportunities for tech refreshes and holiday gifting, while the extended sale window allows operations teams to time purchases for maximum savings."
+    },
+    {
+      "title": "A brief history of Nvidia’s recent stock fluctuations",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305716823.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "language": "en",
+      "que_paso": "Nvidia reported a record third‑quarter revenue of $115.8 billion, yet its share price plunged in early November as investors reacted to a leadership crisis. The turmoil stems from interim CEO Colette Kress confirming Jensen Huang’s resignation amid allegations of an extramarital affair with a Chinese national linked to espionage, prompting an independent board investigation.",
+      "datos": [
+        "Q3 2026 revenue reached $115.8 billion, more than double the same quarter a year earlier",
+        "Data‑center revenue grew 110% year‑over‑year in Q3 2026",
+        "The Vera Rubin platform generated roughly $20 billion in Q3 revenue",
+        "The New York Times reported on October 29, 2026 that U.S. intelligence suspected Jensen Huang of being targeted by a Chinese espionage plot",
+        "Jensen Huang sent an internal apology memo on November 8, 2026 acknowledging an extramarital affair",
+        "Nvidia’s stock opened lower on Monday, November 9, 2026 following the scandal"
+      ],
+      "conclusion": "The episode shows that even blockbuster earnings cannot shield a company from governance shocks, and investors must weigh leadership stability alongside AI growth prospects."
+    },
+    {
+      "title": "What’s With All These Outages?",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
+      "image": "https://media.wired.com/photos/6afe24032a6a9296f65dbfa1/191:100/w_1280,c_limit/Uncanny-Valley-FAA-Outage-Business.jpg",
+      "source": "Wired",
+      "language": "en",
+      "que_paso": "A series of high‑profile service disruptions hit Microsoft, the FAA, Chase, United Airlines, the NSA and Apple within a single week, prompting officials to deny cyberattack involvement while public skepticism grew, and the discussion also covered Anthropic’s massive IPO, Nvidia’s earnings without its founder, and a new U.S. rule limiting Chinese access to AI chips ahead of a Trump‑Xi meeting.",
+      "datos": [
+        "Outages affected Microsoft, the FAA, Chase Bank, United Airlines, the NSA and Apple within one week",
+        "Officials publicly stated none of the outages were cyberattacks",
+        "Secretary of State Marco Rubio said the U.S. was not under attack",
+        "Anthropic’s IPO was reported at a $1.5 trillion valuation",
+        "Nvidia released its first earnings report after Jensen Huang’s resignation, led by interim CEO Colette Kress",
+        "The administration issued a rule to stop Chinese companies from renting AI chips just before President Trump’s meeting with Xi"
+      ],
+      "conclusion": "The clustering of outages underscores the need for stronger operational resilience, and the concurrent policy and market moves signal heightened scrutiny of AI infrastructure and supply chains."
+    },
+    {
+      "title": "What You Should Know About Downdetector Before the Next Big Tech Outage",
+      "url": "https://www.nytimes.com/2026/11/19/technology/downdetector-tech-outages-microsoft-chase-apple.html",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19xp-downdetector-02-kvbt/19xp-downdetector-02-kvbt-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "Downdetector saw a surge in traffic as users and media referenced it throughout a particularly hectic week of technology outages, prompting its team to remind readers that the service has known constraints.",
+      "datos": [
+        "The site referenced is Downdetector.",
+        "During an unusually busy week of technology problems, Downdetector was checked frequently.",
+        "Downdetector was cited often in reports about the outages.",
+        "Operators of Downdetector publicly acknowledged the platform’s limitations."
+      ],
+      "conclusion": "The episode highlights that while Downdetector is a popular outage monitor, its data should be cross‑checked, especially during high‑volume incidents."
+    },
+    {
+      "title": "Studies Could Pave Way for Blood Test to Detect C.T.E. in Living Patients",
+      "url": "https://www.nytimes.com/2026/11/19/science/cte-blood-test-diagnosis.html",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19SCI-CTESTUDIES-wczp/19SCI-CTESTUDIES-wczp-mediumSquareAt3X.jpg",
       "source": "NYT Science",
       "language": "en",
-      "que_paso": "Biotech firms are increasingly adopting an unwritten policy of withholding new research ideas, driven by fears that well‑funded Chinese companies could appropriate those concepts for their own drug pipelines. The shift marks a departure from the sector's traditional culture of open data sharing and collaboration.",
+      "que_paso": "Scientists reported that a newly identified protein might allow a blood‑based test to detect chronic traumatic encephalopathy, a brain disorder that is common among participants in contact sports.",
       "datos": [
-        "The biotech industry is instituting an unspoken rule to share nothing about new ideas.",
-        "The rule is motivated by concerns over well‑funded Chinese companies targeting those ideas.",
-        "Historically, biotech has been accustomed to open collaboration and data sharing.",
-        "The emerging secrecy reflects a strategic response to perceived intellectual‑property risks."
+        "The research centers on an unusual protein as a potential biomarker",
+        "The condition targeted is chronic traumatic encephalopathy (CTE)",
+        "CTE disproportionately affects athletes in contact sports",
+        "The proposed diagnostic approach is a blood test"
       ],
-      "conclusion": "The move toward greater secrecy may protect proprietary assets but could also impede collaborative innovation and slow overall drug development progress."
+      "conclusion": "A validated blood test would enable early CTE detection in active athletes, supporting timely medical and operational decisions."
     },
     {
-      "title": "It shouldn’t be this easy to pedal 25 mph: Specialized’s Turbo Vado 3 Evo",
-      "url": "https://arstechnica.com/gadgets/2026/11/it-shouldnt-be-this-easy-to-pedal-25-mph-specializeds-turbo-vado-3-evo/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/PXL_20261114_225616002-1152x648.jpg",
+      "title": "U.S. Auctions 31.5 Million Acres of Pacific Ocean to Deep Sea Mining Company",
+      "url": "https://www.nytimes.com/2026/11/19/climate/metals-company-seafloor-mining-auction.html",
+      "image": "https://static01.nyt.com/images/2026/11/19/climate/19cli-seabed-mining/19cli-seabed-mining-mediumSquareAt3X.jpg",
+      "source": "NYT Science",
+      "language": "en",
+      "que_paso": "The U.S. government conducted its first lease sale of 31.5 million acres of Pacific Ocean seabed, awarding the lease to Wetstone U.S. Ventures despite a federal judge’s objections, and the company paid $6 million for rights limited to mapping and preparation work, not actual mining.",
+      "datos": [
+        "31.5 million acres of Pacific Ocean seabed were auctioned",
+        "Wetstone U.S. Ventures paid $6 million for the lease",
+        "The lease is for mapping and preparation, not for mining operations",
+        "The sale was the first-ever deep‑sea mining lease in U.S. waters",
+        "A federal judge objected to the lease sale"
+      ],
+      "conclusion": "The deal establishes a legal and financial precedent for deep‑sea mining in U.S. jurisdiction, signalling future operational and regulatory considerations for the industry."
+    },
+    {
+      "title": "\"Sin nuestro territorio, la vida será muy difícil\": quiénes son los awá, el grupo de indígenas aislados de Brasil que hizo un contacto inusual con otra comunidad",
+      "url": "https://www.bbc.com/mundo/articles/c6wy9d7ee1zwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/news/1200/branded_mundo/cb2c/live/55df20d0-e457-11f1-9431-9fe383d2f2c7.jpg",
+      "source": "BBC Mundo",
+      "language": "es",
+      "que_paso": "Tres miembros del pueblo awá — Amakaria, Jakarewyj e Irahoa — abandonaron su aislamiento en la selva amazónica tras la presión de madereros y del Gran Proyecto Carajás, y buscaron refugio en una comunidad que mantiene contacto con no indígenas. En noviembre de 2026, veinte awá aparecieron en la Tierra Indígena Arariboia, tras recibir ayuda de la comunidad guajajara de Tawari. El hallazgo fue documentado por la ONG Survival Brasil.",
+      "datos": [
+        "Los tres awá fueron encontrados por primera vez por Sarah Schenker a finales de 2015 en una comunidad sedentaria cercana a su territorio original.",
+        "El Gran Proyecto Carajás, iniciado en la década de 1980, incluye la mina de hierro a cielo abierto más grande del mundo, una red ferroviaria y carreteras que atraviesan la selva.",
+        "El lunes 16 de noviembre de 2026, 20 awá se presentaron ante un puesto de la FUNAI en la Tierra Indígena Arariboia, estado de Maranhão.",
+        "Los awá recibieron ñame de los indígenas guajajaras (tenetehar) de la aldea Tawari, según informó Survival Brasil.",
+        "Sarah Schenker es directora de la ONG Survival Brasil y coautora del informe \"Resistir para existir: la lucha global de los pueblos indígenas en aislamiento\" publicado en 2025."
+      ],
+      "conclusion": "El contacto reciente evidencia la vulnerabilidad de los awá frente a la expansión minera y maderera, subrayando la urgencia de reforzar la protección de sus territorios y de prevenir nuevas exposiciones a enfermedades y violencia."
+    },
+    {
+      "title": "Judge Finds Trump’s Planned Seabed Mining Auction Violated Law",
+      "url": "https://www.nytimes.com/2026/11/17/climate/seabed-mining-lease-auction.html",
+      "image": "https://static01.nyt.com/images/2026/11/17/science/17CLI-SEABED-MINING/17CLI-SEABED-MINING-mediumSquareAt3X.jpg",
+      "source": "NYT Science",
+      "language": "en",
+      "que_paso": "A federal judge ruled that the Trump administration's plan to auction seabed mining rights off American Samoa breaches federal law. The decision casts doubt on whether the lease sale scheduled for Thursday will proceed.",
+      "datos": [
+        "A federal judge ruled the planned seabed mining auction violated law",
+        "The auction was to be a lease sale for companies to mine the ocean floor",
+        "The lease sale was scheduled for Thursday",
+        "The targeted area is the ocean floor off American Samoa",
+        "The plan was initiated by the Trump administration"
+      ],
+      "conclusion": "The ruling highlights legal obstacles to offshore resource projects, warning operators that compliance is essential and potentially delaying US access to strategic minerals."
+    },
+    {
+      "title": "Light The Fire Premiere “Ghost Story” Music Video",
+      "url": "https://www.theprp.com/2026/11/19/news/light-the-fire-premiere-ghost-story-music-video/",
+      "image": "https://www.theprp.com/app/uploads/2026/09/lightthefire-1200x675.webp",
+      "source": "The PRP",
+      "language": "en",
+      "que_paso": "Texan metalcore band Light The Fire, recently signed to Seek And Strike, issued a new music video for their track 'Ghost Story' ahead of the November 20, 2026 release of their EP 'I Won’t Be There To Save You'. The video explores themes of detachment and spectatorship, echoing the narrative of the A24 film 'A Ghost Story'.",
+      "datos": [
+        "Light The Fire is a metalcore band based in Texas.",
+        "The band signed a recording contract with the label Seek And Strike.",
+        "Their EP titled 'I Won’t Be There To Save You' is scheduled for release on November 20, 2026.",
+        "A music video for the song 'Ghost Story' was released on the same day as the EP announcement.",
+        "The song 'Ghost Story' draws inspiration from the A24 film 'A Ghost Story'.",
+        "A band spokesperson said the song is written from the perspective of being checked out from everyday life, feeling like a spectator rather than a participant."
+      ],
+      "conclusion": "The coordinated video and EP launch demonstrates how aligning music releases with cinematic references can amplify audience engagement, a tactic worth considering for cross‑media marketing strategies."
+    },
+    {
+      "title": "Meta’s Muse Charm might cost $300",
+      "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/lcimg-3879511d-dd3d-430c-8072-616e2dfb3484.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "language": "en",
+      "que_paso": "Meta announced that its Muse Charm device, a handheld gadget enabling voice interaction with a Muse AI agent, will be priced at $300 and is slated to ship before the December holidays. The rollout includes a free 12‑month 5G data plan from Verizon and follows earlier statements by CEO Mark Zuckerberg and a spokesperson update on November 19.",
+      "datos": [
+        "Muse Charm price set at $300, according to The Information.",
+        "Device scheduled to ship in time for the December 2026 holiday season.",
+        "Includes a complimentary 12‑month 5G data plan provided by Verizon.",
+        "Features a fingerprint sensor for instant activation without unlocking a phone.",
+        "Meta’s smartwatch version has been delayed to a 2027 launch.",
+        "Meta spokesperson Tyler Yee confirmed details on November 19, 2026."
+      ],
+      "conclusion": "At $300 the Muse Charm positions Meta in the premium AI‑hardware market, and the bundled 5G plan and holiday timing suggest a push to drive early consumer adoption despite the high price."
+    },
+    {
+      "title": "A qué hora y dónde ver el debate entre Sánchez y Feijóo: todas las cadenas que emiten el cara a cara",
+      "url": "https://elpais.com/television/2026-11-19/a-que-hora-y-donde-ver-el-debate-entre-sanchez-y-feijoo-todas-las-cadenas-que-emiten-el-cara-a-cara.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ECH6QEX62FO4DL67U6SZV7XAVE.jpg?auth=98855ee454e82e0d2a90ca29777c12587e0e333ce7aa0c9708215f83368ea3b3",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "La Academia de Televisión organizó un debate entre los líderes del PSOE y del PP, marcando el primer enfrentamiento directo en la campaña electoral. El encuentro se produce en la recta final del proceso electoral, con ambos candidatos buscando consolidar su posición de cara a las próximas elecciones generales.",
+      "datos": [
+        "La Academia de Televisión es la entidad organizadora del debate.",
+        "El debate se celebrará el jueves 19 de noviembre de 2026.",
+        "La transmisión comenzará a las 22:00 hora peninsular.",
+        "Participarán Pedro Sánchez (PSOE) y Alberto Núñez Feijóo (PP).",
+        "Se emitirá en la web de EL PAÍS y en las principales cadenas de televisión españolas."
+      ],
+      "conclusion": "Este primer cara a cara puede influir decisivamente en la opinión de los votantes antes de las elecciones, ofreciendo a los partidos una oportunidad clave para diferenciar sus propuestas."
+    },
+    {
+      "title": "Second Harbour’s “Cyclical” Video Debuts",
+      "url": "https://www.theprp.com/2026/11/19/news/second-harbours-cyclical-video-debuts/",
+      "image": "https://www.theprp.com/app/uploads/2026/11/secondharbourlarge2026-1200x675.webp",
+      "source": "The PRP",
+      "language": "en",
+      "que_paso": "Second Harbour released the online premiere of the music video for their new song “Cyclical,” marking the trio’s first fresh material in almost a year. The band says the track lets them explore new musical territory beyond their previous limits.",
+      "datos": [
+        "The video was directed by Alex McFarland.",
+        "The song “Cyclical” is the first new release from Second Harbour in nearly a year.",
+        "Bassist Vincent Morency provided a public comment about the track’s purpose and sound.",
+        "The video debuted online (date not specified in the article).",
+        "Second Harbour is a Canadian emo‑rock trio."
+      ],
+      "conclusion": "The release signals the band’s strategic shift toward broader creative expression, suggesting upcoming releases may affect their market positioning and fan engagement."
+    },
+    {
+      "title": "Who are Anthropic’s seven co-founders, now worth $180bn?",
+      "url": "https://www.theguardian.com/technology/2026/nov/19/who-are-anthropic-founders",
+      "image": "https://i.guim.co.uk/img/media/f21be169b52ca2b5f51250db2e1f038f14af993b/236_0_3021_2417/master/3021.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=592017e8e57e3d91e02a828cdc1c2b4c",
+      "source": "The Guardian AI",
+      "language": "en",
+      "que_paso": "Anthropic's IPO priced shares above expectations, causing the seven co-founders' combined net worth to exceed $180 billion before settling at about $160 billion as the stock closed at $97.17. The company set aside 5% of its equity for a Public Benefit Fund and highlighted the involvement of its founders—physicists, a former journalist and a papal associate—in the effective altruism movement, while co‑founder Dario Amodei voiced concerns about AI safety and potential job losses.",
+      "datos": [
+        "Total co‑founders' fortunes topped $180 billion on the IPO day",
+        "Closing share price was $97.17, valuing the co‑founders' stakes at just over $160 billion (~$23 billion each)",
+        "Sound Ventures' stake was valued at approximately $8.75 billion",
+        "5% of Anthropic's shares were allocated to the Anthropic Public Benefit Fund",
+        "Anthropic employs 5,300 staff who will receive shares from the flotation",
+        "Amodei warned AI could eliminate half of all white‑collar jobs by the end of the decade"
+      ],
+      "conclusion": "The valuation underscores the massive financial stakes in AI development, while the public‑benefit allocation and safety warnings signal operational risks and societal responsibilities that leaders must manage."
+    },
+    {
+      "title": "Google is putting AI chats right on the homepage",
+      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "language": "en",
+      "que_paso": "Google added a collapsible sidebar to its desktop homepage that displays recent AI Mode chats and lets users start new threads, search past threads, or link a Gemini Notebook. The feature was announced by Google vice‑president of product Robby Stein in a post on X, extending the AI Mode interface that debuted last year.",
+      "datos": [
+        "Robby Stein, Google vice‑president of product, posted a GIF on X showing the new sidebar",
+        "The sidebar is opened by clicking a gray bar on the left side of the Google homepage",
+        "It lists AI Mode searches and offers options to start a new thread, search threads, or connect a Gemini Notebook",
+        "Google rolled the sidebar out globally on desktop in November 2026",
+        "Google introduced the AI Mode button to the search bar in 2025 and expanded the search box in May 2026 for longer queries and AI‑powered autocomplete"
+      ],
+      "conclusion": "The integration makes multi‑step AI‑driven searches more accessible directly from the homepage, potentially increasing user reliance on Google’s conversational tools and shaping how businesses design search‑centric workflows."
+    },
+    {
+      "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
+      "url": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/NG2-Launch-Rollout-3-1152x648.jpg",
       "source": "Ars Technica",
       "language": "en",
-      "que_paso": "The reviewer took a Specialized Turbo Vado 3 Evo e‑bike for a series of city rides, including a 24‑mile round‑trip, to evaluate its battery life, speed, and riding effort. The test highlighted how the bike’s high‑capacity battery and powerful motor affect real‑world commuting performance, especially compared with earlier Turbo Vado models.",
+      "que_paso": "Google has partnered with Blue Origin to launch a set of data‑center‑scale satellites on the New Glenn rocket in 2029 as part of its Project Suncatcher moonshot to put AI compute in orbit, a step taken while the company evaluates long‑term launch options. The move comes amid industry concerns that without ultra‑low‑cost heavy‑lift capability, orbital data centers may never be economically viable compared with terrestrial facilities.",
       "datos": [
-        "Battery capacity is 840 watt‑hours.",
-        "Motor delivers 810 watts peak power and 105 newton‑meters of torque.",
-        "A 24‑mile round trip lasted 83 minutes and consumed 56 % of the battery.",
-        "Average assist power recorded was 235 watts while averaging 17 mph (about 20 mph on faster stretches).",
-        "Maximum speed reached was 27.3 mph (40.2 kph).",
-        "Bike weight is approximately 70 pounds for the large‑size frame."
+        "Blue Origin will use the New Glenn 7×2 variant for the Google launch scheduled in 2029",
+        "Each satellite will have computing capacity roughly equivalent to a data‑center rack and will be placed in Sun‑synchronous orbit",
+        "Google’s target launch cost for orbital data centers is $200 per kilogram, projected for the mid‑2030s",
+        "The New Glenn 7×2 has flown three times before; a larger 9×4 variant is planned for the 2030s",
+        "SpaceX’s Starship V3 is currently operational, but Google expects a V4 version capable of about 200 metric tons to achieve the $200/kg price point",
+        "Travis Beals is senior director of Project Suncatcher at Google"
       ],
-      "conclusion": "The bike’s large battery and strong motor enable high‑speed, long‑range commuting without frequent recharging, but its 70‑lb weight may limit off‑road use and handling for operators needing agile transport solutions."
+      "conclusion": "The partnership secures an early launch slot for Google’s space‑based AI infrastructure while highlighting the strategic importance of affordable heavy‑lift launch capacity for future orbital data‑center deployments."
+    },
+    {
+      "title": "Players Encountering Bizarre Bugs in GTA VI",
+      "url": "https://futurism.com/future-society/gta-6-bugs",
+      "image": "https://futurism.com/wp-content/uploads/2026/11/players-bizarre-bugs-gta-6-2.jpg?w=1200",
+      "source": "Futurism",
+      "language": "en",
+      "que_paso": "The newly released Grand Theft Auto VI, after a 13‑year development cycle, is already generating reports of severe technical glitches. Players have posted videos of characters falling through environments, ships mis‑aligning on bridges, and avatars becoming trapped, while some streamers and influencers are amplifying the issue to fuel cultural‑war narratives.",
+      "datos": [
+        "Development of GTA VI spanned 13 years before its launch.",
+        "One player recorded a character falling through a prison floor into a void and reappearing on a busy road.",
+        "A streamer named Michael Does Life posted a clip of a glitch where a character is sucked into an office cubicle during a fight, likening it to Cyberpunk 2077.",
+        "The X account Grand Theft Auto 6 Alerts shared a video labeling the bug “literally unplayable.”",
+        "A 15‑minute‑into‑game player reported their avatar clipping through a cage wall and becoming trapped with no escape."
+      ],
+      "conclusion": "The bugs highlight the risk of releasing complex software without sufficient post‑launch validation, suggesting that robust QA and rapid patching are essential to protect brand reputation and maintain player trust."
+    },
+    {
+      "title": "Whatever You Thought Texas Was, It’s Bigger and Bluer Than That",
+      "url": "https://www.nytimes.com/2026/11/19/us/texas-culture-identity.html",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19nat-TX-postelex-culture-1b-kclp/19nat-TX-postelex-culture-1b-kclp-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "Democrats secured a win in Texas this November, ending a Republican winning streak that had persisted for multiple decades, prompting a debate about the state's identity.",
+      "datos": [
+        "Democrats achieved a victory in Texas in November 2026.",
+        "The win ended a Republican winning streak that had lasted for several decades.",
+        "The event occurred within the state of Texas.",
+        "The article discussing the outcome was published on November 20, 2026."
+      ],
+      "conclusion": "The break in the long‑standing Republican dominance signals a potential shift in Texas politics, suggesting future elections may be more competitive and policy priorities could change."
+    },
+    {
+      "title": "La RAE reúne en la Mezquita-Catedral de Córdoba a 21 académicos en un pleno extraordinario dedicado a Góngora",
+      "url": "https://elpais.com/cultura/2026-11-19/la-rae-reune-en-la-mezquita-catedral-de-cordoba-a-21-academicos-en-un-pleno-extraordinario-dedicado-a-gongora.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/6TGJMWIRN5FG7EA4SNBYWVQZOI.jpg?auth=d7659d99ae855b03fa739a8d8436ca74a7d85f306c6fcc9cd389686d474b6e96",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "La Real Academia Española organizó una sesión pública en la Mezquita‑Catedral de Córdoba, reuniendo a 21 académicos para conmemorar el 400.º aniversario de la muerte del poeta Luis de Góngora. El acto formó parte de los eventos programados para 2027 en honor al escritor cordobés.",
+      "datos": [
+        "21 académicos asistieron al pleno extraordinario",
+        "La sesión se celebró en la Mezquita‑Catedral de Córdoba",
+        "Fue un pleno extraordinario convocado por la Real Academia Española",
+        "Se conmemoró el cuarto centenario de la muerte de Luis de Góngora",
+        "Luis de Góngora falleció en 1667",
+        "Los actos forman parte de la programación cultural del año 2027"
+      ],
+      "conclusion": "El evento subraya el compromiso institucional con la difusión del patrimonio literario español y refuerza la vigencia de Góngora como referencia cultural para la educación y la gestión de eventos en el sector cultural."
+    },
+    {
+      "title": "FCC greenlights rule allowing prisons to jam cellphone signals",
+      "url": "https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STKS513_FCC_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "language": "en",
+      "que_paso": "The Federal Communications Commission adopted a unanimous rule permitting state and local prisons to install cellphone‑jamming equipment. The measure was promoted by FCC Chair Brendan Carr and faced opposition from industry groups and civil‑rights organizations over potential interference with lawful calls.",
+      "datos": [
+        "The FCC vote was unanimous, allowing state and local correctional facilities to use jamming devices.",
+        "Section 333 of the Communications Act of 1934 generally bans the use of jammers.",
+        "Chair Brendan Carr said the rule will help stop inmates from using phones to order hits, run drug operations, and traffic people.",
+        "The US Chamber of Commerce and the CTIA warned the rule could block lawful communications, including 911 calls.",
+        "Commissioner Anna Gomez, the sole Democrat on the commission, voted for the rule despite concerns about unintended consequences.",
+        "The FCC requires prisons to obtain a license, meet technical standards, and notify nearby communities before deploying jamming technology."
+      ],
+      "conclusion": "The rule could reduce contraband phone abuse in prisons, but it also introduces risks of disrupting emergency services and raises civil‑rights issues, making compliance and community notification critical."
+    },
+    {
+      "title": "Bleeding Through Guitarist John Arnold Is Recovering From A Heart Attack",
+      "url": "https://www.theprp.com/2026/11/19/news/bleeding-through-guitarist-john-arnold-is-recovering-from-a-heart-attack/",
+      "image": "https://www.theprp.com/app/uploads/2026/11/johnarnoldlarge-1200x675.webp",
+      "source": "The PRP",
+      "language": "en",
+      "que_paso": "Bleeding Through guitarist John Arnold was hospitalized after suffering a heart attack, and the band posted an online statement on November 19 urging fans to cherish loved ones. Arnold indicated his intention to leave the hospital and resume performing with both Bleeding Through and his side project Cerebellion.",
+      "datos": [
+        "John Arnold is the guitarist for the veteran metalcore band Bleeding Through.",
+        "He suffered a heart attack and was hospitalized.",
+        "The band announced the incident on November 19, 2026 via an online post.",
+        "The posted message read: “Let this remind us all to always tell your people you love them. Life is precious.”",
+        "Arnold expressed a goal to return to the stage with Bleeding Through and the side project Cerebellion."
+      ],
+      "conclusion": "His recovery timeline will affect upcoming tour dates and highlights the importance of health awareness for touring musicians."
+    },
+    {
+      "title": "You can now buy a Steam Machine without getting on a waitlist",
+      "url": "https://www.theverge.com/games/1038010/valve-steam-machine-waitlist-supply",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268581_Steam_Machine_AKrales_0372.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "language": "en",
+      "que_paso": "Valve has opened direct purchase for its 512GB Steam Machine, removing the previous waitlist requirement, while the 2TB version remains unavailable and its waitlist is being closed. The 512GB units are listed with an estimated delivery window of three to five business days, whereas the 2TB units have more demand than supply.",
+      "datos": [
+        "Valve announced the change on November 20, 2026.",
+        "The 512GB Steam Machine is priced at $1,049 without a controller.",
+        "The 2TB Steam Machine is priced at $1,349 without a controller.",
+        "Estimated delivery for the 512GB model is three to five business days.",
+        "Valve launched the Steam Machine in June 2026 after delaying the early‑2026 launch due to a memory and storage crisis.",
+        "The waitlist for the 2TB model is being closed because demand exceeds available units."
+      ],
+      "conclusion": "The immediate availability of the 512GB model lets operations teams acquire hardware quickly for AI workloads, but the scarcity of the 2TB version means capacity planning must account for limited high‑storage units."
+    },
+    {
+      "title": "Nvidia se enfrenta a una nueva amenaza tras la destitución de Jensen Huang: la pérdida de sus mejores ingenieros",
+      "url": "https://www.xataka.com/empresas-y-economia/nvidia-se-enfrenta-a-nueva-amenaza-destitucion-jensen-huang-perdida-sus-mejores-ingenieros",
+      "image": "https://i.blogs.es/803fae/jensen-huang/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "Tras la destitución de Jensen Huang, el consejo nombró a Colette Kress como CEO interina y anunció aumentos salariales y más acciones para los ingenieros de Nvidia durante la presentación de resultados del tercer trimestre, con el objetivo de evitar una fuga de talento hacia la nueva empresa de Huang. La medida se produce en medio de una caída de $550.000 millones en el valor de mercado de la compañía y una petición de 180.000 firmas para que Huang regrese.",
+      "datos": [
+        "Nvidia reportó ingresos de 115.800 millones de dólares en el tercer trimestre, un 103 % más que el año anterior.",
+        "El valor de mercado de Nvidia ha disminuido en aproximadamente 550.000 millones de dólares desde la destitución de Huang.",
+        "La compensación mediana de un ingeniero en Nvidia es de 233.675 euros al año, según Levels.fyi.",
+        "El plan de compra de acciones para empleados ha incrementado su valor un 3.776 % desde 2019, según Fortune.",
+        "Se estima que la pérdida de entre cinco y diez líderes técnicos tendría un efecto desproporcionado en la empresa, según Brad Gastwirth de Circular Technology."
+      ],
+      "conclusion": "Retener a los ingenieros clave es esencial para que Nvidia mantenga su ventaja en el diseño de chips y recupere el valor perdido; los incentivos salariales y de acciones buscan estabilizar la plantilla en un momento de vulnerabilidad competitiva."
+    },
+    {
+      "title": "Dustin Moskovitz, an Early Anthropic Investor, Feels a Bit Uneasy About the IPO",
+      "url": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html",
+      "image": "https://static01.nyt.com/images/2026/11/20/business/00anthropic-MOSKOVITZ/00anthropic-MOSKOVITZ-mediumSquareAt3X.jpg",
+      "source": "NYT Tech",
+      "language": "en",
+      "que_paso": "Dustin Moskovitz, a Facebook co‑founder, sees his early stake in AI startup Anthropic increase in value as the company moves toward an initial public offering, but he has expressed discomfort about the upcoming IPO.",
+      "datos": [
+        "Dustin Moskovitz co‑founded Facebook in 2004",
+        "Moskovitz invested in Anthropic during its seed round",
+        "Anthropic, an artificial‑intelligence research company, announced plans for an IPO in 2026",
+        "Moskovitz publicly said he feels uneasy about the IPO",
+        "Anthropic’s valuation has risen since Moskovitz’s investment"
+      ],
+      "conclusion": "His unease signals that even successful early backers are cautious about taking AI firms public, suggesting potential volatility for investors and the need for careful market timing."
+    },
+    {
+      "title": "La Policía sanciona a un delegado sindical por publicar en redes una imagen suya sujetando por los grilletes a dos detenidos",
+      "url": "https://elpais.com/espana/2026-11-19/la-policia-sanciona-a-un-delegado-sindical-por-publicar-en-redes-una-imagen-suya-sujetando-por-los-grilletes-a-dos-detenidos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/D3W7ZT3V5FFV5LGP4WFHBY4YGQ.jpg?auth=39754e498cbf42a958fc382ec467152ef0c72b106e14e58cc2f8ac4cde28c5fe&width=1200",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "La Dirección General de la Policía suspendió durante tres meses de empleo y sueldo a David Gutiérrez, delegado sindical de la CEP adscrito a la Jefatura Superior de Policía de Madrid, por publicar sin autorización varias imágenes suyas en Instagram, entre ellas una sujetando a dos detenidos con la leyenda \"busted\". La sanción se basa en dos infracciones graves del régimen disciplinario y el agente ha anunciado que recurrirá la medida ante los tribunales.",
+      "datos": [
+        "David Gutiérrez, portavoz del sindicato CEP, recibió una suspensión total de tres meses de empleo y sueldo",
+        "La primera sanción de un mes se originó por una historia de Instagram publicada el 14 de diciembre de 2025",
+        "El documento de la DGP que propone la sanción está fechado el 10 de julio de 2026",
+        "Las otras tres imágenes fueron difundidas el 27 de mayo y el 25 de junio de 2024 y el 1 de agosto de 2025",
+        "Las infracciones se encuadran en el artículo 8, apartados X y S, del régimen disciplinario de la Policía Nacional"
+      ],
+      "conclusion": "La medida refuerza la normativa sobre el uso de redes sociales por parte del personal policial y advierte a otros agentes sobre las consecuencias de divulgar imágenes sin autorización, lo que puede afectar la imagen institucional y las relaciones sindicales."
+    },
+    {
+      "title": "Periphery Dropped An Ocarina Solo Into Their Live Set Via The New ‘The Legend Of Zelda’ Remake",
+      "url": "https://www.theprp.com/2026/11/19/news/periphery-dropped-an-ocarina-solo-into-their-live-set-via-the-new-the-legend-of-zelda-remake/",
+      "image": "https://www.theprp.com/app/uploads/2026/11/peripheryocarinasolo-1200x675.webp",
+      "source": "The PRP",
+      "language": "en",
+      "que_paso": "Spencer Sotelo, guitarist for Periphery, added a digital ocarina solo to a live rendition of their song “Wildfire” this week, using a Nintendo Switch 2 and the newly remade The Legend of Zelda: Ocarina of Time. The performance aligned with the release of a new ocarina peripheral bundled with the game remake.",
+      "datos": [
+        "Spencer Sotelo performed a digital ocarina solo during a live version of “Wildfire” this week.",
+        "He used a Nintendo Switch 2 console and a copy of the new remake of The Legend of Zelda: Ocarina of Time.",
+        "A new ocarina peripheral was released alongside the remake of the game.",
+        "The original The Legend of Zelda: Ocarina of Time was first released in 1998.",
+        "The game has been widely hailed as the best video game of all time."
+      ],
+      "conclusion": "The move illustrates how metal bands are adopting gaming hardware to create novel live‑performance elements, offering a practical model for integrating interactive tech into concerts."
+    },
+    {
+      "title": "Extraditado a EEUU un coronel retirado de Bolivia acusado de tráfico de drogas y de armas",
+      "url": "https://www.europapress.es/internacional/noticia-extraditado-eeuu-coronel-retirado-bolivia-acusado-trafico-drogas-armas-20261119200436.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261119200436_1200.jpg",
+      "source": "Europa Press Tecnología",
+      "language": "es",
+      "que_paso": "El jueves, Bolivia entregó a Henry Richard Crespo Guzmán, coronel retirado de las Fuerzas Armadas, a la justicia estadounidense tras la solicitud de EE. UU., por presuntos vínculos con el narcotráfico y el tráfico de armas.",
+      "datos": [
+        "Henry Richard Crespo Guzmán es un coronel retirado de las Fuerzas Armadas de Bolivia",
+        "La extradición se realizó el jueves",
+        "Estados Unidos ha solicitado su entrega por supuestos delitos de narcotráfico y tráfico de armas",
+        "La autoridad boliviana que realizó la entrega fue el Ministerio de Gobierno",
+        "El caso se enmarca en la cooperación judicial entre Bolivia y EE. UU."
+      ],
+      "conclusion": "La medida refuerza la colaboración bilateral en materia de seguridad y alerta sobre la presencia de personal militar retirado en redes ilícitas."
+    },
+    {
+      "title": "La encuesta antes del debate: ligera ventaja del PP y muy clara del bloque derechista",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/la-encuesta-antes-del-debate-ligera-ventaja-del-pp-y-muy-clara-del-bloque-derechista.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/F5MGSNP7TRHANFPHXKO3EGHM7Y.png?auth=1915fd5cfb3e28c44967b14e6f5f41c07bb238c172d0c89ceb68a44650a867df&width=1200",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "El debate cara a cara entre Pedro Sánchez y Alberto Feijóo se celebra mientras el último tracking de 40dB muestra al PP con una ligera ventaja de dos puntos sobre el PSOE, dentro de un margen de error del 2,2 %. Ambos bloques presentan proyecciones de escaños diferentes y Sánchez intenta usar el debate para reducir la brecha en la preferencia presidencial y estimular la participación electoral.",
+      "datos": [
+        "El PP lidera al PSOE por 2 puntos según la encuesta de 40dB del jueves",
+        "El margen de error de la encuesta es del 2,2 %",
+        "Se proyectan 192 escaños para el bloque de Feijóo frente a 155 para los partidos que apoyan al Gobierno de Sánchez",
+        "El PP obtendría 132 diputados, cuatro menos que la cifra actual, al contar la coalición con UPN en Navarra",
+        "El PSOE alcanzaría 120 diputados, uno menos que en 2023",
+        "El 31,8 % de los encuestados prefieren a Sánchez como presidente frente al 23,1 % que prefieren a Feijóo"
+      ],
+      "conclusion": "La estrecha ventaja del PP y la baja previsión de participación hacen que la movilización de votantes sea crucial para que el PSOE pueda revertir la tendencia en la jornada electoral."
+    },
+    {
+      "title": "La defensora del pueblo en funciones elimina el área de Igualdad y diluye la de Migraciones un día después de asumir el cargo",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/la-defensora-del-pueblo-en-funciones-elimina-el-area-de-igualdad-y-diluye-la-de-migraciones-un-dia-despues-de-asumir-el-cargo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/FN5ZMG6FLC7EOAN4HQYKEETXII.jpg?auth=c1a54bbbf98ec2fe75c166626f3c224edb299f0effbd13fbeb6cadf31f24931c",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "La defensora del pueblo en funciones, Teresa Jiménez‑Becerril, reestructuró la oficina eliminando el área de Igualdad y reduciendo la de Migraciones apenas un día después de asumir el cargo.",
+      "datos": [
+        "Teresa Jiménez‑Becerril, exdiputada del Partido Popular, asumió como defensora del pueblo en funciones el 19 de noviembre de 2026.",
+        "El puesto quedó vacante tras la expiración del mandato de Ángel Gabilondo.",
+        "En la reestructuración, el área de Igualdad fue suprimida completamente.",
+        "El área de Migraciones fue diluida, integrándose parcialmente en otras unidades de la Defensoría.",
+        "La decisión se comunicó mediante un comunicado interno de la Defensoría el 20 de noviembre de 2026."
+      ],
+      "conclusion": "La medida indica un cambio de prioridades institucionales que podría limitar la atención a la igualdad de género y a los derechos de los migrantes en el ámbito español."
+    },
+    {
+      "title": "How Much Do You Know About NASA’s Voyager Mission?",
+      "url": "https://www.nytimes.com/quiz/2026/11/18/science/voyager-lightday.html",
+      "image": "https://static01.nyt.com/images/2026/11/18/science/18SCI-VOYAGER-QUIZ/18SCI-VOYAGER-QUIZ-facebookJumbo-v2.jpg",
+      "source": "NYT Science",
+      "language": "en",
+      "que_paso": "An educational article from NASA uses a quiz format to spotlight the Voyager missions and a range of current space topics, linking the historic Golden Record to modern initiatives such as astronaut recruitment and recent discoveries. It references the signal delay from Voyager 1, the potential for life in sulfuric acid, a Martian meteorite found in the Sahara, and a newly identified dwarf‑planet candidate, 2026 ED138, discovered by the Vera C. Rubin Observatory.",
+      "datos": [
+        "Both Voyager 1 and Voyager 2 carry a Golden Record containing sounds and images of Earth",
+        "NASA is recruiting its next class of astronauts for low‑Earth‑orbit and lunar missions",
+        "A meteorite discovered in the Sahara four years ago was identified as a piece of Mars dating back 4.1 billion years",
+        "The object designated 2026 ED138, spotted beyond Pluto, is one of the first dwarf‑planet candidates found by the Vera C. Rubin Observatory in Chile"
+      ],
+      "conclusion": "The piece reinforces public interest in space science while highlighting concrete operational developments—new astronaut cohorts and recent extraterrestrial findings—that can inform strategic planning in technology and operations."
+    },
+    {
+      "title": "Marsha Linehan Has Died. She Transformed Treatment for Personality Disorder.",
+      "url": "https://www.nytimes.com/2026/11/19/well/mind/marsha-linehan-dead.html",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18obit-linehan-lfcp/18obit-linehan-lfcp-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "Marsha Linehan, the psychologist who created dialectical behavior therapy, has passed away, and her recent public admission that she herself struggled with borderline personality disorder as a child adds personal context to her professional legacy.",
+      "datos": [
+        "Marsha Linehan died.",
+        "She transformed treatment for personality disorder.",
+        "Her therapeutic methods proved effective.",
+        "She disclosed she had battled borderline personality disorder during childhood."
+      ],
+      "conclusion": "Her death closes a seminal career while her personal revelation underscores the credibility of DBT and may encourage openness about clinicians' own mental‑health experiences."
+    },
+    {
+      "title": "\"You’re right\"—LLMs will get climate info wrong if you ask",
+      "url": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-465648135-1024x648.jpg",
+      "source": "Ars Technica",
+      "language": "en",
+      "que_paso": "Researchers from University College London and UNESCO evaluated 33 large language models, including frontier systems like Claude Fable 5 and GPT‑5.6 Sol, on 600 climate‑related benchmark questions to see how accurately they recall facts and assess policy impacts.",
+      "datos": [
+        "33 models were tested",
+        "600 questions were used across multiple benchmark sets",
+        "Flagship frontier models answered about 78% of confidence‑in‑scientists questions correctly, while the smallest open‑weight models answered about 47%",
+        "For standard factual benchmarks, frontier and large open‑weight models scored roughly 90% and small open‑weight models scored in the 70s",
+        "When asked to evaluate evidence, the best models achieved around 70% accuracy and the worst fell below 40%",
+        "Single‑policy impact questions were answered correctly between 72% and 89%, but combined‑policy and magnitude questions performed at random‑guess levels"
+      ],
+      "conclusion": "The mixed performance shows LLMs can provide misleading climate policy advice, so operators must verify outputs before relying on them for decisions."
+    },
+    {
+      "title": "\"Nunca he usado Ozempic. Nunca me he sometido a ninguna cirugía facial\": la actriz Florence Pugh critica las especulaciones sobre su cuerpo",
+      "url": "https://www.bbc.com/mundo/articles/crd61505g31po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/news/1200/branded_mundo/be9e/live/b423cbd0-e3fa-11f1-a1b0-810734adec41.jpg",
+      "source": "BBC Mundo",
+      "language": "es",
+      "que_paso": "Florence Pugh respondió a la oleada de comentarios sobre su apariencia tras su aparición en los Governors Awards, negando haber usado Ozempic o haberse sometido a cirugía facial y expresando su molestia por la presión pública sobre su cuerpo.",
+      "datos": [
+        "Publicó un mensaje en Instagram donde afirma 'Nunca he usado Ozempic. Nunca me he sometido a ninguna cirugía facial'.",
+        "Indicó haber perdido un kilogramo y que su objetivo principal es desarrollar músculo.",
+        "Mencionó que ahora puede hacer seis flexiones en barra y levantar 110 kg.",
+        "Fue nominada al Oscar por 'Mujercitas' en 2020 y ha interpretado a Yelena Belova en 'Spider‑Man: Brand New Day'.",
+        "La profesora Heather Widdows, de Everyday Lookism, comentó a BBC News que los estándares de belleza están cambiando y son cada vez más imposibles de cumplir."
+      ],
+      "conclusion": ""
+    },
+    {
+      "title": "Anthropic Stock Sputters After Historic IPO",
+      "url": "https://futurism.com/artificial-intelligence/anthropic-stock-sputters-after-historic-ipo",
+      "image": "https://futurism.com/wp-content/uploads/2026/11/anthropic-stock-sputters-after-historic-ipo.jpg?w=1200",
+      "source": "Futurism",
+      "language": "en",
+      "que_paso": "Anthropic’s debut on the public market saw its stock spike above $111 before quickly dropping below $100 and settling near $97, marking a volatile start for the first pure‑AI company to list. The offering occurred amid heightened investor caution over AI‑related debt, data‑center spending, and a recent scandal involving Nvidia’s CEO, which together dampened market enthusiasm.",
+      "datos": [
+        "The IPO price was $83 per share, with the opening price exceeding $111 before falling to about $97.",
+        "Anthropic’s market capitalization after the IPO was estimated at over $1.3 trillion, short of the $2 trillion originally projected.",
+        "The company reported a $42 billion loss in the most recent fiscal year, surpassing its 2024 losses.",
+        "Revenue grew twelve‑fold in 2025 compared with the prior year.",
+        "SpaceX’s public valuation in June was $1.75 trillion, providing a recent benchmark for large tech IPOs.",
+        "Nvidia CEO Jensen Huang resigned the week before the IPO amid allegations of ties to a Chinese spy, prompting regulatory scrutiny of the AI sector."
+      ],
+      "conclusion": "The sharp price swing and massive valuation gap highlight the risk of investing in AI firms lacking profitability, underscoring the need for rigorous financial scrutiny before allocating operational budgets to such ventures."
     }
   ]
 }
