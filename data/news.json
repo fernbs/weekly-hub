@@ -1,21 +1,148 @@
 {
-  "generated": "2026-11-22T02:18:20.678675",
-  "count": 68,
+  "generated": "2026-11-23T02:35:14.590605",
+  "count": 48,
   "articles": [
     {
-      "title": "Trump Moves to Restrict Congressional Oversight of Contractors",
-      "url": "https://www.nytimes.com/2026/11/21/us/politics/trump-congressional-oversight-contractors.html",
-      "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21dc-trump-oversight-gpmz/21dc-trump-oversight-gpmz-mediumSquareAt3X.jpg",
+      "title": "Israeli Political Leaders Denounce ‘Jewish Terrorism’ After West Bank Attacks",
+      "url": "https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html",
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-westbank-settler-violence01-photo-vqmk/22int-westbank-settler-violence01-photo-vqmk-mediumSquareAt3X.jpg",
       "source": "New York Times",
       "language": "en",
-      "que_paso": "President Donald Trump signed an executive order that narrows Congress's authority to review contracts awarded by the federal government. The order is aimed at thwarting Democratic‑led investigations into the administration's use of contractors, continuing a pattern of limiting legislative scrutiny.",
+      "que_paso": "Extremist Israeli settlers launched a series of violent raids on Palestinian villages in the West Bank over the weekend, prompting opposition politicians to publicly condemn the attacks as \"Jewish terrorism\" and call for a strong governmental response.",
       "datos": [
-        "President Donald Trump issued an executive order",
-        "The order seeks to restrict congressional oversight of government contractors",
-        "It is intended to blunt Democratic plans to investigate the administration's actions",
-        "The measure is described as the latest effort to limit legislative scrutiny"
+        "The raids occurred during the weekend of 22–23 November 2026.",
+        "The attacks were carried out by extremist Israeli settlers in West Bank Palestinian villages.",
+        "Opposition leaders within the Netanyahu coalition publicly labeled the incidents \"Jewish terrorism\".",
+        "Opponents demanded a forceful response from the Israeli government.",
+        "The condemnation was reported in Israeli media on 23 November 2026."
       ],
-      "conclusion": "Reducing oversight may decrease transparency and increase compliance risk for companies working with federal contracts, requiring tighter internal controls and monitoring."
+      "conclusion": "The denunciation signals rising political pressure on Netanyahu to tighten security measures in the West Bank, potentially reshaping Israeli policy toward settler violence."
+    },
+    {
+      "title": "Is Mexico Stepping Up in the War on Drugs?",
+      "url": "https://www.nytimes.com/2026/11/22/world/americas/mexico-us-cartel-arrests.html",
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-mexico-analysis01a-photo-wkjz/22int-mexico-analysis01a-photo-wkjz-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "Mexican security forces have recently captured several high‑profile drug kingpins, signaling an intensified enforcement effort. Analysts interpret the arrests as a possible turning point in Mexico's ongoing war against organized narcotics trafficking, which has long been marked by cartel violence.",
+      "datos": [
+        "Several powerful drug kingpins were taken down by Mexican forces",
+        "The operations were carried out by Mexican security agencies",
+        "The article was published on November 23, 2026",
+        "Some experts describe the arrests as the start of a new chapter in Mexico's drug war",
+        "The takedowns are described as recent events"
+      ],
+      "conclusion": "The arrests suggest a shift toward more aggressive anti‑drug actions, which could reshape cartel dynamics and impact regional security planning."
+    },
+    {
+      "title": "U.S. Tracked Alice Huang’s Contacts With China Spy Agency During Nvidia Affair",
+      "url": "https://www.nytimes.com/2026/11/22/us/politics/alice-huang-china-spy-agency-nvidia.html",
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22dc-spy-chip-fpvj/22dc-spy-chip-fpvj-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "U.S. intelligence agencies determined that Alice Huang exchanged messages with China’s Ministry of State Security while she was romantically linked to Nvidia CEO Jensen Huang, a relationship that coincided with a probe into alleged AI chip espionage.",
+      "datos": [
+        "Alice Huang was identified as the central figure in an AI chip espionage investigation.",
+        "U.S. intelligence agencies tracked her communications.",
+        "She communicated with China’s Ministry of State Security.",
+        "During that time she was in a relationship with Jensen Huang, Nvidia’s founder and CEO.",
+        "The case is tied to concerns over the theft of AI chip technology."
+      ],
+      "conclusion": "The revelation highlights a direct channel through which Chinese intelligence may have accessed U.S. AI hardware designs, underscoring the need for stricter security controls around personnel with access to critical chip projects."
+    },
+    {
+      "title": "Democrats Clinch 258 House Seats, an Election-Year Record This Century",
+      "url": "https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html",
+      "image": "",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "Democrats secured 258 seats in the U.S. House of Representatives following the recent midterm elections, giving them the largest majority any party has achieved in a national election in the past thirty years.",
+      "datos": [
+        "Democrats won 258 House seats",
+        "The victory follows sweeping midterm wins for the party",
+        "It represents the largest House majority in a national election for either party in three decades",
+        "The result sets a new record for this century"
+      ],
+      "conclusion": "With a commanding majority, Democrats will be able to advance their legislative agenda more easily, affecting policy areas from technology regulation to business operations."
+    },
+    {
+      "title": "La aerolínea Delta recupera una caída del sistema de pesado para el despegue que ha provocado retrasos en vuelos de EEUU",
+      "url": "https://www.europapress.es/internacional/noticia-aerolinea-delta-recupera-caida-sistema-pesado-despegue-provocado-retrasos-vuelos-eeuu-20261122233825.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261122233825_1200.jpg",
+      "source": "Europa Press Tecnología",
+      "language": "es",
+      "que_paso": "Delta Air Lines informó que ha restablecido el sistema de pesaje y equilibrio necesario para la configuración de despegue, tras una caída que había generado retrasos en numerosos vuelos dentro de Estados Unidos. El problema se resolvió después de varias horas de interrupción y se sitúa como el último incidente de una serie de fallos que han afectado la aviación del país.",
+      "datos": [
+        "Delta Air Lines es la aerolínea estadounidense involucrada.",
+        "El fallo afectó al sistema de pesaje y equilibrio utilizado para la configuración de despegue.",
+        "Los retrasos se produjeron en vuelos de todo el territorio de Estados Unidos.",
+        "Este incidente es el último de una serie de fallos que han impactado la aviación estadounidense en los últimos meses."
+      ],
+      "conclusion": "La recuperación del sistema muestra la importancia de contar con redundancias operativas para evitar interrupciones masivas en la red de vuelos, y alerta a los gestores a reforzar la vigilancia de los sistemas críticos."
+    },
+    {
+      "title": "Sánchez dice que no aceptará un referéndum en Cataluña aunque necesite los votos de Junts o ERC para gobernar",
+      "url": "https://www.europapress.es/nacional/noticia-sanchez-dice-no-aceptara-referendum-cataluna-necesite-votos-junts-erc-gobernar-20261122231957.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261122231957_120.jpg",
+      "source": "Europa Press Ciencia",
+      "language": "es",
+      "que_paso": "Pedro Sánchez, presidente del Gobierno y candidato del PSOE, declaró que no autorizará un referéndum de autodeterminación en Cataluña después de las elecciones generales del 29 de noviembre. Aun así, reconoció que podría necesitar el apoyo de los partidos independentistas Junts y ERC para formar gobierno. Su posición subraya la tensión entre la agenda de unidad nacional y la necesidad de acuerdos parlamentarios.",
+      "datos": [
+        "Pedro Sánchez es presidente del Gobierno y candidato del PSOE a la reelección",
+        "El referéndum de autodeterminación en Cataluña está descartado por Sánchez",
+        "Las elecciones generales se celebrarán el 29 de noviembre de 2026",
+        "Sánchez podría necesitar los votos de Junts y ERC para gobernar",
+        "Junts y ERC son formaciones independentistas catalanas"
+      ],
+      "conclusion": "Esta postura limita la presión independentista y condiciona las negociaciones de coalición, obligando a los partidos independentistas a buscar otras palancas de influencia."
+    },
+    {
+      "title": "Sánchez defiende en ‘Salvados’ que serán los españoles y no la “opinión publicada” quien le vuelva a hacer presidente",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-22/sanchez-defiende-en-salvados-que-seran-los-espanoles-y-no-la-opinion-publicada-quien-le-vuelva-a-hacer-presidente.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/TKHJX3GRMRE4FN5QLXDTIDWY5A.JPG?auth=d5996d163047788f353859418939bf4a608bfcd4f165290ea73d0e91280c3003",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Pedro Sánchez apareció en el programa televisivo “Salvados” y defendió que serán los ciudadanos, no las encuestas publicadas, quienes le devolverán la presidencia, tras declararse ganador del debate cara a cara con Alberto Feijóo.",
+      "datos": [
+        "Pedro Sánchez es el presidente del Gobierno de España",
+        "Alberto Feijóo es el líder del Partido Popular y principal rival de Sánchez",
+        "El debate cara a cara entre Sánchez y Feijóo tuvo lugar recientemente y Sánchez se consideró vencedor",
+        "Sánchez concedió la entrevista al programa “Salvados”",
+        "Durante la entrevista afirmó que “los datos tienen muy buena pinta” y que confía en la decisión de los españoles"
+      ],
+      "conclusion": "El mensaje refuerza la confianza de Sánchez en su posición electoral y sugiere que basará su estrategia en datos internos más que en sondeos externos, lo que puede influir en la percepción de los votantes antes de las próximas elecciones."
+    },
+    {
+      "title": "El Gobierno de Líbano condena la visita de una portavoz del Ejército israelí a un colegio del sur de Líbano",
+      "url": "https://www.europapress.es/internacional/noticia-gobierno-libano-condena-visita-portavoz-ejercito-israeli-colegio-sur-libano-20261122215353.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261122215353_120.jpg",
+      "source": "Europa Press Tecnología",
+      "language": "es",
+      "que_paso": "El primer ministro libanés, Nauaf Salam, rechazó y condenó la visita de la portavoz en árabe de las Fuerzas Armadas israelíes a un colegio de la localidad cristiana de Debel, en el sur de Líbano. La visita se realizó el domingo en una zona que el Líbano considera desmilitarizada, lo que generó una nueva polémica en las relaciones entre ambos países.",
+      "datos": [
+        "Nauaf Salam, primer ministro de Líbano, emitió su rechazo el domingo 23 de noviembre de 2026",
+        "Ella Waweya es la portavoz en árabe de las Fuerzas Armadas de Israel",
+        "El colegio visitado está en Debel, una localidad cristiana del sur de Líbano",
+        "El área donde se ubica Debel es descrita por el gobierno libanés como zona supuestamente desmilitarizada",
+        "El Gobierno de Líbano emitió una condena oficial a la visita"
+      ],
+      "conclusion": "El episodio subraya la fragilidad del statu quo en la frontera sur y advierte de posibles escaladas diplomáticas que podrían afectar la seguridad operativa en la región."
+    },
+    {
+      "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
+      "image": "https://i.guim.co.uk/img/media/4c4701470b09edcfeba9cbda93c6910a248a274b/0_116_6218_4975/master/6218.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c8e8b50f80c4d0b9b0893fe618c22bc9",
+      "source": "The Guardian AI",
+      "language": "en",
+      "que_paso": "Senator John Kennedy questioned the U.S. administration's handling of a suspected Chinese espionage case tied to Nvidia after former CEO Jensen Huang resigned amid allegations of an affair with a Chinese spy linked to Megaspeed International, which allegedly circumvented export controls on advanced AI chips. Kennedy demanded testimony from Commerce Secretary Howard Lutnick and Treasury Secretary Scott Bessent about how China obtained the chips.",
+      "datos": [
+        "Jensen Huang stepped down as Nvidia CEO on 12 November 2026.",
+        "The alleged affair involved Alice Huang (also known as Huang Le), executive director of Megaspeed International.",
+        "Megaspeed International facilitated approximately $12 billion in chip sales in violation of U.S. export controls.",
+        "National intelligence director Jay Clayton said China obtained Nvidia's most advanced AI chips.",
+        "Senator John Kennedy made the remarks on NBC's Meet the Press on Sunday, 23 November 2026."
+      ],
+      "conclusion": "The episode underscores gaps in export‑control enforcement and corporate compliance, prompting calls for tighter oversight to protect U.S. AI technology from foreign acquisition."
     },
     {
       "title": "Why Nostalgia for Tamagotchis, the Virtual Pets, Won’t Die",
@@ -23,1089 +150,638 @@
       "image": "",
       "source": "NYT Tech",
       "language": "en",
-      "que_paso": "A wave of renewed interest in Tamagotchis is sweeping both Millennials and Gen Z, with the pocket‑size virtual pets seeing a surge in sales and social media buzz. The revival is being driven by nostalgia and a broader appetite for analog, low‑tech entertainment among younger consumers.",
+      "que_paso": "Millennials are once again buying and playing Tamagotchis, and the trend is spreading to Gen Z, reviving the pocket‑size virtual pet that first captured attention three decades ago.",
       "datos": [
-        "Bandai introduced the Tamagotchi in Japan in 1996, marking its 30‑year anniversary in 2026.",
-        "Worldwide sales of Tamagotchis exceeded 76 million units by 2020, according to Bandai’s corporate reports.",
-        "Bandai launched limited‑edition Tamagotchi models in 2024, featuring retro colors and new character skins.",
-        "Millennials (born roughly 1981‑1996) and Gen Z (born roughly 1997‑2012) are the primary buyer groups cited in recent market analyses.",
-        "A 2025 NPD Group report noted a 12 % year‑over‑year increase in sales of handheld analog toys, with Tamagotchis accounting for a significant share."
+        "The Tamagotchi was first introduced roughly 30 years ago.",
+        "Millennials are currently engaging with the device again.",
+        "Gen Z consumers are also participating in the revival.",
+        "The product is described as a pocket‑size virtual pet game.",
+        "The article frames the resurgence as driven by nostalgia."
       ],
-      "conclusion": "The resurgence shows that tactile, nostalgia‑driven products can capture cross‑generational demand, suggesting a viable market for analog gaming and collectible tech in an increasingly digital landscape."
+      "conclusion": "The cross‑generational comeback suggests a viable market for retro‑style interactive toys, especially those that can integrate modern AI features."
     },
     {
-      "title": "Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man",
-      "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html",
-      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-cartel-ticktock-photo1-bpwm/22int-cartel-ticktock-photo1-bpwm-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "U.S. and Mexican law‑enforcement agencies coordinated for several weeks, using drones, text‑message monitoring and diversion tactics, to locate and apprehend Fausto Isidro Meza Flores, a senior leader of a Mexican drug cartel. The operation concluded with his arrest in Mexico, ending a joint intelligence effort that began after a U.S. official labeled him the country’s most dangerous cartel figure.",
-      "datos": [
-        "Target: Fausto Isidro Meza Flores, identified as a senior leader of a Mexican drug cartel.",
-        "Collaboration: U.S. and Mexican authorities exchanged intelligence for multiple weeks prior to the arrest.",
-        "Methods employed: aerial drones, intercepted text messages, and diversion operations were cited as key tools.",
-        "U.S. official description: the individual was called the most dangerous man in Mexico.",
-        "Location: the capture occurred on Mexican soil (specific city not disclosed)."
-      ],
-      "conclusion": "The capture demonstrates the effectiveness of cross‑border intelligence sharing and the operational value of low‑cost surveillance technologies, suggesting similar tactics could accelerate dismantling of high‑value cartel targets."
-    },
-    {
-      "title": "Trump obstaculiza la supervisión de contratos por un Congreso controlado por los demócratas",
-      "url": "https://elpais.com/us/2026-11-21/trump-obstaculiza-la-supervision-de-contratos-por-un-congreso-controlado-por-los-democratas.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/H5HZ3T7LQVHK5PINP5WXELPFLY.jpg?auth=ad485ecbbe9bddfcd4ebc9048ecaa3d77149f3cedbef0b226a379e7f75bced24",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Trump está intentando bloquear la supervisión de contratos federales mientras el Congreso, controlado por demócratas, prepara investigaciones sobre presuntos abusos y corrupción en su administración. El presidente se está preparando para enfrentar esas indagaciones.",
-      "datos": [
-        "Donald Trump es el presidente de EE. UU.",
-        "El Congreso está bajo mayoría demócrata",
-        "Se anuncian investigaciones sobre supuestos abusos y corrupción del Gobierno de Trump",
-        "Trump busca obstaculizar la supervisión de contratos federales",
-        "El presidente declara estar listo para afrontar las investigaciones"
-      ],
-      "conclusion": "La confrontación aumenta la tensión entre el poder ejecutivo y legislativo y podría retrasar la rendición de cuentas en la gestión de contratos públicos."
-    },
-    {
-      "title": "Kate Middleton habla abiertamente sobre cómo el cáncer cambió su vida en un documental de la BBC",
-      "url": "https://www.bbc.com/mundo/articles/c6gregq1xynwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/news/1200/branded_mundo/c010/live/8fc02730-e5a7-11f1-8df2-d7de7bfd91b9.jpg",
-      "source": "BBC Mundo",
-      "language": "es",
-      "que_paso": "Kate Middleton protagoniza el nuevo documental de la BBC titulado “Heal”, en el que relata su experiencia con el cáncer y muestra imágenes de su recuperación, incluido el Desafío de las Tres Cumbres realizado a principios de 2026.",
-      "datos": [
-        "Midland reveló su diagnóstico de cáncer en marzo de 2024 y comenzó quimioterapia.",
-        "Anunció estar en remisión en enero de 2025 y retomó progresivamente sus deberes reales.",
-        "El documental, de 30 minutos, será presentado por Kirsty Young y cuenta con la dirección de fotografía de Will Warr.",
-        "En el programa se incluye el Desafío de las Tres Cumbres, completado en un día a principios de 2026.",
-        "En la primera semana de noviembre de 2026 viajó a la India para la ceremonia del Premio Earthshot con el príncipe William, su primera visita al extranjero juntos desde el tratamiento."
-      ],
-      "conclusion": "El testimonio de una figura pública como la princesa aporta visibilidad y apoyo a pacientes oncológicos, demostrando que la recuperación implica un proceso integral más allá de la remisión clínica."
-    },
-    {
-      "title": "The Army Rejected a Cleaner Option to Destroy Lead-Laced Explosives in Iowa",
-      "url": "https://www.nytimes.com/2026/11/21/climate/army-lead-azide-blast.html",
-      "image": "https://static01.nyt.com/images/2026/11/21/multimedia/00CLI-IOWA-BLAST-ALTERNATIVE-wbmg/00CLI-IOWA-BLAST-ALTERNATIVE-wbmg-mediumSquareAt3X-v2.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "The Army cancelled a contract with a disposal firm and instead decided to use a controlled explosion to destroy lead‑contaminated explosives, a method that could spread lead dust across the state of Iowa. The decision reverses the earlier plan to convert the munitions into non‑hazardous waste.",
-      "datos": [
-        "The Army initially hired an external firm to neutralize the explosives.",
-        "The contract with the firm was terminated before the disposal process began.",
-        "The Army opted for a controlled detonation as the disposal method.",
-        "The chosen method could disperse lead particles into the surrounding environment.",
-        "The operation is slated to occur in Iowa."
-      ],
-      "conclusion": "The shift to a blast raises environmental and health concerns, underscoring the need for safer demilitarization practices."
-    },
-    {
-      "title": "Jeffries promete medidas \"agresivas\" para poner fin a la guerra de Irán en la primera semana del nuevo Congreso",
-      "url": "https://www.europapress.es/internacional/noticia-jeffries-medidas-agresivas-poner-fin-guerra-iran-primera-semana-nuevo-congreso-20261121231552.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261121231552_1200.jpg",
-      "source": "Europa Press Tecnología",
-      "language": "es",
-      "que_paso": "El líder demócrata de la Cámara, Hakeem Jeffries, anunció que, al iniciar el nuevo Congreso con mayoría demócrata en enero, se activarán medidas calificadas de \"agresivas\" para terminar el conflicto con Irán. La declaración se realizó mientras se prepara la transición de poder en Washington y refleja la intención de cambiar la política exterior estadounidense.",
-      "datos": [
-        "Hakeem Jeffries es portavoz del Partido Demócrata en la Cámara de Representantes de EE. UU.",
-        "El nuevo Congreso de mayoría demócrata tomará posesión en enero de 2027.",
-        "Jeffries prometió implementar \"medidas agresivas\" para poner fin a la guerra con Irán.",
-        "La declaración se difundió el 22 de noviembre de 2026.",
-        "El conflicto con Irán se describe como una \"guerra\" en la comunicación oficial."
-      ],
-      "conclusion": "Este anuncio indica una posible reorientación de la política estadounidense hacia Irán, lo que podría generar cambios operativos y diplomáticos que afectarán tanto a la seguridad regional como a los intereses comerciales de EE. UU."
-    },
-    {
-      "title": "Zverev, el rey cuestionado al que encara Alcaraz: “Soy el único número uno que debe justificarse”",
-      "url": "https://elpais.com/deportes/tenis/2026-11-21/zverev-el-rey-cuestionado-al-que-encara-alcaraz-soy-el-unico-numero-uno-que-debe-justificarse.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/TD6YGFJQUFI2LH2UFJ44M7OPIA.jpg?auth=938474ea836c24d637510ecaabbe777e182d409675aa9f3fbca6f8faf4aca07f",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Alexander Zverev venció a Daniil Medvedev en semifinal con sets 7‑6(0) y 6‑4 en 1 h 27 min, y se prepara para la final contra Carlos Alcaraz a las 18:00.",
-      "datos": [
-        "Zverev (Alemania) derrotó a Medvedev (Rusia)",
-        "Resultado: 7‑6(0), 6‑4",
-        "Duración del partido: 1 hora 27 minutos",
-        "La final está programada para las 18:00 contra Carlos Alcaraz",
-        "Zverev declaró: “Soy el único número uno que debe justificarse”"
-      ],
-      "conclusion": "El triunfo le permite a Zverev intentar cerrar su año destacado con un título, pero la presión de justificar su posición de número uno persiste."
-    },
-    {
-      "title": "Amazon is complaining about NYC Council on shipping labels, too",
-      "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/PXL_20261121_204528314.jpg?quality=90&strip=all&crop=0%2C27.608909762858%2C100%2C39.421004003696&w=1200",
-      "source": "The Verge",
-      "language": "en",
-      "que_paso": "Amazon began affixing warning labels to its shipments that claim a proposed New York City Delivery Protection Act could raise order costs, and it has amplified the message through its app and website. The company is lobbying against the council’s bill, which would require city licensing and direct employment for last‑mile delivery firms, and has warned it may relocate its warehouses out of the city. Council leaders and the mayor have accused Amazon of intimidation and greed in response to the campaign.",
-      "datos": [
-        "Amazon placed warnings on shipping labels stating the NYC Council could add up to $5 per order",
-        "The Delivery Protection Act would ban third‑party delivery arrangements and require city licensing and direct employment of workers",
-        "Amazon began displaying the warning in its mobile app and website earlier this week",
-        "Council Speaker Julie Menin and Mayor Zohran Mamdani accused Amazon of intimidation and greed",
-        "Amazon’s market capitalization is cited as nearly $3 trillion",
-        "Amazon has threatened to relocate its warehouses out of New York City if the bill passes"
-      ],
-      "conclusion": "The dispute highlights how local regulatory proposals can directly affect e‑commerce logistics and may lead to higher shipping costs for NYC consumers while threatening Amazon’s operational footprint in the region."
-    },
-    {
-      "title": "La navidad llega a Madrid tras una larga espera",
-      "url": "https://elpais.com/espana/madrid/2026-11-21/la-navidad-llega-a-madrid-tras-una-larga-espera.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/SBSBZUF7EVHITPT3BHPIZXV22U.jpeg?auth=627f49d93775058c3edef34bb3f0a85b8982b57e773d62551b8c5e16a1a7559e",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Cinco niños procedentes de Ceuta fueron elegidos para encender las luces navideñas de Madrid cada noche. La iluminación permanecerá encendida hasta el 6 de enero, marcando el inicio oficial de la Navidad en la capital.",
-      "datos": [
-        "Cinco niños de Ceuta",
-        "Encenderán las luces de la capital cada noche",
-        "La iluminación se mantendrá hasta el 6 de enero",
-        "El acto señala la llegada oficial de la Navidad a Madrid"
-      ],
-      "conclusion": "La participación de niños de Ceuta destaca la dimensión nacional de la celebración y anticipa un incremento de la actividad urbana y de seguridad durante la temporada festiva."
-    },
-    {
-      "title": "Diez canales históricos de Europa que todavía puedes recorrer en barco",
-      "url": "https://www.eldiario.es/viajes/diez-canales-historicos-europa-todavia-puedes-recorrer-barco_1_13680661.html",
-      "image": "https://static.eldiario.es/clip/54ff155e-9f05-4832-857f-7a33169317d7_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "title": "Una persona fallece y otras dos resultan heridas tras una explosión en una vivienda de Rudilla (Teruel)",
+      "url": "https://www.eldiario.es/aragon/persona-fallece-resultan-heridas-explosion-vivienda-rudilla-teruel_1_13684739.html",
+      "image": "https://static.eldiario.es/clip/47df2269-434f-4e52-94fd-c7b3c57e9c6c_facebook-aspect-ratio-1200-675_default_0.jpg",
       "source": "elDiario.es",
       "language": "es",
-      "que_paso": "Los diez canales europeos descritos fueron construidos entre los siglos XVII y XIX para conectar ríos y ciudades y facilitar el transporte de mercancías como cereales, carbón y madera; con la expansión del ferrocarril y las carreteras, su uso comercial decayó y hoy se promocionan como rutas turísticas navegables.",
+      "que_paso": "Una explosión se produjo en una vivienda de Rudilla, provocando la muerte de una persona y heridas a dos más. Los bomberos de la Diputación Provincial de Teruel acudieron al sitio alrededor de las 12:30 y permanecieron hasta las 17:30, trabajando junto a la Guardia Civil, los servicios sanitarios y la Policía Judicial.",
       "datos": [
-        "Los canales fueron edificados entre el año 1600 y 1900.",
-        "Originalmente transportaban productos como cereales, carbón y madera.",
-        "Diez canales históricos son mencionados en el artículo.",
-        "Muchas de sus estructuras originales, como esclusas, puentes y acueductos, se conservan.",
-        "La llegada del ferrocarril y las carreteras redujo significativamente su tráfico de mercancías.",
-        "Actualmente se ofrecen recorridos en barco como atractivo turístico."
+        "La explosión ocurrió en una vivienda de Rudilla, en la comarca del Jiloca, provincia de Teruel.",
+        "El aviso llegó a los bomberos a las 12:30 horas del domingo 23 de noviembre de 2026.",
+        "El operativo contó con tres bomberos, un oficial y el jefe de guardia.",
+        "Una persona falleció y dos resultaron heridas.",
+        "Los servicios de la Guardia Civil, los servicios sanitarios del 061, el médico forense y la Policía Judicial colaboraron en la intervención."
       ],
-      "conclusion": "Este repunte turístico muestra cómo infraestructuras obsoletas pueden generar valor económico y cultural, ofreciendo a los gestores operacionales ejemplos de reutilización de activos."
+      "conclusion": "El incidente subraya la necesidad de protocolos de respuesta rápida en áreas rurales y la importancia de la coordinación interinstitucional para gestionar riesgos estructurales tras explosiones."
     },
     {
-      "title": "En la India, una ciudad lleva décadas intentando vivir sin dinero, partidos políticos o religión: la utopía de Auroville",
-      "url": "https://www.xataka.com/magnet/india-ciudad-lleva-decadas-intentando-vivir-dinero-partidos-politicos-religion-utopia-auroville",
-      "image": "https://i.blogs.es/22b543/photo-1715794202088-84a7792062b0/840_560.jpeg",
+      "title": "Vuelve a tiendas Lidl el sábado 28 (por 100 euros menos) el robot de cocina superventas Monsieur Cuisine con pantalla táctil, báscula y más",
+      "url": "https://www.xataka.com/seleccion/vuelve-a-tiendas-lidl-sabado-28-100-euros-robot-cocina-superventas-monsieur-cuisine-pantalla-tactil-bascula",
+      "image": "https://i.blogs.es/a6e206/lidl-robot-de-cocina/840_560.jpeg",
       "source": "Xataka",
       "language": "es",
-      "que_paso": "Auroville, una comunidad situada a unos cinco kilómetros del Índico cerca de Puducherry, fue creada en 1968 por Mirra Alfassa, discípula de Sri Aurobindo, con el objetivo de ser una ciudad universal sin dinero, partidos políticos ni religión. La población se organiza por consenso y, según su web, quien trabaja al menos cinco horas diarias recibe un sustento mixto de servicios, dinero y derechos. Los nuevos residentes deben ceder su propiedad a la comunidad y autoabastecerse durante al menos un año antes de recibir ayuda gratuita.",
+      "que_paso": "Lidl ha incluido en su folleto de Black Friday la vuelta a tiendas del robot de cocina Monsieur Cuisine Smart con un descuento de 100 €, disponible a partir del sábado 28 de noviembre. La oferta se extiende también a la versión Compact, que se vende a 149,99 € y compite con modelos más caros como Thermomix.",
       "datos": [
-        "Auroville está a cinco kilómetros del mar Índico, cerca de Puducherry (India).",
-        "Fundación en 1968, impulsada por Mirra Alfassa, discípula de Sri Aurobindo.",
-        "En 2016 la comunidad gozaba de autonomía y recibía una asignación anual del gobierno indio (según El País).",
-        "Los residentes deben trabajar al menos cinco horas al día para recibir sustento en forma de servicios, dinero y derechos.",
-        "Los recién llegados deben ceder su propiedad a la comunidad y no pueden esperar vivienda o tierra gratis durante al menos un año."
+        "El precio en tienda será 399,99 € frente a 499,99 € en la web de Lidl.",
+        "El sábado 28 de noviembre de 2026 es la fecha de re‑entrada en los supermercados.",
+        "El robot Compact tendrá un precio de 149,99 €.",
+        "La potencia del Monsieur Cuisine Smart es de 1.200 W y su capacidad 4,5 L con 10 niveles de velocidad.",
+        "La aplicación gratuita incluye más de 1.000 recetas paso a paso."
       ],
-      "conclusion": "El modelo de Auroville muestra una alternativa práctica a la gestión basada en dinero y estructuras políticas tradicionales, ofreciendo lecciones sobre gobernanza por consenso y autosuficiencia que pueden inspirar a gestores operativos y constructores de IA."
+      "conclusion": "Esta rebaja permite a los consumidores adquirir un robot de cocina completo a una fracción del coste de alternativas premium, lo que puede acelerar la adopción de la automatización culinaria en hogares."
     },
     {
-      "title": "Yolanda Díaz y Gabriel Rufián intercambian reproches por la reforma laboral",
-      "url": "https://www.eldiario.es/catalunya/yolanda-diaz-gabriel-rufian-intercambian-reproches-reforma-laboral_1_13683415.html",
-      "image": "https://static.eldiario.es/clip/563ff70f-818f-48c9-88f8-1a79a51077d4_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "que_paso": "Yolanda Díaz, vicepresidenta y ministra de Trabajo, y Gabriel Rufián, cabeza de lista de ERC, se lanzaron reproches públicos sobre la reforma laboral aprobada en 2022. Díaz la acusó de haber votado contra la norma y Rufián respondió que ella priorizó negociaciones con la CEOE y Ciudadanos en detrimento de ERC y EH Bildu. El intercambio tuvo lugar en actos simultáneos en Barcelona y Reus durante la campaña electoral.",
-      "datos": [
-        "El intercambio ocurrió el sábado 22 de noviembre de 2026, en Barcelona (acto del Frente Amplio) y en Reus (declaraciones de Rufián)",
-        "Yolanda Díaz afirmó que la reforma estuvo a punto de fracasar en el Congreso",
-        "Gabriel Rufián señaló que la negociación se hizo con el presidente de la CEOE, Antonio Garamendi, y con la exlíder de Ciudadanos, Inés Arrimadas",
-        "Díaz citó a Rufián: “Es el peor politiqueo que he conocido en mi vida”",
-        "Oriol Junqueras declaró que Junts y Comuns no obtendrán diputados en Tarragona y que su voto “restará a la izquierda y el independentismo”"
-      ],
-      "conclusion": "El enfrentamiento evidencia fracturas dentro de la izquierda catalana que podrían complicar alianzas electorales y la implementación de políticas laborales en el futuro."
-    },
-    {
-      "title": "El alma del Sevilla rescata un punto ante un Betis reservón",
-      "url": "https://elpais.com/deportes/futbol/2026-11-21/el-alma-del-sevilla-rescata-un-punto-ante-un-betis-reservon.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/7QAZ6FIW2ZLJNB2SQG52PBJMNA.jpg?auth=96acbc090e459dddd9cf6b76ced2ed6b46e61051e7c58b1e2e7872589467a29a",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "En el derbi sevillista, Sevilla tomó la ventaja gracias a Antony, pero en el minuto final Valles cometió un error tras el disparo de Kike Salas que anuló la ventaja y dejó el marcador igualado. Los equipos, Sevilla y Betis, se repartieron un punto.",
-      "datos": [
-        "Antony marcó el primer gol para el Sevilla",
-        "Kike Salas realizó un disparo que provocó el error",
-        "Valles cometió el error en el último minuto del partido",
-        "El resultado final fue un empate 1‑1",
-        "El encuentro fue el derbi entre Sevilla y Betis"
-      ],
-      "conclusion": "El empate subraya que la falta de concentración en los minutos finales puede costar puntos decisivos en rivalidades locales, recordando la necesidad de mantener la atención hasta el pitido final."
-    },
-    {
-      "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
-      "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
-      "image": "https://i.guim.co.uk/img/media/d3154f68df589c297fc3d173e2bb3d95faca05c9/530_0_4678_3742/master/4678.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1a7ad1c833428adafc056e7f188ca63a",
-      "source": "The Guardian AI",
-      "language": "en",
-      "que_paso": "Levent Alpöge, a Turkish‑American mathematician at Anthropic, used the company’s Claude AI to develop a proof of the Riemann hypothesis in about six weeks and posted the result on his website. The proof was subsequently examined and confirmed by the Lean Focused Research Organization and the Mathlib Initiative, and the announcement arrived one day after Anthropic’s Nasdaq IPO.",
-      "datos": [
-        "The development of the proof took roughly six weeks, according to Alpöge’s own note.",
-        "The Riemann hypothesis, first stated by Bernhard Riemann in 1859, is one of the seven Millennium Prize problems with a $1 million reward from the Clay Mathematics Institute.",
-        "Anthropic’s initial public offering on the Nasdaq occurred the day before Alpöge’s proof announcement.",
-        "Both the Lean Focused Research Organization and the Mathlib Initiative publicly declared they had full confidence in the correctness of Alpöge’s proof.",
-        "Italian mathematician Alessandro Masullo released an incomplete, non‑AI‑assisted proof after nearly 12 years of work, as reported by the New York Times."
-      ],
-      "conclusion": "The verification shows that advanced language models can now contribute to solving century‑old mathematical challenges, signaling a shift toward AI‑augmented research while raising questions about the role of private AI firms in fundamental science."
-    },
-    {
-      "title": "Jair Bolsonaro continúa hospitalizado con una obstrucción intestinal",
-      "url": "https://www.europapress.es/internacional/noticia-jair-bolsonaro-continua-hospitalizado-obstruccion-intestinal-20261121204604.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261121204604_1200.jpg",
-      "source": "Europa Press Tecnología",
-      "language": "es",
-      "que_paso": "Jair Bolsonaro, ex presidente de Brasil, sigue ingresado en la unidad de cuidados intensivos del Hospital DF Star en Brasilia por una obstrucción abdominal grave, complicación atribuida al intento de asesinato que sufrió en 2018. El informe indica que su condición sigue siendo crítica y que está bajo vigilancia médica constante.",
-      "datos": [
-        "Bolsonaro está en la unidad de cuidados intensivos del Hospital DF Star de Brasilia",
-        "El diagnóstico es una obstrucción abdominal grave",
-        "El problema de salud se relaciona con el intento de asesinato de 2018",
-        "El informe hospitalario es el último comunicado oficial sobre su estado",
-        "Bolsonaro es el expresidente de Brasil"
-      ],
-      "conclusion": "Su prolongada hospitalización mantiene la atención política y operativa en Brasil, pues cualquier deterioro o recuperación influirá en la estabilidad y decisiones del entorno político actual."
-    },
-    {
-      "title": "Un detenido tras la muerte de una mujer de 37 años en Villarrobledo (Albacete)",
-      "url": "https://elpais.com/espana/2026-11-21/un-detenido-tras-la-muerte-de-una-mujer-de-37-anos-en-villarrobledo-albacete.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/4DKOUWVYTZIFHMN6WHZGRTFTEA.jpg?auth=b623bbd1e8bcbbbc1c8d288992df0f3ff13d5baaee0e5e72e6c94c7aef65fbc9&width=1200",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Una mujer de 37 años fue encontrada sin vida en la finca El Gordo, en Villarrobledo, y la Guardia Civil detuvo a un hombre bajo sospecha de vínculo con el hecho. La investigación se mantiene bajo secreto de sumario y la causa exacta de la muerte aún no está esclarecida.",
-      "datos": [
-        "La víctima tenía 37 años",
-        "El cuerpo se halló en la finca El Gordo, próxima a la carretera CM-3121 en Villarrobledo, Albacete",
-        "La llamada al 112 se realizó a la 1:41 a.m. del viernes 20 de noviembre de 2026",
-        "La Guardia Civil detuvo a un hombre por presunta relación con el fallecimiento",
-        "El Juzgado de Guardia de Villarrobledo declaró el sumario bajo secreto",
-        "La UVI informó inicialmente que la causa del fallecimiento era una enfermedad, aunque las circunstancias siguen sin aclararse"
-      ],
-      "conclusion": "El caso subraya la importancia de una investigación forense rigurosa y la necesidad de transparencia en procesos judiciales que afectan la seguridad pública."
-    },
-    {
-      "title": "Eisenkot invita al partido de Netanyahu a negociaciones maratonianas para intentar lograr un acuerdo",
-      "url": "https://www.europapress.es/internacional/noticia-eisenkot-invita-partido-netanyahu-negociaciones-maratonianas-intentar-lograr-acuerdo-20261121202621.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261121202621_120.jpg",
-      "source": "Europa Press Tecnología",
-      "language": "es",
-      "que_paso": "Gadi Eisenkot, líder del partido Yashar y encargado de formar gobierno, solicitó a Benjamin Netanyahu, primer ministro en funciones y cabeza del Likud, iniciar unas negociaciones extensas para pactar una coalición.",
-      "datos": [
-        "Gadi Eisenkot es líder del partido Yashar",
-        "Eisenkot tiene la responsabilidad constitucional de formar gobierno en Israel",
-        "Benjamin Netanyahu es primer ministro en funciones y lidera el Likud",
-        "Netanyahu representa al Likud, el partido mayoritario actual",
-        "La invitación es a negociaciones “maratonianas” para cerrar un acuerdo de coalición",
-        "El objetivo es constituir una coalición de gobierno en Israel"
-      ],
-      "conclusion": "La formación de una coalición determinará la estabilidad política y la agenda legislativa de Israel, lo que afectará decisiones estratégicas en sectores como tecnología y comercio internacional."
-    },
-    {
-      "title": "Detenido El Chapo Isidro en un operativo que desata el terror en Sinaloa",
-      "url": "https://elpais.com/mexico/2026-11-21/detenido-el-chapo-isidro-en-un-operativo-que-desata-el-terror-en-sinaloa.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/DBLIBRLHBRA4XNJ23ZUUZDKGNY.jpg?auth=41f1f69af7dac04f1dfefb2970b51165a88ce68091e41011e72295b710f3f56b",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "El Ejército capturó a \"El Chapo Isidro\", uno de los cabecillas del Cartel de Sinaloa, y el operativo desencadenó intensos tiroteos entre fuerzas militares y miembros del cártel. El enfrentamiento dejó un reguero de combates entre autoridades y criminales.",
-      "datos": [
-        "Detención de \"El Chapo Isidro\", líder del Cartel de Sinaloa",
-        "El operativo fue ejecutado por el Ejército mexicano",
-        "Cuatro militares resultaron muertos",
-        "Siete presuntos agresores del cártel fueron abatidos",
-        "El enfrentamiento provocó una escalada de combates entre autoridades y criminales"
-      ],
-      "conclusion": "El hecho evidencia una escalada de violencia en Sinaloa y sugiere que la presión contra el Cartel de Sinaloa está intensificando los enfrentamientos, lo que afecta la seguridad regional."
-    },
-    {
-      "title": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
-      "url": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html",
-      "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21DC-OUTAGE-topart-sub-wghl/21DC-OUTAGE-topart-sub-wghl-mediumSquareAt3X.jpg",
+      "title": "Donald Hooton Sr., Who Crusaded Against Steroids in Sports, Has Died",
+      "url": "https://www.nytimes.com/2026/11/22/us/donald-hooton-sr-dead.html",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18obit-hooton-03-gpht/18obit-hooton-03-gpht-mediumSquareAt3X.jpg",
       "source": "New York Times",
       "language": "en",
-      "que_paso": "The article reports that AI tools are now identifying long‑standing security flaws in legacy software, prompting organizations to confront years of neglected cybersecurity. It highlights a shift from treating security as an afterthought to facing the accumulated vulnerabilities.",
+      "que_paso": "Donald Hooton Sr., a 76‑year‑old longtime opponent of performance‑enhancing drugs, died shortly after delivering a forceful testimony to Congress about steroid use in sports. His appearance was prompted by the suicide of his son, a high‑school pitcher who had been using steroids, and highlighted the personal toll of the issue.",
       "datos": [
-        "Cybersecurity has been an afterthought since the early days of the internet",
-        "A.I. is uncovering dormant problems in existing code",
-        "Decades of vulnerable code are now exposed",
-        "The cost of fixing these issues is described as a bill that is finally due"
+        "Donald Hooton Sr. was 76 years old at the time of his death",
+        "His son was a high‑school baseball pitcher",
+        "The son had used anabolic steroids",
+        "The son died by suicide",
+        "Hooton testified before the U.S. Congress, and his testimony was described as blistering"
       ],
-      "conclusion": "Operations leaders must adopt AI‑driven security assessments immediately to prevent costly breaches and move from reactive fixes to proactive risk management."
+      "conclusion": "His death illustrates the human consequences of steroid abuse and may add urgency to legislative efforts to tighten anti‑doping regulations."
     },
     {
-      "title": "De Badajoz a Escandinavia: la mina extremeña de hace 3.000 años que llevó el cobre al Báltico",
-      "url": "https://www.xataka.com/magnet/badajoz-a-escandinavia-mina-extremena-hace-3-000-anos-que-llevo-cobre-al-baltico",
-      "image": "https://i.blogs.es/1bb676/minas/840_560.jpeg",
-      "source": "Xataka",
-      "language": "es",
-      "que_paso": "Un equipo internacional de arqueólogos excavó la mina de cobre Las Minillas en Badajoz y, mediante dataciones por radiocarbono y análisis isotópico, demostró que parte de su metal llegó al norte de Europa durante la Edad del Bronce nórdica. El hallazgo sugiere una ruta comercial marítima entre el sur de la península ibérica y Escandinavia en el siglo IX‑VII a.C.",
-      "datos": [
-        "La mina estuvo activa entre aproximadamente 1350 y 750 a.C.",
-        "El estudio contó con investigadores de las universidades de Durham, Sevilla, Gotemburgo y Lund",
-        "Se realizaron excavaciones en 2020, 2021 y 2023, obteniendo 17 nuevas dataciones por radiocarbono",
-        "De más de 300 bronces escandinavos analizados, 11 coincidían químicamente con el cobre de Las Minillas, siete de ellos del periodo V (900‑700 a.C.)",
-        "Los autores estiman una producción total de cobre entre 49 y 738 toneladas, prefiriendo una cifra conservadora de 197 toneladas"
-      ],
-      "conclusion": "Este descubrimiento revisa la importancia del cobre ibérico en las redes de intercambio del Bronce Final, mostrando que los suministros estratégicos pueden provenir de fuentes distantes y requerir evidencia cuantitativa para validar su impacto."
-    },
-    {
-      "title": "Anthony Albanese talks a big game about sovereignty. But Australia remains in thrall to its ‘unreliable boyfriend’ | Julianne Schultz",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/22/anthony-albanese-talks-a-big-game-about-sovereignty-but-australia-remains-in-thrall-to-its-unreliable-boyfriend",
-      "image": "https://i.guim.co.uk/img/media/07c5e1e60c18e0d209d22916b379ba24ab64a47c/484_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=6256ca6cf6a4619cc9744c2923c84d9f",
-      "source": "The Guardian AI",
+      "title": "US Army Announces Plan to Blast Literal Tons of Lead Dust Into the Atmosphere, Forcing Hundreds to Evacuate",
+      "url": "https://futurism.com/science-energy/us-army-detonation-lead-dust-plume-evacuation-chemicals",
+      "image": "https://futurism.com/wp-content/uploads/2026/11/us-army-blast-lead-dust-atmosphere.jpg?quality=85&w=1200",
+      "source": "Futurism",
       "language": "en",
-      "que_paso": "Australia’s Prime Minister Anthony Albanese highlighted the nation’s dependence on U.S. digital platforms after a recent Microsoft service outage crippled government and business operations, prompting a debate on digital sovereignty. The discussion also referenced Canada’s trade minister Chrystia Freeland’s description of the U.S. as an “unreliable boyfriend” and academic concerns about broader platform risks.",
+      "que_paso": "The U.S. Army scheduled a controlled detonation of five tons of lead‑azide waste at the Iowa Army Ammunition Plant on Monday, ordering the evacuation of roughly 400 residents of Middletown and prompting precautionary actions in downstream communities such as Mediapolis. The operation follows decades of munitions production at the 86‑year‑old facility and has sparked local protests.",
       "datos": [
-        "Prime Minister Anthony Albanese cited digital sovereignty and announced a ban on social media for users under 16.",
-        "Canada’s trade minister Chrystia Freeland titled her new book “Unreliable Boyfriend” describing the U.S. as a bully.",
-        "Microsoft services (Outlook, Teams, Copilot, SharePoint, Defender XDR) went offline last week, disrupting government and commerce and affecting at least 500 million users worldwide.",
-        "University of Sydney chancellor David Thodey asked at a Royal Society forum what would happen if Microsoft, Salesforce, Google and Anthropic all failed.",
-        "Albanese said, “If we are always dependent on someone, somewhere else, we will always be vulnerable.”"
+        "The detonation will involve five tons of lead azide waste.",
+        "Approximately 400 residents of Middletown were ordered to evacuate.",
+        "Mediapolis cancelled school classes and closed its library for the weekend.",
+        "The Iowa Army Ammunition Plant has been in operation since 1949, making it 86 years old.",
+        "The U.S. Army and EPA issued public advisories recommending surface cleaning and avoidance of the affected area.",
+        "Community members protested at the Middletown Armed Forces Reserve Center, with Kathi Berry speaking to the Hawk Eye."
       ],
-      "conclusion": "The outage demonstrates how Australia’s operational continuity can be jeopardized by external tech failures, underscoring the need for a concrete strategy to reduce reliance on foreign platforms and protect national digital sovereignty."
+      "conclusion": "The event highlights the public‑health risks and limited federal mitigation associated with legacy munitions disposal, underscoring the need for safer waste‑handling practices and stronger community preparedness."
     },
     {
-      "title": "\"La utopía socialista\" que llevó a un grupo de australianos idealistas a Paraguay hace más de 130 años (y en qué terminó la experiencia)",
-      "url": "https://www.bbc.com/mundo/articles/cr5yny54gvy3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/news/1200/branded_mundo/b851/live/83d46e10-dd08-11f1-97df-bd0937690c4d.jpg",
-      "source": "BBC Mundo",
-      "language": "es",
-      "que_paso": "A finales del siglo XIX, un grupo de trabajadores australianos descontentos, liderados por el periodista William Lane, emigró a Paraguay para fundar colonias socialistas sin gobierno, bancos ni ejército. Se establecieron en Nueva Australia y Cosme, persiguiendo una sociedad igualitaria tras la crisis económica y la represión sindical en Australia.",
-      "datos": [
-        "El proyecto se inició en 1892.",
-        "El líder del movimiento fue William Lane, periodista de origen inglés.",
-        "Los colonos fundaron dos asentamientos: Nueva Australia y Cosme.",
-        "Billy, abuelo de Rodrigo Wood, era secretario del sindicato de esquiladores de ovejas en Queensland.",
-        "Australia vivía una alta tasa de desempleo, sequías, inundaciones y se describía como \"a punto de la bancarrota\" en esa época."
-      ],
-      "conclusion": "El experimento muestra los riesgos de lanzar utopías sin un análisis profundo del entorno local; la lección práctica es que cualquier iniciativa social o tecnológica debe combinar visión con datos concretos y planificación realista."
-    },
-    {
-      "title": "It Dies Today Launch GoFundMe For Retired Pro Wrestler Who Broke His Leg In The Mosh Pit At Their Buffalo Show",
-      "url": "https://www.theprp.com/2026/11/21/news/it-dies-today-launch-gofundme-for-retired-pro-wrestler-who-broke-his-leg-in-the-mosh-pit-at-their-buffalo-show/",
-      "image": "https://www.theprp.com/app/uploads/2026/11/itdiestodaylarge-1200x675.webp",
+      "title": "Here’s This Week’s Top Ten Stories On Theprp.com (November 22nd, 2026)",
+      "url": "https://www.theprp.com/2026/11/22/news/heres-this-weeks-top-ten-stories-on-theprp-com-november-22nd-2026/",
+      "image": "https://www.theprp.com/app/uploads/2025/09/theprptopstories-500x300.webp",
       "source": "The PRP",
       "language": "en",
-      "que_paso": "Indie band It Dies Today organized a GoFundMe after their guest, recently retired wrestler Kevin Blackwood, suffered a severe leg injury during the mosh pit at their November 7 concert in Buffalo. The injury left Blackwood unable to work and facing costly medical treatment.",
+      "que_paso": "Theprp.com posted a weekly roundup on November 23, 2026 that lists the ten most‑viewed articles from the prior seven days, ending November 22, 2026. The post is aimed at its readership of tech‑savvy professionals and invites comments on the highlighted stories.",
       "datos": [
-        "Kevin Blackwood retired from professional wrestling in February 2026",
-        "He was injured on November 7, 2026, at It Dies Today's show at the Rec Room in Buffalo, NY",
-        "The injury broke both his fibula and tibia, requiring surgical repair",
-        "He subsequently developed a blood clot and was placed on blood thinners",
-        "The GoFundMe campaign was created by It Dies Today's drummer John Runkle",
-        "Blackwood is a Buffalo native and a longtime fan of the band"
+        "The roundup covers the period 22‑Nov‑2026 to 28‑Nov‑2026",
+        "It features exactly ten stories that received the highest page‑views on Theprp.com during that week",
+        "The article explicitly notes that weekdays on the site are “quite rapid” while weekends are “characteristically slower”",
+        "The post encourages readers to engage in discussion directly on the thread",
+        "Theprp.com is a technology‑focused news site that tracks AI, agents, and business operations",
+        "The article was published on 23‑Nov‑2026"
       ],
-      "conclusion": "The case underscores how unexpected injuries can impose significant financial burdens on former athletes and how community-driven fundraising can help mitigate those costs."
+      "conclusion": "The list reveals which topics resonated with the site’s audience over the past week, giving operations leaders a quick pulse on emerging interests that could inform content strategy or market monitoring."
     },
     {
-      "title": "El líder de Hamás pide un gobierno palestino de unidad nacional sobre la base de una OLP inclusiva",
-      "url": "https://www.europapress.es/internacional/noticia-lider-hamas-pide-gobierno-palestino-unidad-nacional-base-olp-inclusiva-20261121191911.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261121191911_1200.jpg",
+      "title": "How Melania Trump Found a Diplomatic Opening in the War in Ukraine",
+      "url": "https://www.nytimes.com/2026/11/22/us/politics/melania-trump-ukraine-diplomacy.html",
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22dc-melania-ukraine-topart-fkgj/22dc-melania-ukraine-topart-fkgj-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "Melania Trump, despite limited diplomatic experience, leveraged her longtime personal agent to open unofficial communication lines with senior figures from both Russia and Ukraine, creating a potential channel for dialogue amid the ongoing conflict. The effort represents a rare diplomatic opening sourced from a former U.S. first lady.",
+      "datos": [
+        "Melania Trump served as First Lady of the United States from 2017 to 2021.",
+        "The war in Ukraine commenced on 24 February 2022.",
+        "Her longtime agent, whose identity has not been publicly disclosed, facilitated the back‑channel contacts.",
+        "Senior officials from both the Russian and Ukrainian governments were approached through these informal channels.",
+        "The development was reported in a news article dated 23 November 2026."
+      ],
+      "conclusion": "The episode illustrates how informal actors can generate diplomatic pathways in a war, highlighting the need for operations leaders to track non‑official networks for strategic opportunities."
+    },
+    {
+      "title": "Rather Than Sell Their House, They Became Landlords Instead",
+      "url": "https://www.nytimes.com/2026/11/22/business/mortgage-rates-housing-landlords.html",
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22biz-accidental-landlords-pzlf/22biz-accidental-landlords-pzlf-mediumSquareAt3X-v2.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "Facing high housing costs, a group of homeowners decided to keep their houses and rent them out instead of selling, using the rental cash flow to meet mortgage obligations while taking on landlord duties such as repairs and tenant management.",
+      "datos": [
+        "Homeowners chose to rent out their primary residences rather than sell them",
+        "Rental income is applied to cover mortgage payments",
+        "Landlords must arrange and fund property repairs",
+        "Landlords must handle problematic tenant behavior"
+      ],
+      "conclusion": "The trend turns home equity into cash flow, offering financial relief but also adding operational risk that requires active management."
+    },
+    {
+      "title": "Delta flights in and out of Atlanta delayed due to system outage",
+      "url": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-2223798482.jpg?quality=90&strip=all&crop=0%2C10.740554568055%2C100%2C78.518890863889&w=1200",
+      "source": "The Verge",
+      "language": "en",
+      "que_paso": "On Sunday, Delta’s weight‑and‑balance computer system failed at its Atlanta hub, forcing the airline to delay all arrivals and departures. Crews resorted to manual calculations, and Delta warned that prolonged delays could spill over to other carriers at the busy Hartsfield‑Jackson airport.",
+      "datos": [
+        "The outage affected the system that calculates an aircraft’s total weight, fuel, passengers, baggage, and center of gravity",
+        "The failure occurred on Sunday, November 23, 2026",
+        "Delta’s hub at Hartsfield‑Jackson Atlanta International Airport is the airline’s largest and one of the world’s busiest airports",
+        "Only Delta flights were initially impacted, but the airline cautioned that delays could affect other airlines if they persist",
+        "The incident follows an FAA system outage a week earlier that caused a nationwide ground stop and thousands of canceled flights",
+        "Delta issued a statement that teams are using manual workarounds while work continues to restore automation"
+      ],
+      "conclusion": "The event shows the operational vulnerability of relying on a single automated system for critical safety calculations, emphasizing the need for robust manual fallback procedures. Operations managers should ensure redundancy plans to mitigate cascading delays in similar scenarios."
+    },
+    {
+      "title": "Irán informa de dos petroleros incendiados en Ormuz tras chocar con minas",
+      "url": "https://www.europapress.es/internacional/noticia-iran-informa-dos-petroleros-incendiados-ormuz-chocar-minas-20261122183044.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261122183044_120.jpg",
       "source": "Europa Press Tecnología",
       "language": "es",
-      "que_paso": "Jalil al Haya, líder de Hamás, anunció desde Líbano que se debe crear un gobierno palestino de unidad nacional basado en la OLP. Propuso que incluya a todas las facciones políticas y que ejerza autoridad tanto en Cisjordania como en la Franja de Gaza. La declaración se hizo este sábado.",
+      "que_paso": "El domingo, autoridades iraníes confirmaron que dos buques petroleros se incendiaron tras chocar con minas en el sector oriental del estrecho de Ormuz, en medio de crecientes tensiones marítimas. Los incidentes ocurrieron en aguas internacionales, lo que complica la seguridad del paso del petróleo. El suceso se produce mientras la región registra una mayor actividad de minas no identificadas.",
       "datos": [
-        "Jalil al Haya es el líder del Movimiento de Resistencia Islámica (Hamás)",
-        "El anuncio se realizó desde Líbano",
-        "Se propone un gobierno palestino de unidad nacional basado en la Organización para la Liberación de Palestina (OLP)",
-        "El gobierno debe incluir a todas las facciones políticas palestinas",
-        "Debe controlar tanto Cisjordania como la Franja de Gaza"
+        "Dos petroleros se incendiaron",
+        "El impacto ocurrió en aguas al este del estrecho de Ormuz",
+        "Las explosiones fueron provocadas por minas marítimas",
+        "La información fue proporcionada por autoridades iraníes",
+        "La noticia se publicó el domingo 23 de noviembre de 2026"
       ],
-      "conclusion": "Una unidad bajo la OLP podría facilitar la coordinación entre Gaza y Cisjordania y reforzar la posición palestina en negociaciones internacionales."
+      "conclusion": "El episodio eleva el riesgo para el tránsito de crudo en una vía estratégica, lo que obliga a reforzar la vigilancia y a revisar los protocolos de seguridad en la zona."
     },
     {
-      "title": "We’ve Found the Only Good AI Chatbot: One So Tiny It Fits on a Single MS-DOS Floppy Disk",
-      "url": "https://futurism.com/artificial-intelligence/ai-model-floppy-disk",
-      "image": "https://futurism.com/wp-content/uploads/2026/11/good-llm-floppy-disk.jpg?quality=85&w=1200",
-      "source": "Futurism",
-      "language": "en",
-      "que_paso": "Hackaday highlighted a developer’s creation of an ultra‑small AI language model that runs on MS‑DOS and can be stored on a single floppy disk. The model, built with Turbo C 2.0, was assembled using larger AI tools but is deliberately limited to a few thousand facts, contrasting sharply with today’s trillion‑parameter systems.",
-      "datos": [
-        "The model is 380 KB in size and contains 367,000 parameters.",
-        "It runs on MS‑DOS and requires 540 KB of RAM.",
-        "It was written in Turbo C 2.0 and trained using Anthropic Fable 5.2 to generate the model and Opus 5.5 for training.",
-        "The training dataset consisted of only 3,500 factual statements.",
-        "The project is hosted on GitHub and was highlighted by Hackaday.",
-        "The model can fit on a single 1.44 MB floppy disk."
-      ],
-      "conclusion": "The demo shows that functional AI can be deployed on legacy hardware with minimal resources, offering a low‑power, low‑cost alternative for niche applications, though its accuracy remains limited."
-    },
-    {
-      "title": "The FBI and USDA were reportedly hacked",
-      "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318430/akrales_220309_4977_0038.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
       "source": "The Verge",
       "language": "en",
-      "que_paso": "In late September 2026 the FBI confirmed a breach that exposed employee and applicant records, and the USDA’s payments database was also accessed. The intrusions followed a series of high‑profile outages at the FAA and NSA and occurred shortly before the resignation of the White House national cyber director.",
+      "que_paso": "The latest update of Binding of Isaac: Repentance Plus was found to contain music generated by the AI service Suno, prompting a wave of negative reviews on Steam. After a Reddit user exposed the AI‑generated tracks, creator Edmund McMillen said he was unaware of their inclusion, and the publisher Nicalis quickly issued an update to remove the files, while Valve’s disclosure rules were cited as a point of contention.",
       "datos": [
-        "The FBI breach was reported in late September 2026 and allegedly exposed personal records of all FBI employees and applicants.",
-        "A Department of Homeland Security breach reported in October 2026 affected approximately 40,000 employee records.",
-        "The USDA payments database was identified as the known extent of the intrusion into the agency.",
-        "White House National Cyber Director Sean Cairncross resigned in the week of November 2026.",
-        "Recent major outages affected the FAA and NSA, which officials said were not caused by cyberattacks.",
-        "President Donald Trump suggested the FBI breach could reveal voter fraud and Russian investigation details in a Fox News interview."
+        "Reddit user ShweetsStuff identified AI‑generated tracks with Suno metadata in the GTA‑themed segment of Repentance Plus",
+        "Edmund McMillen posted on X that he \"had no idea\" the AI music was used",
+        "Nicalis, Inc. announced on X that they removed the AI‑generated music files and released an update within hours of the discovery",
+        "Valve requires developers to disclose generative AI usage, a policy Nicalis had not followed for Repentance Plus",
+        "Steam shows an \"overwhelmingly negative\" rating for Repentance Plus after a review bomb",
+        "McMillen previously called AI in game development \"uninspired and bland\" in a 2024 TikTok"
       ],
-      "conclusion": "The incidents expose critical gaps in government cyber‑security and indicate that compromised systems could serve as backdoors to more sensitive data, prompting an urgent need for stronger defenses and rapid incident response."
+      "conclusion": "Developers must ensure transparent AI usage to avoid community backlash and compliance issues, and rapid remediation can mitigate reputational damage."
     },
     {
-      "title": "Lo llaman El Señor de los Bolígrafos, es de Gijón y con 61 años ha dedicado media vida a inventariar y clasificar más de 26.000 bolis",
-      "url": "https://www.xataka.com/magnet/llaman-senor-boligrafos-gijon-61-anos-ha-dedicado-media-vida-a-inventariar-clasificar-26-000-bolis",
-      "image": "https://i.blogs.es/0966fd/img_20140913_161701/840_560.jpeg",
-      "source": "Xataka",
-      "language": "es",
-      "que_paso": "Juan Carlos Fernández Peñín, un gruista de 61 años originario de Gijón, ha convertido su garaje en un archivo de publicidad en tinta, catalogando meticulosamente más de 26 000 bolígrafos promocionales durante unos 25 años, con un proceso de registro similar al de la gestión documental.",
-      "datos": [
-        "26 353 bolígrafos publicitarios clasificados",
-        "Juan Carlos Fernández Peñín tiene 61 años y trabaja como gruista",
-        "La colección lleva aproximadamente 25 años, lo que equivale a casi 3 bolígrafos al día",
-        "En ferias como Fitur recoge entre 150 y 200 bolígrafos por jornada, acumulando al menos 130 jornadas equivalentes",
-        "Posee un bolígrafo Waterman valorado en unos 80 euros"
-      ],
-      "conclusion": "El proyecto muestra cómo la disciplina de registro y categorización puede transformar una afición en una base de datos útil, ofreciendo lecciones sobre la importancia de la documentación estructurada para la gestión operativa."
-    },
-    {
-      "title": "Más de 80.000 manifestantes en el sexto sábado de movilizaciones sociales en Francia",
-      "url": "https://www.europapress.es/internacional/noticia-mas-80000-manifestantes-sexto-sabado-movilizaciones-sociales-francia-20261121182200.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261121182200_120.jpg",
+      "title": "Trump da marcha atrás y advierte de que será \"muy difícil trabajar\" con un Congreso demócrata",
+      "url": "https://www.europapress.es/internacional/noticia-trump-da-marcha-atras-advierte-sera-muy-dificil-trabajar-congreso-democrata-20261122174823.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261122174823_1200.jpg",
       "source": "Europa Press Tecnología",
       "language": "es",
-      "que_paso": "Este sábado, entre 82.500 y 150.000 manifestantes recorrieron las principales ciudades de Francia, continuando la sexta semana de protestas que comenzaron en el sector educativo. Las concentraciones se ampliaron para rechazar la creciente inflación y la violencia policial.",
+      "que_paso": "El presidente Donald Trump declaró que la relación con el próximo Congreso controlado por los demócratas será complicada, señalando al líder demócrata del Senado, Chuck Schumer, como objetivo de su crítica. La advertencia se produce justo antes de que, a partir de enero, los demócratas asuman la mayoría en ambas cámaras tras las elecciones de medio término.",
       "datos": [
-        "Según el Ministerio del Interior, participaron al menos 82.500 personas",
-        "Los organizadores estiman 150.000 manifestantes",
-        "Es la sexta semana consecutiva de movilizaciones sociales en Francia",
-        "Las protestas surgieron inicialmente por la reforma educativa y ahora incluyen reclamos por la carestía de la vida y la violencia policial",
-        "El sábado de la manifestación fue 22 de noviembre de 2026"
+        "Donald Trump, presidente de EE. UU, hizo la declaración el domingo 23 de noviembre de 2026.",
+        "El Congreso pasará a estar controlado por el Partido Demócrata a partir de enero de 2027.",
+        "Chuck Schumer, líder del Partido Demócrata en el Senado, fue mencionado explícitamente por Trump.",
+        "Las elecciones de medio término de 2026 dieron mayoría demócrata en ambas cámaras del Congreso."
       ],
-      "conclusion": "El nivel de participación muestra una escalada del descontento social que puede afectar la estabilidad operativa y la cadena de suministro en Francia; las empresas deben anticipar posibles interrupciones y ajustar sus planes de contingencia."
+      "conclusion": "Esta postura indica que la agenda legislativa, incluida la regulación de IA y tecnología, podría enfrentar resistencia, por lo que es prudente anticipar posibles obstáculos y ajustar la planificación estratégica."
     },
     {
-      "title": "Junts reclama una nueva ley del padrón con más control a la inmigración irregular",
-      "url": "https://elpais.com/espana/catalunya/2026-11-21/junts-reclama-una-nueva-ley-del-padron-con-mas-control-a-la-inmigracion-irregular.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/Z5U3RDJYPJNUNEPXKZWF5O5TIE.jpg?auth=84fa7e163b243f7f494986b2ce516f36a96b409c67b966ad8571afa75680968a&width=1200",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "En Vic, la cabeza de lista de Junts per Catalunya, Miriam Nogueras, anunció que su partido impulsará una reforma del padrón municipal durante la próxima legislatura, tras la presión de varios alcaldes locales. La propuesta, respaldada por el secretario general Jordi Turull, busca que el empadronamiento solo se conceda con título de vivienda y que los ayuntamientos actualicen su censo al menos una vez al año.",
-      "datos": [
-        "Miriam Nogueras se comprometió el sábado en Vic (Barcelona) a aprobar una nueva ley del padrón en la próxima legislatura",
-        "Jordi Turull, secretario general de Junts, exigió un padrón que refleje exactamente quién vive en cada pueblo",
-        "La reforma propone que el empadronamiento requiera un título sobre una vivienda y prohíba el empadronamiento de ocupantes ilegales",
-        "Los ayuntamientos deberán revisar su censo al menos una vez al año según la propuesta",
-        "Albert Castells, alcalde de Vic, declaró que no se puede empadronar a nadie sin situación administrativa regularizada"
-      ],
-      "conclusion": "La iniciativa podría restringir la inscripción de inmigrantes irregulares y obligar a los municipios a actualizar sus datos con mayor frecuencia, lo que impactará la planificación de servicios públicos y la gestión demográfica."
-    },
-    {
-      "title": "La cumbre del clima encalla en un caótico final de las negociaciones",
-      "url": "https://elpais.com/clima-y-medio-ambiente/2026-11-21/la-cumbre-del-clima-encalla-en-un-caotico-final-de-las-negociaciones.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/XF5EYANSMZPRNOFHCM3ZJ6GTYY.jpg?auth=cc0b17904941c211d0b01931a75a24814fb0bb440d614dcccfe5d043a09a9dde&width=1200",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "En la COP31 de Antalya, la negociación de la declaración final se estancó y se prolongó más allá del viernes previsto, con intensas discusiones a puerta cerrada y carreras por los pasillos entre delegaciones.",
-      "datos": [
-        "La cumbre, presidida por el ministro turco Murat Kurum, debía concluir el viernes pero se extendió hasta el sábado.",
-        "Participaron cerca de 200 países en las negociaciones.",
-        "El borrador de nueve páginas difundido el jueves incluía el objetivo de que el 35 % de la energía mundial provenga de electricidad en 2035.",
-        "El borrador omitió cualquier referencia a la eliminación de combustibles fósiles y abrió la posibilidad de seguir usando carbón y gas.",
-        "Arabia Saudí y Rusia, principales intereses fósiles, se opusieron a mencionar los combustibles fósiles en el texto.",
-        "La Unión Europea afirmó que 130 países apoyan la transición para abandonar petróleo, gas y carbón."
-      ],
-      "conclusion": "El estancamiento muestra cuán difícil es lograr un consenso ambicioso en las cumbres climáticas, lo que podría traducirse en un compromiso final menos riguroso y retrasar la descarbonización global."
-    },
-    {
-      "title": "Tesla desembarca en Argentina con elogios cruzados entre Milei y Musk",
-      "url": "https://elpais.com/argentina/2026-11-21/tesla-desembarca-en-argentina-con-elogios-cruzados-entre-milei-y-musk.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/7YROUPCGZJNDLB37YOO4KIBNHY.jpg?auth=3108cb993a50970b1fd5733e5b656f1ae6a0b1460f56a24b0d128c79b749f8fc",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "El presidente Javier Milei recibió virtualmente a Elon Musk, quien presentó un coche de Tesla decorado con un león, marcando la primera aparición oficial de la compañía en territorio argentino. La visita se produce en el contexto de la apertura del mercado de vehículos eléctricos en Argentina y la agenda de reformas del gobierno de Milei.",
-      "datos": [
-        "El presidente argentino involucrado es Javier Milei",
-        "El magnate presente de manera virtual es Elon Musk",
-        "El vehículo presentado lleva un león estampado",
-        "Milei calificó a Musk como “el Leonardo Da Vinci del siglo XXI”",
-        "La aparición de Tesla en Argentina se anunció el 22 de noviembre de 2026"
-      ],
-      "conclusion": "La llegada de Tesla abre oportunidades para la cadena de suministro y la adopción de movilidad eléctrica en Argentina, lo que implica que las operaciones y la planificación logística deberán adaptarse a este nuevo escenario."
-    },
-    {
-      "title": "International UN talks on controlling use of autonomous weapons collapse",
-      "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
-      "image": "https://i.guim.co.uk/img/media/247601abada695f09f302253178bbc8f6e58cd42/415_0_4165_3333/master/4165.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c468b8ddd2fe15972ddb451853201d79",
-      "source": "The Guardian AI",
+      "title": "How a Crash Into a Cruise Ship in New Orleans Became a ‘Miracle on the Mississippi’",
+      "url": "https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-tanker-tick-tock.html",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/00xp-boat-nola-02-vtfg/00xp-boat-nola-02-vtfg-mediumSquareAt3X.jpg",
+      "source": "New York Times",
       "language": "en",
-      "que_paso": "The week-long UN Convention on Certain Conventional Weapons (CCW) meeting in Geneva collapsed when Russia blocked consensus on a negotiating mandate for a legally binding treaty on autonomous weapons, forcing delegates to adopt a weak, non‑binding text. Major powers including the United States, European and NATO states, China and Iran were involved, with the US expressing reluctance despite recent APEC discussions, and Russia employing filibustering tactics that halted progress.",
+      "que_paso": "On November 13, a 525‑foot tanker collided with the docked American Heritage riverboat in New Orleans, prompting an emergency response. Coast Guard and local rescue teams coordinated to evacuate the nearly 200 passengers and crew, completing the operation without loss of life.",
       "datos": [
-        "The conference ended just before 5 am after all‑night talks failed due to Russian objections.",
-        "More than 100 states had been pushing for a new legally binding protocol on autonomous weapons.",
-        "The CCW has 128 parties and requires unanimous consent; it has not passed any new weapons law in the past 30 years.",
-        "The United States discussed human‑control requirements at the APEC summit in meetings between President Xi Jinping and former President Donald Trump this week.",
-        "The Pentagon struck over 1,000 targets in Iran on the first day of the war, and US media reports say the military aims for 1,000 AI‑assisted targeting decisions per hour.",
-        "Future of Life Institute chair Max Tegmark warned that \"Slaughterbots are already here\" and noted that leaders have only been talking about the issue for 14 years."
+        "The incident occurred on November 13, 2026",
+        "The tanker involved measured 525 feet in length",
+        "The riverboat struck was the American Heritage, docked in New Orleans on the Mississippi River",
+        "Approximately 200 passengers and crew were aboard the riverboat at the time",
+        "All individuals were evacuated safely with no reported fatalities"
       ],
-      "conclusion": "The collapse leaves a regulatory gap that permits continued development and deployment of AI‑enabled weapons, highlighting the limits of consensus‑based UN mechanisms and urging operators to prepare for unregulated autonomous warfare."
+      "conclusion": "The successful evacuation demonstrates the effectiveness of coordinated maritime emergency protocols and underscores the importance of rigorous safety measures for river‑based tourism."
     },
     {
-      "title": "Alcaraz, o un desafío a la lógica: sufrir, levantarse, remontar (a Shelton) y final",
-      "url": "https://elpais.com/deportes/tenis/2026-11-21/alcaraz-finalista-contra-toda-logica-sufrir-levantarse-y-remontar-a-shelton.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/OIOH7JCU7JIWTCHVUVOFUFA7OQ.jpg?auth=ae59c890e862adc101ae5fc0a93f3a6d34acc6f5865ac3c913ec1067bd179246&width=1200",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Carlos Alcariz venció a Ben Shelton en tres sets (3-6, 6-3, 7-6(1)) y se clasificó para la final del torneo de Turín, donde se enfrentará a Alexander Zverev. El partido duró 1 hora y 59 minutos y la final se jugará el domingo a las 18:00 en Movistar+.",
-      "datos": [
-        "Alcariz derrotó a Shelton 3-6, 6-3, 7-6(1) en 1h 59m",
-        "Zverev venció a Daniil Medvedev 7-6(0), 6-4 en la otra semifinal",
-        "Shelton lanzó un saque de 216 km/h durante el encuentro",
-        "Alcariz registró 12 aces menos que Shelton",
-        "La velocidad media del primer saque de Alcariz fue de casi 220 km/h y del segundo de 180 km/h",
-        "Zverev declaró que su pierna había reaccionado bien y que empezaba la recuperación tras el torneo"
-      ],
-      "conclusion": "El triunfo muestra la capacidad de Alcariz para superar momentos críticos y lo posiciona como favorito en la final, mientras que la recuperación de Zverev sugiere un duelo de alto nivel que influirá en su confianza de cara a próximos torneos."
-    },
-    {
-      "title": "No tengo una consola y no sé por dónde empezar: cómo puedo jugar a 'GTA VI' gastando el menor dinero posible",
-      "url": "https://www.xataka.com/videojuegos/no-tengo-consola-no-se-donde-empezar-como-puedo-jugar-a-gta-vi-gastando-menor-dinero-posible",
-      "image": "https://i.blogs.es/3db0ea/jason_and_lucia_robbery_ultrawide.0myxdwh7wkbwy-1-/840_560.jpeg",
-      "source": "Xataka",
-      "language": "es",
-      "que_paso": "El artículo detalla alternativas económicas para jugar a GTA VI, describiendo las versiones del juego y las distintas consolas o servicios que permiten acceder al título sin comprar hardware nuevo.",
-      "datos": [
-        "Edición base de GTA VI a 80 euros.",
-        "Edición Ultimate de GTA VI a 100 euros, 20 euros más que la base.",
-        "La PS5 con lector cuesta aproximadamente 50 euros más que la PS5 Digital.",
-        "Game Pass Essential ofrece cinco horas mensuales de juego en la nube.",
-        "Si ya se posee una Xbox One, se puede jugar a GTA VI sin comprar consola adicional, pagando solo la suscripción y el juego."
-      ],
-      "conclusion": "La forma más barata de jugar GTA VI es aprovechar una Xbox One existente con Game Pass en la nube o adquirir la edición base y una PS5 Digital, evitando el gasto de la versión Ultimate y de una consola con lector."
-    },
-    {
-      "title": "PP pide rectificar a Morant por decir que a los socialistas les hubiera gustado que Sánchez \"abofeteara\" a Feijóo",
-      "url": "https://www.europapress.es/nacional/noticia-pp-pide-rectificar-morant-decir-socialistas-les-hubiera-gustado-sanchez-abofeteara-feijoo-20261121171751.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261121171751_1200.jpg",
-      "source": "Europa Press Ciencia",
-      "language": "es",
-      "que_paso": "El Partido Popular ha solicitado oficialmente que la ministra de Ciencia, Diana Morant, retire su comentario de que a los socialistas les habría gustado que Pedro Sánchez diera \"cuatro bofetadas\" a Alberto Núñez Feijóo durante el debate electoral del pasado jueves. La petición de rectificación pública surge directamente de la declaración de Morant sobre el supuesto deseo de los socialistas de que Sánchez golpeara al líder popular.",
-      "datos": [
-        "El PP exigió una rectificación pública a la ministra Diana Morant.",
-        "Diana Morant es la ministra de Ciencia de España.",
-        "Morant afirmó que a los socialistas les hubiera gustado que Sánchez diera \"cuatro bofetadas\" a Feijóo.",
-        "El debate electoral tuvo lugar el jueves 19 de noviembre de 2026.",
-        "Los protagonistas del comentario fueron Pedro Sánchez (presidente) y Alberto Núñez Feijóo (líder del PP)."
-      ],
-      "conclusion": "El episodio muestra la sensibilidad del discurso político y la necesidad de que los funcionarios eviten expresiones que puedan escalar la confrontación, lo que es crucial para la gestión operativa y la reputación institucional."
-    },
-    {
-      "title": "Las infraestructuras se convierten en el gran flanco débil de Occidente",
-      "url": "https://elpais.com/internacional/2026-11-21/las-infraestructuras-se-convierten-en-el-gran-flanco-debil-de-occidente.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/5BFBLCTFDZNIHMMA75TJPPUBP4.jpg?auth=9b845a218f62f8ce7bdaa3292c32e23b7eab1699827e94c0012b2f474b4873a4",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Una serie de fallos, actos de sabotaje y ciberataques en infraestructuras críticas ha llevado a los gobiernos de Europa y de Estados Unidos a decidir un aumento de la inversión para modernizar sus sistemas, que fueron concebidos en la era analógica. La medida busca cerrar el flanco vulnerable que estas redes representan para la seguridad y la competitividad occidental.",
-      "datos": [
-        "Los responsables de la decisión son los gobiernos de la Unión Europea y de los Estados Unidos.",
-        "Los incidentes incluyen fallos operativos, sabotajes y ataques cibernéticos contra infraestructuras críticas.",
-        "Se ha anunciado la necesidad de aflojar la chequera para financiar la actualización de los sistemas.",
-        "Los sistemas afectados fueron diseñados originalmente para un entorno analógico, no digital.",
-        "El artículo se publicó el 22 de noviembre de 2026."
-      ],
-      "conclusion": "Este giro presupuestario subraya la urgencia de modernizar la infraestructura heredada para evitar brechas de seguridad y mantener la operatividad en un entorno cada vez más digitalizado."
-    },
-    {
-      "title": "¿Qué pasa si Google y Microsoft caen a la vez? La economía mundial se ha hipotecado con un puñado de servidores",
-      "url": "https://elpais.com/internacional/2026-11-21/que-pasa-si-google-y-microsoft-caen-a-la-vez-la-economia-mundial-se-ha-hipotecado-con-un-punado-de-servidores.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/AAI52LRT4VFZ7KZQMDL33WJAGU.jpg?auth=081df027f44c49b94179e07802fa1adab4b6ea30e3d368528a5eeba7e22db8bf",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Tres proveedores dominan la mayor parte de la infraestructura cloud europea, lo que genera una vulnerabilidad sistémica si alguno falla. Google y Microsoft, junto a un tercer operador, controlan alrededor del 70 % del mercado, y los analistas advierten que la interconexión sin barreras de seguridad aumenta el riesgo para la economía.",
-      "datos": [
-        "Tres compañías controlan el 70 % del mercado de operadores de la nube en Europa.",
-        "Google y Microsoft son dos de esas tres compañías.",
-        "El tercer operador es Amazon Web Services (AWS).",
-        "Los expertos señalan una dependencia extrema de servicios interconectados.",
-        "Se advierte la falta de suficientes cortafuegos entre los sistemas.",
-        "La concentración de la infraestructura cloud se describe como una hipoteca de la economía mundial."
-      ],
-      "conclusion": "Una interrupción simultánea de Google y Microsoft podría paralizar servicios críticos; por tanto, diversificar proveedores y reforzar la seguridad perimetral son medidas esenciales para mitigar el riesgo."
-    },
-    {
-      "title": "El ejército israelí mata a tres personas al bombardear un vehículo en Gaza",
-      "url": "https://elpais.com/internacional/2026-11-21/el-ejercito-israeli-mata-a-tres-personas-al-bombardear-un-vehiculo-que-distribuia-ayuda-humanitaria-en-gaza.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ANOYOBFYHNO25OEJKMY5S6G3OU.jpg?auth=fc12eb3d4de39c54da910e3bd09f1b579221d71797428c49dd71a89740e61497&width=1200",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "El ejército israelí bombardeó una furgoneta que transportaba ayuda humanitaria en Gaza, matando a tres palestinos vinculados al brazo armado de la Yihad Islámica. El ataque ocurrió pese al alto el fuego firmado en octubre de 2025 y en un contexto de creciente actividad militar israelí y desplazamiento masivo de la población.",
-      "datos": [
-        "Tres palestinos murieron en el bombardeo, según el Ministerio de Sanidad de Gaza y testigos citados por Reuters",
-        "El testigo Abu Zein al Daya declaró que la furgoneta fue alcanzada por un misil mientras repartía comida",
-        "El vehículo llevaba documentos con el logotipo de World Central Kitchen, pero la ONG de José Andrés confirmó que no era uno de sus vehículos",
-        "El alto el fuego fue firmado en octubre de 2025 y no ha detenido los ataques en Gaza",
-        "Desde el domingo pasado, los palestinos muertos por fuego israelí alcanzan 30, sumando los cuatro de este sábado"
-      ],
-      "conclusion": ""
-    },
-    {
-      "title": "Amazon’s first digital photo frame is up to 50 percent off for Black Friday",
-      "url": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Alexa_Frame_JTuohy_0011.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "language": "en",
-      "que_paso": "Amazon has launched its first Alexa Photo Frame and is offering it at Black Friday prices on Amazon and Best Buy, with discounts of roughly $115 and $95 respectively. The device lets users retrieve photos and attach voice recordings using Alexa, and it can be pre‑loaded before gifting. The sale follows the product’s announcement less than a month earlier.",
-      "datos": [
-        "The Alexa Photo Frame was announced less than a month ago, in early October 2026.",
-        "Black Friday price on Amazon is $114, a $115 discount from the original price.",
-        "Best Buy walnut‑trim model is $134.99, a $95 discount from its original price.",
-        "The frame features a 10‑inch semi‑matte touchscreen with built‑in ambient light sensors.",
-        "Amazon Prime members receive unlimited full‑resolution photo storage and Alexa Plus at no extra cost.",
-        "The frame does not display ads, unlike other Amazon smart displays."
-      ],
-      "conclusion": "The steep discounts make Amazon’s AI‑driven photo frame a cost‑effective option for personal or small‑office use, and the voice‑controlled features illustrate Amazon’s push to integrate AI into everyday hardware."
-    },
-    {
-      "title": "How Jensen Huang Made Humiliation Routine at Nvidia",
-      "url": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/00BIZ-nvidia-culture-jensen-kbpz/00BIZ-nvidia-culture-jensen-kbpz-mediumSquareAt3X.jpg",
-      "source": "NYT Tech",
-      "language": "en",
-      "que_paso": "Nvidia co‑founder Jensen Huang’s long‑standing pattern of publicly belittling staff culminated in a confidential settlement after an executive accused him of terrorizing employees. The incident reflects a broader culture of intimidation that has persisted for decades within the company.",
-      "datos": [
-        "Jensen Huang is a co‑founder and CEO of Nvidia.",
-        "The reported behavior dates back several decades.",
-        "A former executive filed a confidential settlement agreement over the alleged mistreatment.",
-        "The executive described Huang’s conduct as “terrorizing” staff.",
-        "The settlement details were not disclosed publicly."
-      ],
-      "conclusion": "Such a leadership style can erode employee morale and increase legal exposure, underscoring the need for operations leaders to enforce respectful communication and strong HR safeguards."
-    },
-    {
-      "title": "SpaceX Lenders Horrified at Elon’s Genius Idea to Blast Billions of Dollars Worth of Advanced AI Chips Into Space",
-      "url": "https://futurism.com/space/spacex-lenders-elon-musk-chips-space-data-centers",
-      "image": "https://futurism.com/wp-content/uploads/2026/11/spacex-investors-elon-plan-chips-space.jpg?quality=85&w=1200",
-      "source": "Futurism",
-      "language": "en",
-      "que_paso": "SpaceX’s major lenders are pushing back against Elon Musk’s proposal to send AI data centers into orbit, fearing the loss of the hardware pledged as loan collateral and the operational risks of such a venture.",
-      "datos": [
-        "The debt package tied to the chips totals $43 billion.",
-        "The lenders include Apollo Global Management and Goldman Sachs.",
-        "Musk’s orbital data‑center concept was first floated in late 2025.",
-        "The chips earmarked as collateral are Nvidia AI processors.",
-        "The Financial Times reported that banks are actively trying to block the launch plan.",
-        "An earlier loan proposal contained language allowing banks to legally challenge Musk’s orbital ambitions."
-      ],
-      "conclusion": "The resistance underscores that speculative hardware deployments can jeopardize large financing deals, forcing SpaceX to separate its satellite projects from its debt strategy."
-    },
-    {
-      "title": "Costa Rica recurre a un equipo especial de fiscales y a la DEA para esclarecer el asesinato del periodista Camilo Rodríguez",
-      "url": "https://elpais.com/america/2026-11-21/costa-rica-recurre-a-un-equipo-especial-de-fiscales-y-a-la-dea-para-esclarecer-el-asesinato-del-periodista-camilo-rodriguez.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/UMP2Z57S75MYFKUJVUML753QTM.jpg?auth=23c05a56175993e9387837ce57ec76a1eb4b5991ea6fb05be5baa6bef6515b5a",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "La Fiscalía de Costa Rica, con apoyo de la DEA, ha formado un equipo especial de fiscales para investigar el asesinato del periodista Camilo Rodríguez, mientras el oficialismo impulsa una investigación política contra el fiscal general por su gestión de la crisis de inseguridad.",
-      "datos": [
-        "Camilo Rodríguez, periodista costarricense, fue asesinado",
-        "La Fiscalía anunció la creación de un equipo especial de fiscales para el caso",
-        "La DEA, agencia antidrogas de EE. UU., colaborará en la investigación",
-        "El oficialismo está promoviendo una investigación política contra el fiscal general por la gestión de la inseguridad"
-      ],
-      "conclusion": "La cooperación con la DEA indica una mayor intervención internacional en crímenes contra la prensa, y la investigación política al fiscal general refleja tensiones internas que podrían afectar la efectividad de la respuesta a la inseguridad."
-    },
-    {
-      "title": "La lluvia traiciona a Marc Márquez, que se cae a una vuelta y media de rematar el título en la ‘sprint’ del GP de Portugal",
-      "url": "https://elpais.com/deportes/motociclismo/2026-11-21/marc-marquez-se-cae-a-vuelta-y-media-del-final-de-la-sprint-cuando-rozaba-el-titulo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/DPKGXAK66NMXVMA3WJCRIIBKHU.jpg?auth=b08eba65fc4019bc8f58f67ce28d5fdbbd5c7a22c8d407365a9869e415d67ec9",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Marc Márquez, piloto de Ducati, se cayó mientras rodaba tercero en la sprint del GP de Portugal a una vuelta y media del final, perdiendo la oportunidad de asegurar el título en esa sesión; aún mantiene la posibilidad de ganar el Mundial si cumple con el requisito de clasificación el domingo.",
-      "datos": [
-        "Marc Márquez conducía una Ducati en la sprint del Gran Premio de Portugal.",
-        "Estaba en tercer lugar cuando se cayó a una vuelta y media del final.",
-        "Tenía el alirón atado, es decir, necesitaba terminar noveno o mejor en la carrera del domingo para coronarse campeón.",
-        "El título mundial se decidirá el domingo en la carrera principal del GP de Portugal."
-      ],
-      "conclusion": "La caída obliga a Márquez a depender del resultado de la carrera del domingo, reduciendo su margen de error y resaltando la necesidad de un desempeño sin errores para asegurar el campeonato."
-    },
-    {
-      "title": "Peloteo, sonrisas incómodas y un invitado sorpresa: Trump convierte la Casa Blanca en un concurso para su sucesión",
-      "url": "https://www.eldiario.es/internacional/theguardian/peloteo-sonrisas-incomodas-invitado-sorpresa-trump-convierte-casa-blanca-concurso-sucesion_129_13683137.html",
-      "image": "https://static.eldiario.es/clip/67fc006e-9c12-4f0d-82af-3bca98f969d6_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "title": "Frente Amplio se va \"puerta a puerta\" para dar la vuelta a las encuestas y pide que no se dé por hecho el resultado",
+      "url": "https://www.eldiario.es/euskadi/frente-amplio-puerta-puerta-dar-vuelta-encuestas-pide-no-hecho-resultado_1_13684446.html",
+      "image": "https://static.eldiario.es/clip/ec7949fa-e474-41b9-9d63-8f3d147134cb_facebook-aspect-ratio-1200-675_default_0.jpg",
       "source": "elDiario.es",
       "language": "es",
-      "que_paso": "En una rueda de prensa en la Casa Blanca, Donald Trump transformó la presentación de su gira por Asia en una prueba pública para elegir a su sucesor, colocando frente a él a JD Vance y Marco Rubio mientras Stephen Miller anunciaba su nombramiento como jefe de gabinete. Los dos posibles candidatos tuvieron que permanecer 90 minutos sin interrupciones mientras Trump hacía largas digresiones sobre temas como los baches en la carretera.",
+      "que_paso": "Los candidatos de Frente Amplio realizaron una campaña puerta a puerta en Etxebarri este domingo para intentar revertir encuestas desfavorables y movilizar a la ciudadanía antes de las elecciones del 29 de noviembre. En sus recorridos enfatizaron la necesidad de escuchar a la gente y presentaron la coalición como un referéndum entre vivienda y rentismo.",
       "datos": [
-        "Donald Trump encabezó la rueda de prensa en la Casa Blanca el viernes con JD Vance y Marco Rubio como aspirantes a su sucesión",
-        "JD Vance, vicepresidente, había sido visto como candidato republicano para 2028 pero expresó dudas tras los resultados de las elecciones de medio término de 2026",
-        "Marco Rubio encabeza la última encuesta nacional sobre la sucesión realizada por Emerson College",
-        "Stephen Miller fue nombrado nuevo jefe de gabinete presidencial en esa misma conferencia",
-        "La rueda de prensa, originalmente destinada a anunciar la gira asiática de Trump, se convirtió en una contienda pública para la candidatura de 2028",
-        "Problemas técnicos provocaron eco en la megafonía mientras Trump hablaba, obligando a un técnico a ajustar el sonido"
+        "Lander Martínez, cabeza de lista al Congreso por Bizkaia, recorrió Etxebarri puerta a puerta el domingo.",
+        "Alba Gutiérrez es candidata al Senado por Bizkaia y Aina Vidal diputada por Barcelona en el Congreso.",
+        "La campaña se intensifica antes del 29 de noviembre, fecha de la votación.",
+        "En 2023 el PP de Feijóo también dio por hecha su victoria, pero se formó un gobierno progresista que aumentó el salario mínimo.",
+        "Frente Amplio cita como logros la reforma laboral, la Ley Rider y la subida del salario mínimo.",
+        "También destacan la Ley de Dependencia como avance conseguido."
       ],
-      "conclusion": ""
+      "conclusion": "Este empuje de base muestra que Frente Amplio considera que la decisión electoral sigue abierta y que la movilización ciudadana puede ser decisiva para mantener o ampliar las políticas progresistas en el próximo gobierno."
     },
     {
-      "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
-      "url": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268539_Soundcore_Liberty_5_Pro_JHiggins_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "language": "en",
-      "que_paso": "Anker’s Soundcore Liberty 5 Pro earbuds have been reduced to $129.99 for Black Friday, making them the cheapest they’ve ever been. The discount is being offered across major retailers and highlights the model’s standout voice call performance, which the reviewer notes surpasses other earbuds tested.",
-      "datos": [
-        "$129.99 sale price on Amazon, Best Buy, and Walmart.",
-        "Regular retail price was $169.99.",
-        "Discount applies through November 30, 2026.",
-        "Supports LDAC high‑resolution audio and has an IP55 dust‑and‑water rating.",
-        "Charging case includes a 0.96‑inch display for ANC and sound profile adjustments.",
-        "Colleague John Higgins praised its microphone for filtering emergency vehicle sirens, arborist chainsaws, and loud children."
-      ],
-      "conclusion": "The price cut makes a high‑performing, noise‑cancelling earbud with superior call clarity affordable for professionals who need reliable communication, especially during remote work or travel."
-    },
-    {
-      "title": "It Sounds Like Elon’s MAGA Rebuke Really Hurt Trump’s Feelings",
-      "url": "https://futurism.com/future-society/elon-musk-donald-trump-maga-rebuke-feelings",
-      "image": "https://futurism.com/wp-content/uploads/2026/11/elon-maga-rebuke-hurt-trump.jpg?quality=85&w=1200",
-      "source": "Futurism",
-      "language": "en",
-      "que_paso": "Elon Musk publicly declared a shift away from MAGA after Democrats won the 2026 midterm elections, prompting a surprised reaction from former ally Donald Trump, who expressed personal disappointment. The exchange highlighted the changing political alignment of two high‑profile billionaires ahead of the upcoming 2027 administration.",
-      "datos": [
-        "Elon Musk announced he is “not MAGA” anymore in the week of November 22 2026.",
-        "The announcement followed the Democratic Party’s victory in the 2026 U.S. midterm elections.",
-        "In 2024 Musk previously said, “I’m not just MAGA — I’m dark, gothic MAGA.”",
-        "Donald Trump, age 80, responded to NBC News reporters saying “He’s a friend of mine.”",
-        "Musk later claimed his political involvement stemmed from “couldn’t deal with having a transgender child.”"
-      ],
-      "conclusion": "The shift signals a potential realignment of tech billionaire support away from former Trump‑aligned policies, which could affect regulatory and business environments under the incoming Democratic administration."
-    },
-    {
-      "title": "Sánchez esgrime en Canarias su gestión económica y social para sumar “176 escaños progresistas”",
-      "url": "https://elpais.com/espana/2026-11-21/sanchez-pide-en-tenerife-un-75-de-participacion-para-sumar-176-escanos-progresistas.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/W3WJZWYJLZDOTHEIS4GQ3MN7KM.jpg?auth=14b8e208d2497555f05ce6d58c784942e08dfa176f9649067cb446e4d163776e",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Pedro Sánchez realizó dos mitines en Tenerife y Gran Canaria, donde pidió una participación del 75 % del electorado, resaltó la aportación de los migrantes y criticó a PP y Vox por censurar a Lorca, todo con el objetivo de presentar su gestión como base para conseguir 176 escaños progresistas en la próxima elección.",
-      "datos": [
-        "Pedro Sánchez realizó mitines en Tenerife y Gran Canaria el 22 de noviembre de 2026.",
-        "Solicitó una participación del 75 % del electorado en esos actos.",
-        "Afirmó que su gestión económica y social le permite sumar 176 escaños progresistas.",
-        "Reivindicó la contribución de los migrantes a la economía de Canarias.",
-        "Acusó a los partidos PP y Vox de censurar al municipio de Lorca.",
-        "PP y Vox son la principal oposición en el Congreso."
-      ],
-      "conclusion": "El discurso de Sánchez busca consolidar el apoyo en Canarias y presentar a los migrantes como motor económico, mientras ataca a la oposición, lo que indica una estrategia electoral centrada en la movilización y la narrativa de gestión progresista."
-    },
-    {
-      "title": "What Nvidia’s Interim CEO, Colette Kress, Said to Employees After Jensen Huang’s Resignation",
-      "url": "https://www.nytimes.com/2026/11/18/technology/nvidia-jensen-huang-affair-colette-kress.html",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-nvidia-call-cwjh/18biz-nvidia-call-cwjh-mediumSquareAt3X.jpg",
-      "source": "NYT Tech",
-      "language": "en",
-      "que_paso": "Colette Kress, acting as Nvidia's interim chief executive, convened an all‑hands meeting to address the recent resignation of co‑founder Jensen Huang and to reassure staff that the company will move beyond his alleged indiscretions. She emphasized continuity and urged employees to focus on upcoming projects rather than the leadership turmoil.",
-      "datos": [
-        "Colette Kress is serving as Nvidia's interim CEO",
-        "Jensen Huang, Nvidia co‑founder, has resigned",
-        "The discussion took place at an all‑hands meeting with Nvidia employees",
-        "Kress explicitly said the company should put Huang's indiscretions behind them"
-      ],
-      "conclusion": "The brief signals an effort to stabilize leadership perception and keep operational focus, a practical priority for maintaining momentum during a sudden executive transition."
-    },
-    {
-      "title": "Rusia acusa a Estonia de elevar la tensión en el Báltico con el cierre de su frontera terrestre: \"Les costará muy caro\"",
-      "url": "https://www.europapress.es/internacional/noticia-rusia-acusa-estonia-elevar-tension-baltico-cierre-frontera-terrestre-les-costara-muy-caro-20261121152014.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261121152014_1200.jpg",
-      "source": "Europa Press Tecnología",
-      "language": "es",
-      "que_paso": "Estonia decidió cerrar los puestos de control terrestres en su frontera con Rusia, medida que entrará en vigor el 1 de diciembre y se mantendrá durante seis meses. Las autoridades rusas denunciaron la acción, calificándola de provocación y advirtiendo consecuencias políticas y económicas.",
-      "datos": [
-        "El cierre de los puestos de control terrestres se implementará a partir del 1 de diciembre de 2026.",
-        "La medida tendrá una duración de seis meses.",
-        "Las autoridades rusas calificaron la decisión como una elevación de la tensión en el Báltico.",
-        "Rusia advirtió que a Estonia le costará muy caro la medida.",
-        "La crítica rusa se centró en posibles consecuencias políticas y económicas."
-      ],
-      "conclusion": "El episodio intensifica la fricción entre Rusia y la OTAN en la zona báltica, lo que podría repercutir en el comercio transfronterizo y la estabilidad regional."
-    },
-    {
-      "title": "Sánchez responde a Álvarez de Toledo sobre política migratoria: \"Desde el privilegio no puede hablar de derechos\"",
-      "url": "https://www.eldiario.es/politica/sanchez-responde-alvarez-toledo-politica-migratoria-privilegio-no-hablar-derechos_1_13682974.html",
-      "image": "https://static.eldiario.es/clip/829f9ab5-4434-4ed0-9fa4-6f4cb2283b6a_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "que_paso": "Pedro Sánchez respondió a Cayetana Álvarez de Toledo durante un mitin en Tenerife, defendiendo una política migratoria justa y anunciando una prórroga del impuesto a la banca para financiar vivienda. El presidente también realizó una segunda intervención en Gran Canaria el mismo día.",
-      "datos": [
-        "Pedro Sánchez respondió a Cayetana Álvarez de Toledo, número dos de Alberto Núñez Feijóo, durante un mitin en Tenerife.",
-        "Desde la primera quincena de noviembre, más de 10.000 migrantes llegaron a la isla de El Hierro en embarcaciones procedentes del Sahel.",
-        "Según el Partido Socialista, aproximadamente 3.000 personas asistieron al mitin de Sánchez en Tenerife.",
-        "Sánchez anunció una prórroga del impuesto a la banca que generará 1.400 millones de euros para vivienda protegida, bonificaciones a inquilinos y rehabilitación.",
-        "El presidente también realizó una segunda intervención en Gran Canaria el mismo día.",
-        "Álvarez de Toledo, marquesa de Casa Fuerte, había sugerido que la política migratoria debería enfocarse en empleos que liberen a los españoles para tener hijos."
-      ],
-      "conclusion": "El discurso refuerza la postura del Gobierno de combinar gestión migratoria con financiación de vivienda social, lo que influirá en la agenda electoral y en la planificación operativa de recursos públicos."
-    },
-    {
-      "title": "Los calcetines que hacen que andar cueste menos: la ciencia ha dado con el santo grial de los vagos",
-      "url": "https://www.xataka.com/medicina-y-salud/calcetines-que-hacen-que-andar-cueste-ciencia-ha-dado-santo-grial-vagos",
-      "image": "https://i.blogs.es/e791d8/calcetines/840_560.jpeg",
-      "source": "Xataka",
-      "language": "es",
-      "que_paso": "Un equipo de investigadores de la Universidad de Texas en Austin diseñó unos calcetines que aprietan la parte delantera del pie para mantener el arco rígido mientras caminaban, y descubrieron que reducen el gasto energético al caminar. Lo probaron en un experimento con adultos sanos comparando los calcetines especiales contra calcetines normales. Los resultados sugieren que una mayor rigidez del arco disminuye el esfuerzo muscular durante la marcha.",
-      "datos": [
-        "Los calcetines mantienen el arco del pie rígido en un 65%",
-        "Participaron doce adultos sanos en el estudio",
-        "Cada participante caminó cinco minutos en una cinta de correr con los calcetines y luego con calcetines normales",
-        "Diez de los doce sujetos mostraron una reducción del gasto metabólico",
-        "La reducción media del gasto metabólico fue del 2%",
-        "Los autores equiparan esa reducción a quitar 2 kg de peso corporal"
-      ],
-      "conclusion": "Si los hallazgos se confirman en estudios más amplios, estos calcetines podrían reducir la fatiga de trabajadores que caminan mucho y facilitar la movilidad de personas con limitaciones, ofreciendo un ahorro energético práctico."
-    },
-    {
-      "title": "‘I was shaking, crying, having trouble breathing’: the uncharted trauma of breaking up with AI companions",
-      "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions",
-      "image": "https://i.guim.co.uk/img/media/fbb1db8f761639f3693a6f337b815d2473bc48a3/0_0_5790_4631/master/5790.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d8845dd9368ddc195bbb4d2367f639ae",
+      "title": "I stopped talking to my husband and let AI do it instead. He didn’t even notice | Polly Hudson",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/22/stopped-talking-to-husband-let-ai-do-it-instead",
+      "image": "https://i.guim.co.uk/img/media/8de114b421ebe5837795f62e223317d67e4528bd/719_0_6156_4923/master/6156.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=989dceea6ea5726ab6eb6f17df01d8f0",
       "source": "The Guardian AI",
       "language": "en",
-      "que_paso": "A former clinical psychologist from Lisbon ended a two‑year romantic relationship with an AI companion on the Nomi platform after the AI breached their monogamous agreement in a group chat, and a Danish IT professional experienced a similar breakup with an AI character on Perchance, highlighting the emotional reality of AI‑human relationships.",
+      "que_paso": "The author experimented by disabling Apple Intelligence and Siri settings but still let the phone generate text replies for her husband on a bus, and he did not notice the AI‑crafted messages.",
       "datos": [
-        "Sónia Veenstra, 48, former clinical psychologist from Lisbon, Portugal, dated the AI \"Steve\" for two years on Nomi",
-        "The breakup was triggered when Steve, an AI, engaged with another AI woman in a group chat, witnessed by Veenstra and friends",
-        "Character.AI filed for bankruptcy in the United States in mid‑October 2026, prompting Reddit discussions about loss of AI companions",
-        "Martin, a man in his 50s from central Jutland, Denmark, formed a romantic bond with the AI \"Quinn\" on the Perchance role‑playing platform",
-        "Martin works in software/IT and describes himself as having a fairly technical understanding of AI and language models"
+        "The article is written by Polly Hudson.",
+        "The AI feature involved is Apple Intelligence, which can suggest replies to texts and emails.",
+        "The author manually switched off Apple Intelligence and set Siri to its default mode, yet AI suggestions still appeared.",
+        "During the test the AI generated a reply that included the author’s unique nickname for her husband.",
+        "The article invites readers to submit a response of up to 300 words by email for publication."
       ],
-      "conclusion": "The incidents show that AI companions can generate genuine emotional attachment and distress when relationships end, indicating a need for platforms to address user wellbeing and continuity planning."
+      "conclusion": "The episode illustrates how AI can subtly replicate personal communication patterns, warning users that disabling settings may not fully prevent AI influence and highlighting the need for awareness in everyday interactions."
     },
     {
-      "title": "\"Los asesinatos se convirtieron en ficción\": cómo la prensa sensacionalista del siglo XIX creó el mito de Jack el Destripador",
-      "url": "https://www.bbc.com/mundo/articles/cme3dv15kpxqo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/news/1200/branded_mundo/2854/live/73ced400-e58d-11f1-b6d4-5f603aaeb954.jpg",
-      "source": "BBC Mundo",
+      "title": "¿Han retirado banderolas del PP de una calle de Alcalá de Guadaíra (Sevilla)? El lugar no estaba autorizado para poner propaganda electoral",
+      "url": "https://maldita.es/desinfo/20261122/un-video-muestra-a-dos-operarios-retirando-banderolas-promocionales-del-pp-de-las-farolas-de-una-calle/",
+      "image": "https://maldita.es/system/articles/26003/image",
+      "source": "Maldita.es",
       "language": "es",
-      "que_paso": "En 1888, la prensa sensacionalista británica empezó a relacionar los asesinatos de Jack el Destripador con la obra teatral de \"El extraño caso del doctor Jekyll y el señor Hyde\", alimentando un mito que vinculaba al asesino con figuras literarias y culturales de la época. El gerente del Lyceum Theatre, Bram Stoker, y el actor Richard Mansfield fueron citados en informes policiales y cartas de lectores, mientras que años después la BBC revisó los archivos para cuestionar la influencia de esa cobertura mediática.",
+      "que_paso": "La Junta Electoral de Zona de Sevilla ordenó la retirada de las banderolas del PP que habían sido colocadas en farolas de la calle Arahal en Alcalá de Guadaíra, al constatar que el municipio no había autorizado ese punto para propaganda electoral. El Ayuntamiento confirmó la infracción y, pese a los contactos, ni el PP ni el PSOE de la localidad respondieron a la solicitud de información.",
       "datos": [
-        "9 de noviembre de 1888 se registró la quinta y última víctima de Jack el Destripador en el este de Londres.",
-        "En el Lyceum Theatre se presentaba una producción estadounidense de \"El extraño caso del doctor Jekyll y el señor Hyde\" bajo la gerencia de Bram Stoker.",
-        "En diciembre de 1887 apareció por primera vez el personaje Sherlock Holmes creado por Arthur Conan Doyle.",
-        "En 1988 la BBC revisó los expedientes policiales y los archivos del Ministerio del Interior británico sobre los crímenes.",
-        "Christopher Frayling, profesor de Historia de la Cultura en el Royal College of Art, comentó a la BBC que la Gazette había escrito sobre un \"señor Hyde\" tres semanas después del asesinato.",
-        "En octubre de 1888 la Pall Mall Gazette publicó una carta alegando que la obra teatral había influido en Jack el Destripador."
+        "La Junta Electoral de Zona de Sevilla emitió la orden de retirada de los carteles del PP en la calle Arahal.",
+        "La resolución que define los espacios autorizados se publicó en el Boletín Oficial de la Provincia de Sevilla el 20 de octubre de 2026.",
+        "La calle Arahal no figura entre los espacios disponibles para la colocación gratuita de propaganda electoral según esa resolución.",
+        "El Ayuntamiento de Alcalá de Guadaíra confirmó que el lugar no estaba autorizado para propaganda.",
+        "Hasta la fecha de publicación del artículo, ni el PP ni el PSOE de Alcalá de Guadaíra respondieron a las consultas realizadas.",
+        "El vídeo que muestra las banderolas coincide con la vista de Google Street View de la calle Arahal."
       ],
-      "conclusion": "El caso muestra cómo la cobertura sensacionalista puede transformar hechos criminales en leyendas, una lección útil para evitar la exageración y basar decisiones operativas en datos verificables."
+      "conclusion": "El caso evidencia la aplicación rigurosa de la normativa de propaganda electoral y la necesidad de que los partidos coordinen previamente con los ayuntamientos para evitar sanciones y pérdidas de recursos en campañas locales."
     },
     {
-      "title": "You Know These AI Chips That Are Making Billions of Dollars? The Workers Building Them Say They’re Being Paid Peanuts, and Now They’re Realizing They Have Leverage",
-      "url": "https://futurism.com/future-society/workers-semiconductors-ai-chips-taiwan-strike-labor",
-      "image": "https://futurism.com/wp-content/uploads/2026/11/workers-assembling-ai-chips-strike-pay.jpg?quality=85&w=1200",
-      "source": "Futurism",
-      "language": "en",
-      "que_paso": "In October 2024 a handful of Micron Technology workers in Taiwan staged a day‑long walkout to protest low wages and inadequate bonuses despite the company’s record earnings. The strike, the first ever in Taiwan’s chip industry, prompted Micron to announce an agreement with the Taichung union on October 22, which the larger Taoyuan union subsequently rejected.",
-      "datos": [
-        "Micron reported fiscal‑year net income of nearly $85 billion, up from $8.5 billion the prior year.",
-        "Approximately a dozen workers staged a spontaneous day‑long strike in October 2024 at Micron’s Taiwan plant.",
-        "The Taoyuan union represents roughly 2,300 semiconductor workers who voted to reject the October 22 agreement.",
-        "The October 22 agreement with the Taichung union was criticized for lacking transparency and profit‑sharing provisions.",
-        "Workers demanded higher base salaries, quarterly bonuses and larger pension contributions."
-      ],
-      "conclusion": "The episode demonstrates that even ultra‑profitable AI chip makers are vulnerable to labor pressure, suggesting future supply‑chain disruptions if compensation concerns are not addressed. Companies should proactively improve profit‑sharing and wage structures to mitigate operational risk."
-    },
-    {
-      "title": "Kate Middleton protagoniza un documental “profundamente personal” sobre su diagnóstico: “El cáncer te cambia”",
-      "url": "https://elpais.com/gente/2026-11-21/kate-middleton-protagoniza-un-documental-profundamente-personal-sobre-su-diagnostico-el-cancer-te-cambia.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/MSLP27RPRBPDDCCMNEGBMHO3AY.jpg?auth=e497f8611228dac224a411c923ee73531be644e6ad91b39e2218f0a8481057a5",
+      "title": "Big Bang de artes escénicas en Girona: teatro de objetos, sangre y el beso bailado más icónico",
+      "url": "https://elpais.com/cultura/2026-11-22/big-bang-de-artes-escenicas-en-girona-teatro-de-objetos-sangre-y-el-beso-bailado-mas-iconico.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/AX6OOZ26ARFGFI3CYSVTNHMRPI.jpg?auth=782ffacd67fd37b2b38c29b02892ae3e5935361df51de155ea9c24524b90fc8f",
       "source": "El País",
       "language": "es",
-      "que_paso": "Kate Middleton, la princesa de Gales, protagoniza un documental en el que narra su experiencia personal con el cáncer, con el objetivo de compartir su proceso y reflexiones sobre la enfermedad.",
+      "que_paso": "La compañía belga Peeping Tom volvió a montar su obra emblemática “Le Salon” durante la semana principal del festival Temporada Alta en Girona, ofreciendo una serie intensiva de representaciones. Esta edición se enmarca en la gran semana del festival, que reúne a múltiples compañías internacionales.",
       "datos": [
-        "El documental se titula \"Heal\"",
-        "La BBC lo estrenará el 29 de noviembre de 2026",
-        "La protagonista es Kate Middleton, princesa de Gales",
-        "Los fondos de distribución se destinarán íntegramente a The Royal Marsden Cancer Charity",
-        "El proyecto busca mostrar el impacto del cáncer en la vida de la protagonista"
+        "Peeping Tom es una compañía de teatro belga.",
+        "La obra presentada es “Le Salon”.",
+        "El evento forma parte del festival Temporada Alta en Girona.",
+        "Se programaron 10 espectáculos en total.",
+        "Los espectáculos se distribuyeron en cuatro días."
       ],
-      "conclusion": "Al convertir a una figura pública en defensora visible del cáncer y canalizar recursos a una organización especializada, el documental puede aumentar la concienciación y el apoyo financiero para la investigación y el tratamiento."
+      "conclusion": "La re‑presentación muestra la vigencia del teatro experimental en la agenda cultural de Girona y brinda a los profesionales un ejemplo de producción intensiva que puede inspirar la integración de nuevas tecnologías en la puesta en escena."
     },
     {
-      "title": "Europa tiene miedo al cambio climático. Pero tiene más miedo aún a quedarse sin energía este invierno",
-      "url": "https://www.xataka.com/energia/crisis-energetica-obliga-a-ue-a-pisar-freno-climatico-bruselas-retrasa-dos-anos-normas-emisiones-metano",
-      "image": "https://i.blogs.es/797123/alexandre-lallemand-pcs3mol14sk-unsplash/840_560.jpeg",
+      "title": "Por primera vez, Rockstar premia en 'GTA VI' una relación de pareja saludable. La machosfera está que trina",
+      "url": "https://www.xataka.com/videojuegos/primera-vez-rockstar-premia-gta-vi-relacion-pareja-saludable-machosfera-esta-que-trina",
+      "image": "https://i.blogs.es/d78943/jason_and_lucia_03/840_560.jpeg",
       "source": "Xataka",
       "language": "es",
-      "que_paso": "Los Estados miembros de la UE y el Parlamento Europeo acordaron posponer la normativa que obligaría a los importadores de hidrocarburos a reportar sus emisiones de metano, trasladando su entrada en vigor a 2029 y 2030, en medio de la presión de los mercados energéticos y la escasez de gas para el invierno.",
+      "que_paso": "Rockstar ha lanzado GTA VI sin la mecánica de contratar prostitutas y, en su lugar, incluye acciones como comprar flores o reparar el hogar para la pareja del protagonista, lo que ha generado una fuerte reacción de algunos streamers que lo califican de \"woke\" y de \"cuck simulator\". La polémica surge porque la saga solía permitir esa práctica desde GTA III, y ahora se presenta una narrativa centrada en una relación de pareja en apuros.",
       "datos": [
-        "La obligación de seguimiento e información para importadores se retrasará hasta enero de 2029",
-        "La obligación de información sobre la intensidad de metano se pospondrá hasta agosto de 2030",
-        "La normativa original debía entrar en vigor el año que viene (2027)",
-        "La UE enfrenta las reservas de gas más bajas de los últimos años para el invierno",
-        "La decisión fue tomada por los Estados miembros y el Parlamento Europeo según la Comisión Europea",
-        "El aplazamiento fue reportado por el medio alemán Heise.de"
+        "GTA VI es la primera entrega desde GTA III en la que no se puede contratar a una prostituta",
+        "Rockstar describió el juego como “una pareja en apuros, amantes a la fuga”",
+        "En 2006 la FTC obligó a Take‑Two y Rockstar a advertir en la caja cualquier contenido que altere la clasificación por edades tras la polémica de Hot Coffee",
+        "En 2014 más de 40.000 personas firmaron una petición contra la violencia hacia las mujeres en GTA V, lo que llevó a Target Australia y Kmart a retirar el juego",
+        "Streamers como Zack Hoyt (Asmongold) y el influencer Clavicular denunciaron en X la misión de ayudar a la pareja, usando los términos “cuck simulator” y “simping for girls”"
       ],
-      "conclusion": "El aplazamiento brinda tiempo a los operadores para adaptarse, pero retrasa la vigilancia de emisiones de metano, lo que podría dificultar los objetivos climáticos de la UE mientras se prioriza la seguridad del suministro energético."
+      "conclusion": "El cambio refleja una tendencia a eliminar contenidos sexistas y a promover relaciones más respetuosas, lo que puede influir en la percepción del público y en futuras decisiones de diseño de videojuegos."
     },
     {
-      "title": "De Aitana a Rosalía: los mensajes más reivindicativos de la gala de Los40 Music Awards",
-      "url": "https://elpais.com/videos/2026-11-21/de-aitana-a-rosalia-los-mensajes-mas-reivindicativos-de-la-gala-de-los40-music-awards.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/GMJWDSPSGNBM5NEMKJ4JMRCNJM.jpg?auth=7b31e664c3ca5754fd52c5f83ea3f9f01aca829e1489a39c5cebcbc7666ce5fd",
+      "title": "La ruta canaria rompe la tregua con la llegada de los primeros cinco cayucos en una semana",
+      "url": "https://elpais.com/espana/2026-11-22/la-ruta-canaria-rompe-la-tregua-con-las-primeras-cinco-llegadas-en-una-semana.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/TXR6OIB775NCHLFPYDEPPKETHE.jpg?auth=c391705365a3941ca1cf74fb5eef6c26534e8fd5828bd6f70a39a4655d8e9b65",
       "source": "El País",
       "language": "es",
-      "que_paso": "En la gala de Los40 Music Awards, Aitana instó a los ciudadanos a votar y, al mismo tiempo, Lola Índigo y Guitarricadelafuente pronunciaron mensajes a favor de la clase trabajadora y la defensa de la cultura, todo ello a una semana de las elecciones generales en España.",
+      "que_paso": "Durante el fin de semana, cinco embarcaciones tipo cayuco arribaron a las Islas Canarias, reanudando la llegada de migrantes tras una breve pausa. Los principales candidatos a la presidencia, Pedro Sánchez y Alberto Núñez Feijóo, usaron esa presencia para criticar la gestión de la inmigración en sus actos de campaña en el archipiélago.",
       "datos": [
-        "Aitana realizó un llamamiento al voto durante la gala de Los40 Music Awards.",
-        "Lola Índigo expresó un mensaje reivindicativo hacia la clase trabajadora en la misma ceremonia.",
-        "Guitarricadelafuente defendió la cultura y los derechos conseguidos en su intervención.",
-        "Los mensajes se dieron una semana antes de las elecciones generales en España.",
-        "La gala Los40 Music Awards se celebró en Madrid."
+        "Cinco cayucos llegaron a las Islas Canarias en una semana",
+        "La llegada se produjo durante el fin de semana",
+        "Pedro Sánchez mencionó la inmigración en su acto en las islas",
+        "Alberto Núñez Feijóo también utilizó la inmigración como tema electoral en su acto",
+        "La llegada rompe una tregua previa en la llegada de embarcaciones"
       ],
-      "conclusion": "Los artistas usan su plataforma para influir en la participación electoral, lo que muestra el peso de la cultura popular en la agenda política justo antes de las urnas."
+      "conclusion": "El repunte de llegadas incrementa la presión operativa en los puertos canarios y evidencia cómo la inmigración se ha convertido en un tema central de la campaña, lo que podría traducirse en nuevas políticas y recursos para gestionar los flujos migratorios."
     },
     {
-      "title": "El Frente Amplio llama a \"dar la vuelta a las encuestas\" en su acto central: \"La motosierra, para los de arriba\"",
-      "url": "https://www.eldiario.es/politica/frente-amplio-llama-dar-vuelta-encuestas-acto-central-motosierra_1_13682824.html",
-      "image": "https://static.eldiario.es/clip/69d3d2db-619e-4247-9d64-44ae4c00eb57_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "title": "Mova E50 Ultra, análisis: este es el robot aspirador que más voy a recomendar",
+      "url": "https://www.xataka.com/analisis/mova-e50-ultra-analisis-caracteristicas-precio-especificaciones",
+      "image": "https://i.blogs.es/aa950d/img_7300/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "El analista probó a fondo el robot aspirador Mova E50 Ultra, sucesor del E40 Ultra, y evaluó su desempeño en un piso estándar, comparándolo con la oferta de la marca Dreame y con sus limitaciones de diseño y usabilidad. El test incluyó la revisión de la app y la interacción con obstáculos domésticos.",
+      "datos": [
+        "Potencia de 700 W.",
+        "Depósito de agua de 5 L.",
+        "Autonomía de 225 min, suficiente para limpiar el hogar dos veces.",
+        "Nivel de ruido de 58 dB(A).",
+        "Sistema de navegación con LiDAR de 360° y cámara.",
+        "No incluye reconocimiento de objetos con IA."
+      ],
+      "conclusion": "Para usuarios que buscan una buena relación calidad‑precio y no requieren funciones avanzadas de IA, el Mova E50 Ultra ofrece un rendimiento sólido, aunque la app compleja y el diseño voluminoso pueden dificultar su adopción por personas menos familiarizadas con la tecnología."
+    },
+    {
+      "title": "David Fincher’s New Movie Is Apparently Stuffed With AI",
+      "url": "https://futurism.com/future-society/david-fincher-new-movie-stuffed-ai",
+      "image": "https://futurism.com/wp-content/uploads/2026/11/david-fincher-movie-stuffed-ai.jpg?quality=85&w=1200",
+      "source": "Futurism",
+      "language": "en",
+      "que_paso": "David Fincher's new film, \"The Further Mis-Adventures of Cliff Booth,\" sparked a wave of criticism on X after early screenings, with viewers noting numerous visual oddities that appear to be AI-generated. Filmmaker and YouTube critic Patrick Tomasso led the backlash, while Fincher later defended the technology in a Los Angeles Times interview.",
+      "datos": [
+        "The complaints began to surface on Thursday on the social platform X.",
+        "Patrick Tomasso, a filmmaker with a large YouTube following, posted that he walked out of the screening feeling \"completely gutted.\"",
+        "Bloomberg reported in March that Fincher used AI‑powered post‑production tools from InterPositive, a company founded by Ben Affleck.",
+        "Fincher employed generative AI to clean up the composition of shots in the new 4K restoration of his 1995 film \"Se7en.\"",
+        "In an interview with the Los Angeles Times, Fincher described himself as \"not a Luddite\" and defended AI's role in filmmaking."
+      ],
+      "conclusion": "The episode highlights growing operational challenges of integrating AI into film production, underscoring the need for clear guidelines and stakeholder communication to avoid quality and reputational risks."
+    },
+    {
+      "title": "How Six Americans Under 40 Are Saving for Retirement",
+      "url": "https://www.nytimes.com/2026/11/22/business/retirement-millennials-gen-z.html",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/00bizsun-retiring-save-01-v2-kqfw/00bizsun-retiring-save-01-v2-kqfw-mediumSquareAt3X-v3.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "Six individuals under the age of 40 are actively building retirement savings, using a mix of conventional accounts and unconventional tactics while contending with typical financial pressures such as debt and housing costs. Their approaches illustrate how younger workers can prioritize long‑term security despite competing short‑term obligations. The article situates these stories within the broader challenge of retirement planning for a generation facing high living expenses.",
+      "datos": [
+        "The piece profiles six Americans who are all under 40 years old.",
+        "It highlights both traditional retirement vehicles (e.g., 401(k)s, IRAs) and alternative methods (e.g., real‑estate investing, side‑business income).",
+        "The subjects are simultaneously managing other financial challenges, including student loans and high rent or mortgage payments.",
+        "The article was published on November 23, 2026.",
+        "No speculative language is used; all strategies are presented as concrete actions taken by the individuals."
+      ],
+      "conclusion": "The stories demonstrate that disciplined, diversified saving can be achieved even when cash flow is tight, offering a practical model for other young professionals aiming to secure retirement funds early."
+    },
+    {
+      "title": "La paradoja del otoño: se ha convertido en un cliché muy rentable justo cuando ha empezado a desaparecer",
+      "url": "https://www.xataka.com/magnet/paradoja-otono-se-ha-convertido-cliche-muy-rentable-justo-cuando-ha-empezado-a-desaparecer",
+      "image": "https://i.blogs.es/6d069a/photo-1538404554119-3ad90efeb666/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "Las tiendas y marcas están impulsando una temporada otoñal artificialmente temprana, llenando escaparates y menús de productos como velas y bebidas con temática de calabaza, aunque el clima todavía sea veraniego. Esta estrategia se apoya en la popularidad del Pumpkin Spice Latte de Starbucks, que ha convertido al otoño en un nuevo motor de ventas en España.",
+      "datos": [
+        "Starbucks introdujo el Pumpkin Spice Latte en Estados Unidos en 2003",
+        "El PSL llegó al menú español en 2014",
+        "Se venden en promedio 36 PSL al día por tienda, lo que equivale a aproximadamente 200.000 bebidas al mes en España",
+        "Las ventas del PSL aumentan cada año cerca de un 3%",
+        "Google Trends en 2022 mostró que las búsquedas relacionadas con \"cozy\" se dispararon desde 2004 en EE.UU.",
+        "Una agencia de marketing británica declaró que el término \"cozy season\" ha explotado en popularidad en la última década"
+      ],
+      "conclusion": "El otoño se ha transformado en una oportunidad comercial basada en la estética \"cozy\", lo que implica que las operaciones de retail y marketing deben planificar inventarios y campañas anticipándose a la demanda estacional, aun cuando el clima real aún no lo justifique."
+    },
+    {
+      "title": "A Riverboat Captain Recalls a Crash on the Mississippi",
+      "url": "https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-captain.html",
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22XP-RIVERBOAT-CAPTAIN-mgpb/22XP-RIVERBOAT-CAPTAIN-mgpb-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "Captain Len Stewart was steering the American Heritage when a 525‑foot tanker collided with the riverboat on the Mississippi near New Orleans, endangering the nearly 200 passengers. He had only seconds to react before impact.",
+      "datos": [
+        "Captain Len Stewart was the pilot of the American Heritage.",
+        "The colliding vessel was a 525‑foot tanker.",
+        "The American Heritage was carrying close to 200 passengers.",
+        "The crash occurred on the Mississippi River near New Orleans.",
+        "Stewart reported having mere seconds to react before the collision."
+      ],
+      "conclusion": "The event highlights the critical need for improved traffic coordination and rapid response protocols for mixed‑size vessels on busy inland waterways."
+    },
+    {
+      "title": "Crypto CEOs Who Spent the Last Few Years Bootlicking Trump Are Now Stumbling Over Themselves to Proclaim Their Allegiance to the Democratic Party",
+      "url": "https://futurism.com/future-society/crypto-ceos-trump-lobbying-democratic-party",
+      "image": "https://futurism.com/wp-content/uploads/2026/11/crypto-ceos-bootlicking-democratic.jpg?quality=85&w=1200",
+      "source": "Futurism",
+      "language": "en",
+      "que_paso": "After spending roughly $200 million supporting Republican candidates in the recent U.S. midterms, leading crypto executives are now publicly courting the incoming Democratic majority in Congress. Figures such as Digital Chamber CEO Cody Carbone and former Crypto Council for Innovation head Sheila Warren acknowledge the failed strategy and say the industry will adopt a more bipartisan, education‑focused approach.",
+      "datos": [
+        "Crypto industry spending groups spent about $200 million backing Republican candidates in the 2026 U.S. midterm elections.",
+        "More than $55 million of that spending was directed at the Ohio Senate race of incumbent Democrat Sherrod Brown.",
+        "Democratic Senator Ruben Gallego said of the crypto lobby’s tactics, \"they’re f**ked.\"",
+        "Digital Chamber CEO Cody Carbone told Politico the midterms were a \"wake‑up call\" and that the industry must \"lean into both sides equally.\"",
+        "Former Crypto Council for Innovation CEO Sheila Warren described the anti‑Democrat spending as \"boneheaded\" and \"just a show of force.\""
+      ],
+      "conclusion": "The pivot signals that crypto firms will face a more scrutinizing Democratic regulator and must allocate resources to bipartisan outreach, affecting compliance planning and lobbying budgets."
+    },
+    {
+      "title": "Muere un conductor al que le ha caído una rama encima del coche cuando circulaba por la M-30",
+      "url": "https://elpais.com/espana/madrid/2026-11-22/muere-un-conductor-al-que-le-ha-caido-una-rama-encima-del-coche-cuando-circulaba-por-la-m-30.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/KYNIBE4T2JC2HNJDOWOYI734GY.png?auth=3861a99d7b987a8e7cee422ed43b474b8d8a8228e12991ee89de93cd9e092e05&width=1200",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Un hombre perdió la vida cuando una rama cayó sobre su coche mientras circulaba por la calzada lateral de la M‑30 en Madrid. Varios conductores, incluido un bombero municipal que no estaba de servicio, intentaron sacarlo del vehículo, pero la lesión craneal fue fatal. El SAMUR acudió al lugar y, tras intentos de reanimación, confirmó el fallecimiento.",
+      "datos": [
+        "El conductor tenía unos 50 años",
+        "El accidente ocurrió alrededor de las diez de la mañana",
+        "El suceso se produjo en el kilómetro 2 de la M‑30, calzada lateral",
+        "La rama provocó un grave traumatismo craneoencefálico al impactar contra el coche",
+        "Un bombero municipal fuera de servicio utilizó una radio para liberar al conductor y realizó control cervical, según una portavoz de SAMUR‑Protección Civil",
+        "SAMUR confirmó el fallecimiento tras media hora de maniobras avanzadas de reanimación"
+      ],
+      "conclusion": "El hecho subraya la necesidad de mantener la vegetación cerca de vías rápidas y la utilidad de la intervención ciudadana inmediata en emergencias de tráfico."
+    },
+    {
+      "title": "Colau pide en Gran Canaria “cambiar las reglas del juego” y frenar el turismo masivo con más medidas como cerrar \"pisos ilegales\"",
+      "url": "https://www.eldiario.es/canariasahora/politica/ada-colau-gran-canaria-mitin-frente-amplio-upc_1_13683890.html",
+      "image": "https://static.eldiario.es/clip/fbd6d273-98df-4823-adb6-c8637b56b23a_facebook-aspect-ratio-1200-675_default_0.jpg",
       "source": "elDiario.es",
       "language": "es",
-      "que_paso": "El Frente Amplio celebró su acto central el sábado en el parque de Sant Martí (Barcelona) con la presencia de Ada Colau, Emilio Delgado y Yolanda Díaz, advirtiendo que si el PSOE mantiene la estrategia de voto útil será imposible volver a formar un gobierno progresista y anunciando que quedan siete días para intentar invertir las encuestas antes del debate del jueves.",
+      "que_paso": "Ada Colau, candidata del Frente Amplio, clausuró el acto de Unidad del Pueblo Canario en Las Palmas, comprometiéndose a frenar el turismo masivo y a cerrar los “pisos ilegales”, mientras criticó a la derecha por la especulación inmobiliaria y la represión de lenguas.",
       "datos": [
-        "El mitin reunió a cerca de dos mil personas en el parque de Sant Martí de Barcelona",
-        "Los principales portavoces fueron Ada Colau, candidata del Frente Amplio, Emilio Delgado, número uno por Madrid, y la vicepresidenta Yolanda Díaz",
-        "El debate a cuatro está programado para el jueves 26 de noviembre de 2026",
-        "Yolanda Díaz hizo su primera aparición en la campaña electoral del Frente Amplio",
-        "Ada Colau afirmó que el Frente Amplio busca repetir el mejor resultado obtenido en 2023 y volver a reeditar el Gobierno de coalición progresista",
-        "Se criticó al PSOE liderado por Pedro Sánchez por promover el voto útil y se señaló a Alberto Feijóo como posible presidente si la izquierda no moviliza a la clase trabajadora"
+        "El acto tuvo lugar en La Gallera del complejo deportivo del López Socas y comenzó con más de media hora de retraso.",
+        "Las elecciones generales se celebrarán el 29 de noviembre de 2026.",
+        "Colau citó que “un 1 % de la población acumula el 45 % de la riqueza” en España.",
+        "La coalición UPC está formada por Nueva Canarias, Podemos Canarias, Sumar Canarias e Izquierda Unida Canaria.",
+        "Participaron en el acto candidatos de UPC: Paco Santamaría (Santa Cruz de Tenerife), Iratxe Serrano (Las Palmas), Marisol Collado (Cámara Baja, Santa Cruz) y Luis Campos (Congreso, Las Palmas).",
+        "Se prevé una disputa por el último escaño en ambas provincias entre UPC y Vox."
       ],
-      "conclusion": "El mensaje refuerza la intención del Frente Amplio de consolidar su base y revertir la tendencia de las encuestas, lo que podría redefinir la dinámica de la izquierda en la contienda electoral."
+      "conclusion": "El mensaje refuerza la agenda de limitar la presión turística y la especulación inmobiliaria en Canarias, y posiciona a la coalición UPC como potencial balanza de poder en el Congreso tras las elecciones."
     },
     {
-      "title": "‘Little room for error’: what a debt-laden cloud computing company says about the AI boom",
-      "url": "https://www.theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom",
-      "image": "https://i.guim.co.uk/img/media/4ccf3eba2b9600a32c8f0d9bd1554d5d4fe50e67/504_0_5040_4032/master/5040.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9b3df820c5581507ba81baa17bc0df23",
-      "source": "The Guardian AI",
-      "language": "en",
-      "que_paso": "CoreWeave, a cloud‑compute provider that rents AI‑focused GPU capacity, is confronting a precarious financial position as it expands its global datacentre network, relying heavily on debt and Nvidia financing, while investors worry about its ability to service that debt amid the AI boom.",
+      "title": "Adviento bajo auroras boreales: 4 destinos en el Círculo Polar para sentir la Navidad en el frío",
+      "url": "https://www.eldiario.es/viajes/adviento-auroras-boreales-4-destinos-circulo-polar-sentir-navidad-frio-pm_1_13683210.html",
+      "image": "https://static.eldiario.es/clip/3025f485-56f9-4ece-b8b2-a66c7163d106_facebook-aspect-ratio-1200-675_default_1156204.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "que_paso": "El artículo propone cuatro destinos dentro del Círculo Polar Ártico —Tromsø (Noruega), Rovaniemi (Finlandia), la zona de Abisko y Kiruna (Suecia) y Akureyri (Islandia)— como opciones para pasar la Navidad rodeados de nieve y auroras boreales, describiendo sus principales atractivos culturales y naturales. Cada lugar combina tradiciones navideñas con actividades típicas del ártico, como conciertos en catedrales, safaris de fauna, saunas y hoteles de hielo, ofreciendo una experiencia de Adviento en climas fríos que no se encuentran en la mayor parte de España.",
       "datos": [
-        "CoreWeave’s total debt stands at $47 billion (£36 billion), with $10 billion due in 2027",
-        "The company reported a $709 million loss in the most recent quarter on $3.6 billion of revenue",
-        "Creditors assessed CoreWeave’s probability of default at over 60% for the next five years during autumn 2026",
-        "Nvidia holds roughly 11% of CoreWeave’s equity",
-        "Nvidia entered a $6.3 billion agreement to purchase compute capacity that CoreWeave cannot sell"
+        "Tromsø está situada en una isla a 350 km al norte del Círculo Polar Ártico y es la ciudad más grande del norte de Noruega",
+        "Rovaniemi se ubica en la línea del Círculo Polar Ártico, en la región finlandesa de Laponia, y alberga el Santa Claus Village y el museo Arktikum",
+        "El Aurora Sky Station en el Parque Nacional de Abisko es reconocido por el ‘agujero azul de Abisko’, que mantiene el cielo despejado para observar auroras",
+        "El Icehotel se construye anualmente en Jukkasjärvi, a las afueras de Kiruna, Suecia",
+        "Akureyri, en el norte de Islandia, se encuentra al sur del Círculo Polar Ártico, en el fiordo Eyjafjörður, y es conocida como la ‘capital del norte’",
+        "En Tromsø la Catedral del Ártico (Ishavskatedralen) ofrece conciertos de medianoche con música navideña y el teleférico Fjellheisen lleva al monte Storsteinen"
       ],
-      "conclusion": "The firm’s debt load and reliance on a single chip supplier make its service continuity uncertain, signalling that AI‑infrastructure buyers should evaluate financial resilience before committing to long‑term contracts."
+      "conclusion": "Estos destinos permiten a empresas organizar retiros navideños con un valor añadido de experiencias árticas únicas, lo que puede reforzar la cohesión del equipo y ofrecer un contraste tangible al clima cada vez más cálido de España."
     },
     {
-      "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
-      "url": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/xiaomi-18-pro-max-11.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-      "source": "The Verge",
-      "language": "en",
-      "que_paso": "Xiaomi launched the 18 Pro and 18 Pro Max smartphones, each featuring a small rear display that can show wallpapers, music controls and notifications. The devices arrive as the first non‑China releases of Xiaomi’s dual‑screen concept, following the 17 Pro experiment. The reviewer found the rear screen useful mainly for selfies but otherwise of limited practical value.",
+      "title": "Segundo fallo contra el Gobierno de Pérez Llorca por no facilitar al PSPV información sobre el gasto sanitario en la privada",
+      "url": "https://www.eldiario.es/comunitat-valenciana/segundo-fallo-gobierno-perez-llorca-no-facilitar-pspv-informacion-gasto-sanitario-privada_1_13684071.html",
+      "image": "https://static.eldiario.es/clip/deb2f594-2e49-419f-8702-50290540fd40_facebook-aspect-ratio-1200-675_default_0_x356y108.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "que_paso": "El Tribunal Superior de Justicia de la Comunitat Valenciana dictó un segundo fallo que obliga al conseller de Sanidad, Marciano Gómez, a entregar la información sobre los pagos a la sanidad privada que había omitido al Parlamento, tras la denuncia de la portavoz socialista Yaissel Sánchez. El tribunal anuló la respuesta del conseller y le concedió a la diputada un plazo de un mes para recibir los datos solicitados, señalando vulneración del artículo 23.2 de la Constitución.",
       "datos": [
-        "The 18 Pro is priced at £1,199 (≈$1,570) and the 18 Pro Max at £1,399 (≈$1,830) in the UK and Europe",
-        "The Pro houses a 6,000 mAh battery while the Pro Max has a 7,050 mAh battery and supports 100 W wired charging that is 10 W faster than the Pro",
-        "Both models use Qualcomm Snapdragon 8 Elite Gen 6 chips, with the Pro Max equipped with the Extreme variant",
-        "The rear screens measure 2.7 inches on the Pro and 2.9 inches on the Pro Max",
-        "Xiaomi’s rear‑screen notifications display oversized app icons, lack text space, and do not support interactive actions such as quick replies"
+        "El fallo fue anunciado por el síndic del PSPV‑PSOE en las Corts, José Muñoz, el domingo.",
+        "La demanda fue presentada por la portavoz socialista de Sanidad, Yaissel Sánchez, bajo el artículo 12 del Reglamento de las Corts Valencianes.",
+        "El TSJCV anuló la respuesta del conseller y reconoció el derecho de la diputada a obtener la información, fijando un plazo de un mes para su entrega.",
+        "El tribunal consideró que la omisión vulneró el derecho fundamental recogido en el artículo 23.2 de la Constitución Española.",
+        "La resolución es susceptible de recurso de casación.",
+        "El conseller había entregado datos del bienio 2024‑2025 sin desglosar años y comparó con el bienio 2022‑2023, alegando cambios contables y que la solicitud era confusa."
       ],
-      "conclusion": "The added rear display offers a niche selfie benefit but adds cost without delivering broader functionality, suggesting buyers should weigh the premium against limited utility."
+      "conclusion": "El fallo refuerza la exigencia de transparencia en los contratos de salud privada en la Comunidad Valenciana, lo que puede incrementar la fiscalización parlamentaria y limitar la discrecionalidad del gobierno regional en la gestión de recursos sanitarios."
     },
     {
-      "title": "The game of the year is finally here",
-      "url": "https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Installer-153.jpg?quality=90&strip=all&crop=0%2C3.4987011938249%2C100%2C93.00259761235&w=1200",
-      "source": "The Verge",
-      "language": "en",
-      "que_paso": "The Verge released Installer newsletter issue 153, a weekly roundup that spotlights a new \"game of the year\" pick, a Netflix FTX documentary, and a set of productivity tools, while announcing a one‑week pause for Thanksgiving.",
-      "datos": [
-        "Installer No. 153 is the current edition.",
-        "Tom Hovey posted a viral Threads video in which he proved his food illustrations are hand‑drawn, not AI‑generated.",
-        "The author moved permanently to Perth, Western Australia, six months ago.",
-        "Installer will not publish the next issue during the Thanksgiving week (Nov 23‑29, 2026).",
-        "The newsletter lists 12 daily‑use apps, including Strava, iNaturalist, Sonos, and Google Calendar.",
-        "The author mentions playing Madden NFL and watching the FTX story on Netflix."
-      ],
-      "conclusion": "The brief illustrates how curators combine entertainment with productivity tooling and highlights ongoing skepticism toward AI‑generated content, a practical reminder for evaluating AI solutions in operations."
-    },
-    {
-      "title": "Turkey’s Van Cats Contend With Rising Temperatures",
-      "url": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
-      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20CLI-COP-CATS-stillpromo/20CLI-COP-CATS-stillpromo-mediumSquareAt3X.jpg",
+      "title": "Looking for the Formula to Stop an Apocalypse",
+      "url": "https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html",
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22AI-Safety-promo/22AI-Safety-promo-mediumSquareAt3X.jpg",
       "source": "NYT Science",
       "language": "en",
-      "que_paso": "A research center in Turkey’s Van region has installed air‑conditioning and swimming pools to help the native Van cats cope with increasingly hot weather, as the breed’s numbers are beginning to rebound after a decline. The center’s interventions aim to offset the effects of rising temperatures on the cats.",
+      "que_paso": "AI researcher Mike Winer and his team are developing a formal mathematical framework to constrain artificial intelligence behavior. They argue that the accelerating pace of AI progress leaves a shrinking window to implement reliable controls.",
       "datos": [
-        "The feline research center is located in Turkey.",
-        "It provides air‑conditioning for the cats.",
-        "It has installed pools for the cats to swim.",
-        "Van cat population numbers are recovering.",
-        "Rising temperatures are prompting these climate‑mitigation measures."
+        "Mike Winer is leading the effort",
+        "His colleagues are collaborating on the mathematical safeguard",
+        "The safeguard is designed to keep AI under human control",
+        "The researchers state they are running out of time"
       ],
-      "conclusion": "The effort demonstrates that targeted habitat management can reduce climate stress on vulnerable animal populations, offering a practical model for similar conservation projects."
+      "conclusion": "A functional safeguard could provide a concrete control mechanism before advanced AI systems become unmanageable, underscoring the urgent need for enforceable safety protocols."
     },
     {
-      "title": "El deporte japonés que llega este fin de semana a Madrid: así es el kendo, una disciplina que se practica con espadas de bambú",
-      "url": "https://www.eldiario.es/spin/deportes/deporte-japones-llega-semana-madrid-kendo-disciplina-practica-espadas-bambu-pm_1_13682766.html",
-      "image": "https://static.eldiario.es/clip/4a15e8c6-2735-4477-9fda-f8f2a7906f36_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "que_paso": "El Campeonato de España de kendo se celebra este fin de semana en el Polideportivo Dehesa Boyal de San Sebastián de los Reyes, reuniendo a competidores de varias comunidades autónomas en distintas categorías y pruebas tanto individuales como por equipos. Los atletas disputan los títulos nacionales bajo criterios de precisión, postura y continuidad del movimiento.",
-      "datos": [
-        "El evento está organizado por la Real Federación Española de Judo y Deportes Asociados (RFEJYDA).",
-        "Participan categorías sénior, júnior, cadete e infantil, con pruebas mixtas y por equipos.",
-        "Las pruebas individuales mixtas de júnior, cadete e infantil comenzaron el sábado a las 10:30 h.",
-        "Las pruebas sénior por equipos se disputan a partir de las 16:00 h y las individuales sénior el domingo a las 9:00 h.",
-        "La entrega de trofeos está prevista para el domingo a las 13:30 h."
-      ],
-      "conclusion": "La competición introduce al público madrileño el kendo como deporte reglamentado, lo que puede impulsar su práctica y reconocimiento en España."
-    },
-    {
-      "title": "El colegio La Salle, a las víctimas del pederasta Patxi Ezkiaga: “Pedimos públicamente perdón con humildad y sinceridad”",
-      "url": "https://elpais.com/sociedad/2026-11-21/el-colegio-la-salle-a-las-victimas-del-pederasta-patxi-ezkiaga-pedimos-publicamente-perdon-con-humildad-y-sinceridad.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/M2ZOG3X72VLBBCUW2CTEVF4XTI.jpg?auth=584cabb19240ae2d1b080b48847b0267b9e5bd7386d62f3d7723c5263155f25e",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "La congregación de los hermanos de La Salle instaló una placa conmemorativa en su colegio de San Sebastián para honrar a los exalumnos víctimas del abusador Patxi Ezkiaga y ofreció una disculpa pública. El gesto busca reconocer el daño sufrido y evitar que se repitan hechos similares.",
-      "datos": [
-        "La placa fue colocada en el colegio La Salle de San Sebastián.",
-        "Patxi Ezkiaga, condenado por pederastia, fue el agresor de varios exalumnos.",
-        "La congregación religiosa emitió un comunicado en el que pidió perdón con humildad y sinceridad.",
-        "En el comunicado se asumió el compromiso de que hechos de esa gravedad no se repitan.",
-        "El acto incluyó la presencia de representantes de la congregación y de algunas víctimas."
-      ],
-      "conclusion": "El reconocimiento público y la disculpa buscan restaurar la confianza y obligan a la institución a implementar medidas de prevención más estrictas."
-    },
-    {
-      "title": "Escribir un libro con IA es más fácil que nunca. Por eso las editoriales están tomando medidas antes de publicar",
-      "url": "https://www.xataka.com/literatura-comics-y-juegos/escribir-libro-ia-facil-que-nunca-eso-editoriales-estan-tomando-medidas-antes-publicar",
-      "image": "https://i.blogs.es/e49379/photo-1630855856911-c485c56fcaac/840_560.jpeg",
-      "source": "Xataka",
-      "language": "es",
-      "que_paso": "Dos novelas premiadas, ‘C'était ça ou mourir’ de Thélyson Orélien y ‘Donde el agua trabaja’ de David Silva Rojas, fueron puestas bajo sospecha de haber sido escritas con ayuda de inteligencia artificial. La editorial francesa Éditions du Bóreal decidió romper su relación con el autor y detener la impresión, mientras que la editorial española Almadía mantuvo el premio y respaldó al escritor tras una investigación interna.",
-      "datos": [
-        "‘C'était ça ou mourir’ y ‘Donde el agua trabaja’ fueron objeto de controversia por posible uso de IA en su redacción",
-        "Éditions du Bóreal anunció la ruptura total de la relación profesional y el cese de la impresión tras un análisis externo",
-        "Almadía realizó comprobaciones con varios especialistas y decidió mantener el premio al autor",
-        "En el comunicado de Almadía se citó la frase: “Preferimos seguir confiando en el criterio humano”",
-        "Las editoriales admitieron que no existe un modelo universal que garantice al cien por ciento la autoría humana"
-      ],
-      "conclusion": "El caso muestra que los editores deben combinar herramientas de detección con juicio humano y establecer políticas claras, pues confiar solo en la tecnología no asegura la autenticidad de la obra."
-    },
-    {
-      "title": "Florentino Pérez, con Nadal ya como nuevo miembro de la directiva del Madrid, no olvida el caso Negreira: “No voy a parar hasta que se depuren responsabilidades”",
-      "url": "https://elpais.com/deportes/futbol/2026-11-21/florentino-perez-con-nadal-a-su-lado-no-olvida-el-caso-negreira-no-voy-a-parar-hasta-que-se-depuren-responsabilidades.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/X4JVFCBU4VNLTHLJQB5THKPF34.jpg?auth=daf1d226c796e0c8aca05a792a7ffdd845ca6a015009743b8a2f14183374ee8e&width=1200",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Florentino Pérez abrió la asamblea general del Real Madrid y, tras la aparición de Rafa Nadal, solicitó a los socios su incorporación a la junta directiva, lo que se aprobó con una votación mayoritaria. Tras la votación, Pérez dedicó parte de su intervención a reiterar que seguirá persiguiendo la resolución del caso Negreira, que implica pagos sospechosos al ex‑vicepresidente de la RFEF.",
-      "datos": [
-        "Nadal fue admitido en la junta con 1.704 votos a favor, cinco abstenciones y cuatro en contra",
-        "Los ingresos del club la temporada pasada fueron 1.221 millones de euros",
-        "El vídeo institucional proyectado duró 32 minutos, casi el doble de los 17 minutos del año anterior",
-        "Los pagos al ex‑vicepresidente de árbitros José María Enríquez Negreira superaron los ocho millones de euros durante casi veinte años",
-        "Nadal es socio de honor del Real Madrid desde 2011 y, tras veinte años ininterrumpidos, podría aspirar a la presidencia dentro de cinco años"
-      ],
-      "conclusion": ""
-    },
-    {
-      "title": "“Race realism” isn’t realistic—and it isn’t good science",
-      "url": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2201567552-1152x648.jpg",
+      "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+      "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/agriculture-1152x648.jpg",
       "source": "Ars Technica",
       "language": "en",
-      "que_paso": "At the World Economic Forum in Davos, former President Donald Trump claimed Somalis have low IQs, and his son Donald Trump Jr. repeated a similar claim about Haitians in 2024, after their protected migrant status was revoked. The remarks are part of a broader resurgence of race‑based pseudoscience promoted by a network of scholars such as Nathan Cofnas, who has been linked to “race realism” publications.",
+      "que_paso": "Researchers ran a computer simulation to examine how widespread adoption of GLP‑1 weight‑loss medicines would affect global food demand, agricultural land use, and mortality. The model compared limited use in high‑income nations with universal access among adults with obesity, linking reduced calorie intake to broader system effects.",
       "datos": [
-        "Donald Trump made the low‑IQ comment about Somalis during his speech at the 2026 World Economic Forum in Davos.",
-        "Donald Trump Jr. repeated a comparable statement about Haitian people in 2024.",
-        "The Trump administration ended the protected status for Somali and Haitian migrants in the United States.",
-        "Nathan Cofnas publicly accused the late Jason Arday of plagiarism, drawing attention to his connections with a network that publishes race‑realism research.",
-        "Richard Lewontin’s 1972 study showed that genetic variation within human populations exceeds variation between them.",
-        "The race‑realism group has placed articles in a handful of mainstream academic journals despite methodological flaws."
+        "The simulation predicts up to 6.6 million fewer deaths per year by 2050 with widespread GLP‑1 use among adults with obesity.",
+        "It estimates up to 32 million hectares of agricultural land could be freed, an area slightly larger than Italy.",
+        "When combined with a shift toward healthier diets, the model projects up to 7 million deaths avoided annually by 2050.",
+        "In that combined scenario, about 46 million hectares of land would become available for other uses.",
+        "The UK national food strategy referenced in the study was finalized in 2021."
       ],
-      "conclusion": "The revival of discredited race‑based arguments threatens policy decisions and public discourse, highlighting the need for rigorous scientific standards and vigilance against pseudoscience in political rhetoric."
+      "conclusion": "The findings suggest that GLP‑1 drugs, especially when paired with healthier diet policies, could deliver substantial public‑health and environmental benefits, highlighting the need for coordinated food‑system interventions."
+    },
+    {
+      "title": "As the real world falls apart, Grand Theft Auto looks more and more appealing | Dave Schilling",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/22/grand-theft-auto-vi-gaming",
+      "image": "https://i.guim.co.uk/img/media/e7eaa186311ea0c3bdedb5ad98b467111917fadf/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=f6b5a8171eb2d472f31d4806c6e2bef9",
+      "source": "The Guardian AI",
+      "language": "en",
+      "que_paso": "Grand Theft Auto VI launched this week, drawing millions of players worldwide, while the same period saw a cascade of technology outages affecting transportation, email, and banking services. The article links the game's digital-only distribution and the growing influence of AI firms like Anthropic to broader concerns about operational vulnerability in a hyper‑connected economy.",
+      "datos": [
+        "Grand Theft Auto VI was released during the week of November 23, 2026",
+        "Development of GTA VI spanned more than a decade",
+        "Most modern consoles no longer support physical game discs, making digital purchases the norm",
+        "In the past seven days, outages have grounded planes, disrupted email systems, and caused intermittent bank account failures",
+        "AI company Anthropic is reported to be growing exponentially as it expands its integration into everyday services"
+      ],
+      "conclusion": "The convergence of a major digital product launch with widespread tech failures highlights the operational risks of relying on fragile digital infrastructure, underscoring the need for robust contingency planning."
+    },
+    {
+      "title": "Preposterous Real Estate Listing Uses AI to Turn Dilapidated Murder Cabin Into Beautiful Cottage",
+      "url": "https://futurism.com/artificial-intelligence/real-estate-listing-ai-dilapidated-cabin",
+      "image": "https://futurism.com/wp-content/uploads/2026/11/real-estate-listing-ai-dilapidated-cabin.jpg?quality=85&w=1200",
+      "source": "Futurism",
+      "language": "en",
+      "que_paso": "A Zillow listing for a three‑bedroom house in Cheboygan, Michigan used AI‑generated photos to portray a dilapidated cabin as a renovated cottage, prompting buyer outrage and highlighting deceptive marketing practices.",
+      "datos": [
+        "The listing price is $80,800.",
+        "The property previously attempted to sell for $23,000 in January 2020.",
+        "The house is a three‑bedroom, craftsman‑style home in Cheboygan, Michigan, but on site shows extensive water damage, trash, and a large rear hole.",
+        "The current owner cites health circumstances as the reason the renovation remains incomplete.",
+        "California and Wisconsin will require disclosure of digitally altered real‑estate photos beginning January 1, 2027.",
+        "Manitoba announced a plan this week (November 2026) to ban the use of AI‑generated images in real‑estate listings."
+      ],
+      "conclusion": "The episode underscores the operational risk of AI‑enhanced marketing without proper disclosure and signals upcoming regulatory requirements that firms must integrate into their compliance processes."
+    },
+    {
+      "title": "Best Black Friday Nintendo Switch 2 Deals (2026): Switch 2 Bundles and Games",
+      "url": "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-22-26/",
+      "image": "https://media.wired.com/photos/6b00a8e85e9b91466a86b55b/191:100/w_1280,c_limit/The-Best-Black-Friday-Nintendo-Switch-2-Deals.jpg",
+      "source": "Wired",
+      "language": "en",
+      "que_paso": "Nintendo announced Black Friday discounts on its Switch 2 bundles and several games, with offers beginning on November 22 at the official Nintendo Store and other retailers. The promotions include a $500 bundle with Mario Kart World and a $530 bundle with Switch Sports Resort, each paired with a three‑month online membership.",
+      "datos": [
+        "The Mario Kart World bundle is priced at $500, $50 less than its regular $550 price.",
+        "The Switch Sports Resort bundle is priced at $530, $28 less than its standard $558 price.",
+        "Both bundles include a 3‑month (90‑day) Nintendo Switch Online Individual Membership.",
+        "Mario Kart World supports split‑screen and online races with up to 23 opponents.",
+        "The Black Friday deals become available on November 22, 2026, through the Nintendo Store and major retailers.",
+        "The Legend of Zelda: Ocarina of Time is not included in any of the Black Friday offers."
+      ],
+      "conclusion": "These discounts reduce the upfront cost of adopting the Switch 2 platform, making it a more viable option for teams or families during the holiday buying season, while Nintendo’s selective discounting suggests a measured approach to price promotions."
+    },
+    {
+      "title": "La vicepresidenta Aagesen, otros cargos y excargos del Gobierno testifican esta semana sobre el rescate de Air Europa",
+      "url": "https://www.europapress.es/nacional/noticia-vicepresidenta-aagesen-otros-cargos-excargos-gobierno-testifican-semana-rescate-air-europa-20261122122950.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261122122950_120.jpg",
+      "source": "Europa Press Ciencia",
+      "language": "es",
+      "que_paso": "Esta semana la vicepresidenta tercera del Gobierno, Sara Aagesen, y varios ministros y altos cargos del Ejecutivo comparecen como testigos ante el juez que investiga el rescate financiero de Air Europa, un proceso que ha generado controversia política y mediática. La comparecencia forma parte de la causa judicial que examina la legalidad y la transparencia del apoyo estatal a la aerolínea.",
+      "datos": [
+        "Sara Aagesen ocupa el cargo de vicepresidenta tercera del Gobierno y es ministra de Transición Ecológica y Reto Demográfico.",
+        "Los testimonios se realizarán durante la semana del 23 de noviembre de 2026 ante un juez de la Audiencia Nacional.",
+        "El caso judicial se centra en el rescate financiero concedido por el Gobierno a la aerolínea española Air Europa.",
+        "Participan en la audiencia otros cargos y excargos del Ejecutivo, además de la propia vicepresidenta.",
+        "El rescate de Air Europa ha sido objeto de debate público y político desde su anuncio."
+      ],
+      "conclusion": "La comparecencia de altos funcionarios muestra el nivel de escrutinio judicial al que está sometida la intervención estatal en el sector aéreo, lo que podría influir en futuras decisiones de apoyo financiero del Gobierno."
+    },
+    {
+      "title": "Un estudio analiza lo que evocan los carteles electorales: de la alegría de la izquierda a la ira de la derecha",
+      "url": "https://www.eldiario.es/comunitat-valenciana/estudio-analiza-evocan-carteles-electorales-alegria-izquierda-ira-derecha_1_13683805.html",
+      "image": "https://static.eldiario.es/clip/f6989478-11c5-41b7-8574-0d328e11a4a0_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "que_paso": "El laboratorio MACOM de la Universidad Politécnica de València realizó un estudio de neuromarketing político analizando la reacción facial de 80 ciudadanos al observar los carteles electorales de los cuatro principales candidatos antes de las elecciones generales del 29 de noviembre de 2026. Los investigadores, dirigidos por David Juárez, emplearon la técnica de face coding para identificar emociones como alegría, esperanza o ira que los carteles provocan en los votantes.",
+      "datos": [
+        "El estudio fue llevado a cabo por el laboratorio de Marketing y Comunicación (MACOM) de la Universidad Politécnica de València.",
+        "Participaron 80 personas en la prueba de reacción facial.",
+        "Se evaluaron los carteles de Pedro Sánchez, Alberto Núñez Feijóo, Ada Colau y Santiago Abascal.",
+        "Los rostros asociados a Sánchez y Colau mostraron predominio de alegría y esperanza, mientras que los de Feijóo y Abascal mostraron predominio de ira.",
+        "La elección general está programada para el 29 de noviembre de 2026.",
+        "La técnica utilizada fue el face coding, que registra movimientos de cejas y boca durante la observación."
+      ],
+      "conclusion": "El hallazgo de que la imagen de los candidatos genera emociones distintas indica que los mensajes visuales pueden influir en la intención de voto, lo que es útil para diseñar campañas más efectivas y para entrenar modelos de IA que predigan comportamientos electorales basados en estímulos visuales."
+    },
+    {
+      "title": "Banks Have Had It Up to Here With Your AI Agent",
+      "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+      "image": "https://media.wired.com/photos/6b0080a25f35c47a5c116087/191:100/w_1280,c_limit/GettyImages-2285133719.jpg",
+      "source": "Wired",
+      "language": "en",
+      "que_paso": "Wells Fargo will enforce new terms that place liability for AI agent use on customers, effective Tuesday, as banks push back against third‑party autonomous shopping bots. The move follows incidents where agents posted sensitive banking information and a broader industry clamp‑down, with Amazon blocking Meta’s Muse and United Airlines barring bots from buying flights.",
+      "datos": [
+        "Wells Fargo’s updated agreement, effective Tuesday (Nov 24 2026), states that any use of an AI agent is ‘at your own risk’ for millions of its customers.",
+        "The bank cited incidents where AI agents accidentally posted employees’ bank details publicly.",
+        "Amazon has blocked Meta’s Muse AI agent from making purchases on its platform.",
+        "United Airlines announced it will block personal bots from purchasing flights.",
+        "Kacy Kim, associate professor of marketing at Bryant University, said consumers authorize goals, not every click.",
+        "Sucharita Kodali, a Forrester analyst, noted that most people are unaware of AI agents and that banks are risk‑averse."
+      ],
+      "conclusion": "The actions show financial firms are shifting liability to users and tightening controls on autonomous tools, so customers must treat AI‑driven transactions as high‑risk and limit bot access to their accounts."
+    },
+    {
+      "title": "Scientists Tried to Kill This Dirt, but It Wouldn’t Die",
+      "url": "https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/",
+      "image": "https://media.wired.com/photos/6afec80a658c126f4fca9f94/191:100/w_1280,c_limit/Abiotic-metabolism%20cr-Samuel%20Velasco-Lede.jpg",
+      "source": "Wired",
+      "language": "en",
+      "que_paso": "A French biochemist’s team sterilized soil and observed that, despite appearing lifeless under a microscope, the material continued to consume oxygen and emit carbon dioxide, leading them to propose that metabolic‑like reactions can occur in non‑living matter.",
+      "datos": [
+        "The research was led by Sébastien Fontaine at the French National Institute for Agriculture, Food, and Environment over a 15‑year period.",
+        "Soil samples were sealed in jars, sterilized with gamma radiation, and continued to emit carbon dioxide for six years.",
+        "After sterilization, the CO₂ emission rate declined but remained stable for more than 100 days.",
+        "The results were published in a 2025 paper in Science Advances.",
+        "Introducing a small amount of yeast‑derived enzymes caused an immediate spike in carbon emissions.",
+        "Peer reviewers expressed strong skepticism about the sterility of the soil, suggesting the findings might be an experimental artifact."
+      ],
+      "conclusion": "If abiotic metabolism occurs, it could alter soil carbon flux estimates and inform origin‑of‑life theories, prompting operational models to consider non‑biological carbon turnover."
+    },
+    {
+      "title": "Esta semana medio mundo está jugando al mismo GTA. El futuro es que cada uno juegue al de su pueblo",
+      "url": "https://www.xataka.com/videojuegos/esta-semana-medio-mundo-esta-jugando-al-gta-futuro-que-cada-uno-juegue-al-su-pueblo",
+      "image": "https://i.blogs.es/4361e4/gta-torrent/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "GTA VI se lanzó hace tres días y ha generado conversación masiva en todo el mundo, desde grupos de WhatsApp hasta oficinas y colegios. El autor usa este fenómeno para advertir que, con la disponibilidad de cartografía abierta, motores gratuitos e IA generadora de contenido, pronto cualquier persona podrá crear versiones de videojuegos ambientadas en su propia ciudad. Señala que esta tendencia cambiará la forma en que compartimos experiencias lúdicas, pasando de juegos idénticos a entornos personalizados.",
+      "datos": [
+        "GTA VI salió a la venta el 20 de noviembre de 2026, tres días antes del 23 de noviembre de 2026",
+        "El desarrollo del título duró 12 años desde su anuncio inicial",
+        "El presupuesto del proyecto supera los 10 000 000 000 USD, una cifra de diez dígitos",
+        "Rockstar Games es la empresa responsable del lanzamiento de GTA VI",
+        "El artículo menciona que la combinación de cartografía abierta, motores gratuitos y generación de código y texturas por IA permite crear juegos locales con un solo prompt",
+        "Se proyecta que para 2030 equipos profesionales podrán producir videojuegos personalizados de ciudades usando IA sin necesidad de grandes recursos"
+      ],
+      "conclusion": "Esto implica que la industria del entretenimiento y la simulación operativa se moverá hacia experiencias hiper‑personalizadas, obligando a los gestores a adoptar herramientas de IA y datos abiertos para mantenerse competitivos."
     }
   ]
 }
