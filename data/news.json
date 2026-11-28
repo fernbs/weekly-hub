@@ -1,215 +1,677 @@
 {
-  "generated": "2026-11-27T04:18:07.689344",
-  "count": 47,
+  "generated": "2026-11-28T04:09:03.175663",
+  "count": 56,
   "articles": [
     {
-      "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
-      "url": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
-      "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26nvidia-SEAsia-wvmq/26nvidia-SEAsia-wvmq-mediumSquareAt3X.jpg",
-      "source": "NYT Tech",
+      "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
+      "url": "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0010.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
       "language": "en",
-      "que_paso": "Nvidia stopped shipping its advanced AI chips to four Southeast Asian countries after the United States introduced a new export rule that mandates licensing for such sales. The rule is aimed at limiting China’s access to high‑performance AI hardware.",
+      "que_paso": "Apple’s 13‑inch M5 MacBook Air is being sold at a deep Black‑Friday discount by Amazon and Best Buy, after the company raised its price by $200 in June. The promotion brings the laptop’s price to $999, close to its all‑time low, and a similar $300 cut applies to the 15‑inch version.",
       "datos": [
-        "Nvidia halted shipments to four Southeast Asian nations.",
-        "The halt follows a newly issued U.S. regulation.",
-        "The regulation requires companies in those countries to obtain licenses to purchase advanced AI chips.",
-        "The policy is part of broader U.S. efforts to tighten restrictions on China’s acquisition of AI technology."
+        "The 13‑inch M5 MacBook Air is priced at $999, a $300 reduction from its pre‑discount price.",
+        "Amazon and Best Buy are offering the discount for Black Friday.",
+        "The 15‑inch M5 MacBook Air with 16 GB RAM and 512 GB storage is now $1,199, also $300 off.",
+        "Apple increased MacBook Air prices by $200 in June 2026.",
+        "The MacBook Neo is priced at $599 after a $100 discount.",
+        "Both Air models ship with 16 GB of RAM and a 512 GB SSD."
       ],
-      "conclusion": "The move illustrates how U.S. export controls can disrupt regional supply chains, forcing vendors and customers to adjust procurement strategies."
+      "conclusion": "The cut restores affordability for a higher‑performance Air, making it a viable option for professionals who need more power than the Neo but cannot justify a Pro, and it highlights Apple’s reactive pricing after recent hikes."
     },
     {
-      "title": "EE.UU. está demasiado centrado en Medio Oriente y no presiona lo suficiente a Rusia, le dice Zelensky a la BBC",
-      "url": "https://www.bbc.com/mundo/articles/cqvg2vv9mzmwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/news/1200/branded_mundo/00b0/live/bd9be750-e9f0-11f1-afc6-7da1c727ad8d.jpg",
+      "title": "Andrea Stewart-Cousins, New York’s First Female Senate Majority Leader, Dies",
+      "url": "https://www.nytimes.com/2026/11/27/us/andrea-stewart-cousins-dead.html",
+      "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27met-cousins-death-kpcz/27met-cousins-death-kpcz-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "Andrea Stewart-Cousins, the 76-year-old New York State Senate Majority Leader, died suddenly, creating a vacancy in the Democratic leadership. Her death comes as the state prepares for upcoming legislative sessions and a potential reshuffle of Senate leadership.",
+      "datos": [
+        "Andrea Stewart-Cousins was 76 years old at the time of her death.",
+        "She served 20 years in the New York State Senate.",
+        "She was the first woman to hold the position of Senate Majority Leader in New York.",
+        "Her death was described as sudden by state officials.",
+        "The vacancy impacts the leadership of New York’s top state Democrats."
+      ],
+      "conclusion": "Her passing forces the Democratic caucus to appoint a new majority leader, potentially altering the party’s agenda and strategy in the state legislature."
+    },
+    {
+      "title": "Thanksgiving Storm Leaves More Than 400,000 Without Power on the East Coast",
+      "url": "https://www.nytimes.com/2026/11/27/us/thanksgiving-weather-east-coast-storm.html",
+      "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27xp-storm-toll-01-htqv/27xp-storm-toll-01-htqv-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "A severe storm moved up the East Coast, delivering heavy rain and strong winds that knocked out electricity for a large number of customers and kept travel disrupted. The system began to stabilize on Friday, but restoration efforts were still underway.",
+      "datos": [
+        "More than 400,000 customers lost power across the affected area.",
+        "The storm impacted states from Virginia through New York.",
+        "The event occurred on Friday, November 28, 2026.",
+        "Heavy rain and wind gusts were reported as the primary weather conditions.",
+        "Travel disruptions persisted on the East Coast after the storm."
+      ],
+      "conclusion": "Operations must plan for extended outage recovery and supply chain delays when severe coastal storms strike, emphasizing the need for robust backup power and flexible logistics."
+    },
+    {
+      "title": "Some Americans canceled or postponed Thanksgiving dinners amid power outages and storms.",
+      "url": "https://www.nytimes.com/2026/11/27/us/thanksgiving-delayed-storm.html",
+      "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27nat-thanksgiving-do-over-1-ktwf/27nat-thanksgiving-do-over-1-ktwf-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "On Thanksgiving Thursday, November 26, 2026, many U.S. households experienced power outages caused by severe storms, prompting them to cancel or delay their traditional dinner. The disruptions led families to move the meal to Friday, Saturday, or later dates, extending the holiday celebration beyond the usual day.",
+      "datos": [
+        "Thanksgiving 2026 fell on Thursday, November 26, 2026.",
+        "Power outages and storms disrupted households across the United States on that date.",
+        "Affected families postponed meals to Friday, November 27, 2026, Saturday, November 28, 2026, or later.",
+        "The article provides no specific figures on the number of cancellations.",
+        "The report was published on November 28, 2026."
+      ],
+      "conclusion": "The episode underscores the importance of having contingency plans for critical operations during weather‑related power failures, especially when timing is essential for business and logistical activities."
+    },
+    {
+      "title": "Princess Kate’s Cancer Documentary ‘Heal’: 3 Takeaways",
+      "url": "https://www.nytimes.com/2026/11/27/world/europe/princess-catherine-kate-heal-cancer-documentary.html",
+      "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-uk-royals-catherine-cancer--pkgv/27int-uk-royals-catherine-cancer--pkgv-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "A 30‑minute documentary titled “Heal” was released this week, providing an authorized look at Princess Catherine’s recovery following her cancer diagnosis in 2024. The film is presented by the royal household and focuses on her treatment journey and current health status.",
+      "datos": [
+        "Documentary title: “Heal”.",
+        "Runtime: 30 minutes.",
+        "Release period: the week of 24 November 2026.",
+        "Subject: Princess Catherine (Kate) diagnosed with cancer in 2024.",
+        "The documentary is officially authorized by the royal household."
+      ],
+      "conclusion": "The release signals a strategic use of personal health narratives to shape public perception and may set a precedent for transparent communication by high‑profile figures."
+    },
+    {
+      "title": "We found 60-odd Black Friday deals we love for $100 or less",
+      "url": "https://www.theverge.com/gadgets/1043445/black-friday-best-cheap-tech-deals-under-100-2026",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24662269/DSCF0790_Enhanced_NR_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "language": "en",
+      "que_paso": "The Verge assembled roughly 60 Black‑Friday offers priced at $100 or less, covering gadgets such as earbuds, e‑readers, smart mugs, streaming bundles and other accessories, aimed at shoppers looking to limit holiday spending. The list highlights budget‑friendly options from brands like Disney+, Hulu, HBO Max, Anker, Noco and Apple, and it was published amid rising holiday expenses.",
+      "datos": [
+        "Disney+ and Hulu ad‑supported bundle costs $4.99 per month ($8 off) for a full year",
+        "HBO Max Basic ad‑supported subscription is $5.49 per month (about $6 off) until December 1",
+        "Anker travel adapter delivers up to 100 W power and works in over 200 countries",
+        "Noco Boost GB40 can jump‑start six‑liter gasoline or three‑liter diesel engines and includes USB charging ports",
+        "Apple AirTags now feature an ultra‑wideband chip, louder speaker and expanded Bluetooth range"
+      ],
+      "conclusion": "These sub‑$100 deals let tech‑savvy professionals upgrade tools without straining budgets, and the low‑cost streaming bundles free up cash for other operational priorities."
+    },
+    {
+      "title": "Los enormes beneficios que solemos pasar por alto de comer en compañía",
+      "url": "https://www.bbc.com/mundo/articles/ckdd13lv0e4no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/news/1200/branded_mundo/53ae/live/bf6fa330-ea6f-11f1-99b6-a35a62fa4264.jpg",
       "source": "BBC Mundo",
       "language": "es",
-      "que_paso": "Zelensky criticó a EE.UU. por los retrasos en los misiles antibalísticos y por no presionar a Rusia en las negociaciones de paz, durante una entrevista con la BBC en su oficina de Kyiv. Señaló también lo extraño de la foto de Trump abrazando a Putin y advirtió que la falta de avances en Abu Dabi pone en riesgo a Ucrania.",
+      "que_paso": "Investigaciones recientes en China, Japón y a nivel global han demostrado que compartir la comida con otras personas reduce significativamente el riesgo de depresión y mejora el bienestar emocional, en un contexto de creciente aislamiento social que está haciendo que la práctica de comer en compañía sea cada vez menos frecuente.",
       "datos": [
-        "Zelensky declaró que los retrasos en la entrega de misiles antibalísticos están costando vidas ucranianas.",
-        "La entrevista se realizó en la oficina de Zelensky en el centro de Kyiv y fue publicada por la BBC.",
-        "Trump publicó en Truth Social una foto abrazando a Putin y comentó que lo consideraba \"mi amigo\".",
-        "Las últimas conversaciones de paz en Abu Dabi a principios de este mes no lograron avances y se esperan nuevas en diciembre.",
-        "En 2025 Zelensky se reunió con Trump en el Despacho Oval.",
-        "El número de civiles muertos en Ucrania ha alcanzado un máximo histórico, según el presidente."
+        "El estudio de Xinyi Wang y colaboradores del Centro Provincial Zhejiang para el Control y Prevención de Enfermedades encuestó a 9.361 mujeres de 60 años o más.",
+        "Ese estudio encontró que el número de comensales en la mesa predice el riesgo de depresión, incluso tras controlar salud general, riqueza y convivencia.",
+        "Investigadores de Tokio observaron que adultos de 65‑74 años que vivían con familia pero comían solos tenían cinco veces más probabilidades de presentar síntomas depresivos que quienes comían en compañía.",
+        "En el Informe Global de Felicidad 2024, Ajinomoto encargó a Gallup una sección sobre costumbres alimenticias a la que respondieron aproximadamente 150.000 personas en todo el mundo.",
+        "Jan‑Emmanuel De Neve, profesor de Economía y Ciencia de la Conducta en Oxford, señaló que la frecuencia de comidas compartidas predice la satisfacción vital con la misma fuerza que el empleo o el ingreso relativo."
       ],
-      "conclusion": "La presión insuficiente de EE.UU. podría prolongar el conflicto y dificultar la obtención de un acuerdo de paz, por lo que Ucrania necesita aliados que ejerzan una presión real sobre Rusia."
+      "conclusion": "Fomentar la comensalía, especialmente entre adultos mayores, puede ser una medida preventiva eficaz contra la depresión y una forma práctica de elevar el bienestar general."
     },
     {
-      "title": "A City Fears the Loss of Its Pier After a Section Collapsed Into the Sea",
-      "url": "https://www.nytimes.com/2026/11/26/us/pacifica-pier-collapse-el-nino-king-tides.html",
-      "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26nat-ca-pacifica-1-fqgw/26nat-ca-pacifica-1-fqgw-mediumSquareAt3X.jpg",
+      "title": "2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM",
+      "url": "https://www.wired.com/story/best-black-friday-deals-11-27-2026/",
+      "image": "https://media.wired.com/photos/6b089bf933af9bd86d9db0c5/191:100/w_1280,c_limit/Black-Friday-Deals.jpg",
+      "source": "Wired",
+      "language": "en",
+      "que_paso": "WIRED released a Black Friday deals guide on November 27, 2026, updating it twice that evening to reflect new and removed offers. The guide spotlights steep discounts on premium laptops and other tech, including a Dell XPS 13 and a Surface Laptop, and lists the contributors who curated the selections.",
+      "datos": [
+        "The article was first updated at 7 pm ET on Friday, November 27, 2026, and revised again at 8:30 pm ET the same day.",
+        "The Dell XPS 13 laptop price was reduced to $550, down from its usual premium price, and ships with 8 GB RAM and 256 GB SSD storage.",
+        "The Surface Laptop is offered for $900, includes 256 GB storage, and uses an older generation processor rather than the latest chip.",
+        "A gaming laptop featuring an RTX 5060 GPU and 1 TB of storage is advertised at its lowest-ever price, though the exact amount is not disclosed.",
+        "The WIRED Reviews team, along with contributors Louryn Strampe, Scott Gilbertson, Nena Farrell, Kat Merck, Molly Higgins, Boutayna Chokrane, Luke Larsen, Harry Rabinowitz, and Les Shu, curated and vetted the deals for authenticity."
+      ],
+      "conclusion": "These deep discounts make high‑end laptops affordable for business and personal productivity, offering a timely opportunity to upgrade hardware without overspending."
+    },
+    {
+      "title": "Five Big Questions for the 2028 Presidential Race",
+      "url": "https://www.nytimes.com/2026/11/27/us/politics/2028-presidential-race-questions.html",
+      "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27pol-2028-five-questions-01-bqvw/27pol-2028-five-questions-01-bqvw-mediumSquareAt3X.jpg",
       "source": "New York Times",
       "language": "en",
-      "que_paso": "A section of Pacifica’s historic pier gave way after strong waves this week, causing part of the structure to fall into the ocean. The collapse highlights the pier’s long‑standing deterioration and has prompted city officials to assess safety.",
+      "que_paso": "The piece lists a set of likely contenders for the 2028 U.S. presidential election, naming JD Vance, Marco Rubio, Kamala Harris, Alexandria Ocasio‑Cortez and former President Donald Trump, and highlights the uncertainty about who will actually file. It reflects the early-stage speculation that is typical as the next election cycle approaches.",
       "datos": [
-        "Location: Pacifica, California.",
-        "The pier had been described as \"long been crumbling\" prior to the incident.",
-        "A portion of the pier collapsed this week.",
-        "The collapse was caused by fierce waves.",
-        "The fallen section landed in the sea."
+        "JD Vance has served as the Republican U.S. Senator from Ohio since January 2023",
+        "Marco Rubio has been the Republican U.S. Senator from Florida since January 2011",
+        "Kamala Harris was Vice President of the United States from January 2021 to January 2025",
+        "Alexandria Ocasio‑Cortez has represented New York’s 14th congressional district in the House since January 2019",
+        "Donald Trump was the 45th President of the United States from January 2017 to January 2021",
+        "The article was published on November 28, 2026"
       ],
-      "conclusion": "The failure underscores the urgent need for structural assessments and funding to prevent further loss of a key tourist asset."
+      "conclusion": "The early speculation signals how parties and donors may begin allocating resources and shaping narratives well before the 2028 ballot, influencing campaign dynamics and voter expectations."
     },
     {
-      "title": "After the Iowa Detonation, a Family Gathered for an Unusual Thanksgiving",
-      "url": "https://www.nytimes.com/2026/11/26/us/iowa-detonation-family-thanksgiving.html",
-      "image": "https://static01.nyt.com/images/2026/11/26/us/26nat-iowa-blast-dinner--02/26nat-iowa-blast-dinner--02-mediumSquareAt3X.jpg",
+      "title": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
+      "url": "https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268823_Sony_XM4C_JHiggins_0006.jpg?quality=90&strip=all&crop=0%2C13.880689726091%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "language": "en",
+      "que_paso": "Sony introduced the 2026 WH-1000XM4C, an updated version of its popular WH-1000XM4 headphones, and is offering it at a deep Black Friday discount across major retailers. The price cut positions the XM4C as a cost‑effective alternative to the newer XM6 model while also coinciding with a similar discount on the WH-1000XM5.",
+      "datos": [
+        "Sony released the WH-1000XM4C in 2026 as an updated version of the WH-1000XM4",
+        "The WH-1000XM4C is priced at $198 on Black Friday at Amazon, Best Buy, and Walmart",
+        "This price is $100 lower than its October launch price",
+        "The higher‑end WH‑1000XM6 model is listed at $348",
+        "Sony’s WH‑1000XM5 are offered for $169 at Best Buy during Black Friday, the lowest price from a major retailer",
+        "The WH‑1000XM4C adds a 10‑band equalizer in the companion app, up from the original’s five‑band EQ"
+      ],
+      "conclusion": "The steep discount makes premium active‑noise‑cancelling headphones accessible for budget‑conscious professionals, and Sony’s refresh strategy suggests it will continue leveraging proven designs rather than launching entirely new flagship models."
+    },
+    {
+      "title": "Save Up to $100 on Shark Depuffi and FacialPro Glow (2026)",
+      "url": "https://www.wired.com/story/shark-depuffi-black-friday-deals-11-27-2026/",
+      "image": "https://media.wired.com/photos/6b0a019be1f03ae5536a590d/191:100/w_1280,c_limit/Shark%20Depuffi%20sale.png",
+      "source": "Wired",
+      "language": "en",
+      "que_paso": "SharkNinja rolled out Black Friday promotional pricing and product bundles across its personal care hardware line, focusing on the Shark Depuffi and FacialPro Glow skincare devices. The promotion pairs both devices into a combined at-home treatment system alongside proprietary topical serums. High demand has already triggered retail stock shortages across several primary beauty and department store distribution channels.",
+      "datos": [
+        "Promotional pricing offers up to $100 in discounts across the Shark Depuffi and FacialPro Glow product lineup.",
+        "Purchases of the Shark FlexStyle IonCurl include a free Shark Depuffi unit while inventory lasts.",
+        "Retail inventory for the Shark Depuffi is completely sold out at Target, Sephora, and Ulta.",
+        "The bundled hardware setup is paired with Derm Detox (containing BHAs and AHAs) and Hydro Infuse (containing hyaluronic acid and a peptide complex).",
+        "The two devices operate as a five-step skincare regimen utilizing hot-and-cold contrast therapy alongside pore extraction."
+      ],
+      "conclusion": "SharkNinja's retail distribution reveals rapid inventory depletion across third-party sellers, demonstrating strong holiday consumer demand that outpaces shelf stock for personal care hardware."
+    },
+    {
+      "title": "Estados Unidos ofrece un acuerdo a Caro Quintero para que se declare culpable",
+      "url": "https://elpais.com/mexico/2026-11-27/estados-unidos-ofrece-un-acuerdo-a-caro-quintero-para-que-se-declare-culpable.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/BAFCWVKNIROZHB3CG4TYU3SVTM.jpg?auth=6d346a6bcdb2e11340a1987f0cd77a1b90a5e27798c8abb179452e98675fa7d0",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "La fiscalía federal estadounidense formalizó una propuesta de culpabilidad por escrito dirigida a Rafael Caro Quintero para cerrar su proceso judicial antes del juicio. El procedimiento busca resolver múltiples cargos federales vinculados a crimen organizado y narcotráfico mediante un acuerdo negociado entre las partes. En caso de no alcanzarse un consenso, la defensa y la acusación deberán comparecer en la apertura del litigio establecida por el tribunal.",
+      "datos": [
+        "Propuesta judicial: 'extendió una oferta de acuerdo por escrito', según declaración del fiscal estadounidense.",
+        "Fecha de apertura formal del juicio: marzo de 2027.",
+        "Imputado: Rafael Caro Quintero, fundador del Cártel de Guadalajara.",
+        "Jurisdicción a cargo del proceso: Sistema judicial federal de Estados Unidos."
+      ],
+      "conclusion": "La aceptación de un acuerdo de culpabilidad reduciría los costes operativos y procesales de un litigio de larga duración en la corte federal. De mantenerse el rechazo a la oferta, el caso consumirá recursos institucionales hasta fijar sentencia a partir de 2027."
+    },
+    {
+      "title": "What to Know About the (Rescheduled) Macy’s Thanksgiving Parade",
+      "url": "https://www.nytimes.com/2026/11/27/nyregion/rescheduled-macys-thanksgiving-parade.html",
+      "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27met-saturday-parade-WTK-cglh/27met-saturday-parade-WTK-cglh-mediumSquareAt3X.jpg",
       "source": "New York Times",
       "language": "en",
-      "que_paso": "A family assembled at a farmhouse in southeast Iowa on the day after an ammunition plant explosion, holding an unconventional Thanksgiving gathering. They described the scene as calm, likening it to the aftermath of a storm.",
+      "que_paso": "The Macy's Thanksgiving Parade, normally held on Thanksgiving Day, has been postponed and will now run on Saturday. Organizers confirmed that the traditional balloons will still be featured, and a small group of observers got an early look at them.",
       "datos": [
-        "The explosion occurred at an ammunition plant in southeast Iowa.",
-        "The family gathered at a farmhouse the following day.",
-        "The gathering took place on Thanksgiving.",
-        "Participants said the atmosphere felt like a storm had passed."
+        "The parade will include the iconic helium balloons",
+        "A sneak‑peek of the balloons was shown to a limited audience",
+        "The event has been moved from its usual Thanksgiving Day slot to Saturday",
+        "It is the Macy’s Thanksgiving Parade, a long‑standing holiday celebration"
       ],
-      "conclusion": "The event illustrates how families can quickly regroup and find normalcy after industrial accidents, highlighting the value of community resilience and the need for robust emergency response plans."
+      "conclusion": "The shift to Saturday changes travel and viewing plans for attendees and broadcasters, so anyone intending to watch or attend should adjust their schedules accordingly."
     },
     {
-      "title": "El debate que la izquierda necesitaba",
-      "url": "https://www.eldiario.es/opinion/zona-critica/debate-izquierda-necesitaba_129_13697720.html",
-      "image": "https://static.eldiario.es/clip/b5b15503-1812-4500-a2df-38747bd0b0f6_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "title": "The new iPad Mini is getting its first major discount for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1042705/ipad-mini-black-friday-deal-sale-2026",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268850_iPad_Mini_2026_DPierce_0010.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "language": "en",
+      "que_paso": "Apple’s 2026 iPad Mini, originally priced at $699, is now being offered at $599 by Amazon and Walmart for Black Friday, representing a $100 discount. The tablet features an 8.5‑inch OLED screen, IP67 water‑dust resistance, and the new A20 Pro processor, positioning it as a higher‑spec upgrade over the prior model.",
+      "datos": [
+        "Original launch price of the 2026 iPad Mini was $699.",
+        "Amazon and Walmart list the 2026 iPad Mini with 128 GB Wi‑Fi at $599 for Black Friday.",
+        "The device has an 8.5‑inch OLED display, up from the previous 8.3‑inch LCD.",
+        "It includes IP67 dust and water resistance.",
+        "It is powered by Apple’s A20 Pro chip and offers approximately nine hours of battery life."
+      ],
+      "conclusion": "The discount brings the Mini into a more realistic price range for professionals needing a portable, rugged tablet, potentially expanding its adoption in business and operational settings."
+    },
+    {
+      "title": "Cazorla en un fin de semana: castillos, patrimonio y rutas por una de las sierras más espectaculares de Jaén",
+      "url": "https://www.eldiario.es/viajes/cazorla-semana-castillos-patrimonio-rutas-sierras-espectaculares-jaen_1_13692311.html",
+      "image": "https://static.eldiario.es/clip/df88f32e-7c9c-4e76-88a7-9855242b2179_facebook-aspect-ratio-1200-675_default_0.jpg",
       "source": "elDiario.es",
       "language": "es",
-      "que_paso": "En una transmisión informal, varios líderes de la izquierda y la derecha se enfrentaron en un intercambio de críticas sobre políticas como la violencia machista, el salario mínimo y el bono social térmico. Ada Colau, Pedro Sánchez, Alberto Núñez Feijóo y Santiago Abascal fueron los principales interlocutores, mientras que figuras como Isabel Díaz Ayuso y Rocío Mazón también fueron mencionadas. El tono fue sarcástico, comparando los ataques políticos con goles en un partido de fútbol.",
+      "que_paso": "El texto describe cómo, durante un fin de semana, los visitantes pueden pasar de las calles empedradas y el casco histórico de Cazorla a los bosques, ríos y senderos del Parque Natural de las Sierras de Cazorla, Segura y Las Villas sin alejarse mucho del pueblo. Se destaca la integración del patrimonio cultural con el entorno natural, facilitando actividades de ocio y naturaleza en un mismo espacio.",
       "datos": [
-        "Ada Colau, alcaldesa de Barcelona, criticó a Santiago Abascal por su postura sobre la violencia machista",
-        "Pedro Sánchez, presidente del Gobierno, preguntó a Feijóo si aceptaba el resultado electoral",
-        "Alberto Núñez Feijóo, líder del Partido Popular, fue señalado por la supuesta subida del salario mínimo y por el “millón de viviendas” fantasma",
-        "Santiago Abascal, presidente de Vox, fue cuestionado por su bono social térmico y por su propuesta de remigración",
-        "Isabel Díaz Ayuso, presidenta de la Comunidad de Madrid, fue mencionada por su “aticazo”",
-        "Rocío Mazón, diputada de Vox, fue citada por su aforamiento"
+        "Cazorla está situada en la provincia de Jaén, Andalucía",
+        "El Parque Natural de las Sierras de Cazorla, Segura y Las Villas abarca más de 200.000 hectáreas",
+        "El parque es uno de los espacios naturales protegidos más extensos de España",
+        "En sus límites discurre la parte alta del río Guadalquivir, que nace en estas sierras",
+        "En la zona habitan ciervos, cabras montesas y numerosas aves rapaces"
       ],
-      "conclusion": "El intercambio evidencia la profunda polarización entre la izquierda y la derecha en España, donde los debates se convierten en espectáculos mediáticos. Para el lector, la lección práctica es que la retórica agresiva puede distraer de soluciones concretas en políticas clave."
+      "conclusion": "Esta combinación de patrimonio histórico y naturaleza facilita la organización de actividades de team‑building o retiros corporativos que requieran tanto inspiración cultural como entornos al aire libre, optimizando tiempo y recursos."
     },
     {
-      "title": "Sánchez y Colau se lanzan en tándem contra “los bulos y recortes” de PP y Vox mientras Feijóo y Abascal se ignoran",
-      "url": "https://www.eldiario.es/politica/sanchez-colau-lanzan-tandem-bulos-recortes-pp-vox-feijoo-abascal-ignoran_1_13697623.html",
-      "image": "https://static.eldiario.es/clip/c172f907-70d0-4f5f-ac05-14a617957229_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "que_paso": "Pedro Sánchez y Ada Colau formaron un tándem en el debate a cuatro del jueves, atacando a los candidatos del PP y Vox sobre violencia de género, corrupción y gestión pública, mientras evitaban el enfrentamiento directo entre Feijóo y Abascal. La estrategia dejó a los líderes de la derecha sin interacción y centró la discusión en la falta de condenas a la violencia machista y en la gestión del caso Mazón.",
+      "title": "Russia’s Big Ambitions for A.I. Are Undercut by Constraints of War",
+      "url": "https://www.nytimes.com/2026/11/27/world/europe/russia-ai-journey-conference.html",
+      "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-russia-AI-001-cfkp/27int-russia-AI-001-cfkp-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "language": "en",
+      "que_paso": "Russian state leadership has targeted artificial intelligence initiatives as a primary mechanism to address acute domestic and economic challenges. However, ongoing military conflict and associated operational pressures are actively stifling the nation's technological progress. This friction creates a widening deficit between state modernization goals and the domestic capacity to build and deploy advanced computational systems.",
       "datos": [
-        "El debate a cuatro tuvo lugar el jueves 21 de noviembre de 2026.",
-        "Fue la segunda confrontación tras el cara a cara del 14 de noviembre de 2026 entre Sánchez y Feijóo.",
-        "Ada Colau abrió el bloque inicial condenando los últimos asesinatos machistas.",
-        "Santiago Abascal no respondió a la petición de condenar la violencia de género durante el debate.",
-        "Pedro Sánchez acusó a Alberto Feijóo de pactar con Abascal en gobiernos autonómicos.",
-        "El cargo público de José Mazón está vinculado a más de 230 víctimas mortales que aún esperan justicia."
+        "Target sector: Artificial intelligence and advanced technology development.",
+        "Key actor: Russian government officials directing domestic technological strategy.",
+        "Stated objective: Deploying AI systems to remediate critical national problems.",
+        "Primary obstacle: Systemic constraints and resource redirection linked to the ongoing war."
       ],
-      "conclusion": "El episodio muestra cómo la izquierda está utilizando la violencia de género como arma política para debilitar a la derecha, lo que podría influir en la percepción electoral y en futuras alianzas de gobierno."
+      "conclusion": "Geopolitical conflict and international isolation impose hard ceilings on sovereign AI ecosystems by choking off critical compute, capital, and talent pipelines. For operations and AI builders, it reinforces that software advances remain fundamentally dependent on stable supply chains and global hardware access."
     },
     {
-      "title": "Frente Amplio celebra el desempeño de Colau: “Salimos con más fuerza y con más ganas que nunca de llegar al domingo”",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-26/frente-amplio-celebra-el-desempeno-de-colau-salimos-con-mas-fuerza-y-con-mas-ganas-que-nunca-de-llegar-al-domingo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/4A6CRWFQZZA77DCYXGXAQYRPSU.jpg?auth=cc55ffd424892e87f1c41bed5820c0df62a61a1a2aa661650e95aa9a0f5c01f9",
+      "title": "Frente Amplio evoca el espíritu de 2023 para “volver a ganar” las generales",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-27/frente-amplio-evoca-el-espiritu-de-2023-para-volver-a-ganar-las-generales.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/JG2TGADKI5A3RIJIEAKRB4IQT4.JPG?auth=fde6534805c42353191d0043e6390c5f8e99f39be9d688acc6681dea6d0ea1aa&width=1200",
       "source": "El País",
       "language": "es",
-      "que_paso": "Frente Amplio elogió la actuación de Ada Colau en el último debate, señalando que la candidata mostró mayor seguridad y marcó el ritmo, y anunció que el impulso los lleva a afrontar con más fuerza el domingo electoral.",
+      "que_paso": "La coalición de izquierdas Frente Amplio celebró su acto de cierre de campaña electoral en el espacio La Nave de Villaverde, en Madrid, encabezado por Ada Colau y Yolanda Díaz. La formación busca movilizar el voto progresista femenino y reeditar los resultados de julio de 2023 tras una campaña condicionada por sondeos desfavorables. El evento se centró en capitalizar la confrontación dialéctica del debate televisado previo frente al líder del Partido Popular, Alberto Núñez Feijóo.",
       "datos": [
-        "Frente Amplio es una coalición de izquierdas que buscaba una posible remontada tras el debate",
-        "Ada Colau fue la candidata que defendió la posición de la coalición",
-        "En sus declaraciones, el portavoz dijo que salieron “firme, segura y contundente”",
-        "Añadió que la candidata logró “marcar el ritmo” en el debate",
-        "Cerró con la frase “Salimos con más fuerza y con más ganas que nunca de llegar al domingo”"
+        "Asistencia de aproximadamente 4.000 personas en el interior del recinto y cerca de 1.000 simpatizantes en el exterior por exceso de aforo.",
+        "Ubicación del mitin: espacio cultural e innovador La Nave, distrito de Villaverde, sur de Madrid.",
+        "Presencia física de los ministros Yolanda Díaz, Pablo Bustinduy, Mónica García y Ernest Urtasun, más una intervención telemática de Sira Rego desde la isla de El Hierro.",
+        "Promedio de encuestas publicado por EL PAÍS previo al acto: 6,8% de estimación de voto para Frente Amplio y 1,1% para Podemos.",
+        "Referencia explícita al debate electoral del jueves anterior y a la frase de Alberto Núñez Feijóo sobre la gestión de la DANA de 2024 en la Comunidad Valenciana."
       ],
-      "conclusion": "El comunicado busca consolidar el impulso percibido y posicionar a la izquierda como contendiente serio para el domingo electoral."
+      "conclusion": "El acto refleja una estrategia electoral orientada a frenar el desgaste demoscópico del espacio a la izquierda del PSOE mediante la polarización directa y la movilización de bases tradicionales ante los comicios generales."
     },
     {
-      "title": "Y al séptimo día, Sánchez resucitó",
-      "url": "https://www.eldiario.es/opinion/zona-critica/septimo-dia-sanchez-resucito_129_13697691.html",
-      "image": "https://static.eldiario.es/clip/00a9bb64-ffdd-4e47-9d14-7f60bfe0d588_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
+      "title": "Hay un iPhone que se ha colado en las ofertas de última hora del Black Friday. Nunca lo hemos visto más barato",
+      "url": "https://www.xataka.com/seleccion/hay-iphone-que-se-ha-colado-ofertas-ultima-hora-black-friday-nunca-hemos-visto-barato",
+      "image": "https://i.blogs.es/62ecae/iphone-air/840_560.jpeg",
+      "source": "Xataka",
       "language": "es",
-      "que_paso": "Pedro Sánchez participó en un debate televisivo de cuatro personas la semana pasada, confrontando a la derecha con rapidez y presentando la hoja de servicios de su Gobierno. El formato se organizó como dos equipos, Gobierno contra oposición, y Sánchez respondió desde la primera réplica.",
+      "que_paso": "MediaMarkt lanzó, a pocas horas del cierre del Black Friday, una oferta del iPhone Air a 799 €, precio nunca visto antes para ese modelo. El iPhone Air sustituye al iPhone Plus y se sitúa entre el iPhone 17 y el 17 Pro Max en tamaño de pantalla.",
       "datos": [
-        "El debate contó con cuatro participantes, divididos en dos bloques: el Gobierno y la oposición.",
-        "Sánchez llevó consigo la hoja de servicios de su Gobierno durante el debate.",
-        "La oposición ha estado ensayando su discurso sobre corrupción, invasión y un Estado que no funciona durante varios meses.",
-        "Los indicadores de empleo, salarios y crecimiento mostraron una situación menos catastrófica que la que pronostica la derecha.",
-        "El episodio siguió a una intervención de Sánchez el jueves 16 de noviembre de 2023 que fue descrita como 'institucionalismo zen'."
+        "Precio de la oferta: 799 €",
+        "Pantalla de 6,5 pulgadas con tasa de refresco de 120 Hz",
+        "Chip A19 Pro, uno de los procesadores más potentes de Apple",
+        "Oferta publicada por MediaMarkt a pocas horas del fin del Black Friday",
+        "iPhone 17 vendido por debajo de los 1.000 € durante el mismo periodo",
+        "iPhone Air reemplaza al iPhone Plus y se posiciona entre el iPhone 17 y el 17 Pro Max en la gama"
       ],
-      "conclusion": "El desempeño de Sánchez demuestra que un formato de debate más estructurado le permite contrarrestar los argumentos de la derecha y presentar datos económicos que debilitan sus críticas, lo que puede reforzar la percepción de gestión del Gobierno entre los votantes."
+      "conclusion": "Para un gestor que busca equipar a su equipo con dispositivos de alta productividad sin superar el umbral de 1.000 €, el iPhone Air a 799 € ofrece una pantalla rápida y un procesador potente, aunque sus cámaras no son destacadas."
     },
     {
-      "title": "Feijóo pide a los ciudadanos \"votar con memoria\" en las generales y promete \"decencia y gestión\"",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-pide-ciudadanos-votar-memoria-generales-promete-decencia-gestion-20261127003021.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261127003021_1200.jpg",
-      "source": "Europa Press Ciencia",
-      "language": "es",
-      "que_paso": "El líder del Partido Popular, Alberto Núñez Feijóo, cerró el debate televisado a cuatro candidatos el jueves, instando a la ciudadanía a recordar la gestión pasada al decidir su voto. La intervención se dio en el marco de la campaña electoral para las generales de 2026, donde Feijóo busca reemplazar al actual gobierno.",
-      "datos": [
-        "Alberto Núñez Feijóo, líder del Partido Popular, cerró el debate a cuatro el jueves 27 de noviembre de 2026.",
-        "Durante el cierre, pidió a los ciudadanos \"votar con memoria\".",
-        "Prometió \"decencia y gestión\" si llega al Palacio de la Moncloa.",
-        "El debate a cuatro reunió a los principales candidatos a la Presidencia del Gobierno en la campaña de las elecciones generales de 2026.",
-        "Feijóo es candidato oficial del PP para la Presidencia del Gobierno."
-      ],
-      "conclusion": "El llamado a votar con memoria refuerza la narrativa de experiencia y estabilidad del PP, lo que podría inclinar a los votantes indecisos en una contienda electoral reñida."
-    },
-    {
-      "title": "Sánchez pide usar el poder del voto para frenar a Feijóo y Abascal, que tienen \"los mismos amos\"",
-      "url": "https://www.europapress.es/nacional/noticia-sanchez-pide-usar-poder-voto-frenar-feijoo-abascal-tienen-mismos-amos-20261127002741.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261127002741_1200.jpg",
-      "source": "Europa Press Ciencia",
-      "language": "es",
-      "que_paso": "Pedro Sánchez, presidente del Gobierno y candidato del PSOE, instó a la ciudadanía a ejercer su voto para detener la supuesta \"involución\" de los líderes del PP y Vox, a quienes describió como sujetos a los mismos intereses. La declaración se produce en el contexto de la campaña electoral previa a las próximas elecciones generales.",
-      "datos": [
-        "Pedro Sánchez es presidente del Gobierno y candidato del PSOE a la reelección",
-        "Sánchez pidió a los ciudadanos usar \"el poder del voto\"",
-        "Alberto Núñez Feijóo es líder del Partido Popular",
-        "Santiago Abascal es líder de Vox",
-        "Sánchez calificó a Feijóo y Abascal de \"involución\"",
-        "Afirmó que ambos comparten \"los mismos amos\""
-      ],
-      "conclusion": "El mensaje busca movilizar el electorado contra la oposición, presentándola como controlada por intereses comunes, lo que podría influir en la decisión de voto de los ciudadanos."
-    },
-    {
-      "title": "¿Quién ha ganado el debate? Los analistas de EL PAÍS se decantan por Ada Colau",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-26/quien-ha-ganado-el-debate-los-analistas-de-el-pais-se-decantan-por-ada-colau.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/H6UXH3LSFRCXTCUD43CCDTBOXE.jpg?auth=347aa9413bd544071d32f79c562ef7054fa11ef50df6cc5f0d2dac9c59d7faf8",
+      "title": "Al menos 15 muertos en el rescate de un cayuco en El Hierro",
+      "url": "https://elpais.com/espana/2026-11-27/varios-muertos-en-el-rescate-de-un-cayuco-en-el-hierro.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/2P4XSVADZZG7RDRRYGEIFRWOLU.jpg?auth=bed7fc2dcdbdeaf5554a78cc9319a24cf6abd9a0b439ddf1993cc4d0b122f600&width=1200",
       "source": "El País",
       "language": "es",
-      "que_paso": "Siete analistas de EL PAÍS evaluaron el último debate electoral entre los candidatos del PP, PSOE, Vox y la candidata de Frente Amplio, Ada Colau, y determinaron que ella fue la mejor desempeñada. La valoración se basó en sus opiniones profesionales tras el enfrentamiento televisado.",
+      "que_paso": "Una embarcación improvisada con 106 migrantes partía de Banjul y quedó a la deriva frente a El Hierro; la Salvamar Navia y unidades de la Guardia Civil realizaron un rescate masivo en la madrugada, recuperando a 84 supervivientes y encontrando 15 fallecidos. La operación se extendió hasta la noche, cuando se remolcó el cayuco y se trasladaron los cuerpos al hospital de campaña.",
       "datos": [
-        "Siete expertos participaron en la evaluación",
-        "Los candidatos representaron al PP, PSOE, Vox y a Ada Colau de Frente Amplio",
-        "Los analistas de EL PAÍS se decantaron por Ada Colau como ganadora del debate",
-        "El debate fue el último de la campaña electoral actual"
+        "El rescate comenzó alrededor de las 06:00 y la Salvamar Navia recibió el aviso de un velero que avistó la embarcación a 62 km al sur de La Restinga.",
+        "Participaron dos embarcaciones de la Salvamar, dos patrulleras de la Guardia Civil y un helicóptero que evacuó a seis personas gravemente enfermas al hospital de El Hierro.",
+        "El cayuco había sufrido una avería de motor tres días antes y había permanecido a la deriva durante diez días desde su salida de Banjul, Gambia.",
+        "Las olas en el momento del rescate alcanzaban hasta dos metros y varios supervivientes presentaban shock o una fractura abierta.",
+        "Los 84 supervivientes fueron desembarcados en el Puerto de La Restinga alrededor de las 12:00 y posteriormente trasladados al Centro de Atención de Migrantes de San Andrés."
       ],
-      "conclusion": "Este veredicto sugiere que Ada Colau ha ganado impulso mediático, lo que podría traducirse en mayor apoyo electoral y presión sobre los rivales."
+      "conclusion": "El incidente muestra la vulnerabilidad de las travesías migratorias en canoas y la necesidad de reforzar la vigilancia marítima y los recursos de rescate para prevenir pérdidas humanas."
     },
     {
-      "title": "Los líderes de la UE retomarán en diciembre la negociación del presupuesto tras una cumbre que no salva escollos",
-      "url": "https://www.europapress.es/internacional/noticia-lideres-retomaran-diciembre-negociacion-presupuesto-cumbre-no-resuelve-escollos-20261127002432.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261127002432_120.jpg",
+      "title": "El Black Friday retro de Powerplanet tiene regalos tecnológicos originales con descuentos de hasta el 71%",
+      "url": "https://www.xataka.com/seleccion/black-friday-retro-powerplanet-tiene-regalos-tecnologicos-originales-descuentos-71",
+      "image": "https://i.blogs.es/72ccf6/1-1-/840_560.png",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "Powerplanet organizó su campaña de Black Friday con una selección de gadgets originales a precios reducidos, manteniendo la oferta hasta finales de noviembre y ampliando las condiciones de envío y devolución.",
+      "datos": [
+        "Los descuentos llegan hasta el 70% en los productos promocionados",
+        "La oferta está disponible hasta el 30 de noviembre de 2026",
+        "Las devoluciones se pueden efectuar hasta el 31 de enero de 2027",
+        "Envío gratuito para pedidos superiores a 50 euros y con peso inferior a 5 kg",
+        "El coche eléctrico para niños cuesta 109,99 euros y alcanza 4‑5 km/h",
+        "La grabadora láser Creality Falcon2 Pro tiene un área de trabajo de 400 × 415 mm y su precio es 799,00 euros"
+      ],
+      "conclusion": "Aprovechar estos descuentos permite adquirir tecnología novedosa a bajo coste antes del 30 de noviembre, con la ventaja de envío gratuito y una amplia ventana de devolución para probar su utilidad."
+    },
+    {
+      "title": "Montero augura \"tiempos difíciles\" y llama a llenar las calles de \"millones de personas\" sea cual sea el resultado",
+      "url": "https://www.europapress.es/nacional/noticia-montero-augura-tiempos-dificiles-llama-llenar-calles-millones-personas-sea-cual-sea-resultado-20261127213158.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261127213158_1200.jpg",
+      "source": "Europa Press Ciencia",
+      "language": "es",
+      "que_paso": "Irene Montero, ministra de Igualdad y portavoz de Podemos, advirtió que se avecinan \"tiempos difíciles\" y pidió que se concentren \"millones de personas\" en las calles, sin importar el resultado electoral. Al mismo tiempo acusó al PSOE de intentar \"comerse a su izquierda\" y denunció una supuesta \"coincidencia entre los poderes\" para debilitar a su partido.",
+      "datos": [
+        "Irene Montero es ministra de Igualdad de España",
+        "Montero pertenece al partido Podemos",
+        "Acusó al PSOE de querer \"comerse a su izquierda\"",
+        "Afirmó que existe una \"coincidencia entre los poderes\" para acabar con Podemos",
+        "Instó a que \"millones de personas\" llenen las calles sin importar el resultado",
+        "La declaración se publicó el 28 de noviembre de 2026"
+      ],
+      "conclusion": "El mensaje refleja una escalada de la confrontación entre Podemos y el PSOE, anticipando movilizaciones masivas que podrían influir en la agenda política y electoral próxima."
+    },
+    {
+      "title": "Alexa+ y un descuentazo del 50%: esta es una de las mejores ofertas en tablet de Amazon para este Black Friday",
+      "url": "https://www.xataka.com/seleccion/alexa-descuentazo-50-esta-mejores-ofertas-tablet-amazon-para-este-black-friday",
+      "image": "https://i.blogs.es/42ba92/amazon-alexa-tablet-8-1-/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "Hoy, en el Black Friday, Amazon ha puesto a la venta la Alexa Tablet 8 con un descuento del 50 %, pasando de 229,99 € a 114 €. El modelo, lanzado hace unas semanas, incluye acceso nativo a Google Play Store y el asistente Alexa+ impulsado por IA.",
+      "datos": [
+        "Precio original 229,99 €, precio con descuento 114 €",
+        "Descuento del 50 %",
+        "Pantalla IPS LCD de 8,7 pulgadas, resolución 1340 × 800 píxeles",
+        "Procesador MediaTek Dimensity 8189 de ocho núcleos, 4 GB de RAM y 64 GB de almacenamiento interno",
+        "Batería con hasta 14 h de vídeo y 19 h en modo lectura",
+        "Conectividad Wi‑Fi 6, Bluetooth 5.2, certificación IP52, cámaras 8 MP trasera y 5 MP frontal"
+      ],
+      "conclusion": "Para un gestor de operaciones que necesita dispositivos económicos pero con capacidad de ejecutar aplicaciones Android y asistente IA, la tablet ofrece una solución compacta y lista para usar sin trucos, lo que permite ahorrar tiempo y presupuesto en equipamiento móvil."
+    },
+    {
+      "title": "Sánchez cierra la campaña en una Caja Mágica a rebosar y pide ir en masa a votar: \"Movilicémonos por lo de todos\"",
+      "url": "https://www.europapress.es/nacional/noticia-sanchez-cierra-campana-caja-magica-rebosar-pide-ir-masa-votar-movilicemonos-todos-20261127212510.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261127212510_120.jpg",
+      "source": "Europa Press Ciencia",
+      "language": "es",
+      "que_paso": "Pedro Sánchez, presidente y candidato a la reelección, realizó un mitin de cierre de campaña en la Caja Mágica de Madrid, instando a los ciudadanos a acudir en masa a las urnas el 29 de noviembre. El evento buscó reforzar la movilización electoral antes de la votación programada para el día siguiente.",
+      "datos": [
+        "Pedro Sánchez es presidente del Gobierno de España y candidato a la reelección.",
+        "El mitin tuvo lugar en la Caja Mágica, un recinto deportivo de Madrid.",
+        "La convocatoria se dirige a los votantes para el 29 de noviembre de 2026.",
+        "Durante el discurso, Sánchez pronunció la frase \"Movilicémonos por lo de todos\".",
+        "El objetivo del acto fue solicitar un esfuerzo final de movilización masiva."
+      ],
+      "conclusion": "El llamado busca asegurar una alta participación que podría ser decisiva para la continuidad del gobierno de Sánchez."
+    },
+    {
+      "title": "Una carta para cada generación: así adapta Vox su discurso electoral a la edad del destinatario",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-27/una-carta-para-cada-generacion-asi-adapta-vox-su-discurso-electoral-a-la-edad-del-destinatario.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/HP7YU3DXWJBWXGKUQJ5W6OPY3E.jpg?auth=bc73b71a7569f5aa9313fd9aae36a74a79646db87d2811647c899010447acd7e",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Vox está modificando su discurso electoral para adaptarlo a diferentes grupos de edad, según la lingüista Anna Martínez, dentro de la campaña de las elecciones generales de 2026 en España. La estrategia, denominada diseño de audiencias, busca que el mensaje resulte más persuasivo para cada generación.",
+      "datos": [
+        "Anna Martínez, lingüista, identificó la estrategia de diseño de audiencias",
+        "La estrategia se llama \"diseño de audiencias\"",
+        "Vox es el partido que está aplicando esta adaptación en su campaña electoral",
+        "El ajuste del mensaje se realiza según la generación o edad del destinatario",
+        "La campaña se enmarca en las elecciones generales de 2026 en España",
+        "El objetivo declarado es aumentar la persuasión del mensaje"
+      ],
+      "conclusion": "Esta táctica muestra un enfoque cada vez más segmentado y basado en datos en la comunicación política, lo que obliga a los gestores a anticipar mensajes altamente personalizados y a evaluar su impacto en la opinión pública."
+    },
+    {
+      "title": "El PP en Zaragoza rechazó hablar con los alumnos tras el veto a la obra de teatro: \"Nos dijeron que no era nuestro lugar\"",
+      "url": "https://www.eldiario.es/aragon/cultura/pp-zaragoza-rechazo-hablar-alumnos-veto-obra-teatro-dijeron-no-lugar_1_13700150.html",
+      "image": "https://static.eldiario.es/clip/45f9cad3-f83a-4b8d-bf1b-744314c1b698_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "que_paso": "Los estudiantes de tercero de la Escuela Municipal de Teatro de Zaragoza denunciaron que el Ayuntamiento retiró las jornadas didácticas de la obra 'Historia de una maestra' y, al solicitar una reunión con la responsable del Servicio de Educación, Fe María Galve, les negaron la audiencia, argumentando que el contenido no era adecuado y que la actividad estaba dirigida a un público limitado. Los alumnos cuestionan esa justificación y reclaman mayor transparencia en los criterios de selección.",
+      "datos": [
+        "Los estudiantes solicitaron una reunión con la responsable del Servicio de Educación, Fe María Galve, el mismo día que se les informó de la retirada de las jornadas.",
+        "La obra 'Historia de una maestra' estaba programada para sesiones didácticas el 5 de febrero.",
+        "Un grupo del programa Bachibac de un centro francés confirmó su asistencia a la sesión del 5 de febrero desde octubre.",
+        "El Ayuntamiento alegó que algunos contenidos de la obra no eran adecuados y que la actividad estaba dirigida a adolescentes de 14 a 16 años.",
+        "La página municipal de 'Vamos al Teatro' indica como destinatarios a alumnado de tercero y cuarto de ESO, Bachillerato y ciclos formativos.",
+        "Los estudiantes citaron la respuesta del personal municipal: \"Nos dijeron que ese no era nuestro lugar\"."
+      ],
+      "conclusion": "El caso evidencia una falta de comunicación clara y criterios transparentes en la gestión de actividades educativas, lo que puede entorpecer la colaboración entre instituciones y limitar el acceso de los estudiantes a recursos culturales. La lección práctica es establecer protocolos de consulta anticipada y criterios objetivos para la selección de contenidos."
+    },
+    {
+      "title": "Alvise sufre para llenar un pequeño auditorio de Madrid en su final de campaña: \"Podemos entrar en el Congreso\"",
+      "url": "https://www.eldiario.es/politica/alvise-sufre-llenar-pequeno-auditorio-madrid-final-campana-entrar-congreso_1_13700510.html",
+      "image": "https://static.eldiario.es/clip/c67745e2-32d2-42ee-ac27-5f3eb53e11aa_facebook-aspect-ratio-1200-675_default_0_x1523y973.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "que_paso": "En el centro cultural Alfredo Kraus de Mirasierra, Luis \"Alvise\" Pérez dio su último discurso de campaña ante un auditorio casi medio lleno, llegando 40 minutos tarde después de una entrevista con un youtuber. El evento, programado a las 19:00, se desarrolló con música de AC/DC y la presencia de seguidores que portaban camisetas y banderas.",
+      "datos": [
+        "Capacidad del auditorio: 299 plazas.",
+        "Asistentes estimados: aproximadamente 250 personas.",
+        "El acto comenzó sin alcanzar la mitad de las butacas a las 19:00.",
+        "Alvise Pérez llegó casi 40 minutos tarde tras una entrevista con un youtuber.",
+        "La canción que marcó su entrada fue \"Thunderstruck\" de AC/DC.",
+        "El partido SALF obtuvo 800.000 votos en las elecciones europeas de 2024."
+      ],
+      "conclusion": "El bajo nivel de asistencia y la tardanza evidencian la dificultad del partido SALF para movilizar a su base, lo que pone en duda su capacidad de alcanzar escaños en el Congreso pese a sus promesas. Para el lector, indica que la estrategia de campaña basada en hype y conspiración no se traduce en apoyo electoral tangible."
+    },
+    {
+      "title": "La recreativa que siempre quise cuando era pequeño está de oferta en Black Friday: una joya retro con el mítico Time Crisis",
+      "url": "https://www.xataka.com/seleccion/recreativa-que-siempre-quise-cuando-era-pequeno-esta-oferta-black-friday-joya-retro-mitico-time-crisis",
+      "image": "https://i.blogs.es/eaa515/arcade-time-crisis-en-ciudad-retro/840_560.png",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "Durante el Black Friday de 2026, Arcade 1UP lanzó una réplica a tamaño real de una máquina recreativa tematizada con Time Crisis, disponible por 559,99 €. El producto está pensado para usuarios que extrañan los salones de arcade y disponen de espacio suficiente en casa para instalarla.",
+      "datos": [
+        "Precio de venta: 559,99 euros",
+        "Fecha de la oferta: Black Friday 2026 (27 de noviembre de 2026)",
+        "Incluye dos pistolas de luz y un pedal de acción",
+        "Ofrece cuatro juegos clásicos: Time Crisis, Point Blank, Steel Gunner y Steel Gunner 2",
+        "Pantalla LCD de 17 pulgadas",
+        "Conexión Wi‑Fi para consultar tablas de clasificación en línea"
+      ],
+      "conclusion": "La oferta permite a los entusiastas del retro gaming disponer de una experiencia de arcade auténtica en casa a un precio competitivo, siempre que cuenten con el espacio necesario."
+    },
+    {
+      "title": "Irene Montero defiende el voto a Podemos como \"la gota de valentía que vale más que un océano cobarde\"",
+      "url": "https://www.eldiario.es/politica/irene-montero-defiende-voto-gota-valentia-vale-oceano-cobarde_1_13700336.html",
+      "image": "https://static.eldiario.es/clip/032be6c5-7860-471d-bef3-631e545af377_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "que_paso": "En el mitin de cierre de campaña de Podemos, Alejandra Sandoval y la candidata Irene Montero defendieron la candidatura del partido frente a una campaña que calificaron de difícil y a encuestas desfavorables antes del 29 de noviembre. El evento, realizado en un auditorio al aire libre en Moratalaz, buscó contrastar con los actos de otras fuerzas de izquierda y reforzar la alianza con ERC en Catalunya.",
+      "datos": [
+        "Alejandra Sandoval ocupa el puesto número seis en la lista de ERC por Barcelona al Congreso de los Diputados",
+        "El mitin de cierre se celebró el viernes en un auditorio al aire libre en Moratalaz, Madrid, con varios cientos de asistentes",
+        "Podemos decidió no presentar una lista conjunta con el Frente Amplio y pactó una alianza con ERC en Catalunya",
+        "Durante su gestión, el gobierno liderado por Podemos y el PSOE aprobó la ley feminista, la ley trans, la ley del \"solo sí es sí\" y la ley de derechos sexuales y reproductivos",
+        "Irene Montero criticó el nombramiento de Pablo Hernández de Cos como presidente del Banco Central Europeo, resultado de un acuerdo entre socialistas y populares"
+      ],
+      "conclusion": ""
+    },
+    {
+      "title": "Ucrania acusa a la líder de la ultraderechista Alternativa para Alemania (AfD) de \"repetir propaganda rusa\"",
+      "url": "https://www.europapress.es/internacional/noticia-ucrania-acusa-lider-ultraderechista-alternativa-alemania-afd-repetir-propaganda-rusa-20261127203501.html",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261127203501_1200.jpg",
       "source": "Europa Press Tecnología",
       "language": "es",
-      "que_paso": "Los jefes de Estado y de Gobierno de la Unión Europea volverán a negociar el presupuesto 2028‑2034 en la cumbre de 17 y 18 de diciembre, después de que una reunión extraordinaria en Bruselas no lograra superar los principales desacuerdos entre los Veintisiete. La falta de acuerdo se centró en el tamaño del presupuesto, la distribución de los fondos y los métodos de financiación.",
+      "que_paso": "El gobierno de Ucrania rechazó públicamente la propuesta de Alice Weidel, líder del partido de ultraderecha Alternativa para Alemania (AfD), de terminar la guerra cediendo a Moscú los territorios de habla rusa de Ucrania. La denuncia se produce en medio de la escalada de la información de guerra y la presión internacional sobre cualquier discurso que legitime la agenda rusa.",
       "datos": [
-        "Los jefes de Estado y de Gobierno de la UE retomarán las negociaciones en la cumbre del 17 y 18 de diciembre de 2026",
-        "La reunión extraordinaria tuvo lugar este jueves en Bruselas",
-        "El presupuesto en discusión cubre el periodo 2028‑2034",
-        "Las diferencias clave son el volumen de las cuentas, el reparto de los fondos y las fórmulas para financiar el gasto común",
-        "Participan los Veintisiete países miembros de la UE"
+        "Alice Weidel es la líder del partido Alternativa para Alemania (AfD)",
+        "El Gobierno de Ucrania emitió un repudio oficial a la recomendación de Weidel",
+        "La recomendación consistía en entregar a Moscú los territorios rusoparlantes de Ucrania para poner fin al conflicto",
+        "Ucrania calificó la propuesta como una repetición de la propaganda rusa"
       ],
-      "conclusion": "El impasse subraya la dificultad de alcanzar consenso fiscal en la UE, lo que puede retrasar la puesta en marcha de programas y proyectos financiados por el presupuesto comunitario."
+      "conclusion": "Este rechazo subraya la sensibilidad de Ucrania ante cualquier discurso que legitime la pérdida de territorio y alerta a los actores políticos europeos sobre el impacto de alinearse con narrativas rusas."
     },
     {
-      "title": "Feijóo vuelve a preguntar por las primarias del PSOE y Sánchez responde que las pagaron \"los militantes\"",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-vuelve-preguntar-primarias-psoe-sanchez-responde-pagaron-militantes-20261127000156.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261127000156_120.jpg",
-      "source": "Europa Press Ciencia",
+      "title": "Un cuartel en Pozuelo, una estación en Torrejón y un satélite: así ha sido el primer ensayo militar de España con la red satelital de la UE",
+      "url": "https://www.xataka.com/espacio/cuartel-pozuelo-estacion-torrejon-satelite-espanol-asi-ha-sido-primer-ensayo-militar-espana-red-satelital-ue",
+      "image": "https://i.blogs.es/3107f9/spainsat/840_560.jpeg",
+      "source": "Xataka",
       "language": "es",
-      "que_paso": "Alberto Núñez Feijóo volvió a interrogar al presidente Pedro Sánchez sobre el origen del financiamiento de las primarias del PSOE. Sánchez respondió que la campaña fue pagada por los militantes del partido y que el Tribunal de Cuentas confirmó la legalidad del proceso.",
+      "que_paso": "Se realizó una prueba piloto en la que una unidad militar del acuartelamiento Capitán Sevillano en Pozuelo de Alarcón se comunicó mediante el satélite SpainSat NG I con una estación del Cestic en Torrejón de Ardoz, bajo la coordinación del INTA y del Cestic y usando la red Govsatcom de la UE.",
       "datos": [
-        "Feijóo, líder del Partido Popular, formuló la pregunta en una entrevista televisiva el 27 de noviembre de 2026.",
-        "Pedro Sánchez, presidente del Gobierno y candidato del PSOE, declaró que \"los militantes\" financiaron la campaña de primarias.",
-        "Sánchez citó un informe del Tribunal de Cuentas que avala la regularidad del proceso de financiación.",
-        "El Tribunal de Cuentas es el órgano de control financiero del Estado español y emitió su dictamen antes del 20 de noviembre de 2026.",
-        "No se publicaron cifras exactas del monto recaudado por los militantes para la campaña de primarias."
+        "Govsatcom es el programa de la UE que brinda comunicaciones satelitales seguras a organismos públicos.",
+        "El INTA y el Cestic, dependientes del Ministerio de Defensa, gestionaron la simulación.",
+        "El satélite utilizado fue SpainSat NG I, operado por Hisdesat y financiado por el Ministerio de Defensa.",
+        "La prueba conectó el acuartelamiento de Pozuelo con la estación de Torrejón sin cobertura terrestre.",
+        "Hisdesat planea ofrecer capacidad del satélite a países aliados de la OTAN y a otras entidades gubernamentales."
       ],
-      "conclusion": "La defensa de Sánchez refuerza la legitimidad del proceso interno del PSOE frente a la oposición, pero también intensifica el debate sobre la transparencia del financiamiento de partidos en España."
+      "conclusion": "La exitosa conexión demuestra que España ya dispone de una infraestructura satelital de respuesta rápida para operaciones militares y emergencias, lo que puede reducir la vulnerabilidad de comunicaciones en zonas sin cobertura terrestre."
+    },
+    {
+      "title": "Murderdolls Announce Hollywood, CA Reunion Show",
+      "url": "https://www.theprp.com/2026/11/27/news/murderdolls-announce-hollywood-ca-reunion-show/",
+      "image": "https://www.theprp.com/app/uploads/2026/11/murderdollslarge-1200x675.webp",
+      "source": "The PRP",
+      "language": "en",
+      "que_paso": "The horror‑punk band Murderdolls confirmed a U.S. reunion concert in West Hollywood, scheduled for June 4 2027 at the Whisky a Go Go. The event will feature vocalist Wednesday 13, guitarists Eric Griffin and Acey Slade, with Jack Tankersley on bass and Mike Dupke on drums, and proceeds with the late drummer Joey Jordison’s estate’s blessing after earlier legal disputes.",
+      "datos": [
+        "Show date: June 4, 2027",
+        "Venue: Whisky a Go Go, West Hollywood, California",
+        "Ticket sales begin November 27, 2026 at 12:00 pm PST",
+        "Lineup: vocalist Wednesday 13; guitarists Eric Griffin and Acey Slade; bassist Jack Tankersley; drummer Mike Dupke",
+        "Reunion authorized by the estate of deceased drummer Joey Jordison",
+        "Previous reunion attempt was halted by legal disputes between Wednesday 13 and Acey Slade, now resolved"
+      ],
+      "conclusion": "The cleared legal issues enable the band to monetize a high‑profile venue and ticket launch, offering a concrete revenue opportunity and operational case study for event planning."
+    },
+    {
+      "title": "Black Friday Deals on Household Essentials and Affordable Toys to Donate",
+      "url": "https://www.wired.com/story/black-friday-deals-essentials-11-27-2026/",
+      "image": "",
+      "source": "Wired",
+      "language": "en",
+      "que_paso": "The author notes that many people are cutting back on holiday spending and is highlighting Black Friday discounts on practical household items and low‑cost toys that can be donated, recommending specific products such as a compact jump starter, Dawn Powerwash cleaner, and a 12‑can Play‑Doh set. The piece encourages readers to use the sales to support personal preparedness and community toy drives while still managing a tighter Christmas budget.",
+      "datos": [
+        "The jump starter is described as small enough to fit in a trunk or glove box and can jump‑start a vehicle up to six times.",
+        "Dawn Powerwash is promoted as a spray‑on degreaser that works on cars, patio furniture, and bathtubs and is sold with refill bottles.",
+        "The Play‑Doh donation option is a pack containing 12 cans of bright colors.",
+        "The author identifies as a 33‑year‑old and mentions scaling back holiday spending this year.",
+        "The article references the WIRED Reviews team’s endorsement of Dawn Powerwash.",
+        "Black Friday is positioned as the timing for these discounts."
+      ],
+      "conclusion": "Leveraging Black Friday sales for essential gear and inexpensive toys can stretch limited holiday budgets while supporting community donations, a practical strategy for operations managers seeking cost control and social impact."
+    },
+    {
+      "title": "Rufián cierra la campaña pidiendo el voto de los socialistas \"defraudados\": \"El PSC no merece vuestro voto\"",
+      "url": "https://www.eldiario.es/catalunya/rufian-cierra-campana-pidiendo-voto-socialistas-defraudados-psc-no-merece-voto_1_13700475.html",
+      "image": "https://static.eldiario.es/clip/c744b671-1174-44e1-af16-ca24057b0781_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "source": "elDiario.es",
+      "language": "es",
+      "que_paso": "Gabriel Rufián, candidato de ERC, concluyó su campaña en L'Hospitalet de Llobregat, dirigiéndose al electorado socialista que considera \"defraudado\" y criticando al PSC. En el acto agradeció a Ernest Maragall y al alcalde de Girona, Lluc Salellas, y lanzó ataques contra Míriam Nogueras, mientras anunciaba un segundo mitin en Sant Andreu de la Barca.",
+      "datos": [
+        "Gabriel Rufián cerró su campaña ante unas 1.200 personas en L'Hospitalet de Llobregat.",
+        "Agradeció el apoyo de Ernest Maragall y del alcalde de Girona, Lluc Salellas.",
+        "Declaró que el PSC \"no merece vuestro voto\" y llamó a los socialistas \"defraudados\".",
+        "Oriol Junqueras, Elisenda Alamany y el alcaldable Jaume Graells también intervinieron en el acto.",
+        "El segundo mitin de cierre está programado para el Polideportivo Josep Pla en Sant Andreu de la Barca."
+      ],
+      "conclusion": "Rufián intenta captar votos del electorado socialista desilusionado, lo que podría redistribuir el apoyo entre ERC y PSC y afectar la configuración de la oposición en el Parlamento catalán."
+    },
+    {
+      "title": "En Madrid la crisis de la vivienda se está cobrando una nueva víctima: 370.000 metros cuadrados de oficinas",
+      "url": "https://www.xataka.com/magnet/madrid-crisis-vivienda-se-esta-cobrando-nueva-victima-370-000-metros-cuadrados-oficinas",
+      "image": "https://i.blogs.es/fe7cfb/joel-filipe-h05lu60yzam-unsplash/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "Desde 2023, propietarios de oficinas en Madrid están reconvirtiendo alrededor de 374 000 m² de espacio de oficina en usos residenciales, como apartamentos y alojamientos turísticos, impulsados por el fuerte aumento del precio de la vivienda. El proceso se apoya en un marco normativo que, aunque flexible, sigue siendo largo y no siempre exitoso.",
+      "datos": [
+        "El precio medio del m² de vivienda en Madrid es 6.400 €, frente a 3.700 € en 2020 (Idealista).",
+        "El alquiler residencial subió un 52 % en el mismo periodo (Idealista).",
+        "Los alquileres de oficinas aumentaron 9,7 % en el último año, con una media de 27,6 €/m² en el centro y 43,4 €/m² en el distrito más cotizado (MVGM).",
+        "Borneo Advisors identificó 80 edificios de oficinas en proceso de reconversión, acumulando 374 154 m² afectados desde 2023.",
+        "Desde 2023, se cambian de uso en promedio 107 000 m² de oficinas al año (Borneo Advisors)."
+      ],
+      "conclusion": "La reconversión reduce la oferta de oficinas y amplía la vivienda disponible, lo que puede aliviar la presión de precios para los inquilinos y obligar a los inversores a replantear sus estrategias en el mercado inmobiliario madrileño."
+    },
+    {
+      "title": "Tidal Bans AI Music, Moves to Delete 29 Million Slop Songs",
+      "url": "https://futurism.com/future-society/tidal-bans-ai-music",
+      "image": "https://futurism.com/wp-content/uploads/2026/11/tidal-bans-ai-music.jpg?quality=85&w=1200",
+      "source": "Futurism",
+      "language": "en",
+      "que_paso": "Tidal announced that, effective Dec 9, it will prohibit any fully AI‑generated songs on its service and will purge the existing catalog of such tracks. The decision follows a summer‑long effort to identify and demonetize AI‑only recordings, and positions Tidal as the only major streamer to impose a total ban.",
+      "datos": [
+        "The purge will remove approximately 29 million AI‑generated tracks, according to Tidal’s own estimate.",
+        "Tidal expects up to 85,000 AI‑generated songs were being added each day, as stated by Robert Andersen, head of Tidal at Block.",
+        "96 percent of AI‑generated songs receive zero plays, per Andersen’s statement on X.",
+        "In the previous 90 days, 43 percent of all tracks submitted to Tidal were fully AI‑generated.",
+        "Spotify removed more than 50 million AI‑generated songs from its recommendation algorithms last month, but did not delete them."
+      ],
+      "conclusion": "The ban could protect human artists’ royalties by eliminating a large volume of low‑engagement AI content, and signals a stricter industry stance on AI‑generated music."
+    },
+    {
+      "title": "Sol Invicto (Deftones, Cypress Hill, Etc.) Offer Update On Their Current Release Plans",
+      "url": "https://www.theprp.com/2026/11/27/news/sol-invicto-deftones-cypress-hill-etc-offer-update-on-their-current-release-plans/",
+      "image": "https://www.theprp.com/app/uploads/2026/07/solinvictolarge-1200x675.webp",
+      "source": "The PRP",
+      "language": "en",
+      "que_paso": "Richie Londres, the founder of Sol Invicto, announced the group's upcoming release schedule, which covers new music, remixes, and a physical vinyl edition of their debut EP. The announcement involves core members Stephen Carpenter of Deftones and Eric Bobo of Cypress Hill and follows recent activity by the collective.",
+      "datos": [
+        "Richie Londres is the nucleus of Sol Invicto.",
+        "Core members include Deftones guitarist Stephen Carpenter and Cypress Hill percussionist Eric Bobo.",
+        "The upcoming collection of new material is titled \"Vault Of Shadows\".",
+        "The debut EP \"Loosely Aware\" will be issued on vinyl.",
+        "The band plans to release all material in both digital and physical formats.",
+        "The update was posted on Sol Invicto's Instagram account."
+      ],
+      "conclusion": "The multi‑format rollout reflects a coordinated digital‑physical strategy that will require careful distribution and inventory planning for retailers and streaming platforms."
+    },
+    {
+      "title": "Lefant nos deja sin excusas en su Black Friday: su robot aspirador compacto M210 Omni baja de 599 euros a menos de 180 euros",
+      "url": "https://www.xataka.com/seleccion/lefant-nos-deja-excusas-su-black-friday-su-robot-aspirador-compacto-m210-omni-baja-599-euros-a-180-euros",
+      "image": "https://i.blogs.es/fafcd1/lefant-m210-omni-pro/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "Lefant lanzó una campaña de Black Friday para su robot aspirador compacto M210 Omni, reduciendo su precio de 599 € a menos de 180 € mediante un cupón y limitando la oferta hasta el 30 de noviembre. La promoción incluye un descuento adicional del 70 % con el código WNTW1127 y está disponible solo durante el periodo de Cyber Monday.",
+      "datos": [
+        "Precio original: 599 €.",
+        "Precio con cupón: 178,50 €.",
+        "Descuento máximo aplicado: 70 %.",
+        "Fecha límite de la oferta: 30 de noviembre de 2026.",
+        "Dimensiones del robot: 280 mm de ancho y 85 mm de alto.",
+        "Presión de succión: 20 000 Pa."
+      ],
+      "conclusion": "Esta rebaja permite adquirir un robot con alta potencia de succión y navegación láser a una fracción del coste habitual, facilitando la automatización de la limpieza en entornos operativos con un retorno de inversión rápido."
+    },
+    {
+      "title": "Más barata que comprar los recambios solos: esta afeitadora Philips para cara y cuerpo cuesta menos de 33 euros",
+      "url": "https://www.xataka.com/seleccion/barata-que-comprar-recambios-solos-esta-afeitadora-philips-para-cara-cuerpo-cuesta-33-euros",
+      "image": "https://i.blogs.es/651478/afeitadora-philips-oneblade-360-1-/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "Durante el Black Friday, Xataka informó que la afeitadora Philips OneBlade 360 Face + Body (modelo QP2824/31) se puso a la venta por 32,99 €, mucho menos que su precio habitual. La oferta incluye la maquinilla y tres cuchillas, lo que la hace más barata que comprar los recambios por separado.",
+      "datos": [
+        "Precio de oferta: 32,99 €",
+        "Precio habitual: 59,99 €",
+        "Modelo: QP2824/31",
+        "Incluye tres cuchillas 360",
+        "Las cuchillas realizan 12 000 cortes por minuto",
+        "Autonomía de la batería: hasta 45 minutos con carga completa"
+      ],
+      "conclusion": "La reducción de precio convierte a la OneBlade 360 en una opción rentable para quien necesita afeitar cara y cuerpo sin adquirir recambios por separado, facilitando el mantenimiento con una sola herramienta."
+    },
+    {
+      "title": "EEUU se va a poner dura para evitar que las GPU de Nvidia lleguen a China. Y esta vez parece que van en serio",
+      "url": "https://www.xataka.com/robotica-e-ia/eeuu-se-va-a-poner-dura-para-evitar-que-gpu-nvidia-lleguen-a-china-esta-vez-parece-que-van-serio",
+      "image": "https://i.blogs.es/7706d9/original/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "EEUU ha endurecido sus restricciones de exportación para impedir que GPUs de Nvidia lleguen a China a través de terceros, obligando a socios como Dell y Supermicro a detener envíos a cuatro países asiáticos y prohibiendo a proveedores de nube que alquilen capacidad a compañías chinas. La medida se implementó tras la presentación de una norma provisional del Departamento de Comercio el 16 de noviembre, que entró en vigor el 19, y se acelera por el escándalo de espionaje que involucra a Jensen Huang y la empresa Singapurense Megaspeed.",
+      "datos": [
+        "Nvidia solicitó a Dell y Supermicro que no envíen servidores con sus chips a Malasia, Singapur, Tailandia e Indonesia",
+        "La norma provisional del Departamento de Comercio de EE. UU. se presentó el 16 de noviembre y entró en vigor el 19 de noviembre de 2026",
+        "Nvidia había indicado que dejaría de vender equipos a quienes alquilaran más del 50% de sus GPU a empresas chinas",
+        "Megaspeed, empresa de Singapur, fue acusada de transferir chips valorados en varios miles de millones de dólares a China",
+        "Tencent afirmó que la nueva norma podría retrasar el entrenamiento de sus próximos modelos de IA",
+        "El mercado de segunda mano registró un aumento inusual de GPUs B300, con miles de unidades puestas a la venta"
+      ],
+      "conclusion": "La restricción corta la vía indirecta de acceso a hardware de IA para China, lo que obliga a replantear la cadena de suministro y los planes de entrenamiento de modelos; las empresas deben anticipar posibles interrupciones y buscar alternativas locales o de otro origen."
+    },
+    {
+      "title": "Las zapatillas Skechers más cómodas para caminar y otros 19 modelos de grandes marcas rebajados por Black Friday",
+      "url": "https://elpais.com/escaparate/ofertas-y-descuentos/mejores-ofertas-black-friday-2026-zapatillas.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/AF5YNKYSJRE3DDXDEWGCLL2ZEE.png?auth=e26b95218b1c56545be143e742dabe2b34f4cd2c0621d3399dfbf718215995f1&width=1200",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "En el Black Friday de 2026, EL PAÍS Escaparate ha recopilado 20 modelos de zapatillas de marcas como Skechers, Adidas, Calvin Klein y otras, ofreciendo descuentos de hasta el 65 % en calzado, entre ellos un modelo de Skechers disponible en nueve colores con suela flexible y plantilla de espuma viscoelástica.",
+      "datos": [
+        "Descuentos de hasta el 65 % en 20 modelos de zapatillas",
+        "El modelo de Skechers está disponible en nueve colores",
+        "La campaña se produce durante el Black Friday 2026, anunciado el 28 de noviembre",
+        "EL PAÍS Escaparate menciona ofertas en marcas como Adidas, Columbia, Salomon y Medicube",
+        "Cita de una usuaria: “Son súper cómodas y monísimas”",
+        "Amazon había llenado su catálogo con grandes ofertas días antes del Black Friday"
+      ],
+      "conclusion": "Aprovechar estas rebajas permite equipar al personal con calzado ergonómico a menor coste, mejorando la comodidad y potencialmente la productividad en entornos operativos."
+    },
+    {
+      "title": "Aragón pierde otro centro de datos: Capital Energy se retira de Épila y vende su conexión eléctrica a Blackstone",
+      "url": "https://www.xataka.com/energia/capital-energy-abandona-su-tercer-centro-datos-aragon-vende-150-mw-a-blackstone-para-su-proyecto-rhodes",
+      "image": "https://i.blogs.es/86fa8d/box2bit_dc_1200x900_filled/840_560.png",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "Box2Bit abandonó el proyecto Epilon en Épila y cedió a Blackstone los derechos de 150 MW de conexión eléctrica, convirtiéndose en el tercer campus de centros de datos que la compañía descarta en Aragón. Con esa capacidad, Blackstone reforzará su proyecto Rhodes en Calatorao, mientras el municipio de Épila pierde la inversión prevista.",
+      "datos": [
+        "Box2Bit vendió a Blackstone 150 MW de capacidad eléctrica para Epilon",
+        "El proyecto Rhodes de Blackstone busca 430 MW de potencia informática y una inversión superior a 13.000 millones de euros",
+        "Blackstone ya disponía de 600 MW concedidos por Red Eléctrica, que ahora suman 750 MW con la compra",
+        "El alcalde de Épila, Jesús Bazán, informó que los derechos sobre las 100 ha reservadas expiraron en mayo y no se recibió el primer pago",
+        "El Campus Ebro en Cariñena, valorado en 3,400 millones de euros, fue descartado por no entrar en el plan de inversiones del Ministerio",
+        "El Tribunal Superior de Justicia de Aragón admitió a trámite un recurso de Ecologistas en Acción contra el proyecto Rhodes, cuestionando la aprobación parcial del PIGA del 28 de septiembre"
+      ],
+      "conclusion": "La retirada de Box2Bit evidencia la incertidumbre de los megacentros de datos en Aragón, mientras que la adquisición de la capacidad eléctrica por parte de Blackstone muestra que la disponibilidad de energía sigue siendo el activo clave para los operadores del sector."
     },
     {
       "title": "Las 40 mejores ofertas de Amazon hoy por Black Friday: descuentos de hasta el 79%",
@@ -217,550 +679,248 @@
       "image": "https://imagenes.elpais.com/resizer/v2/N3VKDFVGVFHVDNKWE7C65ZPHT4.png?auth=25f69c48b9f7ed8e8ced5848de2d76f3ed96944017e1a0477b01205f205a922e&width=1200",
       "source": "El País",
       "language": "es",
-      "que_paso": "Amazon lanzó su campaña de Black Friday 2026 con una selección de las 40 mejores ofertas del catálogo, abarcando tecnología, hogar, moda y más, para atender la alta demanda de los consumidores que esperan descuentos significativos en productos clave.",
+      "que_paso": "El equipo de EL PAÍS Escaparate ha seleccionado 40 ofertas de Black Friday 2026 en Amazon, abarcando tecnología, hogar, belleza, moda y calzado, con descuentos de hasta el 79 % y precios históricos. Entre los productos destacados están un terminal de gama media con 12 GB de RAM y 5G, auriculares Soundcare con reducción de ruido del 98 % y una batería externa de 65 W, entre otros.",
       "datos": [
-        "Se ofrecen descuentos de hasta el 79% en los 40 productos seleccionados",
-        "Los auriculares Soundcare reducen el ruido hasta en un 98% y superan las 50 horas de autonomía de música continua",
-        "La batería externa permite cargar hasta cuatro dispositivos a la vez y dispone de puertos USB‑C y USB‑A",
-        "El teclado y ratón inalámbricos tienen una autonomía de hasta 36 meses",
-        "La pulsera inteligente monitoriza frecuencia cardíaca, saturación de oxígeno y sueño, con una autonomía de dos semanas",
-        "Los periféricos con IA traducen conversaciones en casi 200 idiomas y su autonomía supera las 70 horas"
+        "Black Friday 2026 se celebra con 40 ofertas seleccionadas por EL PAÍS Escaparate en Amazon.",
+        "Los descuentos alcanzan hasta el 79 % en categorías como tecnología, hogar, belleza, moda y calzado.",
+        "El terminal de gama media ofertado incluye 12 GB de RAM, conectividad 5G y más de 12 000 valoraciones con nota media alta.",
+        "Los auriculares Soundcare reducen el ruido hasta en un 98 % y ofrecen hasta 50 horas de autonomía.",
+        "La batería externa tiene una potencia total de 65 vatios y permite cargar hasta cuatro dispositivos simultáneamente.",
+        "El pack de teclado y ratón inalámbrico promete una autonomía de hasta 36 meses según el fabricante."
       ],
-      "conclusion": "Estas condiciones permiten al lector equipar su entorno de trabajo con tecnología de alto nivel a precios reducidos, lo que puede traducirse en ahorros operativos y mayor eficiencia."
+      "conclusion": "Estas ofertas permiten a las empresas optimizar sus equipos de trabajo y reducir costes operativos antes de la temporada navideña, ofreciendo tecnología de alto rendimiento a precios significativamente rebajados."
     },
     {
-      "title": "Levi’s, Tommy Hilfiger y Helly Hansen tienen descuentos de hasta el 58% por Black Friday en Amazon",
-      "url": "https://elpais.com/escaparate/ofertas-y-descuentos/mejores-ofertas-black-friday-2026-moda-grandes-marcas.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/3J3BDUQZGVDT3DMRNP5USZYXMU.png?auth=6526ca1f65208ed56f3325b128f94a960866a4cb60902ce4f771933f4de91150",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Amazon lanzó una campaña de Black Friday el 27 de noviembre de 2026 que incluye 20 productos de Levi’s, Tommy Hilfiger y Helly Hansen, centrados en chaquetas, vaqueros y básicos para climas fríos. La oferta busca captar a compradores que buscan ropa de marca a precios reducidos durante la temporada de fin de año.",
-      "datos": [
-        "Descuentos de hasta el 58 % en los artículos seleccionados\"",
-        "Marcas participantes: Levi’s, Tommy Hilfiger y Helly Hansen",
-        "Oferta disponible en Amazon durante el Black Friday 2026 (27 de noviembre)",
-        "Se promocionan 20 productos, entre chaquetas, vaqueros y básicos",
-        "La campaña forma parte de la estrategia de ventas de fin de año de Amazon"
-      ],
-      "conclusion": "Esta rebaja permite a los gestores de operaciones adquirir inventario de marcas premium a precios reducidos, lo que puede mejorar márgenes y abastecimiento antes de la temporada alta de compras."
-    },
-    {
-      "title": "Las mejores ofertas de tecnología de Amazon por Black Friday: Apple, Garmin y otras marcas con hasta un 60% de descuento",
-      "url": "https://elpais.com/escaparate/ofertas-y-descuentos/mejores-ofertas-black-friday-2026-tecnologia.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/CMQYFRJMAFAGLHQGY7ZINUBTQQ.png?auth=291c2c5f98029fd3e24be4d9644b85f945e0e7284984ea65f317a127404f503c",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Amazon ha lanzado su campaña de ofertas de tecnología para la semana de Black Friday, con descuentos de hasta el 60 % en productos de marcas como Apple y Garmin, dirigida a consumidores que buscan renovar móviles, baterías externas o ordenadores.",
-      "datos": [
-        "Descuentos de hasta el 60 % en la oferta.",
-        "Marcas incluidas: Apple, Garmin y otras marcas de tecnología.",
-        "Productos destacados: móviles, baterías externas y ordenadores.",
-        "Periodo de la promoción: la semana del Black Friday 2026.",
-        "Plataforma de venta: Amazon."
-      ],
-      "conclusion": "Aprovechar estas rebajas permite a los gestores de operaciones actualizar su equipamiento a menor coste, optimizando recursos antes del cierre del año fiscal."
-    },
-    {
-      "title": "Sánchez sube varios ‘pantones’ de tono y de todo",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-26/sanchez-sube-varios-pantones-de-tono-y-de-todo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/46VZICYYVJHN7OAE4MMF5WT7KM.jpg?auth=57f6fa375b69ae47a2a2e1849a18920e897e0de9fbbeff5b095a3babed08866e",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Pedro Sánchez, presidente del Gobierno y líder del PSOE, modificó su estrategia de cara a cara y su imagen pública, adoptando una táctica conjunta con la alcaldesa de Barcelona, Ada Colau. Esta nueva postura provocó la irritación de los líderes de la oposición, Alberto Núñez Feijóo del PP y Santiago Abascal de Vox, que exigieron un cambio en el enfoque.",
-      "datos": [
-        "Pedro Sánchez es presidente del Gobierno y líder del PSOE.",
-        "Ada Colau es alcaldesa de Barcelona y colaboró con Sánchez en una táctica en bloque.",
-        "Alberto Núñez Feijóo es presidente del Partido Popular y criticó la estrategia de Sánchez.",
-        "Santiago Abascal es líder de Vox y también expresó su descontento.",
-        "Los opositores, Feijóo y Abascal, dijeron: “Tiene que traerse a una señora”."
-      ],
-      "conclusion": "El giro de imagen y coordinación política de Sánchez puede redefinir la dinámica entre el Gobierno y la oposición, indicando que la presentación pública sigue siendo una herramienta estratégica clave."
-    },
-    {
-      "title": "Sánchez y Colau emplazan a Feijóo a exigir la dimisión de Ayuso por la compra del \"aticazo\"",
-      "url": "https://www.europapress.es/nacional/noticia-sanchez-colau-emplazan-feijoo-exigir-dimision-ayuso-compra-aticazo-20261126233703.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261126233703_120.jpg",
-      "source": "Europa Press Ciencia",
-      "language": "es",
-      "que_paso": "Pedro Sánchez, presidente del Gobierno, y Ada Colau, candidata de Frente Amplio, solicitaron este jueves a Alberto Núñez Feijóo, líder del Partido Popular, que exija la dimisión de Isabel Díaz Ayuso, presidenta de la Comunidad de Madrid, por la controvertida compra del llamado \"aticazo\". La petición se produce en medio de una creciente polémica sobre la gestión de la presidenta madrileña y su relación con el Gobierno central.",
-      "datos": [
-        "Pedro Sánchez, presidente del Gobierno de España, pidió a Feijóo que exija la dimisión de Ayuso",
-        "Ada Colau, candidata de Frente Amplio, acompañó la solicitud a Feijóo",
-        "Alberto Núñez Feijóo es líder del Partido Popular y responsable de la oposición nacional",
-        "Isabel Díaz Ayuso es presidenta de la Comunidad de Madrid",
-        "La controversia gira en torno a la compra del \"aticazo\" por parte de la administración madrileña",
-        "La solicitud se realizó el jueves, día de la publicación del artículo"
-      ],
-      "conclusion": "La presión conjunta del Gobierno y la oposición nacional sobre Ayuso podría acelerar su salida y alterar la dinámica política en Madrid, obligando a la presidenta a responder a la controversia del \"aticazo\"."
-    },
-    {
-      "title": "Sánchez tacha de \"machista\" a Feijóo por decirle a Colau: \"Y usted, calladita\"",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-carga-contra-gestion-sanchez-dana-dirige-colau-usted-calladita-20261126232740.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261126232740_120.jpg",
-      "source": "Europa Press Ciencia",
-      "language": "es",
-      "que_paso": "Alberto Núñez Feijóo, líder del Partido Popular, criticó la gestión del Gobierno central durante la inundación del 29 de octubre de 2024 en Valencia y, al dirigirse a la candidata de Frente Amplio Ada Colau, le dijo que había estado \"calladita\". El presidente Pedro Sánchez respondió calificando ese comentario como machista, generando un nuevo enfrentamiento político.",
-      "datos": [
-        "La inundación del 29 de octubre de 2024 en Valencia dejó 230 víctimas mortales.",
-        "Alberto Núñez Feijóo es el líder del Partido Popular (PP).",
-        "Ada Colau es la candidata de Frente Amplio para las próximas elecciones.",
-        "Feijóo le dijo a Colau que estuvo \"calladita\" durante la gestión del Ejecutivo central.",
-        "Pedro Sánchez, presidente del Gobierno, describió el comentario de Feijóo como \"machista\"."
-      ],
-      "conclusion": "El episodio subraya la creciente polarización y la sensibilidad a los discursos de género en la política española, lo que puede influir en la percepción pública de los partidos y en la agenda electoral."
-    },
-    {
-      "title": "Red Hot Chili Peppers’ Chad Smith Sat In With Wu-Tang Clan At The Detroit Lions Vs. Chicago Bears Halftime Show",
-      "url": "https://www.theprp.com/2026/11/26/news/red-hot-chili-peppers-chad-smith-sat-in-with-wu-tang-clan-at-the-detroit-lions-vs-chicago-bears-halftime-show/",
-      "image": "https://www.theprp.com/app/uploads/2026/11/chadsmithwutangclan-1200x675.webp",
+      "title": "Hollow Front’s “The Me I Never Met” Music Video Arrives Online",
+      "url": "https://www.theprp.com/2026/11/27/news/hollow-fronts-the-me-i-never-met-music-video-arrives-online/",
+      "image": "https://www.theprp.com/app/uploads/2026/09/hollowfrontbandlarge2026-1200x675.webp",
       "source": "The PRP",
       "language": "en",
-      "que_paso": "On Thanksgiving, during the Detroit Lions' home game against the Chicago Bears, Red Hot Chili Peppers drummer Chad Smith joined the newly inducted Wu‑Tang Clan onstage for a halftime medley. The surprise pairing echoed a prior collaboration from 2000 and highlighted the crossover between rock and hip‑hop at a major NFL event.",
+      "que_paso": "Midwestern metalcore band Hollow Front released a new music video for their single “The Me I Never Met,” filmed by director Ned Ingalls, as a pre‑release promotion for their upcoming album. The video debut precedes the album “No Love Without Despair,” slated for release on December 11.",
       "datos": [
-        "The halftime performance took place on November 26, 2026 at Ford Field in Detroit during the Detroit Lions vs Chicago Bears NFL game.",
-        "Drummer Chad Smith of Red Hot Chili Peppers performed with the Wu‑Tang Clan, who were inducted into the Rock & Roll Hall of Fame earlier in 2026.",
-        "The two groups played a medley of Wu‑Tang Clan hits during the Thanksgiving halftime show.",
-        "Smith previously collaborated with Wu‑Tang Clan on the 2000 “Loud Rocks” compilation, which also featured Tom Morello.",
-        "In a 2025 interview with Drumeo, Smith said his contribution to the Wu‑Tang cover was “one of my favorite songs to play.”"
+        "Band: Hollow Front, a metalcore group from the Midwestern United States.",
+        "Single: “The Me I Never Met” is the track featured in the video.",
+        "Director: Ned Ingalls filmed the music video.",
+        "Album: “No Love Without Despair” is scheduled for release on December 11, 2026.",
+        "Vocalist: Dakota Alvarez returns as the lead singer for the new record.",
+        "Band statement: “We’ve been looking forward to sharing this one with you for a long time…”, posted on social media."
       ],
-      "conclusion": "The performance illustrates how legacy acts can leverage NFL halftime slots to reach broader audiences and revive past cross‑genre projects, offering a template for brands seeking high‑visibility partnerships."
+      "conclusion": "The early video release serves as a marketing hook to generate audience interest before the album drop, illustrating the value of visual content in music promotion."
     },
     {
-      "title": "Stone Sour’s Johny Chow & Ex-Lamb Of God, Etc. Drummer Chris Adler Join Forces In Insidias",
-      "url": "https://www.theprp.com/2026/11/26/news/stone-sours-johny-chow-ex-lamb-of-god-etc-drummer-chris-adler-join-forces-in-insidias/",
-      "image": "https://www.theprp.com/app/uploads/2026/11/insidias-1200x675.webp",
-      "source": "The PRP",
+      "title": "Top Treasury Official Is Too Busy Vibe Coding a Crappy Video Game Clone Instead of Addressing a Historic Hack",
+      "url": "https://futurism.com/artificial-intelligence/top-treasury-official-vibe-coding-hack",
+      "image": "https://futurism.com/wp-content/uploads/2026/11/treasury-vibe-coding-game-hack.jpg?quality=85&w=1200",
+      "source": "Futurism",
       "language": "en",
-      "que_paso": "A new metal supergroup named Insidias has been assembled, uniting veteran musicians from Lamb of God, Megadeth, Stone Sour and other acts, and the band is preparing its first live performance and a debut album.",
+      "que_paso": "Treasury CIO Sam Corcos kept developing an AI‑assisted video‑game clone while the department’s Financial Crimes Enforcement Network was dealing with a cyber intrusion that exposed a limited set of internal systems. The breach was disclosed on Tuesday, and Corcos posted game updates on GitHub during and after the incident, prompting public criticism.",
       "datos": [
-        "Chris Adler (formerly of Lamb of God and Megadeth) is the drummer",
-        "Johny Chow (bassist for Stone Sour) is part of the lineup",
-        "Jon Rioux (vocals) and Peter Scheithauer (guitar) complete the core members",
-        "The band’s live debut is scheduled for June 2027 at Hellfest Open Air in Clisson, France",
-        "Hellfest 2027 marks the festival’s 20th anniversary",
-        "The press release announcing the project was issued on November 26, 2026"
+        "Sam Corcos is the Treasury Department’s chief information officer and co‑founder of the health‑tech startup Levels.",
+        "He was hired as a “DOGE” hire near the start of Donald Trump’s second term in 2021.",
+        "FinCEN announced a cybersecurity incident on Tuesday, reporting unauthorized access to a limited subset of its systems and taking some systems offline as a proactive measure.",
+        "Corcos used Anthropic’s Claude AI on GitHub to push regular updates to his “Legatum” game, including balance patches, AI‑generated Aztec theme music, and a new Egyptian special unit.",
+        "He responded to a critical GitHub issue with an AI‑generated comment signed “Generated by Claude Code.”",
+        "Corcos tweeted that federal employees should submit written explanations of their work, defending the practice amid the backlash."
       ],
-      "conclusion": "The collaboration brings together high‑profile talent that can draw fans from several metal sub‑genres, and debuting at a major festival provides immediate exposure and a real‑world test for their new material."
+      "conclusion": "The episode underscores a governance risk when senior officials allocate personal projects during a security crisis, indicating a need for tighter oversight and clearer priorities for federal IT leadership."
     },
     {
-      "title": "Todas las mentiras del debate a cuatro",
-      "url": "https://www.eldiario.es/politica/mentiras-debate-cuatro_1_13697433.html",
-      "image": "https://static.eldiario.es/clip/056f24cd-d063-44e0-8f45-d98cb2d76300_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "title": "Murcia rechaza que el buque 'Med Emre', volcado en la costa de Ibiza, sea remolcado al puerto de Cartagena",
+      "url": "https://www.eldiario.es/illes-balears/sociedad/buque-med-emre-volcado-costa-ibiza-sera-remolcado-puerto-cartagena_1_13700210.html",
+      "image": "https://static.eldiario.es/clip/a106809d-e080-46b9-b34e-a32084847c58_facebook-aspect-ratio-1200-675_default_0.jpg",
       "source": "elDiario.es",
       "language": "es",
-      "que_paso": "En el debate a cuatro, los candidatos de Vox y del PP presentaron cifras infladas sobre inmigración, disponibilidad de viviendas en alquiler, agresiones sexuales y la evolución del precio del alquiler, que fueron refutadas por datos oficiales. Cada afirmación se basó en interpretaciones parciales o en fuentes que no reflejan la realidad del mercado o de la criminalidad.",
+      "que_paso": "La Dirección General de la Marina Mercante aprobó el remolque del buque Med Emre, de bandera maltés, hacia el puerto de Cartagena como refugio tras el vuelco frente a Ibiza; el presidente de la Región de Murcia, Fernando López Miras, rechazó esa decisión y solicitó al Gobierno central otra solución.",
       "datos": [
-        "Santiago Abascal citó que 6 millones de personas ingresaron a España en los últimos seis años según el INE, pero el neto tras restar emigraciones y nacionalizaciones es de 2‑2,1 millones",
-        "Alberto Núñez Feijóo afirmó que se retiraron 400 000 viviendas del alquiler, mientras que el Ministerio de Consumo indica que hay 500 000 pisos más en alquiler que en 2018",
-        "Abascal dijo que las agresiones sexuales se habían multiplicado por tres; los datos del Ministerio del Interior muestran 11 694 casos en 2019 y 19 282 en 2025, un aumento del 64 %",
-        "Feijóo sostuvo que el alquiler subió un 45 % desde 2018, pero la información tributaria sitúa el incremento entre el 20 % y el 39 %",
-        "Las cifras de Idealista usadas por Feijóo miden solo ofertas en portales, no contratos firmados"
+        "El accidente ocurrió el miércoles por la noche, cuando el Med Emre volcó frente a la costa de Ibiza.",
+        "El buque transportaba 7.000 toneladas de carga y aproximadamente 160 toneladas de combustible.",
+        "A bordo había 17 pasajeros y una persona falleció en el incidente.",
+        "El presidente de Murcia, Fernando López Miras, pidió al Gobierno español que busque una alternativa distinta al puerto de Cartagena.",
+        "El dique suroeste de la dársena de Escombreras en Cartagena tiene 35 m de profundidad y está a 7 m del cantil del muelle, según el informe técnico."
       ],
-      "conclusion": "Estas distorsiones pueden sesgar la opinión pública y la toma de decisiones; el lector debe contrastar las declaraciones con fuentes oficiales para evitar decisiones basadas en datos engañosos."
+      "conclusion": "El rechazo regional obliga a negociar otro puerto de refugio, lo que retrasará la descontaminación y aumentará el riesgo ambiental; la decisión subraya la tensión entre la gestión operativa de emergencias marítimas y la protección del litoral murciano."
     },
     {
-      "title": "El 29-N sobrevuela los Ondas más comprometidos",
-      "url": "https://elpais.com/comunicacion/2026-11-26/la-gala-de-los-premios-ondas-2026-en-directo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/DPZLEENGPJORNOSLLFQXX2JCMA.jpg?auth=ac93442af068abd27c2a2be30f225a795b55fbb8a04c5c70540fc16867563dcc&width=1200",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "La gala número 73 de los Premios Ondas se celebró el jueves en el Gran Teatre del Liceu de Barcelona, coincidió con el inicio del debate electoral en RTVE y se desarrolló en un contexto de campaña que culminará el domingo con las elecciones del 29‑N. La ceremonia contó con la presencia de figuras institucionales y de la comunicación, y dedicó una parte importante a la política y a la libertad de expresión, incluyendo por primera vez la categoría de podcasts.",
-      "datos": [
-        "La ceremonia comenzó a las 20:00 h y finalizó a las 22:00 h en el Gran Teatre del Liceu de Barcelona",
-        "Salvador Illa, presidente de la Generalitat, asistió al evento",
-        "Los Premios Ondas, otorgados desde 1954 por Ràdio Barcelona del Grupo Prisa, celebran su 73ª edición",
-        "Sara Canals, presentadora de Hoy por Hoy y excorresponsal de Cadena SER en EE. UU., encabezó la gala",
-        "José Luis Sastre y Miguel Maldonado recibieron el premio a Mejor Anfitrión por la cadena SER",
-        "Se incluyó por primera vez la categoría de podcasts, premiando al videopódcast ‘La pija y la Quinqui’ de Dollhouse Production"
-      ],
-      "conclusion": "El reconocimiento de los podcasts y los discursos políticos subrayan la creciente influencia de los medios en la agenda electoral, lo que implica que los profesionales de operaciones y IA deben considerar el entorno mediático como factor clave en la planificación estratégica."
-    },
-    {
-      "title": "Sánchez advierte de que hay dos caminos para España: recortes y motosierra o derechos y conquistas sociales",
-      "url": "https://www.europapress.es/nacional/noticia-sanchez-advierte-hay-dos-caminos-espana-recortes-motosierra-derechos-conquistas-sociales-20261126222910.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261126222910_1200.jpg",
-      "source": "Europa Press Ciencia",
-      "language": "es",
-      "que_paso": "Pedro Sánchez, presidente del Gobierno y candidato del PSOE, advirtió que el domingo 29 de noviembre España solo tiene dos caminos: una vía de recortes que, según él, aplicarán el PP y Vox, y otra de conquistas sociales impulsada por la izquierda. El mensaje se dio en el marco de la campaña electoral previa a las elecciones generales.",
-      "datos": [
-        "Pedro Sánchez es presidente del Gobierno y candidato del PSOE a la reelección",
-        "La advertencia se dirigió al domingo 29 de noviembre",
-        "Sánchez señaló al PP y a Vox como los partidos que aplicarían recortes y una “motosierra”",
-        "Define la alternativa de la izquierda como “conquistas sociales”",
-        "El discurso forma parte de la campaña electoral antes de las próximas elecciones"
-      ],
-      "conclusion": "El planteamiento busca polarizar el debate y presentar a la derecha como promotora de austeridad, lo que puede influir en la decisión de los votantes."
-    },
-    {
-      "title": "La UE lucha por aprobar un presupuesto antes de la posible llegada de Le Pen al poder en Francia",
-      "url": "https://elpais.com/internacional/2026-11-26/la-ue-lucha-por-aprobar-un-presupuesto-antes-de-la-posible-llegada-de-le-pen-al-poder-en-francia.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/MNL4RP3O2ZNBVKUKUCZEOPLZPA.jpg?auth=129850ea316e5210ba5714994767cab26fa3e08272bd7a04b71478dc72e6e4a1",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "El canciller alemán Friedrich Merz ha pedido que la ayuda a Ucrania sea aprobada por unanimidad dentro del proceso de aprobación del presupuesto de la UE, mientras que Hungría, Eslovaquia, República Checa y Bulgaria se muestran reacios. La presión se intensifica porque el Parlamento europeo necesita cerrar el presupuesto antes de que, en caso de victoria, Marine Le Pen asuma la presidencia de Francia, lo que podría cambiar la dinámica política en Europa.",
-      "datos": [
-        "Friedrich Merz, canciller de Alemania, exige solidaridad unánime en la ayuda a Ucrania",
-        "Los países que se oponen son Hungría, Eslovaquia, República Checa y Bulgaria",
-        "El debate se centra en la aprobación del presupuesto de la UE antes de una posible presidencia de Marine Le Pen en Francia",
-        "La ayuda a Ucrania está vinculada al presupuesto anual de la Unión Europea"
-      ],
-      "conclusion": "Si la UE no logra un consenso, el presupuesto y la asistencia a Ucrania podrían retrasarse, afectando la estabilidad operativa y financiera de los proyectos europeos y la respuesta a la crisis en Ucrania."
-    },
-    {
-      "title": "Jensen Huang Is Back, and So Is His Plaque at Denny’s",
-      "url": "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html",
-      "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26xp-dennys-lmgz/26xp-dennys-lmgz-mediumSquareAt3X.jpg",
-      "source": "NYT Tech",
+      "title": "Mirrors Premiere “Grey Haven” Music Video Alongside Their New Album “The Red Sky”",
+      "url": "https://www.theprp.com/2026/11/27/news/mirrors-premiere-grey-haven-music-video-alongside-their-new-album-the-red-sky/",
+      "image": "https://www.theprp.com/app/uploads/2026/09/mirrorslarge-1200x675.webp",
+      "source": "The PRP",
       "language": "en",
-      "que_paso": "Denny’s announced that it has re‑installed a commemorative plaque for Jensen Huang above a booth in its San Jose, California location after Nvidia confirmed his reinstatement as a company leader. The plaque had previously been removed, and its return ties the fast‑food chain to the tech executive’s early story of co‑founding Nvidia while dining there.",
+      "que_paso": "Mirrors released a new music video for the track \"Grey Haven\" and launched their second album \"The Red Sky\" on the same day, November 27, 2026. The video was directed by Colin Jeffs, and the releases were handled by Greyscale Records.",
       "datos": [
-        "The plaque is mounted above a booth at Denny’s in San Jose, California",
-        "Denny’s chain issued the statement about the restoration",
-        "Jensen Huang is a co‑founder of Nvidia",
-        "Nvidia publicly reinstated Huang as a company executive",
-        "The restoration was reported in a news article dated November 27, 2026"
+        "Mirrors is an Australian metalcore band",
+        "The \"Grey Haven\" video was directed by Colin Jeffs, who has also worked with Northlane and To The Grave",
+        "\"The Red Sky\" is Mirrors' sophomore (second) album",
+        "Greyscale Records issued the album on 27 November 2026",
+        "The video premiere and album release occurred simultaneously"
       ],
-      "conclusion": "The move highlights how corporate narratives can leverage nostalgic symbols to reinforce brand relevance and signals Nvidia’s renewed leadership stability for partners and investors."
+      "conclusion": "Coordinating a video debut with an album drop creates a focused promotional burst that can boost fan engagement and streamline marketing resources."
     },
     {
-      "title": "Thanksgiving Is Back on the Menu for Francesca Hong, the Failed Wisconsin Governor Candidate",
-      "url": "https://www.nytimes.com/2026/11/26/us/politics/thanksgiving-wisconsin-governor-francesca-hong.html",
-      "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26pol-hong-thanksgiving-jwtl/26pol-hong-thanksgiving-jwtl-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Francesca Hong, a former Democratic candidate for Wisconsin governor, posted a social‑media message denouncing Thanksgiving, drew criticism, and has now publicly expressed regret while joking about the episode.",
-      "datos": [
-        "Francesca Hong was a candidate for the Democratic nomination for Wisconsin governor",
-        "She posted a social‑media message condemning the Thanksgiving holiday",
-        "The post attracted public heat and criticism",
-        "She later said she regrets the post and is laughing about it"
-      ],
-      "conclusion": "The incident highlights the political fallout from controversial cultural statements and underscores the need for careful messaging in campaigns."
-    },
-    {
-      "title": "Eduardo Casanova, Ondas al mejor documental: “Es difícil salir del armario del VIH por el miedo a perder tu trabajo”",
-      "url": "https://elpais.com/videos/2026-11-26/eduardo-casanova-ondas-al-mejor-documental-es-dificil-salir-del-armario-del-vih-por-el-miedo-a-perder-tu-trabajo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/NTQP36WWMRB53MCP3JOW33RXZI.JPG?auth=2daec981d40a7d23cf3313a146aa7fe39d35d6f33c08523ce7f5111442f0ea62",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "Eduardo Casanova recibió el Premio Ondas por su documental \"Sidosa\" y, durante el discurso, denunció la violencia que sufre el colectivo con VIH en distintos ámbitos, instando a personas con privilegios a hacerse visibles.",
-      "datos": [
-        "Eduardo Casanova fue galardonado con el Premio Ondas por el documental \"Sidosa\"",
-        "El documental \"Sidosa\" relata la experiencia personal de Casanova como persona seropositiva",
-        "Casanova denunció violencia contra personas con VIH en las calles, en las redes sociales y en el entorno sanitario",
-        "Llamó a todas las personas con privilegios a hacerse visibles para apoyar al colectivo con VIH"
-      ],
-      "conclusion": "El mensaje subraya la persistencia del estigma laboral y social hacia personas con VIH, recordando a los directivos la necesidad de políticas inclusivas y de visibilidad para evitar discriminación en el trabajo."
-    },
-    {
-      "title": "\"Tenemos que prepararnos para los próximos meses\": el presidente de Microsoft alerta del riesgo de más caídas ligado a la IA",
-      "url": "https://www.xataka.com/seguridad/tenemos-que-prepararnos-para-proximos-meses-presidente-microsoft-alerta-riesgo-caidas-ligado-a-ia",
-      "image": "https://i.blogs.es/cd78f8/brad-smith-president-microsoft-/840_560.jpeg",
+      "title": "Se está agotando: Amazon revienta el precio del Google Pixel 11 a unas horas de que termine el Black Friday (y con 512 GB)",
+      "url": "https://www.xataka.com/seleccion/amazon-revienta-precio-google-pixel-11-a-unas-horas-que-termine-black-friday-512-gb-almacenamiento",
+      "image": "https://i.blogs.es/a22d59/pixel_02/840_560.jpeg",
       "source": "Xataka",
       "language": "es",
-      "que_paso": "Brad Smith, presidente de Microsoft, declaró en una entrevista con CBS News el 22 de noviembre que la incorporación de la IA a la ciberseguridad está generando una carrera entre defensores y atacantes, lo que obliga a prepararse para más interrupciones en los próximos meses. La advertencia surge tras la caída global de Microsoft 365 los días 12 y 13 de noviembre y el aumento de vulnerabilidades detectadas por herramientas de IA.",
+      "que_paso": "Amazon ha lanzado una oferta flash de último minuto en el Google Pixel 11 de 512 GB, reduciendo su precio a 685 €, justo antes de que finalice el Black Friday. La promoción está disponible solo en un color y con stock limitado, según la página de Amazon.",
       "datos": [
-        "Entrevista de Brad Smith emitida el 22 de noviembre en CBS News.",
-        "Microsoft 365 sufrió una caída global los 12 y 13 de noviembre de 2026.",
-        "Project Glasswing, iniciativa de Anthropic, encontró al menos 129 000 vulnerabilidades verificadas entre abril y julio de 2026 usando los modelos Claude Mythos.",
-        "Google reportó que las vulnerabilidades divulgadas mensualmente en el sistema CVE pasaron de 5 045 en enero a 10 740 en agosto de 2026.",
-        "En mayo de 2026 Anthropic recibió solicitudes de proyectos de código abierto para retrasar la comunicación de nuevos hallazgos y ganar tiempo para corregirlos."
+        "Precio mínimo histórico: 685 € para la versión de 512 GB.",
+        "Oferta disponible solo en un color y con unidades limitadas según Amazon.",
+        "Peso del dispositivo: 195 g; grosor: 7,6 mm.",
+        "Pantalla de 6,3 pulgadas, tasa de refresco 120 Hz y brillo pico de 3 000 nits.",
+        "Chip Tensor G6, 12 GB de RAM y garantía de actualizaciones durante siete años."
       ],
-      "conclusion": "El ritmo acelerado de descubrimiento de fallos impulsado por IA crea un cuello de botella en la corrección, lo que puede traducirse en más interrupciones de servicios críticos; las organizaciones deben reforzar sus procesos de parcheo para mitigar este riesgo."
+      "conclusion": "Para un gestor que valora datos concretos, la oferta representa una oportunidad de adquirir un móvil premium con gran capacidad de almacenamiento a un precio récord, pero la escasez de stock obliga a decidir rápidamente."
     },
     {
-      "title": "Netflix’s coziest show has made a very quiet return",
-      "url": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-26-at-3.34.34-PM.png?quality=90&strip=all&crop=0%2C3.2347601883764%2C100%2C93.530479623247&w=1200",
-      "source": "The Verge",
-      "language": "en",
-      "que_paso": "Netflix released the third season of Midnight Diner: Tokyo Stories, starring Kaoru Kobayashi as the diner’s master, after a seven‑year gap since season 2 aired in 2019; the new season debuted in October 2026 and is being rolled out weekly.",
-      "datos": [
-        "Season 2 of the Netflix iteration streamed in 2019.",
-        "Season 3’s first episode premiered in October 2026.",
-        "Episodes are released every Tuesday, with six of a planned ten episodes currently available.",
-        "The series originally ran three seasons on Japanese television before Netflix added more episodes.",
-        "The diner in the show is only open from midnight to 7:00 AM.",
-        "Netflix promoted the return only with a trailer on its Japanese YouTube channel."
-      ],
-      "conclusion": "The quiet, staggered rollout shows that even niche, high‑quality content can be overlooked without active discovery, underscoring the need for systematic monitoring of platform releases to capture valuable assets."
-    },
-    {
-      "title": "New Yorkers and Tourists Try to Salvage a Parade Day Postponed by Rain",
-      "url": "https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-day-parade-empty-streets.html",
-      "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26met-parade-empty1-vzwf/26met-parade-empty1-vzwf-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Strong wind and rain forced the cancellation of the Thanksgiving Day Parade in New York City on Thursday, November 26, 2026, preventing the traditional balloon displays from taking off. As a result, both residents and visiting tourists found the parade route largely empty.",
-      "datos": [
-        "The weather on Thursday, November 26, 2026, included wind speeds exceeding 20 mph and rain showers, according to the National Weather Service.",
-        "Macy's Thanksgiving Day Parade, which normally features over 20 giant helium balloons, was postponed for the first time since 2005.",
-        "The parade route runs along Central Park West, Columbus Circle, and Fifth Avenue, and those streets were reported as \"mostly deserted\" by NYPD.",
-        "Approximately 3.5 million spectators typically attend the live parade, but attendance dropped to under 100 000 on the day due to the weather.",
-        "Mayor Eric Adams issued a statement confirming the postponement and urging safety."
-      ],
-      "conclusion": "The disruption highlights the need for robust weather contingency plans for large public events, as operational delays can significantly affect city logistics and tourism revenue."
-    },
-    {
-      "title": "Burnt By The Sun Have Been In The Studio This Week",
-      "url": "https://www.theprp.com/2026/11/26/news/burnt-by-the-sun-have-been-in-the-studio-this-week/",
-      "image": "https://www.theprp.com/app/uploads/2026/11/burntbythesunlarge-1200x675.webp",
-      "source": "The PRP",
-      "language": "en",
-      "que_paso": "Burnt By The Sun, a mathcore/metalcore group, entered a recording studio in Atlanta this week to work on new material, focusing on demos rather than a full album. The session follows their return from a 15‑year hiatus earlier in 2026 and includes Mastodon guitarist Bill Kelliher as a new member.",
-      "datos": [
-        "Band spotted in an Atlanta, GA studio during the week of November 20‑26, 2026.",
-        "Burnt By The Sun ended a 15‑year hiatus that began in 2011.",
-        "The band announced a retooled lineup earlier in 2026.",
-        "Mastodon guitarist Bill Kelliher joined the group for the comeback.",
-        "Current studio work is described as demoing and writing, not recording a full album."
-      ],
-      "conclusion": "The activity signals a potential new release, so stakeholders should monitor for upcoming tour or album announcements that could affect licensing and merchandising opportunities."
-    },
-    {
-      "title": "Dan Carney Has Died. He Co-Founded Pizza Hut and Then Made It Ubiquitous.",
-      "url": "https://www.nytimes.com/2026/11/26/business/dan-carney-dead.html",
-      "image": "",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "Dan Carney, co‑founder of Pizza Hut, died on November 27, 2026. He built the chain from a modest brick hut in Kansas into the world’s largest pizza franchise within roughly ten years.",
-      "datos": [
-        "Dan Carney was 95 years old at the time of his death.",
-        "He co‑founded Pizza Hut.",
-        "The original Pizza Hut location was a tiny brick hut in Kansas.",
-        "Within a little more than a decade it became the world’s biggest pizza chain.",
-        "The brand is identified by its iconic red‑roof design."
-      ],
-      "conclusion": "His death highlights how rapid, disciplined scaling can turn a small operation into a global leader, offering a clear lesson for managers about the power of replicable processes and strong brand identity."
-    },
-    {
-      "title": "Macy’s Thanksgiving Day Parade Upends Plans and Adds Costs for Marching Bands",
-      "url": "https://www.nytimes.com/2026/11/25/nyregion/macys-thanksgiving-day-parade-marching-bands.html",
-      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25parade-live-marching-band-gfqm/25parade-live-marching-band-gfqm-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "language": "en",
-      "que_paso": "The Macy’s Thanksgiving Day Parade was shifted from its traditional Thursday Thanksgiving slot to Saturday, forcing the nine scheduled marching bands to adjust their plans. The schedule change introduced new logistical hurdles and additional expenses for the ensembles.",
-      "datos": [
-        "Nine marching bands were slated to perform in the parade.",
-        "The parade’s date was moved from Thanksgiving Day to the following Saturday.",
-        "The rescheduling created new logistical challenges for the participating bands.",
-        "The change resulted in added costs for the marching bands."
-      ],
-      "conclusion": "This illustrates how even a single scheduling shift can generate operational complications and budget impacts for external partners, a caution for managers planning large‑scale events."
-    },
-    {
-      "title": "Faith No More, Tame Impala, The Strokes y Kneecap encabezan el cartel del Mad Cool 2027",
-      "url": "https://www.eldiario.es/cultura/musica/faith-no-more-tame-impala-the-strokes-kneecap-encabezan-cartel-mad-cool-2027_1_13697334.html",
-      "image": "https://static.eldiario.es/clip/bb08a657-e7c1-4fad-98bd-0cdd5d8ca306_facebook-aspect-ratio-1200-675_default_0_x2787y501.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "que_paso": "Mad Cool reveló el programa del festival 2027, confirmando fechas, artistas principales y condiciones de venta de entradas. El anuncio incluye cambios de patrocinio y de formato de gradas, y detalla la disponibilidad de preventa para socios.",
-      "datos": [
-        "El festival se celebrará del 7 al 10 de julio de 2027 en Iberdrola Music, Villaverde.",
-        "Faith No More actuará el 7 de julio, fecha exclusiva en España.",
-        "El precio de la entrada del 7 de julio es 99 €, más gastos de distribución.",
-        "El abono de tres días cuesta 230 €, más gastos de distribución.",
-        "La venta de entradas comienza el 2 de diciembre a las 10:00, con preventa para socios el día anterior.",
-        "Zurich será el nuevo patrocinador oficial y se introducirá un nuevo formato de gradas inspirado en la producción de Shakira."
-      ],
-      "conclusion": "El anuncio anticipa una fuerte demanda y una estrategia de ingresos diversificada mediante precios diferenciados y patrocinio, lo que implica oportunidades y retos logísticos para la organización del evento."
-    },
-    {
-      "title": "Extermination Dismemberment Premiere “Death Itself” Music Video",
-      "url": "https://www.theprp.com/2026/11/26/news/extermination-dismemberment-premiere-death-itself-music-video/",
-      "image": "https://www.theprp.com/app/uploads/2026/03/exterminationdismemberment2026large-1200x675.webp",
-      "source": "The PRP",
-      "language": "en",
-      "que_paso": "Belarusian slam band Extermination Dismemberment released the single “Death Itself” and launched its music video, announcing a European and UK tour where they will open for Mental Cruelty and Ov Sulfur.",
-      "datos": [
-        "Band: Extermination Dismemberment, a Belarusian slam group.",
-        "Single title: “Death Itself”.",
-        "Tour kickoff date: 27 November 2026 in Rotterdam, Netherlands at Baroeg.",
-        "Tour spans 24 dates across 12 countries, ending 20 December 2026 in Karlsruhe, Germany.",
-        "They are opening for the bands Mental Cruelty and Ov Sulfur."
-      ],
-      "conclusion": "The release and extensive tour give the band a platform to reach a wider European audience, potentially boosting their profile in the metal scene and generating revenue from a 24‑show circuit."
-    },
-    {
-      "title": "The Garmin Forerunner 265S is down to $300, its best price of the year",
-      "url": "https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24483620/236554_Garmin_Forerunner_265S_AKrales_0072.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "language": "en",
-      "que_paso": "Garmin has slashed the price of its Forerunner 265S to $299.99 for Black Friday, a $150 reduction from the original MSRP, and the deal is being offered through Amazon and Best Buy. The watch, a smaller 42 mm version of the standard 265, is positioned as a budget‑friendly option for runners with petite wrists.",
-      "datos": [
-        "$299.99 sale price on Black Friday.",
-        "$150 discount from the original MSRP.",
-        "The Forerunner 265S has a 42 mm case size.",
-        "It is sold by Amazon and Best Buy.",
-        "The model shares all features with the standard 265 but offers slightly longer battery life.",
-        "Garmin typically provides firmware updates for several years after launch."
-      ],
-      "conclusion": "The steep discount makes a premium fitness tracker affordable for users who need reliable data without paying for extra features, allowing quicker adoption in personal health monitoring or team performance programs."
-    },
-    {
-      "title": "Los sindicatos temen un cierre exprés de Plus Ultra ante las dificultades para encontrar un comprador",
-      "url": "https://cincodias.elpais.com/companias/2026-11-26/los-sindicatos-temen-un-cierre-expres-de-plus-ultra-ante-las-dificultades-para-encontrar-un-comprador.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/YD6DOJOKGFD47HQ7KNHTLCSJ2M.JPG?auth=06d2f213057bc8d9427a23f9c70248027dde145a7a490e86e4b9e3c8621795b6&width=1200",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "El comité de empresa de Plus Ultra rechazó negociar los términos del ajuste de empleo mientras la aerolínea permanece sin actividad y al borde de la quiebra. Los sindicatos Sepla, Sitcpla y USO exigieron mayor información sobre el préstamo público y la intervención de la Inspección de Trabajo, y la compañía sigue sin encontrar comprador.",
-      "datos": [
-        "La plantilla de Plus Ultra consta de 659 empleados",
-        "La SEPI prestó 53 millones de euros a la compañía en 2021",
-        "Se concedió un crédito ordinario de 19 millones de euros el 18 de marzo de 2021, con aplazamiento de amortización en marzo",
-        "Un préstamo participativo de 34 millones de euros vence en agosto de 2028",
-        "Para obtener el apoyo financiero la empresa puso en prenda el 51 % de su capital",
-        "Se cerraron las rutas Madrid‑Caracas, Madrid‑Lima y Madrid‑Buenos Aires"
-      ],
-      "conclusion": ""
-    },
-    {
-      "title": "Almodóvar, Rosa Montero y Bardem: más de 130 personalidades de la cultura respaldan la huelga educativa en Madrid",
-      "url": "https://www.eldiario.es/sociedad/almodovar-rosa-montero-bardem-130-personalidades-cultura-respaldan-huelga-educativa-madrid_1_13695615.html",
-      "image": "https://static.eldiario.es/clip/ebb4579f-2678-4fc8-8fb2-adf030af50e9_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "que_paso": "El profesorado de Madrid lleva siete semanas en huelga y ha recibido el apoyo de más de 130 figuras del mundo cultural, entre ellas Javier Bardem, Rosa Montero y Pedro Almodóvar, que firmaron un manifiesto impulsado por el docente José Antonio López García. Paralelamente, actores como Antonio Resines y Aitana Sánchez Gijón grabaron videos para el CEIP Nuestra Señora de la Paloma, que recientemente se enfrentó a la inspección educativa por cintas verdes colocadas por familias.",
-      "datos": [
-        "Más de 130 personalidades de la cultura han firmado el manifiesto",
-        "La huelga educativa en Madrid lleva siete semanas en curso",
-        "El CEIP Nuestra Señora de la Paloma recibió dos videos difundidos por Instagram",
-        "La inspección educativa solicitó la retirada de cintas verdes la semana pasada y la dirección se negó",
-        "El manifiesto fue coordinado por el profesor José Antonio López García, quien contactó a Marta Sanz y Antonio Muñoz Molina",
-        "El columnista Jaime Rodríguez escribió en El Mundo una crítica comparando la medida con la uniformidad de Berlín en 1938"
-      ],
-      "conclusion": "El amplio respaldo cultural intensifica la presión pública sobre la administración madrileña, lo que podría acelerar negociaciones y afectar la planificación operativa de instituciones vinculadas a la educación."
-    },
-    {
-      "title": "The \"Mother's Day Event\" Of 2024 Left Earth With Two Extra Van Allen Radiation Belts, And They Stuck Around For Over A Month",
-      "url": "https://www.iflscience.com/the-mothers-day-event-of-2024-left-earth-with-two-extra-van-allen-radiation-belts-and-they-stuck-around-for-over-a-month-85281",
-      "image": "https://assets.iflscience.com/assets/articleNo/85281/aImg/93756/van-allen-belts-l.png",
-      "source": "IFLScience",
-      "language": "en",
-      "que_paso": "In May 2024, a geomagnetic disturbance known as the Mother’s Day Event generated two additional Van Allen radiation belts around Earth. The belts were linked to the solar storm dubbed the Gannon Storm and were tracked by space‑weather agencies for more than a month.",
-      "datos": [
-        "Earth normally possesses two Van Allen radiation belts.",
-        "The Mother’s Day Event occurred on 12 May 2024.",
-        "The associated solar disturbance is called the Gannon Storm.",
-        "Two extra radiation belts were detected and persisted for over 30 days.",
-        "NASA and ESA reported the observations using satellite instruments."
-      ],
-      "conclusion": "The temporary expansion of Earth’s radiation belts shows that solar storms can rapidly alter the near‑Earth environment, requiring updated risk assessments for satellites and crewed missions."
-    },
-    {
-      "title": "Una pareja denuncia una agresión homófoba y un robo en Zaragoza: \"Queremos vivir sin miedo\"",
-      "url": "https://www.eldiario.es/aragon/sociedad/pareja-denuncia-agresion-homofoba-robo-zaragoza-queremos-vivir-miedo_1_13696799.html",
-      "image": "https://static.eldiario.es/clip/8a32242c-7d5a-4a23-9348-d4582a9e8a76_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "que_paso": "Una pareja fue agredida y asaltada en la madrugada del domingo en la zona de la Seo de Zaragoza, cerca de la plaza del Pilar, recibiendo insultos homófobos durante el robo. La Policía Nacional detuvo a una persona y la Fiscalía de Delitos de Odio está evaluando si el hecho constituye un delito de odio.",
-      "datos": [
-        "El ataque ocurrió en la madrugada del domingo 24 de noviembre de 2026 en las inmediaciones de la Seo de Zaragoza, cerca de la plaza del Pilar.",
-        "La Policía Nacional detuvo a una persona esa misma madrugada por presunto robo con violencia.",
-        "Las víctimas denunciaron insultos homófobos y la Fiscalía de Delitos de Odio está investigando la posible motivación de odio.",
-        "Una de las víctimas estuvo hospitalizada dos días a causa de sus lesiones.",
-        "La asociación Somos LGTB+ de Aragón pidió al Gobierno de Aragón financiación estable y mayor apoyo psicológico, social y jurídico para víctimas LGTBI."
-      ],
-      "conclusion": "El caso evidencia la vulnerabilidad de personas LGTBI ante crímenes de odio y la urgencia de reforzar recursos y protección en Aragón para prevenir y atender este tipo de agresiones."
-    },
-    {
-      "title": "Android app developers will soon have to share their address publicly",
-      "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007893/acastro_STK112_android_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "language": "en",
-      "que_paso": "Google announced that, to comply with new EU and UK regulations, Android app developers must publicly disclose their business address by early 2027. Apple is taking a different route, limiting address visibility to European users and allowing verified PO‑box addresses. Developers must decide by 1 Feb 2027 whether they qualify as a “trader” under the law.",
-      "datos": [
-        "Developers must declare trader status by 1 February 2027 under UK and EU law.",
-        "Google defines a trader as any developer earning regular or high‑volume revenue from apps.",
-        "Exemptions apply to hobbyist or non‑commercial apps and to apps not distributed in the UK or Europe.",
-        "Apple will display developer addresses only within the European countries where the app is offered.",
-        "Apple permits PO‑box addresses if a receipt or bill linking the box to a regular address is provided.",
-        "An update on 26 November 2026 added that developers may use a registered‑agent service for a business address."
-      ],
-      "conclusion": "The rule adds compliance and privacy considerations for Android developers, potentially raising administrative costs, while Apple’s more limited exposure offers a less intrusive alternative. Operations teams should plan for address verification or registered‑agent services to meet the February 2027 deadline without exposing full contact details globally."
-    },
-    {
-      "title": "Guía para entender la izquierda a la izquierda del PSOE",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-26/guia-para-entender-la-izquierda-a-la-izquierda-del-psoe.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ADPCLNV5GVA2RAZHYWKHTMKWAA.jpg?auth=15d7ac0f4b4676cb7214df6bd2b9412e3aef3f838c999ede5f18ee8ad5f9da40",
-      "source": "El País",
-      "language": "es",
-      "que_paso": "El politólogo Pablo Simón muestra, mediante un recorrido visual, las distintas formaciones que se sitúan a la izquierda del PSOE, iniciando con la irrupción de Podemos en 2015 y finalizando con la aparición de Frente Amplio.",
-      "datos": [
-        "Podemos entró al Congreso en 2015 con 69 escaños",
-        "Frente Amplio se constituyó como coalición en 2023",
-        "Pablo Simón es politólogo español especializado en la izquierda española",
-        "El recorrido visual abarca el periodo 2015‑2026",
-        "El PSOE se posiciona como partido centrista dentro del espectro político español",
-        "La guía se publicó en noviembre de 2026"
-      ],
-      "conclusion": "Conocer la fragmentación de la izquierda permite anticipar alianzas y estrategias electorales, información útil para la planificación operativa y la toma de decisiones estratégicas en el ámbito empresarial."
-    },
-    {
-      "title": "Preservar y reforzar la trayectoria",
-      "url": "https://www.eldiario.es/opinion/tribuna-abierta/preservar-reforzar-trayectoria_129_13696565.html",
-      "image": "https://static.eldiario.es/clip/c5870d8e-003b-4e40-a400-17ef01604298_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "source": "elDiario.es",
-      "language": "es",
-      "que_paso": "El crecimiento económico de España después de la pandemia ha generado mejoras en el nivel de vida de los hogares, aunque de forma desigual, según los últimos indicadores del CIS y del INE. Se observan aumentos de empleo y de renta disponible, pero un segmento de la población sigue percibiendo su situación económica como mala.",
-      "datos": [
-        "España cuenta con 3,3 millones de empleos más que en 2018.",
-        "La renta neta disponible per cápita creció un 8,7 % ajustada por inflación y impuestos.",
-        "El índice de Gini se redujo en 2,4 puntos.",
-        "El porcentaje de personas que califican su situación económica como buena o muy buena subió de 54,4 % a 68,4 % entre mediados de 2020 y la actualidad.",
-        "Los hogares con dificultades para llegar a fin de mes disminuyeron 9,3 puntos entre 2018 y 2025.",
-        "El número de adultos en edad de trabajar en hogares con muy baja intensidad laboral pasó del 10,2 % al 7,5 % entre 2018 y 2024."
-      ],
-      "conclusion": "Los datos confirman que la expansión macroeconómica está repercutiendo positivamente en la mayoría de los hogares, pero la persistencia de una brecha significativa sugiere que las políticas deben focalizarse en los segmentos más vulnerables para consolidar el crecimiento del consumo."
-    },
-    {
-      "title": "Irán asegura que su desarrollo nuclear es \"imparable\"",
-      "url": "https://www.europapress.es/internacional/noticia-iran-asegura-desarrollo-nuclear-imparable-20261126172710.html",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261126172710_1200.jpg",
-      "source": "Europa Press Tecnología",
-      "language": "es",
-      "que_paso": "El director del Organismo para la Energía Atómica de Irán, Mohamed Eslami, anunció desde el centro de radiación nuclear de Rasht que la actividad nuclear del país se reanudó este jueves, subrayando que su desarrollo es irreversible. La declaración se produce en medio de crecientes tensiones con Estados Unidos y la UE sobre el programa nuclear iraní.",
-      "datos": [
-        "Mohamed Eslami es jefe del OEAI",
-        "El anuncio se realizó en el centro de radiación nuclear de Rasht",
-        "La actividad nuclear se inició el jueves (27 de noviembre de 2026)",
-        "Eslami describió el desarrollo nuclear iraní como \"imparable\""
-      ],
-      "conclusion": "Este pronunciamiento refuerza la postura de Irán de continuar su programa nuclear pese a la presión internacional, lo que implica que los responsables de operaciones deberán vigilar posibles repercusiones regulatorias y de suministro."
-    },
-    {
-      "title": "Rather Than Harming Ecosystems, Hum Generated By Offshore Wind Farms Might Boost Phytoplankton Growth Up To 5 Times",
-      "url": "https://www.iflscience.com/rather-than-harming-ecosystems-hum-generated-by-offshore-wind-farms-might-boost-phytoplankton-growth-up-to-5-times-85293",
-      "image": "https://assets.iflscience.com/assets/articleNo/85293/aImg/93783/offshore-wind-l.jpg",
-      "source": "IFLScience",
-      "language": "en",
-      "que_paso": "Scientists studied the low‑frequency hum produced by offshore wind turbines and measured its effect on nearby phytoplankton, finding a marked increase in growth. The finding challenges the usual assumption that turbine noise is detrimental to marine ecosystems.",
-      "datos": [
-        "Offshore wind turbines generate a continuous low‑frequency acoustic hum.",
-        "Phytoplankton growth rates near the turbines were reported to be up to five times higher than in control areas.",
-        "The observation comes from a recent scientific study examining turbine‑induced noise effects.",
-        "The researchers concluded that the hum acted as a growth stimulant rather than a stressor for the phytoplankton."
-      ],
-      "conclusion": "If turbine noise can boost primary production, offshore wind projects may deliver unexpected ecological benefits, suggesting operators should factor acoustic impacts into environmental assessments."
-    },
-    {
-      "title": "Acaba el Black November de AEG, pero estos cuatro chollos siguen disponibles: tenemos un horno, una lavadora con eficiencia A y más",
-      "url": "https://www.xataka.com/seleccion/acaba-black-november-aeg-estos-cuatro-chollos-siguen-disponibles-tenemos-horno-lavadora-eficiencia-a",
-      "image": "https://i.blogs.es/0ba516/black-november-aeg/840_560.jpeg",
+      "title": "MediaMarkt está liquidando esta tele LG de 65 pulgadas con nano definición: cuesta menos de 400 euros",
+      "url": "https://www.xataka.com/seleccion/mediamarkt-esta-liquidando-esta-tele-lg-65-pulgadas-nano-definicion-cuesta-400-euros",
+      "image": "https://i.blogs.es/02832d/teles-mediamarkt-2-/840_560.jpeg",
       "source": "Xataka",
       "language": "es",
-      "que_paso": "AEG amplió su campaña de Black Friday a un mes completo llamado Black November, ofreciendo descuentos en varios electrodomésticos hasta el 1 de diciembre y añadiendo un código promocional para rebajar aún más los precios.",
+      "que_paso": "MediaMarkt ha reducido a 399 € la TV LG de 65 pulgadas modelo 65NU850B6LA, que normalmente cuesta 699 €, como parte de sus ofertas exprés de Black Friday. La promoción incluye la TV con resolución 4K UHD, procesador α7 AI Processor 4K Gen9 y funcionalidades de gaming como VRR de 60 Hz.",
       "datos": [
-        "El código promocional es “AEGXATAKA15”.",
-        "La oferta finaliza el 1 de diciembre de 2026.",
-        "El aspirador sin cable 6000 pasa de 139 € a 118,15 € con el código.",
-        "La lavadora Serie 6000 queda en 373,15 € usando el mismo código.",
-        "La lavadora tiene 9 kg de capacidad y clasificación energética A.",
-        "El horno Serie 6000 SenseCook con SteamCrisp se vende a 424,15 € con el código."
+        "Precio de liquidación: 399 €, frente al precio habitual de 699 €.",
+        "Modelo: LG 65NU850B6LA, pantalla LED de 65 pulgadas, resolución 4K UHD.",
+        "Procesador: α7 AI Processor 4K Gen9 con mapeo dinámico de tonos en 2 040 zonas.",
+        "Compatibilidad HDR: HDR10 Pro y HLG.",
+        "Funciones de juego: VRR hasta 60 Hz, ALLM y modo HGiG, acceso a GeForce NOW y Xbox Cloud Gaming.",
+        "Sistema operativo: webOS 26, con soporte de actualización hasta webOS 30."
       ],
-      "conclusion": "Aprovechar estas rebajas permite equipar operaciones con equipos de alta eficiencia energética a menor coste, lo que puede traducirse en ahorro de energía y mejora de la productividad."
+      "conclusion": "Para un consumidor con presupuesto limitado, la oferta permite adquirir una TV de gran tamaño y características avanzadas a mitad de precio, pero la disponibilidad limitada sugiere comprar pronto."
+    },
+    {
+      "title": "Best CurrentBody Black Friday Deals (2026): 20% Off LED Masks and More",
+      "url": "https://www.wired.com/story/currentbody-black-friday-deals-11-27-2026/",
+      "image": "https://media.wired.com/photos/6920afe3ed8e2a8960c3319b/191:100/w_1280,c_limit/The%20Best%20Red%20Light%20Therapy%20Mask%20You%20Can%20Buy%20Is%20Currently%20on%20Sale.png",
+      "source": "Wired",
+      "language": "en",
+      "que_paso": "CurrentBody has opened its Black Friday promotion, running through December 8, 2026, with most of its beauty‑tech devices priced 20% lower than usual. The sale highlights the upgraded Series 3 LED face mask and the Bluetooth‑enabled LED Hair Growth Helmet, both of which the brand positions as top‑tier home‑care solutions. The article notes positive user feedback from a WIRED review during the discount period.",
+      "datos": [
+        "The promotion runs until December 8, 2026 and offers a 20% discount on most CurrentBody products.",
+        "Series 3 mask adds three wavelengths: blue (415 nm), green (532 nm), and yellow (590 nm).",
+        "LED count in the Series 3 mask rises from 236 to 750 bulbs, with irradiance of 40 mW/cm².",
+        "The Hair Growth Helmet is cordless, Bluetooth‑enabled, comes in two sizes, and is used 10 minutes per day.",
+        "WIRED reviewer Molly Higgins and her roommate reported visible hair improvements after 12 weeks of daily use."
+      ],
+      "conclusion": "The discount makes premium LED skincare and hair‑growth devices financially accessible, offering a practical opportunity for personal or corporate wellness investments while showcasing CurrentBody’s aggressive pricing to capture market share."
+    },
+    {
+      "title": "Gloria Vilches: “El cinema d’Óliver Laxe, Carla Simón o Albert Serra es nodreix de l’experimental”",
+      "url": "https://elpais.com/quadern/cinema-i-televisio/2026-11-27/gloria-vilches-el-cinema-doliver-laxe-carla-simon-o-albert-serra-es-nodreix-de-lexperimental.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/BRT4RHUX45ERHGZJLWNUPKBXOQ.JPG?auth=53d145541cf6f7222b5b68f6b9567bcc12b7de06d1518540597016f3619e5ea2",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "La coordinadora del ciclo Xcèntric, Gloria Vilches, señaló que los barceloneses desconocen el archivo que el programa ofrece, mientras el ciclo celebra su 25.º aniversario en el CCCB. Su comentario se centró en la falta de visibilidad del cine experimental de directores como Oliver Laxe, Carla Simón y Albert Serra.",
+      "datos": [
+        "El Xcèntric, ciclo de proyecciones regular del CCCB, celebra su 25.º aniversario.",
+        "Gloria Vilches, coordinadora del Xcèntric, afirmó que los barceloneses desconocen el archivo que el ciclo ofrece.",
+        "En su intervención menciona a los directores Oliver Laxe, Carla Simón y Albert Serra como ejemplos de cine experimental.",
+        "El CCCB (Centre de Cultura Contemporània de Barcelona) alberga el archivo de proyecciones del Xcèntric.",
+        "El ciclo se lleva a cabo de forma continua en Barcelona y está dedicado a la difusión de cine experimental."
+      ],
+      "conclusion": "El desconocimiento del archivo limita la difusión del cine experimental; impulsar su visibilidad puede enriquecer la oferta cultural de Barcelona y apoyar a los creadores de este género."
+    },
+    {
+      "title": "The best Black Friday deals Ars could find",
+      "url": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/black_friday_matrix-1152x648-1795796083.jpg",
+      "source": "Ars Technica",
+      "language": "en",
+      "que_paso": "The article uses a Transformers-themed narrative to introduce a curated list of Black Friday discounts, noting that the pricing is current as of the story’s publication time. It ties the holiday shopping day to a fictional recount of Optimus Prime’s battle and signals an upcoming Cyber Monday sales push.",
+      "datos": [
+        "The fictional \"Great Decepticon Incursion\" is dated 2005 in the article’s backstory",
+        "Black Friday is defined as the Friday after Thanksgiving in the United States",
+        "The pricing information was last refreshed at 16:53 US Eastern Time on the day of publication",
+        "Ars Technica discloses that it may earn compensation from affiliate links in the post",
+        "The article references an upcoming \"Cyber Monday\" sales event",
+        "It suggests readers consult Wired for a longer list of Black Friday deals"
+      ],
+      "conclusion": "The piece blends pop‑culture storytelling with commercial intent, reminding the reader that the deals are time‑sensitive and that the site may profit from affiliate sales, so the practical takeaway is to act quickly on the listed offers."
+    },
+    {
+      "title": "Alemania aprueba el mayor gasto en defensa desde la Guerra Fría tras una dura batalla de Merz con los socialdemócratas",
+      "url": "https://elpais.com/internacional/2026-11-27/alemania-aprueba-el-mayor-presupuesto-de-su-historia-tras-una-dura-batalla-de-merz-con-los-socialdemocratas.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/G2P5RWDAGVMV7BBR5HK4RUZJ2I.jpg?auth=3d0cf9328045c54b75575250cd9bf850c7c3413d371c5fb7cd4e3fc5a7d98d77",
+      "source": "El País",
+      "language": "es",
+      "que_paso": "Alemania aprobó un presupuesto de defensa que supera cualquier cifra desde la Guerra Fría, tras una intensa confrontación interna entre Friedrich Merz y los socialdemócratas. El canciller, en medio del conflicto en Ucrania y la creciente amenaza rusa, enfatizó la necesidad de que el país pueda defenderse sin depender de terceros.",
+      "datos": [
+        "El gasto en defensa aprobado es el más alto desde la época de la Guerra Fría.",
+        "La aprobación se consiguió tras una dura batalla política entre Friedrich Merz y los socialdemócratas.",
+        "El canciller (Olaf Scholz) subrayó la necesidad de defensa autónoma sin ayuda externa.",
+        "La decisión se contextualiza en la guerra en Ucrania y la percibida amenaza creciente de Rusia.",
+        "Los presupuestos reflejan la intención de que Alemania pueda defenderse sin ayuda de terceros."
+      ],
+      "conclusion": "Este aumento histórico de gasto indica un giro estratégico hacia la autosuficiencia militar, lo que afectará tanto la planificación operativa como las oportunidades de negocio en el sector de defensa."
+    },
+    {
+      "title": "La calidad/precio no era solo una guerra de especificaciones. Nothing acaba de ganar con un móvil que reivindica algo más",
+      "url": "https://www.xataka.com/moviles/calidad-precio-no-era-solo-guerra-especificaciones-nothing-acaba-ganar-movil-que-reivindica-algo",
+      "image": "https://i.blogs.es/8d82b4/portada-premio-mejor-movil-calidad-precio/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "El analista probó el Nothing Phone (4a) Pro y constató que, pese a un diseño distintivo y especificaciones competitivas, su precio ha subido considerablemente desde su lanzamiento, aunque sigue siendo considerado una opción equilibrada que le valió el premio Xataka Verisure 2026.",
+      "datos": [
+        "Nothing Phone (4a) Pro fue galardonado en los Premios Xataka Verisure 2026.",
+        "El modelo se lanzó con un precio de 429 €, y a la fecha supera los 600 € en su versión estándar.",
+        "La variante de 12 GB RAM y 256 GB almacenamiento se ofertó por 549 €.",
+        "Incluye cámara triple de 50 MP con zoom ultra de 140×, pantalla AMOLED de 144 Hz y carga rápida de 50 W.",
+        "Cuenta con un chasis unibody de metal y la Glyph Matrix de 137 miniLED.",
+        "La crisis de la memoria RAM ha dificultado encontrar smartphones por debajo de 300 €."
+      ],
+      "conclusion": "Demuestra que un smartphone de gama media puede rivalizar con dispositivos mucho más caros mediante diseño y especificaciones bien equilibradas, ofreciendo a los gestores una alternativa rentable sin sacrificar experiencia."
+    },
+    {
+      "title": "Qué sabemos de los sobres de propaganda del PP de Pontevedra en cuya papeleta del Senado vienen supuestamente marcados los candidatos del PSOE",
+      "url": "https://maldita.es/desinfo/20261127/dentro-de-los-sobres-del-pp-viene-la-papeleta-marcada-en-los-candidatos-del-psoe/",
+      "image": "https://maldita.es/system/articles/26042/image",
+      "source": "Maldita.es",
+      "language": "es",
+      "que_paso": "La Junta Electoral de Zona de Pontevedra respondió a la consulta de Maldita.es aclarando que los sobres de propaganda del Partido Popular no incluyen papeletas del Senado marcadas con los candidatos de la coalición del PSOE. Además, explicó que esas papeletas forman parte de la propaganda postal de los partidos y no del voto por correo, y recordó que los electores pueden usar cualquier papeleta el día de la votación.",
+      "datos": [
+        "La Junta Electoral de Zona de Pontevedra respondió a Maldita.es el 27 de noviembre de 2026.",
+        "Aseguró que no tiene constancia de que los sobres de propaganda del PP contengan papeletas del Senado marcadas con candidatos de ‘Senado de Progreso’.",
+        "Indicó que esas papeletas “no son las oficiales” y forman parte de la propaganda postal de los partidos, no del voto por correo.",
+        "La jornada electoral está prevista para el 29 de noviembre de 2026, y los votantes podrán encontrar papeletas sin marcar en los colegios electorales.",
+        "Las personas que solicitaron voto por correo recibieron papeletas sin marcar de las Delegaciones Provinciales de la Oficina del Censo Electoral.",
+        "Maldita.es no ha recibido respuesta del Partido Popular nacional ni del PP de Pontevedra hasta el 27 de noviembre de 2026."
+      ],
+      "conclusion": "La aclaración oficial desmonta la sospecha de un posible pucherazo y recuerda a los votantes que pueden usar cualquier papeleta, lo que refuerza la transparencia del proceso electoral."
+    },
+    {
+      "title": "Apple Black Friday Deals (2026): AirPods, iPads, MacBooks, and More",
+      "url": "https://www.wired.com/story/black-friday-apple-deals-11-27-2026/",
+      "image": "https://media.wired.com/photos/6ac507aafaca1c452d82d6a4/191:100/w_1280,c_limit/Amazon%20Prime%20Day%20Top%20Art%20102026%20Standalone%20Apple%20AirPods%20Max%202%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
+      "source": "Wired",
+      "language": "en",
+      "que_paso": "WIRED compiled a Black Friday 2026 roundup of Apple product discounts, detailing price cuts on AirPods Pro 3, AirPods Max 2, MacBooks, iPads and accessories. The piece was assembled by the WIRED Reviews team and includes a comment from editor Luke Larsen. It aims to guide shoppers toward the lowest‑price Apple items of the year.",
+      "datos": [
+        "AirPods Pro 3 are listed as being on sale for the first time this Black Friday",
+        "MacBook price reduced by $250 for Black Friday",
+        "MacBook Neo discounted by $50 for Black Friday",
+        "A single Apple AirTag is offered for under $20",
+        "WIRED Reviews staff hand‑tested and hand‑checked every price before publishing",
+        "Luke Larsen described the discounted MacBook as “unbeatable”"
+      ],
+      "conclusion": "The deep discounts provide a timely chance to equip teams with Apple hardware at reduced cost, improving operational capability while preserving budget."
+    },
+    {
+      "title": "Las mejores ofertas en móviles de este final de Black Friday: tenemos de todas las gamas de marcas como Samsung, Google y más",
+      "url": "https://www.xataka.com/seleccion/mejores-ofertas-moviles-este-final-black-friday-tenemos-todas-gamas-marcas-como-samsung-google",
+      "image": "https://i.blogs.es/41a421/mejores-ofertas-moviles-black-friday/840_560.jpeg",
+      "source": "Xataka",
+      "language": "es",
+      "que_paso": "Durante el cierre del Black Friday, varios minoristas, entre ellos MediaMarkt, publicaron ofertas en smartphones de distintas gamas, destacando modelos de Google, Apple, Samsung y Xiaomi, con descuentos significativos respecto a sus precios habituales. Estas promociones buscan captar la última oleada de compradores antes de que termine la temporada de rebajas.",
+      "datos": [
+        "El iPhone Air está disponible en MediaMarkt por 799 euros.",
+        "El Google Pixel 11 Pro XL, con pantalla de 6,8 pulgadas y chip Tensor G6, tiene un precio mínimo histórico de 949,05 euros al usar el cupón 'PIXELEXTRA5' en MediaMarkt.",
+        "El Google Pixel 11 de 512 GB se vende por 685 euros.",
+        "El Samsung Galaxy S25, con Snapdragon 8 Elite y 12 GB de RAM, cuesta 474,05 euros en MediaMarkt.",
+        "El Xiaomi 18 Pro de 512 GB, con cámara dual de 200 MP y batería de 6 000 mAh, tiene un precio de 1.349 euros, su mínimo histórico.",
+        "El Pixel 11 ofrece un brillo máximo de 3.000 nits."
+      ],
+      "conclusion": "Estas rebajas permiten a los gestores de operaciones equipar a sus equipos con dispositivos de alta capacidad a precios reducidos, lo que puede traducirse en mayor productividad y ahorro presupuestario antes de que finalice la temporada de ofertas."
     }
   ]
 }
